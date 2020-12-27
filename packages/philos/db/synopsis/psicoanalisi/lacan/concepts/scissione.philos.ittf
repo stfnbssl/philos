@@ -1,0 +1,14 @@
+$group
+
+    namespace lacan
+
+        concept scissione
+            alias Spaltung
+
+            quote
+                + Nell’inconscio che non è tanto profondo 
+                    \b quanto piuttosto inaccessibile all’approfondimento cosciente, 
+                    \b c’è chi parla, ça parle: 
+                    \b un soggetto nel soggetto, trascendente il soggetto...
+                page 437
+                book lacan.scritti-1

@@ -1,0 +1,16 @@
+$group
+
+    namespace freud
+
+        concept attenzione
+            quote
+                + Viene istituita una funzione particolare per esplorare periodicamente la realtà esterna, 
+                    \b così che i dati di questa siano già noti quando si produca un incontenibile bisogno interiore, 
+                    \b e cioè la funzione dell’attenzione. 
+                    \b Questa attività va incontro alle impressioni sensoriali, 
+                    \b anziché attendere la loro comparsa. 
+                    \b Probabilmente si è contemporaneamente instaurato un sistema di annotazione, 
+                    \b il cui compito è quello di depositare i dati di questa periodica attività di coscienza: 
+                    \b una parte di ciò che noi chiamiamo memoria.
+                kindle-loc 52818-52823
+                article freud.precisazione-sui-due-principi-dell-accadere-psichico

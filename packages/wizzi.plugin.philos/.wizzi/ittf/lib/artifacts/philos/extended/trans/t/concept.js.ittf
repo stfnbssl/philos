@@ -1,0 +1,153 @@
+$group
+
+    set functors.concept
+        function
+            param parent
+            param resultObj
+            var conceptObj = createConcept(parent.wzName, "concept")
+            var newitems = fillConcept(parent, resultObj, conceptObj)
+            _ resultObj.concepts.push
+                @ conceptObj
+            foreach child in newitems
+                _ doitem
+                    @ child
+                    @ resultObj
+    
+    function getConcept
+        param resultObj
+        param kind
+        param id
+        if kind == 'field'
+            foreach item in resultObj.fields
+                if item.id == id
+                    return item
+        elif kind == 'approach'
+            foreach item in resultObj.approaches
+                if item.id == id
+                    return item
+        elif kind == 'theory'
+            foreach item in resultObj.theories
+                if item.id == id
+                    return item
+        elif kind == 'concept'
+            foreach item in resultObj.concepts
+                if item.id == id
+                    return item
+        return null
+
+    function getOrCreateConcept
+        param resultObj
+        param kind
+        param id
+        var conceptObj 
+            _ getConcept
+                @ resultObj
+                @ kind
+                @ id
+        if conceptObj
+            return conceptObj
+        set conceptObj
+            _ createConcept
+                @ id
+                @ kind
+        if kind == 'field'
+            _ resultObj.fields.push
+                @ conceptObj
+        elif kind == 'approach'
+            _ resultObj.approaches.push
+                @ conceptObj
+        elif kind == 'theory'
+            _ result.theories.push
+                @ conceptObj
+        elif kind == 'concept'
+            _ resultObj.concepts.push
+                @ conceptObj
+        return conceptObj
+
+    function createConcept
+        param id
+        param kind
+        return
+            {
+                @ kind kind
+                @ id id
+                [ founders
+                [ contributors
+                [ contributiontos
+                [ forerunnersof
+                [ relatedtos
+                [ contents
+
+    function clearConcept
+        param conceptObj
+        if conceptObj.founders.length == 0
+            delete conceptObj.founders
+        if conceptObj.contributors.length == 0
+            delete conceptObj.contributors
+        if conceptObj.contributiontos.length == 0
+            delete conceptObj.contributiontos
+        if conceptObj.forerunnersof.length == 0
+            delete conceptObj.forerunnersof
+        if conceptObj.relatedtos.length == 0
+            delete conceptObj.relatedtos
+        if conceptObj.contents.length == 0
+            delete conceptObj.contents
+
+    function fillConcept
+        param parent
+        param resultObj
+        param conceptObj
+        var newitems = []
+        foreach child in parent.items
+            if !fillContents(child, conceptObj, resultObj)
+            elif !fillExtendsExports(child, conceptObj, resultObj)
+            elif child.wzElement == "author"
+                _ conceptObj.founders.push
+                    @ child.wzName
+                _ addFounded
+                    @ resultObj
+                    @ child.wzName
+                    @ conceptObj.kind
+                    @ conceptObj.id
+            elif child.wzElement == "contributionto"
+                $$ _ conceptObj.contributiontos.push
+                $$     @ child.toJson()
+                _ addContribution
+                    @ child
+                    @ conceptObj
+            elif child.wzElement == "relatedto"
+                _ addRelated
+                    @ child
+                    @ conceptObj
+            else
+                _ newitems.push
+                    @ child
+        return newitems
+
+    function fillExtendsExports
+        param parent
+        param currentObj
+        param resultObj
+        log parent.wzElement, parent.wzElement == true 
+        if parent.wzElement == "xextends"
+            if !currentObj.extends
+                set currentObj.extends = []
+            _ currentObj.extends.push
+                {
+                    @ id parent.wzName
+            _ assertFieldObj
+                @ parent.wzName
+                @ currentObj.kind
+                @ resultObj
+        elif parent.wzElement == "exports"
+            if !currentObj.exports
+                set currentObj.exports = []
+            _ currentObj.exports.push
+                {
+                    @ id parent.wzName
+            _ assertFieldObj
+                @ parent.wzName
+                @ currentObj.kind
+                @ resultObj
+        else
+            return true        

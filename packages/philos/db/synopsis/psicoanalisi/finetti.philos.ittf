@@ -1,0 +1,462 @@
+$group
+
+    source
+        url http://www.consecutio.org/2011/05/rappresentazione-e-linguaggio-in-freud-a-partire-dal-%E2%80%9Ccompendio-di-psicoanalisi%E2%80%9D/
+
+        concept freud.versione-neurologica-apparato-psichico
+            + Freud cerca di tradurre gli aspetti qualitativi della mente psichica 
+                \b negli aspetti quantitativi e misurabili del cervello neuronale 
+                \b investito da accumulazione, circolazione e scarica di quantità di energia
+
+        concept freud.rappresentazione-pulsionale
+            de Triebrepräsentant
+                alias Triebrepräsentanz
+            + sta a significare fondamentalmente l’Affektbetrag, 
+                \b ossia l’importo o il carico di affetto, 
+                \b che si lega a una qualsiasi scena rappresentata e pensata della mente. 
+            L’ambito dell’affetto costituisce per Freud 
+                l’ambito che più propriamente coincide con il corpo: 
+                ma, si badi, con un corpo che è già anche 
+                tradotto ed avvertito quale risonanza emozionale, interna ad una mente. 
+            Tale natura originariamente bina, duale (perché al confine tra corpo e mente) 
+                dell’affetto, o pulsione, io credo si possa connotare 
+                come l’ambito intermedio tra quantità e qualità, 
+                cioè come l’ambito della traduzione di variazioni quantitative 
+                di energia cinestetica, elettro-fisica ed elettro-chimica, di natura somatica, 
+                in processi qualitativi avvertiti dalla mente come emozioni.
+            La Triebrepräsentanz, o rappresentazione pulsionale, 
+                è dunque una «rappresentanza» (secondo il significato politico di questo termine 
+                di cui si diceva già all’inizio di queste pagine), 
+                la quale traduce ed esprime, in termini di sentimenti, 
+                processi e modificazioni di natura somatica. 
+            Scandita, per dirla schematicamente, secondo i due estremi, 
+                del piacere e del dispiacere, rappresenta, 
+                il luogo e la fonte del senso, 
+                nel significato di sentire se stessi. 
+            E’ l’ordine del sentire, e non del rappresentare o del pensare, 
+                perché ci viene dato e imposto da quel corpo 
+                che è l’esteriorità della nostra interiorità 
+                e come tale è la vera fonte inesauribile del significato del vivere: 
+                nella sua inesauribilità e verità mai completamente riducibile alla mente.
+            La Triebrepräsentanz può dunque essere interpretata, 
+                usando un linguaggio filosofico, 
+                come il luogo e la genesi “materialistici” della trascendenza: 
+                quale trascendersi di una soggettività all’interno di sé. 
+            Riguardo alle altre due funzioni o luoghi “rappresentativi” della mente, 
+                l’ordine dell’affetto, o della pulsione, 
+                può essere definito come un ordine della mente 
+                di natura né eidetico-percettivo né linguistico. 
+            Infatti l’affetto pulsionale, nel complesso dell’opera freudiana, 
+                vive essenzialmente secondo il modo idraulico della diffusione. 
+            Per la sua natura originariamente quantitativa, 
+                esso si muove e si trasforma lungo delle scale di diminuzione o di crescita 
+                non sottoponibili a segmentazioni o articolazioni discontinue. 
+            E’ il luogo dell’energia emozionale, 
+                che Freud caratterizza come “energia libera”, 
+                la quale corre liberamente, e quanto più rapidamente possibile, 
+                verso il soddisfacimento del piacere 
+                o alla fuga precipitosa dal dispiacere.
+        
+        concept freud.rappresentazione-di-cosa
+            de Sachvorstellung 
+                alias Objektvorstellung
+            Mentre la rappresentazione pulsionale è strutturata sul senso interno, 
+                la funzione che Freud definisce Objektvorstellung o Sachvorstellung 
+                è la funzione della mente strutturata sui cinque sensi esterni, 
+                capace di dar vita a rappresentazioni percettive di varia natura, 
+                con una dominanza eidetico-visiva. 
+            Ma non è solo la mancanza di linguaggio ciò che caratterizza la Sachvorstellung. 
+                E’ anche l’essere una rappresentazione “aperta”, come la definisce Freud, 
+                nel senso che la mente, 
+                per concepire l’idea dell’esistenza extramentale di un oggetto, 
+                per rappresentarsi cioè la parvenza durevole e la consistenza di una cosa, 
+                oltre che percepire delle sensazioni attuali ed effettive in un momento determinato 
+                - sensazioni che sono per altro assai fuggevoli e rapsodiche – 
+                deve potervi includere la percezione di una permanente possibilità 
+                che nel futuro analoghe impressioni si vengano ad associare nel medesimo modo, 
+                nella stessa catena associativa. 
+            Aperta cioè, la rappresentazione di cosa nel senso teorizzato da John Stuart Mill, 
+                la cui Logica Freud nello scritto sulle afasie esplicitamente cita, 
+                e secondo cui l’innumerevole possibilità di sensazioni future 
+                che ripeteranno la medesima associazione 
+                è più determinante nel definire l’esistenza di un oggetto 
+                che non le sensazioni attuali.
+            La logica che costituisce tale ambito del rappresentare 
+                – rappresentare cosale o figurale, a dominanza eidetico-visiva – 
+                non è quella quantitativo-diffusiva dell’affetto, 
+                bensì quella della articolazione-configurazione qualitativa di figure e dati sensibili, 
+                come suoni, odori, sensazioni tattili, 
+                che si definiscono, si relazionano, si associano e si oppongono 
+                tra di loro attraverso contiguità spaziale o temporale, 
+                attraverso analogie o discordanze di forma, 
+                attraverso concordanze di colori, 
+                attraverso gradi e intensità di suoni.
+
+        concept freud.rappresentazione-di-parola
+            de Wortvorstellung
+            + identifica la funzione simbolico-linguistica della mente
+            + A differenza della logica quantitativo-diffusiva 
+                \b e della logica qualitativo-associativa per similarità sensoriali, 
+                \b rispettivamente della prima e della seconda funzione rappresentativa, 
+                \b la logica della rappresentazione di parola è simbolico-discorsiva. 
+            + Si svolge attraverso l’associazione di nessi linguistici 
+                \b e attraverso la verbalizzazione 
+                \b consente l’accesso alla coscienza degli altri due ordini.
+
+
+        concept freud.funzione-linguistica
+            + fonda la distinzione, nella psiche umana, tra conscio e inconscio
+            + la logica attinente all’inconscio si caratterizza come 
+                \b assenza di linguaggio
+            against
+                concept lacan.inconscio-strutturato-come-un-linguaggio
+
+            quote
+                book freud.l-inconscio
+                + Ciò che abbiamo potuto chiamare la rappresentazione conscia dell’oggetto 
+                    \b si scinde ora nella rappresentazione della parola e 
+                    \b nella rappresentazione della cosa; 
+                    \b quest’ultima consiste nell’investimento, 
+                    \b se non delle dirette immagini mestiche della cosa, 
+                    \b almeno delle tracce mestiche più lontane che derivano da quelle immagini. 
+                    \b Tutto a un tratto pensiamo di aver capito 
+                    \b in che cosa consista la differenza fra 
+                    \b una rappresentazione conscia e una rappresentazione inconscia. 
+                    \b Contrariamente a quanto avevamo supposto, 
+                    \b non si tratta di due diverse trascrizioni dello stesso contenuto in località psichiche differenti, 
+                    \b e neanche di due diverse situazioni funzionali dell’investimento nella stessa località; 
+                    \b la situazione è piuttosto la seguente: 
+                    \b la rappresentazione conscia comprende la rappresentazione della cosa 
+                    \b più la rappresentazione della parola corrispondente, 
+                    \b mentre quella inconscia è la rappresentazione della cosa e basta. 
+                    \b Il sistema Inc contiene gli investimenti che gli oggetti hanno in quanto cose, 
+                    \b ossia i primi e autentici investimenti oggettuali; 
+                    \b il sistema Prec nasce dal fatto che questa cosa 
+                    \b viene sovrainvestita in seguito dal suo nesso 
+                    \b con le relative rappresentazioni verbali.
+                    \b  Abbiamo il diritto di supporre che siano tali sovrainvestimenti 
+                    \b a determinare una più alta organizzazione psichica, 
+                    \b e rendere possibile la sostituzione del processo primario 
+                    \b con il processo secondario che domina nel Prec. 
+                    \b A questo punto siamo in grado di indicare con precisione 
+                    \b cos’è che la rimozione ricusa nelle nevrosi di traslazione alla rappresentazione respinta: 
+                    \b le ricusa la traduzione in parole destinate a rendere congiunte con l’oggetto. 
+                    \b La rappresentazione non espressa con parole, o l’atto psichico non sovrainvestito, 
+                    \b resta allora nell’Inc, rimosso.
+                comment 
+                    + E’ dunque la  presenza o meno di linguaggio che segna quindi 
+                        \b per il Freud della prima topica la differenza più chiara  
+                        \b tra Inconscio e Preconscio-Conscio.        
+
+            + la parte inconscia della mente appare per Freud 
+                \b essere caratterizzata da una assenza della funzione linguistica 
+                \b nel senso di un’assenza della possibile connessione discorsiva 
+                \b e relativizzante dei propri contenuti emozionali 
+                \b Tant’ è che lo stesso linguaggio, quando è presente 
+                \b– come a tutti accade di notare nel sognare – 
+                \b sembra che vi sia per Freud solo nei termini di 
+                \b una scenografia rappresentativa che tratta i significanti verbali 
+                \b alla stregua di rappresentazioni di cosa e che dunque tratta le parole, o la singola parola,
+                \b secondo norme e sensi associativi che sono del tutto eterogenei
+                \b rispetto alle catene semantico-sintagmatiche del linguaggio vero e proprio.
+                
+                quote
+                    + Per quanti discorsi e controdiscorsi possano esserci nei sogni, 
+                        \b assurdi o sensati che siano, l’analisi ci mostra ogni volta
+                        \b che il sogno ha colto effettivamente dai suoi pensieri
+                        \b frammenti di discorsi effettivamente fatti o uditi,
+                        \b procedendo poi con essi in modo estremamente arbitrario.
+                        \b Non soltanto li ha strappati dal loro contesto e ridotti a frammenti,
+                        \b accogliendone uno e scartandone un altro,
+                        \b ma spesso li ha connessi in modo nuovo,
+                        \b cosicché il discorso del sogno, apparentemente coerente,
+                        \b all’atto dell’analisi si scompone in tre o quattro frammenti.
+                        \b In questa utilizzazione esso ha spesso lasciato da parte il significato
+                        \b che le parole avevano nei pensieri del sogno
+                        \b ed è riuscito a ricavare dal testo un significato completamente nuovo
+
+
+
+            «Condensazione» e «spostamento» (Verdichtung/Verschiebung) 
+                agiscono non solo sulle rap­presentazioni visive 
+                ma anche su quelle auditive: 
+                giacché ogni immagine sensoriale, 
+                nella sua dissoluzione da ogni piano concettuale 
+                e proprio nella sua dominanza e origine di senso specifica, 
+                è contenuto congruo e disponibile per la sintesi dell’inconscio. 
+                
+                quote
+                    + Il lavoro di condensazione del sogno 
+                        \b riesce particolarmente evidente quando sceglie a suoi oggetti parole e nomi. 
+                        \b Infatti il sogno tratta spesso le parole come cose 
+                        \b e le sottopone alle medesime combinazioni delle rappresenta­zioni di cose. 
+                        \b Ne risultano creazioni verbali bizzarre e inconsuete
+                        
+                concept freud.inconscio.non-validità-principio-di-non-contraddizione
+                    + Con la conseguenza assai di rilievo che il cosiddetto principio di non contraddizione, 
+                        \b posto nella Metafisica aristotelica a base del pensiero discorsivo 
+                        \b e dell’intera logica occidentale, 
+                        \b per Freud manifesta invece una validità limitata alla sola parte conscia della mente, 
+                        \b indicando con il suo limite 
+                        \b il darsi di un’altra logica e di un altro modo di funzionare del pensiero. 
+                        \b Il principio di non contraddizione 
+                        \b non si può estendere all’attività inconscia della mente, 
+                        \b giacché qui è appunto possibile, 
+                        \b proprio per il lavoro della condensazione e dello spostamento, 
+                        \b che in una stessa immagine e nella medesima unità di tempo 
+                        \b siano compresenti due contrari o, se si vuole, due catene ideative di significato opposto, 
+                        \b o, ancora, che una medesima scena stringa insieme due significati, 
+                        \b uno normale e palese, l’altro straordinario ed obliquo.
+
+
+
+        Ma cosa accade a questa funzione centrale 
+            che Freud ha assegnato al linguaggio 
+            nella connessione/distinzione tra pensiero conscio e pensiero inconscio quando, 
+            a partire dagli anni ’20 con l’estensione del campo pulsionale alla pulsione di morte, 
+            Es, Io e Super-io, ridisegnano in modo nuovo la struttura e l’articolazione dell’apparato psichico? 
+            Quando l’inconscio non coincide più unicamente e solo con il rimosso 
+            ma affonda sempre più, come Es, le sue radici nel soma, 
+            nella biologia del corpo e di lì detta i suoi dettami originari all’Io? 
+            Quando, a segno della profondità del passaggio dalla prima alla seconda topica, 
+            anche la censura si autonomizza a funzione specifica della psiche, 
+            traducendosi nell’istanza del tutto inconscia del Super-io? 
+            Ma quando, soprattutto, la pulsione di morte riscrive la natura del desiderio, 
+            caricandolo di componenti destrutturati e distruttive?
+
+        Possiamo rivolgerci al Compendio di psicoanalisi, 
+            quale ultima opera sistematica di Freud, per valutare la questione. 
+            Di quanto appunto la funzione linguistica, anche dopo la svolta del ’20, 
+            rimanga per Freud consustanziale o meno alla funzione della coscienza, 
+            e di contro assente o minoritaria nella vita inconscia della mente. 
+            Ed ancora una volta troviamo inalterata la riproposizione 
+            da parte del maestro viennese 
+            della sostanziale coincidenza tra funzione linguistica e larga parte del pensiero conscio, 
+            insieme alla definizione del linguaggio come cerniera di confine e di transito 
+            tra vita conscia e vita inconscia della psiche. 
+            Giacché anche nel Compendio Freud distingue due fonti della coscienza. 
+            Da un lato le informazioni che attraverso le percezioni e le modificazioni degli organi di senso 
+            derivano dal mondo esterno. 
+        
+        quote
+            + Il diventar cosciente è legato innanzitutto alle percezioni 
+                \b che i nostri organi di senso ricavano dal mondo esterno. 
+                \b Dal punto di vista topico, dunque, è un fenomeno che si verifica 
+                \b nello strato corticale più esterno dell’Io 
+        
+        E dall’altro le informazioni che derivano 
+        quote
+            + dall’interno del corpo, dai nostri sentimenti, 
+                \b i quali influenzano la nostra vita psichica 
+                \b perfino più imperiosamente che non le percezioni esterne
+
+        Ma affinché il mondo interno riesca a giungere alla coscienza 
+            è necessario anche qui che le scene emozionali e i pensieri del desidero 
+            si connettano a rappresentazioni verbali 
+            che appunto costituiscono il medium percettivo 
+            con cui il mondo inconscio giunge a farsi conscio. 
+        
+        quote
+            + Processi consci alla periferia dell’Io, – scrive Freud –  
+                \b e tutto il resto che è nell’Io inconscio: 
+                \b sarebbe questa la situazione più semplice che dovemmo supporre. 
+                \b Può darsi che in effetti le cose stiano così per gli animali, 
+                \b ma per gli uomini si aggiunge una complicazione in virtù della quale 
+                \b anche alcuni processi interno dell’Io possono acquistare la qualità della coscienza. 
+                \b Ciò è opera della funzione linguistica, 
+                \b la quale stabilisce uno stretto collegamento fra i contenuti dell’Io 
+                \b e i residui mnestici delle percezioni visive, 
+                \b e più ancora con quelli delle percezioni auditive.
+
+        La continuità concettuale di questa pagina del 1938 
+            con le pagine degli scritti neurologici del 1893-95 è, a mio avviso, assai evidente, 
+            offrendo con la sua chiarezza una testimonianza di poco dubbio 
+            su quanto il pensiero di Freud sia rimasto immutato, 
+            nell’intero arco del suo sviluppo, 
+            per quanto concerne la collocazione del ruolo del linguaggio 
+            nell’articolazione della vita psichica.
+
+        Ma non solo. 
+        Giacché la riaffermata centralità della funzione linguistica 
+            nel transito dall’inconscio al conscio 
+            ci dice anche, insieme alle altre tesi metapsicologiche riassunte nel Compendio, 
+            quale sia la struttura teorica invariante, e di fondo, 
+            che il Freud, dell’intero periodo psicoanalitico, 
+            ha definito e mantenuto nella sua indagine metapsicologica 
+            sull’apparato psichico considerato nella sua complessità: 
+            al di là delle trasformazioni, pure estremamente rilevanti, 
+            in termini di teoria delle pulsioni 
+            che segnano il passaggio dalla prima alla seconda topica.
+
+        Ancora dalle pagine del Compendio emerge infatti la configurazione 
+            di un sistema psichico basato sulla compresenza di tre ordini, 
+            che si possono qualificare rispettivamente 
+            l’ordine dell’affetto, 
+            l’ordine della rappresentazione di cosa e 
+            l’ordine della rappresentazione di parola. 
+        O meglio come la compresenza di tre diverse modalità e funzioni del rappresentare, 
+            visto che la rappresentazione 
+            – nel senso della presenza/avvertenza di un contenuto nel contenitore della mente – 
+            costituisce l’elemento indispensabile a che si dia vita psichica.
+
+        I tre ordini della rappresentazione 
+            che mantengono inalterata la conmposizione dello psichico in Freud 
+            dai primi scritti psicoanalitici fino alla conclusione della sua opera risultano, 
+            almeno a parere di chi scrive, essere i seguenti:
+
+        concept freud.rappresentazione
+            r-concept freud.rappresentazione-pulsionale
+            r-concept freud.rappresentazione-di-cosa
+            r-concept freud.rappresentazione-di-parola
+            Questi sono nello svolgimento dell’intera opera freudiana 
+                le tre componenti che concorrono a formare quell’atto elementare della vita della mente 
+                che Freud chiama rappresentazione (Vorstellung). 
+            Tre componenti o è meglio dire tre funzioni 
+                che nella diversità del loro agire, 
+                nella diversità delle loro tre logiche, 
+                spiegano per Freud la mente dell’essere umano 
+                come sintesi di due relazioni che sono rispettivamente 
+                la relazione verticale della mente con il proprio corpo 
+                e la relazione orizzontale della stessa mente con un’altra mente.
+            La compresenza, la mediazione, la sintesi di tali tre funzioni 
+                che compongono la Vorstellung 
+                costituisce per Freud il funzionamento non-patologico della vita della mente 
+                nel suo rapporto con il corpo. 
+            Il legame tra affetto, 
+                rappresentazione della scena di soddisfacimento o di dispiacere, 
+                attraverso cui quell’affetto si risolve, 
+                e loro messa in parola attraverso il linguaggio, 
+                struttura la forma del pensare che Freud definisce “processo secondario”, 
+                ossia la capacità della mente di legare attraverso il linguaggio 
+                l’energia aperta che invece nel “processo primario”, 
+                o forma inconscia del pensare, 
+                fluisce liberamente verso la sua risoluzione. 
+            L’effetto di linguaggio, per la sua valenza simbolica e discorsiva 
+                di simboli linguistici che “stanno al posto di”, 
+                ossia sostituiscono le cose e gli affetti che simboleggiano, 
+                sembra dunque poter dire che 
+                per Freud consista fondamentalmente in un effetto di 
+                raffreddamento, di eclisse degli affetti, come si diceva, 
+                e delle scene pulsionali da quelli scritte e sceneggiate. 
+            E fa ciò, in una sorta letterale di Aufhebung alla Hegel,  
+                agganciando la rappresentazione di cosa affettivamente investita alle catene delle parole: 
+                le quali, nel momento in cui ne imbrigliano l’energia, 
+                contemporaneamente la relativizzano, 
+                prendendone appunto distanza 
+                attraverso la loro capacità di simbolizzazione.
+            Così attraverso la rappresentazione di «parola» e la rete di parole 
+                a cui essa è strutturalmente legata nella struttura più generale della «lingua», 
+                l’urgenza del processo primario, 
+                che obbedisce solo al principio di piacere/dispiacere, 
+                viene moderata, mitigata 
+                e alla risoluzione coatta della pulsione 
+                subentra un benefico raffredamento pulsionale 
+                che consente di guardarsi attorno, 
+                fare entrare in gioco anche il principio di realtà, 
+                e attraverso un pensiero che tiene conto anche del mondo esterno, 
+                cercare il soddisfacimento più opportuno 
+                e meno obbligato della tensione affettiva: 
+                un soddisfacimento, non solo immaginato o allucinato, 
+                ma concretamente possibile e reale.
+
+        r-concept lacan.l-inconscio-strutturato-come-un-linguaggio
+            Anche da questo percorso veloce e schematico sulla funzione del linguaggio nell’opera di Freud 
+                non è chi non veda la distanza che separa l’originario impianto teorico di Freud 
+                da quella riscrittura in chiave strutturalistico-linguistica, 
+                con forti accentuazioni ontologico-esistenziali, 
+                che nella seconda metà del ‘900 ne ha fatto Jaques Lacan, 
+                a muovere dalla sua tesi di fondo della sua ispirazione, 
+                che l’inconscio sia strutturato come linguaggio. 
+        
+        
+        Qui quello che si è voluto soprattutto sottolineare 
+            è che dalle argomentazioni di Freud sul linguaggio 
+            emerge un sistema psichico basato sulla compresenza di tre ordini, 
+            che sono rispettivamente 
+            l’ordine dell’affetto, 
+            l’ordine della rappresentazione di cosa e 
+            l’ordine della rappresentazione di parola.
+
+        L’ordine dell’affetto appare istituirsi come un ambito 
+            di natura non solo a-linguistica 
+            ma in qualche modo anche a-rappresentativa. 
+        
+            Costituisce per Freud l’ordine che più propriamente coincide con la corporeità: 
+            ma con una corporeità che è già anche avvertita come risonanza emozionale, 
+            interna ad una mente. 
+            Per tale natura originariamente bina 
+            l’ambiente dell’affetto è definibile anche come 
+            quello della traduzione della quantità in qualità, 
+            della traduzione cioè di stati quantitativi di energia elettro-fisica ed elettro-chimina 
+            in presenze avvertite dalla mente. 
+            La rappresentazione affettiva è dunque, a ben vedere, una rappresentanza, 
+            la quale traduce in termini di sentimento 
+            processi e modificazioni di natura somatica. 
+        
+            Basata sull’affezione emozionale, 
+            che trascorre dal sentimento di piacere a quello di dispiacere e viceversa, 
+            essa è senso interno. 
+            E come tale è eterogenea rispetto alla rappresentazione di cosa, 
+            fondata sui sensi esterni e a dominanza eidetico-percettiva.
+
+            Infatti l’affetto vive essenzialmente secondo il modo della diffusione, 
+            ossia per la sua base quantitativa si muove e si trasforma 
+            lungo una scala di diminuzione o di crescita 
+            non sottoponibile a segmentazioni o articolazioni discontinue. 
+        
+        Laddove la rappresentazione di cosa vive essenzialmente 
+            secondo il modo dell’articolazione e della divisibilità: 
+            ossia secondo una logica combinatoria profondamente diversa da quella, 
+            appunto diffusiva, dell’affetto-quantità 25. 
+        
+        Ma se la rappresentazione di cosa possiede una struttura articolabile e scomponibile in parti, 
+            essendo già per il Freud neurologo una sintesi di un molteplice di immagini sensoriali, 
+            tanto più ciò vale per la rappresentazione di parola, decomponibile, com’è noto, 
+            per la linguistica moderna in parti, fino a quelle unità minimali generalmente definibili come monemi.
+
+        Ciò che è in questione nel nesso corpo-mente, 
+            per l’antropologia e la clinica freudiana, 
+            è appunto il coordinamento di tali tre ordini rappresentativi: 
+            la congruenza cioè di una rappresentazione d’affetto nella sua connessione 
+            con una rappresentazione di cosa 
+            e nella sua elaborazione attraverso una rappresentazione di parola. 
+        Con la tesi che ne consegue che lo specifico venir meno 
+            del rapporto tra Sachevorstellung e Wortvorstellung 
+            produce necessariamente una fissazione della rappresentazione affettiva alla Sachevorstellung. 
+            Tale fissazione emozionale può essere definita anche come reificazione: 
+            nel senso di appartenenza a un orizzonte propriamente desimbolizzato 
+            in cui una rappresentazione di cosa, 
+            priva dell’aggancio alla rete linguistica, vale appunto, 
+            con tutta la pesantezza e l’immobilità di una cosa, 
+            a connettere a sé in modo coattivo e non elaborabile l’affetto. 
+        Per cui si può giungere a intendere la rimozione non tanto come 
+            l’istituzione di un linguaggio privato, come l’ebbe a definire Habermas 
+            in pagine oramai di molti anni fa, 
+            quanto come una vera e propria distruzione di linguaggio, 
+            cioè come esclusione radicale di una parte della mente 
+            dall’ambito linguistico-comunicativo. 
+        E concepire perciò il mondo psichico del rimosso 
+            come un mondo sostanzialistico e pietrificato che, 
+            sottraendo al nesso rappresentanza d’affetto-rappresentazione di cosa 
+            l’intermediazione e il distanziamento del segno linguistico, 
+            dà vita a una scena dominata dal principio d’identità (A è A), 
+            ossia alla ripetizione tautologica di un contenuto emozionale-ideativo 
+            che ripropone un motivo che è sempre lo stesso.
+        Così il nesso corpo-mente può valere come sintesi non problematica di natura e cultura 
+            solo quando una funzionalità profonda ed estesa del linguaggio 
+            garantisca la connessione degli ordini rappresentativi qui considerati. 
+        Altrimenti quando tra essi si dà destrutturazione 
+            e il conseguente prevalere dell’uno sugli altri, 
+            tra natura e cultura si apre un’asimmetria, 
+            per cui la natura può divenire invasiva e distruttiva 
+            mentre la cultura farsi moralistica e anaffettiva. 
+        
+        Alla distruzione del linguaggio nell’ambito della coscienza individuale 
+            corrisponde d’altro canto l’intensificazione ipostatizzante del linguaggio, 
+            fino al suo deporsi estenuato nella deformazione ideologica del senso comune. 
+        
+        A mezzo tra i due piani, dell’inconscio individuale e dell’inconscio collettivo, 
+            sta perciò la forza di una coscienza che attraverso l’intreccio delle sue relazioni, 
+            intersoggettive e infrasoggettive, sia capace di affrontare e fare buon uso di quello 
+            che gli antichi definivano η μεγάλη δυναστεια του λουγου, 
+            ossia misurarsi con «la grande potenza della parola».

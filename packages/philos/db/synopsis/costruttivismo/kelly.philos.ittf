@@ -1,0 +1,45 @@
+$group
+    author Kelly
+        name George Kelly
+        born
+            date 28/4/1905
+            place Perth, Kansas, Stati Uniti
+        died
+            date 6/3/1967
+            place Waltham, Massachusetts, Stati Uniti
+        
+        theory teoria dei costrutti personali
+            founder
+            quote
+                + I processi psicologici di una persona sono psicologicamente canalizzati dal modo in cui essa anticipa gli eventi
+            + Kelly afferma che l'attenzione è focalizzata sulla persona, intesa nel suo insieme come sistema complesso, 
+                \b nonché sulla natura processuale della sua vita psicologica. Attraverso il linguaggio viene evocato il senso 
+                \b di un continuo movimento, di un muoversi verso, guidato e intenzionato dal modo in cui il soggetto anticipa, 
+                \b attraverso il suo sistema di costrutti, gli eventi del mondo. 
+                \b La persona, così concepita, è una forma in continuo movimento. Ciò che fa sì che tale movimento non sia caotico 
+                \b e casuale è il concetto di anticipazione predittiva e del controllo delle ipotesi come spinta al cambiamento 
+                \b del sistema di costruzione personale.
+            + Per l'operatore sociale è importante capire quanto il processo di anticipazione della realtà non funzioni più e 
+                \b si protragga in un continuo impatto invalidante con la realtà sino ad arrivare, in casi estremi, 
+                \b all'annientamento di sé stessi.
+            quote
+                + In vista di una comprensione psicologica, ciò comporta la necessità di considerare il comportamento di 
+                    \b una persona non come reazione, esito o come conseguenza di fatti stimolo ma come ciò che realizza ed 
+                    \b esprime un'intenzione, una proposizione, un progetto. Comporta, da uomini scienziati quali siamo, 
+                    \b di interrogarci e di costruire ipotesi sul senso che quel comportamento acquista alla luce di ciò 
+                    \b che anticipa e non di ciò che l'ha determinato.            
+        
+        tool griglia di repertorio
+            founder
+        
+        + Il patrimonio di George Kelly, una folta collezione di analisi concettuali 
+            \b in termini pragmatici, espresso in un linguaggio semplice, quasi disinvolto, è perciò ben più accessibile 
+            \b dell'opera piagetiana. 
+
+        article
+            title Sistema di categorie di contenuto dei costrutti personali
+            author Guillem Feixas et al.
+            url https://www.apc.it/wp-content/uploads/2013/06/07-feixas.pdf
+
+
+

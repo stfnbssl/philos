@@ -1,0 +1,133 @@
+$group
+    author Carnap
+        name Pierre Carnap
+        born
+            date 1881
+            place Ronsdorf (Germania nord occidentale)
+        died
+            date 1970
+            place
+        approach
+        no-approach
+
+
+
+
+
+Carnap nasce a Ronsdorf  (Germania nord occidentale) nel 1881 e studia matematica e fisica all’Università di Jena e di Friburgo 
+dal 1910 al 1914; una delle caratteristiche del pensiero di Carnap è il suo sincretismo, frutto dell’influenza di 
+filosofie e scienze diverse; due autori che lo colpiscono in modo particolare in questo periodo sono: Kant e Frege.
+
+Per quanto concerne quest’ultimo, riteneva che per fondare in modo rigoroso e definitivo la verità delle proposizioni 
+matematiche occorresse ridurre la matematica alla logica. Il programma di Frege consisteva nel mostrare che tutte le proposizioni 
+matematiche sono deducibili da un piccolo numero di asserzioni primitive mediante regole logiche di inferenza. Queste asserzioni 
+primitive o “assiomi logici” costituiscono il punto di partenza, i postulati, del ragionamento e vanno stabiliti senza far 
+alcun riferimento ad una loro evidenza intuitiva o altro.  Ciò significa che il problema dei fondamenti in Frege ha una dimensione 
+linguistica. Per ridurre la matematica alla logica abbiamo bisogno di una lingua completamente scevra di oscurità, ambiguità, 
+complicazioni, riferimenti all’intuizione, ecc.
+
+Occorre costruire un opportuno strumento linguistico che abbia le seguenti caratteristiche:
+1. Sia univoco e rigorosamente determinato, semplice, non prolisso, non ambiguo, …
+
+2. I mezzi espressivi del linguaggio siano fissati una volta per tutte in modo che si possa esprimere soltanto e tutto ciò che 
+    interessa alla catena dei ragionamenti
+
+3. Sia evitato qualsiasi appello all’intuizione, all’evidenza, ai convincimenti soggettivi, a componenti emozionali.
+
+4. Frege costruisce una lingua con queste caratteristiche e la chiama ideografia (Begriffschrift = scrittura per concetti); 
+    l’idea di una lingua di questo tipo non è nuova, ma risale addirittura a Leibniz, che pensava ad una lingua universale in cui 
+    fosse possibile tradurre rigorosamente e senza equivoci tutti i concetti filosofici e scientifici.
+
+La convinzione che la progettazione di un linguaggio sia essenziale per risolvere il problema dei fondamenti è condivisa da tutti 
+    i neoempiristi.
+
+concept enunciato
+    alias asserzione
+    alias dichiarazione
+    + è suscettibile di essere vero o falso
+
+Altri aspetti del pensiero di Frege che influenzarono Carnap:
+1) L’idea che le proposizioni di cui si occupa la logica sono solo dichiarative; la logica è la logica degli enunciati, 
+    di ciò che si asserisce e che è perciò suscettibile di essere vero o falso.
+2) L’introduzione del concetto di funzione proposizionale e dei quantificatori (come nel Tractatus di Wittgenstein)
+3) La distinzione fra Sinn (oggetto che viene designato, denotazione) e Bedeutung (ciò che lo designa, connotazione)
+4) La distinzione fra momento sintattico (puramente formale, relativo ai segni) e momento semantico (relativo ai significati 
+    delle espressioni)
+5) L’idea che le regole di inferenza logica vadano formulate senza alcun riferimento ai significati dei termini
+6) L’idea che le verità della matematica siano verità basate sulla logica e quindi analitiche
+7) La distinzione fra linguaggio oggetto e metalinguaggio.
+
+Carnap e il Circolo di Vienna
+Carnap nel 1919 legge l’opera di Russel e Whitehead, Principia mathematica, e fa suo il programma in essa esposto: 
+Russel, leibnizianamente, intende applicare i nuovi strumenti della logica all’analisi non solo dei concetti matematici, 
+ma di tutti i concetti scientifici ed alla chiarificazione dei problemi filosofici.
+
+Carnap, inoltre, nel 1917 legge Einstein ed esamina le sue teorie sulla relatività, in seguito studia Poincaré e si lascia 
+condizionare dal suo convenzionalismo, quindi diventa amico di Reichenbach (figura di spicco del Circolo di Berlino) con cui 
+dirigerà la rivista Erkenntnis. Dal 1926 con la sua chiamata all’Università di Vienna come assistente di filosofia la 
+sua storia si lega a quella del Circolo, con cui ha uno scambio dialettico ed aperto, dal momento che Carnap era, all’epoca, 
+già in possesso di una sua maturità ed indipendenza di pensiero (la stesura provvisoria della Costruzione logica del mondo – Logische 
+Aufbau der Welt - risale, infatti, agli anni precedenti, 1922-25).
+
+L’opera viene discussa nel 1926 dal Circolo che la saluterà come la “realizzazione del programma di Russel di una indagine filosofica 
+esatta” e viene percepita come la continuazione e la chiarificazione delle idee di Mach (secondo il quale tutti i concetti delle 
+scienze naturali ed, eventualmente delle scienze sociali, si potevano definire con le esperienze elementari in modo che le 
+proposizioni di quelle scienze si potessero controllare riferendosi a queste esperienze).
+
+La “costruzione logica del mondo”
+
+L’istanza fondamentale di questa opera (Logische Afbau der Welt) è quella di dare un fondamento ad una giustificazione alla 
+nostra conoscenza (Cartesio, Locke, Kant). Carnap intende ricostruire il mondo a partire da certe idee primitive (le “esperienze 
+sensoriali istantanee”) e da una relazione primitiva definitiva su di esse (la relazione di “riconoscimento di somiglianza” fra 
+esperienze elementari), dove per “primitivo” si intende ciò che non ammette un’ulteriore analisi, ciò che è indubitabile, non 
+ulteriormente sottoponibile ad alcuna critica, cioè la base certa, il fondamento di tutta la conoscenza. 
+
+In quanto problema di fondazione, la ricostruzione razionale della conoscenza (ricostruzione del processo di formazione dei concetti) 
+porterà all’espunzione dal corpo delle nostre conoscenze di concetti, problemi, proposizioni riconosciuti come non fondati, 
+non giustificati, non validi.
+Il criterio fondamentale che permette di decidere del diritto di cittadinanza nel corpo delle nostre conoscenze è il 
+CRITERIO DI SIGNIFICANZA EMPIRICA: sono prive di significato conoscitivo quelle proposizioni che non sono saldamente ancorate 
+ad una base fattuale sperimentale, che non esprimono cioè alcun stato di fatto, che non dicono nulla su come è il mondo dei fatti.
+
+Le uniche proposizioni dotate di significato sono quelle suscettibili di essere vere o false, e il cui valore di verità può essere 
+assegnato in seguito ad un controllo su stati di fatto del mondo empirico. Se sussiste effettivamente lo stato di cose da esse 
+espresso sono vere, false altrimenti. Tale criterio permetterà di espungere tutta la problematica metafisica e teologica in quanto 
+priva di significato (estremizzazione della posizione di Kant?). Ne segue che non esistono genuini problemi insoluti, ma è possibile 
+dare risposta a tutte le questioni dotate di significato, stabilendone la verità o falsità. 
+
+In sintesi questi sono i principi essenziali della concezione carnapiana di questo periodo:
+1) Teoria della costituzione come ricostruzione razionale e fondazione della conoscenza
+2) Il criterio di significanza empirica
+3) La lotta alla metafisica.
+
+La teoria della costituzione
+
+Con la sua teoria della costituzione Carnap tenta di ridurre tutti i concetti delle scienze naturali e sociali a una conoscenza di base certa e indubitabile. Tale riduzione dovrà avvenire nell’ambito di un linguaggio rigoroso: si tratterà di analizzare i concetti del linguaggio ordinario che fanno riferimento alle proprietà e relazioni osservabili delle cose intorno a noi e di costruire definizioni di questi concetti con l’aiuto della logica simbolica.
+La costituzione logica del mondo consiste in un insieme organico di definizioni, che indicheranno in che modo possiamo sostituire 
+ad una proposizione contenente il nome dell’oggetto da costituire, una proposizione logicamente equivalente alla prima  (con 
+uguale valore di verità) che non contiene tale nome. Gli oggetti di ogni scienza verranno disposti nell’ordine della loro 
+riducibilità: il sistema genera una gerarchia di oggetti, le cui radici sono gli oggetti che non possono essere ulteriormente 
+ridotti ad altri che costituiscono la base della conoscenza.
+
+Così la base della conoscenza viene ad essere l’immediatamente dato, ciò che è per se stesso indubitabile e che non potrà essere 
+messo in discussione in futuro.
+
+E’ evidente l’analogia con Mach che aveva individuato nelle sensazioni elementari gli elementi costitutivi di ogni conoscenza; 
+è presente, inoltre, l’influsso dell’atomismo logico di Russel, secondo il quale in un dato sistema vi sono alcune proposizioni 
+atomiche vere che non possono essere ulteriormente analizzate in costituenti più semplici perché sono appunto esse stesse 
+le più semplici entro quel sistema. E’ palese, inoltre, l’influsso dell’atomismo logico di Wittgenstein, secondo cui tutte 
+le proposizioni sono funzioni di verità delle proposizioni elementari; per questo ogni enunciato può venir verificato o confutato 
+in modo definitivo: basta risalire alle sue componenti semplici e riconoscerne immediatamente la verità o falsità.
+
+E’ importante sottolineare però come Carnap non assuma come base della conoscenza dati sensoriali semplici ma “esperienze istantanee 
+    complesive” del tipo “ora nel mio campo visivo c’è un triangolo rosso” (linguaggio fenomenista, i cui enunciati di base riguardano 
+    esclusivamente dati sensoriali); Carnap, infatti, recepisce i risultati della Gestalpsycologie, secondo cui l’unità non 
+    ulteriormente analizzabile è costituita dalle esperienze istantanee nel loro complesso e isolare i dati sensoriali non è altro 
+    che un’astrazione.
+
+In sintesi:
+1) Compito dell’epistemologia (Filosofia della conoscenza) per Carnap è fondare il nostro sapere, cioè ridurlo a base certa
+2) La conoscenza più certa che abbiamo è quella dell’immediatamente dato, dei dati offertaci dai sensi, attraverso i quali cogliamo 
+    le cose del mondo esterno (influsso di mach)
+3) La base su cui fondare la conoscenza è, quindi, quella delle esperienze sensoriali e il linguaggio dell’epistemologia sarà dunque 
+    il linguaggio che contiene tali enunciati di base, il linguaggio fenomenista.

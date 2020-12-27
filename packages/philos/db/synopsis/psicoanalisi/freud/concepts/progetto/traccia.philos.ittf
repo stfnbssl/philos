@@ -1,0 +1,9 @@
+$group
+
+    namespace freud
+
+        concept traccia
+
+        concept traccia-di-realtà
+
+        concept traccia-di-processo-di-pensiero

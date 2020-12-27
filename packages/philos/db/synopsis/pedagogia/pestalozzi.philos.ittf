@@ -1,0 +1,11 @@
+$group
+    author Pestalozzi
+        fullname Johann Heinrich Pestalozzi
+        born
+            date 12/1/1746
+            place Vecchia Confederazione
+        died
+            date 17/2/1827
+            place Brugg, Svizzera
+        + Pedagogista e filosofo svizzero. Pestalozzi è noto principalmente come riformatore del sistema scolastico, inoltre 
+            \b nel corso della sua vita si dedicò anche all'attività politica. 

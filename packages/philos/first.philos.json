@@ -1,0 +1,67 @@
+{
+    "wzElement": "philos",
+    "wzName": "first",
+    "items": [
+        {
+            "wzElement": "field",
+            "wzTag": "field",
+            "wzName": "biosemiotics",
+            "items": [
+                {
+                    "wzElement": "xextends",
+                    "wzTag": "extends",
+                    "wzName": "biology",
+                    "items": []
+                },
+                {
+                    "wzElement": "xextends",
+                    "wzTag": "extends",
+                    "wzName": "semiotics",
+                    "items": []
+                },
+                {
+                    "wzElement": "xextends",
+                    "wzTag": "extends",
+                    "wzName": "philosophy",
+                    "items": []
+                },
+                {
+                    "wzElement": "xextends",
+                    "wzTag": "extends",
+                    "wzName": "linguistics",
+                    "items": []
+                },
+                {
+                    "wzElement": "exports",
+                    "wzTag": "exports",
+                    "wzName": "natural selection",
+                    "items": []
+                },
+                {
+                    "wzElement": "exports",
+                    "wzTag": "exports",
+                    "wzName": "animal behaviour",
+                    "items": []
+                },
+                {
+                    "wzElement": "exports",
+                    "wzTag": "exports",
+                    "wzName": "psychology",
+                    "items": []
+                },
+                {
+                    "wzElement": "exports",
+                    "wzTag": "exports",
+                    "wzName": "life fundamentals",
+                    "items": []
+                },
+                {
+                    "wzElement": "text",
+                    "wzTag": "+",
+                    "wzName": "Combining research approaches from biology, semiotics, philosophy and linguistics, the field of biosemiotics studies semiotic processes as they occur in and among living systems. This has important implications and applications for issues ranging from natural selection to animal behaviour and human psychology, leaving biosemiotics at the cutting edge of the research on the fundamentals of life.",
+                    "items": []
+                }
+            ]
+        }
+    ]
+}

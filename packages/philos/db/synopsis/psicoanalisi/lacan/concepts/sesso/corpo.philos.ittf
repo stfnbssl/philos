@@ -1,0 +1,12 @@
+$group
+
+    namespace lacan.sesso
+        
+        concept corpo
+            + 
+
+        concept relazione-soggetto-corpo
+            + Non coincidiamo mai con il nostro corpo,
+                \b non siamo mai il nostro corpo,
+                \b la relazione tra seggetto e corpo è una relazione d'avere,
+                \b non è mai una relazione d'essere.

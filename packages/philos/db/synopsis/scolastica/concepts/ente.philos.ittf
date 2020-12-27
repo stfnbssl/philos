@@ -1,0 +1,8 @@
+$group
+
+    namespace scolastica
+
+        concept ente
+            + Ente è il concetto più noto di tutti, è quello che tutti hanno, 
+                \b qualunque cosa pensino e dicano, 
+                \b perchè qualunque cosa pensino o dicano è qualche cosa, ossia ente. 

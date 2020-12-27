@@ -1,0 +1,24 @@
+$group
+
+    namespace blanco
+
+        concept simmetria
+
+            quote
+                + Il sistema inconscio tratta le relazioni asimmetriche 
+                    \b come se fossero simmetriche
+                book blanco.l-inconscio-come-insiemi-infiniti
+            
+            quote
+                + La qualità di essere inconscio non inerisce o è inevitabilmente essenziale all'essere simmetrico
+                    \b É, invece, una conseguenza della natura della coscienza 
+                    \b che non può in sé contenerlo.
+                book blanco.l-inconscio-come-insiemi-infiniti
+                page 109
+            
+            quote
+                + L'essere simmetrico è la sola fondamentale realtà dell'uomo e 
+                    \b ciò appare ancora più vero se si considera nella prospettiva che gli è propria 
+                    \b la funzione di «dispiegamento» o di traduzione
+                book blanco.l-inconscio-come-insiemi-infiniti
+                page 116

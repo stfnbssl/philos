@@ -1,0 +1,11 @@
+$group
+    approach atomismo logico
+        author Russel
+            + In un dato sistema vi sono alcune proposizioni atomiche vere che 
+                \b non possono essere ulteriormente analizzate in costituenti più semplici 
+                \b perché sono appunto esse stesse le più semplici entro quel sistema.
+        author Wittgenstein
+            + Tutte le proposizioni sono funzioni di verità delle proposizioni elementari;
+                \b per questo ogni enunciato può venir verificato o confutato in modo definitivo: 
+                \b basta risalire alle sue componenti semplici e riconoscerne 
+                \b immediatamente la verità o falsità.

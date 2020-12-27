@@ -1,0 +1,14 @@
+$group
+
+    namespace freud
+
+        concept sistema-P-C
+            quote
+                + Poiché la coscienza fornisce essenzialmente percezioni di eccitamenti 
+                    \b che provengono dal mondo esterno, 
+                    \b nonché sensazioni di piacere e dispiacere 
+                    \b che possono solo derivare dall’interno dell’apparato psichico, 
+                    \b si può assegnare al sistema P-C una collocazione spaziale. 
+                    \b Esso dovrà trovarsi al confine tra l’esterno e l’interno, 
+                    \b essere rivolto al mondo esterno e includere gli altri sistemi psichici.
+                kindle-page 5657

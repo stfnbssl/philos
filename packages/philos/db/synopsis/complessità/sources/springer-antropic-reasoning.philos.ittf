@@ -1,0 +1,515 @@
+$group
+
+    url https://link.springer.com/article/10.1007/s12304-020-09388-7
+
+    concept natural intelligence
+        + the type of intelligence wider than human intelligence and its derivative AI 
+            \b (Kurzweil 1990; Vinge 1993; Bostrom 2014; Price 2016) - in the biosemiotic context. 
+        field biosemiotics
+            + ‘intelligence’ will be used as an equivalent to ‘semiosis’
+            + ‘cognitive agent’ will be used equivalently to ‘semiotic agent’
+            
+    field relational biology
+    field evolutionary epistemology
+    field biosemiotics
+    field systems view of life
+
+    concept Anthropic Principle (AP) reasoning
+        alias anthropic reasoning
+        + (Carter 1974; Barrow and Tipler 1996).
+
+        + the universe appears to be fine-tuned for intelligent life and the emergence of observers – 
+            \b if cosmological constants are not exactly as they are, 
+            \b there would be no observers. 
+        + The AP debate centers around two arguments: 
+            \b (i) the universe is intentionally created for us as intelligent observers and 
+            \b (ii) intelligent life is the result of improbable events that would not be replicated in other universes.
+        + The first option is consistent with the existence of an external “creator”, 
+            \b either God (an option that is discarded as unscientific), 
+            \b or the possibility that life on Earth is seeded from other cosmic locations 
+            \b as argued by the proponents of the directed panspermia hypothesis (Crick and Orgel, 1973). 
+            
+            The second option implies the existence of many universes (multiverse), 
+            one (or only a few) of which (including our universe) contains life (Tegmark 2009). 
+            However, there is another option that may be called the life principle (Davies 2003). 
+            Given the abundance of the molecular material for life and the ubiquity of stable stars and habitable planets, 
+            the emergence of life is a ‘cosmic imperative’ (de Duve 2011). 
+            The life principle is consistent with the concepts of biocentrism (Lanza and Berman 2009), 
+            biological determinism (Davies 2003; De Duve 2011) and some forms of the panspermia hypothesis, 
+            such as the Hoyle-Wickramasinghe (H-W) thesis (e.g. 
+            Hoyle and Wickramasinghe 1981) and transpermia (Davies 2003). 
+            
+            concept life principle
+                + natural intelligence is a biological universal
+                + organisms from bacteria to animals are cognitive or semiotic agents
+                + the human-type intelligence is only a fraction in the wide spectrum of natural intelligence 
+
+            In this study I will use anthropic reasoning to arrive at the position, 
+            broadly consistent with life principle, but also with biosemiotics, 
+            that natural intelligence is a biological universal – 
+            organisms from bacteria to animals are cognitive or semiotic agents – 
+            and that the human-type intelligence is only a fraction in the wide spectrum of natural intelligence 
+            which may be equivalent to semiotic scaffolding: “a tightly wound web of checks and balances gradually establishing 
+            itself through myriads of semiotic interactions between organisms” (Hoffmeyer 2015, p 154).
+
+    Here is a sketch of anthropic reasoning as derived from Bostrom (2002). 
+    
+    The process of sampling the world by which we, as observers, interact with the world 
+    is limited by the inability of our observational faculties to capture the totality of information about the world. 
+    The consequence of these relationships between observers and the world are observation selection effects 
+    – we are necessarily handicapped as observers (Maor et al. 2008). 
+    
+    This handicap is frequently dubbed anthropic bias.
+    The function of anthropic reasoning, on the other hand, 
+    is to attempt to eliminate various forms of anthropic biases. 
+    This can be achieved by pushing the borders of human understanding of the world to its limits, 
+    by combining the cutting-edge scientific evidence 
+    with the type of argumentation necessary to avoid pitfalls of the sampling bias.
+
+    I start by giving a brief overview of AP and associated concepts from the perspective of biology. 
+    I then focus on the concept of observation as understood by AP on one side, 
+    and relational biology, evolutionary epistemology, biosemiotics and the systems view of life on the other. 
+    This comparison uncovers fundamental differences between the two sides 
+    and paves the way for applying anthropic reasoning further 
+    through asking questions aimed at understanding the process of observation and true observers. 
+    I conclude with the analysis of AP from the new angle which is not biased towards the neural-type intelligence.
+
+    concept Anthropic Principle (AP)
+        + was developed by astrophysicists and philosophers as an analogy to 
+            \b the Copernican or mediocrity principle, 
+            \b which states that humans are not expected to occupy a privileged position in the universe (Carter 1974) 
+        + AP is consistent with the notion that the position of Homo sapiens is to some extent privileged:
+            \b we are a species capable of 
+            \b (i) cognition, which includes observation at the scale of the universe (observable universe) 
+            \b and (ii) interpretation of our position in the universe
+        + AP is thus an argument against the Copernican principle. 
+        Given that biology is neutral about the position of individual species relative to the rest of nature, 
+        AP is criticized by some biologists (e.g. Barash, 2018). 
+        However, this does not mean that AP is without any value to biology. 
+        
+        Here is a sketch of AP adapted to biology.
+        Our sensorium registers only a subset of signals/stimuli available in the external world, 
+        leading to observation selection effects. 
+        For example, we tend to view animals and people as independent individuals, 
+        even though they are composed of numerous parts that once possessed individuality. 
+        As a result, artists typically depict people as absolute individuals. 
+        Lisa Gherardini, used by Leonardo da Vinci (1452–1519) as a model for the Mona Lisa, 
+        exists in the mind of the artist, and the minds of the observers of Mona Lisa, 
+        as an undisputed individual. 
+        By contrast, a counterintuitive artistic vision of Giuseppe Arcimboldo (1527–1593) 
+        depicts individuals as composites (Slijepcevic 2019b) (Fig. 1). 
+        Unlike Mona Lisa, a rigid biological singleton, 
+        Flora is a composite organism formed by the merger of formerly independent organisms (Fig. 1).
+
+    
+    From the perspective of modern biology, 
+    Flora may be considered a more authentic portrait than the Mona Lisa. 
+    Human bodies are complex ecological collectives consisting of 37 trillion human cells 
+    (themselves collectives formed by the microbial mergers) 
+    and 400 trillion microbes which together form symbiotic partnerships known as holobionts 
+    (Margulis 1993; Zilber-Rosenberg and Rosenberg 2008). 
+    
+    Apart from the most basic microbes, bacteria and archaea, which are the only true biological singletons, 
+    all other organisms - protists, fungi, plants, and animals - are archaeal-bacterial mergers and thus composites. 
+    Absolute individuals do not exist above the level of single-cell prokaryotic microbes. 
+    On this understanding, life is an organic conglomerate of transient composite forms. 
+    By the same token, evolution is the process of the change of the composites.
+
+    Observation selection effects in this case (Fig. 1), 
+    represent the difference between the intuitive artistic vision of Leonardo da Vinci 
+    formed based on insufficient evidence about the true structure of human bodies, 
+    and the counter-intuitive artistic vision of Arcimboldo, which, though metaphoric, 
+    is in some ways more accurate because the unusual artistic imagination 
+    happens to be in line with modern scientific evidence.
+
+    Thus, observation selection effects are the consequence of a specific epistemic position of the human observer 
+    relative to the world. 
+    
+    concept anthropic reasoning
+        + the interplay between our capacity to observe the world and 
+            \b the evidence we use to justify the accuracy of our observations
+        + observation selection effects are the consequence of 
+            \b a specific epistemic position of the human observer relative to the world 
+        book
+            author Bostrom
+            edition 2002
+
+    This type of reasoning stems from the AP concept (Carter 1974), 
+    which implies that our position in the universe is privileged to some extent 
+    “in so much as special conditions are necessary for our very existence” (Carter 1983). 
+    Carter (1974) articulated two forms of AP, known as weak AP (WAP) and strong AP (SAP). 
+    WAP states that our position in the universe is privileged 
+    because our existence is dominated by our capacity to observe the surrounding world and the universe at large. 
+    On the other hand, SAP includes an imperative that the universe 
+    must allow the emergence of observers at some stage in its development. 
+    Barrow and Tipler (1986) formulated their versions of WAP and SAP, 
+    which deviate from Carter’s by allowing a greater degree of teleology.
+    They also formulated a final AP (FAP),
+    which states that an information processing capacity must emerge in the universe 
+    and once it emerges it will never die out.
+    Finally, Wheeler (1994) argued for Participatory Anthropic Principle (PAP) 
+    according to which observers are necessary to bring the universe into existence.
+
+    In spite of differences between various forms of AP, they share a common feature.
+    All forms of AP assume that the minimum requirement for 
+    the true observing capacity is the human-type intelligence (neural intelligence), 
+    which eventually peaks in science and technology. 
+    Thus, AP holds that the observers must possess, at the minimum, the human-type intelligence plus techno-science, 
+    or techno-science-like method, as a form of knowledge acquisition. 
+    If we accept this assumption, three types of observers are possible in the universe 
+    (i) humanity bound to Earth (and on the verge of the cosmic adventure) 
+        possessing techno-science at the present state of development as a form of knowledge acquisition, 
+    (ii) humanity-like civilisations living somewhere else in the universe, 
+    and (iii) civilisations with the observing capacities superior to the capacities of human or human-like civilisations, 
+        living somewhere else in the universe. 
+    From this, it also follows that AP assumes two distinct territories of life, 
+    as we know it on the planet Earth: 
+    (i) intelligent life represented by Homo sapiens and its technology in the form of techno-science and 
+    (ii) all other forms of life (microorganisms, plants, and animals) 
+        considered either non-intelligent or not intelligent enough from the perspective of observing capacities. 
+    
+    This position is apparent, for example, in Drake’s equation (Drake 1961) devised to estimate 
+    the number of extraterrestrial civilisations in the Milky Way galaxy.
+
+    N = R∗ fp ne fl fi fc L.
+
+    where:
+
+        N = the number of civilisations in our galaxy with which we can communicate.
+        R* = average rate of star formation in our galaxy
+        fp = fraction of stars with surrounding planets
+        ne = number of planets that can support life
+        fl = fraction of planets from the ne pool that develop life
+        fi = fraction of planets with life that develop intelligent life
+        fc = fraction of civilisations that develop technology for emitting signals in space
+        L = the length of time during which signals are emitted
+
+    Three components in the equation - fl, fi, and fc - deal with the distinction 
+        between the life-developing and intelligence- or technology-developing potentialities of civilisations.
+
+    However, I will argue that the key AP assumption is wrong. 
+    I define the key AP assumption as follows:
+    The human-type intelligence (neural intelligence) and humanity-type civilisation supported by techno-science, 
+    is the minimal type intelligence/civilisation capable of the true observation at the cosmic scale.
+
+    I will also argue that there are no fundamental differences between the observing capacities of, for example, 
+    bacteria and Homo sapiens (Shapiro 2007; Ben-Jacob 2009; Lyon 2015, 2017). 
+    Intelligence emerges not only in the case of interacting neural cells 
+    but also in the case of interacting bacteria that turn their colonies into brain-like entities 
+    (Ben-Jacob 2009; Slijepcevic 2018). 
+    My argument is rooted in the notion that the process of life is inherently an observation-like process 
+    whereby all organisms are cognitive or semiotic agents and 
+    the process of evolution is a cognitive process (Maturana and Varela 1980),
+    or semiotic scaffolding (Hoffmeyer 2015)
+    This view is consistent with different versions of life principle including 
+    biological determinism (Davies 2003), 
+    biocentrism (Lanza and Berman 2009), 
+    cosmic imperative (De Duve 2011) and 
+    different forms of the panspermia hypothesis (Hoyle and Wickramasinghe 1981; Davies 2003). 
+    In particular, the notion of organisms as cognitive agents 
+    capable of sensing and processing environmental stimuli or biological information (Slijepcevic 2019a) 
+    is consistent with the informational view of life implicit in the concept of biological determinism (Davies 2003), 
+    or the concept of semiotic scaffolding (Hoffmeyer 2015).
+
+    concept biological determinism
+        book
+            author Davies
+            edition 2003 
+    
+    concept biocentrism
+        book
+            author Lanza and Berman
+            edition 2009 
+    
+    concept panspermia hypothesis
+        + (Hoyle and Wickramasinghe 1981; Davies 2003) 
+    
+    concept informational view of life
+    
+    concept semiotic scaffolding
+        book
+            author Hoffmeyer
+            edition 2015
+
+
+Arguing against the Key AP Assumption
+The motivation behind developing an argument against the key AP assumption is in line with anthropic reasoning 
+- the purpose of anthropic reasoning is to reduce anthropic bias. 
+For the sake of argument, let us assume that Fermi’s paradox maybe a source of anthropic bias. 
+Fermi’s paradox may be stated as follows. 
+The expectation is, in line with the astrophysical arguments based on the size and age of our galaxy, 
+that humanity-type civilisations, with developed technologies for cosmic communication and travel, 
+should exist and yet there is no contact with them in spite of SETI efforts (Jones 1985). 
+We can argue further, based on the above assumption, along the following lines. 
+Given that several decades have passed since the establishment of the SETI programme, 
+at the heart of which is the AP assumption, and yet not a single piece of evidence was obtained to support SETI, 
+an alternative hypothesis must be considered. 
+The aim of the alternative hypothesis is to advance anthropic reasoning 
+through reducing the anthropic bias by being more inclusive of the new evidence from biology.
+
+To advance the case against the AP assumption I will proceed as follows. 
+The AP assumption can be shortened into the following statement: 
+There are no true observers in the universe below the human-type observers. 
+The first task in developing the counter-argument is to define 
+(i) the process of observation and 
+(ii) the notion of true observers. 
+To achieve this we can rely on Brandon Carter’s recognition that the term “cognition principle” (Carter 1983) 
+may have been less problematic than the somewhat inappropriate term AP.
+
+Therefore, substituting the word anthropic with the word cognition (AP becomes CP) 
+provides a shortcut towards defining the concepts of observation and true observers. 
+The process of observation may be interpreted as a cognitive process. 
+It consists of three components: 
+the knowing subject (humanity), 
+the object to be known (the world or the universe) and 
+the pool of knowledge used to justify our position in the world 
+(technoscience at the present state of human development; mythologies, religions, and pre-science philosophy in the past) (Fleck 1981). 
+From the perspective of AP, humanity self-selects evidence from the existing pool of knowledge, 
+best suited to describe our position in the world/universe, 
+in line with the prevailing collective opinion. 
+The AP position is consistent with the view that the cognitive capacity, as described above, 
+exist only in one species on Earth, Homo sapiens.
+
+This leads us to consideration of the concept of true observers.
+The SETI programme implies that true observers must be human-like observers: 
+those observers that can 
+(i) perceive local and cosmic-level information through natural sensorium and man-made technologies, or equivalents, 
+(ii) reflect on the sensory inputs with the help of the accumulated explanatory apparatus (a techno-science like method), and 
+(iii) direct its reaction on the cosmic scale through, for example, 
+    emitting and detecting signals in space using appropriate technologies 
+    with the hope of establishing contacts with similar non-local civilisations 
+    that share temporal and spatial coordinates within the range of the signal (Ćirković and Vukotić 2013). 
+Again, the AP position is clear. 
+Only one species (or reference class of observers) on Earth has this capacity, Homo sapiens.
+
+To start developing the counter-argument one can ask questions aimed at probing the applicability of the observation process and 
+the concept of true observers on reference classes other than Homo sapiens. 
+
+Here is the list of four such questions.
+• Are human observers the only observers within the pool of terrestrial life forms? (Q1).
+• If not, (a) what’s the frequency of non-human observers within the pool of terrestrial life forms 
+    \b (some life forms, or all life forms); 
+    \b and (b) if all life forms are observers, 
+    \b what’s the boundary between the observing and non-observing capacities? (Q2).
+• Are there true observers within the pool of terrestrial life forms 
+    amongst the reference classes of observers that are not human? (Q3).
+• Do human observers and other observers and true observers share common features? (Q4).
+
+To formulate answers to Q1–4 I need to outline positions of the four disciplines of biology, 
+relational biology, evolutionary epistemology, biosemiotics and the systems view of life, 
+about how they interpret the process of cognition. 
+A feature these four disciplines of biology share is the independence from the neural-type intelligence 
+when it comes to interpreting cognition (see below). 
+Only when the positions of these four disciplines of biology are stated, I can proceed with answering Q1–4.
+
+
+    concept biosemiotics
+    concept semiosis
+        alias sign utilization
+        school Ferdinand de Saussure
+            alias ramo Strutturale e Generativo
+            + used the term semiology to study signs within the subject of psychology
+            + In his interpretation, the sign was a dual entity consisting of a signifier and a signified. 
+        school Charles Saunders Peirce
+            + invented the triadic concept of sign consisting of a sign vehicle, an object, and an interpretant
+            + This triadic concept is accepted by modern biosemiotics. 
+            + However, the process of turning the concept of semiosis into 
+                \b a fully-fledged scientific discipline of modern biosemiotics, included several steps (Barbieri 2009).
+
+    The discovery of the genetic code pointed to the existence of 
+    “[a] language much older than hieroglyphics, a language as old as life itself … its letters are invisible and 
+    its words are buried in the cells of our bodies” (Beadle and Beadle 1966)
+    
+    As soon as it was discovered, the genetic code was interpreted as 
+    a form of language used by the cell,
+    which in turn becomes a semiotic system. 
+    In this semiotic system, signs or symbols are required for various cellular functions. 
+    Pattee (1968) articulated the idea that the cell is controlled by the symbols.
+    By incorporating a range of ideas into semiosis including molecular biology, 
+    the genetic code, and Von Neuman self-replicating automata, 
+    Pattee argued that “life is matter controlled by symbols” (Pattee 2008).
+
+    concept self-replicating automata
+        author Von Neuman
+
+    This paved the way for the emergence of zoosemiotics, the proposal that animal communication is based on signs (Sebeok 1972). 
+    The reasoning behind zoosemiotics was based on the writings of Jakob von Uexküll. 
+    This almost forgotten biologist provided a large body of evidence for 
+        the existence of semiosis in the world of animals (Uexküll 2010). 
+    Additionally, Thomas Seboek, with the help of collaborators including Prodi (1988) and Krampen (1981), 
+    and relying on the evidence generated by other scientists (Sonea and Panisset 1983; Sonea 1987, 1988), 
+    articulated the view that a primitive form of semiosis or protosemiosis exists 
+    in the world of microorganisms and plants.
+    
+    All this enabled the birth of modern biosemiotics based on two key principles (Barbieri 2009). 
+    First, “life and semiosis are coextensive”. 
+    Biosemiotics is what makes animate matter different from the inanimate equivalent. 
+    Second, the existence of signs, meaning, and codes separates biosemiotics from “intelligent design” and 
+    doctrines, which assume that the origin of life has supernatural roots.
+
+    The consequence of biosemiotics is the emergence of the 
+        
+        concept semiotic scaffolding
+            + the network of semiotic interactions that permeates the entire nature: 
+                \b the web of sensing, interpreting and coordinating social interactions between organisms 
+                \b of the same species and organisms of different species, 
+                \b through various forms of cross-kingdom communication. 
+            book
+                author Jesper Hoffmeyer
+                edition 2015
+            concept semiosphere
+                + is “[a] sphere like the atmosphere, hydro-sphere, or biosphere. 
+                    \b It permeates these spheres from their innermost to outermost reaches and 
+                    \b consists of communication: sound, scent, movement, colors, forms, electrical fields, 
+                    \b various waves, chemical signals, touch, and so forth—in short, the signs of life
+                book 
+                    author Hoffmeyer
+                    edition 1996, vi
+
+    school Relational Biology
+The most prominent proponent of the school of relational biology, 
+originally established by a physicist Nicolas Rashevsky, 
+was his Ph.D. student, Robert Rosen (Louie and Kercel 2007; Louie 2010). 
+        + To explain how science works, Rosen developed the concept of 
+            \b a modelling relationship between the natural system (NS) and the formal system (FS) (Fig. 2 A).
+
+        
+        From the perspective of the human understanding of it, 
+        the world is divided into the self (individual and collective humanity) 
+        and its ambience (the rest of the world) (Rosen 1991). 
+        
+        The structure of the world is such that there is a congruence between the self and its ambience. 
+        For example, the self (NS) internalizes the ambience through its model of it (FS), 
+        based on language and mathematics. 
+        The key thing in the modelling relationship is the concept of information which in Rosen’s diagram (Fig. 2 A) 
+        is represented by arrows indicating encoding and decoding. 
+        
+        Rosen used the mathematical category theory to map the relationship between NS and FS. 
+        In this form of mapping, encoding represents measurements or abstractions. 
+        All measurements are generated through our senses or technological extensions of our senses (scientific instruments). 
+        Thus, the abstraction becomes a form of internalization of the ambience by the self 
+        through the scientific analysis of entities in the observable world. 
+        Decoding, on the other hand, represents an “operator” that makes changes either in NS or FS 
+        to test the modelling relationship. 
+        Rosen’s category-theoretic mapping revealed that there is commutativity 
+        between the properties of NS such as causality, 
+        and the mathematical properties of FS including entailment (implications of the model, Fig. 2 A).
+
+        At the heart of Rosen’s model is an attempt to explain the epistemological relationship 
+        between any natural entity (NS) and knowledge of it (FS) (Fig. 2 A). 
+        
+        Rosen postulated that the entire nature models itself and 
+        it is casually entailed in the form of a modelling relationship presented in Fig. 2 A. 
+        In other words, science is humanity’s way of modelling nature.
+        Similarly to humans, all other species use 
+        species-specific epistemological methods to produce modelling relationships.
+
+        To explain the universality of Rosen’s model Kineman (2007, 2011) and Kineman et al. (2007) 
+        introduced biological structure and function into the model (Fig. 2 B). 
+        The structure and function are the emergent properties of the modelling relationship 
+        resulting from the original Rosen’s diagram (Fig. 2 B). 
+        The structure is represented by natural measurements or abstractions 
+        executed by the sensorium of each species. 
+        The “operator” behind the process of decoding in the original diagram (Fig. 2 B), 
+        when applied to the entire natural world, 
+        becomes the process of the epistemological search for the biological function. 
+        The entire process is tested by the filter of natural selection - 
+        the filter tests various structure-function forms that emerge from the process of biological abstraction 
+        leading to functions such as vision, flight, natural computation, etc. 
+        Thus, the empirical world is emerging from the epistemological-ontological unity implicit in Rosen’s model. 
+        
+        The consequence is that all biological systems, from bacteria to ecosystems, 
+        are anticipatory systems that contain internal predictive models of themselves and their environments (Rosen 1985).
+
+        approach evolutionary epistemology
+            + (Bradie 1986; Plotkin 1987; Gontier 2006) 
+            + was initiated by Campbell (1960, 1974). 
+            approach evolutionary epistemology mechanisms
+                alias EEM
+                + The key assumption behind was that animals are true learners or “knowers” (Plotkin 1982). 
+                + The original position of EEM was recently revised to take account of the cognitive abilities 
+                    \b of all forms of life including prokaryotic microorganisms (bacteria and archaea), 
+                    \b eukaryotic microorganisms (protists), fungi (single- and multi-cellular), 
+                    \b plants and animals (Slijepcevic 2018, 2019a). 
+                This more recent version of EEM reflects better the original principles formulated by Plotkin (1982): 
+                (i) living systems are knowledge systems, 
+                (ii) evolution is the process of gaining knowledge and 
+                (iii) there are features shared by all forms of knowledge gain.
+
+            In brief, all organisms, from bacteria to animals, acquire knowledge about their environments 
+            through the process of natural learning based on a universal algorithm. 
+            concept biological information
+                The driving force behind the algorithm is the concept of biological information. 
+                In the context of biology, information is a purely relational concept. 
+                Any form of information becomes actualized only when there is a cognitive system capable of utilizing it. 
+                Information, when non-utilized by a cognitive system, exists only as potential information (Ip) 
+                (Jablonka 2002; Corning 2007). 
+                For example, the presence of sugar molecules in a watery solution lacking cognitive systems such as bacteria 
+                may be interpreted as a passive form of information or Ip (Slijepcevic 2019a). 
+                Once the bacteria become part of the watery environment containing dissolved sugar, 
+                they detect the sugar with its sensory apparatus. 
+                The passive form of information, or Ip, once detected by the bacterial sensory apparatus, 
+                becomes actualized and turns into control information (Ic) (Corning 2007; Slijepcevic 2019a). 
+                This triggers the algorithm for natural learning.
+
+            However, the automated algorithm process may not be consistent with 
+                the notion of organisms as autonomous natural agents. 
+            Thus, the term algorithm should be softened and viewed as a descriptor 
+            for the sequence of events behind the cognitive process, 
+            rather than an algorithm in the truly mathematical sense. 
+            Most importantly, through the process of natural learning organisms create their environments.
+
+    approach Systems View of Life
+        theory systems theory
+            author Bertalanffy
+            edition 1968
+        field cybernetics
+            author Wiener 1948)
+            , information theory (Shannon and Weaver 1949) and 
+            complexity theory (Mandelbrot 1983; Nicolis and Prigogine 1989) 
+        greatly influenced some of the basic concepts in biology. 
+        
+        As a result, living systems are viewed as open thermodynamic systems,
+        far from equilibrium, that constantly exchange matter, energy, and information with their surroundings. 
+        The key feature of living systems is not their composition, 
+        the nature of chemical constituents that make them up, or matter, 
+        but rather the pattern in which the matter is organized to produce various organismal forms (Capra and Luisi 2014). 
+        
+        concept network pattern of organization
+
+            Systems theorists and cyberneticists identified a common pattern of organization 
+            that typifies all living systems – the network pattern. 
+            The entire biosphere is a giant network consisting of intertwined 
+            webs or networks nesting within the larger networks. 
+            The key property of any network is non-linearity – 
+            the pattern of organization within the network goes in all directions. 
+            As a message, or information, travels along the network pattern it may take a cyclical path 
+            leading to the establishment of a feedback loop. 
+            Indeed, the organization of living systems from cells to societies is replete with feedback loops, 
+            which eventually enable the living systems, including the biosphere at large, to self-regulate.
+
+            This system’s thinking resulted in two important concepts in biology, 
+            concept autopoiesis
+            concept embodied cognition
+            developed by Maturana and Varela (1980). 
+            
+            The key feature of the autopoiesis concept is self-organization or self-making (auto – self; poiesis – making). 
+            According to Maturana and Varela every organism, from single-cell microbes to complex multicellular animals, 
+            is an autopoietic unit – a system that sustains itself due to the network pattern of organization, 
+            which allows constant self-regeneration within the boundary that separates the autopoietic unit from its environment. 
+            However, autopoietic units are never truly separated from the environment. 
+            
+            concept structural coupling
+            There is a structural coupling between the autopoietic unit and its environment.
+
+            The nature of interactions between organisms and their environments is cognitive - the mind-like or brain-like 
+            (Maturana and Varela 1980). 
+            Any living organism, irrespective of whether that is a bacterium or an elephant, decides autonomously, 
+            through its sensorium faced by various constraints, whether to notice a stimulus in the environment 
+            and whether to react to it. 
+            Noticing and reacting to the stimulus leads to structural changes within the organism and within its environment. 
+            Through these structural changes organisms “bring forth a world”, 
+            based on their own decisions which stimuli to notice and react to. As Capra and Luisi (2014) suggested: 
+            “[C]ognition, then, is not a representation of an independently existing world but rather a continual 
+            bringing forth a world through the process of living.”
+

@@ -1,0 +1,10 @@
+$group
+
+    namespace sartre
+
+        concept essere-in-sé
+            + È l'essere che diviene "fenomeno" per la mia coscienza.
+            bax 
+                + È quel lato del reale che nella piegatura che origina la percezione
+                    \b è dalla parte del percepito
+

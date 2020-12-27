@@ -1,0 +1,211 @@
+$group
+    author Foerster
+        fullname Heinz von Foerster
+        born
+            date 13/11/1911
+            place Vienna, Austria
+        died
+            date 2/10/2002
+            place Pescadero, California, Stati Uniti
+        authors-group Circolo di Vienna
+        authors-group Biological Computer Laboratory
+            period 1957
+            author Norbert Wiener
+            author Johann von Neumann
+            author Ross Ashby
+            author Gregory Bateson
+            author Margaret Mead
+            author Claude Shannon 
+        authors-group Macy Conferences
+            + indagini sulla percezione, sulla memoria e sull'apprendimento
+        theory teoria della informazione
+        approach cibernetica del secondo ordine
+            alias cibernetica dei sistemi osservanti
+            founder
+        approach costruttivismo radicale
+            forerunner-of
+        field biologia
+        field teoria dei sistemi complessi
+        field neuropsicologia 
+        field filosofia del linguaggio
+        field etica
+        field fisica
+        field cibernetica
+        field epistemologia
+        field pedagogia
+
+        quote
+            + Non ho idea di quale sia la mia specializzazione. La mia specialità, forse, è proprio non 
+                \b avere una disciplina.
+
+        contribution-to
+            concept auto-referenza
+                + Von Foerster usò le novità epistemologiche sul mercato per costruire una teoria che tentasse di rendere conto 
+                    \b dell'auto-referenza, (la caratteristica di alcuni sistemi biologici, per esempio noi umani, di contenere 
+                    \b informazioni e conoscenza su se stessi)
+                    
+        contribution-to
+            concept auto-regolazione
+                + ovvero la capacità che hanno alcuni sistemi (per esempio le società) di organizzarsi in base a principi dal basso 
+                    \b verso l'alto anziché soltanto a causa di una pianificazione gerarchica, top-down. 
+                + È più facile cambiare la società rendendo i singoli individui competenti e capaci di decidere 
+                    \b che non imponendo dall'alto, come in una repubblica dei saggi, le norme sociali "migliori". 
+
+        principle principio dell'ordine dal rumore
+            + Uno dei contributi importanti di Heinz von Foerster è il paradossale "principio dell'ordine dal rumore": in un sistema 
+                \b complesso, il rumore non è sempre fonte di disordine, ma può invece portare a una crescita di organizzazione. 
+
+        book Come ci si inventa
+            co-author Glasersfeld
+            + dedicato al racconto di "storie, buone ragioni ed entusiasmi di due responsabili dell'eresia costruttivista" 
+                \b (un libro tradotto e pubblicato in Italia dall'editore Odradek) 
+
+        criticism
+            approach realismo epistemologico 
+            + psicologi e neurologi, più inclini al 
+                \b realismo epistemologico, considerarono ciarpame fumoso, sofismi di scarsa utilità scientifica le teorie
+                \b di von Foerster
+
+        contribution-to
+            approach costruttivismo
+            + Foerster intende la realtà come costruzione del soggetto e si muove all'interno del costruttivismo, 
+                \b anche se egli rifiuta tale etichetta. 
+            + Il punto di partenza della sua riflessione è come sia possibile la conoscenza del mondo che ci circonda, 
+                \b da cui deriva il problema se la nostra conoscenza ci mostri una realtà già esistente, indipendente da noi; 
+                \b oppure se tale realtà sia una nostra costruzione.
+            quote
+                + il mondo come le percepiamo è una nostra invenzione 
+                comment
+                    + sosteneva che gli oggetti che vediamo e gli eventi che viviamo non sono in realtà esperienze primarie, 
+                        \b fatti oggettivi, ma mere rappresentazioni di relazioni
+            quote
+                + è il mondo la causa primaria e la mia esperienza ne è la conseguenza, o è la mia esperienza a essere causa primaria 
+                    \b e il mondo la conseguenza?" (Attraverso gli occhi dell'altro).
+                comment
+                    + Inutile dire che von Foerster sostiene saldamente la seconda alternativa. 
+            from
+                author Piaget
+                + Gli oggetti del mondo vengono costruiti attraverso la nostra attività nel mondo, essendo 
+                    \b il sistema nervoso e quello motorio strettamente dipendenti. In tale prospettiva non si può neppure affermare 
+                    \b che il mondo abbia degli oggetti poiché, nel momento in cui si utilizza il termine mondo, si 
+                    \b sta già compiendo un'inferenza riguardo alla nostra esperienza. Anche le caratteristiche e le proprietà 
+                    \b che si crede risiedano nelle cose si rivelano, in ultima analisi, essere proprietà dell'osservatore. 
+                + Von Foerster ci propone come esempio due concetti molto usati nella scienza, il caso e la necessità. 
+                    \b Da un punto di vista costruttivista, il concetto di necessità deriva dalla capacità di effettuare 
+                    \b deduzioni infallibili (come quelle legate all'uso delle leggi scientifiche), mentre il caso deriva 
+                    \b dall'incapacità di effettuare tale tipo di deduzioni (come accade, ad esempio, in tutti i fenomeni in cui 
+                    \b è coinvolta una qualche forma di creatività). Ciò significa che caso e necessità riflettono nostre capacità 
+                    \b o incapacità, e che esse non appartengono alla natura (Sistemi che osservano, pag. 200) 
+
+        contribution-to
+            field cibernetica
+                title Il passaggio dalla cibernetica di primo ordine a quella di secondo ordine 
+                + L'osservatore è quindi colui che ordina e organizza un mondo costruito dalla sua esperienza: egli è al tempo 
+                    \b stesso il costruttore e l'ordinatore della realtà, colui che stabilisce un ordine tra i tanti possibili; 
+                    \b non un ordine qualsiasi, bensì quello a lui più utile e funzionale alle proprie attività.
+                + La reintroduzione dell'osservatore, con conseguente perdita di neutralità e di oggettività, è il requisito 
+                    \b fondamentale per l'epistemologia dei sistemi viventi. Questo mutamento di prospettive provoca conseguenze 
+                    \b immediate nel campo dei sistemi cibernetici, con il passaggio da una cibernetica di 1° ordine, 
+                    \b che studia le modalità di funzionamento dei sistemi, considerati separati dall'osservatore, 
+                    \b alla cibernetica di 2° ordine, dove viene reintrodotto il ruolo dell'osservatore nella costruzione 
+                    \b della realtà osservata. Le macchine cibernetiche di quest'ultimo tipo non agiscono nel mondo esterno 
+                    \b in base ad algoritmi prefissati, dedotti da una realtà che si presume già data, bensì costruendo 
+                    \b progressivamente una rappresentazione che dipende dall'esito delle precedenti interazioni con il mondo stesso. 
+
+        contribution-to
+            field psicoterapia
+            + All'interno di una concezione che considera il soggetto come creatore della realtà
+                \b muta il rapporto terapeuta-paziente.
+            + Si passa da una visione statica e passiva del paziente a una concezione dinamica che concede il massimo spazio 
+                \b a un dialogo bidirezionale, dove ognuno presta grande attenzione alle parole dell'altro, cercando per quanto 
+                \b possibile di porsi nella prospettiva da cui questi muove. Il terapeuta deve far domande a cui il paziente non 
+                \b aveva mai pensato prima. Più ambigue sono le domande, più esse sono aperte, e meglio è, poiché costringono 
+                \b il paziente a uno sforzo creativo a immaginarsi realtà e contesti del tutto nuovi, a confrontarsi con essi, 
+                \b uscendo dalla situazione attuale.
+
+
+        book 
+            title La verità è l'invenzione del bugiardo
+            edition Meltemi (19 ottobre 2001)
+            approach soggettivismo conoscitivo
+                + un idealismo della percezione che potrebbe essere avvicinato a Berkeley. A suo giudizio esse est percipi, 
+                    \b la realtà non esiste, né c'è qualcosa che possa dirsi oggettivo, giacché tutto ciò che è, è prodotto solo 
+                    \b dalla percezione sensibile. Conoscere vuol dire allora "che all'interno del sistema nervoso vengono prodotte 
+                    \b connessioni fra differenti sensazioni" (p. 16). 
+                + Nella nostra vita possiamo essere certi solo del fatto che il nostro organismo percepisce e decodifica stimoli 
+                    \b sensibili e non che a provocare questi stimoli sia stato un tale o un tal'altro oggetto esterno. E poiché 
+                    \b le sensazioni cambiano non è possibile neanche parlare degli oggetti da esse rivelati come se fossero degli 
+                    \b enti stabili ed immutabili. Gli oggetti sono in continuo divenire. È chiaro, quindi, che una volta che 
+                    \b si supponga che il segreto della conoscenza sia la percezione di ogni singolo soggetto, ci si trova in 
+                    \b difficoltà nel poter dimostrare in che modo allora gli uomini riescono ad avere, e a comunicarsele a vicenda, 
+                    \b opinioni e concezioni comuni sul mondo. 
+            
+            contribution-to
+                field etica
+                    + Il solipsismo è l'abisso che sempre si apre ogni volta che si assumono posizioni radicalmente antirealiste. 
+                    + Foerster ne è consapevole, e si ingegna a dimostrare che la realtà è sì costruzione, ma costruzione collettiva 
+                        \b effettuata attraverso il medium del dialogo. Dialogo che, tuttavia, non gli serve a costruire un livello 
+                        \b di realtà condiviso fra i diversi soggetti senzienti, ma solo a consentire ad ogni soggetto di costruire 
+                        \b il suo referente esterno. Dunque, secondo lui, il soggetto non è solo.
+                    + La distruzione della verità ha per lo scienziato austriaco, tuttavia, un immediato e salutare 
+                        \b effetto etico: impone ad ogni individuo il rispetto di tutte le visioni e l'assunzione di una forte responsabilità 
+                        \b rispetto a quanto si dice e si fa. Se, inoltre, la realtà è costruzione, allora è valido quello che Foerster chiama 
+                        \b imperativo etico: "agisci sempre in maniera che il numero delle possibilità cresca" (p. 33). Si deve agire, cioè 
+                        \b in modo da produrre nuove possibilità percettive. Possibilità percettive che possono ampliarsi solo a patto che 
+                        \b si amplino la libertà degli altri individui e delle comunità umane. 
+
+            contribution-to
+                field pedagogia
+                    + Poiché non esiste una verità, ma tante verità quanti sono gli uomini, 
+                        \b allora anche il bambino, l'allievo ha una verità da insegnare e non solo l'insegnante. 
+                    + Va quindi abbandonata l'idea dell'educazione a senso unico, dall'insegnante all'allievo, 
+                        \b che considera l'allievo come puro ricettore di una verità esistente già al di fuori di lui.
+                        \b Conseguentemente, anche il ruolo dell'insegnante va riconfigurato: esso deve sempre più identificarsi 
+                        \b con quello del ricercatore che stimola gli allievi a elaborare il sapere e a collaborare in un clima 
+                        \b di reciproca fiducia. 
+            
+            contribution-to
+                field psicoterapia
+                    + Analogamente, è da riconfigurare il rapporto fra psicoterapeuta e paziente 
+                        \b con problemi psichici. Foerster dimostra convincentemente che alcune malattie psichiche sono tali 
+                        \b solo in alcuni ambienti culturali e terapeutici. Ma se molte delle patologie psichiche sono costrutti 
+                        \b culturali, allora si devono modificare il significato di malattia e il corrispondente atteggiamento 
+                        \b del terapeuta. Il terapeuta deve solo fare in modo che il sofferente sostituisca da sé le rappresentazioni 
+                        \b della realtà che provocano dolore con quelle che producono sensazioni più piacevoli. 
+                        
+            contribution-to
+                field management
+                    + Non meno profonde sono le correzioni che dovrebbero apportarsi alla scienza del management, al modo di 
+                        \b organizzazione delle imprese, se esse si conformassero al criterio della verità come costruzione: il manager 
+                        \b si trasformerebbe da possessore dell'unica verità ritenuta idonea per la strutturazione dell'impresa a 
+                        \b puro collettore delle verità possedute da tutti i dipendenti dell'impresa stessa. 
+                        
+                        
+            contribution-to
+                field scienza dell'informazione
+                    + ciò che va rovesciato in questa scienza è il suo schema principale: il rapporto fra emittente e destinatario 
+                        \b concepito in modo tale che il destinatario appare come il puro immagazzinatore dei messaggi 
+                        \b lanciati dal ricevente. 
+                        
+            contribution-to
+                field cibernetica
+                    + I concetti decisivi all'opera in tutto questo insieme di applicazioni pratiche del princìpio della 
+                        \b verità come costruzione sono per Foerster quelli di autoriflessività, autorganizzazione, circolarità. 
+                        \b Ciò che infatti manifesta ciascuna di queste applicazioni pratiche è la causalità reciproca e circolare 
+                        \b dei vari fattori in essa implicati: l'allievo retroagisce sull'insegnante, il dipendente sul manager, il destinatario 
+                        \b sull'emittente etc. E sul concetto di autorganizzazione circolare si fonda anche la cibernetica, di cui egli, lo abbiamo detto, 
+                        \b è stato uno dei più brillanti esponenti. 
+                    + Le riflessioni che Foerster dedica alla cibernetica sono fra le parti 
+                        \b più interessanti del libro. Colpisce, soprattutto, il rimando che egli fa, per spiegare i concetti fondamentali 
+                        \b della cibernetica, alle categorie aristoteliche di causa finalis e di teleologia interna. Riaffiorano anche, 
+                        \b nelle riflessioni del fisico austriaco su questo tema, benché egli non ne abbia consapevolezza, motivi kantiani 
+                        \b ed hegeliani che pareva fossero stati definitivamente espulsi dal seno della scienza moderna. 
+
+            criticism
+                field gnoseologia
+                opinion-of Fusaro
+                    + Meno interessante è la sua gnoseologia, ingenua, irriflessa e priva del necessario rigore filosofico.
+
+        book
+            title Sistemi che osservano
+            edition Astrolabio Ubaldini (29 luglio 1987)

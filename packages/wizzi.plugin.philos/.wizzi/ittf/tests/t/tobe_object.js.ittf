@@ -1,0 +1,5 @@
+﻿$group
+	$params name
+	
+	_ expect(${name}).to.be.an('object')
+

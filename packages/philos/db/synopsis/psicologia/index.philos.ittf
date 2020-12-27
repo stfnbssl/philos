@@ -1,0 +1,60 @@
+$group
+    
+    approach interazionismo
+        field psicologia
+        + diffuso in ambito sociologico a partire dagli anni 1930
+        + le persone non reagiscono passivamente alla realtà; le loro azioni sono determinate dal significato che 
+            \b attribuiscono agli eventi, nel corso dell'esperienza e attraverso l'interazione
+        + la mente, l'identità e le abilità di ciascun individuo hanno origine nell'interazione sociale
+        + focalizza l’attenzione sul sistema di significati e di credenze che inducono nella persona una certa percezione 
+            \b della realtà, descrivendo la “cosiddetta patologia” come rigidità di tale sistema di significati.
+        + L’attenzione è posta sulle strutture narrative utilizzate per spiegare e interpretare la realtà, generate e
+            \b ricalcate nelle situazioni in cui la persona vive e in riferimento alle quali costruisce l’identità.
+    
+    approach costruzionismo sociale
+        approach costruttivismo
+        approach interazionismo
+        + cerca di coniugare la prospettiva costruttivista con quella interazionista
+        + si oppone alla visione empirista della psicologia tradizionale, critica il metodo sperimentale e la ricerca di laboratorio
+        + sostiene la priorità dei processi sociali su tutti gli altri aspetti della conoscenza
+        + indaga i processi storico-culturali e le pratiche conversazionali grazie alle quali le persone creano la realtà,
+            \b vale a dire i significati socialmente condivisi
+        + fa del linguaggio l'oggetto principale di indagine
+    
+    approach costruttivismo sociale
+        theory teoria dei costrutti personali
+        approach costruzionismo sociale
+        + integrato la teoria dei costrutti personali (di stampo individualista) con il costruzionismo sociale (interazionista)
+
+    approach approccio sistemico-relazionale
+        phase pragmatica
+            + dominata dal modello comportamentista e l'interesse è rivolto agli effetti della comunicazione sul comportamento
+            + la mente viene paragonata ad un computer ed i vissuti soggettivi sono messi in disparte per concentrare 
+                \b l'attenzione sugli effetti comportamentali della comunicazione. La cibernetica rappresenta il movimento 
+                \b intellettuale dominante in ambito scientifico e, per quanto riguarda le scienze umane, Bateson è uno dei
+                \b suoi maggiori esponenti; egli è attualmente considerato uno dei padri fondatori dell'epistemologia sistemica 
+        phase semantica
+            + l'interesse è rivolto ai significati personali espressi attraverso il linguaggio; sono prevalenti il modello 
+                \b costruttivista e quello costruzionista
+            + a partire dagli anni 1980 ci si rende conto dell'impossibilità di descrivere il comportamento umano paragonandolo 
+                \b a quello di una macchina e della necessità di prendere in considerazione i significati soggettivi che gli 
+                \b individui attribuiscono ai comportamenti e alle situazioni; 
+            + si attua il passaggio alla cibernetica di secondo ordine. 
+            + il modello comportamentista viene abbandonato in favore di quello costruttivista: la realtà non viene più considerata 
+                \b come indipendente dall'osservatore ed oggettivamente conoscibile, bensì viene ritenuta il frutto di un processo 
+                \b di costruzione. 
+            + Un'ulteriore evoluzione nel pensiero sistemico è resa possibile dall'affermarsi del costruzionismo sociale, 
+                \b il quale sostiene che la realtà sia il risultato della costruzione operata da più individui in interazione, 
+                \b nel corso della conversazione. Viene prestata attenzione ai significati personali che le persone attribuiscono 
+                \b alle situazioni e che vengono co-costruiti nel corso delle interazioni sociali. 
+            + il terapeuta viene considerato connesso al sistema osservato, ci si rende conto che non può rimanere neutrale. 
+                \b Ogni conoscenza da lui prodotta è autoreferenziale, nel senso che rispecchia non solo il suo sistema teorico 
+                \b di riferimento, ma anche il suo punto di vista, la sua storia, le sue sensazioni
+
+
+    $include approccionarrativo
+    $include bateson
+    $include binet
+    $include paloalto
+    $include thorndike
+    $include wundt

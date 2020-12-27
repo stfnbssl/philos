@@ -1,0 +1,15 @@
+$group
+
+    namespace lacan
+
+        concept testo
+            quote
+                + Sicché di questo lembo di discorso ciascuno di noi, 
+                    \b non avendolo potuto proferire con la bocca, 
+                    \b è condannato, per tracciarne la linea fatale, a farsene alfabeto vivente. 
+                    \b Vale a dire che a tutti i livelli del gioco della sua marionetta, 
+                    \b esso prende a prestito qualche elemento 
+                    \b affinché la loro sequenza sia sufficiente a dar testimonianza di un testo, 
+                    \b senza il quale il desiderio che vi si accompagna non sarebbe indistruttibile.
+                article lacan.la-psicoanalisi-e-il-suo-insegnamento
+

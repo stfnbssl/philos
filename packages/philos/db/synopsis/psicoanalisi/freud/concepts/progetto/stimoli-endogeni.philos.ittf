@@ -1,0 +1,9 @@
+$group
+
+    namespace freud
+
+        concept stimoli-endogeni
+            
+            r-concept freud.pulsione
+                + Gli stimoli endogeni del progetto sono le
+                    \b prime precisazioni del concetto di pulsione.

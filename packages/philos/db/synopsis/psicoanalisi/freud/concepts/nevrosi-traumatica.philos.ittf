@@ -1,0 +1,6 @@
+$group
+
+    namespace freud
+
+        concept nevrosi-traumatica
+

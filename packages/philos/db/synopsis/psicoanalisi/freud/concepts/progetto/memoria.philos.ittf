@@ -1,0 +1,12 @@
+$group
+
+    namespace freud
+
+        concept memoria
+            
+            r-concept freud.facilitazione
+                + La memoria è costituita dalle differenze di tutte le facilitazioni tra i neuroni,
+                    \b che sono la descrizione di tutte le influenze 
+                    \b esercitate su ψ dal mondo esterno e interno.
+                + Anche l'Io investe i neuroni ψ e suscita flussi 
+                    \b che devono certamente lasciare tracce sotto forma di facilitazioni. 

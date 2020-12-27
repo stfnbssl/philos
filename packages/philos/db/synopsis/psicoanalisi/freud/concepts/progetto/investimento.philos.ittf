@@ -1,0 +1,10 @@
+$group
+
+    namespace freud
+
+        concept investimento
+            title investimento
+                de Besetzung
+            alias carica
+            + È una certa Qἠ con cui un neurone viene eccitato.
+

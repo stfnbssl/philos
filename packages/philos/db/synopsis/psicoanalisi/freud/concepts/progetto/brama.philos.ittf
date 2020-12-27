@@ -1,0 +1,8 @@
+$group
+
+    namespace freud
+
+        concept brama
+            + La brama comporta uno stato di tensione nell'Io,
+                \b e di conseguenza è investita la rappresentazione dell'oggetto amato
+                \b (rappresentazione di desiderio).

@@ -1,0 +1,33 @@
+$group
+
+    namespace freud
+
+        concept neuroni-ψ
+            alias neuroni impermeabili
+            alias sistema ψ
+            
+            r-concept freud.progetto.barriera-di-contatto
+                + I neuroni ψ offrono resistenza,
+                    \b le loro barriere di contatto consentono solo un passaggio difficile o parziale di Qἠ.
+            
+            r-concept freud.progetto.memoria
+                + I neuroni ψ possono trovarsi in condizioni modificate dopo il passaggio della carica
+                    \b e soddisfano quindi alla funzione della memoria e dei processi psichici in genere.
+                + Ogni neurone ψ deve avere parecchie vie di collegamento con altri neuroni,
+                    \b cioé varie barriere di contatto; 
+                    \b da ciò dipende la possibilità di scelta,
+                    \b che è determinata dalla facilitazione, 
+                    \b che essendo una modificazione permanente 
+                    \b attua la memoria della via di conduzione della carica Qἠ.
+            
+            r-concept freud.progetto.facilitazione
+                + Le alterazioni che possono subire i neuroni-ψ consistono nell'agevolare il passaggio della carica
+                    \b rendendoli più simili ai neuroni φ.
+
+            concept del-pallio
+                + Neurone ψ che sono investiti da neuroni φ.
+
+            concept nucleari
+                + Neuroni ψ che sono investiti dalle vie endogene di conduzione.
+
+

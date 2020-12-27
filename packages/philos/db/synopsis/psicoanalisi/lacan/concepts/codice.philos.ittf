@@ -1,0 +1,11 @@
+$group
+
+    namespace lacan
+
+        concept codice
+        
+            + Il codice si definisce come l’insieme dei segni e dei simboli 
+                \b che permettono non solo di rappresentare, ma anche di trasmettere dell’informazione. 
+                \b Questa competenza non è possibile se non perché 
+                \b l’insieme dei segni e dei simboli è retto da delle convenzioni prestabilite. 
+                \b Il codice del discorso autorizza tanto quanto fonda la comunicazione intersoggettiva.

@@ -1,0 +1,32 @@
+$group
+
+    concept vel-esaustivo
+        alias vel disgiuntivo
+        + vado o qui o là, scelgo una delle due possibilità 
+
+    concept vel-inclusivo
+        + vado qui o vado lì, non importa dove, è equivalente
+
+    concept vel-della-scelta-forzata
+        + è il vel della scelta forzata, 
+            \b quello che interessa a Lacan
+            \b per esprimere l'essere del soggetto
+            \b in rapporto al senso
+        example
+            + Se dico: o la borsa o la vita, 
+                \b se scelgo la borsa perdo tutte e due; 
+                \b se scelgo la vita, avrò allora una vita priva della borsa.
+        + l’esempio di Lacan per esprimere l'essere del soggetto:
+            quote
+                + Illustriamolo con ciò che ci interessa, l’essere del soggetto, che è là sotto il senso. 
+                    \b Se scegliamo l’essere, il soggetto scompare, ci sfugge, cade nel non senso. 
+                    \b Se scegliamo il senso, il senso non sussiste se non amputato di quella parte di non senso che,
+                    \b propriamente parlando, è ciò che costituisce, nella realizzazione del soggetto, l’inconscio. 
+                    \b In altri termini, è proprio della natura del senso, 
+                    \b quale viene a emergere nel campo dell’Altro, 
+                    \b che esso è, per gran parte del suo campo, eclissato dalla scomparsa dell’essere 
+                    \b indotta dalla funzione stessa del significante 
+                book lacan.i-quattro-concetti-fondamentali-della-psicoanalisi
+                page 207
+
+

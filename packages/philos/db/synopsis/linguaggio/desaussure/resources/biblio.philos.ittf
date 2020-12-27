@@ -1,0 +1,11 @@
+$group
+
+    book desaussure.corso-di-linguistica-generale
+        author DeSaussure
+        title Cours de linguistique générale
+        edition Laterza, Bari, 1972
+        translation Tullio De Mauro
+
+    article dor.grafo_del_desiderio
+        author Joël Dor
+        url http://website.lacan-con-freud.it/ar/joel_dor_grafo_del_desiderio_EAR.pdf

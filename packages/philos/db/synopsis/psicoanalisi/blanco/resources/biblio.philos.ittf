@@ -1,0 +1,17 @@
+$group
+
+    article bacchiega.logica-simmetrica-logica-asimmetrica
+        author Bacchiega
+        title Logica simmetrica e logica asimmetrica. Introduzione a Matte Blanco
+        url https://www.psicobottega.it/2019/07/30/logica-simmetrica-logica-asimmetrica-introduzione-matte-blanco/
+        author LUCA BACCHIEGA
+
+    book blanco.l-inconscio-come-insiemi-infiniti
+        author Blanco
+        edition Einaudi, Torino, 1975, 2nd edition, 
+        title L’inconscio come insiemi infiniti. Saggio sulla bi-logica
+    
+    book blanco.pensare-sentire-essere
+        author Blanco
+        edition Einaudi, Torino, 1981 
+        title Pensare, sentire, essere. Riflessioni cliniche sull’antinomia fondamentale dell’uomo e del mondo        

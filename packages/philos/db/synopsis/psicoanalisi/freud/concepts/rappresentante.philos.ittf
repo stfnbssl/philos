@@ -1,0 +1,119 @@
+$group
+
+    namespace freud
+
+        concept rappresentante
+        
+            concept ideativo
+                title rappresentante ideativo
+                    de Vorstellungsrepräsentanz
+                        alias Vorstellungsrepräsentant
+                    en ideational representative
+                etimology
+                    + Repräsentanz è un termine tedesco di origine latina che va inteso come «delegazione». 
+                    + Vorstellung è un termine filosofico il cui equivalente italiano tradizionale è rappresentazione.
+                    + Vorstellungsrepräsentanz significa quindi rappresentanza data da una rappresentazione, 
+                        \b ossia ciò che rappresenta (qui: ciò che rappresenta la pulsione) 
+                        \b nel campo della rappresentazione. 
+                
+                + Rappresentazione o gruppo di rappresentazioni a cui si fissa la pulsione 
+                    \b nel corso della storia del soggetto e con la cui mediazione essa si inserisce nello psichismo.
+
+                Il concetto di rappresentanza ideativa compare nei testi in cui Freud definisce 
+                    la relazione tra il somatico e lo psichico 
+                    e quella tra la pulsione e i suoi rappresentanti. 
+                La nozione è definita e utilizzata soprattutto nei lavori metapsicologici del 1915 
+                (La rimozione [Die Verdrängung), L'inconscio Das Unbetousste]). 
+                L'esposizione più chiara di tale concetto è quella contenuta 
+                nella teoria più completa che Freud ha dato della rimozione.
+                
+                Ricordiamo brevemente che la pulsione, essendo somatica, 
+                rimane fuori dall'azione diretta di una azione psichica di rimozione nell'inconscio. 
+                Quest'ultima può riguardare soltanto rappresenstanti psichici della pulsione; 
+                strettamente parlando, solo i rappresentanti ideativi. 
+                Infatti Freud distingue due elementi nel rappresentante psichico della pulsione, 
+                la rappresentazione e l'affetto, 
+                e nota che ciascuno incontra un destino diverso: 
+                solo il primo elemento (il rappresentante ideativo) passa tale e quale nel sistema inconscio 
+                (su questa distinzione, vedi : Rappresentante psichico; Affetto; Rimozione).
+                
+                Che cosa bisogna intendere per rappresentante ideativo? 
+                Freud ha poco esplicitato questo concetto. 
+                Sul termine di rappresentante e sulla relazione di delegazione che esso suppone tra la pulsione e se stesso, 
+                rinviamo il lettore alla voce: Rappresentante psichico. 
+                Sul termine di rappresentazione, 
+                che designa l'elemento ideativo in opposizione all'elemento affettivo, 
+                rinviamo alle voci: Rappresentazione (Vorstellung); Rappresentazione di cosa (Sachvorstellung o Dingvorstellung): Rappresentazione di parola (Wortvorstellung).
+                
+                Nella teoria del sistema inconscio che egli espone nel suo articolo del 1915, 
+                Freud vede nei rappresentanti ideativi non solo i contenuti dell'Inc, 
+                ma ciò che ne è costitutivo. 
+                
+                Infatti, è con un unico atto - la rimozione originaria - che 
+                la pulsione si fissa a un rappresentante e che l'inconscio si costituisce: 
+                
+                quote
+                    + Abbiamo motivo [...] di ammettere una rimozione originaria, 
+                        \b una prima fase della rimozione che consiste nel fatto che 
+                        \b il rappresentante psichico (ideativo) della pulsione 
+                        \b si vede chiuso l'accesso alla coscienza. 
+                        \b Con essa si attua una fissazione; 
+                        \b il rappresentante corrispondente permane da allora in poi inalterabile 
+                        \b e la pulsione rimane legata a esso » (1 a).
+                
+                In questo passo il termine di fissazione* suggerisce allo stesso tempo due idee: 
+                    quella, che è al centro della concezione genetica, 
+                        di una fissazione della pulsione a una fase o a un oggetto, 
+                    e l'idea di trascrizione della pulsione nell'inconscio. 
+                
+                Quest'ultima idea - o quest'ultima immagine - è indubbiamente molto antica in Freud. 
+                La si trova formulata già nelle lettere a Fliess, 
+                    in uno dei primi schemi dell'apparato mentale 
+                    - che comporterebbe vari strati di trascrizioni di segni (Niederschriften) (2) - 
+                    e ripresa in L'interpretasione dei sogni (Die Traumdeutung, 1900), 
+                    specie in un passo in cui viene discussa l'ipotesi di un cambiamento di trascrizione 
+                    che subirebbe una rappresentazione nel passare da un sistema a un altro (3).
+                Si può vedere in questo paragone tra il rapporto della pulsione col suo rappresentante 
+                    e la trascrizione di un segno di un significante, (per usare un termine linguistico) 
+                    un mezzo per chiarire la natura della rappresentanza ideativa.
+
+            concept psichico
+                title rappresentante psichico
+                    de psychische Repräsentanz
+                + Termine utilizzato da Freud per designare, 
+                    \b nel quadro della sua teoria della pulsione, 
+                    \b l'espressione psichica delle eccitazioni endosomatiche.
+                + Freud considera la pulsione come un concetto limite tra il somatico e lo psichico. 
+                    \b Dalla parte somatica, la pulsione ha la sua fonte in fenomeni organici 
+                    \b generatori di tensioni interne a cui il soggetto non può sfuggire; 
+                    \b ma, per la meta cui tende e gli oggetti cui si rivolge, 
+                    \b la pulsione ha un destino (Triebschicksal) essenzialmente psichico.
+                + Nei testi di Freud talora è la pulsione stessa che appare 
+                    \b come il rappresentante psichico delle eccitazioni 
+                    \b che provengono dall'interno del corpo e raggiungono la psiche
+                    \b talora la pulsione è identificata col processo di eccitazione somatica 
+                    \b ed è allora essa che è rappresentata nello psichismo da «rappresentanti della pulsione» 
+                    \b i quali comprendono due elementi: il rappresentante ideativo e l'importo d'affetto.
+
+            concept della-pulsione
+                title rappresentante della pulsion
+                    de Triebreprisentant
+                + designa gli elementi o i processi in cui la pulsione trova la sua espressione psichica
+                + a volte è sinonimo di rappresentante ideativo";
+                    \b nella descrizione delle fasi della rimozione 
+                    \b viene esaminata soltanto la sorte del rappresentante ideativo 
+                    \b finché non viene preso in considerazione un altro elemento della rappresentanza psichica: 
+                    \b l'importo di affetto (Affektbetrag) 
+                    quote
+                        + [l'importo di affeto] corrisponde alla pulsione nella misura in cui 
+                            \b questa si è staccata dalla rappresentazione e ha trovato un'espressione adeguata
+                            \b alla sua quantità in processi che ci diventano sensibili come affetti.
+                        book freud.la-rimozione
+                + Freud non usa il termine di rappresentante affettivo 
+                + A rigore si potrebbe quindi sostenere che la pulsione è rappresentata 
+                    \b dall'affetto solo al livello del sistema Prec-C o dell'Io.
+
+                        
+                        
+
+

@@ -1,0 +1,91 @@
+{
+    "authors": [],
+    "authorsGroups": [],
+    "fields": [
+        {
+            "kind": "field",
+            "id": "biology",
+            "placeholder": true
+        },
+        {
+            "kind": "field",
+            "id": "semiotics",
+            "placeholder": true
+        },
+        {
+            "kind": "field",
+            "id": "philosophy",
+            "placeholder": true
+        },
+        {
+            "kind": "field",
+            "id": "linguistics",
+            "placeholder": true
+        },
+        {
+            "kind": "field",
+            "id": "natural selection",
+            "placeholder": true
+        },
+        {
+            "kind": "field",
+            "id": "animal behaviour",
+            "placeholder": true
+        },
+        {
+            "kind": "field",
+            "id": "psychology",
+            "placeholder": true
+        },
+        {
+            "kind": "field",
+            "id": "life fundamentals",
+            "placeholder": true
+        },
+        {
+            "kind": "field",
+            "id": "biosemiotics",
+            "contents": [
+                {
+                    "line": "Combining research approaches from biology, semiotics, philosophy and linguistics, the field of biosemiotics studies semiotic processes as they occur in and among living systems. This has important implications and applications for issues ranging from natural selection to animal behaviour and human psychology, leaving biosemiotics at the cutting edge of the research on the fundamentals of life."
+                }
+            ],
+            "extends": [
+                {
+                    "id": "biology"
+                },
+                {
+                    "id": "semiotics"
+                },
+                {
+                    "id": "philosophy"
+                },
+                {
+                    "id": "linguistics"
+                }
+            ],
+            "exports": [
+                {
+                    "id": "natural selection"
+                },
+                {
+                    "id": "animal behaviour"
+                },
+                {
+                    "id": "psychology"
+                },
+                {
+                    "id": "life fundamentals"
+                }
+            ]
+        }
+    ],
+    "approaches": [],
+    "concepts": [],
+    "theories": [],
+    "books": [],
+    "chapters": [],
+    "articles": [],
+    "webpages": [],
+    "thesis": []
+}

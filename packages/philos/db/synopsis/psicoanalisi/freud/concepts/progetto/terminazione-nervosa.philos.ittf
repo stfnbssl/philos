@@ -1,0 +1,14 @@
+$group
+
+    namespace freud
+
+        concept terminazione-nervosa
+            + I neuroni φ non terminano in modo libero alla periferia,
+                \b ma entro strutture cellulari che ricevono gli stimoli esogeni in loro vece.
+                \b Queste strutture possono avere lo scopo di smorzare le Q dello stimolo esterno,
+                \b svolgendo la funzione di schermi di Q,
+                \b portando Q a livello di intensità intercellulare.
+                
+            + I neuroni ψ hanno terminazioni di tipo libero;
+                \b uno schermo di Q sembra inutile qui,
+                \b dove lo stimolo è già in partenza ridotto a livelli intercellulari.

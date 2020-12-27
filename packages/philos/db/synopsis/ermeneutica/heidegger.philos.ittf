@@ -1,0 +1,31 @@
+$group
+    author Heidegger
+        name Martin Heidegger
+        born
+            date 26/9/1889
+            place Meßkirch, Germania
+        died
+            date 26/5/1976
+            place Friburgo in Brisgovia, Germania
+
+    concept è come copula
+        + indica una connessione predicativa tra una cosa (il soggetto) e qualcosaltro
+    concept è come: egli esiste
+        + indica l'esistenza di una cosa (il soggetto)
+    
+    concept oscuramento del mondo
+    
+    concept fuga degli dei
+
+    concept denaturalizzazione-essere-umano
+        quote
+            + Dire che la natura dell’uomo è di poter essere 
+                \b è come dire che la sua natura è 
+                \b di non avere una natura o un’essenza
+            book vattimo.introduzione-a-heidegger
+
+    book vattimo.introduzione-a-heidegger
+        author Vattimo
+        edition Bari-Roma Laterza, 2004            
+        title Introduzione a Heidegger
+

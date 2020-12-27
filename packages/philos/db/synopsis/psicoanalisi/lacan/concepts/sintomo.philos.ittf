@@ -1,0 +1,12 @@
+$group
+
+    namespace lacan
+
+        concept sintomo
+
+            + Nel seminario XXIII, Il sintomo, 
+                \b alla ribalta non è più il simbolico, ma il reale. 
+                \b Così il sintomo stesso è visto da Lacan sotto un'altra angolatura. 
+                \b Da metafora del soggetto, diventa qualcosa che permette al soggetto un raccordo 
+                \b che gli consente di tenere insieme quella triade che costituisce l'essere parlante: 
+                \b l'immaginario, il simbolico e il reale.

@@ -1,0 +1,32 @@
+$group
+
+    namespace sartre
+
+        concept azione
+            + L'uomo agisce, anzi, per Sartre, è azione, e la condizione dell'azione è la libertà.
+                \b Non c'è infatti azione se non intenzionale. 
+                \b Un uragano non è una azione, è un accadimento: 
+                \b cosi è accadimento ciò che l'uomo compie senza intenzione. 
+                \b Ora agire intenzionalmente significa proporsi di attuare un fine che ancora non c'e, 
+                \b di porre in essere ciò che ancora non è. 
+                \b Di più: questo qualche cosa che ancora non è deve presentarsi come desiderabile, 
+                \b e il desiderio suppone la mancanza, la privatio come si vide sopra.
+                \b L'azione non nasce quindi dall'ente, dall'in-se, e quindi non può dirsi determinata, 
+                \b ma nasce dal non essere del per-se, dell'uomo; 
+                \b che è quanto dire: l'uomo, quando agisce, si autodetermina, e quindi è libero. 
+                
+                Vano sarebbe addurre contro questa affermazione che l'uomo agisce sempre in base a motivi, 
+                poichè chi dà a un oggetto, a una situazione, il carattere di motivo è proprio l'uomo che sceglie. 
+                A seconda infatti del valore che l'uomo attribuisce ad un movente, 
+                questo diventa o no il motivo della sua azione. 
+                
+                La paura di morir di fame diventa motivo di una azione, 
+                per esempio del fatto che un operaio accetti un salario inadeguato, 
+                finchè il non morire di fame, ossia il continuare a vivere, 
+                è considerato la quell'operaio il valore supremo. 
+                
+                Se quell'operaio mette al di sopra della vita la difesa dei diritti della classe operaia, 
+                la testimonianza contro l'ingiustizia, 
+                quell'operaio rifiuterà il salario, farà sciopere, farà una insurrezione. 
+                
+                L'uomo

@@ -1,0 +1,35 @@
+$group
+
+    function Quote
+        param props
+        var {item} = props
+        return
+            blockquote
+                {
+                    _ item.lines.map
+                        function
+                            param token
+                            return 
+                                < p {token}
+                div {item.author}
+
+    function ContentText
+        param props
+        var {item} = props
+        if item.contents && item.contents.length > 0
+            return
+                < div
+                    {
+                        _ item.contents.map
+                            function
+                                param token
+                                if token.line
+                                    return 
+                                        < p {token.line}
+                                elif token.quote
+                                    return 
+                                        < Quote
+                                            @ item {token.quote}
+
+        else
+            return null

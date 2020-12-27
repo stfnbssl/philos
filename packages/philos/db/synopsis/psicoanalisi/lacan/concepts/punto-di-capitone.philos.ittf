@@ -1,0 +1,80 @@
+$group
+
+    namespace lacan
+
+        concept punto-di-capitone
+            
+            + Il punto di capitone è l'annodamento che tiene uniti significante e significato.
+
+            quote 
+                + [Per Lacan il punto di capitone è prima di tutto l’operazione mediante cui]
+                    \b il significante arresta lo scivolamento altrimenti indefinito della significazione
+                article lacan.la-sovversione-del-soggetto
+            
+            quote
+                + [il rapporto del significante con il significato è]
+                    \b sempre fluido, sempre pronto a disfarsi
+                book lacan.seminario-III
+                page 311
+            
+            r-concept desaussure.delimitazione
+                + Il concetto di punto di capitone, 
+                    \b che prende valore dalla “delimitazione” di cui parla F. de Saussure, 
+                    \b assume in Lacan la sua piena e intera accezione solo se riferito al registro del desiderio. 
+                    \b In effetti, il punto di capitone è il costituente elementare del grafo del desiderio, 
+                    \b che Lacan elabora nel corso di due seminari successivi: 
+                    \b “Les formations de l’inconscient” (1957-1958) e
+                    \b “Le désir et son interprétation” (1958-1959).
+                + La "delimitazione" lacaniana mediante il punto di capitone 
+                    \b è confortata dal fondamento stesso dell’esperienza psicotica 
+                    \b dove questo tipo di annodamento sembra appunto fare difetto.
+                        bax
+                            + vedi Matte Blanco
+
+            r-concept lacan.nome-del-padre
+                + Il Nome del Padre è il “point de capiton” [trapunta] maggiore 
+                    \b che permette la significazione.  
+                    \b Il point de capiton è il nodo dei materassai, un punto di aggancio, 
+                    \b che fa nodo in modo puntiforme tra significante e significato, 
+                    \b mettendo in comunicazione le due grandi reti, 
+                    \b quella dei significanti e quella dei significati.  
+                    \b In questo modo costituisce un punto di arresto 
+                    \b alla caratteristica metonimica del linguaggio che tende a essere infinita, 
+                    \b rimandando da un significante a un altro la significazione.  
+                    \b Il point de capiton coincide col significante che chiude la frase 
+                    \b e che permette agli altri di prendere après coup (retroattivamente) una significazione, 
+                    \b in modo sempre allusivo.  
+                    \b Questa è la funzione che Lacan attribuisce alla metafora 
+                    \b e che fa difetto nella psicosi.
+
+            r-concept lacan.metafora
+                quote
+                    + La metafora è il punto di arresto.  
+                        \b Per Lacan, lettore di Jakobson, il linguaggio ha due assi: 
+                        \b l’asse sintagmatico, della sostituzione 
+                        \b (che fa scivolare il senso da un significante all’altro) 
+                        \b corrisponde per Lacan alla metonimia, 
+                        \b mentre l’asse paradigmatico, che produce un più di senso, 
+                        \b è la metafora.  
+                        \b Il point de capiton è quel punto di cucitura (abitualmente usato dai materassai), 
+                        \b l’impuntitura, che fa nodo nella lingua, 
+                        \b che arresta lo scivolamento della catena metonimica producendo il senso metaforico.
+                    article spinelli.le-psicosi-ordinarie-un-introduzione
+
+            r-concept lacan.retroazione
+                + È sempre retroattivamente che un segno fa senso, 
+                    \b nella misura in cui la significazione di un messaggio 
+                    \b avviene solo al termine della stessa articolazione significante. 
+                    \b Questa dimensione retroattiva del senso 
+                    \b è materializzata sullo schema del punto di capitone dal senso retrogrado del vettore
+                    \b delta --> $; 
+                    \b in altri termini, è nella dimensione dell’après-coup, della retroazione 
+                    \b che il punto di capitone arresta lo scivolamento della significazione. 
+                    \b L’ambiguità del problema dell’enunciazione resta sospeso, per una larga parte, 
+                    \b alla delimitazione della significazione nell’ “après-coup” dell’articolazione.
+
+            r-concept lacan-desiderio
+                + Una volta introdotto da Lacan il punto di capitone, 
+                    \b si profila nel processo del discorso una dimensione 
+                    \b che si potrebbe designare ante-linguistica: 
+                    \b la dimensione del desiderio

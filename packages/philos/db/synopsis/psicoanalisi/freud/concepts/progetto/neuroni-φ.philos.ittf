@@ -1,0 +1,23 @@
+$group
+
+    namespace freud
+
+        concept neuroni-φ
+            alias neuroni permeabili
+            alias neuroni percettivi
+            alias sistema φ
+            
+            + I neuroni φ non offrono resistenza e non trattengono nulla della carica Qἠ,
+                \b da cui sono eccitati,
+                \b come se non avessero barriere di contatto.
+            
+            + Sono i neuroni che soddisfano alla funzione della percezione, essendo sempre pronti
+                \b a ricevere nuove impressioni.
+            
+            r-concept freud.processo.facilitazione
+                + Probabilmente i neuroni φ erano inizialmente neuroni ψ,
+                    \b ma essendo neuroni percettivi, più esposti a forti cariche di Qἠ,
+                    \b hanno raggiunto il grado di facilitazione massimo e sono diventati completamente permeabili.
+            
+            + I neuroni-φ ricevono cariche dal mondo esterno.
+

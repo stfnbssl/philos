@@ -1,0 +1,59 @@
+$group
+
+    namespace blanco
+
+        concept inconscio
+
+            use-concept freud.inconscio.caratteristiche
+                quote
+                    author Blanco
+                    + studiando il pensiero schizofrenico [..] mi sono reso conto che 
+                        \b tali principi si riferivano essenzialmente alle 
+                        \b caratteristiche del sistema inconscio [di Freud] e che 
+                        \b il pensiero schizofrenico era nient'altro 
+                        \b che una particolare applicazione di queste [caratteristiche]
+
+        concept inconscio-come-modo-di-essere
+            title l'inconscio come modo di essere
+            alias modo di essere simmetrico
+            
+            quote
+                + [..] ragioni di coerenza costrinsero Freud a non usare più 
+                    \b il termine inconscio nel senso primitivo, 
+                    \b e aveva ragione a non fare così. 
+                    \b L'origine di questo problema sta nel fatto che 
+                    \b ciò che Freud in un primo tempo descrisse con il nome «l'inconscio» 
+                    \b non era soltanto una qualità, ma un modo di essere 
+                    \b caratterizzato da varie altre proprietà essenziali 
+                    \b oltre a quella di essere inconscio. 
+                    \b La qualità di essere inconscio era una conseguenza necessaria della sua struttura e 
+                    \b della struttura di quell'altro modo di essere, 
+                    \b descritto da Freud come «il conscio» o «coscienza», 
+                    \b ma questa non era la sua sola caratteristica distintiva. 
+
+            + L’inconscio, in qualità di modo di essere, 
+                \b lavora quindi solo con relazioni simmetriche (logica simmetrica) 
+                \b e tratta il suo contenuto seguendo tale logica 
+                \b per questo motivo è chiamato anche modo di essere simmetrico.
+
+            + L’inconscio è concepibile come un insieme infinito, 
+                \b poiché le caratteristiche peculiari di un insieme siffatto 
+                \b si adattano facilmente alle assurdità prodotte dalla logica simmetrica.
+                bax
+                    + un presente senza riflessione è eterno ed infinito
+                        \b essendo senza spazio e tempo 
+                    + la simmetria è immediatezza, l'asimmetria è mediazione
+                    + l'immediatezza è prima dello spazio e del tempo
+
+        concept contenuto-inconscio
+            
+            + Il contenuto inconscio 
+                \b non è qualcosa che prima era presente nella coscienza 
+                \b e poi è stato spostato perché inaccettabile, 
+                \b bensì è un mondo per sua struttura inafferrabile dal pensiero. 
+            
+            + Mai potrà un contenuto inconscio divenire cosciente, 
+                \b se non dopo un processo di traduzione 
+                \b che però inevitabilmente ne impoverisce i contenuti 
+                \b costringendoli entro regole (quelle della logica aristotelica) 
+                \b che prima non avevano. 

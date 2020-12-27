@@ -1,0 +1,283 @@
+$group
+    url http://www.filosofico.net/peirce.htm
+
+    author Peirce
+        quote
+            + La parola o il segno che l’uomo usa è l’uomo stesso.
+                \b Perché il fatto che ogni pensiero è un segno, 
+                \b insieme al fatto che la vita è un seguito di pensieri, 
+                \b prova che l’uomo è un segno. 
+                \b Cosí, il fatto che ogni pensiero è un segno esterno, 
+                \b prova che l’uomo è un segno esterno. 
+                \b In altri termini, l’uomo e il segno esterno sono la stessa cosa, 
+                \b nello stesso senso in cui la parola homo e man sono identiche. 
+                \b Cosí il mio linguaggio è la somma totale di me stesso; poiché l’uomo è il pensiero".
+
+        approach pragmatismo
+            + il significato di qualsiasi cosa è determinato dalla sua rilevanza pratica. 
+            + l'iniziatore di questa nuova corrente é Charles Sanders Peirce
+                \b anche se egli non tarderà a prendere le distanze dal movimento
+                \b a cui cambierà poi il nome in «pragmaticismo» 
+                \b per differenziarsi da William James. 
+            + rimproverava James di aver impoverito il pragmatismo 
+                \b attraverso l’esclusione del suo fondamento logico–semiotico, 
+                \b che per Peirce è parte integrante di una teoria della conoscenza. 
+    
+        book
+            title Writings of Charles Sanders Peirce. A chronological edition, 
+            edition Peirce Edition Project, Università dell’Indiana
+
+        quote
+            + Il concetto di essere contiene la mera unione del predicato con il soggetto, 
+                \b unione nell’esprimere la quale le due accezioni della copula («è effettivamente» e «sarebbe») concordano. 
+                Il concetto di essere, insomma non ha contenuto
+            page C.P. 1.547
+            
+        concept conoscenza
+            + non esiste una conoscenza che non sia segnica 
+            + il segno è sempre frutto di una mediazione interpretativa inferenziale 
+            quote
+                + [il concetto di "essere] è un concetto che riguarda un segno, cioè un pensiero o una parola, 
+                    \b e dal momento che non è applicabile a ogni segno, 
+                    \b non è originariamente universale, 
+                    \b sebbene lo sia nella sua applicazione mediata alle cose
+                page C.P. 5.292
+            
+        concept realtà lagica
+            + solo ciò che è pensabile è reale: 
+                \b il pensiero non può essere altro che pensiero di segni e 
+                \b il concetto di essere è appunto un concetto che diviene attribuibile 
+                \b solo attraverso una relazione inferenziale, 
+                \b in quanto i segni sono essi stessi prodotto dell’attività inferenziale. 
+            + il concetto di essere, in assoluto, sciolto cioè dalle relazioni segniche, 
+                \b non ha contenuto, né significato e neppure senso, 
+                \b come del resto qualunque altro concetto
+            + L’essere di un segno insomma è proprio il suo sviluppo semiosico, 
+                \b il suo essere in relazione con gli altri segni. 
+                \b Non esiste al di fuori della semiosi altro modo di concepire la realtà 
+            + Si può conoscere, e quindi si considera reale, solo una relazione segnica 
+                \b e non un supposto oggetto assoluto, in sé irrelato. 
+                
+        against
+            approach intuizionismo
+                + Peirce rifiuta l’intuizione,
+                    \b per questo il pensiero è solo pensiero di segni
+                quote
+                    + [intuizione indica] una cognizione non determinata da una cognizione precedente dello stesso oggetto, 
+                        \b e perciò determinata da qualcosa fuori dalla coscienza. [...] 
+                        \b Intuizione sarà qui quasi la stessa cosa che «premessa, che non è a sua volta conclusione». [...] 
+                        \b Proprio come una conclusione (giusta o sbagliata) è determinata nella mente di chi ragiona 
+                        \b dalla sua premessa, cosi anche cognizioni che non sono giudizi 
+                        \b possono essere determinate da cognizioni precedenti; 
+                        \b e una cognizione non determinata in questo modo, 
+                        \b e quindi determinata direttamente dall’oggetto trascendentale, 
+                        \b dovrà essere chiamata una «intuizione»". 
+                    page (C.P. 5.213) 
+                    
+            essay
+                title Questions Concerning Certain Faculties Claimed for Man
+                book Journal of Speculative Philosophy nel 1868 
+                page C.P. 5.213 – 263 Peirce
+                + dimostra che sia la conoscenza del mondo esterno al soggetto 
+                    \b sia quella del mondo interiore del soggetto, 
+                    \b come la propria autocoscienza e la conoscenza dei propri moti interiori, 
+                    \b dipendono da mediazioni inferenziali di fatti esterni. 
+            
+            Egli ritiene che tutta la nostra conoscenza della mente e dei processi mentali - 
+            della nostra mente e di quella degli altri - 
+            deriva dalla conoscenza di certi fatti fisici “esterni”: 
+            
+            quote
+                + [possiamo pensare senza segni?] Se ci basiamo sui fatti esterni, 
+                    \b i soli casi di pensiero che possiamo trovare 
+                    \b sono quelli di pensiero in segni. 
+                    \b È chiaro che nessun altro pensiero può essere evidenziato da fatti esterni. 
+                    \b Ma abbiamo visto che il pensiero si può conoscere solamente attraverso i fatti esterni, 
+                    \b dunque, il solo pensiero che è possibile conoscere è, senza eccezione, il pensiero in segni. 
+                    \b Ma il pensiero che non può essere conosciuto non esiste. 
+                    \b Perciò ogni pensiero deve necessariamente essere pensiero di segni”. 
+                page (C.P. 5.260) 
+                
+            quote
+                + "L’unico modo in cui si può conoscere […] è per inferenza ipotetica da fatti osservati. 
+                    \b Ma citare la cognizione dalla quale una cognizione è stata determinata, 
+                    \b significa spiegare le determinazioni della cognizione in causa. 
+                    \b Ed è il solo modo di spiegarle. 
+                    \b Poiché qualche cosa completamente fuori dalla coscienza, 
+                    \b che si può supporre che la determini, può, come tale, 
+                    \b essere riconosciuta e citata solo nella determinata cognizione in questione. [,..] 
+                    \b Inoltre le facoltà cognitive di cui siamo a conoscenza sono relative, 
+                    \b e conseguentemente i loro prodotti sono relazioni. 
+                    \b Ma la cognizione di una relazione è determinata da cognizioni precedenti. 
+                    \b Dunque, nessuna cognizione non determinata da una cognizione precedente può essere conosciuta. 
+                    \b Essa, allora, non esiste, primo, perché è assolutamente inconoscibile, 
+                    \b secondo, perché una cognizione esiste solo in quanto è conosciuta". 
+                page (C.P. 5.262). 
+                
+                Non esiste per Peirce un termine primo, una causa prima, 
+                un fondamento su cui si basa la conoscenza. 
+                Essa è un processo autoalimentantesi: il pensiero è una serie continua ed infinita di termini. 
+                In questo orizzonte, conoscere è inteso come dare significato ad un evento, 
+                applicando ad esso regole e criteri di classificazione appresi precedentemente. 
+                
+                Non esiste un punto di partenza, nel modello della conoscenza peirciana, 
+                ma per ogni singolo individuo, la nascita è l’inizio del suo processo mentale di conoscenza, 
+                con l’ingresso nella Realtà Logica, 
+                costituita dall’insieme di segni in uso alla comunità degli interpretanti, 
+                di cui l’individuo viene a fare parte. 
+                Si è detto sopra che il segno, e quindi la conoscenza, è il risultato di un processo inferenziale. 
+                Si analizzerà ora quali sono le tipologie di inferenza attraverso cui si costruisce la conoscenza: 
+
+                concept inferenza
+                    concept deduzione
+                    concept induzione
+                        + fornisce, con la scelta corretta dei campioni, regole per formulare notizie corrette su essi, 
+                        fino a prova contraria
+                    concept abduzione
+                        alias ipotesi
+                        alias inferenza ipotetica
+                        alias retroduzione
+                        + è un’ipotesi probabile che si formula della causa di un effetto osservato
+                
+                Peirce distingue tre specie di inferenza: Deduzione, Induzione ed Abduzione. 
+                Non sono però riducibili l’una all’altra, 
+                perché sono governate da diversi principi logici, 
+                ma tuttavia appartenenti ad un unico genere. 
+                
+                . La deduzione rimane analitica, ma l’analisi dipende ora dalle ipotesi scelte, 
+                per cui non è rigidamente necessaria. 
+                L’Abduzione o Ipotesi permette di ipotizzare quindi una regola che dia spiegazione di un evento o di un fatto. 
+                Essa "Procede come se si conoscessero tutti i caratteri richiesti per la determinazione di un dato oggetto 
+                o di una data classe". C.P. 5.272 
+                In pratica, osservati alcuni caratteri di un dato oggetto, 
+                gli si attribuiscono ipoteticamente ulteriori caratteri che lo fanno riconoscere come occorrenza di una legge. 
+                Questo modo di procedere implica la possibile fallibilità della conoscenza, 
+                ma anche che i ragionamenti fallaci si adeguano alla forma dell’inferenza valida. 
+                
+                quote   
+                    + Nessun pensiero, nessun sentimento, in sé considerati, 
+                        \b contengono altri pensieri o altri sentimenti, 
+                        \b ma sono assolutamente semplici e non analizzabili. […] 
+                        \b Ogni pensiero […] in quanto immediatamente presente, è un sentire puro, senza parti, 
+                        \b e quindi, in sé, senza similarità con nessun altro, 
+                        \b anzi, non comparabile e assolutamente sui generis
+                    page C.P. 5.284 
+                
+                Se consideriamo il pensiero in sé, irrelato, non facciamo altro che prendere in considerazione 
+                la sua peculiare qualità che lo distingue da tutti gli altri pensieri precedenti e successivi 
+                e che scomparirà irrimediabilmente con lo scomparire di quello specifico pensiero. 
+                Questa qualità, essendo qualcosa di unico ed irripetibile, non è in sé e per sé esprimibile 
+                come caso di una regola più generale e quindi risulterà inesprimibile. 
+                
+                Continua però Peirce: 
+                quote
+                    + Nessun pensiero presente in atto (che è un mero sentimento) 
+                        \b ha alcun significato, né valore intellettuale; 
+                        \b perché il significato non sta in ciò che è pensato nell’atto in cui è pensato, 
+                        \b ma in ciò a cui questo pensiero può essere connesso 
+                        \b da pensieri successivi nella rappresentazione; 
+                        \b cosicché il significato di un pensiero è qualcosa di virtuale. […] 
+                        \b In nessun istante, nel mio stato mentale, vi è cognizione o rappresentazione, 
+                        \b ma essa consiste nella relazione dei miei stati mentali in istanti diversi. 
+                    page C.P. 5.284 
+
+                Aggiunge poi in nota: 
+                quote 
+                    + Di conseguenza, esattamente come si dice che un corpo è in movimento 
+                        \b e non che il movimento è in un corpo, 
+                        \b si dovrebbe dire che siamo in pensiero e non che i pensieri sono in noi. 
+
+                La virtualità del significato di un pensiero,
+                cui accenna Peirce nel passo precedente, 
+                è relativa alla sua idea di semiosi; 
+                infatti un pensiero segno ha una sua vita, un suo sviluppo 
+                che altro non è che il percorso della costruzione della conoscenza; 
+                questo processo ha uno sviluppo certo intersoggettivo, ma anche intrasoggettivo. 
+                
+                quote
+                    + Non vi è […] cognizione che non sia determinata da cognizioni precedenti 
+                        \b [quindi] l’irruzione di una nuova esperienza non è mai un fatto istantaneo, 
+                        \b ma è un evento che occupa del tempo e che passa attraverso un processo continuo. 
+                        \b Perciò il suo emergere nella coscienza deve probabilmente essere il coronamento di un processo di crescita. 
+                        \b [invece] se un filo di pensiero si spegne gradualmente, 
+                        \b con ciò nella sua durata segue liberamente la propria legge di associazione 
+                        \b e non vi è nessun momento in cui, 
+                        \b a un pensiero appartenente a questo filo, 
+                        \b non succeda un pensiero che lo interpreti o lo ripeta 
+                    page C.P. 5.284
+                    
+                    Tutta la conoscenza per Peirce è dunque conoscenza di segni; 
+                    a partire dalla sensazione, non esiste altra modalità conoscitiva che quella inferenziale. 
+                    E’ attraverso serie intersecantesi di inferenze che gradualmente si sviluppa 
+                    in maniera sempre più precisa l’interpretante di un segno. 
+                    
+                    concept segno
+                        Peirce così definisce un segno
+                        quote 
+                            + [qualcosa che] sta per qualcuno al posto di qualcos’altro sotto certi aspetti o capacità
+                            page C.P. 2.228
+                        + esiste un rapporto triadico tra il segno, 
+                            \b l’oggetto che questo segno sta ad indicare 
+                            \b e la concezione che ne ha colui che interpreta, detta interpretante 
+                        
+                        Possiamo però prendere in considerazione almeno due tipi di oggetti: 
+                        1. la cosa bruta, la cui presenza hic et nunc scatena la semiosi, 
+                            che è L’Oggetto Immediato; 
+                        2. la relazione segnica da cui parte l’elaborazione cognitiva, 
+                            che è l’Oggetto Dinamico. 
+                        
+                        La conoscenza si sviluppa a partire dall’oggetto immediato 
+                        che non sarà mai toccato dal processo inferenziale, 
+                        ma che ne è la molla che ne provoca l’inizio. 
+                        L’oggetto reale del segno, che è comunque segno a sua volta 
+                        perché non possiamo pensare altro che segni, è l’oggetto dinamico. 
+                        Questo si trasformerà nella concezione della comunità degli interpretanti 
+                        man mano che il suo interpretante logico acquisterà sempre maggiori e nuovi significati 
+                        grazie al processo di semiosi che è poi il processo stesso della conoscenza. 
+                        Questo è il significato per Peirce del concetto di Semiosi Illimitata. 
+                        E solo alla luce di questi chiarimenti si comprende il significato delle seguenti parole di Peirce: 
+                        
+                        quote
+                            + In ogni momento siamo in possesso di certe informazioni, 
+                                \b cioè di cognizioni che sono state logicamente derivate per induzione e ipotesi 
+                                \b da cognizioni precedenti che sono meno generali, meno distinte, 
+                                \b e delle quali abbiamo una conoscenza meno viva. 
+                                \b Queste a loro volta sono state derivate da altre ancora meno generali, 
+                                \b meno distinte, e meno vivaci; e così via a ritroso fino a quel primo ideale, 
+                                \b che è assolutamente singolare, e assolutamente fuori dalla coscienza.
+                            page C.P. 5.311 
+                            
+                        Ma perché conoscere? Charles Sanders Peirce è il fondatore del Pragmatismo. 
+                        Egli elabora questa massima pragmatica: 
+                        quote
+                            + Consideriamo quali effetti, che possano avere concepibilmente conseguenze pratiche, 
+                                \b pensiamo abbia l’oggetto della nostra concezione. 
+                                \b Allora la nostra concezione di questi effetti 
+                                \b è l’intera nostra concezione dell’oggetto.
+                            page C.P. 5.2 
+                            
+                        Lo sviluppo semiosico di un segno lo porta ad avere come Interpretante Logico Finale 
+                        un abito di comportamento. 
+                        Questo è una legge che permette di regolare il comportamento, appunto, 
+                        in base alle concepibili conseguenze pratiche determinate dagli effetti 
+                        che nell’inferire si attribuiscono all’oggetto-segno. 
+                        
+                        Ad esempio è possibile fare una torta di mele perché le concepibili conseguenze pratiche 
+                        degli effetti del segno-ricetta sono proprio la realizzazione di quel dolce. 
+                        La prova di tutto questo è l’induzione sperimentale, 
+                        cioè la realizzazione della torta di mele. 
+                        
+                        Il segno-ricetta è così il segno dell’idea di torta, che è una legge. 
+                        
+                        La torta ottenuta sperimentalmente è così un’occorrenza di quella legge. 
+                
+                    Ovvero, se a parità di conoscenze e di condizioni di attrezzature sperimentali, 
+                    la ripetizione di un esperimento porterà i medesimi risultati, 
+                    la legge ipotizzata come quella regolante l’esperimento 
+                    è considerata certa dalla Comunità degli Interpretanti. 
+                    Questa comunità è il garante intersoggettivo di una nozione di verità non intuitiva, 
+                    non ingenuamente realistica, bensì congetturale. 
+                    
+                    Questa concezione dinamica della verità permette l’elaborazione di strategie comportamentali creative 
+                    in risposta agli stimoli dell’ambiente ed è portatrice 
+                    di una concezione non teleologica e non necessaria del mondo e del destino umano.

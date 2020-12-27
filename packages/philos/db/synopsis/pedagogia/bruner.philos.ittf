@@ -1,0 +1,65 @@
+$group
+    author Bruner
+        fullname Jerome Bruner
+        born
+            date 1/10/1915
+            place New York, Stati Uniti
+        died
+            date 5/6/2016
+            place New York, Stati Uniti
+        url http://isismultimedia.xoom.it/materiali/wp-content/uploads/bruner1_5as.pdf
+        field psicologia culturale
+        field psicologia educativa
+        approach strutturalismo educativo
+        + Psicologo statunitense che ha contribuito allo sviluppo della psicologia cognitiva e della psicologia 
+            \b culturale nel campo della psicologia dell'educazione. 
+        + Nel panorama della cultura americana della seconda metà del XX secolo, J. S. Bruner è stato il fondatore dello 
+            \b strutturalismo educativo.
+        + Bruner rappresenta il dopo Dewey, il grande pedagogista statunitense che, con le sue Scuole Attive, aveva dominato 
+            \b lo scenario educativo americano nei precedenti sessant’anni. 
+        + L’ultimo lavoro di Bruner, La cultura dell’educazione (1996), conferma la fondazione e il tentativo di sviluppo della 
+            \b prospettiva psicologico-culturale sull’educazione.             
+        quote
+            + Si può insegnare qualunque cosa in forma onesta a chiunque in qualsivoglia età proprio perché qualunque idea può 
+                \b essere tradotta in modo corretto e utile nelle forme di pensiero proprie del fanciullo di età prescolastica. 
+                \b Queste prime rappresentazioni possono essere in seguito riprese, approfondite e precisate meglio 
+
+        against-concept centralità dell’esperienza nel processo educativo (Dewey)
+            + L’esperienza scolastica non è spontanea, o naturale, ma dev’essere predisposta secondo precisi obiettivi di crescita 
+                \b culturale (contro lo spontaneismo). 
+            + I contenuti scolastici devono trascendere l'esperienza immediata sganciando l'individuo da una visione empirica del 
+                \b sapere e porlo in una prospettiva logico-scientifica caratterizzata dall'astrazione e dal linguaggio simbolico 
+                \b attraverso il possesso delle grandi idee organizzatrici delle singole discipline (strutture).                
+
+        concept il primato della cultura sull'azione
+            + Mentre Dewey aveva concepito il pensiero e la conoscenza come strumenti per l'azione, Bruner riafferma il primato 
+                \b del pensiero sull'attività umana, individuale e sociale. 
+            + E’ il pensiero che influenza l’azione, non viceversa.
+            + E’la cultura a formare la nostra impostazione mentale, fornendoci gli strumenti necessari a organizzare e comprendere 
+                \b il mondo: la mente stessa, quindi, non potrebbe nemmeno esistere senza una cultura di riferimento. 
+
+        concept insegnamento a spirale
+            + Visto che si può insegnare tutto a tutti a qualsivoglia età, è bene introdurre il bambino fin dall’età precoce 
+                \b “a quei concetti e a quelle forme di apprendimento che più tardi faranno di lui un uomo colto”.
+            + L’insegnamento a spirale è la forma d’insegnamento che inizia in tenera età in termini essenziali e semplicissimi, 
+                \b per tornare più volte su se stesso, in forme sempre più allargate e più complete, durante il curriculum scolastico 
+                \b dell’alunno, dalle elementari all’università e oltre.          
+
+        concept scaffolding
+            development-of 
+                concept zona di sviluppo prossimale
+            + Letteralmente “costruzione di ponteggi” per le costruzioni. Si tratta di una evoluzione del concetto di “zona di sviluppo 
+                \b prossimale” di Vygotskij. Viene definito come: il processo attraverso cui un partner più esperto offre il proprio 
+                \b aiuto a un bambino per la risoluzione di un problema, adeguando il tipo e la quantità di aiuto al livello 
+                \b di prestazione del bambino.
+
+        concept pensiero paradigmatico
+            + Presiede alla creazione/costruzione scientifica della realtà, tesa a predire qualcosa ed a provare l’adeguatezza 
+                \b della previsione. Il suo registro tipico è quello dei processi logici e categoriali, delle procedure formali,
+                \b delle argomentazioni dimostrative.
+            quote
+                author Bruner
+                    + intende trasformare intuizioni e impressioni concernenti le regolarità ricorrenti in asserzioni causali, 
+                        + usando le procedure dell’esperimento logico e empirico ...
+        
+        concept pensiero narrativo

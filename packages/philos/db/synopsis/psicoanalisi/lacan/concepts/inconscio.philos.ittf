@@ -1,0 +1,71 @@
+$group
+
+    namespace lacan
+
+        concept es
+            quote
+                + si presenta logicamente disgiunto 
+                    \b e soggettivamente silenzioso 
+                    \b [rispetto all'inconscio strutturato come un linguaggio,
+                    \b ... rinviando al] silenzio delle pulsioni
+                article lacan.il-seminario-sulla-Lettera-rubata
+
+        concept inconscio
+            + Secondo Lacan l’Altro, vale a dire il linguaggio, vale a dire l’inconscio, 
+                \b non è che un insieme di significanti 
+                \b che costituiscono la struttura nella quale l’individuo è inserito 
+                \b e dalla quale è determinato.
+            
+            + L’inconscio è il discorso dell'Altro. 
+
+            + L’inconscio è strutturato come un linguaggio, 
+                \b ma non tutto nell'inconscio è significante. 
+                \b Ciò che sfugge al livello del significante è un residuo del godimento, 
+                \b un resto della struttura che Lacan chiama oggetto piccolo (a). 
+                \b Questa mancanza è effetto della struttura, 
+                \b ma è inclusa nella struttura stessa, 
+                \b di conseguenza il significante di una mancanza nell'Altro 
+                \b è la base della logica del significante.        
+
+            + L’azione del significante sul soggetto 
+                \b si esprime nelle sue abitudini culturali e sociali, 
+                \b a partire dal neonato per arrivare all’adulto, 
+                \b attraverso tagli simbolici, 
+                \b che sottraggono godimento al corpo, 
+                \b poiché provocano la mancanza dell’oggetto, 
+                \b creano cioè fratture nella struttura.                
+            
+            quote
+                + Lacan, rende l’inconscio omogeneo a una zona erogena 
+                    \b rappresentandolo come un bordo che si apre e si chiude. 
+                    \b Da un lato, quindi, la struttura dell’inconscio mostra la spazio, il vuoto centrale 
+                    \b in cui viene a collocarsi l’oggetto piccolo a 
+                    \b e, dall’altro, l’oggetto piccolo a entra in gioco come elemento del godimento, 
+                    \b come elemento del reale 
+                quote 
+                    + che riproduce la Cosa, ne è la figura elementare, 
+                        \b ma, dall’altro lato, è collegato all’Altro. …
+                        \b È come se, nell’oggetto piccolo a, 
+                        \b l’Altro del significante imponesse la propria struttura alla Cosa
+                + La proprietà significante dell’oggetto piccolo a, infatti, 
+                    \b è proprio quella di presentarsi come un elemento 
+                quote
+                    + che incarna la sua iscrizione nell’ordine simbolico        
+
+            quote
+                + [..] l’inconscio va considerato su un duplice piano: 
+                    \b quello dei cosiddetti significanti e quello del godimento, 
+                    \b quello del Simbolico e quello del Reale. 
+                    \b Quando osserviamo il versante Simbolico l’inconscio consiste in una trama 
+                    \b che attraversa la nostra vita e che si è costruita nel corso degli anni. 
+                    \b In tal senso il Simbolico indica l’inconscio come un sapere che non sappiamo di sapere 
+                    \b e che tuttavia orienta la nostra vita come una trama che tendiamo a ripetere in ambiti e momenti diversi.
+                    \b Quando invece sottolineiamo il livello del Reale 
+                    \b ci stiamo riferendo all’inconscio come sapere che deve ancora realizzarsi. 
+                    \b Il Reale è un trauma della trama simbolica, 
+                    \b il Reale interrompe il fluire ripetitivo dei significanti 
+                    \b e richiama ciascuno a simbolizzare qualcosa che non è ancora stato scritto 
+                    \b e che rimane fuori-senso. 
+                    \b Il Reale insiste nella vita come possibilità per un nuovo modo di esistere 
+                    \b al di là di ciò che si è già sedimentato e consolidato.
+                article terminio.i-quattro-discorsi-di-lacan-tra-simbolico-e-reale

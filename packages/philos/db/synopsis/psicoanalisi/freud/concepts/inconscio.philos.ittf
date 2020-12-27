@@ -1,0 +1,74 @@
+$group
+
+    namespace freud
+
+        concept inconscio
+
+            quote
+                + L’inconscio è l’infantile: è quella parte della personalità che a quell’epoca si è separata, 
+                    \b non ha seguito l’evoluzione del tutto ed è stata perciò rimossa.
+                kindle-page 3250
+                article freud.l-uomo-dei-topi
+
+            quote
+                + Nell’inconscio gli investimenti possono essere facilmente trasferiti in modo completo, spostati, condensati;
+                    \b tale trattamento, se fosse applicato a un materiale preconscio, 
+                    \b potrebbe dare solo risultati difettosi; 
+                    \b e ciò determina anche le note peculiarità del sogno manifesto 
+                    \b una volta che i residui preconsci del giorno precedente 
+                    \b siano stati elaborati secondo le leggi dell’inconscio.
+                kindle-page 5670-5671                 
+
+            quote
+                + [Su questo problema degli usi differenti del termine “inconscio”, 
+                    \b problema che tocca un punto teorico fondamentale, 
+                    \b Freud si sofferma più volte in questa prima serie di lezioni; 
+                    \b vedi nelle lezioni 7, 12, 13, 14, 19 e 27, in OSF, vol. 8. 
+                    \b Ma egli non giungerà a chiarirlo completamente che negli anni seguenti, 
+                    \b nello scritto L’Io e l’Es cit. 
+                    \b La nuova soluzione verrà spiegata nella seconda serie di lezioni: 
+                    \b vedi Introduzione alla psicoanalisi (nuova serie di lezioni) cit., lezione 31.]
+                kindle-page 8292
+
+            concept non-rimosso
+                theory freud.prima-topica
+                    + Inconscio, Preconscio, Coscienza
+                    concept freud.prima-topica.inconscio
+                        + è la vera realtà psichica
+                        + ha cinque caratteristiche:
+                            \b 1) condensazione; 
+                            \b 2) spostamento; 
+                            \b 3) assenza di contraddizione mutua tra la presentazione dei differenti impulsi, 
+                            \b quindi assenza di negazione;
+                            \b 4) assenza di tempo;
+                            \b 5) sostituzione della realtà esterna con quella psichica;
+
+            concept assenza-di-contraddizione-mutua-tra-la-presentazione-dei-differenti-impulsi
+                quote
+                    + Quando due impulsi di desiderio, 
+                        \b i cui scopi non possono non apparirci incompatibili, 
+                        \b diventano simultaneamente attivi, 
+                        \b i due impulsi non si riducono né si escludono a vicenda.
+                    book freud.l-inconscio
+            
+            concept condensazione
+            
+            concept spostamento
+                quote
+                    author Blanco
+                    + [..] è alla base della proiezione, della sublimazione, 
+                        \b del transfert, del ritorno del rimosso e 
+                        \b della divisione degli oggetti: 
+                        \b tutti questi meccanismi sono, in qualche modo, 
+                        \b esempi di spostamento e 
+                        \b in gran parte differiscono tra di loro 
+                        \b solo per quanto riguarda le circostanze in cui lo spostamento ha luogo
+                    book blanco.l-inconscio-come-insiemi-infiniti
+            
+            concept assenza-di-tempo
+            
+            concept sostituzione-della-realtà-esterna-con-quella-psichica
+                + In psichiatria, specialmente in relazione alla schizofrenia, 
+                    \b questa caratteristica è talvolta chiamata "interpretazione letterale della metafora"
+                bax
+                    + Ha a che fare con il double-bind di Bateson?

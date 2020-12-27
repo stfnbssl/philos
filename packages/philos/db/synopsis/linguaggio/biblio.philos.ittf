@@ -1,0 +1,17 @@
+$group
+
+    article
+        author
+        title
+        url
+        edition
+
+    book ferraris.documentalità
+        title Documentalità. Perché è necessario lasciar tracce
+        author Ferraris
+        edition Roma – Bari, Laterza, 2009
+
+    article forlizzi.la-grammatica-generativa-aspetti-intersemiotici
+        author Forlizzi
+        title La grammatica generativa: aspetti intersemiotici
+        url https://www.academia.edu/34812619/La_grammatica_generativa_aspetti_intersemiotici        

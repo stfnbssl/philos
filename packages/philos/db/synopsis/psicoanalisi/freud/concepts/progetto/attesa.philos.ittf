@@ -1,0 +1,7 @@
+$group
+
+    namespace freud
+
+        concept attesa
+            alias stato di attesa
+            + Tutto il pensiero si è sviluppato dallo stato di attesa.

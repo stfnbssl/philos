@@ -1,0 +1,15 @@
+$group
+
+    namespace scolastica
+
+        concept fenomeno
+            + Il fenomeno è l'ente (la cosa) come appare alla coscienza;
+                \b ciò che consta, ossia il punto di partenza obbligato per ogni filosofare.
+            quote
+                + I fenomeni della fenomenologia sono le cose da vedere, le cose che appaiono, 
+                    \b e il metodo fenomenologico non dice come siano queste cose, 
+                    \b se siano tutto l'essere o solo una parte, un aspetto, una manifestazione dell'essere,
+                    \b ma si limita a osservare che,
+                    \b se mai potremo dire qualcosa sull'essere che non appare, che non è fenomeno,
+                    \b potremo dirlo soltanto partendo da ciò che appare, dal fenomeno.
+                article rovighi.l-essere-e-il-nulla-di-sartre

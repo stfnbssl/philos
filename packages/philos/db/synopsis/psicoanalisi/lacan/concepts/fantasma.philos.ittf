@@ -1,0 +1,97 @@
+$group
+
+    namespace lacan
+
+        concept fantasma
+            + Il fantasma è una struttura. Il fantasma rappresenta la messa in scena, 
+                \b la finzione strutturale rispetto al venire meno del soggetto 
+                \b di fronte al mancare della Cosa (das Ding). 
+
+            + La nozione di fantasma, 
+                \b già introdotta da Freud (1919) nel saggio “Un bambino viene picchiato”, 
+                \b viene originalmente elaborata da Lacan 
+                \b in riferimento al rapporto costitutivo per la soggettività umana 
+                \b rispetto alla propria mancanza a essere.
+            
+            + Esso consente una relazione singolare tra i tre registri dell’esperienza, 
+                \b il reale, l’immaginario ed il simbolico. 
+            
+            + Il fantasma, nella clinica lacaniana, 
+                \b è un meccanismo singolare messo in scena da ogni singolo soggetto 
+                \b per addomesticare il proprio godimento 
+                \b entro una rappresentazione smorzata dello stesso, 
+                \b che quindi lo trasformi in piacere.
+
+            + Per indicare la struttura di base del fantasma,
+                \b in La direzione della cura e i principi del suo potere,
+                \b Lacan elabora il matema $<>a, 
+                \b da leggersi “soggetto barrato ($) punzone (<>) di piccolo a”, 
+                \b ove <> è il desiderio,
+                
+            quote
+                + [si tratta di] una funzione di annodamento (<>) 
+                    \b del simbolico ($), dell’immaginario (a) e del reale (a) 
+                    \b che il fantasma opera 
+                    \b nonché la duplice funzione di protezione. 
+                    \b Infatti esso protegge non soltanto contro l’orrore del reale, 
+                    \b ma anche contro tutti gli effetti della sua divisione, 
+                    \b conseguenza della castrazione simbolica; 
+                    \b in altre parole lo protegge 
+                    \b contro la sua radicale dipendenza rispetto ai significanti
+                book chemama-vandermesch.dizionario-di-psicoanalisi
+
+            quote
+                + I fantasmi sono «scenari, canovacci, scene organizzate 
+                    \b suscettibili di essere drammatizzate in forma per lo più visiva», 
+                    \b in essi è presente il soggetto e raffigurano, 
+                    \b «in modo più o meno deformato dai processi difensivi, 
+                    \b l’appagamento di un desiderio e, 
+                    \b in ultima analisi, di un desiderio inconscio
+                book laplanche-pontalis.enciclopedia-della-psicoanalisi
+                page 180           
+
+            quote
+                + La prima cosa da tenere presente è 
+                    \b che l’Immaginario non realizza semplicemente un desiderio in modo allucinatorio: 
+                    \b piuttosto la sua funzione è simile a quella dello “schematismo trascendentale” kantiano: 
+                    \b una fantasia qualunque costruisce il nostro desiderio, 
+                    \b fornisce le sue coordinate; 
+                    \b o, meglio, “ci insegna come desiderare”. 
+                    \b […] l’Immaginario fa da mediatore tra la struttura formale simbolica 
+                    \b e la concretezza degli oggetti che incontriamo nella realtà 
+                    \b – ovvero, fornisce uno schema secondo il quale 
+                    \b alcuni oggetti concreti nella realtà 
+                    \b possono avere funzione di oggetti del desiderio, 
+                    \b riempiendo gli spazi vuoti aperti dalla struttura formale simbolica. 
+                example
+                    \b Per dirla in termini più semplici: 
+                    \b Immaginario non vuol dire che quando desidero una torta di fragole 
+                    \b e non posso averla nella realtà 
+                    \b fantastico di mangiarla; 
+                    \b piuttosto, il problema è: 
+                    \b come faccio a sapere che desidero proprio una torta di fragole? 
+                    \b Questo è quello che l’Immaginario mi dice. […] 
+                    \b L’Immaginario, la formazione fantasmatica, 
+                    \b è una risposta all’enigma del “Che vuoi?” 
+                    \b – “stai dicendo questo, ma cosa intendi realmente dicendo questo?” – 
+                    \b che stabilisce la posizione primordiale, 
+                    \b costitutiva del soggetto
+                book zizek.l-epidemia-dell-immaginario
+
+            quote
+                + Con la teoria del fantasma 
+                    \b in gioco non è più solo la trama delle identificazioni 
+                    \b che consentono al soggetto di trovare una propria consistenza identitaria, 
+                    \b ma il modo in cui il soggetto 
+                    \b che viene al mondo assoggettato al campo dell’altro 
+                    \b possa raggiungere un proprio desiderio e un proprio godimento. 
+                    \b In questa maniera Lacan 
+                    \b sposta l’identità del soggetto dal piano delle identificazioni narcisistiche 
+                    \b a quello del godimento pulsionale. 
+                    \b I significanti che fissano – pietrificandola – 
+                    \b l’identità del soggetto 
+                    \b sono gli stessi che introducono nel corpo del soggetto 
+                    \b una quota di godimento 
+                    \b che innesca il movimento inerte della ripetizione
+                book recalcati.la-clinica-psicoanalitica
+                page 275

@@ -1,0 +1,25 @@
+philos first
+    author Kant
+    book K-CRPura
+        title Critica della ragion pura
+            original Kritik der reinen Vernunft
+        author Kant
+        edition 1
+            year 1781
+        edition 2
+            year 1787
+    concept a priori
+    concept trascendentale
+    concept appercezione trascendentale
+    article Peirce-Algebra-Of-Logic
+        title  On the Algebra of Logic
+        author Peirce
+        quote
+            + Now, all vital processes tend to become easier on repetition. Along, whatever
+                \b path a nervous discharge has once taken place, in that path a new discharge is
+                \b the more likely to take place.
+    $include first/costruttivismo/vico
+    $include first/costruttivismo/glossary
+    $include first/cibernetica/index
+    $include first/psicologia/index
+    $include first/pedagogia/index

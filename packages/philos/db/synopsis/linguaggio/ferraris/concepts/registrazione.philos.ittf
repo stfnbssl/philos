@@ -1,0 +1,14 @@
+$group
+
+    namespace ferraris
+
+        concept registrazione
+            quote
+                + [ registrazione è] quella traccia che si depone nella nostra mente, 
+                    \b rappresentata, ingenuamente ma inevitabilmente, come una tabula rasa, 
+                    \b un dispositivo di iscrizione; 
+                book ferraris.documentalità
+                page 200
+
+                    
+                

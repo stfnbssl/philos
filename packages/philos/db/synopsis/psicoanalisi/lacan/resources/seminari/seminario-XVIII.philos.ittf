@@ -1,0 +1,41 @@
+$group
+
+    book lacan.seminario-XVIII
+        author Lacan
+        title Seminario. Libro XVIII. Di un discorso che non sarebbe del sembiante.
+        written 1971
+        edition Torino: Einaudi, 2010
+        index
+            + I. Introduzione al titolo di questo seminario. 
+            + II. L'uomo e la donna. 
+            + III. Contro i linguisti. 
+            + IV. Lo scritto e la verità. 
+            + V. Lo scritto e la parola. 
+            + VI. Di una funzione da non scrivere. 
+            + VII. Lezione su Lituraterra. 
+            + VIII. L'uomo e la donna e la logica. 
+            + IX. Un uomo e una donna e la psicoanalisi. 
+            + X. Del mito forgiato da Freud. 
+            + Allegati
+                + Il Seminario. Libro XVIII di J.-A. Miller, 
+                + Qualche riferimento di Lacan a Lacan e ad altri di J.-A. Miller. 
+                + Qualche indicazione per il lettore italiano di A. Di Ciaccia. 
+                + Indice dei nomi propri.
+        back-cover
+            + Il Seminario Di un discorso che non sarebbe del sembiante 
+                \b segue il Seminario dal titolo Il rovescio della psicoanalisi 
+                \b dove Lacan aveva delineato le modalità con cui si sviluppa il legame sociale 
+                \b presentandolo nella forma di quattro discorsi. 
+                \b La posizione dominante di ogni discorso è occupata da un sembiante. 
+                \b Ma è mai possibile sviluppare un discorso che non sarebbe del sembiante? 
+                \b Il problema è molto piú concreto di quanto non sembri, 
+                \b poiché concerne il rapporto, o meglio i rapporti, 
+                \b anche quelli sessuali e amorosi, 
+                \b che possono intessere tra di loro l’uomo e la donna. 
+                \b È questo, infatti, il tema intorno a cui ruota il Seminario, 
+                \b e Lacan tenta qui di delinearne la logica. 
+                \b Per farlo dovrà smontare i miti freudiani per cogliere 
+                \b con la logica, la matematica, la topologia e la scrittura 
+                \b quel reale che costituisce la loro ossatura. 
+                \b Alla fine del Seminario si potrà forse comprendere meglio l’aforisma lacaniano 
+                \b «non c’è rapporto sessuale».

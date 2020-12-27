@@ -1,0 +1,10 @@
+$group
+
+    namespace freud
+
+        concept processo-primario
+            alias processo psichico secondario
+            + L’investimento di desiderio portato fino all’allucinazione
+                \b e lo sviluppo pieno del dispiacere, 
+                \b che reca con sé l’esaurirsi completo della difesa, 
+                \b si possono definire come processo psichico primario.

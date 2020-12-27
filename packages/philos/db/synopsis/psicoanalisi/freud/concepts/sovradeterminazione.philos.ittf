@@ -1,0 +1,12 @@
+$group
+
+    namespace freud
+
+        concept sovradeterminazione
+
+            + la condizione di ciò che è determinato da una pluralità di fattori, 
+                \b come alcuni fenomeni dell’inconscio, 
+                \b in particolare i sogni (ma anche i lapsus, gli atti mancati ecc.) nei quali, 
+                \b a causa della condensazione, 
+                \b un’immagine manifesta si compone di più contenuti latenti 
+                \b che l’interpretazione corretta deve cercare di ricostruire.

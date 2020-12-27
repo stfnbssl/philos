@@ -1,0 +1,14 @@
+$group
+
+    namespace freud
+
+        concept barriera
+
+
+        concept barriera-contro-immagini-motorie
+            + Barriera che impedisce la scarica motoria.
+            + Quando non c'era [nei primi mesi di vita],
+                \b il discarico motorio si verificava simultaneamente con il desiderio,
+                \b l'atteso piacere veniva regolarmente a mancare,
+                \b e la continua emissione di stimoli endogeni
+                \b finiva per generare dispiacere

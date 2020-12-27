@@ -1,0 +1,14 @@
+$group
+
+    namespace lacan.sesso
+
+        concept amore
+            alias soddisfazione d'amore
+            + La soddisfazione d'amore è la soddisfazione del segno d'amore.
+            + L'amore non coincide né con il godimento né con il desiderio;
+                \b mentre il desiderio è una "metonimia della mancanza a essere",
+                \b una trascendenza dell'oggetto, desiderio d'Altra Cosa,
+                \b l'amore pone l'Altro come insostituibile, unico, assoluto,
+                \b sganciato dalla serie infinita degli oggetti.
+
+

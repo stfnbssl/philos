@@ -1,0 +1,8 @@
+$group
+
+    namespace lacan.sesso
+        
+        concept parata-fallica
+            + Fare la parata è mostrare le piume, è fare il pavone,
+                \b esoibire di avere il fallo.
+

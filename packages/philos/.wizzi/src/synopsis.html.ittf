@@ -1,0 +1,231 @@
+layouts/muiPage()
+
+  $append bodyscripts
+    scripts/loadjson()
+
+  $append imports
+
+  $append components
+    function ListItemLink
+      param props
+      return 
+          < ListItem 
+            @ button
+            @ component "a"
+            @ {...props}
+    components/content()
+    components/authors()
+    components/pubblications()
+
+  $append styles
+    { root
+        @ width '100%'
+        @ backgroundColor theme.palette.background.paper
+    { gridRoot
+        @ flexGrow 1
+
+  $append state
+    @ isLoading true
+    @ jsonData {}
+    @ error null
+
+  did-mount
+    var that = this
+    _ loadJSON
+        @ "first.philos.extended.json"
+        function
+            param response 
+            # Do Something with the response e.g.
+            var jsonresponse = JSON.parse(response)
+            # log 'from did mount', jsonresponse
+            _ that.setState
+                {
+                    @ jsonData jsonresponse
+                    @ isLoading false
+                    @ error null
+
+  render
+    prop classes
+    const { isLoading, jsonData, error } = this.state    
+    if isLoading
+        return
+            div loading
+    else
+        log 'from render', jsonData
+        return 
+            div 
+                @ className {classes.root}
+                < Grid
+                    @ container
+                    < Grid
+                        @ item
+                        @ xs 12
+                        < Paper
+                            < Grid
+                                @ container
+                                @ className {classes.gridRoot}
+                                @ spacing 2
+                                < Grid
+                                    @ item
+                                    @ xs 3
+                                    < h2 Fields
+                                    < Paper
+                                        @ style {{maxHeight: 370, overflow: 'auto'}}
+                                        < Table 
+                                            {
+                                                _ jsonData.fields.sort(compareById).map
+                                                    function
+                                                        param item
+                                                        return
+                                                            < TableRow 
+                                                                @ button
+                                                                @ key {item.id}
+                                                                < TableCell
+                                                                    h3 {item.id}
+                                                                    < ContentText
+                                                                        @ item {item}
+
+                                < Grid
+                                    @ item
+                                    @ xs 3
+                                    < h2 Schools
+                                    < Paper
+                                        @ style {{maxHeight: 370, overflow: 'auto'}}
+                                        < Table 
+                                            {
+                                                _ jsonData.approaches.sort(compareById).map
+                                                    function
+                                                        param item
+                                                        return
+                                                            < TableRow 
+                                                                @ button
+                                                                @ key {item.id}
+                                                                < TableCell
+                                                                    h3 {item.id}
+                                                                    < ContentText
+                                                                        @ item {item}
+
+                                < Grid
+                                    @ item
+                                    @ xs 3
+                                    < h2 Theories/Laws
+                                    < Paper
+                                        @ style {{maxHeight: 370, overflow: 'auto'}}
+                                        < Table 
+                                            {
+                                                _ jsonData.theories.sort(compareById).map
+                                                    function
+                                                        param item
+                                                        return
+                                                            < TableRow 
+                                                                @ button
+                                                                @ key {item.id}
+                                                                < TableCell
+                                                                    h3 {item.id}
+                                                                    < ContentText
+                                                                        @ item {item}
+                                < Grid
+                                    @ item
+                                    @ xs 3
+                                    < h2 Concepts
+                                    < Paper
+                                        @ style {{maxHeight: 370, overflow: 'auto'}}
+                                        < Table 
+                                            {
+                                                _ jsonData.concepts.sort(compareById).map
+                                                    function
+                                                        param item
+                                                        return
+                                                            < TableRow 
+                                                                @ button
+                                                                @ key {item.id}
+                                                                < TableCell
+                                                                    h3 {item.id}
+                                                                    < ContentText
+                                                                        @ item {item}
+                    < Grid
+                        @ item
+                        @ xs 12
+                        < Paper
+                            < Grid
+                                @ container
+                                @ className {classes.gridRoot}
+                                @ spacing 2
+                                < Grid
+                                    @ item
+                                    @ xs 3
+                                    < h2 Authors
+                                    < Paper
+                                        @ style {{maxHeight: 370, overflow: 'auto'}}
+                                        < Table 
+                                            {
+                                                _ jsonData.authors.sort(compareById).map
+                                                    function
+                                                        param item
+                                                        return
+                                                            < TableRow 
+                                                                @ button
+                                                                @ key {item.id}
+                                                                < TableCell
+                                                                    < Author
+                                                                        @ item {item}
+
+                                < Grid
+                                    @ item
+                                    @ xs 3
+                                    < h2 Groups
+                                    < Paper
+                                        @ style {{maxHeight: 370, overflow: 'auto'}}
+                                        < Table 
+                                            {
+                                                _ jsonData.authorsGroups.sort(compareById).map
+                                                    function
+                                                        param item
+                                                        return
+                                                            < TableRow 
+                                                                @ button
+                                                                @ key {item.id}
+                                                                < TableCell
+                                                                    h3 {item.id}
+                                                                    < ContentText
+                                                                        @ item {item}
+
+                                < Grid
+                                    @ item
+                                    @ xs 3
+                                    < h2 Places
+                                    < Paper
+                                        @ style {{maxHeight: 370, overflow: 'auto'}}
+                                        < Table 
+                                            {
+                                                _ jsonData.thesis.sort(compareById).map
+                                                    function
+                                                        param item
+                                                        return
+                                                            < TableRow 
+                                                                @ button
+                                                                @ key {item.id}
+                                                                < TableCell
+                                                                    h3 {item.id}
+                                                                    < ContentText
+                                                                        @ item {item}
+
+
+                                < Grid
+                                    @ item
+                                    @ xs 3
+                                    < h2 Pubblications
+                                    < Paper
+                                        @ style {{maxHeight: 370, overflow: 'auto'}}
+                                        < Table 
+                                            {
+                                                _ jsonData.books.sort(compareById).map
+                                                    function
+                                                        param item
+                                                        return
+                                                            < TableRow 
+                                                                @ button
+                                                                @ key {item.id}
+                                                                < TableCell
+                                                                    < Book
+                                                                        @ item {item}

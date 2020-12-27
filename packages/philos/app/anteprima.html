@@ -1,0 +1,1008 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+    <title>My Material-UI example page</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="minimum-scale=1, initial-scale=1, width=device-width, shrink-to-fit=no" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
+</head>
+<body>
+    <div id="root"></div>
+    <script src="https://unpkg.com/react@latest/umd/react.development.js"></script>
+    <script src="https://unpkg.com/react-dom@latest/umd/react-dom.development.js"></script>
+    <script src="https://unpkg.com/@material-ui/core/umd/material-ui.development.js"></script>
+    <script src="https://unpkg.com/babel-standalone@latest/babel.min.js"></script>
+    <script src="https://unpkg.com/react-router-dom/umd/react-router-dom.min.js"></script>
+    <script src="http://127.0.0.1:5500/philos/assets/js/classnames/classnames.js"></script>
+    <script type="text/babel">
+        function loadJSON(jsonpath, callback) {
+            var xobj = new XMLHttpRequest();
+            xobj.overrideMimeType("application/json");
+            xobj.open('GET', jsonpath, true);
+            xobj.onreadystatechange = function() {
+                if (xobj.readyState == 4 && xobj.status == "200") {
+                    // .open will NOT return a value but simply returns undefined in async mode so use a callback
+                    callback(xobj.responseText);
+                }
+            };
+            xobj.send(null);
+        }
+        function compareById(a, b) {
+            if (a.id < b.id) {
+                return -1;
+            }
+            if (a.id > b.id) {
+                return 1;
+            }
+            return 0;
+        }
+    </script>
+    <script type="text/babel">
+        console.log("MaterialUI", MaterialUI);
+        const ReactRouterDOM = window.ReactRouterDOM;
+        const classnames = window.classNames;
+        const {
+            colors, 
+            createGenerateClassName, 
+            createMuiTheme, 
+            createStyles, 
+            makeStyles, 
+            jssPreset, 
+            MuiThemeProvider, 
+            withStyles, 
+            withTheme, 
+            AppBar, 
+            Avatar, 
+            Backdrop, 
+            Badge, 
+            BottomNavigation, 
+            BottomNavigationAction, 
+            Button, 
+            ButtonBase, 
+            Card, 
+            CardActionArea, 
+            CardActions, 
+            CardContent, 
+            CardHeader, 
+            CardMedia, 
+            Checkbox, 
+            Chip, 
+            CircularProgress, 
+            ClickAwayListener, 
+            Collapse, 
+            CssBaseline, 
+            Dialog, 
+            DialogActions, 
+            DialogContent, 
+            DialogContentText, 
+            DialogTitle, 
+            Divider, 
+            Drawer, 
+            ExpansionPanel, 
+            ExpansionPanelActions, 
+            ExpansionPanelDetails, 
+            ExpansionPanelSummary, 
+            Fab, 
+            Fade, 
+            FilledInput, 
+            FormControl, 
+            FormControlLabel, 
+            FormGroup, 
+            FormHelperText, 
+            FormLabel, 
+            Grid, 
+            GridList, 
+            GridListTile, 
+            GridListTileBar, 
+            Grow, 
+            Hidden, 
+            Icon, 
+            IconButton, 
+            Input, 
+            InputAdornment, 
+            InputBase, 
+            InputLabel, 
+            LinearProgress, 
+            Link, 
+            List, 
+            ListItem, 
+            ListItemAvatar, 
+            ListItemIcon, 
+            ListItemSecondaryAction, 
+            ListItemText, 
+            ListSubheader, 
+            Menu, 
+            MenuItem, 
+            MenuList, 
+            MobileStepper, 
+            Modal, 
+            ModalManager, 
+            NativeSelect, 
+            NoSsr, 
+            OutlinedInput, 
+            Paper, 
+            Popover, 
+            Popper, 
+            Portal, 
+            Radio, 
+            RadioGroup, 
+            RootRef, 
+            Select, 
+            Slide, 
+            Snackbar, 
+            SnackbarContent, 
+            Step, 
+            StepButton, 
+            StepConnector, 
+            StepContent, 
+            StepIcon, 
+            StepLabel, 
+            Stepper, 
+            SvgIcon, 
+            SwipeableDrawer, 
+            Switch, 
+            Tab, 
+            Table, 
+            TableBody, 
+            TableCell, 
+            TableFooter, 
+            TableHead, 
+            TablePagination, 
+            TableRow, 
+            TableSortLabel, 
+            Tabs, 
+            TextField, 
+            Toolbar, 
+            Tooltip, 
+            Typography, 
+            withMobileDialog, 
+            withWidth, 
+            Zoom
+        } = MaterialUI;
+        const drawerWidth = 240;
+        const theme = createMuiTheme({
+            palette: {
+                primary: {
+                    light: colors.purple[300], 
+                    main: colors.purple[500], 
+                    dark: colors.purple[700]
+                }, 
+                secondary: {
+                    light: colors.yellow[300], 
+                    main: colors.yellow[500], 
+                    dark: colors.yellow[700]
+                }
+            }, 
+            typography: {
+                useNextVariants: true
+            }
+        });
+        function Quote(props) {
+            var {item} = props;
+            return  (
+                    <blockquote>
+                    {
+                        item.lines.map(function(token) {
+                            return  (
+                                    <p>
+                                    {token}
+                                    </p>
+                                )
+                            ;
+                        })
+                    }<div>
+                        {item.author}
+                        </div>
+                    
+                    </blockquote>
+                )
+            ;
+        }
+        function ContentText(props) {
+            var {item} = props;
+            if (item.contents && item.contents.length > 0) {
+                return  (
+                        <div>
+                        {
+                            item.contents.map(function(token) {
+                                if (token.line) {
+                                    return  (
+                                            <p>
+                                            {token.line}
+                                            </p>
+                                        )
+                                    ;
+                                }
+                                else if (token.quote) {
+                                    return  (
+                                            <Quote item={token.quote}>
+                                            </Quote>
+                                        )
+                                    ;
+                                }
+                            })
+                        }</div>
+                    )
+                ;
+            }
+            else {
+                return null;
+            }
+        }
+        function FieldList(props) {
+            var {jsonData} = props;
+            return  (
+                    <div>
+                        <h2>
+                        Fields
+                        </h2>
+                    
+                        <Paper style={{maxHeight: 370, overflow: 'auto'}}>
+                            <Table>
+                            {
+                                jsonData.fields.sort(compareById).map(function(item) {
+                                    return  (
+                                            <TableRow button key={item.id}>
+                                                <TableCell>
+                                                    <h3>
+                                                    {item.id}
+                                                    </h3>
+                                                
+                                                    <ContentText item={item}>
+                                                    </ContentText>
+                                                
+                                                </TableCell>
+                                            
+                                            </TableRow>
+                                        )
+                                    ;
+                                })
+                            }</Table>
+                        
+                        </Paper>
+                    
+                    </div>
+                )
+            ;
+        }
+        function Field(props) {
+            var {item} = props;
+            return  (
+                    <div>
+                        <h3>
+                        {item.id}
+                        </h3>
+                    
+                        <ContentText item={item}>
+                        </ContentText>
+                    
+                    </div>
+                )
+            ;
+        }
+        function SchoolList(props) {
+            var {jsonData} = props;
+            return  (
+                    <div>
+                        <h2>
+                        Schools
+                        </h2>
+                    
+                        <Paper style={{maxHeight: 370, overflow: 'auto'}}>
+                            <Table>
+                            {
+                                jsonData.approaches.sort(compareById).map(function(item) {
+                                    return  (
+                                            <TableRow button key={item.id}>
+                                                <TableCell>
+                                                    <h3>
+                                                    {item.id}
+                                                    </h3>
+                                                
+                                                    <ContentText item={item}>
+                                                    </ContentText>
+                                                
+                                                </TableCell>
+                                            
+                                            </TableRow>
+                                        )
+                                    ;
+                                })
+                            }</Table>
+                        
+                        </Paper>
+                    
+                    </div>
+                )
+            ;
+        }
+        function School(props) {
+            var {item} = props;
+            return  (
+                    <div>
+                        <h3>
+                        {item.id}
+                        </h3>
+                    
+                        <ContentText item={item}>
+                        </ContentText>
+                    
+                    </div>
+                )
+            ;
+        }
+        function TheoryList(props) {
+            var {jsonData} = props;
+            return  (
+                    <div>
+                        <h2>
+                        Concepts
+                        </h2>
+                    
+                        <Paper style={{maxHeight: 370, overflow: 'auto'}}>
+                            <Table>
+                            {
+                                jsonData.theories.sort(compareById).map(function(item) {
+                                    return  (
+                                            <TableRow button key={item.id}>
+                                                <TableCell>
+                                                    <h3>
+                                                    {item.id}
+                                                    </h3>
+                                                
+                                                    <ContentText item={item}>
+                                                    </ContentText>
+                                                
+                                                </TableCell>
+                                            
+                                            </TableRow>
+                                        )
+                                    ;
+                                })
+                            }</Table>
+                        
+                        </Paper>
+                    
+                    </div>
+                )
+            ;
+        }
+        function Theory(props) {
+            var {item} = props;
+            return  (
+                    <div>
+                        <h3>
+                        {item.id}
+                        </h3>
+                    
+                        <ContentText item={item}>
+                        </ContentText>
+                    
+                    </div>
+                )
+            ;
+        }
+        function ConceptList(props) {
+            var {jsonData} = props;
+            return  (
+                    <div>
+                        <h2>
+                        Concepts
+                        </h2>
+                    
+                        <Paper style={{maxHeight: 370, overflow: 'auto'}}>
+                            <Table>
+                            {
+                                jsonData.concepts.sort(compareById).map(function(item) {
+                                    return  (
+                                            <TableRow button key={item.id}>
+                                                <TableCell>
+                                                    <h3>
+                                                    {item.id}
+                                                    </h3>
+                                                
+                                                    <ContentText item={item}>
+                                                    </ContentText>
+                                                
+                                                </TableCell>
+                                            
+                                            </TableRow>
+                                        )
+                                    ;
+                                })
+                            }</Table>
+                        
+                        </Paper>
+                    
+                    </div>
+                )
+            ;
+        }
+        function Concept(props) {
+            var {item} = props;
+            return  (
+                    <div>
+                        <h3>
+                        {item.id}
+                        </h3>
+                    
+                        <ContentText item={item}>
+                        </ContentText>
+                    
+                    </div>
+                )
+            ;
+        }
+        function AuthorList(props) {
+            var {jsonData} = props;
+            return  (
+                    <div>
+                        <h2>
+                        Authors
+                        </h2>
+                    
+                        <Paper style={{maxHeight: 370, overflow: 'auto'}}>
+                            <Table>
+                            {
+                                jsonData.authors.sort(compareById).map(function(item) {
+                                    return  (
+                                            <TableRow button key={item.id}>
+                                                <TableCell>
+                                                    <Author item={item}>
+                                                    </Author>
+                                                
+                                                </TableCell>
+                                            
+                                            </TableRow>
+                                        )
+                                    ;
+                                })
+                            }</Table>
+                        
+                        </Paper>
+                    
+                    </div>
+                )
+            ;
+        }
+        function Author(props) {
+            var {item} = props;
+            return  (
+                    <div>
+                        <h3>
+                        {item.id}
+                        </h3>
+                    
+                        <div>
+                        {item.fullname}
+                        </div>
+                    
+                    {
+                        item.born ?  (
+                                <div>
+                                Nascita
+                                    <span>
+                                    :&nbsp;
+                                    </span>
+                                
+                                    <span>
+                                    {item.born.date}
+                                    </span>
+                                
+                                    <span>
+                                    ,&nbsp;
+                                    </span>
+                                
+                                    <span>
+                                    {item.born.place}
+                                    </span>
+                                
+                                </div>
+                            )
+                         : null
+                        
+                    }{
+                        item.died ?  (
+                                <div>
+                                Morte
+                                    <span>
+                                    :&nbsp;
+                                    </span>
+                                
+                                    <span>
+                                    {item.died.date}
+                                    </span>
+                                
+                                    <span>
+                                    ,&nbsp;
+                                    </span>
+                                
+                                    <span>
+                                    {item.died.place}
+                                    </span>
+                                
+                                </div>
+                            )
+                         : null
+                        
+                    }<ContentText item={item}>
+                        </ContentText>
+                    
+                    </div>
+                )
+            ;
+        }
+        function GroupList(props) {
+            var {jsonData} = props;
+            return  (
+                    <div>
+                        <h2>
+                        Groups
+                        </h2>
+                    
+                        <Paper style={{maxHeight: 370, overflow: 'auto'}}>
+                            <Table>
+                            {
+                                jsonData.authorsGroups.sort(compareById).map(function(item) {
+                                    return  (
+                                            <TableRow button key={item.id}>
+                                                <TableCell>
+                                                    <h3>
+                                                    {item.id}
+                                                    </h3>
+                                                
+                                                    <ContentText item={item}>
+                                                    </ContentText>
+                                                
+                                                </TableCell>
+                                            
+                                            </TableRow>
+                                        )
+                                    ;
+                                })
+                            }</Table>
+                        
+                        </Paper>
+                    
+                    </div>
+                )
+            ;
+        }
+        function Group(props) {
+            var {item} = props;
+            return  (
+                    <div>
+                        <h3>
+                        {item.id}
+                        </h3>
+                    
+                        <ContentText item={item}>
+                        </ContentText>
+                    
+                    </div>
+                )
+            ;
+        }
+        function PlaceList(props) {
+            var {jsonData} = props;
+            return  (
+                    <div>
+                        <h2>
+                        Places
+                        </h2>
+                    
+                        <Paper style={{maxHeight: 370, overflow: 'auto'}}>
+                            <Table>
+                            {
+                                jsonData.theories.sort(compareById).map(function(item) {
+                                    return  (
+                                            <TableRow button key={item.id}>
+                                                <TableCell>
+                                                    <h3>
+                                                    {item.id}
+                                                    </h3>
+                                                
+                                                    <ContentText item={item}>
+                                                    </ContentText>
+                                                
+                                                </TableCell>
+                                            
+                                            </TableRow>
+                                        )
+                                    ;
+                                })
+                            }</Table>
+                        
+                        </Paper>
+                    
+                    </div>
+                )
+            ;
+        }
+        function Place(props) {
+            var {item} = props;
+            return  (
+                    <div>
+                        <h3>
+                        {item.id}
+                        </h3>
+                    
+                        <ContentText item={item}>
+                        </ContentText>
+                    
+                    </div>
+                )
+            ;
+        }
+        function PublicationList(props) {
+            var {jsonData} = props;
+            return  (
+                    <div>
+                        <h2>
+                        Publications
+                        </h2>
+                    
+                        <Paper style={{maxHeight: 370, overflow: 'auto'}}>
+                            <Table>
+                            {
+                                jsonData.books.sort(compareById).map(function(item) {
+                                    return  (
+                                            <TableRow button key={item.id}>
+                                                <TableCell>
+                                                    <Book item={item}>
+                                                    </Book>
+                                                
+                                                </TableCell>
+                                            
+                                            </TableRow>
+                                        )
+                                    ;
+                                })
+                            }</Table>
+                        
+                        </Paper>
+                    
+                    </div>
+                )
+            ;
+        }
+        function Book(props) {
+            var {item} = props;
+            if (item.contents && item.contents.length > 0) {
+                return  (
+                        <div>
+                            <h3>
+                            {item.id}
+                            </h3>
+                        
+                            <div>
+                            {item.author + ', ' + item.title + ',' + item.edition}
+                            </div>
+                        
+                        {
+                            item.contents.map(function(token) {
+                                if (token.line) {
+                                    return  (
+                                            <p>
+                                            {token.line}
+                                            </p>
+                                        )
+                                    ;
+                                }
+                            })
+                        }</div>
+                    )
+                ;
+            }
+            else {
+                return null;
+            }
+        }
+        const styles = theme => (
+            {
+                root: {
+                    display: 'flex'
+                }, 
+                appBar: {
+                    transition: theme.transitions.create([
+                        'margin', 
+                        'width'
+                    ], {
+                        easing: theme.transitions.easing.sharp, 
+                        duration: theme.transitions.duration.leavingScreen
+                    })
+                }, 
+                appBarShift: {
+                    width: `calc(100% - ${drawerWidth}px)`, 
+                    marginLeft: drawerWidth, 
+                    transition: theme.transitions.create([
+                        'margin', 
+                        'width'
+                    ], {
+                        easing: theme.transitions.easing.easeOut, 
+                        duration: theme.transitions.duration.enteringScreen
+                    })
+                }, 
+                menuButton: {
+                    marginLeft: 12, 
+                    marginRight: 20
+                }, 
+                hide: {
+                    display: 'none'
+                }, 
+                drawer: {
+                    width: drawerWidth, 
+                    flexShrink: 0
+                }, 
+                drawerPaper: {
+                    width: drawerWidth
+                }, 
+                drawerHeader: {
+                    display: 'flex', 
+                    alignItems: 'center', 
+                    padding: '0 8px', 
+                    ...theme.mixins.toolbar, 
+                    justifyContent: 'flex-end'
+                }, 
+                content: {
+                    flexGrow: 1, 
+                    padding: theme.spacing.unit * 3, 
+                    transition: theme.transitions.create('margin', {
+                        easing: theme.transitions.easing.sharp, 
+                        duration: theme.transitions.duration.leavingScreen
+                    }), 
+                    marginLeft: -drawerWidth
+                }, 
+                contentShift: {
+                    transition: theme.transitions.create('margin', {
+                        easing: theme.transitions.easing.easeOut, 
+                        duration: theme.transitions.duration.enteringScreen
+                    }), 
+                    marginLeft: 0
+                }
+            });
+        
+        class Index extends React.Component {
+            state = {
+                isLoading: true, 
+                jsonData: {}, 
+                error: null, 
+                open: false, 
+                selectedView: 'Synopsis'
+            };
+            handleDrawerOpen = () => {
+                this.setState({
+                    open: true
+                });
+            }
+            handleDrawerClose = () => {
+                this.setState({
+                    open: false
+                });
+            }
+            handleSelectView = (event, name) => {
+                this.setState({
+                    selectedView: name
+                });
+            }
+            componentDidMount() {
+                var that = this;
+                loadJSON("first.philos.extended.json", function(response) {
+                    // Do Something with the response e.g.
+                    var jsonresponse = JSON.parse(response);
+                    // log 'from did mount', jsonresponse
+                    that.setState({
+                        jsonData: jsonresponse, 
+                        isLoading: false, 
+                        error: null
+                    });
+                });
+            }
+            render() {
+                const {
+                    classes,
+                    theme
+                } = this.props;
+                const {
+                    isLoading, 
+                    jsonData, 
+                    error, 
+                    open, 
+                    selectedView
+                } = this.state;
+                return  (
+                        <div className={classes.root}>
+                            <CssBaseline>
+                            </CssBaseline>
+                        
+                            <AppBar position="fixed" className={classNames(classes.appBar, {
+                                [classes.appBarShift]: open
+                            })}>
+                                <Toolbar disableGutters={!open}>
+                                    <IconButton color="inherit" aria-label="Open drawer" onClick={this.handleDrawerOpen} className={classNames(classes.menuButton, open && classes.hide)}>
+                                        <Icon>
+                                        menu</Icon>
+                                    
+                                    </IconButton>
+                                
+                                    <Typography variant="h6" color="inherit" noWrap>
+                                    Persistent drawer</Typography>
+                                
+                                </Toolbar>
+                            
+                            </AppBar>
+                        
+                            <Drawer className={classes.drawer} variant="persistent" anchor="left" open={open} classes={{
+                                paper: classes.drawerPaper
+                            }}>
+                                <div className={classes.drawerHeader}>
+                                    <IconButton onClick={this.handleDrawerClose}>
+                                    {
+                                        theme.direction === 'ltr' ?  (
+                                                <Icon>
+                                                chevron_left</Icon>
+                                            )
+                                         :  (
+                                                <Icon>
+                                                chevron_right</Icon>
+                                            )
+                                        
+                                    }</IconButton>
+                                
+                                </div>
+                            
+                                <Divider>
+                                </Divider>
+                            
+                                <List>
+                                {
+                                    [
+                                        'Fields', 
+                                        'Schools', 
+                                        'Theories/Laws', 
+                                        'Concepts', 
+                                        'Authors', 
+                                        'Groups', 
+                                        'Places', 
+                                        'Publications'
+                                    ].map((text, index) =>  (
+                                            <ListItem button key={text} onClick={(event) =>
+                                                this.handleSelectView(event, text)}>
+                                                <ListItemIcon>
+                                                {
+                                                    index % 2 === 0 ?  (
+                                                            <Icon>
+                                                            inbox</Icon>
+                                                        )
+                                                     :  (
+                                                            <Icon>
+                                                            mail</Icon>
+                                                        )
+                                                    
+                                                }</ListItemIcon>
+                                            
+                                                <ListItemText primary={text}>
+                                                </ListItemText>
+                                            
+                                            </ListItem>
+                                        )
+                                    )
+                                }</List>
+                            
+                                <Divider>
+                                </Divider>
+                            
+                                <List>
+                                {
+                                    [
+                                        'Synopsis', 
+                                        'Schema', 
+                                        'Overview'
+                                    ].map((text, index) =>  (
+                                            <ListItem button key={text} onClick={(event) =>
+                                                this.handleSelectView(event, text)}>
+                                                <ListItemIcon>
+                                                {
+                                                    index % 2 === 0 ?  (
+                                                            <Icon>
+                                                            inbox</Icon>
+                                                        )
+                                                     :  (
+                                                            <Icon>
+                                                            mail</Icon>
+                                                        )
+                                                    
+                                                }</ListItemIcon>
+                                            
+                                                <ListItemText primary={text}>
+                                                </ListItemText>
+                                            
+                                            </ListItem>
+                                        )
+                                    )
+                                }</List>
+                            
+                            </Drawer>
+                        
+                            <main className={classNames(classes.content, {
+                                [classes.contentShift]: open
+                            })}>
+                                <div className={classes.drawerHeader}>
+                                </div>
+                            
+                                <h2>
+                                {selectedView}
+                                </h2>
+                            
+                            {
+                                selectedView == 'Synopsis' &&  (
+                                    <p>
+                                    synopsis
+                                    </p>
+                                )
+                                
+                            }{
+                                selectedView == 'Fields' && isLoading == false &&  (
+                                    <FieldList jsonData={jsonData}>
+                                    </FieldList>
+                                )
+                                
+                            }{
+                                selectedView == 'Schools' && isLoading == false &&  (
+                                    <SchoolList jsonData={jsonData}>
+                                    </SchoolList>
+                                )
+                                
+                            }{
+                                selectedView == 'Theories/Laws' && isLoading == false &&  (
+                                    <TheoryList jsonData={jsonData}>
+                                    </TheoryList>
+                                )
+                                
+                            }{
+                                selectedView == 'Concepts' && isLoading == false &&  (
+                                    <ConceptList jsonData={jsonData}>
+                                    </ConceptList>
+                                )
+                                
+                            }{
+                                selectedView == 'Authors' && isLoading == false &&  (
+                                    <AuthorList jsonData={jsonData}>
+                                    </AuthorList>
+                                )
+                                
+                            }{
+                                selectedView == 'Groups' && isLoading == false &&  (
+                                    <GroupList jsonData={jsonData}>
+                                    </GroupList>
+                                )
+                                
+                            }{
+                                selectedView == 'Places' && isLoading == false &&  (
+                                    <PlaceList jsonData={jsonData}>
+                                    </PlaceList>
+                                )
+                                
+                            }{
+                                selectedView == 'Publications' && isLoading == false &&  (
+                                    <PublicationList jsonData={jsonData}>
+                                    </PublicationList>
+                                )
+                                
+                            }</main>
+                        
+                        </div>
+                    )
+                ;
+            }
+        }
+        const App = withStyles(styles, { withTheme: true })(Index);
+        ReactDOM.render(
+            <App>
+            </App>
+        , document.getElementById('root'));
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,25 @@
+$group
+
+    namespace lacan
+
+        concept schema-L
+
+            concept posto-S
+                + S è il soggetto nella “sua ineffabile e stupida esistenza”
+                    \b Si tratta, in altri termini, del soggetto preso nelle reti del linguaggio
+                    \b e che non sa ciò che dice. 
+                    \b Ma anche se il soggetto è in posizione di S, 
+                    \b non è in questo posto che si coglie :
+                quote
+                    + Si vede in a, ed è per questo che ha un io (moi). 
+                        \b Può credere che sia questo io a essere lui. 
+                        \b Tutti sono a questo punto, e non c’è modo di uscirne
+                    book lacan.l-io-nella-teoria-di-freud
+                    page 281
+
+            concept termine-A
+                + Il quarto termine dello schema L è simbolizzato da A: l’Altro. 
+                    \b Accanto al piano simmetrico dell’Io e dell’altro, 
+                    \b esiste effettivamente un piano secante A --> S, 
+                    \b che Lacan chiama il muro del linguaggio. 
+                    Per comprendere la a

@@ -1,0 +1,16 @@
+$group
+
+    namespace lacan
+
+        concept io
+        
+            + L’Io, dirà Lacan nella sua lettura dell’Entwurf freudiano 
+                \b nel seminario L’etica della psicoanalisi,
+                \b l’io è l’inconscio in funzione. 
+                \b Da un lato obliterato dall’inconscio, dall’altro suo prolungamento nella realtà. 
+                \b Si tratta in sostanza di un’istanza fondamentalmente rappresentativa, 
+                \b funzionante secondo una dialettica che articola le Wortvorstellung alle Sachevorstellung, 
+                \b ed è coinvolto in un processo che in tutto e per tutto associa linguaggio e rappresentazione.
+                \b E qui sta lo snodo, vedremo, che segna il passaggio in Lacan alla definizione di soggetto dell’inconscio
+                \b come effetto dell’azione del significante, 
+                \b una volta introdotto nel campo dell’Altro come luogo della Parola.

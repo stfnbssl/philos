@@ -1,0 +1,26 @@
+﻿module
+	kind es6
+
+    $
+        var md = {
+            schema: 'sample'
+        };
+
+    v07/plugin/models/mtree-preprocessor(&md)
+
+        function preprocessNode
+            param node
+            param state
+
+            if node.n === 'ittf-panel'
+                set node.wzMTreeData
+                    {
+                        @ mTree state.mTree
+                foreach item in node.children
+                    if item.n === 'ittf'
+                        set node.wzMTreeData[item.n] = item
+                    else
+                        set node.wzMTreeData[item.n] = item.v
+                set node.children = []
+            else
+                return false

@@ -1,0 +1,11 @@
+sample first
+    item alpha
+    item beta
+        value 10
+    item gamma
+    ittf-panel
+        schema js
+        title Var declaration
+        ittf
+            var i
+                _ random(10)

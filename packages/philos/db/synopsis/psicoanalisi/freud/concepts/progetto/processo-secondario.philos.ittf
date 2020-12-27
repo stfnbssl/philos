@@ -1,0 +1,18 @@
+$group
+
+    namespace freud
+
+        concept processo-secondario
+            alias processo psichico secondario
+            + D’altra parte quei processi 
+                \b che sono resi possibili solo da una buona carica dell’Io 
+                \b e che funzionano da moderatori del processo primario, 
+                \b possono essere definiti come processi psichici secondari. 
+                \b Come si vede, condizione indispensabile di questi ultimi 
+                \b è una corretta utilizzazione dei “segni di realtà”, 
+                \b e questa è possibile solo quando esiste inibizione da parte dell’Io.
+
+            + La lotta tra le facilitazioni fisse e gli investimenti mutevoli 
+                \b è caratteristica del processo secondario del pensiero riproduttivo, 
+                \b in contrasto con la successione primaria delle associazioni.
+

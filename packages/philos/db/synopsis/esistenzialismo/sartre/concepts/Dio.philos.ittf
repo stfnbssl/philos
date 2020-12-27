@@ -1,0 +1,9 @@
+$group
+
+    namespace sartre
+
+        concept Dio
+
+            quote
+                + Dio, se esiste, è contingente.
+                book sartre.l-essere-e-il-nulla

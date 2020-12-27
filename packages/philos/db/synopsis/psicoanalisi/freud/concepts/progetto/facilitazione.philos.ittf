@@ -1,0 +1,27 @@
+$group
+
+    namespace freud
+
+        concept facilitazione
+
+            + Si può supporre che la capacità di conduzione di Qἠ attraverso le barriere di contatto [sinapsi]
+                \b potrebbe differenziarsi poiché il processo di conduzione stesso crea una maggior
+                \b facilità di conduzione per i passaggi successivi.
+            
+            + La facilitazione potrebbe consistere in un assorbimento di Qἠ
+                \b attraverso la barriera di contatto.
+                \b Forse solo un quoziente di Qἠ rimane come facilitazione
+                \b dopo il passaggio del flusso.
+
+            + L'entità della facilitazione dipende sia dalla grandezza di Qἠ
+                \b sia dal numero delle ripetizioni del processo.
+
+        concept facilitazione-di-pensiero
+
+            + Della facilitazione di pensiero resta il risultato e non il ricordo.
+            
+            r-concept freud.segno-di-scarica-verbale
+                + I segni di scarica verbale pongono i processi di pensiero 
+                    \b sullo stesso livello dei processi percettivi,
+                    \b conferendo loro una realtà,
+                    \b e rendendo possibile il loro ricordo.

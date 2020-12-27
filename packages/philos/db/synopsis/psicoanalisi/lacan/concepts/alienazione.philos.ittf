@@ -1,0 +1,15 @@
+$group
+
+    namespace lacan
+
+        concept alienazione
+
+            r-concept lacan.senso-essere
+                + Il soggetto una volta entrato nel campo dell’Altro, è posto di fronte a una scelta: 
+                    \b da una parte sta il Senso, dall’altra l’Essere. 
+                quote
+                    + Si tratta del vel della prima operazione essenziale in cui si fonda il soggetto. […]
+                        \b Si tratta nientemeno che di quella operazione che possiamo chiamare l’alienazione
+                    book lacan.i-quattro-concetti-fondamentali-della-psicoanalisi
+                    page 205-6
+

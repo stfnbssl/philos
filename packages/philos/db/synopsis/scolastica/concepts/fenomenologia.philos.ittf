@@ -1,0 +1,20 @@
+$group
+
+    namespace scolastica
+
+        concept fenomenologia
+            + I fenomeni della fenomenologia sono le cose da vedere, le cose che appaiono. 
+            quote
+                + La fenomenologia è un metodo,
+                    \b un metodo tanto ovvio che pare impossibile sia stato necessario formularlo, 
+                    \b perchè si potrebbe formularlo così: andiamo a vedere come stanno le cose.
+                article rovighi.l-essere-e-il-nulla-di-sartre
+
+        concept fenomenismo
+            + Il fenomenismo afferma che l'essere è ciò che appare e solo ciò che appare;
+                \b l'essere si esaurisce totalmente, senza residuo, in ciò che appare.
+            example
+                + Secondo Hume tutta la realtà si esaurisce in ciò che appare, 
+                    \b così come appare, mentre appare; 
+                    \b non c'è soggetto (spirito) nè materia (corpo): 
+                    \b ci sono soltanto le impressioni.

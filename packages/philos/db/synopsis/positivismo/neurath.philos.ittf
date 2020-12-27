@@ -1,0 +1,125 @@
+$group
+    author Neurath
+        name Otto Neurath
+        born
+            date 10/12/1882
+            place Vienna
+        died
+            date 22/12/45
+            place Oxford
+        approach
+        no-approach
+
+
+        NEURATH E IL FISICALISMO
+
+        Nell’ambiente viennese il passaggio al fisicalismo avviene attorno al 1932 
+        per l’influenza esercitata da Otto Neurath (1882 – 1945) sugli altri esponenti del Circolo
+        
+        quote
+            + [...] la scienza esprime e concreta l’esigenza tipicamente umana di una visione onnicomprensiva; 
+                il comportamento dell’uomo si affina, 
+                tuttavia, prima di passare alla scienza, 
+                attraverso un lungo sviluppo storico che va dai tentativi del tutto asistematici di interpretazione magica del mondo, 
+                attraverso la visione teologica tessuta logicamente, ma non rivolta alla realtà empirica, 
+                fino alla filosofia o metafisica tradizionale, 
+                [...] che si balocca nella combinazione metaempirica di concetti e di proposizioni
+                
+        Neurath insiste sull’importanza essenziale della scienza unitaria, 
+        accanto alla quale però non c’è né metafisica né filosofia.
+    
+        Il programma neo-empirista non sarà compiuto fino a quando ci si limiterà ad escludere “verità filosofiche”, 
+        ma si conserverà il termine filosofia per intendere l’atto della “chiarificazione concettuale”. 
+        L’atto di chiarimento dei concetti appartiene alla scienza stessa, 
+        si intreccia inseparabilmente alla ricerca empirica.
+
+        Wittgenstein e Schlick hanno frainteso, secondo Neurath, 
+        la natura stessa del linguaggio: 
+        è certo possibile parlare con una parte del linguaggio di un’altra parte di esso, 
+        ma non ci si può esprimere da un punto di vista “non linguistico” 
+        sul linguaggio come totalità (tesi dell’intrascendibilità del linguaggio). 
+        L’analisi logica in Wittgenstein ed in Russel sembrava riguardare due fatti, 
+        o meglio la relazione fra due fatti, 
+        in cui l’uno esprimeva l’altro, era simbolo dell’altro. 
+        Secondo Neurath, invece, la proposizione è innanzitutto un fatto fisico, 
+        un insieme di segni ordinato, 
+        che ha la stessa natura dei fatti di cui la scienza si occupa. 
+        Il linguaggio non è il simbolo di qualche cosa, 
+        ma è piuttosto un elemento primario. 
+        La scienza è l’insieme degli enunciati significanti e 
+        l’enunciato è al tempo stesso l’oggetto di cui la scienza parla 
+        e lo strumento con cui si esprime. 
+        Per Neurath, allora, compiere osservazioni significa semplicemente scrivere degli enunciati, 
+        i cosiddetti “enunciati osservativi” o “enunciati protocollari” 
+        (mentre per l’impostazione “fenomenistica” 
+        compiere osservazioni significa rifarsi a quei “dati immediati”, a quegli “elementi”…). 
+        Ciò significa che linguaggio e realtà coincidono: 
+        la realtà è il linguaggio ed il linguaggio è la realtà, 
+        ciò è un fatto fisico allo stesso titolo degli altri 
+        (fisicalismo estremo; nominalismo radicale; panlinguismo).
+        
+        quote
+            + Le proposizioni vanno confrontate con proposizioni, 
+                non con l’esperienza, né con un mondo, né con qualcos’altro. 
+                Tutte queste duplicazioni prive di senso appartengono ad una metafisica più o meno raffinata, 
+                e devono perciò venire rigettate. 
+                Ogni nuova proposizione è confrontata con la totalità delle proposizioni presenti, 
+                già portate ad un accordo le une con le altre. 
+                Si dirà, allora, che una proposizione è corretta 
+                quando essa può venire inserita in questo sistema. 
+                Tutto quello che non possiamo inserire in questo sistema 
+                viene rigettato come non corretto. 
+                Ogni volta che troviamo in generale, 
+                difficile prendere una decisione, 
+                possiamo anche, invece di rigettare le nuove proposizioni, 
+                alterare tutto il precedente sistema di proposizioni 
+                finché le nostre proposizioni possano venir inserite in esso. 
+                Vi sono, entro la scienza unificata, problemi di trasformazione forniti di significato
+
+        Queste tesi nuove si distaccano dalla primitiva dottrina dell’empirismo logico degli anni venti 
+        e vengono viste da molti esponenti del Circolo come esempio di atteggiamento critico ed antidogmatico. 
+        Neurath, infatti storicizza in questo modo le leggi scientifiche 
+        e ne rivela i tratti di convenzionalità (sulla scia di Poincaré e Duhem) 
+        ed anticipa la tesi post-empirista secondo cui 
+        non esiste mai un’esperienza del tutto neutra e priva di elementi teorici.
+
+        In un articolo del 1932-33 intitolato Sulle proposizioni protocollari Neurath scrive:
+        
+        quote
+            + Il progresso delle scienze consiste in ciò: 
+                che proposizioni le quali vennero usate in un certo periodo di tempo, 
+                cadono più tardi in disuso, 
+                e quindi sono di frequente sostituite da altre. 
+                Sovente la loro forma rimane la stessa, 
+                ma le definizioni vengono alterate. 
+                Ogni legge ed ogni proposizione fisicalistica della scienza unificata o delle sue scienze speciali, 
+                può sottostare a tale alterazione. 
+                Questo vale per ogni proposizione protocollare”.
+
+        “Nella scienza unificata ci sforziamo di creare un sistema non contradditorio 
+        di proposizioni protocollari e di proposizioni non protocollari (comprese le leggi). 
+        Se poi vien presentata una nuova proposizione, 
+        noi la confrontiamo con il sistema in questione 
+        e controlliamo se questa stia o non stia in contraddizione con il sistema. 
+        Nel caso in cui la nuova proposizione stia in contraddizione con il sistema, 
+        possiamo cancellarla in quanto inapplicabile (falsa)[…] 
+        oppure possiamo accettarla, 
+        e di conseguenza modificare il sistema in modo che esso rimanga non contradditorio, 
+        anche quando vi si includa la nuova proposizione. 
+        Questa viene allora detta vera”.
+
+        Quindi, in sintesi: la verità non è la corrispondenza fra linguaggio e realtà; 
+        la verità è la coerenza degli enunciati fra loro.
+
+        Una teoria viene organizzata a partire da alcune proposizioni della teoria stessa (gli assiomi) 
+        da cui vengono dedotti (mediante le regole logiche dell’inferenza) tutti i teoremi della teoria, 
+        cioè tutte le proposizioni che consideriamo vere, 
+        una volta assunti gli assiomi come veri 
+        (se sono veri gli assiomi, cioè le premesse iniziali, allora sono veri anche i teoremi, 
+        cioè quello che abbiamo dedotto dalle premesse iniziali).
+
+        Il sistema di Neurath è in un certo senso un sistema ipotetico-deduttivo, 
+        dove essere vero non significa “essere dedotto dagli assiomi di una teoria – 
+        intesi come evidenti, 
+        tali che l’intelletto non possa negare loro l’assenso – 
+        ma essere vero qui significa “essere conforme agli assiomi iniziali”. 

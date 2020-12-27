@@ -1,0 +1,11 @@
+$group
+
+    namespace freud
+
+        concept sensazione
+            quote
+                + La percezione interna fornisce sensazioni relative a processi appartenenti ai più svariati, 
+                    \b e certamente anche ai più profondi strati dell’apparato psichico. 
+                    \b [..] Queste sensazioni sono più primordiali, più elementari delle sensazioni provenienti dall’esterno, 
+                    \b e possono prodursi anche in stati di coscienza crepuscolare.
+                kindle-page 5963

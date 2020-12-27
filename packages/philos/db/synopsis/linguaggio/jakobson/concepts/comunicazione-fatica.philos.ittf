@@ -1,0 +1,14 @@
+$group
+
+    namespace jakobson
+
+        concept comunicazione-fatica
+            quote
+                + La comunicazione umana è caratterizzata da un'irriducibile riflessività: 
+                    \b ogni atto della comunicazione simbolizza al tempo stesso il fatto della comunicazione. 
+                    \b Roman Jakobson dava a questo fondamentale mistero dell'ordine simbolico propriamente umano 
+                    \b il nome di «comunicazione fatica»: 
+                    \b il discorso umano non è mai la mera trasmissione di un messaggio, 
+                    \b ma asserisce sempre in modo autoriflessivo 
+                    \b il patto simbolico basilare fra i soggetti comunicanti.
+                book zizek.leggere-lacan

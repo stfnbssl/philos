@@ -1,0 +1,50 @@
+$group
+
+    book lacan.seminario-I
+        author Lacan
+        title Seminario. Libro I. Gli scritti tecnici di Freud. 
+        written 1953-1954
+        edition Torino: Einaudi, 2014
+        
+        index
+            + Ouverture del seminario. 
+            + Il momento della resistenza. 
+            + I. Introduzione ai commenti sugli scritti tecnici di Freud. 
+            + II. Primi interventi sulla questione della resistenza. 
+            + III. La resistenza e le difese. 
+            + IV. L'io e l'altro. 
+            + V. Introduzione e risposta a una relazione di Jean Hyppolite su Die Verneinung di Freud. 
+            + VI. Analisi del discorso e analisi dell'io. - La topica dell'immaginario. - 
+            + VII. La topica dell'immaginario. 
+            + VIII. Il lupo! Il lupo! 
+            + IX. Sul narcisismo. 
+            + X. I due narcisismi. 
+            + XI. Ideale dell'io e io ideale. 
+            + XII. Zeitlich-entwicklungsgeschichtlich. - Al di là della psicologia. - 
+            + XIII. L'altalena del desiderio. 
+            + XIV. Le fluttuazioni della libido. 
+            + XV. Il nucleo della rimozione. - Le impasse di Michaël Balint. - 
+            + XVI. Primi interventi su Balint. 
+            + XVII. Relazione oggettuale e relazione intersoggettiva. 
+            + XVIII. L'ordine simbolico. - La parola nel transfert. - 
+            + XIX. La funzione creatrice della parola. 
+            + XX. De locutionis significatione. 
+            + XXI. La verità sorge dal fraintendimento. 
+            + XXII. Il concetto dell'analisi.        
+        
+        back-cover
+            + Sotto il titolo Il seminario è raccolto l’insegnamento orale che Lacan tenne a Parigi 
+                \b senza interruzione dal 1953 fino a poco prima della sua morte. 
+                \b A Roma, nell’estate del 1953, alcuni mesi prima quindi dell’inizio del suo seminario, 
+                \b si era tenuto un congresso in cui Lacan aveva pronunciato il cosiddetto Discorso di Roma, 
+                \b che segna l’inizio del suo insegnamento e che troverà forma definitiva 
+                \b nel testo Funzione e campo della parola e del linguaggio in psicoanalisi. 
+                \b Per i primi dieci anni Lacan si dedicherà al commento della teoria e della pratica clinica di Freud, 
+                \b facendo anche riferimento ai lavori degli psicoanalisti formati da Freud. 
+                \b Dal 1964 in poi, invece, ossia dalla rottura definitiva con l’Associazione freudiana, 
+                \b Lacan si dedicherà alla messa a punto della dottrina psicoanalitica che stava elaborando, 
+                \b precisando gli aspetti strutturali e logici della scoperta freudiana.        
+
+        source
+            title Versione Staferla, Trascrizione non editata, in francese
+            url http://website.lacan-con-freud.it/lacanseminaires/1_lacan_ecrits_techniques_1953-1954.pdf

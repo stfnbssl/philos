@@ -1,0 +1,28 @@
+$group
+    author Ceccato
+        name Silvio Ceccato
+        born
+            date 25/1/1914
+            place Montecchio Maggiore
+        died
+            date 2/12/1997
+            place Milano
+        approach operazionismo
+        + Negli anni quaranta decise che bisognava liberarsi della tradizione epistemologica e seguire una strada nuova
+        + Si rifece al programma di Percy Bridgman, fondato sull'idea di definire ogni 
+            \b concetto elencando, a mò di ricetta, le operazioni necessarie per la costituzione del concetto stesso (7). 
+            \b Questo approccio è simbolizzato nel nome che Ceccato diede al gruppo di amici collaboratori con cui per più di 
+            \b una ventina di anni discusse le sue idee: La Scuola Operativa Italiana
+        + I loro lavori muovevano in due direzioni: critica dell'epistemologia convenzionale e analisi semantica in termini 
+            \b di operazioni mentali; analisi in un certo senso opposta alla semantica linguistica, che non fa altro che sostituire 
+            \b parole con altre parole (8). Lo scopo era la "consapevolezza operativa", cioè la consapevolezza delle specifiche 
+            \b operazioni con cui ognuno si crea il contenuto del pensiero e con ciò i significati delle parole e di qualsiasi 
+            \b espressione linguistica
+        book
+            title Un Tecnico fra i Filosofi
+            edition Marsilio, Padova, 1962/1964, 2 volumi
+
+    authors-group Scuola Operativa Italiana
+        + La SOI concentrò gli sforzi, inizialmente, sull'analisi dei significati linguistici, considerandoli prodotti di specifiche 
+            \b operazioni mentali. Queste indagini continuarono oggi con i lavori di Giuseppe Vaccarino che, con poche 
+            \b modificazioni del sistema ceccatiano, mise a punto un’enciclopedia completa della semantica operativa (11).

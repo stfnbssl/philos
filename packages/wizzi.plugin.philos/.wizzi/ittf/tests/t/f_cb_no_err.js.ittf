@@ -1,0 +1,7 @@
+﻿$group
+	$params result
+
+	function
+		param err
+		param ${result}
+		$hook

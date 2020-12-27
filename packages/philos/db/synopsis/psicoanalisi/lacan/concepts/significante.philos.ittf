@@ -1,0 +1,94 @@
+$group
+
+    namespace lacan
+
+        concept afanisi 
+            + è un termine che Lacan riprende da Jones e che traduce 
+                \b la scomparsa, lo svanire, il fading,
+                \b esattamente ciò che accade al soggetto 
+                \b una volta introdotta l’azione “letale” del significante. 
+
+        concept significante
+            quote
+                + il significante è tutto ciò che incontrato [..] 
+                    \b siamo indotti a domandarci: che cosa vuol dire?.
+                    \b [..] il significante è qualcosa che incontriamo, 
+                    \b in cui ci imbattiamo
+                    \b e che costituisce un Enigma. 
+                    \b [..] tre dimensioni del significante e cioè 
+                    \b la Materia che è intercambiabile, la Forma e il Luogo.
+                webarticle licitra.alienazione-e-separazione
+
+            + Lacan fa l’esempio di Robinson Crusoe, 
+                \b dove lui s’interroga su cosa vuol dire quella traccia, 
+                \b c’è una traccia lasciata 
+                \b e qualcuno che si domanda cosa vuol dire quella traccia?
+
+            + il significante [pur non essendo eterno] è qualcosa che sorgendo dal nulla è: 
+                \b qualcosa che è creato e che, nell’essere creato, è nominato per quel che è [è da sé]
+            
+            r-concept rappresentazione
+                quote
+                    + [..] che il significante rappresenta,
+                        \b ossia che la barra di divisione tra significante e significato 
+                        \b non omette la rappresentazione come elemento proprio del linguaggio. 
+            
+            quote
+                +  Ma allora, che sorta di rappresentazione è mai quella istituita da un significante così inteso?
+                    \b Semplicemente, risponde Lacan, 
+                    \b il significante (non) rappresenta nulla. 
+                    \b O meglio, il significante rappresenta quel niente 
+                    \b che il soggetto patisce una volta sottomesso alle leggi della parola. 
+                    \b Un significante, in sé, non vuole nulla, cioè, non vuol dire nulla. 
+                    \b E ancora: non esiste un in sé del significante, 
+                    \b perché la significazione agisce nel coordinamento dei significanti tra loro. 
+
+            quote
+                + Se ciò che Freud ha scoperto e riscopre su una china sempre più vertiginosa, ha un senso,
+                    \b è nel fatto che lo spostamento del significante determina 
+                    \b i soggetti nei loro atti, nel loro destino, nei loro rifiuti,
+                    \b nei loro accertamenti, nel loro successo e nella loro sorte, 
+                    \b nonostante i loro doni innati e la loro acquisizione sociale, 
+                    \b senza riguardo al carattere o al sesso, 
+                    \b e che volente o nolente tutto ciò che attiene il dato psicologico 
+                    \b seguirà come arme e bagagli il treno del significante.
+                article lacan.seminario-su-lettera-rubata
+                page 27
+
+        concept significante-fallico
+            + significante del desiderio del bambino
+
+            + La metafora paterna introduce il soggetto nel Simbolico 
+                \b e lo abilita alla dimensione del desiderio 
+                \b attraverso la significazione fallica.
+
+            + La funzione significante del fallo 
+                \b implica la mediazione dell’Altro del linguaggio 
+                \b per il raggiungimento della soddisfazione.
+            
+            quote
+                + La funzione del fallo come significante 
+                    \b indica una significazione di castrazione 
+                    \b in quanto sostituisce il significante al Reale del bisogno 
+                    \b e gli impone la via del Simbolico, 
+                    \b che è quella della domanda da rivolgere all’Altro.            
+                article terminio.lacan-il-nome-del-padre-e-il-significante-fallico
+            
+            quote
+                + [gli effetti della funzione del significante fallico]
+                    \b anzitutto sono quelli di una deviazione dei bisogni dell’uomo 
+                    \b per il fatto che parla, 
+                    \b nel senso che quanto più i suoi bisogni sono soggetti alla domanda, 
+                    \b tanto più gli ritornano alienati. 
+                    \b Ciò non è effetto della sua dipendenza reale 
+                    \b (non si creda di ritrovare qui quella concezione parassita 
+                    \b che è la nozione di dipendenza nella teoria della nevrosi), 
+                    \b ma della messa in forma significante come tale, 
+                    \b e del fatto che è dal luogo dell’Altro che il suo messaggio è emesso
+                article lacan.la-significazione-del-fallo
+
+
+        concept significante-veicolo-di-godimento-fuori-senso
+
+        concept effetto-di-significante
+            + Metafora e metonimia

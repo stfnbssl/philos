@@ -1,0 +1,14 @@
+$group
+
+    namespace freud
+
+        concept reazione-terapeutica-negativa 
+            quote
+                + [..] non solo queste persone non sopportano alcuna lode o apprezzamento, 
+                    \b ma reagiscono ai progressi della cura in modo rovesciato. 
+                    \b Ogni soluzione parziale da cui dovrebbe risultare, come in effetti risulta con altri, 
+                    \b un miglioramento o una temporanea remissione dei sintomi, 
+                    \b suscita in costoro un momentaneo rafforzamento della sofferenza: 
+                    \b peggiorano durante il trattamento invece di migliorare. 
+                    \b Essi manifestano la cosiddetta “reazione terapeutica negativa”.
+                kindle-page 5994-5995

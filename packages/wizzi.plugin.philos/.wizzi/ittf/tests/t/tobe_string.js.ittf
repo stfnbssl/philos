@@ -1,0 +1,6 @@
+﻿$group
+	$params name, value
+	
+	_ expect(${name}).to.be.a('string')
+	_ expect(${name}).to.be('${value}')
+

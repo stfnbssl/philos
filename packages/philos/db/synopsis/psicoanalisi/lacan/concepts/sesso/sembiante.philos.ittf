@@ -1,0 +1,8 @@
+$group
+
+    namespace lacan.sesso
+        
+        concept sembiante
+            + L'essere uomo e l'essere donna viene ridotto da lacan 
+                \b al piano del sembiante, al "fare l'uomo" e "fare la donna".
+

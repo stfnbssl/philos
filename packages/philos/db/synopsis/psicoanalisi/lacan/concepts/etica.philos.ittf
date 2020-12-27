@@ -1,0 +1,21 @@
+$group
+
+    namespace lacan
+
+        concept etica
+
+            + L’azione etica della psicoanalisi consiste non nel costringere, reprimere o frenare il desiderio, 
+                \b quanto piuttosto nell’accettazione da parte del soggetto; 
+                \b non si tratta, quindi, di limitarsi a riconoscerlo, 
+                \b ma eticamente di rendersi conto 
+                \b di non poter prescindere dal proprio inconscio e dal proprio desiderio. 
+                \b Il desiderio è la materia prima del nostro inconscio 
+                \b e la fedeltà al desiderio è dunque la sola via di superamento del sintomo.
+            
+            r-concept lacan.fantasma
+                quote
+                    + Secondo Lacan il compito ultimo dell'etica è quello del vero risveglio:
+                        \b non solo dal sonno, ma dall'incantesimo del fantasma,
+                        \b che ci controlla ancor più proprio quando siamo svegli.
+                    book zizek.leggere-lacan
+

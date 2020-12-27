@@ -1,0 +1,32 @@
+$group
+
+    namespace lacan
+
+        concept reale
+            + Il reale si definisce come dimensione dell’impossibile 
+                \b essendo ciò che resiste sia alla cattura immaginaria 
+                \b che alla presa del simbolico e del linguaggio. 
+                \b Del Reale non vi è padronanza. 
+                \b Espulso dalla realtà torna sempre nello stesso punto. 
+                \b Il reale è ciò che resta del processo di simbolizzazione 
+                \b e quindi si pone come limite operativo della cura e della formazione.
+            
+            + Il Reale è ciò che rende insaturo il Simbolico 
+                e per tal ragione ne prefigura le possibilità generative e creative.
+                
+            + Il reale è irriducibile ai quadri della metafisica della presenza,
+                \b del primato del simbolico, 
+                \b e della logica fallo-fono-centrica
+
+            quote
+                + Questo Altro tuttavia non è che a mezza strada di una ricerca 
+                    \b che l'inconscio tradisce con la sua arte difficile, 
+                    \b e di cui i paradossi dell'oggetto in Freud rivelano l'ignoranza quanto mai avvertita; 
+                    \b poiché se lo si intende, 
+                    \b è da un rifiuto che il reale prende esistenza; 
+                    \b ciò di cui l'amore fa il suo oggetto è ciò che manca nel reale; 
+                    \b ciò a cui il desiderio si arresta, 
+                    \b è il sipario dietro cui questa mancanza è figurata dal reale.
+                article lacan.la-psicoanalisi-e-il-suo-insegnamento
+
+

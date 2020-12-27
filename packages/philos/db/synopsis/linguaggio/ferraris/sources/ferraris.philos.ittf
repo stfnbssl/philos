@@ -1,0 +1,374 @@
+$group
+
+    source
+        url https://journals.openedition.org/estetica/1688
+        title Scrittura, archiscrittura, pensiero
+        author Maurizio Ferraris
+
+        $$ Pensiero
+
+        Ovviamente, se pensiamo alla scrittura nel senso più ordinario (e storicamente determinato) del termine, 
+        ci sembra che per tanto tempo quasi non si sia scritto. 
+        C’erano masse di analfabeti e, prima che i computer e i telefonini invadessero la nostra vita, 
+        anche le persone alfabetizzate, e persino le persone colte, scrivevano davvero poco. 
+        In fondo, a scrivere davvero, a scrivere sempre, erano solo specifiche categorie professionali: 
+        gli scrivani e gli scrittori di feuilleton. 
+        Ora è molto cambiato, scriviamo tutti e l’analfabetismo di ritorno, che prima era frequentissimo, 
+        adesso sembra una possibilità abbastanza remota. 
+        Ma che cosa significa essere alfabetizzati? 
+        Significa, alla lettera, sapere adoperare una scrittura alfabetica. 
+        Questa accezione non è casuale, dal momento che non c’è storia o teoria della scrittura 
+        che non muova dall’assunto secondo cui la scrittura alfabetica è la più perfetta, 
+        dal momento che riproduce la voce. 
+        Derrida ha a giusto titolo mostrato (1) come questo assunto sia tutto tranne che neutrale, 
+        e rifletta piuttosto un pregiudizio, secondo il quale ci sarebbe anzitutto un elemento impalpabile, 
+        il pensiero, che si manifesta attraverso la voce. 
+        Di qui un legame particolarmente stretto tra pensiero e linguaggio 
+        (tanto stretto da diventare talora dipendenza del pensiero dal linguaggio), 
+        che è stato dato per scontato dalla filosofia sino a non molto tempo fa, 
+        e che costituisce a tutt’oggi un luogo comune.
+
+        2  Aristotele, Perì hermeneias: 16a, 3.
+        3  Hegel 1817/18303: § 459, annotazione. Gli ideogrammi si adattano a una cultura immobile come quell (...)
+        
+        La progressione Pensiero → Linguaggio → Scrittura è già enunciata da Aristotele: 
+        le idee presenti nell’anima si esprimono attraverso simboli, le parole, 
+        a loro volta simboleggiate attraverso la scrittura (2). 
+        Non stupisce che, dati questi presupposti, 
+        la scrittura alfabetica appaia la più naturale. 
+        Più di duemila anni dopo Aristotele, Hegel la definisce anzi “la più intelligente”, 
+        e osserva che la scrittura ideografica sembra più vicina al pensiero, 
+        ma la scrittura alfabetica si rivela più duttile, 
+        perché non costringe a creare ideogrammi sempre nuovi (3). 
+        Il medesimo presupposto costituisce l’assunto di fondo degli storici della scrittura, 
+        che ne raccontano l’evoluzione secondo uno schema costante Pittografia → Ideogramma → Alfabeto. 
+        È una progressione che presuppone l’assunto dei filosofi, 
+        e cioè che l’alfabeto sia l’essenza della scrittura giacché il linguaggio è l’essenza del pensiero. 
+        Con l’aggravante (trattandosi di storici), 
+        che un simile assunto non è nemmeno provato empiricamente, 
+        giacché i grafismi e le tracce possono in moltissimi casi precedere la figurazione.
+
+        Il sistema Pensiero → Linguaggio → Scrittura sembra avere una funzione essenzialmente ideologica. 
+        Si immagina che ci sia una res cogitans indipendente da qualunque res extensa 
+        che si manifesta dapprima in un medium concepito come immateriale (la voce), 
+        e che successivamente si deposita o materializza come scrittura. 
+        In altri termini, questa interpretazione dei rapporti tra pensiero e scrittura 
+        sarebbe un altro capitolo del dibattito mente-corpo. 
+        Inoltre, venendo alle descrizioni storiche dello sviluppo della scrittura – 
+        presentato come un progresso verso l’alfabeto – 
+        sono sicuramente condizionate dall’idea che la funzione prioritaria della scrittura 
+        sia la comunicazione e non la registrazione, 
+        il che è tutto tranne che certo, come ho provato ad argomentare nel capitolo precedente.
+
+        Anche al di fuori della ricostruzione strettamente storiografica, 
+        coloro che pongono l’alfabeto al vertice delle scritture 
+        non sembrano tener conto del fatto che la praticità (o essenzialità) dell’alfabeto 
+        risulta pesantemente contraddetta dalla circostanza per cui le nostre scritture rigurgitano di ideogrammi, 
+        che non sono solo gli elementi sintattici, ma, per esempio, i numeri, 
+        con i quali ci troviamo benissimo, tanto quanto invece si trovavano male i latini, 
+        la cui numerazione aveva elementi alfabetici. 
+        Basterà comunque guardare la tastiera di un computer, 
+        ossia di una macchina per scrivere una scrittura che si suppone alfabetica, 
+        per vedere quanti ideogrammi possieda: | \ ! “ £ $ % & / ( ) = ? ^ 1 2 3 4 5 6 7 8 9 0 [ + * ] @ ° # § > < ; , : . _ -. 
+        Sono 38 ideogrammi. E vi ho risparmiato i simboli per far andare avanti e indietro il dvd o alzare il volume 
+        (che non servono per scrivere), le emoticon che si possono ottenere dalla combinazione di punti, virgole, parentesi 
+        (che invece servono per scrivere), così come tutto ciò che posso ottenere dal «menù simboli». 
+        Se davvero l’alfabeto possedesse una incondizionata superiorità rispetto all’ideogramma, 
+        non si capisce perché, in tanto tempo, non abbia vinto la partita, 
+        proprio come è successo all’Homo sapiens rispetto all’uomo di Neanderthal.
+
+        Infine, i teorici della priorità dell’alfabeto non spiegano per quale motivo, 
+        se davvero l’alfabeto è così pratico, ci siamo arrivati così tardi. 
+        La risposta, solitamente, è questa: ci vuole un grandissimo livello di astrazione 
+        per isolare nel flusso della voce le vocali e le consonanti, 
+        tanto è vero che in molti casi prima di arrivare alla scrittura alfabetica 
+        si sono elaborati dei sistemi di scrittura sillabici. 
+        Che non sembra una risposta convincente, 
+        e non solo perché a questo punto si potrebbe chiedere per quale motivo, 
+        se la scrittura sillabica è, per così dire, il migliore surrogato dell’alfabeto, 
+        ci si sia arrivati comunque così tardi. 
+        Non è una risposta convincente anche perché riconoscere una vocale o una consonante 
+        non è più complesso che riconoscere un numero, 
+        e d’altra parte abbiamo il caso di scritture, per esempio i geroglifici, 
+        che possedevano simultaneamente un valore fonetico e un valore ideografico. 
+        Poiché queste scritture precedono (almeno nella periodizzazione degli amici dell’alfabeto) 
+        le scritture fonetiche, è davvero difficile accettare l’argomento del difetto di astrazione, 
+        della difficoltà di isolare le pure vocali e le pure consonanti.
+
+        Di qui il mio dubbio, e la mia ipotesi: siamo sicuri che la successione Pensiero → Parola → Scrittura 
+        sia quella giusta? 
+        
+        Siamo certi che la scrittura venga per ultima, e che necessariamente segua la parola? 
+        Credo non sia così, e che la scrittura sia non al termine bensì all’inizio della successione. 
+        Mi rendo conto che, in questi termini sembrerà che si parli e si scriva prima di pensare, 
+        il che è talvolta drammaticamente vero. 
+        
+        Tuttavia ciò che propongo, semplicemente, è una visione meno cartesiana della natura del pensiero, 
+        guidata appunto dalla ipotesi che l’archiscrittura costituisca la condizione di possibilità 
+        del pensiero, della parola e della scrittura in senso corrente (4). 
+        La mia argomentazione è scandita in tre parti. 
+        
+        In primo luogo, sottolineerò come il linguaggio verbale non sia affatto 
+        la prima e più naturale forma di espressione, 
+        giacché la prima espressione è avvenuta attraverso i gesti. 
+        
+        In secondo luogo mostrerò che la scrittura è indipendente dal linguaggio, 
+        non solo in quanto lo precede, d’accordo con l’ipotesi della priorità del gesto, 
+        ma anche in quanto, diversamente dal linguaggio, è in grado di registrare, 
+        oltre e prima che di comunicare. 
+
+        In terzo luogo, argomenterò che proprio la capacità di registrare e insieme di comunicare 
+        caratteristica della scrittura è ciò che determina la rappresentazione del pensiero come scrittura.
+
+        Gesticolare
+        5  Condillac 1746; Rousseau 1775.
+        6  Darwin 1865; Wundt 1912.
+        7  Corballis 2002.
+        
+        Ecco dunque il primo passo, o gesto, del mio argomento: 
+        il linguaggio non è la prima espressione del pensiero. 
+        È quantomeno la seconda, prima ci si esprimeva a gesti. 
+        Questa ipotesi ha un pedigree rispettabilissimo: 
+        avanzata, nel Settecento, da filosofi (5), 
+        nell’Ottocento non l’hanno disdegnata biologi e psicologi di prima grandezza (6), 
+        nel Novecento è stata ripresa dagli antropologi, 
+        e oggi viene riproposta dagli scienziati cognitivi (7). 
+        Molto prima di esprimersi a parole, si sono adoperati i gesti, 
+        e questo anzitutto per ragioni evolutive: i primati, da cui discendiamo, sono abilissimi nell’uso delle mani, 
+        molto meno nell’articolazione dei suoni. 
+        Confermando quanto ho suggerito in 4.2.2., i primati, per via di una laringe inadatta, 
+        non sono capaci di parlare, ma sicuramente sono capaci di scrivere, 
+        nel senso che possiedono l’opposizione del pollice.
+
+        Il punto è ampiamente sottolineato da Corballis 2002: 64-66.
+
+        Ma, tornando a noi, la priorità del gesto spiega molte cose. 
+        Spiega per quale motivo siamo ancora così inclini a esprimerci a gesti anche quando è perfettamente inutile, 
+        per esempio perché gesticoliamo mentre parliamo al telefono. 
+        Ci dice per quale motivo la televisione abbia un potere tanto più ipnotico della radio 
+        e perché talvolta si preferisca «parlarsi a quattrocchi», il che, 
+        se si trattasse soltanto di comunicare verbalmente, non avrebbe alcun senso. 
+        E ancora, spiega perché strette di mano e altri atti siano così importanti per esprimere degli atteggiamenti, 
+        come l’alzare la mano per giurare, o perché le diverse culture umane abbiano elaborato così tanti gesti 
+        per esprimere forme di saluto, di sottomissione, di benedizione e di esecrazione. 
+        
+        Sotto il profilo scientifico, la scoperta dei neuroni specchio e in generale dei fenomeni di mirroring 
+        cui si è accennato in 4.1.2.1. fornisce un ulteriore argomento a favore della priorità del gesto 
+        rispetto al linguaggio (8). 
+        Come abbiamo visto, il mirroring ha luogo sui gesti: 
+        se qualcuno compie un gesto, i neuroni specchio nel mio cervello scaricano come se quel gesto lo facessi io. 
+        Ora, come ho estesamente argomentato, l’imitazione è centrale nella costituzione del comportamento 
+        e della socialità umana, e dunque tra gestualità, ritualità e socialità viene a costituirsi un nesso profondo.
+
+        9  Sacco 2007; Cocchiara 1932. Vico distingue nella Scienza nuova, tre specie di lingue «Delle quali (...)
+        10  Lakoff, Johnson 1980. Questo serve anche per pensare al ruolo della metafora, che è fortissimo nel (...)
+
+        In effetti, la realtà sociale, nelle sue manifestazioni religiose, giuridiche, politiche, estetiche 
+        dipende in modo essenziale da gesti, al punto che può manifestarsi in forma esclusivamente gestuale, 
+        come abbiamo visto in 3.3.2.4. parlando degli atti non linguistici. 
+        Senza dimenticare, poi, che – come suggerivo un momento fa – gestuale è l’essenza della ritualità (9). 
+        I sacerdoti compivano anzitutto certe azioni, e la circostanza per cui “pontefice” è originariamente “pontiere”, 
+        costruttore di ponti, è altamente espressiva di questa situazione. 
+        I rituali erano eseguiti con i piedi, con movimenti del corpo, e spessissimo con le mani, 
+        come, tipicamente, i sacrifici. 
+        Basti pensare che ancor oggi nel rito cristiano il sacrificio della croce viene espresso con dei gesti: 
+        il segno della croce, la consacrazione dell’ostia. 
+        L’importanza sociale del gesto consiste in un’azione che si svolge all’esterno, 
+        ma che ha un riflesso all’interno, d’accordo con il modello del rito, 
+        inteso come un comportamento esteriore che genera effetti interiori. 
+        Ciò che si è detto sull’embodiment (10), sul nesso tra corporeità e pensiero, 
+        vale per la centralità del gesto, e questa considerazione ci permette di limitare il dualismo cartesiano, 
+        che nella fattispecie dell’argomento che stiamo trattando, assume la forma Pensiero → Parola → Scrittura. 
+        Qui avremmo una serie di comportamenti segnici e gestuali, di natura profondamente sensibile, 
+        che determinano il pensiero, in una forma che cercherò di precisare tra poco, 
+        e che si possono riassumere nella azione determinante della lettera sullo spirito 
+        di cui tratterò sistematicamente in 5.3.
+
+        Ma non si tratta semplicemente di socialità. 
+        Segnare a dito è certo un indizio di biasimo sociale, 
+        ma additare è anche un elemento fondamentale per fare emergere la sfera della oggettività, 
+        ed è utilissimo sia per sostituire le parole, sia per insegnarne molte – anche se certo non tutte – a chi non le sa. 
+        Insomma, Agostino non aveva poi così torto nel De magistro quando sosteneva 
+        che gli adulti insegnano a parlare ai bambini indicando loro gli oggetti: 
+        in molti casi succede proprio così. 
+        E, reciprocamente, Wittgenstein non aveva poi così tanta ragione, 
+        all’inizio delle Ricerche filosofiche, quando criticava la teoria linguistica di Agostino. 
+        Ma Wittgenstein torna ad avere ragione nel momento in cui definisce il linguaggio come una scatola di attrezzi. 
+        In effetti, ne riconosce la funzione eminentemente tecnica.
+
+        11  Corballis 2002: 141 sgg.
+        12  Ivi: 113 sgg.
+        13  Ivi: 274 sgg. Corballis fornisce una periodizzazione secondo cui i primi graffiti risalgono a 40-3 (...)
+
+        Quello gestuale può essere un linguaggio a tutto tondo, 
+        tanto è vero che i linguaggi segnati, usati dai sordomuti, 
+        possiedono le medesime leggi di grammatica generativa che si ritrovano nei linguaggi parlati (11). 
+        Lo svantaggio del gesto, però, è che non si possono fare due cose contemporaneamente, 
+        per esempio sbucciare patate e parlare: con un linguaggio gestuale, o si sbucciano patate, o si parla. 
+        Attività come guidare ascoltando la radio risultano altamente improbabili in un mondo di lingue segnate: 
+        al massimo si potrebbe guardare la televisione, 
+        ma non sarebbe davvero consigliabile. 
+        Questo spiega una discrasia cronologica non priva di interesse: 
+        170 000 anni fa arriva l’Homo sapiens, e 50 000 anni fa inizia la grande svolta tecnologica. 
+        Perché così tardi? Perché, è stato suggerito (12), prima l’uomo aveva le mani troppo impegnate a parlare. 
+        Quindi il linguaggio non ci è dato in dotazione, biologicamente parlando, come pensano molti filosofi: 
+        non è connaturato all’uomo. 
+        È una invenzione, per quanto antica, esattamente come la scrittura (13).
+
+        Rispetto a questa versione, è possibile una interpretazione diversa, 
+        sebbene non meno speculativa: 
+        non necessariamente il linguaggio sorge per liberare le mani. 
+        Anche perché la storia delle tecniche ci insegna che l’invenzione di un nuovo strumento 
+        non necessariamente cancella l’antico. 
+        Piuttosto, in una prospettiva integrativa e non alternativa, 
+        si può osservare che linguaggio e tecnica si sviluppano entrambi sulla base della motricità della mano. 
+        Questo sviluppo comporta una sofisticazione di tecniche in cui troviamo tanto il linguaggio quanto la scrittura, 
+        che hanno la stessa storia e la stessa geografia. 
+        Le testimonianze di cui disponiamo ci dicono che nel paleolitico inferiore 
+        (la sterminata antichità che dai due milioni e mezzo di anni giunge sino ai centoventimila anni fa, 
+        cioè all’arrivo dell’Homo sapiens) abbiamo delle pietre non lavorate, 
+        ma disposte e radunate in modo significativo; 
+        nel paleolitico medio (sino a trentaseimila anni fa) troviamo delle tracce e delle incisioni; 
+        e nel paleolitico superiore, trentaseimila anni fa, sono attestati dei grafismi geometrici. 
+        Quanto dire, per l’appunto, che la scrittura ha origine nello stesso tempo del linguaggio.
+
+        Scrivere
+        14  Leibniz 1705: libro II, cap. IX.
+        15  Bacone 1605: 270-271.
+        
+        Anzi, se vale l’ipotesi di un linguaggio originariamente gestuale, 
+        la scrittura ha preceduto la parola. 
+        Dopotutto, Leibniz, parlando della scrittura cinese, aveva osservato che assomiglia al nostro alfabeto, 
+        tranne che pare inventata da un sordo (14). 
+        O da un muto: infatti Hegel, per parte sua, definisce l’ideogramma come «un leggere sordo e uno scrivere muto». 
+        Nulla vieta di pensare a un’umanità pre-linguistica, 
+        purché la si intenda come gestuale e scrittoria. 
+        In effetti, tutti abbiamo visto mimi, ballerini, e film muti 
+        (dove l’azione è ogni tanto commentata da scritte). 
+        È davvero una situazione così strana? Così inconcepibile? 
+        Soprattutto se si considera che, diversamente che nei film muti, 
+        nella nostra ipotesi non abbiamo scritture alfabetiche, bensì graffiti, 
+        che per esempio fissano i rituali e le istruzioni di caccia. 
+        I gesti, infatti, volano non meno delle parole, e solo la scrittura permane; 
+        se dunque Bacone aveva indicato così esattamente il gesto come un geroglifico transitorio (15), 
+        si può considerare il geroglifico, il graffito sulla parete, come un gesto reso duraturo, fissato e registrato.
+
+        16  Lévi-Strauss 1955: 281-282; Cfr. anche Derrida 1967: 147 sgg.
+        
+        L’ipotesi della scrittura originaria non è così peregrina, 
+        basta non cedere al logocentrismo, 
+        che peraltro è una tentazione abbastanza naturale. 
+        In un capitolo di Tristi Tropici (16), Lévi-Strauss ci racconta questa storia. 
+        L’etnologo in trasferta sta studiando una popolazione amazzonica rimasta al neolitico, i Nambikwara. 
+        Ne registra usi e costumi su taccuini, e questo incuriosisce gli indigeni, 
+        che a un certo punto provano a mettersi a scrivere anche loro, 
+        tranne che – osserva l’etnologo che nella fattispecie è anche etnocentrico o almeno logocentrico – 
+        poiché sono primitivi non capiscono che l’essenza della scrittura è comunicare. 
+        Si limitano a tracciare righe (è il nome che danno alla scrittura), e solo il capo, 
+        un po’ più intelligente degli altri, mostra di possedere un barlume di comprensione 
+        circa il ruolo comunicativo della scrittura. 
+        Ma davvero quelli che tracciano righe non hanno capito cos’è la scrittura? 
+        Forse ne hanno colto l’essenza meglio del capo e dell’etnologo, 
+        perché tracciare le righe è già scrivere, è già registrare: la registrazione precede la comunicazione, 
+        che non è affatto la sola e prioritaria esigenza degli uomini, 
+        giacché almeno altrettanto forte è l’esigenza della registrazione, 
+        per le finalità mimetiche e costruttive illustrate in 4.1.
+
+        L’ipotesi della gestualità originaria suggerisce ancora una considerazione. 
+        Non è vero che prima abbiamo una cultura orale e partecipativa, legata all’esperienza, 
+        e poi una cultura scritta, e astratta, e che magari ritorneranno i tempi di una cultura orale, 
+        come si profetizzava nel secolo scorso e come non è accaduto. 
+        A questa tesi della oralità primaria, e del ritorno di una oralità secondaria 
+        dopo l’epoca della scrittura alfabetica (17) vorrei piuttosto contrapporre 
+        l’idea di una scrittura primaria (l’archiscrittura, per l’appunto), 
+        precedente la parola, e di una scrittura secondaria, che dopo essere rimasta rinchiusa 
+        nella sfera limitata del cartaceo e del librario sta ora esplodendo, 
+        nel nuovo mondo informatico fatto di internet, e-mail, sms, e possibilità infinite di registrazione. 
+        Un mondo che tenacemente si è cercato di interpretare come caratterizzato da una scrittura 
+        “più simile” alla parola, il che è perfettamente contestabile, 
+        visto che si tratta di messaggi lineari, pieni di formule e addirittura di ideogrammi. 
+        No, la scrittura che oggi esplode non è affatto “più simile” alla parola di quanto non fosse la scrittura libresca. 
+        E, una volta che ci siamo liberati di questa convinzione o fissazione, 
+        possiamo guardare a un fatto che, per il discorso svolto sin qui, appare di primaria importanza: 
+        con l’esplosione della scrittura, siamo tornati a comunicare con le mani, 
+        in modo intenso e continuo – sebbene, certo, nel primo caso si comunicasse un linguaggio non verbale, 
+        nel secondo un linguaggio prevalentemente verbale. 
+        Guardate un ufficio, o la gente per strada, china a scrivere con il telefonino. 
+        Il che, di passaggio, ha determinato una riduzione delle lingue segnate, 
+        dal momento che oggi i sordomuti possono comunicare (e questo sarebbe apparso davvero bizzarro un tempo) 
+        con i telefonini.
+
+        Pensare
+        18  Platone, Fedro: 275c-276b. «Socrate. Perché vedi, o Fedro, la scrittura è in una strana condizione (...)
+        
+        Abbiamo visto che il gesto ha preceduto il linguaggio, e che la scrittura ha preceduto la parola. 
+        Così, l’esplosione tecnologica che, circa cinquantamila anni fa, 
+        ha liberato la parola in quanto medium di comunicazione, 
+        ha consentito una prima esplosione della scrittura come mezzo di registrazione. 
+        Mi auguro che a questo punto l’ipotesi che il sistema Pensiero → Linguaggio → Scrittura sia il solo plausibile 
+        abbia perso il suo smalto, o quantomeno la sua tranquilla ovvietà. 
+        Non resta che il terzo e ultimo passo, quello che deve dimostrare il ruolo costitutivo della scrittura 
+        rispetto al pensiero e al linguaggio, che sarei incline a rappresentare così: 
+        Archiscrittura → Pensiero → Linguaggio → Scrittura. 
+        In altri termini, c’è una archiscrittura all’inizio, e una scrittura alla fine, dipendente dal linguaggio. 
+        La scrittura esterna appare come una copia più o meno difettosa del pensiero; 
+        ma, quando andiamo a chiederci che cosa sia il pensiero troviamo, 
+        esattamente come in Platone, altra scrittura, il logos scritto nell’anima invece che sulla cera (18). 
+        L’idea della dipendenza del pensiero dalla scrittura può magari sembrare fantascientifica o pseudoscientifica, 
+        ma inviterei anzitutto il lettore a considerare che se avessi detto, poniamo, 
+        che il pensiero trova la sua condizione di possibilità nel linguaggio, 
+        la tesi sarebbe apparsa addirittura banale – quando, a ben pensarci, è una assurdità o una tautologia: 
+        è assurdo pretendere che ogni pensiero richieda una formulazione linguistica, 
+        è tautologico asserire che pensieri dipendenti dal linguaggio come «oggi è il 12 gennaio 2009» sono, 
+        per l’appunto, dipendenti dal linguaggio.
+
+        Il mio assunto di fondo è il seguente. 
+        La tecnica è un sistema di iterazione che trova la sua condizione di possibilità nella registrazione. 
+        Dunque, c’è una dipendenza generale del linguaggio, della scrittura e del pensiero dalla tecnica come registrazione e iscrizione, ossia da ciò che nella sezione precedente ho definito “archiscrittura”.
+
+
+Ingrandisci Originale (jpeg, 156k)
+19  «Si deve alla scrittura se io posso avere una immagine mentale della lingua come qualcosa di “pens (...)
+20  Cosa di cui si lamentava Rousseau, quando deplorava che a Parigi si incominciasse a pronunciare vi (...)
+19Le funzioni garantite dall’archistruttura si rivelano molto più ampie di quelle assicurate dal linguaggio, e questo, lo ripeto, risulta davvero sorprendente, se si pensa al fatto che la dipendenza del pensiero dal linguaggio è una ovvietà accettata come evidente sino a non molto tempo fa. Di fatto, la stessa idea di “lingua” come entità riconoscibile dipende dalla scrittura19, che la fissa, la regola (le norme grammaticali sono letteralmente norme di scrittura), e può persino trasformarla20. Per ciò che attiene al pensiero, quello che intendo sostenere non è che tutte le sue funzioni sono dipendenti dalla scrittura. In effetti, “pensiero” vuol dire molte cose, e di queste non tutte hanno a che fare con la scrittura; alcune, però, vistose e importanti, sembrano dipendere dalla scrittura, o meglio, sembrano descrivere il parallelismo tra il logos interno e il logos esterno tracciato da Platone. Proviamo a enumerarle.
+
+ 
+
+21  Sviluppo questo tema in Ferraris 1996: 7 sgg. e in Ferraris 1997: 240 sgg.
+20Visualizzazione21. Se ci sono tanti buoni motivi per criticare il principio secondo cui le intuizioni senza concetto sono cieche, ci sono altrettante ottime ragioni a favore di quella che per Kant era la reciproca: i concetti senza intuizione sono vuoti. Il pensiero è molto spesso caratterizzato come “visione”, e di questa caratterizzazione sono testimoni gli usi linguistici: “idea” e “sapere”, in greco, hanno la stessa origine di “vedere”, e in moltissime lingue “vedo” e “capisco” sono sinonimi. È comunemente ammesso che ci siano funzioni intuitive, nel ragionamento, che difficilmente si possono caratterizzare in termini linguistici: quando manipoliamo mentalmente figure geometriche semplici abbiamo a che fare con ideogrammi o pittogrammi, non con alfabeti. E tutto il dibattito sul ruolo della visione e della immaginazione nel pensiero, dai filosofi greci alle neuroscienze contemporanee, si basa sulla contrapposizione tra funzioni del pensiero di tipo linguistico (discorsive), e altre di tipo non linguistico, intuitive, immaginative, o grafiche.
+
+22  Aristotele, De Memoria: 449b31-450a5.
+23  In Ferraris 1997 ho analizzato gli sviluppi moderni di questo tema, con particolare riferimento al (...)
+24  Per una chiara esposizione dei rapporti tra pensiero e raffigurazione, cfr. Giardino, Piazza 2008.
+21Ora, tutto questo è comunemente ammesso. La sola aggiunta che suggerisco consiste nel vedere l’intervento della visione nel pensiero come una azione archiscritturale. Aristotele a ragione diceva che l’anima non pensa mai senza immagini, e che pensare è come disegnare una figura22, cioè registrare e iscrivere, d’accordo con una linea di pensiero che si ritrova negli antichi come nei moderni23. Infatti, non si tratta solo del pensare per immagini, bensì di adoperare consapevolmente immagini e schemi per facilitare il pensiero24. I neuroni della lettura, in questa accezione, sono i neuroni del pensiero, non nel senso che solo gli alfabetizzati pensino, ma perché quei neuroni sono predisposti a riconoscere grafi. Un luogo comune degli studi sulla scrittura vuole che la linearizzazione della scrittura abbia influito sulla formazione di pensieri lineari. Non sono sicuro che le cose siano andate esattamente così, e tutto sommato mi sembra più plausibile un’altra ipotesi, e cioè che pensare è, in molti casi, seguire un filo e accostare delle immagini, cioè manipolare ideogrammi, pittogrammi, alfabeti, pressappoco come accade nelle mnemotecniche della tradizione. Quello che è certo, tuttavia, è che, in tutti i casi, non ci può essere pensiero senza registrazione, senza deposito sulla tabula della memoria.
+
+ 
+
+25  Frege 1892: 36. «E infatti nessuno vorrà disconoscere che l’umanità ha un tesoro comune di pensier (...)
+26  Questo è un punto su cui si sono creati equivoci curiosi. Per esempio, quando, dopo il romanticism (...)
+22Registrazione. Ecco dunque l’aspetto decisivo che accomuna il pensiero alla scrittura: si tratta di due forme di registrazione, una interna, l’altra esterna. Ci si potrebbe anzi chiedere che differenza intercorra fra la registrazione e il pensiero tout court, e la mia risposta è che, molto semplicemente, mentre il pensiero non si capisce cosa sia (noi abbiamo il fenomeno del pensiero, non il suo noumeno), la registrazione è un elemento palese, e le scritture sono cose che abbiamo sotto gli occhi tutti i giorni. Pensare è registrare, ossia è come scrivere nella mente: per questo quando si smette di registrare si smette anche di pensare; per questo la società ha costruito così tanti ritrovati per sopperire ai limiti della memoria individuale e collettiva – quella memoria collettiva che significativamente Frege25 chiama “pensiero”, ma appunto è essenzialmente registrazione. Questo vale anche per il pensiero individuale: senza registrazione non è possibile il giudizio, il ragionamento, la formazione di performativi, la determinazione di obiettivi, e ovviamente la stessa verbalizzazione dei pensieri. Quanto dire che ciò che è tradizionalmente attribuito al linguaggio va invece conferito alla registrazione, che opera anche là dove non c’è il linguaggio26.
+
+ 
+
+27  Wittgenstein 1953: §§ 243-315.
+23Codificazione. Insomma, è facile capovolgere l’onnipresenza del linguaggio nel pensiero in una tesi diversa, che vedrebbe il linguaggio e il pensiero come due esiti dell’archiscrittura. Prendiamo il caso del linguaggio, esaminandolo sulla base dell’argomento circa l’impossibilità del linguaggio privato27. Immaginiamo qualcuno che decidesse di formarsi una lingua segreta, parlata soltanto da lui. Per farlo, dovrebbe comunque procedere a una codificazione, che assegnasse ai termini che adopera un valore costante, altrimenti neanche lui potrebbe adoperare la sua lingua; quanto dire che la creazione di un linguaggio non può prescindere da una codificazione, cioè da una fissazione dei significati che dipende in tutto e per tutto dalla registrazione, ossia da una delle funzioni dell’archiscrittura. Questo aspetto appare poco evidente appunto perché il linguaggio manifesta l’aspetto ingannevole della immediatezza, della immaterialità e della spiritualità, che lo fa apparire come privo di supporti e di fisicità, il che chiaramente non è vero, se è vero che l’acustica è una parte della fisica.
+
+24Tuttavia, si potrebbe obiettare che l’argomento del linguaggio privato vale, appunto, per il linguaggio, non per il pensiero. Nulla vieta che io pensi delle cose indipendentemente da forme di iscrizione. Ora, come abbiamo visto, una qualche forma di registrazione risulta indispensabile anche per il pensiero, che è logos, cioè rapporto tra almeno due cose, per esempio il soggetto e il predicato in un giudizio; ma immaginiamo per amor dell’argomento che qualcuno non sia disposto ad ammetterlo. Dopotutto, io stesso ho sottolineato all’inizio di questo libro come i pensieri che scorrono nella mente di una persona possano rivelarsi privi di qualunque costanza, e possedere una identità molto labile. Bene, ma, per l’appunto, l’accesso al pensiero, come ho sottolineato sempre all’inizio di questo libro, deve passare attraverso una espressione e una iscrizione: i pensieri devono avere una identità, cioè una fissazione, per poter essere considerati pensieri già semplicemente nel perimetro della vita psichica individuale.
+
+28  Sviluppo questo argomento in riferimento alla produzione artistica in Ferraris 2007: 70 sgg.
+25Di qui un esperimento mentale che vorrei suggerire a chi legge. Immaginiamo un mondo in cui non si parla e non si fanno gesti, e nel quale la comunicazione avviene esclusivamente per via telepatica. Si può facilmente immaginare che, se non ci fosse la possibilità di codificare i significati all’interno delle singole menti, la comunicazione sarebbe impossibile. In altri termini, non riusciamo a immaginare due menti che si trasmettono puri significati, sia perché ci sono significati che non sono puri (non si vede come si possano trasmettere telepaticamente “commodoro” o “ritenuta d’acconto”), sia perché anche i puri significati richiedono una fissazione. Caratteristicamente, le esperienze telepatiche28 si manifestano (per chi asserisce di averle provate) come trasmissioni di sentimenti, che possono essere puntuali e non codificati, e non di pensieri, che richiedono per l’appunto codificazione e registrazione.
+
+ 
+
+26Autocomprensione. Del ruolo della scrittura nella cognizione ho già trattato ampiamente affrontando il tema della tabula rasa. Mi resta ora da svolgere un punto centrale, ossia il fatto che la tabula non sia solo una immagine della conoscenza, ma anche una immagine della mente – quanto dire che l’archiscrittura è la forma essenziale dell’autocomprensione del mentale. Certo, noi non sappiamo come sarebbe stato il pensiero se non ci fosse stata la scrittura, non più di come sarebbe stato il pensiero senza il linguaggio. Non c’è dubbio che queste invenzioni tecniche hanno determinato la nostra storia palese, così come è evidente che: (1) la nostra storia palese ha determinato quella seconda natura che è il pensiero e le varie altre funzioni della seconda natura – parlare, scrivere una volta che abbiamo imparato a scrivere, leggere; e che (2) la scelta della tabula come immagine per la mente è apparsa obbligata, tanto è vero che non ne conosciamo versioni alternative, al massimo abbiamo l’idea di un’anima come anemos, come soffio, che però non presenta quasi nessuno dei caratteri della mente.
+
+29  Ferrarin 2007.
+30  Kant 17811/17872: B 49-50, A 33.
+27Non stupisce allora che persino Descartes, ossia il pensatore moderno più vicino all’idea della res cogitans come soffio separato dalla materia, abbia descritto il funzionamento della mente in forma di tracce29. Questa inevitabilità richiama per analogia la linearizzazione del tempo di cui parla Kant30: noi ci rappresentiamo il tempo come una linea, qualunque cosa sia il tempo in sé. Lo stesso può dirsi del pensiero, funzione temporale che si raffigura in maniera lineare, e che si riflette e solidifica in modo non accidentale in produzioni iscritte nel mondo sociale. Insomma, non abbiamo alcuna idea di che cosa sia propriamente “pensare”; ma tutte le volte che ci poniamo il problema, si fanno avanti delle immagini scrittorie – tavolette di cera, scrivani interiori, biblioteche.
+
+31  Sullo scambio tra umano e meccanico cfr. Leroi-Gourhan 1964-65: 295, che scrive agli albori della (...)
+28È dunque giunto il momento di rispondere a una obiezione molto naturale e giustificata: quella della scrittura è una metafora o una definizione propria e letterale? Il mio parere è che non si tratta di una metafora, bensì di una catacresi, giacché non abbiamo altri nomi per descrivere il funzionamento della mente. Una catacresi che si estroflette quando parliamo della memoria del computer, attribuendo a un supporto per iscrizioni, la caratteristica saliente della nostra psiche, ossia la capacità di ricordare. Che cosa c’è di “mnemonico” nella memoria del computer? La memoria, dopotutto, è una funzione essenzialmente umana. Se uno obietta che è memoria perché conserva tracce, cioè iscrizioni, allora ha già ammesso che è sensato asserire che la memoria umana è una forma di iscrizione31. Insomma, come avrebbe detto Kant, noi conosciamo noi stessi sempre come fenomeni, e mai come noumeni. E quel fenomeno che è la rappresentazione scrittoria della mente, per la nostra cultura e tuttavia rispondendo a esigenze profonde e antiche, è un trascendentale da cui non si può uscire, essendo la rappresentazione del pensiero e di ciò che è per noi – e non rappresentazione di neuroni e di quello che sono in sé. Soprattutto, queste metafore, se lo sono, da letterarie diventano letterali nel mondo sociale, quello che costituisce l’oggetto della nostra indagine.
+
+Monismo
+32  H. Bergson 1896: 63 sgg.
+29Se si assume che quella della mente come tabula non è una semplice metafora, si consegue il medesimo obiettivo che Searle si attendeva dalla intenzionalità collettiva, ma con una maggiore potenza euristica. Diviene infatti possibile fornire una visione monistica delle leggi della natura e dello spirito attraverso un autentico sviluppo evolutivo, quello delle iscrizioni, e non attraverso l’intervento di un deus ex machina, l’intenzionalità collettiva. Inoltre, l’intenzionalità collettiva nasconde un dualismo di fondo, giacché è per l’appunto l’anello di congiunzione tra natura e società, una specie di corrispettivo della ghiandola pineale che, in Cartesio, univa res cogitans e res extensa. Viceversa, la traccia è anzitutto qualcosa di materiale, che si iscrive; ma, attraverso un processo di arricchimento e di complessificazione, giunge, come ho cercato di dimostrare qui, sino al pensiero. Come si è visto in 4.1., la registrazione ricopre all’interno della mia teoria un significato filosofico fondamentale, perché mi consente di fornire una coerente interpretazione monistica della realtà sociale, e autorizza a leggere in senso materialistico l’idea di Bergson secondo cui il passato è ripetuto dalla materia e ricordato dalla memoria32. Abbiamo così una piramide dell’iscrizione, dove tutto è natura, ma al cui vertice c’è lo spirito, il pensiero – e l’intelligenza degli oggetti sociali, naturali e ideali.

@@ -1,0 +1,18 @@
+$group
+
+    namespace freud
+
+        concept perturbante
+            quote
+                + lo studio della categoria del perturbante si inserisce
+                    \b all’interno della riflessione sulla rimozione e permette a Freud di
+                    \b individuare una peculiare modalità di ritorno del rimosso, 
+                    \b quella dell’intima estraneità. 
+                    \b Qualcosa di familiare, di intimo, il “più proprio”, viene rimosso, dunque ritorna. 
+                    \b Ma ritorna in che forma? Ritorna come estraneità, 
+                    \b estraneità che porta con sé ‘l’intimità che è stato’. 
+                    \b Inoltre questa forma particolare di ritorno del rimosso 
+                    \b ha per Freud una predilezione per il campo visivo, 
+                    \b è questo il luogo privilegiato di questo modo in cui il rimosso ritorna. 
+                    \b Privilegiato, è bene ricordarlo, non significa esclusivo.
+                article pagliardini.l-oggetto-sguardo-nell-insegnamento-di-lacan

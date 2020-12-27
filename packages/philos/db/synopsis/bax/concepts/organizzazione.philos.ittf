@@ -1,0 +1,6 @@
+$group
+
+    namespace bax
+
+        concept organizzazione
+            +

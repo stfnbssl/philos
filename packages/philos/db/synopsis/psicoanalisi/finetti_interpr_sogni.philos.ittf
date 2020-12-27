@@ -1,0 +1,177 @@
+$group
+
+    $$ L’interpretazione dei sogni (1899)
+
+    Nell’ambito della nostra ricostruzione, 
+    non può essere per altro dimenticato, 
+    facendo ora un passo indietro, 
+    quanto già il Freud della Interpretazione dei sogni aveva concepito 
+    sulla modalità inconscia di comporre pensieri, 
+    quale si manifesta nella produzione onirica, 
+    e di quanto, nella visione freudiana, 
+    la logica di composizione del pensare onirico differisca profondamente 
+    dalla logica del pensare propria della modalità conscia.
+
+    concept freud.sogno
+        + Il sogno è per Freud la realizzazione di un desiderio attraverso allucinazione 
+            \b e sospensione del confronto con la realtà esterna.
+        assertion
+            use-concept freud.principio-di-realtà
+            + Nel sogno, la sospensione del principio di realtà, 
+                \b e della conseguente ricerca del soddisfacimento del desiderio attraverso l’ausilio del mondo esterno, 
+                \b comporta il prevalere della raffigurabilità sulla discorsività, 
+                \b ossia il darsi di un pensiero che si serve essenzialmente di sintesi figurative 
+                \b più che non di sintesi discorsive e articolate linguisticamente. 
+        quote
+            + Nel sogno si sperimentano ogni sorta di fatti
+                \b [trasformati in una somma di immagini sensoriali e di scene visive], 
+                \b e ad essi ci si crede […]. 
+                \b Prevalentemente si vive il sogno in immagini visive; 
+                \b possono esservi anche sentimenti, qua e là anche pensieri; 
+                \b anche gli altri sensi possono esperire qualcosa, 
+                \b ma in prevalenza si tratta di immagini
+            book freud.l-interpretazione-dei-sogni
+            page 488
+        
+        concept freud.riguardo-per-la-raffigurabilità
+            title riguardo per la raffigurabilità
+            alias Rucksicht auf Darstellbarkeit
+            + La capacità di mettere in scena un contenuto psichico essenzialmente concreto, 
+                \b fatto di materiale sensibile tra cui prevalgono le immagini visive, 
+                \b e di eliminare con­temporaneamente ogni nesso di sintesi e di connessione 
+                \b mediato dai concetti astratti. 
+                \b Ovvero  di non servirsi di quel pensiero che fa uso di parole 
+                \b e della loro intrinseca capacità di generalizzazione/universalizzazione.
+        
+        quote
+            + Tutti i mezzi linguistici con i quali vengono espresse le relazioni di pensiero più sottili 
+                \b – le congiunzioni e le proposizioni, i modi della declinazione e della coniugazione – vengono meno, 
+                \b mancando per essi i mezzi di raffigurazione; 
+                \b come in un linguaggio primitivo privo di grammatica, 
+                \b solo il materiale grezzo del pensiero viene espresso, 
+                \b quello astratto viene ricondotto al concreto che ne costituisce il fondamento»
+        17. 
+
+    Sembra dunque di poter dire che 
+    la differenza che Freud ha stabilito tra processo primario e processo secondario 
+    sia definibile anche come differenza tra 
+    pensiero capace solo del concreto e 
+    pensiero capace dell’ astratto e 
+    che a questo nesso di distinzione tra astratto e concreto 
+    corrisponda una diversa economia e dinamica dell’affetto. 
+    Ossia nel senso che nel pensiero capace di astrazione 
+    la rappresentazione di cosa connessa a un affetto 
+    sarebbe connessa a una rappresentazione verbale a sua volta connessa, 
+    per il sistema della lingua, 
+    a una catena di significanti che consentirebbero di raffreddare e relativizzare l’affetto, 
+    agganciandolo a una scena più ampia e contestualizzata 
+    che lo sottrarrebbe da una presenza e un’urgenza irrelata e pressoché assoluta 18.
+
+    È cioè la discorsività del linguaggio, 
+    quale funzione per eccellenza della mente conscia, 
+    che appare tradurre in Freud la freie Energie (energia libera) del processo primario, 
+    tendente all’immediata soddisfa­zione, 
+    in gebundene Energie (energia legata), cioè in un movimento più ritardato e controllato che, 
+    capace di una relativizzazione tra pulsioni interne e ambiente esterno, 
+    appartiene a una strutturazione più elevata dell’ apparato psichico e che, 
+    con la sua trasformazione di ciò che è liberamente mobile 
+    in ciò che è dinamicamente contenuto, 
+    richiama quella distinzione tra rappresentazioni aperte 
+    e rappresenta­zioni chiuse che 
+    il Freud dell’ Interpretazione delle afasie aveva usato, come ab­biamo visto, 
+    per designare rispettivamente la Sachvorstellung e la Wortvorstellung.
+
+    theory freud.pensiero-onirico
+        + è un tipo di pensiero che associa e compone fondamentalmente senza linguaggio, 
+        + Con l’attività del sogno, al pensiero capace di concettualizzazione e discorsività 
+            \b subentra un sistema associativo fatto di imma­gini e percezioni sensoriali. 
+        concept freud.regressione
+            quote
+                + Chiamiamo regressione il fatto che nel sogno 
+                    \b la rappresentazione si ritrasforma nell’immagine sensoriale 
+                    \b da cui è sorta in un momento qualsiasi. 
+                comment
+                    Il processo primario, quale si esprime attraverso il sogno, 
+                    appare curvato e concluso in un orizzonte fondamentalmente percettivo-­sensoriale, 
+                    a dominanza rappresentativo-visiva. 
+                    Ma proprio ciò implica che il pensiero senza linguaggio dell’inconscio
+                    possieda un linguaggio specifico e determinato. 
+                    Ossia che il tipo peculiare di pensiero che si forma nella parte inconscia della mente 
+                    utilizzi metodi (nel senso etimologico di percorsi) determinati di costruzione, 
+                    di associazione e di sintesi che non sono quelli propri della verbalizzazione. 
+            quote
+                + Se guardiamo al processo onirico come a una regressione 
+                    \b all’interno dell’apparato psichico da noi adottato, 
+                    \b possiamo senz’altro spiegare il fatto, stabilito per via empirica, 
+                    \b che nel lavoro onirico tutte le relazioni logiche dei pensieri onirici vanno perdute 
+                    \b o trovano soltanto espressione travagliata. 
+                    Secondo lo schema, queste relazioni logiche non sono contenute nei primi sistemi Tmn, 
+                    ma in altri situati più avanti, 
+                    e nella loro regressione sino alle immagini percettive 
+                    perdono di necessità la loro espressione. 
+                    Nella regressione la struttura dei pensieri del sogno viene disgregata 
+                    nella sua materia prima [corsivo di Freud]”20. 
+                comment
+                    Nella parte inconscia della psiche vengono meno le relazioni del logos 
+                    – ossia del pensiero che lega e raccoglie attraverso le catene linguistiche – 
+                    e rimane un contenuto che va legato e composto altrimenti. 
+            quote
+                + L’apparente pensare del sogno riproduce il contenuto dei pensieri del sogno, 
+                    \b non i loro reciproci rapporti, nella cui istituzione consiste il pensare
+                note 21
+
+            Insomma la parte inconscia della mente appare per Freud 
+            essere caratterizzata da una assenza della funzione linguistica 
+            nel senso di un’assenza della possibile connessione discorsiva 
+            e relativizzante dei propri contenuti emozionali. 
+            Tant’è che lo stesso linguaggio, quando è presente 
+            – come a tutti accade di notare nel sognare – 
+            sembra che vi sia per Freud solo nei termini di una scenografia rappresentativa 
+            che tratta i significanti verbali alla stregua di rappresentazioni di cosa 
+            e che dunque tratta le parole, o la singola parola, 
+            secondo norme e sensi associativi che sono del tutto eterogenei 
+            rispetto alle catene semantico-sintagmatiche del linguaggio vero e proprio. 
+            
+            quote
+                + Per quanti discorsi e controdiscorsi possano esserci nei sogni, 
+                    \b assurdi o sensati che siano, 
+                    \b l’analisi ci mostra ogni volta 
+                    \b che il sogno ha colto effettivamente dai suoi pensieri 
+                    \b frammenti di discorsi effettivamente fatti o uditi, 
+                    \b procedendo poi con essi in modo estremamente arbitrario. 
+                    \b Non soltanto li ha strappati dal loro contesto e ridotti a frammenti, 
+                    \b accogliendone uno e scartandone un altro, 
+                    \b ma spesso li ha connessi in modo nuovo, 
+                    \b cosicché il discorso del sogno, apparentemente coerente, 
+                    \b all’atto dell’analisi si scompone in tre o quattro frammenti. 
+                    \b In questa utilizzazione esso ha spesso lasciato da parte il significato 
+                    \b che le parole avevano nei pensieri del sogno 
+                    \b ed è riuscito a ricavare dal testo un significato completamente nuovo
+                note 22
+
+            «Condensazione» e «spostamento» (Verdichtung/Verschiebung) 
+            agiscono non solo sulle rap­presentazioni visive ma anche su quelle auditive: 
+            giacché ogni immagine sensoriale, nella sua dissoluzione da ogni piano concettuale 
+            e proprio nella sua dominanza e origine di senso specifica, 
+            è contenuto congruo e disponibile per la sintesi dell’inconscio. 
+            
+            quote
+                + Il lavoro di condensazione del sogno 
+                    \b riesce particolarmente evidente quando sceglie a suoi oggetti parole e nomi. 
+                    \b Infatti il sogno tratta spesso le parole come cose 
+                    \b e le sottopone alle medesime combinazioni delle rappresenta­zioni di cose. 
+                    \b Ne risultano creazioni verbali bizzarre e inconsuete
+                note 23. 
+                
+            Con la conseguenza assai di rilievo che il cosiddetto principio di non contraddizione, 
+            posto nella Metafisica aristotelica a base del pensiero discorsivo e dell’intera logica occidentale, 
+            per Freud manifesta invece una validità limitata alla sola parte conscia della mente, 
+            indicando con il suo limite il darsi di un’altra logica
+            e di un altro modo di funzionare del pensiero. 
+            Il principio di non contraddizione non si può estendere all’attività inconscia della mente, 
+            giacché qui è appunto possibile, 
+            proprio per il lavoro della condensazione e dello spostamento, 
+            che in una stessa immagine e nella medesima unità di tempo siano compresenti due contrari o, 
+            se si vuole, due catene ideative di significato opposto, o, 
+            ancora, che una medesima scena stringa insieme due significati, 
+            uno normale e palese, l’altro straordinario ed obliquo.

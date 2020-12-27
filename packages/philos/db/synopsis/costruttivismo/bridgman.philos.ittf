@@ -1,0 +1,18 @@
+$group
+    author Bridgman
+        name Percy Williams Bridgman
+        born
+            date 21/4/1882
+            place Cambridge, Massachusetts, Stati Uniti
+        died
+            date 20/8/1961
+            place Randolph, New Hampshire, Stati Uniti
+        approach operazionismo
+        approach costruttivismo
+        + è stato un fisico e filosofo della scienza statunitense. 
+            \b Vinse il Premio Nobel per la fisica nel 1946 
+            \b «per l'invenzione di un apparecchio per la produzione di pressioni estremamente alte 
+            \b e per le scoperte fatte nel campo della fisica ad alta pressione» 
+        book
+            title The Nature of Physical Theory
+            edition Princeton University Press, 1936

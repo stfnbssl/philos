@@ -1,0 +1,160 @@
+$group
+
+    concept freud.pulsione-io
+        title pulsione dell'io
+            alias pulsione di autoconservazione
+    
+    
+    concept freud.pulsione-sessuale
+        title pulsione sessuale
+
+    concept freud.pulsione
+        de Trieb
+            it spinta
+        + Processo dinamico consistente in 
+            \b una spinta (carica energetica, fattore di motricità) 
+            \b che fa tendere l'organismo verso una meta. 
+        + Secondo Freud, una pulsione ha la sua fonte in una eccitazione somatica (stato di tensione); 
+            \b la sua meta è di sopprimere lo stato di tensione che regna nella fonte pulsionale; 
+            \b la pulsione può raggiungere la sua meta nell'oggetto o grazie a esso.
+        + L'accento è messo non tanto su una finalità precisa 
+            \b quanto su un orientamento generale 
+            \b e sottolinea il carattere irreprimibile della spinta 
+            \b anziché la fissità della meta e dell'oggetto.      
+        
+        quote
+            + Una pulsione non può mai diventare oggetto della coscienza, 
+                \b solo l’idea che la rappresenta lo può.
+            kindle-page 4669
+        
+        r-concept freud.eccitazione-esterna
+            + Accanto alle eccitazioni esterne 
+                \b che il soggetto può fuggire o da cui può proteggersi, 
+                \b esistono fonti interne che apportano costantemente un afflusso di eccitazioni 
+                \b al quale l'organismo non può sfuggire 
+                \b e che costituisce la molla del funzionamento dell'apparato psichico.
+        
+        r-concept freud.pulsione-sessuale
+            + La nozione freudiana della pulsione sorge nella descrizione della sessualità umana,
+                \b basandosi soprattutto sullo studio delle perversioni 
+                \b e delle modalità della sessualità infantile, 
+                \b demolisce la concezione detta popolare che attribuisce alla pulsione sessuale 
+                \b una meta e un oggetto specifici 
+                \b e la localizza nelle eccitazioni e nel funzionamento dell'apparato genitale. 
+        
+        period 1905
+            book freud.tre-saggi-sulla-teoria-sessuale
+        
+        period 1915
+            + Freud raggruppa questi quattro elementi: spinta, fonte, oggetto, meta;
+                \b e dà una definizione generale della pulsione
+            book freud.pulsioni-e-loro-destino
+                de Triebe und Triebschicksale
+
+        r-concept freud.somatico-o-psichico
+            + Come collocare la forza della pulsione che attacca l'organismo dall'interno 
+                \b e lo spinge a compiere talune azioni capaci di provocare una scarica di eccitazione? 
+                \b Si tratta di una forza somatica o di una energia psichica? 
+                \b La questione, posta da Freud, riceve risposte diverse 
+                \b in quanto la pulsione è definita come un concetto-limite 
+                \b tra lo psichismo e il somatico. 
+                \b Essa è legata per Freud al concetto di rappresentante, 
+                \b con cui egli intende una specie di delegazione 
+                \b inviata dal somatico nello psichismo. 
+            see freud.rappresentante-psichico
+
+        r-concept freud.prima-topica
+            + la teoria delle pulsioni in Freud rimane sempre dualista
+            + il primo dualismo proposto è quello tra pulsioni sessuali e pulsioni dell'Io o di autoconservazione; 
+                \b queste ultime pulsioni corrispondono per Freud ai grandi bisogni 
+                \b o alle grandi funzioni indispensabili alla conservazione dell'individuo, 
+                \b di cui il modello è costituito dalla fame e dalla funzione di alimentazione.
+            + Questo dualismo è presente, secondo Freud, già alle origini della sessualità 
+                \b in quanto la pulsione sessuale si distacca dalle funzioni di autoconservazione 
+                \b su cui prima si appoggiava {see freud.appoggio}; 
+                \b egli cerca di spiegare il conflitto psichico mostrando che l'Io 
+                \b trova nella pulsione di autoconservazione l'essenziale dell'energia necessaria 
+                \b alla difesa contro la sessualità.
+        
+        r-concept freud.seconda-topica
+            + Il dualismo pulsionale introdotto in Al di là del principio di piacere
+                \b contrappone le pulsioni di vita alle pulsioni di morte 
+                \b e modifica la funzione e la collocazione delle pulsioni nel conflitto topico.
+            + Il conflitto topico (tra l'istanza difensiva e l'istanza rimossa) 
+                \b non corrisponde più al conflitto pulsionale, 
+                \b in quanto l'Es è concepito come serbatoio pulsionale includente i due tipi di pulsioni. 
+                \b L'energia utilizzata dall'Io* è presa da questo fondo comune, 
+                \b specie sotto forma di energia desessualizzata e sublimata
+            quote
+                + Noi diamo il nome di pulsioni alle forze che postuliamo 
+                    \b dietro le tensioni generatrici di bisogni dell'Es 
+                book freud.Abriss der Psychoanalyse
+                page 264
+                comment
+                    + I due grandi tipi di pulsioni (di vita e di morte), in quest'ultima teoria, 
+                        \b sono postulati non tanto come motivazioni concrete del funzionamento stesso dell'organismo 
+                        \b quanto come principi fondamentali che regolano in ultima analisi l'attività di esso 
+            quote
+                + La teoria delle pulsioni è per così dire la nostra mitologia. 
+                    \b Le pulsioni sono esseri mitici, 
+                    \b grandiosi nella loro indeterminazione.
+                book freud.Neue Folge der Vorlesungen zur Einführung in die Psychoanalyse
+                page 95
+                comment 
+                    + famoso testo indicativo del cambiamento di accento di Freud 
+                        \b verso le pulsioni negli ultimo anni
+            
+        r-concept global.istinto
+            + La nozione freudiana della pulsione 
+                \b porta a una disintegrazione del concetto classico di istinto, 
+                \b e ciò in due direzioni opposte. 
+                \b Da un lato, il concetto di pulsione parziale 
+                \b sottolinea l'idea che la pulsione sessuale esiste anzitutto allo stato polimorfo 
+                \b e tende principalmente alla soppressione della tensione al livello della fonte somatica, 
+                \b e che essa si lega nella storia dell'individuo a rappresentanti che specificano l'oggetto 
+                \b e il modo di soddisfacimento: 
+                \b la spinta interna dapprima indeterminata subirà un destino che la marcherà 
+                \b con tratti altamente individualizzati. 
+                \b Ma d'altro lato Freud, lungi dal postulare, come sono inclini a fare i teorici dell'istinto, 
+                \b dietro ogni tipo di attività una forza biologica corrispondente, 
+                \b fa rientrare l'insieme delle manifestazioni pulsionali 
+                \b in una sola grande opposizione fondamentale, 
+                \b che è ripresa dalla tradizione mitica: 
+                \b opposizione tra Fame e Amore, poi tra Amore e Discordia.
+
+        concept fonte
+            title fonte della pulsione   
+            + fonte somatica
+            r-concept freud.pulsione-sessuale
+                + le fonti somatiche della pulsione sessuale sono molteplici 
+                    \b e capaci di assumere e di conservare per il soggetto 
+                    \b una funzione prevalente (zona erogena), 
+                    \b in quanto le pulsioni parziali si subordinano alla zona genitale 
+                    \b e si integrano nel compimento del coito solo al termine di un'evoluzione complessa, 
+                    \b che la maturazione biologica non basta a garantire.
+        
+        concept spinta
+            title spinta della pulsione   
+            + L'ultimo elemento che Freud introduce a proposito della nozione di pulsione 
+                \b è quello di spinta concepita come un fattore quantitativo economico, 
+                \b una «esigenza di lavoro imposta all'apparato psichico». 
+        
+        concept meta
+            title meta della pulsione   
+            + le mete siano molteplici, parcellari {see freud.pulsione-parziale}, 
+                \b e strettamente dipendenti da fonti somatiche; 
+        
+        concept oggetto
+            title oggetto della pulsione   
+            + l'oggetto è variabile, contingente, 
+                \b e viene scelto nella sua forma definitiva solo in funzione delle 
+                \b vicissitudini della storia del soggetto.
+
+        concept di-vita
+            title pulsione di vita
+            alias pulsione sessuale
+        
+        concept di-morte
+            title pulsione di morte
+            alias pulsione dell'io
+

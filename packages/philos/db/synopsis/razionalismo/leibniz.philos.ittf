@@ -1,0 +1,65 @@
+$group
+    author Leibniz
+        fullname Gottfried Wilhelm von Leibniz
+        born
+            date 1/7/1646
+            place Lipsia, Germania
+        died
+            date 14/11/1716
+            place Hannover, Germania        
+        + filosofo, matematico, scienziato, logico, teologo, linguista, glottoteta, 
+            \b diplomatico, giurista, storico, magistrato tedesco
+        approach razionalismo
+        approach razionalismo pluralistico
+        
+        $$ PIANA
+        urlL http://www.filosofia.unimi.it/piana/index.php/component/docman/doc_download/107-intorno-alla-metafisica
+
+        book
+            title Principi della natura e della grazia
+            quote
+                + Perché esiste qualcosa piuttosto che nulla?
+                page oss. 7
+
+        concept principio di (non) contraddizione
+        
+        concept principio di ragione sufficiente
+            quote
+                + noi giudichiamo che nessun fatto può ritenersi vero o esistente, 
+                    \b né alcuna proposizione essere veritiera, 
+                    \b se non vi è una ragione sufficiente per la quale sia così e non altrimenti; 
+                    \b quantunque il più delle volte queste ragioni non possano esserci note
+
+        concept gradi di perfezione delle monadi
+            bax
+                + riferibile a distinzioine tra natura anorganica, vivente e umana
+            concept monade pura e semplice
+                alias monade stordita
+                + monadi con una pura conoscenza sensibile di ciò che accade nell’immediatezza del presente, 
+                    \b senza capacità di ritenere il passato e di progettare l’avvenire
+                + si tratta di percezioni “di cui non ci si accorge”,
+                    \b di percezioni inconscie
+                concept percezione confusa
+                    alias percezione inconscia
+                    + Leibniz presta attenzione alla sua “psicologia”, 
+                        \b ovvero ai processi concreti del percepire come possiamo sperimentarli direttamente
+                    + esiste anche una percezione confusa che è al tempo stesso una coscienza stordita
+                concept piccole percezioni
+                concept la natura inanimata è già vita
+
+                    Di monadi stordite è fatta l’intera natura che ci appare inanimata: 
+                        essa è dunque attraversata da un principio di animazione. 
+                    Monadi stordite sono la sostanza di cui è fatta la natura stessa, 
+                        dalle sue forme inferiori a quelle superiori: 
+                        la vita pienamente cosciente, 
+                        la vita spirituale è un’emergenza che si realizza gradualmente 
+                        e in modo continuo da questo sfondo indistinto di una vita stordita, 
+                        che comunque è già una vita
+
+            concept anima
+                + monadi la cui percezione è più distinta ed accompagnata da memoria
+            concept spirito
+                + monadi che oltre alla percezione ed alla memoria, sono “anime raziocinanti”, 
+                    \b cioè in grado di elevarsi alla conoscenza delle verità necessarie ed eterne, 
+                    \b che sono capaci di argomentare e di produrre la scienza 
+                    \b e di giungere alla conoscenza di sé e di dio

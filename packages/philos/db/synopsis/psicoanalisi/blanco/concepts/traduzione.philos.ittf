@@ -1,0 +1,16 @@
+$group
+
+    namespace blanco
+
+        concept traduzione
+            title traduzione
+            alias dispiegamento
+            
+            quote
+                + L'essere simmetrico è tradotto in termini asimmetrici per mezzo di parole.
+                    \b Le parole cioè il loro significato sono gli strumenti asimmetrici 
+                    \b della funzione di traduzione-dispiegamento. 
+                    \b Poiché gli elementi da tradurre sono infiniti 
+                    \b la funzione di traduzione-dispiegamento assolve un compito limitato. 
+                    \b Ciò corrisponde alla affermazione di Freud che 
+                    \b solo una piccola parte dello psichico è conscia e la maggior parte è inconscia.

@@ -1,0 +1,20 @@
+$group
+
+    namespace sartre
+
+        concept inobiettivabilità-della-coscienza
+            + Abbiamo detto che la coscienza è sempre coscienza-intenzionale-di-alcunché, 
+                \b è sempre il 'contenente' che non può incontrarsi in nulla di ciò che incontra. 
+                \b Ora, se tale è la natura della coscienza, il suo carattere intenzionale – 
+                \b e, derivatamente, la coscienza in quanto tale – è irrecuperabile come oggetto di coscienza. 
+                \b La coscienza come obiectum è coscienza intenzionata, non coscienza intenzionante. 
+                \b Coscienza-di-coscienza indicherà sempre due coscienza separate, 
+                \b la prima delle quali è per definizione inafferrabile a sé stessa. 
+                \b Queste poche frasi riassumono quella che può esser considerata 
+                \b una delle più grandi lezioni sul versante teoretico dell'esistenzialismo. 
+                \b In questo senso, infatti, è da intendersi l'inobiettivabilità della coscienza: 
+                \b come impossibilità di principio di averne una qualsiasi com-prensione obiettiva 
+                \b (si veda La trascendenza dell'Ego dello stesso Sartre), e non solo nell'accezione, 
+                \b seppur qualificante e parimenti condivisa, 
+                \b secondo la  quale essa non sarebbe reificabile a cosa, 
+                \b degradabile ad un ente fra gli enti.

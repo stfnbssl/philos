@@ -1,0 +1,210 @@
+$group
+
+    concept enunciato
+        alias proposizione
+        + [in senso logico] è una espressione linguistica dichiarativa, cioè affermante che qualcosa è (o non è) così e così,
+            \b e pertanto è tale che deve essere o vera o falsa, tertium non datur
+        + gli enti cui si riferiscono gli enunciati sono determinati stati di cose, 
+            \b dove con “stato di cose” si intende sia una situazione fisica realmente esistente 
+            \b sia una semplice connessione o relazione tra concetti che non hanno alcun referente fisico
+        
+        example
+            + l’enunciato “2+2=4” è vero per le regole che governano la matematica
+                \b e non si riferisce a niente di fisicamente esistente nel mondo reale
+            + l’enunciato “L’Etna è un vulcano che si trova a nord di Catania” è vero se effettivamente 
+                \b l’Etna è un vulcano e si trova a nord di Catania; altrimenti è falso
+            bax
+                + ciò che è vero a priori è sempre una tautologia
+                + una conoscenza a priori può essere sintetica
+                    \b se e quando una tautologia può produrre una conoscenza non analitica
+
+        concept enunciato semplice
+            alias proposizione atomica
+            + rappresenta un enunciato non ulteriormente analizzabile
+            + gli enunciati semplici possono essere composti per
+                \b formare enunciati più complessi, mediante i connettivi proposizionali            
+            concept lettera proposizionale
+                alias variabile proposizionale
+                + un enunciato atomico viene indicato mediante una lettera proposizionale, 
+                    \b per cui p è un enunciato nel linguaggio L,
+                    \b se e solo se p è vero o falso in L, cioè se p possiede un valore logico 
+
+        concept connettivo proposizionale
+            alias operatore booleano
+        
+        i). I mattoni di base di un
+linguaggio proposizionale sono costituiti dalle proposizioni atomiche, che rappresentano enunciati non ulteriormente analizzati. Un enunciato `e un’affermazione
+di tipo dichiarativo per la quali ha senso chiedersi se sia vera o falsa. Le proposizioni atomiche sono rappresentate da simboli, detti lettere proposizionali
+o variabili proposizionali. Gli enunciati semplici possono esser                    
+
+    concept costante
+        + è un particolare termine che 
+            \b nella proposizione non è soggetto a mutare, 
+            \b non è variabile e quindi rimane costante 
+        example
+            + nella espressione matematica “y=2x” il numero 2 e il segno di eguale sono costanti
+                \b mentre la x e la y sono variabili 
+
+    concept variabile
+        + è un arbitrario ente che si è liberi di scegliere all’interno 
+            \b di una classe definita che costituisce il suo “universo”. 
+        Se indichiamo con C la classe dei valori che una certa lettera x può assumere, 
+        allora diremo che la x è una variabile nel campo o dominio C, 
+        il quale costituisce il suo “universo”. 
+        In genere le variabili si indicano con le ultime lettere dell’alfabeto, x, y e z e 
+        quando ciò non basti si può apporre un indice numerico 
+        alla singola lettera variabile: x1, x2,..., xn, dove la n posta in pedice alla x indica un
+        arbitrario numero intero positivo. 
+        
+        example 
+            + nella espressione linguistica “x è un cavallo”, la x rappresenta la variabile 
+                \b che può essere sostituita mettendo al suo posto il nome indicante un determinato ente 
+                \b che appartenga alla categoria semantica dei nomi
+        se vogliamo ottenere una espressione sensata (cioè x deve appartenere ad un certo universo 
+        per dare significato all’espressione). 
+
+    concept funzione enunciativa 
+        + è una espressione linguistica che contiene una variabile 
+            \b la cui sostituzione con una costante dà luogo ad un enunciato
+        example
+            + l’espressione linguistica “x è un numero primo” si trasforma in enunciato 
+                \b sostituendo alla variabile x una costante (generica o determinata), 
+                \b ottenendo ad esempio l’enunciato “3 è un numero primo”, 
+                \b che può essere vero o falso
+
+    concept tautologia
+        concept modus ponens
+            + (a) [(pÆq)Ÿp)]Æq (modus ponendo ponens)
+            concept fallacia dell’affermazione del conseguente
+                + [(pÆq)Ÿq)]Æp 
+        concept modus tollens
+            (b) [(pÆq)Ÿ¬q)]Æ¬p (modus tollendo tollens)
+            concept fallacia della negazione dell’antecedente
+                + [(pÆq)Ÿ¬p)]Æ¬q 
+        
+    field logica dei predicati
+        alias calcolo dei predicati
+        alias logica dei predicati del primo ordine
+        alias logica del primo ordine
+        + le proposizioni non sono “atomi”,
+            \b ma sono ulteriormente analizzate in termini di oggetti, proprietà e relazioni
+        + costituisce la seconda parte della logica formale classica
+        
+        Abbiamo visto che il calcolo proposizionale ha come suo oggetto la connessione tra proposizioni, 
+        cioè le operazioni vero-funzionali. 
+        Tuttavia esso non è sufficiente in quanto incapace di formalizzare molte argomentazioni logiche, 
+        specie in ambito matematico. 
+        
+        Prendiamo, ad es., la seguente inferenza intuitivamente valida:
+        (1) Tutte le vie portano a Roma
+        (2) esiste una via che porta a Roma
+        E’ questo un ragionamento veramente banale. 
+        
+        Tuttavia il passaggio dalla (1) alla (2) non è una implicazione logica 
+        valida nel calcolo proposizionale. 
+        Cioè, se indichiamo con p la proposizione (1) e con q la proposizione (2), 
+        la forma proposizionale risultante p !fi !q non è un’implicazione 
+        in quanto la pÆq non è una tautologia (per il teorema della deduzione).
+
+        L’insufficienza del calcolo proposizionale deriva dal fatto che 
+        esso assume come unità elementare la proposizione, 
+        senza prendere in considerazione la sua struttura interna. 
+        Consideriamo ad esempio le proposizioni seguenti, 
+        che esprimono i tre membri del classico sillogismo pseudo-aristotelico:
+            p= “Tutti gli uomini sono mortali”
+            q= “Socrate è un uomo”
+            r= “Socrate è mortale”
+        Di ciascuna di queste proposizioni nel calcolo proposizionale non interessa sapere 
+        in che rapporto sono il soggetto con il predicato, 
+        se il soggetto è plurale o singolare, 
+        né si distinguono gli oggetti che godono di una certa proprietà (ad es., gli “uomini”) 
+        dalla proprietà stessa (la “mortalità”), ecc., 
+        ma solo quale sia il valore di verità di p , q o r. 
+        Se vogliamo passare ad analizzare la struttura interna di ciascuna proposizione 
+        allora abbiamo bisogno di introdurre nuovi concetti e simboli e dare inoltre nuove regole; 
+        dobbiamo, cioè costruire un’altra teoria. 
+        
+        E’ quanto si fa col calcolo dei predicati. 
+        Ovviamente, essendo il calcolo proposizionale una teoria prioritaria rispetto al calcolo dei predicati, 
+        quest’ultimo presuppone tutto ciò che è proprio del primo. 
+        Ovverosia tutte le leggi logiche e le regole del calcolo proposizionale sono anche leggi e
+        regole del calcolo dei predicati (ma non viceversa), 
+        il quale li può assumere senza ulteriormente giustificarli.
+
+        Prendiamo ad esempio la proposizione p=“Tutti gli uomini sono mortali”. 
+        Questa è una proposizione vera. 
+        Sostituiamo ora al soggetto “Tutti gli uomini” la variabile x e scriviamo:
+        (3) “x sono mortali”
+        Non siamo ora in grado di dire se la (3) è vera o falsa 
+        a meno che non sappiamo cosa sta ad indicare la variabile x. 
+        Se ad esempio x=“I Greci”, allora la (3) è vera; 
+        ma se x=“Gli Dei dell’Olimpo”, allora la (3) è falsa.
+        
+        concept variabile individuale
+            + una lettera (di solito x, y o z) che rappresenta un qualsivoglia oggetto 
+                \b di un certo genere (detto anche tipo),
+                \b appartenente ad un dato universo (detto anche dominio)
+            example
+                + “tutti gli uomini sono mortali” può essere riscritta come:
+                    \b “x sono mortali”; dove x = “tutti gli uomini”
+
+        concept costante individuale
+            + si indicano utilizzando le lettere a, b, c, a1 , a2,..., an
+
+        concept funtore
+            alias predicato
+            + si possono avere predicati monoargomentali e predicati con 2 o più argomenti
+            concept costante predicativa
+                + per indicare un generico predicato si utilizzano le costanti predicative, 
+                    \b indicate di solito con le lettere P, Q, R , P1, P2, ..., Pn 
+            example
+                + “tutti gli uomini sono mortali” può essre riscritta come:
+                    \b “P(x)”; dove x (variabile) = “tutti gli uomini” e P (costante predicativa) = “sono mortali”;
+                    \b e si legge: x (tutti gli uomini) ha la proprietà P (sono mortali)
+                + di “tutti gli uomini” si predica (afferma) che “sono mortali”
+        
+        concept funzione proposizionale
+            + è un’espressione che utilizza variabili individuali e
+                \b funtori
+            + è un’espressione che non è né vera né falsa 
+                \b ma può essere trasformata in una proposizione vera o falsa 
+                \b mediante rimpiazzamento delle sue variabili con delle costanti 
+            example
+                + data la funzione proposizionale: P(x)
+                + sostituendo la variabile individuale “x” con la costante individuale “a”
+                + si ottiene la proposizione: “il particolare oggetto a ha la proprietà P”
+        
+        concept quantificatore
+            + è un tipo di operatore logico che specifica la quantità degli individui,
+                \b appartenenti a un insieme universale prefissato (dominio), 
+                \b ai quali si attribuisce un dato predicato 
+            + può essre associato ad una variabile individuale per indicare
+                \b la quantità dei suoi individui 
+            concept quantificatore universale
+                + “per ogni x”: per tutti gli individui 
+                    \b dell'universo (dominio) di x
+            concept quantificatore esistenziale
+                + “esiste almeno un x tale che”: per almeno un individuo 
+                    \b dell'universo (dominio) di x
+                + attenzione: “almeno uno”, non “solo uno”, quindi “uno o più”
+
+        concept funtore non monadico
+            alias predicato non monadico
+            + vi possono essere predicati a due o più argomenti
+            + in genere a tali predicati corrispondono sul piano fisico 
+                \b quelle che vengono dette relazioni e 
+                \b che in teoria degli insiemi vengono indicate con la lettera R 
+            example
+                + “x è padre di y”
+                + il funtore, “è padre di”, ha 2 argomenti
+                + può scriversi R(x, y), che si legge: “x è nella relazione R (è padre di) con y”
+            approach logicismo
+                author Russell
+                author Whitehead
+                author Wittgenstein
+                + il fatto che mediante i predicati, e quindi mediante la logica formale, 
+                    \b sia possibile esprimere un concetto tipicamente matematico 
+                    \b come quello di relazione 
+                    \b è alla base del programma logicista portato avanti 
+                    \b da Russell e Whitehead, al quale aderì il Wittgenstein del Tractatus
+

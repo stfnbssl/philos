@@ -1,0 +1,11 @@
+$group
+
+    namespace freud
+
+        concept metapsicologia
+            
+            quote
+                + Propongo che, se riusciamo a descrivere un processo psichico 
+                    \b nei suoi rapporti dinamici, topici ed economici, 
+                    \b la nostra esposizione sia chiamata metapsicologica.
+                kindle-loc 65595-65597

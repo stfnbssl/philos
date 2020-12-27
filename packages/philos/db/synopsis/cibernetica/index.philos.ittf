@@ -1,0 +1,71 @@
+$group
+    
+    field cibernetica
+        + Studio tecnico dell'autoregolazione
+        
+        approach cibernetica del primo ordine
+            alias cibernetica classica
+            alias la cibernetica dei sistemi osservati
+            author Wiener
+            author McCulloch
+            author Pitts
+            author von Neumann
+            period 1940
+            + Studiava le analogie tra i sistemi di controllo e di comunicazione (kybernès, in greco antico, è il timoniere) 
+                \b nelle macchine e nei sistemi viventi. 
+        
+        approach cibernetica del secondo ordine
+            alias la cibernetica dei sistemi osservanti
+            + inventata da von Foerster e altri scienziati e ricercatori negli anni Settanta, 
+                \b doveva essere la cibernetica dei sistemi viventi capaci di guardare se stessi, di osservare 
+                \b le proprie osservazioni. Heinz von Foerster prese a prestito concetti e paradigmi che si stavano 
+                \b sviluppando in biologia, in matematica, in fisica come quello di auto-poiesi, ideato da Humberto Maturana 
+                \b e Francisco Varela per distinguere i viventi dai non viventi, o quello di auto-organizzazione, tipica di 
+                \b sistemi complessi nei quali alcuni fenomeni "emergenti" non possono essere previsti, 
+                \b in maniera riduzionistica, partendo soltanto dalla conoscenza degli elementi di base del sistema. 
+
+        concept sistema
+            + insieme di elementi in interazione, le cui proprietà non appartengono ai singoli componenti, ma sono il risultato 
+                \b del complesso di relazioni tra tutti i suoi elementi
+            + ogni elemento influenza tutti gli altri e ne è allo stesso tempo influenzato
+        
+        concept contesto
+            + complesso di circostanze entro cui emerge e si sviluppa un fenomeno 
+        
+        concept feedback
+        
+        concept omeostasi
+        
+        concept autoregolazione
+            + ebbe origine dai tentativi di costruire congegni meccanici ("servomeccanismi") in grado di 
+                \b sostituirsi ad attività umane che avevano lo scopo di sorvegliare un'aspetto specifico di una data 
+                \b situazione e di controllarlo, o governarlo, come farebbe un agente umano. Il termostato dei frigoriferi 
+                \b è forse l'esempio più noto. Al termostato si fa registrare una specifica temperatura limite e, se tutto 
+                \b funziona (incluso l'impianto di raffreddamento), il termostato poi fa sí che, nell'ambiente controllato, 
+                \b la temperatura non superi il valore indicato. Non è però il termostato a scegliere l'aspetto da controllare 
+                \b né il valore da mantenere. Questa scelta — e ciò vale per tutti i congegni cibernetici — 
+                \b viene fatta da un agente esterno. 
+
+        contribution-to
+            field gnoseologia
+            opinion-of Glasersfeld
+                + L’immagine di un mondo apparentemente esterno che un organismo vivente organizza
+                    \b in base a eventi del suo sistema nervoso (modello neurofisiologico della percezione) può rispecchiare questi 
+                    \b eventi, ma non rispecchia delle strutture obiettive e indipendenti dal sistema nervoso.
+                + Le idee, la conoscenza, l’informazione che la tradizione ha sempre considerati trasmissibili tramite il linguaggio, 
+                    \b si rivelano anche loro costruzioni che ogni individuo deve astrarre (o costruire) dalla propria esperienza. 
+                    \b Benché i significati che ciascuno si costruisce vengano adattati e adeguati tramite l'uso sociale, non c’è mai 
+                    \b la possibilità di un confronto diretto con le costruzioni di un interlocutore. Perciò, dire che si ha compreso 
+                    \b l'enunciato di un altro indica, nel migliore dei casi, che per il momento, la propria interpretazione non 
+                    \b sembra dare luogo a delle discrepanze.
+        contribution-to
+            approach costruttivismo
+            opinion-of Glasersfeld
+                + la cibernetica appoggia il costruttivismo; soprattutto perché fornisce un modello in grado di chiarire un punto 
+                    \b fondamentale: se un'organismo autoregolante possiede strutture concettuali, queste strutture non possono 
+                    \b provenire che dalle distinzioni fatte dall'organismo stesso nella sua propria esperienza (cioè da materiale 
+                    \b "interno") e dal modo specifico con cui l'organismo opera nel distinguere e nel collegare le distinzioni fatte. 
+                    \b Questo punto e fondamentale perché rivoluziona la nozione tradizionale sia della conoscenza che della comunicazione.
+
+    $include foerster                    
+    $include shannon                    

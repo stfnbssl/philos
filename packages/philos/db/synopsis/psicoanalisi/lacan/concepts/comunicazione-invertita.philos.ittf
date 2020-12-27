@@ -1,0 +1,16 @@
+$group
+
+    namespace lacan
+
+        concept comunicazione-invertita
+            + Nella comunicazione umana "l’emittente riceve dal ricevente 
+                \b il proprio messaggio sotto una forma  invertita".
+                \b È l’Altro che dà il senso a quel che dico.
+
+            + Ne L’essere e il nulla c’è un’osservazione di Sartre che è già lacaniana
+                quote
+                    + il soggetto non è padrone del senso, è in mancanza, è in assenza  di senso. 
+                        \b Il senso di un’espressione sfugge sempre a chi la enuncia 
+                        \b e in fondo è l’Altro a dare al linguaggio il suo senso
+                    book sartre.l-essere-e-il-nulla
+                    page 458

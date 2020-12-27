@@ -1,0 +1,69 @@
+$group
+
+    namespace lacan
+
+        concept denotazione
+            + indica il rapporto tra la parola e la cosa
+
+        concept senso
+            + le parole possono fare di più che semplicemente denotare;
+                \b sono segni che possono connettersi tra loro,
+                \b tramite metonimia, metafora, ecc.. e grazie a questa connessione
+                \b produrre un senso delle cose che denotano
+            + il senso è staccato dalla cosa, non è un rapporto diretto
+                \b tra parola e cosa
+            + la linguistica di Saussure dà a Lacan 
+                \b la possibilità di formulare in modo rigoroso le leggi del senso, 
+                \b con la distinzione tra significante e significato
+
+            r-concept lacan.psicosi
+                quote
+                    + Per alcuni pazienti psicotici 
+                        \b il livello del senso rimane forcluso 
+                        \b e la dimensione della parola rimane relegata alla funzione denotativa. 
+                        \b La struttura del linguaggio nella psicosi non produce senso e verità 
+                        \b nel rimando da un segno verso altri segni. 
+                        \b Piuttosto, di fronte alla rete di connessioni possibili tra i segni 
+                        \b lo psicotico sperimenta uno stato di “perplessità” 
+                        \b o di ironia nichilista in base a cui 
+                        \b le parole non dicono nulla o suonano come puro artificio.
+                    article terminio.forclusione-e-significazione
+                example
+                    + uno psicotico potrebbe essere convinto che:
+                        \b “i cattolici sono dei cannibali perché mangiano il corpo di Cristo”
+                    + l'operatore linguistico "funzione paterna (Nome del Padre)" consentirebbe
+                        \b di connettere i significanti "ostia consacrata" e "corpo di Cristo"
+                        \b sul piano simbolico (della parola), con una metafora, creando il
+                        \b senso che il cattolico mangiando l'ostia consacrata mangia
+                        \b simbolicamente (accoglie nell'anima) il corpo di Cristo.
+                        \b Allo psicotico, cui manca l'operatore "funzione paterna",
+                        \b in certe circostanze,
+                        \b questo senso non è accessibile, e si ferma alla denotazione tra
+                        \b parola "corpo di Cristo" e cosa "corpo di Cristo" reale.
+        
+        concept essere
+            + per Lacan Essere non corrisponde al Senso, 
+            + il Senso è dalla parte del linguaggio,
+                \b introdotto dall’azione del significante 
+                \b definita appunto azione letale (per l'essere). 
+            + nel Seminario I amore, odio e ignoranza, sono definiti una passione dell’essere
+        
+        concept senso-essere
+            
+            r-concept lacan.soggetto
+                + Il soggetto una volta entrato nel campo dell’Altro, è posto di fronte a una scelta: 
+                    \b da una parte sta il Senso, dall’altra l’Essere. 
+                quote
+                    + Si tratta del vel della prima operazione essenziale in cui si fonda il soggetto. […]
+                        \b Si tratta nientemeno che di quella operazione che possiamo chiamare l’alienazione
+                    book lacan.i-quattro-concetti-fondamentali-della-psicoanalisi
+                    page 205-6
+
+        concept mancanza-a-essere
+            + non è quanto manca, non è nostalgia 
+            + è il risultato dell’azione letale del significante, 
+                \b la constatazione che in quanto capaci di parola, 
+                \b siamo interni alla campo del senso 
+                \b entro cui si dà discorso dell’essere, 
+                \b ma non Essere.         
+

@@ -1,0 +1,20 @@
+$group
+
+    namespace blanco
+
+        concept coscienza
+
+            + Per sua natura, la coscienza o il modo di essere asimmetrico, 
+                \b quando funziona pienamente, 
+                \b non può focalizzare più di una cosa alla volta. 
+                \b Deve separare una cosa da quella vicina. 
+                \b Il modo di essere simmetrico, invece, è, per sua natura, onnicomprensivo, 
+                \b identifica l'individuo con la classe 
+                \b così che tutti gli individui diventano identici l'uno all'altro e alla classe.
+
+            quote
+                + la visione maculare della coscienza non ammette nel suo campo
+                    \b più di una cosa nello stesso tempo
+            quote
+                + conosciamo la coscienza solo attraverso gli oggetti in essa presenti
+

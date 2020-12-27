@@ -1,0 +1,162 @@
+$group
+
+    namespace lacan
+
+        concept discorso
+            + In semiotica discorso indica ciò che ha una trama,
+                \b un testo che connette diversi elementi. 
+            + Nella sua radice etimologica, 
+                \b discorso porta con sé il verbo discorrere e si riferisce al movimento.
+            + Il discorso è una forma di legame tra diversi elementi in movimento.
+            + Per Lacan il discorso è una struttura di quattro elementi 
+                \b che prova a tenere insieme la dimensione del significante e quella del godimento, 
+                \b ossia la parte della nostra vita che riesce a essere rappresentata e condivisa 
+                \b e quella invece che ci rimane appiccicata addosso come un vissuto sensoriale ed emotivo 
+                \b che risulterà sempre intraducibile.
+            + Per Lacan i discorsi sono quattro, che fanno muovere quattro elementi.
+
+            $$ L'inconscio tra Simbolico e Reale  
+            In questa cornice teorica l’inconscio va considerato su un duplice piano: 
+                quello dei cosiddetti significanti e quello del godimento, 
+                quello del Simbolico e quello del Reale. 
+            Quando osserviamo il versante Simbolico l’inconscio consiste in una trama 
+            che attraversa la nostra vita e che si è costruita nel corso degli anni. 
+            In tal senso il Simbolico indica l’inconscio come un sapere che non sappiamo di sapere 
+            e che tuttavia orienta la nostra vita come una trama che tendiamo a ripetere in ambiti e momenti diversi.
+
+            Quando invece sottolineiamo il livello del Reale 
+            ci stiamo riferendo all’inconscio come sapere che deve ancora realizzarsi. 
+            Il Reale è un trauma della trama simbolica, 
+            il Reale interrompe il fluire ripetitivo dei significanti 
+            e richiama ciascuno a simbolizzare qualcosa che non è ancora stato scritto 
+            e che rimane fuori-senso. 
+            Il Reale insiste nella vita come possibilità per un nuovo modo di esistere 
+            al di là di ciò che si è già sedimentato e consolidato.
+
+            r-concept lacan.lavoro-analitico
+                + Il lavoro di un’analisi consiste nel reperire la trama dell’inconscio 
+                    \b che si è costruita nel passato e che tende a ripetersi. 
+                    \b Allo stesso tempo un’analisi deve introdurre l’esperienza del Reale come inciampo e trauma del senso 
+                    \b affinché la cura sia effettivamente un’occasione per riconfigurare la trama 
+                    \b e far esistere l’inconscio come possibilità per un sapere che deve ancora avvenire. 
+                    \b La psicoanalisi ha il compito di far esistere l’inconscio 
+                    \b non colonizzando il Reale con il Simbolico, 
+                    \b ma rendendo il Simbolico permeabile all’esistenza del Reale. 
+                    \b Il Reale è ciò che rende insaturo il Simbolico 
+                    \b e per tal ragione ne prefigura le possibilità generative e creative.
+
+            concept schema
+                + Si tratta di uno schema con quattro posizioni fisse: verità, agente, Altro e prodotto.
+                + I quattro discorsi lacaniani sono le variazioni di uno schema base,
+                    \b che mette in ordine e collega 
+                    \b i posti della verità, dell’agente, dell’Altro e del prodotto. 
+                + Questi quattro posti hanno sempre la stessa sequenza.
+                + Fra l’agente e la verità c’è una barra di separazione 
+                    \b che va considerata come la stessa barra che separa significante e significato.
+                + Il vettore che collega l’agente e l’Altro indica l’azione dell’agente sull’Altro.
+                + Fra l’Altro e il prodotto riscontriamo la stessa barra di separazione fra l’agente e la verità.
+                + Fra la verità e il prodotto c’è l’impossibilità del legame.
+                + Per completare lo schema base del discorso dobbiamo prevedere di inserire quattro simboli diversi 
+                    \b ($, S1, S2, e a) per ciascun posto.
+
+            concept posto-dell-agente
+                + Il posto dell’agente è il posto che dà avvio e direzione al discorso. 
+                    \b L’agente del discorso è in posizione dominante rispetto agli altri elementi. 
+                    \b In particolare, l’agente mette al lavoro il posto dell’Altro. 
+                    \b Dovremo quindi considerare che il simbolo che occuperà il posto dell’agente 
+                    \b metterà al lavoro il simbolo che sarà collocato nel posto dell’Altro. 
+                    \b Il nome che viene dato a ogni discorso dipende dal tipo di simbolo 
+                    \b che viene messo in posizione di agente.
+            
+            concept posto-dell-Altro
+                + Nel posto dell’Altro viene collocato il simbolo 
+                    \b che viene sottoposto al lavoro nell’attività del discorso. 
+                    \b Il simbolo che occupa il posto dell’Altro viene messo in attività e in movimento dall’agente.
+
+            concept posto-del-prodotto
+                + Nel posto del prodotto troviamo ciò che scaturisce dall’attività dell’Altro. 
+                    \b Il simbolo che occupa il posto del prodotto 
+                    \b indica l’eccedenza che non è più riassorbibile nel luogo dell’Altro. 
+                    \b In posizione di prodotto troviamo il frutto che, di volta in volta, si stacca da un albero-discorso. 
+                    \b È importante sottolineare 
+                    \b che questo frutto può assumere sia il valore di prodotto sia il valore di scarto del discorso.
+
+            concept posto-della-verità 
+                + Nel posto della verità troviamo il simbolo che viene rimosso 
+                    \b e che rimane inaccessibile perché è sotto la barra 
+                    \b che separa irrimediabilmente il posto dell’agente dal posto della verità. 
+                + Nel posto della verità viene custodita la ragione segreta 
+                    \b che abita il movimento avviato dall’agente 
+                    \b e che tuttavia gli rimane ignota. 
+                    \b Da questo punto di vista possiamo considerare l’agente come il sembiante di una verità 
+                    \b che viene misconosciuta. 
+                    \b Fra agente e verità ritroviamo la stessa separazione che osserviamo tra sembiante e verità. 
+                    \b Ecco perché il posto dell’agente può essere inteso come il posto del sembiante.
+
+
+            concept quattro-simboli
+                + Lo schema del discorso è la base su cui possiamo collocare e far girare quattro simboli 
+                    \b che seguono sempre la stessa successione: $, S1, S2, e a. 
+                + Questi quattro simboli possono ruotare nei posti del discorso e, 
+                    \b a seconda della posizione che occupano nel discorso, 
+                    \b cambiano un po’ la loro identità. 
+                + Nella prospettiva strutturale l’identità di un elemento è definita infatti a partire dalla posizione 
+                    \b (e dalla funzione) che viene occupata rispetto agli altri elementi. 
+                + Questi quattro simboli possono ruotare sullo schema base del discorso 
+                    \b con movimenti che contemplano un quarto di giro. 
+                    \b Con un quarto di giro ogni simbolo va ad occupare la posizione successiva. 
+                    \b Ogni quarto di giro osserviamo il cambio di discorso. 
+                    \b Quando compiamo invece mezzo giro abbiamo il rovesciamento del discorso. 
+                    \b Ecco perché possiamo dire per esempio che il discorso dell’isterica è il rovescio del discorso dell’università 
+                    \b e che il discorso dell’analista è il rovescio del discorso del padrone.
+
+            concept simbolo-significante-padrone
+                + S1 è il simbolo del significante padrone, 
+                    \b ossia quel significante che ha inserito il soggetto in una trama significante. 
+                    \b È il significante dell’inizio dell’alienazione significante, 
+                    \b quello che segna il momento aurorale dell’ingresso del soggetto nell’universo simbolico. 
+                    \b Ovviamente in un’analisi potremo avere più S1 che hanno scandito la vita del soggetto. 
+                    \b Gli S1 sono i significanti maître, (in italiano con padrone è stato 
+                    \b appunto tradotto il termine francese maître).
+            
+            concept simbolo-sapere
+                + S2 è simbolo del sapere o, più semplicemente, della trama dei significanti che vengono dopo gli S1. 
+                    \b La coppia di significanti S1 - S2 indica la base minima 
+                    \b per rappresentare l’articolazione della catena significante. 
+                    \b S1 è il primo significante che dà avvio al movimento della significazione, 
+                    \b S1 però essendo un significante può trovare il suo significato 
+                    \b solo nel suo concatenarsi con un altro significante. 
+                    \b S2 rappresenta dunque l’insieme dei significanti 
+                    \b che vengono dopo quel primo significante (S1) 
+                    \b che se rimanesse tutto solo (ab-soluto, sciolto da ogni legame) 
+                    \b non potrebbe assumere alcun significato.
+            
+            concept simbolo-soggetto-diviso
+                + $ rappresenta il soggetto diviso dal significante, 
+                    \b ovvero il soggetto che è rappresentato da un significante (S1) 
+                    \b per un altro significante (S2). 
+                    \b Il soggetto diviso non è padrone di sé, 
+                    \b è il soggetto che viene alienato (rappresentato) nel campo del linguaggio 
+                    \b e che dipende in maniera irrimediabile dallo scivolamento (per condensazione o spostamento) 
+                    \b della catena significante. 
+                    \b $ indica quella condizione soggettiva dove sperimentiamo il vacillamento delle nostre certezze, 
+                    \b perché appunto si è aperta una crepa nel nostro Io 
+                    \b a causa del sintomo e della significazione sconosciuta a cui rimandano i nostri significanti. 
+                    \b $ segnala non solo la dipendenza dalla catena significante, 
+                    \b ma anche l’effetto di perdita d’essere che viene generato da questa dipendenza.
+            
+            concept simbolo-oggetto-causa-del-desiderio
+                + L’oggetto a (causa del desiderio) è l’oggetto pulsionale che risulta inassimilabile alla catena significante,
+                    \b ma di cui costituisce tuttavia il prodotto. 
+                    \b L’oggetto a è l’eccedenza che viene prodotta dal lavoro svolto nel luogo dell’Altro.
+                    \b In un primo tempo, l’oggetto a corrisponde alla perdita d’essere 
+                    \b introdotta dall’alienazione significante. 
+                    \b In un secondo tempo, l’oggetto a si configura come la singolarità del soggetto 
+                    \b che nell’operazione di separazione è stata sovrapposta alla dimensione desiderante dell’Altro. 
+                    \b Quindi l’oggetto a parla di un resto asemantico di godimento 
+                    \b che viene prodotto dal morso del linguaggio 
+                    \b e che mettiamo in gioco quando entriamo in relazione con il desiderio dell’Altro. 
+                    \b Infine, il simbolo a si riferisce anche al concetto di plusgodere 
+                    \b che Lacan elabora prendendo spunto dal plusvalore di Marx.
+
+       

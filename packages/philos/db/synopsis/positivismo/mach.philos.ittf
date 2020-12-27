@@ -1,0 +1,93 @@
+$group
+    author Mach
+        name Ernst Mach
+        born
+            date 1838
+            place
+        died
+            date 1916
+            place
+        approach empirismo
+        approach monismo neutrale
+        no-approach positivismo
+        no-approach neopositivista logico
+        no-approach soggettivismo
+        + Secondo Mach, la conoscenza resta intrinsecamente parziale e provvisoria
+
+
+Problema della filosofia della scienza di Mach: come la certezza della SENSAZIONE 
+    \b (mediante cui cogliamo ciò che accade empiricamente) trapassa nella teoria? 
+    \b Come possiamo essere sicuri che nel processo di costruzione della teoria 
+    \b non abbiamo sovrapposto all’esperienza delle nostre costruzioni arbitrarie? 
+    \b L’errore del meccanicismo, secondo Mach, è proprio quello di non aver distinto 
+    \b tra livello dell’esperienza e livello intellettuale, scambiando così le 
+    \b proprie costruzioni ipotetiche con il mondo reale. 
+    \b Gli uomini, come gli animali, procedono sulla base dell’astrazione in quanto dal 
+    \b complesso di elementi che ci si presentano in un tutto unico noi tendiamo a cogliere e 
+    \b a mettere in evidenza alcuni elementi, prescindendo da tutti gli altri. 
+    \b Così gli uomini formano le prime conoscenze istintive (come quelle di un uccello che 
+    \b di fronte a bacche rosse astrae l’elemento colore e l’elemento dolce e agisce sulla 
+    \b base di questa astrazione funzionale alla sua esigenza di cibarsi). 
+    \b Queste conoscenze istintive vengono prima di ogni esperimento fisico e poiché sono involontarie 
+    \b hanno un carattere pienamente oggettivo e costituiscono la base certa su cui poggiano 
+    \b le dimostrazioni della scienza. In seguito il processo di astrazione viene assunto 
+    \b consapevolmente come metodo di indagine della realtà; 
+    concept Concetto
+        author Mach
+            + è il culmine del processo di astrazione
+            + rappresenta e simboleggia grandi classi di fatti
+            + la scienza sostituisce all’esperienza rappresentazioni o immagini mediante le quali diventa più facile maneggiare l’esperienza stessa 
+            + semplice segno riassuntivo e indicativo delle reazioni possibili dell’organismo umano nei confronti dei fatti
+            + non è una rappresentazione né un semplice nome, ma enuncia tutto un COMPLESSO DI AZIONI E REAZIONI 
+                example
+                    + per comprendere il concetto di ossigeno devo pensare al modo in cui l’ossigeno 
+                        \b si comporta chimicamente e fisicamente, a tutte le osservazioni e sperimentazioni 
+                        \b che abbiamo fatto su di lui, a tutti i giudizi che abbiamo a suo tempo compiuti
+            + è rappresentato da un insieme di proposizioni.
+            + vi è contenuta una scienza potenziale
+
+Problema: per quanto complesso ogni concetto è riconducibile completamente ai fatti d’esperienza, 
+oppure può permanere entro un concetto un residuo teorico, un carattere non riconducibile all’esperienza?
+
+Ora un empirismo radicale quale vuole essere quello di Mach tende a preferire la descrizione fattuale 
+alla costruzione ipotetica. Mach propone alla scienza un IDEALE DESCRITTIVO, raggiunto il quale ci sarebbe 
+una perfetta corrispondenza tra esperienza e teoria; questo ideale serve come strumento polemico contro il meccanicismo, 
+che ha sbagliato non tanto per aver costruito una teoria meccanica, ma per averla scambiata per la realtà. 
+L’ideale puramente descrittivo della realtà rimane anche per Mach un ideale: la scienza non giungerà mai alla fine, 
+non colmerà mai lo scarto che la separa da quell’ideale. 
+
+La scienza, pur tendendo ad eliminare concetti teorici ed ipotetici, per sostituirli con descrizioni di fatti, 
+non potrà mai fare a meno di essi. Il processo di riduzione dei concetti astratti ad entità che si identifichino 
+con l’esperienza non va fatto sempre, ma solo laddove è possibile ed utile, cioè economico.
+
+Tutte le LEGGI DELLA SCIENZA (che il meccanicismo settecentesco ha erroneamente considerato come “decreti del creatore”) 
+in realtà riproducono il ripetersi costante di eventi, sono descrizioni, constatazioni di fatti e si fondano solo 
+sull’esperienza. Anche nelle Leggi bisogna distinguere la teoria dall’esperienza. Infatti: 
+1) la ripetizione costante di eventi non è caratteristica dell’esperienza, ma risiede unicamente nello schema astratto 
+    con cui noi riproduciamo questa esperienza, in sé perennemente mutevole pur presentando delle ripetizioni 
+    dotate di una certa stabilità, una costanza relativa, approssimata;
+2) Le Leggi in natura non esistono. Qui esistono solo casi particolari; le leggi sono descrizioni sintetiche 
+    di un’infinità di descrizioni singolari. Le leggi hanno la funzione di strumenti di previsione e controllo 
+    dell’ambiente.(nella natura non esiste alcuna legge di rifrazione della luce, ma solo diversi casi di rifrazione; 
+    la legge di rifrazione è solo una regola coincisa e sintetica per la riproduzione dei fenomeni di una certa classe, 
+    regola stabilita per nostro uso). 
+
+La concezione delle leggi scientifiche come modelli per la produzione di asserti singolari sarà ripresa in ambito neopositivista da Wittgenstein e Schlick. Popper troverà in essa l’essenza della visione strumentalista o convenzionalista delle teorie scientifiche.
+
+Per Mach l’esperienza sensibile su cui si basa la scienza è cosa ben diversa dalla osservazione passiva della vita 
+di ogni giorno. Essa è il frutto di un lungo e raffinato lavoro intellettuale che produce l’esperimento mentale 
+da tradurre in pratica. La sensazione, la percezione di un fatto, arriva alla fine della ricerca scientifica, 
+è la conclusione del lavoro scientifico, non il suo punto di partenza. 
+Tuttavia una volta raggiunta questa percezione di relazioni tra elementi è certa e intersoggettiva. 
+Sebbene Mach veda che la pura osservazione non è possibile, pure egli ritiene che al termine di un processo anche lungo, 
+la scienza giunga a proposizioni certe, salde, che descrivono l’esperienza in modo oggettivo, indipendente da ogni teoria. 
+L’esperienza si può staccare dalla teoria non all’inizio bensì alla fine del lavoro di ricerca.
+
+Il fatto è l’ultimo fondamento della scienza per Mach, ma non è una realtà ultima, 
+in quanto si risolve nelle sensazioni, che sono, invece, gli elementi originari. 
+Un fatto fisico o un fatto psichico non è che un insieme relativamente persistente 
+di elementi semplici: colori, suoni, calore, pressione, spazio, tempo, ecc.  
+
+L’io è uno di questi raggruppamenti persistenti, i corpi esterni sono altri raggruppamenti;
+ma gli elementi che entrano a costituire gli uni e gli altri sono i medesimi: le sensazioni.
+

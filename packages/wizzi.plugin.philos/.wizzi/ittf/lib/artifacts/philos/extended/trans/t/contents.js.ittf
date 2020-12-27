@@ -1,0 +1,71 @@
+$group
+
+    function fillContents
+        param parent
+        param currentObj
+        param resultObj
+        if !currentObj.contents
+            log currentObj.kind
+            log currentObj.id
+            return
+        if parent.wzElement == "text"
+            _ currentObj.contents.push
+                {
+                    @ line parent.wzName
+        elif parent.wzElement == 'quote'
+            _ currentObj.contents.push
+                {
+                    @ quote
+                        _ fillQuote
+                            @ parent
+                            @ currentObj
+                            @ resultObj
+        elif parent.wzElement == 'comment'
+            _ currentObj.contents.push
+                {
+                    @ comment parent.toJson()
+        else
+            return true
+
+    function fillQuote
+        param parent
+        param currentObj
+        param resultObj
+        var quoteObj
+            {
+                @ author null
+                [ lines
+        foreach child in parent.items
+            if child.wzElement == 'text'
+                _ quoteObj.lines.push
+                    @ child.wzName
+            elif child.wzElement == 'author'
+                set quoteObj.author = child.wzName
+                foreach item in child.items
+                    if item.wzElement == 'text'
+                        _ quoteObj.lines.push
+                            @ item.wzName
+                    else
+                        set quoteObj.unknown = item.wzElement
+            elif child.wzElement == 'page'
+                set quoteObj.page = child.wzName
+            elif child.wzElement == 'book'
+                set quoteObj.book = child.wzName
+                _ functors.book
+                    @ child
+                    @ resultObj
+            elif child.wzElement == 'chapter'
+                set quoteObj.chapter = child.wzName
+                _ functors.chapter
+                    @ child
+                    @ resultObj
+            elif child.wzElement == 'comment'
+                set quoteObj.comment
+                    _ functors.comment
+                        @ child
+                        @ resultObj
+            else
+                set quoteObj.unknown = child.wzElement
+        return quoteObj
+
+

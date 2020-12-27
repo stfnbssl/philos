@@ -1,0 +1,33 @@
+$group
+
+    function GroupList
+        param props
+        var {jsonData} = props
+        return
+            div
+                < h2 Groups
+                < Paper
+                    @ style {{maxHeight: 370, overflow: 'auto'}}
+                    < Table 
+                        {
+                            _ jsonData.authorsGroups.sort(compareById).map
+                                function
+                                    param item
+                                    return
+                                        < TableRow 
+                                            @ button
+                                            @ key {item.id}
+                                            < TableCell
+                                                h3 {item.id}
+                                                < ContentText
+                                                    @ item {item}
+
+    
+    function Group
+        param props
+        var {item} = props
+        return
+            < div 
+                < h3 {item.id}
+                < ContentText
+                    @ item {item}     

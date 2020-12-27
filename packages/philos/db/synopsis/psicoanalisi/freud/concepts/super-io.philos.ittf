@@ -1,0 +1,9 @@
+$group
+
+    namespace freud
+
+        concept super-Io
+            quote
+                + La novità che richiede un chiarimento sta nel fatto 
+                    \b che questa parte dell’Io ha un rapporto meno stretto con la coscienza.
+                kindle-page 5970            

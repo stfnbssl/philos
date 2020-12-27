@@ -1,0 +1,10 @@
+$group
+
+    namespace klein
+
+        concept posizione
+            + Per Klein la posizione è una costellazione di angosce, difese e impulsi 
+                \b che descrive il modo assunto dall’Io di porsi nei confronti degli oggetti.
+            + Il termine posizione vuole indicare un processo continuo di passaggi tra una posizione e l’altra,
+                \b che non è mai definitivo,
+                \b poiché le posizioni si alternano per tutta la vita.

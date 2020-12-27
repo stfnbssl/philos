@@ -1,0 +1,27 @@
+$group
+
+    namespace sartre
+
+        concept nulla
+
+            quote
+                + Il nulla, essendo nulla d'essere, 
+                    \b non può venire alla luce che in virtú dell'essere stesso. 
+                    \b E viene infatti all'essere ad opera d'un essere singolare, 
+                    \b l'essere dell'uomo, l'Esserci. 
+                    \b La realtà umana, l'Esserci, è l'essere in quanto, 
+                    \b nel suo essere e per il suo essere, 
+                    \b è il fondamento unico del nulla nel seno dell'essere.            
+
+            bax
+                + Il nulla è forse il riuscire a stare fermi?
+                    \b l'opporsi al movimento?
+                    \b Se l'essere è il movimento delle cose
+                    \b e il nulla è l'immobilità assoluta delle cose,
+                    \b all'ora l'uomo, riuscendo, anche se non in maniera completa,
+                    \b ad opporsi al movimento, anche solo dicendo:
+                    \b "Aspetta, ci penso un minuto", opera una nullificazione
+                    \b dell'essere/movimento cieco,
+                    \b che gli apre la possibilità di essere coscienza che
+                    \b osserva, riflette, giudica, sceglie tra il no e il sì,
+                    \b vale a dire, sceglie cosa negare (annientare), sceglie cosa affermare.

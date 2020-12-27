@@ -1,0 +1,33 @@
+$group
+
+    function SchoolList
+        param props
+        var {jsonData} = props
+        return
+            div
+                < h2 Schools
+                < Paper
+                    @ style {{maxHeight: 370, overflow: 'auto'}}
+                    < Table 
+                        {
+                            _ jsonData.approaches.sort(compareById).map
+                                function
+                                    param item
+                                    return
+                                        < TableRow 
+                                            @ button
+                                            @ key {item.id}
+                                            < TableCell
+                                                h3 {item.id}
+                                                < ContentText
+                                                    @ item {item}
+
+    
+    function School
+        param props
+        var {item} = props
+        return
+            < div 
+                < h3 {item.id}
+                < ContentText
+                    @ item {item}     

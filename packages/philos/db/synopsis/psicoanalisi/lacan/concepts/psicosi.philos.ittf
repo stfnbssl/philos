@@ -1,0 +1,33 @@
+$group
+
+    namespace lacan
+
+        concept psicosi
+            + la psicosi è stata un campo inaugurale di ricerca per Lacan
+                \b a partire dalla tesi del 1932, su La psicosi paranoica e i suoi rapporti con la personalità, 
+                \b ed è rimasta uno degli assi portanti della sua elaborazione clinico-teorica.  
+
+            + Lo psicotico tiene l’oggetto a in tasca, non lo lascia andare.
+                \b La pulsione, per estrarsi, invece di passare per l’Altro, 
+                \b passa per l’automutilazione. 
+                \b La castrazione si compie nel reale, 
+                \b li si scrive ciò che non è stato estratto. 
+
+            period primo tempo
+                + l’attenzione è posta esclusivamente sulle psicosi classiche, 
+                    \b conclamate, con vistosi sintomi psicotici, 
+                    \b quelle che possiamo chiamare adesso le psicosi straordinarie  
+            
+            period secondo tempo
+                + introduzione della psicosi generalizzata e del Sinthomo, nel Seminario XXIII (Lacan 1975-76)
+
+        concept psicosi-classica
+
+        concept psicosi-generalizzata
+
+        concept miller.psicosi-ordinaria
+            + Le psicosi ordinarie sono una categoria clinica introdotta da Jacques-Alain Miller (1998)
+                \b in un tempo relativamente recente nel cosiddetto Campo Freudiano di Lacan.  
+            + sono psicosi della vita quotidiana, senza sintomi vistosi, 
+                \b che si aggiungono senza ricoprirlo al campo delle psicosi, 
+                \b in accordo con le problematiche proposte dalla modernità

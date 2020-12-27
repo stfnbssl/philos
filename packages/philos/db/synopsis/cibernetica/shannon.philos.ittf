@@ -1,0 +1,18 @@
+$group
+    author Shannon
+        fullname Claude Elwood Shannon
+        born
+            date 30/4/1916
+            place Petoskey, Michigan, Stati Uniti
+        died
+            date 24/2/2001
+            place Medford, Massachusetts, Stati Uniti
+        theory teoria della informazione
+        approach costruttivismo
+        + Ingegnere e matematico statunitense, spesso definito "il padre della teoria dell'informazione".
+        + Per la prima volta fornì una definizione precisa della nozione di informazione: nel processo di 
+            \b comunicazione sono i segnali fisici che "viaggiano" dal mittente al ricevente, non i loro significati. 
+            \b I segnali fisici, compresi quelli scambiati nel linguaggio naturale, non trasmettono contenuti ma 
+            \b istruzioni di scelta riguardanti il repertorio di strutture concettuali che ciascuno 
+            \b dei comunicanti si è costruito durante la sua esperienza di interazioni.     
+        

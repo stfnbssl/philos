@@ -1,0 +1,8 @@
+$group
+    e concept : item
+    e lemma : item
+    e idea : item
+    e againstconcept : item
+        tag against-concept
+    e relatedto : item
+        tag related-to

@@ -1,0 +1,60 @@
+$group
+
+    namespace freud
+
+        concept neuroni-ω
+            alias neuroni della coscienza
+            alias sistema ω
+
+            + Una percezione (carica in ψ avente origine in φ)
+                \b  eccita la coscienza di una qualità in ω.
+
+            + La scarica di un eccitamento in ω, come ogni scarica,
+                \b fornisce a ψ una informazione, un segno di qualità in questo caso.
+
+            r-concept freud.progetto.qualità
+                + I neuroni ω vengono eccitati assieme agli altri durante la percezione 
+                    \b e non durante la riproduzione [o ricordo];
+                    \b i loro stati di eccitamento determinano le qualità,
+                    \b sono sensazioni coscienti.
+
+            + La carica Qἠ che da ψ eccita ω è presumibilmente molto bassa, quasi a zero;
+                \b ma non zero poiché anche i neuroni ω tendono alla scarica.
+
+
+        Nella lettera del 1 gennaio 1896 Freud, 
+        rispetto al precedente schema di funzionamento mentale, 
+        sposta dunque i neuroni ω e li situa tra i neuroni φ e quelli ψ 
+        e specifica che ora: “ω non trasferisce a ψ né quantità né qualità, 
+        ma semplicemente eccita ψ, cioè indica la direzione che deve essere presa dall’energia psichica libera”.
+        Possiamo notare allora che ω, e cioè i neuroni collegati alla coscienza, 
+        si collocano ora in una posizione più centrale nello schema, 
+        come a formare un cardine; 
+        è questo un segno della maggiore centralità data alla coscienza 
+        nella nuova concezione del funzionamento psichico.
+        Forrester sottolinea come: “Il modello rese più chiare le due diverse “coscienze” del Progetto. 
+        In esso, la coscienza consisteva nell’eccitazione di ω da parte di ψ 
+        più un’indicazione di qualità (sia da φ attraverso ψ, sia da ψ attraverso le associazioni del linguaggio). 
+        
+        Nel nuovo modello, la coscienza percettiva [proveniente da stimoli esterni] 
+        consisteva nel trasferimento di una piccola Q (quantità di energia) da φ a ω 
+        e nel trasferimento della qualità da φ a ω, 
+        mentre la “coscienza secondaria artificiale” [proveniente da stimoli interni] 
+        sorgeva dal “lato opposto” di ω: 
+        l’eccitazione di ω da parte di ψ 
+        più un’indicazione di qualità proveniente dalle associazioni del linguaggio.” (Forrester 1980, pp. 89-90 ).
+        
+        Inoltre, il fatto che in qualche modo questi neuroni * 
+        non hanno più a che fare con le quantità e le qualità 
+        li sgancia da un coinvolgimento diretto 
+        per ciò che attiene al compito di rendere coscienti i processi * inconsci. 
+        Come ci fa notare Green, in questo modo Freud disunisce attività psichica e attività conscia 
+        alla quale necessita la qualità soggettiva (Green 1973, p. 43). 
+        
+        Questi processi * acquisteranno solo “una coscienza secondaria, 
+        artificiale” attraverso l’associazione verbale. 
+        I neuroni * allora, e così la coscienza, vengono sempre più sganciati dall’aspetto energetico 
+        diventando in tal modo sempre più un processo “psichico” con l’entrata in scena del linguaggio. 
+        
+        Freud successivamente preciserà che la rappresentazione cosciente 
+        è composta dalla rappresentazione inconscia di cosa più la rappresentazione di parola.

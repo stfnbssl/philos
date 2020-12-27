@@ -1,0 +1,14 @@
+﻿$group
+	$params name, value
+	
+    _ expect(${name}).to.be.a('string')
+	_ expect
+        _ verify.replaceAll
+            @ ${name}
+            @ '\r\n'
+            @ '\n'
+        ._ to.be
+            _ verify.replaceAll
+                @ ${value}
+                @ '\r\n'
+                @ '\n'

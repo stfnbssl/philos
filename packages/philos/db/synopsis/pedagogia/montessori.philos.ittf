@@ -1,0 +1,142 @@
+$group
+    author Montessori
+        fullname Maria Montessori
+        born
+            date 31/8/1870
+            place Chiaravalle
+        died
+            date 6/5/1952
+            place Noordwijk, Paesi Bassi
+
+        url http://eprints-phd.biblio.unitn.it/3491/2/Caprara-tesiPhD-01.02.19.pdf            
+
+        concept ambiente maestro
+            + un ambiente che contiene in sé gli stimoli cognitivi per gli alunni, e un insegnante non dispensatore di contenuti
+                \b  ma direttore dei lavori, favorisce forme di apprendimento autonomo, in cui l’attività è
+                \b scelta dal bambino, che può svolgerla nel rispetto dei propri tempi di apprendimento
+            + questo setting favorisce forme di collaborazione spontanea tra alunni e garantisce il rispetto delle 
+                \b differenze tra compagni, promuove forme di accettazione e allontana dalla competizione e dalla
+                \b polarizzazione capace-incapace
+            quote
+                + Cominciai dunque col fare costruire un arredamento scolastico che fosse proporzionato al bambino e che
+                    \b rispondesse al suo bisogno di agire intelligentemente. Ho fatto costruire dei tavolini di varia forma 
+                    \b in modo che non fossero soggetti a tremolio, ma leggerissimi (in corsivo del testo) così che due
+                    \b piccoli bambini di quattro anni potessero facilmente trasportarli. (…) Fa parte dell’arredamento un lavabo 
+                    \b molto basso in modo che il piano sia accessibile a un bambino di tre o quattro anni d’età, con piani laterali, 
+                    \b tutti bianchi e lavabili, per tenervi saponi, spazzolini e asciugamani. Le credenze sono basse, leggere 
+                    \b e molto semplici (…). Un grande quadro a colori che riproduce la Madonna con la Seggiola di Raffaello è poi 
+                    \b troneggiante sulle pareti e noi lo abbiamo scelto a figurare come emblema e simbolo delle 
+                    \b “Case dei Bambini” (Montessori, 1970a, p. 51). 
+
+        concept ambiente naturale
+            + Montessori attribuisce grande importanza al contatto tra bambino e natura
+            article
+                author Polk Lillard
+                edition 1996 
+                + modalità di lavoro e contenuti a deriva Montessoriana, favoriscono spontaneamente nel bambino il desiderio 
+                    \b di indipendenza e di fiducia in se stessi ()
+            article
+                author Crain
+                edition 2011
+                + la nascita di un pensiero creativo e di una buona capacità di osservazione, il miglioramento della motricità fine,
+            article
+                author Fjortoft
+                edition 2011
+                + dell’equilibrio e dell’agilità , 
+            article
+                author Johnson
+                edition 2013
+                + un apprendimento facilitato poiché sempre mediato dall’esperienza sensoriale 
+            article
+                author Tawil et al.
+                edition 2013
+                + l'apprendimento all'aria aperta in un ambiente naturale è un aspetto importante per stimolare attività 
+                    \b di apprendimento basate su esperienze concrete, per lavorare in gruppo e per avvicinarsi alla conoscenza 
+                    \b dei fenomeni naturali; apre inoltre a forme particolarmente interessanti di didattica attraverso lo studio 
+                    \b integrato delle discipline, come ad esempio le scienze.
+                + La ricerca conferma il valore dell’apprendimento immersivo a diretto contatto con la natura rispetto alla 
+                    \b promozione di abilità pratico-operative e di competenze più strettamente conoscitive o curricolari. 
+                    \b Ne vengono inoltre presentati gli effetti positivi per quanto concerne il superamento di test, la capacità 
+                    \b di concentrarsi, la motivazione intrinseca ad apprendere e alla riduzione di problemi relativi alla 
+                    \b disciplina, anche all’interno del tradizionale contesto classe. 
+            article
+                author Rathunde
+                edition 2001
+                + approfondisce in un contesto montessoriano gli effetti positivi della relazione tra ambiente naturale e 
+                    \b motivazione, concentrazione e attenzione. Oltre all’analisi di una serie di studi che supportano 
+                    \b la relazione positiva tra esperienze in contesti naturali nonché selvaggi e l’autostima, Rathunde 
+                    \b conferma quanto lo studio del pensiero di Montessori evidenziasse già all’inizio del Novecento la 
+                    \b necessità di offrire al discente momenti frequenti di educazione a diretto contatto con la natura. 
+                    \b Emerge chiaramente dal suo lavoro di ricerca quanto questi promuovano un tipo di attenzione più spontanea
+                    \b e caratterizzata dall’assenza di sforzi, una sorta di predisposizione tranquilla all’apprendimento, 
+                    \b una capacità di focalizzare le proprie azioni e di essere più spontaneamente selettivi verso gli stimoli 
+                    \b registrati. 
+            article
+                author Darakoglu
+                edition 2014
+                + emergono interessanti relazioni tra lo studio della pedagogia di Montessori e le forme di interazione 
+                    \b bambino-natura: tra questi occupano uno spazio privilegiato i materiali (di botanica, geografia, zoologia) 
+                    \b che propongono ai bambini, già dai tre anni, di stabilire un contatto consapevole con la natura.         
+        
+        concept ambiente sociale
+            quote
+                + l’ambiente dell’uomo non sia più la terra, bensì l’organizzazione sociale in se stessa, che posa su strutture 
+                    \b economiche
+        
+        concept nebula
+            + una sorta di energia creativa atta a dirigere le costruzioni psichiche umane e che permette al bambino di 
+                \b evolvere le proprie strutture cognitive attraverso esperienze attive condotte nell’ambiente 
+            + vi sono specifiche nebule (correlate alle funzioni motorie, del linguaggio, ecc.), ma esse non determinano modelli 
+                \b di comportamento fissi e automatici ma aiutano il soggetto ad appropriarsi in forma dinamica degli elementi 
+                \b dell’ambiente in cui vive 
+            + è una potente metafora mutuata dall’astronomia, che la descrive come una piccola nube formata da particelle di gas, 
+                \b che illustra la particolare situazione del bambino appena nato, cioè quella di un organismo in possesso di 
+                \b potenti energie nebulose che dovranno prendere forma (Tornar, 2007)
+            + il bambino eredita non tanto i caratteri bensì le potenzialità a formarli: gli è stata trasmessa la facoltà di 
+                \b parlare ma non è per eredità che impara a parlare
+            + ciò che si eredita sono le “nebule”, ossia una sorta di energia creativa e misteriosa potenzialità, che guidano 
+                \b il bambino ad assorbire l’ambiente. Esse permettono l’acquisizione di modelli e comportamenti sociali attraverso 
+                \b una costruzione libera ed una personale e autonoma elaborazione, sulla base delle proprie esperienze di vita 
+            + alla base del concetto di nebula, rimane comunque chiaro il carattere unitario della mente, 
+                \b intrinsecamente dinamicità, che trasforma le strutture grazie alle esperienze attive con l’ambiente 
+                \b e grazie alla guida di una energia, definita horme, della quale le nebule sono modi, gradi differenziati 
+                \b e specializzati
+            quote
+                author Loschi
+                    + alla nascita, dunque, il bambino è un embrione psichico all’interno del quale si svolgono i poteri e 
+                        \b gli organi psichici dell’uomo. È un embrione nel quale esistono soltanto nebule, che hanno il
+                        \b potere di svolgersi spontaneamente, ma solo a spese dell’ambiente (Loschi, 1991, p. 81). 
+                        
+        concept periodi sensitivi
+            + Durante questi momenti, l’apprendimento avviene in modo particolarmente spontaneo e vengono acquisite 
+                \b competenze significative con una notevole facilità e senza incontrare ostacoli particolari: il bambino risulta 
+                \b infatti assorbito completamente dall’attività intrapresa e pare ignorare ogni altra stimolazione ambientale, 
+                \b si concentra ripetendo all’infinito un compito scelto fino a quando rileva, in modo inaspettato, di possedere 
+                \b una nuova abilità.
+
+        concept mente assorbente
+            quote
+                + Vi è nel bambino, verso qualsiasi cosa che esiste nell‘ambiente, una sensibilità assorbente, e solo con 
+                    \b l‘osservare e assorbire l‘ambiente è possibile l‘adattamento: tale forma di attività rivela un potere 
+                    \b subcosciente che è proprio soltanto del bambino.
+            related-to
+                concept periodi sensitivi
+                + Il processo di assorbimento dell’ambiente si verifica quando il bambino manifesta una particolare sensibilità 
+                    \b ed è attratto da specifici stimoli in esso contenuti. I momenti in cui l’individuo è guidato nel suo sviluppo 
+                    \b da particolari spinte interiori verso alcune attività sono definiti dalla Montessori "periodi sensitivi". 
+        
+        concept piani di sviluppo
+            + Montessori inquadrare lo sviluppo umano dalla nascita ai ventiquattro anni, ipotizzando il passaggio della persona 
+                \b attraverso quattro periodi della durata di sei anni ciascuno, definiti "piani di sviluppo" ai quali corrispondono 
+                \b altrettanti "piani dell’educazione"
+            + Ogni piano corrisponde ad una tappa del processo evolutivo che presenta caratteristiche e compiti specifici e, 
+                \b in accordo con gli studi più recenti sull’età evolutiva, possiamo constatare come fosse chiaro per Montessori 
+                \b che lo sviluppo procede per tappe o cicli e non a piccoli passi costanti lineari.
+
+        concept educazione cosmica
+            opinion-of
+                author Lillard
+                + in un contesto montessoriano i bambini siano da subito preparati a diventare adulti ecologicamente responsabili 
+                    \b e consapevoli dei propri compiti anche verso il gruppo sociale di riferimento
+        
+        concept educazione dilatatrice

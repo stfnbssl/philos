@@ -1,0 +1,17 @@
+$group
+
+    namespace freud
+
+        concept libido
+            + La libido è espressione dinamica, quantitativa, della pulsione sessuale nella vita psichica.
+            quote
+                + Chiamiamo così – considerandola una grandezza quantitativa, anche se per ora non misurabile – 
+                    \b l’energia delle pulsioni attinenti a tutto ciò che può esser compendiato nella parola “amore”.
+                kindle-loc 79959-79960
+
+
+            quote
+                + In questo caso possiamo sostituire il termine “investimento” con quello di “libido”, 
+                    \b poiché, come sappiamo, l’argomento in questione è costituito dai destini di pulsioni sessuali.
+                bax
+                    + quindi quando si parla del destino di una pulsione sessuale un "investimento" lo si chiama "libido"

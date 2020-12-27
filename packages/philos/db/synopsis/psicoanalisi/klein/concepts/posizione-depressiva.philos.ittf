@@ -1,0 +1,29 @@
+$group
+
+    namespace klein
+
+        concept posizione-depressiva
+            title posizione depressiva (dai 3-4 ai 6 mesi)
+            + Sotto la spinta di una tendenza intrinseca all’integrazione 
+                \b il bambino inizia a rendersi conto che la “madre cattiva” e la “madre buona” non sono distinte 
+                \b e inizia a percepire la madre come “oggetto totale” 
+                \b che unifica in sé sia aspetti buoni che cattivi. 
+                \b Ora che la "madre buona" e "cattiva" non sono più separate, 
+                \b il bambino percepisce i suoi impulsi distruttivi 
+                \b diretti alla "madre cattiva" come pericolosi, in quanto danneggiano la "madre totale". 
+                \b Da ciò derivano il senso di colpa e l'angoscia depressiva 
+                \b che si risolvono con la riparazione e la sublimazione dell'aggressività. 
+                \b Nella riparazione l'istinto di vita prevale su quello di morte.
+            + La Klein ci insegna che è fondamentale per la “struttura” della personalità 
+                \b il raggiungimento della posizione depressiva 
+                \b che si ha nella misura in cui le pulsioni libidiche e l'amore 
+                \b prevalgono sulle pulsioni distruttive e di annientamento.
+            + La strutturazione psicotica avviene secondo la Klein 
+                \b quando il bambino non riesce a passare dalla posizione schizoparanoide alla posizione depressiva. 
+                \b Infatti, la capacità di fronteggiare il senso di colpa è condizionata dalla fase precedente, 
+                \b dal fatto che il bambino sia riuscito a mantenere dentro di sé qualità buone della madre. 
+                \b Se l'ambiente non è stato sufficientemente gratificante, ciò non accade.
+            + All'insediamento della madre come oggetto totale nel mondo interno del bambino 
+                \b corrispondono stati di interazione dell'Io 
+                \b e l'inizio di quel processo di separazione-individuazione 
+                \b che porterà il bambino ad una propria autonomia.

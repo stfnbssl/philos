@@ -1,0 +1,1216 @@
+{
+    "authors": [
+        {
+            "id": "Kant",
+            "foundations": [],
+            "opinions": [],
+            "contents": []
+        },
+        {
+            "id": "Vico",
+            "foundations": [
+                {
+                    "kind": "concept",
+                    "id": "enciclopedia in divenire"
+                },
+                {
+                    "kind": "concept",
+                    "id": "scienza"
+                },
+                {
+                    "kind": "approach",
+                    "id": "tradizione rinascimentale"
+                }
+            ],
+            "opinions": [],
+            "contents": [],
+            "born": {
+                "date": "23/6/1668",
+                "place": "Napoli"
+            },
+            "died": {
+                "date": "23/1/1744",
+                "place": "Napoli"
+            }
+        },
+        {
+            "id": "Foerster",
+            "foundations": [
+                {
+                    "kind": "theory",
+                    "id": "teoria della informazione"
+                },
+                {
+                    "kind": "approach",
+                    "id": "cibernetica del secondo ordine"
+                },
+                {
+                    "kind": "approach",
+                    "id": "costruttivismo radicale"
+                },
+                {
+                    "kind": "field",
+                    "id": "biologia"
+                },
+                {
+                    "kind": "field",
+                    "id": "teoria dei sistemi complessi"
+                },
+                {
+                    "kind": "field",
+                    "id": "neuropsicologia"
+                },
+                {
+                    "kind": "field",
+                    "id": "filosofia del linguaggio"
+                },
+                {
+                    "kind": "field",
+                    "id": "etica"
+                },
+                {
+                    "kind": "field",
+                    "id": "fisica"
+                },
+                {
+                    "kind": "field",
+                    "id": "cibernetica"
+                },
+                {
+                    "kind": "field",
+                    "id": "epistemologia"
+                },
+                {
+                    "kind": "field",
+                    "id": "pedagogia"
+                }
+            ],
+            "opinions": [],
+            "contents": [],
+            "fullname": "Heinz von Foerster",
+            "born": {
+                "date": "13/11/1911",
+                "place": "Vienna, Austria"
+            },
+            "died": {
+                "date": "2/10/2002",
+                "place": "Pescadero, California, Stati Uniti"
+            }
+        },
+        {
+            "id": "Norbert Wiener",
+            "foundations": [],
+            "opinions": [],
+            "contents": []
+        },
+        {
+            "id": "Johann von Neumann",
+            "foundations": [],
+            "opinions": [],
+            "contents": []
+        },
+        {
+            "id": "Ross Ashby",
+            "foundations": [],
+            "opinions": [],
+            "contents": []
+        },
+        {
+            "id": "Gregory Bateson",
+            "foundations": [],
+            "opinions": [],
+            "contents": []
+        },
+        {
+            "id": "Margaret Mead",
+            "foundations": [],
+            "opinions": [],
+            "contents": []
+        },
+        {
+            "id": "Claude Shannon",
+            "foundations": [],
+            "opinions": [],
+            "contents": []
+        },
+        {
+            "id": "Shannon",
+            "foundations": [
+                {
+                    "kind": "theory",
+                    "id": "teoria della informazione"
+                },
+                {
+                    "kind": "approach",
+                    "id": "costruttivismo"
+                }
+            ],
+            "opinions": [],
+            "contents": [
+                {
+                    "line": "Ingegnere e matematico statunitense, spesso definito \"il padre della teoria dell'informazione\"."
+                },
+                {
+                    "line": "Per la prima volta fornì una definizione precisa della nozione di informazione: nel processo di comunicazione sono i segnali fisici che \"viaggiano\" dal mittente al ricevente, non i loro significati. I segnali fisici, compresi quelli scambiati nel linguaggio naturale, non trasmettono contenuti ma istruzioni di scelta riguardanti il repertorio di strutture concettuali che ciascuno dei comunicanti si è costruito durante la sua esperienza di interazioni."
+                }
+            ],
+            "fullname": "Claude Elwood Shannon",
+            "born": {
+                "date": "30/4/1916",
+                "place": "Petoskey, Michigan, Stati Uniti"
+            },
+            "died": {
+                "date": "24/2/2001",
+                "place": "Medford, Massachusetts, Stati Uniti"
+            }
+        },
+        {
+            "id": "Bateson",
+            "foundations": [
+                {
+                    "kind": "approach",
+                    "id": "epistemologia sistemica"
+                },
+                {
+                    "kind": "theory",
+                    "id": "teoria del doppio legame"
+                }
+            ],
+            "opinions": [],
+            "contents": [],
+            "fullname": "Gregory Bateson",
+            "born": {
+                "date": "9/5/1904",
+                "place": "Grantchester, Regno Unito"
+            },
+            "died": {
+                "date": "4/7/1980",
+                "place": "San Francisco, California, Stati Uniti"
+            }
+        },
+        {
+            "id": "Binet",
+            "foundations": [
+                {
+                    "kind": "approach",
+                    "id": "associazionismo"
+                },
+                {
+                    "kind": "field",
+                    "id": "psicologia \"individuale\""
+                },
+                {
+                    "kind": "field",
+                    "id": "psicologia scientifica"
+                },
+                {
+                    "kind": "field",
+                    "id": "psicologia fisiologica"
+                }
+            ],
+            "opinions": [],
+            "contents": [
+                {
+                    "line": "condusse il suo tirocinio in psicopatologia, presso la Salpêtrière, sotto la direzione di M. Charcot"
+                }
+            ],
+            "fullname": "Alfred Binet",
+            "born": {
+                "date": "8/7/1857",
+                "place": "Nizza"
+            },
+            "died": {
+                "date": "18/10/1911",
+                "place": "Parigi"
+            }
+        },
+        {
+            "id": "Watzlawick",
+            "foundations": [],
+            "opinions": [],
+            "contents": []
+        },
+        {
+            "id": "Jackson",
+            "foundations": [],
+            "opinions": [],
+            "contents": []
+        },
+        {
+            "id": "Beavin",
+            "foundations": [],
+            "opinions": [],
+            "contents": []
+        },
+        {
+            "id": "Fish",
+            "foundations": [],
+            "opinions": [],
+            "contents": []
+        },
+        {
+            "id": "Thorndike",
+            "foundations": [
+                {
+                    "kind": "field",
+                    "id": "psicologia animale"
+                },
+                {
+                    "kind": "field",
+                    "id": "pedagogia"
+                },
+                {
+                    "kind": "theory",
+                    "id": "effetto alone"
+                },
+                {
+                    "kind": "theory",
+                    "id": "legge dell'esercizio"
+                },
+                {
+                    "kind": "theory",
+                    "id": "legge dell'effetto"
+                },
+                {
+                    "kind": "theory",
+                    "id": "legge del trasferimento"
+                }
+            ],
+            "opinions": [],
+            "contents": [
+                {
+                    "line": "condusse numerosi esperimenti nelle scuole americane che contribuirono a diffondere le conoscenze della psicologia comportamentale nell'ambiente pedagogico e gli permisero di costruiore test di profitto scolastico"
+                }
+            ],
+            "fullname": "Edward Lee Thorndike",
+            "born": {
+                "date": "31/8/1874",
+                "place": "Williamsburg"
+            },
+            "died": {
+                "date": "9/8/1949",
+                "place": "Montrose"
+            }
+        },
+        {
+            "id": "Wundt",
+            "foundations": [
+                {
+                    "kind": "approach",
+                    "id": "psicologia scientifica"
+                },
+                {
+                    "kind": "approach",
+                    "id": "parallelismo psicofisico"
+                },
+                {
+                    "kind": "field",
+                    "id": "psicologia fisiologica"
+                }
+            ],
+            "opinions": [],
+            "contents": [],
+            "fullname": "Wilhelm Wundt",
+            "born": {
+                "date": "16/8/1832",
+                "place": "Mannheim, Germania"
+            },
+            "died": {
+                "date": "31/8/1920",
+                "place": "Großbothen, Grimma, Germania"
+            }
+        },
+        {
+            "id": "Montessori",
+            "foundations": [
+                {
+                    "kind": "concept",
+                    "id": "ambiente maestro"
+                },
+                {
+                    "kind": "concept",
+                    "id": "ambiente naturale"
+                },
+                {
+                    "kind": "concept",
+                    "id": "ambiente sociale"
+                },
+                {
+                    "kind": "concept",
+                    "id": "nebula"
+                },
+                {
+                    "kind": "concept",
+                    "id": "periodi sensitivi"
+                },
+                {
+                    "kind": "concept",
+                    "id": "mente assorbente"
+                },
+                {
+                    "kind": "concept",
+                    "id": "piani di sviluppo"
+                },
+                {
+                    "kind": "concept",
+                    "id": "educazione cosmica"
+                },
+                {
+                    "kind": "concept",
+                    "id": "educazione dilatatrice"
+                }
+            ],
+            "opinions": [],
+            "contents": [],
+            "fullname": "Maria Montessori",
+            "born": {
+                "date": "31/8/1870",
+                "place": "Chiaravalle"
+            },
+            "died": {
+                "date": "6/5/1952",
+                "place": "Noordwijk, Paesi Bassi"
+            }
+        }
+    ],
+    "authorsGroups": [
+        {
+            "id": "Circolo di Vienna"
+        },
+        {
+            "id": "Biological Computer Laboratory"
+        },
+        {
+            "id": "Macy Conferences"
+        },
+        {
+            "id": "Scuola di Palo Alto"
+        }
+    ],
+    "fields": [
+        {
+            "kind": "field",
+            "id": "cibernetica",
+            "founders": [
+                "Foerster"
+            ],
+            "contributionsto": [
+                {
+                    "kind": "field",
+                    "id": "gnoseologia",
+                    "opinions": [
+                        {
+                            "wzElement": "opinionof",
+                            "wzTag": "opinion-of",
+                            "wzName": "Glasersfeld",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "L’immagine di un mondo apparentemente esterno che un organismo vivente organizza in base a eventi del suo sistema nervoso (modello neurofisiologico della percezione) può rispecchiare questi eventi, ma non rispecchia delle strutture obiettive e indipendenti dal sistema nervoso.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Le idee, la conoscenza, l’informazione che la tradizione ha sempre considerati trasmissibili tramite il linguaggio, si rivelano anche loro costruzioni che ogni individuo deve astrarre (o costruire) dalla propria esperienza. Benché i significati che ciascuno si costruisce vengano adattati e adeguati tramite l'uso sociale, non c’è mai la possibilità di un confronto diretto con le costruzioni di un interlocutore. Perciò, dire che si ha compreso l'enunciato di un altro indica, nel migliore dei casi, che per il momento, la propria interpretazione non sembra dare luogo a delle discrepanze.",
+                                    "items": []
+                                }
+                            ]
+                        }
+                    ],
+                    "contents": []
+                },
+                {
+                    "kind": "approach",
+                    "id": "costruttivismo",
+                    "opinions": [
+                        {
+                            "wzElement": "opinionof",
+                            "wzTag": "opinion-of",
+                            "wzName": "Glasersfeld",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "la cibernetica appoggia il costruttivismo; soprattutto perché fornisce un modello in grado di chiarire un punto fondamentale: se un'organismo autoregolante possiede strutture concettuali, queste strutture non possono provenire che dalle distinzioni fatte dall'organismo stesso nella sua propria esperienza (cioè da materiale \"interno\") e dal modo specifico con cui l'organismo opera nel distinguere e nel collegare le distinzioni fatte. Questo punto e fondamentale perché rivoluziona la nozione tradizionale sia della conoscenza che della comunicazione.",
+                                    "items": []
+                                }
+                            ]
+                        }
+                    ],
+                    "contents": []
+                }
+            ]
+        },
+        {
+            "kind": "field",
+            "id": "biologia",
+            "founders": [
+                "Foerster"
+            ]
+        },
+        {
+            "kind": "field",
+            "id": "teoria dei sistemi complessi",
+            "founders": [
+                "Foerster"
+            ]
+        },
+        {
+            "kind": "field",
+            "id": "neuropsicologia",
+            "founders": [
+                "Foerster"
+            ]
+        },
+        {
+            "kind": "field",
+            "id": "filosofia del linguaggio",
+            "founders": [
+                "Foerster"
+            ]
+        },
+        {
+            "kind": "field",
+            "id": "etica",
+            "founders": [
+                "Foerster"
+            ]
+        },
+        {
+            "kind": "field",
+            "id": "fisica",
+            "founders": [
+                "Foerster"
+            ]
+        },
+        {
+            "kind": "field",
+            "id": "epistemologia",
+            "founders": [
+                "Foerster"
+            ]
+        },
+        {
+            "kind": "field",
+            "id": "pedagogia",
+            "founders": [
+                "Foerster",
+                "Thorndike"
+            ]
+        },
+        {
+            "kind": "field",
+            "id": "psicologia"
+        },
+        {
+            "kind": "field",
+            "id": "psicologia"
+        },
+        {
+            "kind": "field",
+            "id": "psicologia \"individuale\"",
+            "founders": [
+                "Binet"
+            ],
+            "contents": [
+                {
+                    "line": "studî sulla memoria, sull'emotività, sulla suggestionabilità, sulla sensibilità tattile, sulla grafologia"
+                }
+            ]
+        },
+        {
+            "kind": "field",
+            "id": "psicologia scientifica",
+            "founders": [
+                "Binet"
+            ]
+        },
+        {
+            "kind": "field",
+            "id": "psicologia animale",
+            "founders": [
+                "Thorndike"
+            ]
+        },
+        {
+            "kind": "field",
+            "id": "psicologia fisiologica",
+            "founders": [
+                "Weber",
+                "Fechner",
+                "Wundt",
+                "Binet"
+            ]
+        },
+        {
+            "kind": "field",
+            "id": "antropologia pedagogica"
+        },
+        {
+            "kind": "field",
+            "id": "pedagogia"
+        }
+    ],
+    "approaches": [
+        {
+            "kind": "approach",
+            "id": "cartesianesimo",
+            "founders": [
+                "Pascal",
+                "Spinoza",
+                "Malebranche"
+            ]
+        },
+        {
+            "kind": "approach",
+            "id": "tradizione rinascimentale",
+            "founders": [
+                "Vico"
+            ],
+            "contents": [
+                {
+                    "line": "rivalutazione creatività umana non riducibile a deduzione razionale"
+                },
+                {
+                    "line": "è più familiare con il mondo umano che con la tradizione metafisica"
+                },
+                {
+                    "line": "la storia non deve essere ridotta a logica (Hegel)"
+                }
+            ]
+        },
+        {
+            "kind": "approach",
+            "id": "strumentalismo",
+            "founders": [
+                "Dewey",
+                "Mach"
+            ],
+            "contents": [
+                {
+                    "line": "Nel mondo moderno lo strumentalismo fu sviluppato intorno all'inizio del nostro secolo in tre modi più o meno independenti: Dai \"pragmatisti\" negli Stati Uniti (14); da Ernst Mach in Austria (15); e da Aleksandr Bogdanov in Russia (16)."
+                }
+            ]
+        },
+        {
+            "kind": "approach",
+            "id": "cibernetica del primo ordine",
+            "founders": [
+                "Wiener",
+                "McCulloch",
+                "Pitts",
+                "von Neumann"
+            ],
+            "contents": [
+                {
+                    "line": "Studiava le analogie tra i sistemi di controllo e di comunicazione (kybernès, in greco antico, è il timoniere) nelle macchine e nei sistemi viventi."
+                }
+            ]
+        },
+        {
+            "kind": "approach",
+            "id": "cibernetica del secondo ordine",
+            "founders": [
+                "Foerster"
+            ],
+            "contents": [
+                {
+                    "line": "inventata da von Foerster e altri scienziati e ricercatori negli anni Settanta, doveva essere la cibernetica dei sistemi viventi capaci di guardare se stessi, di osservare le proprie osservazioni. Heinz von Foerster prese a prestito concetti e paradigmi che si stavano sviluppando in biologia, in matematica, in fisica come quello di auto-poiesi, ideato da Humberto Maturana e Francisco Varela per distinguere i viventi dai non viventi, o quello di auto-organizzazione, tipica di sistemi complessi nei quali alcuni fenomeni \"emergenti\" non possono essere previsti, in maniera riduzionistica, partendo soltanto dalla conoscenza degli elementi di base del sistema."
+                }
+            ]
+        },
+        {
+            "kind": "approach",
+            "id": "costruttivismo radicale",
+            "founders": [
+                "Foerster"
+            ]
+        },
+        {
+            "kind": "approach",
+            "id": "soggettivismo conoscitivo",
+            "contents": [
+                {
+                    "line": "un idealismo della percezione che potrebbe essere avvicinato a Berkeley. A suo giudizio esse est percipi, la realtà non esiste, né c'è qualcosa che possa dirsi oggettivo, giacché tutto ciò che è, è prodotto solo dalla percezione sensibile. Conoscere vuol dire allora \"che all'interno del sistema nervoso vengono prodotte connessioni fra differenti sensazioni\" (p. 16)."
+                },
+                {
+                    "line": "Nella nostra vita possiamo essere certi solo del fatto che il nostro organismo percepisce e decodifica stimoli sensibili e non che a provocare questi stimoli sia stato un tale o un tal'altro oggetto esterno. E poiché le sensazioni cambiano non è possibile neanche parlare degli oggetti da esse rivelati come se fossero degli enti stabili ed immutabili. Gli oggetti sono in continuo divenire. È chiaro, quindi, che una volta che si supponga che il segreto della conoscenza sia la percezione di ogni singolo soggetto, ci si trova in difficoltà nel poter dimostrare in che modo allora gli uomini riescono ad avere, e a comunicarsele a vicenda, opinioni e concezioni comuni sul mondo."
+                }
+            ]
+        },
+        {
+            "kind": "approach",
+            "id": "costruttivismo",
+            "founders": [
+                "Shannon"
+            ]
+        },
+        {
+            "kind": "approach",
+            "id": "interazionismo",
+            "contents": [
+                {
+                    "line": "diffuso in ambito sociologico a partire dagli anni 1930"
+                },
+                {
+                    "line": "le persone non reagiscono passivamente alla realtà; le loro azioni sono determinate dal significato che attribuiscono agli eventi, nel corso dell'esperienza e attraverso l'interazione"
+                },
+                {
+                    "line": "la mente, l'identità e le abilità di ciascun individuo hanno origine nell'interazione sociale"
+                },
+                {
+                    "line": "focalizza l’attenzione sul sistema di significati e di credenze che inducono nella persona una certa percezione della realtà, descrivendo la “cosiddetta patologia” come rigidità di tale sistema di significati."
+                },
+                {
+                    "line": "L’attenzione è posta sulle strutture narrative utilizzate per spiegare e interpretare la realtà, generate e ricalcate nelle situazioni in cui la persona vive e in riferimento alle quali costruisce l’identità."
+                }
+            ]
+        },
+        {
+            "kind": "approach",
+            "id": "costruzionismo sociale",
+            "contents": [
+                {
+                    "line": "cerca di coniugare la prospettiva costruttivista con quella interazionista"
+                },
+                {
+                    "line": "si oppone alla visione empirista della psicologia tradizionale, critica il metodo sperimentale e la ricerca di laboratorio"
+                },
+                {
+                    "line": "sostiene la priorità dei processi sociali su tutti gli altri aspetti della conoscenza"
+                },
+                {
+                    "line": "indaga i processi storico-culturali e le pratiche conversazionali grazie alle quali le persone creano la realtà, vale a dire i significati socialmente condivisi"
+                },
+                {
+                    "line": "fa del linguaggio l'oggetto principale di indagine"
+                }
+            ]
+        },
+        {
+            "kind": "approach",
+            "id": "costruttivismo"
+        },
+        {
+            "kind": "approach",
+            "id": "interazionismo"
+        },
+        {
+            "kind": "approach",
+            "id": "costruttivismo sociale",
+            "contents": [
+                {
+                    "line": "integrato la teoria dei costrutti personali (di stampo individualista) con il costruzionismo sociale (interazionista)"
+                }
+            ]
+        },
+        {
+            "kind": "approach",
+            "id": "costruzionismo sociale"
+        },
+        {
+            "kind": "approach",
+            "id": "approccio sistemico-relazionale"
+        },
+        {
+            "kind": "approach",
+            "id": "approccio narrativo",
+            "contents": [
+                {
+                    "line": "Seguendo la metafora narrativa, la nostra esperienza è costruita attraverso le storie che raccontiamo su di essa: storie multiple e polifoniche narrate - e potenzialmente narrabili - intorno ad uno stesso evento; storie sempre collocate in riferimento al posizionamento di chi osserva; storie, quindi, virtualmente ricostruibili attraverso il percorso psicoterapeutico, in modo differente da quello che alimenta il disagio, il disadattamento, la sofferenza."
+                }
+            ]
+        },
+        {
+            "kind": "approach",
+            "id": "epistemologia sistemica",
+            "founders": [
+                "Bateson"
+            ]
+        },
+        {
+            "kind": "approach",
+            "id": "associazionismo",
+            "founders": [
+                "Binet"
+            ]
+        },
+        {
+            "kind": "approach",
+            "id": "psicologia scientifica",
+            "founders": [
+                "Wundt"
+            ],
+            "contents": [
+                {
+                    "line": "l'introspezione va esercitata su contenuti psichici semplici e precisamente quelli che insorgono nella coscienza del soggetto in situazioni appropriate (quelle del laboratorio) con la somministrazione di stimoli opportunamente scelti in base alle loro proprietà fisiche."
+                },
+                {
+                    "line": "i processi psichici superiori (il pensiero, per es.) non possono essere colti dall'indagine sperimentale e Wundt ne tratterà, in un'ottica di evoluzionismo sociale e culturale, nella sua Völkerpsychologie, dove prenderà altresì in considerazione lingua, mito, costumi, ecc., sintetizzando i risultati delle indagini etnografiche, filologiche, linguistiche e storico-religiose del suo tempo."
+                }
+            ]
+        },
+        {
+            "kind": "approach",
+            "id": "parallelismo psicofisico",
+            "founders": [
+                "Wundt"
+            ],
+            "contents": [
+                {
+                    "line": "esistono due serie parallele di fenomeni, quelli fisici in generale e quelli psichici, che si rivelano all'introspezione"
+                }
+            ]
+        },
+        {
+            "kind": "approach",
+            "id": "pedagogia scientifica",
+            "founders": [
+                "Sergi"
+            ]
+        },
+        {
+            "kind": "approach",
+            "id": "antropologia pedagogica"
+        },
+        {
+            "kind": "approach",
+            "id": "pedagogia scientifica"
+        }
+    ],
+    "concepts": [
+        {
+            "kind": "concept",
+            "id": "a priori"
+        },
+        {
+            "kind": "concept",
+            "id": "trascendentale"
+        },
+        {
+            "kind": "concept",
+            "id": "appercezione trascendentale"
+        },
+        {
+            "kind": "concept",
+            "id": "homo loquens",
+            "contents": [
+                {
+                    "line": "è il punto focale della filosofia esistenziale e strutturalista"
+                }
+            ]
+        },
+        {
+            "kind": "concept",
+            "id": "enciclopedia in divenire",
+            "founders": [
+                "Vico"
+            ],
+            "contents": [
+                {
+                    "line": "un poiein precategoriale e intenzionale, che si fa coscienza emergendo dalle ombre e dall'oblio acquistando significato e finalità"
+                }
+            ]
+        },
+        {
+            "kind": "concept",
+            "id": "scienza",
+            "founders": [
+                "Vico"
+            ],
+            "contents": [
+                {
+                    "quote": {
+                        "author": null,
+                        "lines": [
+                            "la cognizione della genesi delle cose, cioè della guisa in cui si vanno facendo e ... nell'atto stesso in cui viene a conoscere codesta guisa dispone ordinatamente gli elementi della cosa conosciuta e, insieme, la fa"
+                        ]
+                    }
+                },
+                {
+                    "line": "costrette a procedere \"per analisi\", in una \"anatomia delle opere della natura\""
+                }
+            ]
+        },
+        {
+            "kind": "concept",
+            "id": "sistema",
+            "contents": [
+                {
+                    "line": "insieme di elementi in interazione, le cui proprietà non appartengono ai singoli componenti, ma sono il risultato del complesso di relazioni tra tutti i suoi elementi"
+                },
+                {
+                    "line": "ogni elemento influenza tutti gli altri e ne è allo stesso tempo influenzato"
+                }
+            ]
+        },
+        {
+            "kind": "concept",
+            "id": "contesto",
+            "contents": [
+                {
+                    "line": "complesso di circostanze entro cui emerge e si sviluppa un fenomeno"
+                }
+            ]
+        },
+        {
+            "kind": "concept",
+            "id": "feedback"
+        },
+        {
+            "kind": "concept",
+            "id": "omeostasi"
+        },
+        {
+            "kind": "concept",
+            "id": "autoregolazione",
+            "contents": [
+                {
+                    "line": "ebbe origine dai tentativi di costruire congegni meccanici (\"servomeccanismi\") in grado di sostituirsi ad attività umane che avevano lo scopo di sorvegliare un'aspetto specifico di una data situazione e di controllarlo, o governarlo, come farebbe un agente umano. Il termostato dei frigoriferi è forse l'esempio più noto. Al termostato si fa registrare una specifica temperatura limite e, se tutto funziona (incluso l'impianto di raffreddamento), il termostato poi fa sí che, nell'ambiente controllato, la temperatura non superi il valore indicato. Non è però il termostato a scegliere l'aspetto da controllare né il valore da mantenere. Questa scelta — e ciò vale per tutti i congegni cibernetici — viene fatta da un agente esterno."
+                }
+            ]
+        },
+        {
+            "kind": "concept",
+            "id": "ambiente maestro",
+            "founders": [
+                "Montessori"
+            ],
+            "contents": [
+                {
+                    "line": "un ambiente che contiene in sé gli stimoli cognitivi per gli alunni, e un insegnante non dispensatore di contenuti ma direttore dei lavori, favorisce forme di apprendimento autonomo, in cui l’attività è scelta dal bambino, che può svolgerla nel rispetto dei propri tempi di apprendimento"
+                },
+                {
+                    "line": "questo setting favorisce forme di collaborazione spontanea tra alunni e garantisce il rispetto delle differenze tra compagni, promuove forme di accettazione e allontana dalla competizione e dalla polarizzazione capace-incapace"
+                },
+                {
+                    "quote": {
+                        "author": null,
+                        "lines": [
+                            "Cominciai dunque col fare costruire un arredamento scolastico che fosse proporzionato al bambino e che rispondesse al suo bisogno di agire intelligentemente. Ho fatto costruire dei tavolini di varia forma in modo che non fossero soggetti a tremolio, ma leggerissimi (in corsivo del testo) così che due piccoli bambini di quattro anni potessero facilmente trasportarli. (…) Fa parte dell’arredamento un lavabo molto basso in modo che il piano sia accessibile a un bambino di tre o quattro anni d’età, con piani laterali, tutti bianchi e lavabili, per tenervi saponi, spazzolini e asciugamani. Le credenze sono basse, leggere e molto semplici (…). Un grande quadro a colori che riproduce la Madonna con la Seggiola di Raffaello è poi troneggiante sulle pareti e noi lo abbiamo scelto a figurare come emblema e simbolo delle “Case dei Bambini” (Montessori, 1970a, p. 51)."
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "kind": "concept",
+            "id": "ambiente naturale",
+            "founders": [
+                "Montessori"
+            ],
+            "contents": [
+                {
+                    "line": "Montessori attribuisce grande importanza al contatto tra bambino e natura"
+                }
+            ]
+        },
+        {
+            "kind": "concept",
+            "id": "ambiente sociale",
+            "founders": [
+                "Montessori"
+            ],
+            "contents": [
+                {
+                    "quote": {
+                        "author": null,
+                        "lines": [
+                            "l’ambiente dell’uomo non sia più la terra, bensì l’organizzazione sociale in se stessa, che posa su strutture economiche"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "kind": "concept",
+            "id": "nebula",
+            "founders": [
+                "Montessori"
+            ],
+            "contents": [
+                {
+                    "line": "una sorta di energia creativa atta a dirigere le costruzioni psichiche umane e che permette al bambino di evolvere le proprie strutture cognitive attraverso esperienze attive condotte nell’ambiente"
+                },
+                {
+                    "line": "vi sono specifiche nebule (correlate alle funzioni motorie, del linguaggio, ecc.), ma esse non determinano modelli di comportamento fissi e automatici ma aiutano il soggetto ad appropriarsi in forma dinamica degli elementi dell’ambiente in cui vive"
+                },
+                {
+                    "line": "è una potente metafora mutuata dall’astronomia, che la descrive come una piccola nube formata da particelle di gas, che illustra la particolare situazione del bambino appena nato, cioè quella di un organismo in possesso di potenti energie nebulose che dovranno prendere forma (Tornar, 2007)"
+                },
+                {
+                    "line": "il bambino eredita non tanto i caratteri bensì le potenzialità a formarli: gli è stata trasmessa la facoltà di parlare ma non è per eredità che impara a parlare"
+                },
+                {
+                    "line": "ciò che si eredita sono le “nebule”, ossia una sorta di energia creativa e misteriosa potenzialità, che guidano il bambino ad assorbire l’ambiente. Esse permettono l’acquisizione di modelli e comportamenti sociali attraverso una costruzione libera ed una personale e autonoma elaborazione, sulla base delle proprie esperienze di vita"
+                },
+                {
+                    "line": "alla base del concetto di nebula, rimane comunque chiaro il carattere unitario della mente, intrinsecamente dinamicità, che trasforma le strutture grazie alle esperienze attive con l’ambiente e grazie alla guida di una energia, definita horme, della quale le nebule sono modi, gradi differenziati e specializzati"
+                },
+                {
+                    "quote": {
+                        "author": "Loschi",
+                        "lines": [
+                            "alla nascita, dunque, il bambino è un embrione psichico all’interno del quale si svolgono i poteri e gli organi psichici dell’uomo. È un embrione nel quale esistono soltanto nebule, che hanno il potere di svolgersi spontaneamente, ma solo a spese dell’ambiente (Loschi, 1991, p. 81)."
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "kind": "concept",
+            "id": "periodi sensitivi",
+            "founders": [
+                "Montessori"
+            ],
+            "contents": [
+                {
+                    "line": "Durante questi momenti, l’apprendimento avviene in modo particolarmente spontaneo e vengono acquisite competenze significative con una notevole facilità e senza incontrare ostacoli particolari: il bambino risulta infatti assorbito completamente dall’attività intrapresa e pare ignorare ogni altra stimolazione ambientale, si concentra ripetendo all’infinito un compito scelto fino a quando rileva, in modo inaspettato, di possedere una nuova abilità."
+                }
+            ]
+        },
+        {
+            "kind": "concept",
+            "id": "mente assorbente",
+            "founders": [
+                "Montessori"
+            ],
+            "relatedsto": [
+                {
+                    "kind": "concept",
+                    "id": "periodi sensitivi",
+                    "opinions": [],
+                    "contents": []
+                }
+            ],
+            "contents": [
+                {
+                    "quote": {
+                        "author": null,
+                        "lines": [
+                            "Vi è nel bambino, verso qualsiasi cosa che esiste nell‘ambiente, una sensibilità assorbente, e solo con l‘osservare e assorbire l‘ambiente è possibile l‘adattamento: tale forma di attività rivela un potere subcosciente che è proprio soltanto del bambino."
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "kind": "concept",
+            "id": "piani di sviluppo",
+            "founders": [
+                "Montessori"
+            ],
+            "contents": [
+                {
+                    "line": "Montessori inquadrare lo sviluppo umano dalla nascita ai ventiquattro anni, ipotizzando il passaggio della persona attraverso quattro periodi della durata di sei anni ciascuno, definiti \"piani di sviluppo\" ai quali corrispondono altrettanti \"piani dell’educazione\""
+                },
+                {
+                    "line": "Ogni piano corrisponde ad una tappa del processo evolutivo che presenta caratteristiche e compiti specifici e, in accordo con gli studi più recenti sull’età evolutiva, possiamo constatare come fosse chiaro per Montessori che lo sviluppo procede per tappe o cicli e non a piccoli passi costanti lineari."
+                }
+            ]
+        },
+        {
+            "kind": "concept",
+            "id": "educazione cosmica",
+            "founders": [
+                "Montessori"
+            ]
+        },
+        {
+            "kind": "concept",
+            "id": "educazione dilatatrice",
+            "founders": [
+                "Montessori"
+            ]
+        }
+    ],
+    "theories": [
+        {
+            "kind": "theory",
+            "id": "teoria della informazione",
+            "founders": [
+                "Foerster",
+                "Shannon"
+            ]
+        },
+        {
+            "kind": "theory",
+            "id": "teoria dei costrutti personali"
+        },
+        {
+            "kind": "theory",
+            "id": "teoria del doppio legame",
+            "founders": [
+                "Bateson"
+            ],
+            "contents": [
+                {
+                    "line": "intende spiegare il comportamento umano, sia “normale” che “disturbato”, a partire dall'analisi dei processi comunicativi"
+                },
+                {
+                    "line": "cerca l'origine della malattia mentale in fattori relazionali"
+                },
+                {
+                    "line": "sposta l'attenzione dal singolo soggetto all'intero sistema di relazioni in cui è inserito"
+                },
+                {
+                    "line": "ha trovato applicazione in ambito clinico negli interventi di terapia familiare"
+                },
+                {
+                    "line": "non è esclusivamente una teoria della schizofrenia, sebbene il gruppo di studiosi si soffermi ad analizzare in particolar modo gli scambi comunicativi delle persone con questo tipo di disturbo"
+                }
+            ]
+        },
+        {
+            "kind": "theory",
+            "id": "I 5 assiomi della comunicazione umana"
+        },
+        {
+            "kind": "theory",
+            "id": "effetto alone",
+            "founders": [
+                "Thorndike"
+            ]
+        },
+        {
+            "kind": "theory",
+            "id": "legge dell'esercizio",
+            "founders": [
+                "Thorndike"
+            ],
+            "contents": [
+                {
+                    "line": "l'apprendimento è graduale e migliora con la ripetizione delle prove"
+                }
+            ]
+        },
+        {
+            "kind": "theory",
+            "id": "legge dell'effetto",
+            "founders": [
+                "Thorndike"
+            ],
+            "contents": [
+                {
+                    "line": "l'apprendimento avviene in funzione delle conseguenze del comportamento: azioni seguite da riduzione di \"stati di bisogno\" o ricompense tendono ad essere ripetute"
+                }
+            ]
+        },
+        {
+            "kind": "theory",
+            "id": "legge del trasferimento",
+            "founders": [
+                "Thorndike"
+            ],
+            "contents": [
+                {
+                    "line": "una risposta acquisita in una situazione verrà effettuata in altre situazioni nella misura in cui queste ultime sono simili alla prima"
+                }
+            ]
+        }
+    ],
+    "books": [
+        {
+            "id": "K-CRPura",
+            "title": "Critica della ragion pura",
+            "authors": [
+                "Kant"
+            ],
+            "reviews": [],
+            "contents": [],
+            "edition": "2"
+        },
+        {
+            "id": "De antiquissima Italorum sapientia",
+            "title": null,
+            "authors": [],
+            "reviews": [],
+            "contents": []
+        },
+        {
+            "id": "Vico's Science of Imagination",
+            "title": null,
+            "authors": [
+                "Donald Verene"
+            ],
+            "reviews": [],
+            "contents": [],
+            "edition": "Ithaca: Cornell University Press, 1981"
+        },
+        {
+            "id": "Scienza Nuova",
+            "title": null,
+            "authors": [],
+            "reviews": [],
+            "contents": [
+                {
+                    "line": "Poco dopo l'inizio della sua Scienza Nuova, Vico spiega che la mente umana giudica le cose lontane ed inaccessibili tramite ciò che le e familiare e vicino (1). La frase vichiana si riferiva alle grandi distanze nella storia, distanze di secoli e millenni. La psicologia cognitiva contemporanea, ignara di Vico, ri-inventa quell'idea, denominandola \"assimilazione\", e ne fa un principio universale, applicabile non solo a ricordi di tempi lontani nella storia delle civiltà, ma a tutto ciò che viene percepito. Anche a ciò che, nella storia dell'individuo, viene ripreso dopo un intervallo di tempo relativamente breve. Secondo questo principio, non si può ricostituire il passato se non attraverso i concetti ed i ragionamenti del presente."
+                }
+            ]
+        },
+        {
+            "id": "Come ci si inventa",
+            "title": null,
+            "authors": [],
+            "reviews": [],
+            "contents": [
+                {
+                    "line": "dedicato al racconto di \"storie, buone ragioni ed entusiasmi di due responsabili dell'eresia costruttivista\" (un libro tradotto e pubblicato in Italia dall'editore Odradek)"
+                }
+            ]
+        },
+        {
+            "id": "",
+            "title": "La verità è l'invenzione del bugiardo",
+            "authors": [],
+            "reviews": [],
+            "contents": [],
+            "edition": "Meltemi (19 ottobre 2001)"
+        },
+        {
+            "id": "",
+            "title": "Sistemi che osservano",
+            "authors": [],
+            "reviews": [],
+            "contents": [],
+            "edition": "Astrolabio Ubaldini (29 luglio 1987)"
+        },
+        {
+            "id": "",
+            "title": "Educazione ed Istruzione (Pensieri)",
+            "authors": [
+                "Sergi"
+            ],
+            "reviews": [],
+            "contents": [
+                {
+                    "line": "riassume il contenuto di lezioni e conferenze di propaganda"
+                },
+                {
+                    "line": "addita come via del rinnovamento desiderato lo studio metodico dell'educando, condotto sulla guida dell'antropologia pedagogica e della psicologia sperimentale"
+                },
+                {
+                    "quote": {
+                        "author": null,
+                        "lines": [
+                            "Da parecchi anni io combatto per un'idea che più ripenso, più ritrovo giusta e utile per l'istruzione e l'educazione umana, cioè che per aver metodi naturali e raggiungere questi fini è necessario che noi abbiamo numerose osservazioni esatte e razionali sugli uomini, e principalmente sull'infanzia nella quale si debbono porre le basi dell'educazione e della cultura."
+                        ]
+                    }
+                },
+                {
+                    "quote": {
+                        "author": null,
+                        "lines": [
+                            "Misurare la testa, la statura ecc. non significa, è vero, fare della pedagogia; ma significa seguire la via per giungervi, perché non si può educare alcuno se non lo si conosce direttamente."
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+    "articles": [],
+    "webpages": [],
+    "thesis": []
+}

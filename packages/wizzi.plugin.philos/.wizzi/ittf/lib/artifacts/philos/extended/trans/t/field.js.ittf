@@ -1,0 +1,39 @@
+$group
+
+    set functors.field
+        function
+            param parent
+            param resultObj
+            var fieldObj = createConcept(parent.wzName, "field")
+            var newitems = fillConcept(parent, resultObj, fieldObj)
+            _ resultObj.fields.push
+                @ fieldObj
+            foreach child in newitems
+                _ doitem
+                    @ child
+                    @ resultObj
+
+    function addFieldObj
+        param fieldObj
+        param resultObj
+        foreach item in resultObj.fields
+            if item.id == fieldObj.id
+                # TODO merge???
+                return
+        _ resultObj.fields.push
+            @ fieldObj
+
+    function assertFieldObj
+        param fieldId
+        param kind
+        param resultObj
+        foreach item in resultObj.fields
+            if item.id == fieldId
+                return
+        var fieldObj
+            _ createConcept
+                @ fieldId
+                @ kind
+        set fieldObj.placeholder = true
+        _ resultObj[kind+'s'].push
+            @ fieldObj

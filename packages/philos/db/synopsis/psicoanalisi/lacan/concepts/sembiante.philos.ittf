@@ -1,0 +1,13 @@
+$group
+
+    namespace lacan
+
+        concept sembiante
+        
+        concept sembiante-d-oggetto
+            quote
+                + lo psicoanalista nel contesto della cura deve essere all’altezza
+                    \b di incarnare senza cedimenti 
+                    \b quella posizione scomoda e nient’affatto spontanea di sembiante d’oggetto
+                article licitra.politica-del-sintomo-nella-nevrosi
+

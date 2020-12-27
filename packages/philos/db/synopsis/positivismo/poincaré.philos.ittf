@@ -1,0 +1,122 @@
+$group
+    author Poincaré
+        name Henri Poincaré
+        born
+            date 1854
+            place
+        died
+            date 1912
+            place
+        approach convenzionalismo
+        no-approach
+
+        Henri Poincaré contesta 
+        che si possa tracciare una distinzione netta tra fatti bruti e fatti scientifici 
+        (come aveva fatto Edouard Le Roy, discepolo di Bergson). 
+        Afferma Poincaré che 
+        
+        quote
+            + L’enunciato di un fatto è sempre verificabile e 
+                \b per la verificazione noi ricorriamo sia alla testimonianza dei nostri sensi, 
+                \b sia al ricordo di questa testimonianza. 
+                \b Ecco ciò che caratterizza propriamente un fatto.
+
+
+        Per Poincaré anche i fatti più raffinatamente scientifici godono 
+        del carattere di oggettività che si è soliti attribuire ai fatti bruti: 
+        l’enunciato di un fatto non può che essere vero o falso indipendentemente dalle nostre scelte, 
+        dalla nostra volontà 
+        poiché la verità o falsità di un fatto dipendono solo dai sensi, dall’esperienza.
+
+        Che differenza c’è allora tra i “fatti bruti” ed i “fatti scientifici”? 
+        La stessa che c’è tra l’enunciato di un fatto bruto espresso in lingua francese e in lingua tedesca. 
+        Il fatto scientifico non è che un fatto bruto tradotto in un linguaggio più comodo, 
+        che viene parlato da un numero molto meno grande di persone rispetto al francese o al tedesco volgari, 
+        lingue in cui viene enunciato il fatto bruto. 
+        Tutta la libertà dello scienziato si riduce a quella di creare delle regole di questo linguaggio, 
+        mentre resta all’esperienza rispondere alle domande formulate in questo linguaggio. 
+        “Tutto ciò che crea lo scienziato nel fatto è il linguaggio con cui lo enuncia”.
+
+        Poincaré elabora, inoltre, una concezione relazionale della realtà: 
+        non le cose, gli oggetti, gli elementi della realtà possiamo conoscere, 
+        ma le relazioni, i rapporti tra essi. 
+        La funzione fondamentale di ogni teoria fisica è proprio quella 
+        di mettere in luce dei rapporti che rimarranno di inalterato valore negli sviluppi ulteriori della scienza.  
+        E’ del tutto secondaria, invece, la funzione svolta dalle immagini con cui ci rappresentiamo gli oggetti; 
+        l’essenziale è costituito dai rapporti fra le immagini; 
+        queste cambiano, quelli permangono. 
+        Se questi rapporti ci sono noti, 
+        non importa se noi giudichiamo comodo rimpiazzare un’immagine con un’altra. 
+        Poincaré chiama questo tipo di ipotesi “indifferenti”, 
+        in quanto non influenzano i risultati (le equazioni) di una teoria; 
+        al massimo una scelta differente potrebbe solo aumentare un po’ la fatica del percorso, 
+        non il punto di arrivo.
+
+        La concezione relazionale delle verità attingibili dalla scienza 
+        fornisce un criterio per scegliere una teoria a preferenza di un’altra 
+        in quanto riesce a collegare organicamente tra loro un maggior numero di fatti, 
+        cioè riesce a mettere in risalto un maggior numero di rapporti veri. 
+        (esempio: la teoria copernicana è più vera di quella tolemaica 
+        perché l’una rivela rapporti che l’altra dissimula; 
+        il movimento diurno apparente delle stelle, 
+        il movimento diurno dei corpi celesti, 
+        l’appiattimento della terra, 
+        la rotazione del pendolo di Foucault, 
+        la rotazione dei cicloni, 
+        i venti alisei… 
+        Per il sistema tolemaico questi fenomeni non hanno tra loro alcun legame, 
+        per il sistema copernicano essi hanno la stessa causa. 
+        Dicendo che la terra gira io dico che tutti questi fenomeni hanno un rapporto intimo e questo è vero). 
+
+        Le leggi scientifiche sono dunque descrizioni di rapporti esistenti tra cose, 
+        oggetti realmente esistenti.
+
+        Per Poincaré ogni legge è ipotetica, 
+        in quanto frutto di una generalizzazione che porta dalla sperimentazione di alcuni casi singoli 
+        alla formulazione di una proposizione di carattere universale. 
+        Una verificazione completa non sarà mai possibile 
+        essendo le nostre possibilità sperimentali limitate, 
+        pertanto una legge non perderà mai il proprio carattere ipotetico. 
+        Inoltre, partendo da un numero finito di dati empirici 
+        è sempre possibile generalizzare in molti modi, 
+        cioè si riesce sempre a trovare una molteplicità di funzioni matematiche 
+        che descrivono ugualmente bene i dati a disposizione. 
+        Lo strumento metodologico che guida lo scienziato nella scelta di una funzione matematica al posto di un’altra 
+        è l’idea di semplicità; 
+        noi scegliamo tra quelle a disposizione sempre la funzione più semplice. 
+
+        Ogni legge fisica va sottoposta al controllo dell’esperienza, 
+        che potrebbe anche falsificare la legge. 
+        Poincaré distingue tra ipotesi aventi un diverso grado di solidità 
+        ed una differente funzione nel processo di falsificazione. 
+        Vi sono: 
+        1) ipotesi di provata stabilità che, 
+            pur non potendo essere considerate delle verità assolute, 
+            sono tanto degne della nostra fiducia 
+            da aver diritto ad essere abbandonate solo in casi disperati; 
+        2) ipotesi indifferenti, ovvero elementi inessenziali che non entrano nel processo di falsificazione; 
+        3) le vere generalizzazioni, sono queste che l’esperienza deve confermare o meno. 
+
+        Vi sono poi gli assiomi che sono i principi delle teorie fisiche, 
+        le proposizioni più generali. 
+        Questi hanno carattere convenzionale, 
+        sono di una certezza assoluta, 
+        non più soggetti al vaglio dell’esperienza.
+
+        Sotto l’incalzare delle scoperte rivoluzionarie di fine secolo nel campo della fisica atomica 
+        che fecero vacillare tutti i principi tradizionali, 
+        Poincaré affermò che era possibile una via indiretta di falsificazione: 
+        “Come saremo dunque avvertiti quando il 
+principio avrà raggiunto tutta l’estensione che si può legittimamente dargli? Semplicemente quando esso cessa di esserci utile, 
+cioè di farci prevedere senza sbagliare dei fenomeni nuovi. Noi saremo sicuri in tali casi che il rapporto affermato non è più reale; 
+poiché senza ciò esso sarebbe fecondo; l’esperienza senza contraddire direttamente una nuova estensione del principio, tuttavia l’avrà 
+condannata”. Poincaré afferma che dal punto di vista logico i principi messi in pericolo possono essere salvati, ma la loro 
+falsificazione indiretta si mostra nel fatto che questo salvataggio rende il principio stesso del tutto inutile per l’ulteriore 
+sviluppo della ricerca, non fecondo di nuovi suggerimenti.
+
+        Lo scienziato deve compiere ogni sforzo per salvare i principi 
+        (atteggiamento metodologico conservatore), 
+        ma tale sforzo ha un limite nella fecondità delle ipotesi che si elaborano 
+        (criterio metodologico rivoluzionario); 
+        se il salvataggio può essere fatto solo a discapito della fecondità 
+        allora non merita di essere fatto. 

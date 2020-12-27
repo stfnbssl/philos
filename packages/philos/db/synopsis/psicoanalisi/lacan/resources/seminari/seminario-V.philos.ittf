@@ -1,0 +1,37 @@
+$group
+
+    book lacan.seminario-V
+        author Lacan
+        title Seminario. Libro V. Le formazioni dell’inconscio.
+        written 1957-1958
+        edition Torino: Einaudi, 2004
+        index
+            + Le strutture freudiane dello spirito.
+            + La logica della castrazione.
+            + La significanza del fallo.
+            + La dialettica del desiderio e della domanda nella clinica e nella cura delle nevrosi.
+            + Allegati.
+            + Avvertenze.        
+        back-cover
+            + Le formazioni dell’inconscio è il seminario pronunciato da Lacan nell’anno piú fecondo del suo insegnamento. 
+                \b È la tela di fondo di alcuni dei suoi testi piú importanti pubblicati negli Scritti, 
+                \b rivelando la loro architettura e illustrandone il contesto. 
+                \b In esso prendono forma il grafo del desiderio e lo schema R. 
+                \b È proprio sul grafo del desiderio che Lacan dimostrerà l’intuizione di Freud: 
+                \b che i fenomeni dell’inconscio rispondono alla stessa struttura del motto di spirito. 
+                \b E questo perché, conscio o inconscio, l’essere umano è tale proprio a causa del suo rapporto con il simbolico. 
+                \b In questa ottica si vedrà allora che da ogni elemento immaginario Lacan farà sorgere la sua funzione simbolica. 
+                \b Simbolica ma non unicamente astratta, poiché diventa concreta in ogni vita particolare. 
+                \b Cosí la madre e il padre, ma anche l’io del bambino stesso, 
+                \b rivelano la loro funzione simbolica per cui si potrà parlare, nei loro confronti, 
+                \b non piú di bisogno, ma di domanda e di desiderio in cui il bisogno viene trasformato. 
+                \b In questa prospettiva Lacan tratteggia 
+                \b una clinica differenziale tra nevrosi e psicosi, laddove il significante paterno è forcluso, 
+                \b e una clinica differenziale tra isteria e nevrosi ossessiva 
+                \b radicata nella dialettica della domanda e del desiderio, e nel rapporto del soggetto rispetto all’Altro.
+                \b Infine tutto il seminario è percorso da quella metamorfosi che porterà 
+                \b il fallo freudiano a occupare il posto che gli spetta nell’economia soggettiva: di significante. 
+                \b Significante essenziale perché l’umano possa differenziarsi 
+                \b nella versione uomo e nella versione donna del suo essere di desiderio.
+                \b La presente edizione è condotta sul testo francese stabilito da Jacques-Alain Miller.
+

@@ -1,0 +1,21 @@
+$group
+
+    article anonimo.esistere-per-niente-la-fatticita-in-sartre
+        url https://www.riflessioni.it/angolo_filosofico/esistere-per-niente-la-fatticita-in-sartre.htm
+
+    article luzietti.il-peso-della-libertà-in-sartre
+        title Il peso della libertà in Sartre
+        url https://www.gazzettafilosofica.net/2019-1/novembre/il-peso-della-libert%C3%A0-in-sartre/
+    
+    article rovighi.l-essere-e-il-nulla-di-sartre
+        title L'essere e il nulla di Sartre
+        author Rovighi
+        written 1948
+        url https://www.jstor.org/stable/43066767?read-now=1&seq=17#page_scan_tab_contents
+
+    book sartre.l-essere-e-il-nulla
+        author Sartre
+        title L'essere e il nulla
+
+    article tortora.sartre-l-essere-e-il-nulla
+        url http://www.filosofico.net/sartre5es6erenul75la.htm

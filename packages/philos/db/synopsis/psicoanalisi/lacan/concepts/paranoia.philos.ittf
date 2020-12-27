@@ -1,0 +1,7 @@
+$group
+
+    namespace lacan
+
+        concept paranoia
+            + La paranoia a differenza della schizofrenia 
+                \b è sempre in relazione con l'alienazione immaginaria dell'io.

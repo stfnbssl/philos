@@ -1,0 +1,45 @@
+$group
+
+    namespace lacan
+
+        concept fallo
+            
+            quote
+                + Lacan sistematizzerà attorno al fallo 
+                    \b la dialettica della presenza e dell’assenza, 
+                    \b attraverso il concetto di mancanza (manque) e quello del significante (signifiant).
+                page 68
+            
+            quote
+                + Ciò che il bambino percepisce come attributo posseduto da alcuni e assente in altri
+                    \b non è il pene ma la sua rappresentazione psichica, 
+                    \b sia sotto la forma immaginaria, sia sotto la forma simbolica. 
+                    \b Parleremo quindi di fallo immaginario e di fallo simbolico.
+                page 68
+                
+            quote
+                + [..] e cioè su quella mancanza di pene della madre
+                    \b 
+
+            + Il fallo è una funzione simbolica 
+                \b che ha un ruolo essenziale 
+                \b riguardo alla corretta posizione del soggetto umano in rapporto al desiderio 
+                \b e che, nelle sue alterazioni, è all’origine dei differenti tipi di nevrosi e di perversioni. 
+            
+            + La funzione fallica occupa un posto essenziale nel destino soggettivo tanto dell’uomo che della donna, 
+                \b ed è per l’appunto ciò che, fin da subito, 
+                \b mostra che l’ordine simbolico nell’uomo si distacca dalla realtà biologica 
+                \b per imporgli la propria determinazione.
+            
+            + Freud scopre che l’essere umano, 
+                \b qualunque sia il suo sesso, 
+                \b può espletare il suo ruolo nella relazione di coppia 
+                \b solo se ha spezzato la sua identificazione immaginaria al fallo, 
+                \b solo se è stato segnato dalla castrazione, 
+                \b e l’organo può realizzare il suo fine biologico 
+                \b solo passando per quella condizione che lo innalza alla funzione di fallo simbolico.
+            
+            + Il fallo significa ciò che, nella sessualità, non può essere assunto dall’individuo, 
+                \b ciò che è non soggettivabile; 
+                \b esso connota, a questo riguardo, il difetto del soggetto, 
+                \b vale a dire che costituisce il soggetto come mancante, e nello stesso tempo come desiderante.

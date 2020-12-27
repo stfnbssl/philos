@@ -1,0 +1,16 @@
+$group
+    e field : item
+    e branch : item
+    e school : item
+    e theory : item
+    e approach : item
+    e phase : item
+    e principle : item
+    e method : item
+    e forerunnerof : item
+        tag forerunner-of
+    e againstapproach : item
+        tag against-approach
+    e contributionto : item
+        tag contribution-to
+    e application : item

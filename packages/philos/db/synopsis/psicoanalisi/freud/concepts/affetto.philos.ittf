@@ -1,0 +1,75 @@
+$group
+
+    namespace freud
+
+        concept affetto
+            title Affetto
+                de Affekt
+            + Termine ripreso nella psicanalisi dalla terminologia psicologica tedesca. 
+                \b Esso indica qualsiasi stato affettivo penoso o gradevole,vago o qualificato, 
+                \b sotto forma di scarica massiccia o di tonalità generale. 
+                \b Secondo Freud, ogni pulsione si esprime come affetto e come rappresentazione. 
+                \b L'affetto è l'espressione qualitativa soggettiva 
+                \b della quantità di energia pulsionale e delle sue variazioni.
+
+            concept importo
+                title importo d'affetto
+                    de Affektbetrag
+                alias forza pulsionale
+                alias spinta della pulsione
+                alias libido (quando è in causa la sola pulsione sessuale)
+                + fattore quantitativo postulato come sostrato dell'affetto vissuto soggettivamente, 
+                    \b per designare ciò che è invariante nelle diverse modificazioni di quest'ultimo: 
+                    \b spostamento, distacco dalla rappresentasione, trasformazioni qualitative.
+                + il termine Affektbetrag è uno di quelli con cui viene espressa l'ipotesi economica di Freud. 
+                
+                quote
+                    + Nelle funzioni psichiche, occorre differenziare qualcosa 
+                        \b (importo d'affetto, somma di eccitazioni) 
+                        \b che possieda tutte le proprietà di una quantità 
+                        \b anche se non siamo in grado di misurarla; 
+                        \b qualcosa che possa essere aumentata, diminuita, spostata, scaricata, 
+                        \b e si disponga sulle tracce mnestiche delle rappresentazioni 
+                        \b un po' come una carica elettrica sulla superficie dei corpi.
+                    book freud.neuro-psicosi-da-difesa
+
+                r-concept freud.affetto
+                    + l'affetto è in Freud la controparte qualitativa della quantità di importo d'affetto
+
+                r-concept freud.rimozione
+                    quote
+                        + [..] la liquidazione dell’ammontare affettivo, 
+                            \b che costituisce il vero e proprio compito della rimozione [..]
+                        kindle-loc 65273 
+
+            concept bloccato
+                + L'origine del sintomo isterico è cercata in un evento traumatico 
+                    \b a cui non ha potuto corrispondere una scarica adeguata (affetto bloccato).
+                + Solo se la rievocazione del ricordo provoca la reviviscenza dell'affetto 
+                    \b che gli era legato all'origine, 
+                    \b la reminiscenza acquista la sua efficacia terapeutica.
+
+            concept destino
+                + L'affetto non è necessariamente legato alla rappresentazione; 
+                    \b la loro separazione (affetto senza rappresentazione, rappresentazione senza affetto) 
+                    \b assegna a ciascuno di essi un destino diverso. 
+                + Freud indica diversi possibili destini dell'affetto.
+                
+                concept conversione
+                    + La libido (importo d'affetto di pulsione sessuale) 
+                        \b distaccata dalla rappresentazione rimossa (durante il processo della rimozione)
+                        \b è trasformata in energia di innervazione
+                        \b producendo sintomi somatici motori (es. paralisi) o sensori (es. anestesie).
+                    + la conversione dell'affetto produce quindi "isteria di conversione"
+                    + nei sintomi corporei parlano le rappresentazioni rimosse
+                        \b deformate dalla "condensazione" e dallo "spostamento"
+                
+                concept spostamento
+                    + l'affetto viene conservato e può spostarsi su un'altra rappresentazione
+                    + lo spostamento dell'affetto produce "nevrosi ossessiva"
+                
+                concept trasformazione
+                    + la trasformazione dell'affetto produce "nevrosi d'angoscia", "melanconia"
+                
+                concept repressione
+                    + non è una rimozione, non si può parlare di affetto inconscio

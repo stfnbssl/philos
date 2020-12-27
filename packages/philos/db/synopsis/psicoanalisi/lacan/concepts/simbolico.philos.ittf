@@ -1,0 +1,14 @@
+$group
+
+    namespace lacan
+
+        concept simbolico
+            + Il simbolico è il registro del linguaggio, 
+                \b un ordine sovraindividuale che anticipa la dimensione dell’immaginario. 
+                \b Il campo del simbolico è quello dell’Altro 
+                \b inteso come luogo del linguaggio e della cultura, diverso dall’altro speculare. 
+                \b Nel gruppo questa dimensione si innesta nello scarto tra narrazione e gioco, 
+                \b tra gruppo e singolo e permette l’emersione nel soggetto di un sapere insaputo.
+
+            + La via del Simbolico, è quella della domanda da rivolgere all’Altro.
+

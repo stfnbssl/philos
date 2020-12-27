@@ -1,0 +1,9 @@
+$group
+
+    namespace blanco
+
+        concept metafora
+            quote
+                + che cosa è nella sua essenza la metafora 
+                    \b se non il paragone con un fenomeno materiale, 
+                    \b e cioè un fenomeno spaziale

@@ -1,0 +1,98 @@
+$group
+
+    namespace freud
+
+        concept angoscia
+
+            quote
+                + A ciò si aggiunga che l’angoscia è il diretto contrario del desiderio, 
+                    \b che i contrari si trovano particolarmente vicini tra loro nell’associazione e, 
+                    \b come abbiamo visto, coincidono nell’inconscio;
+                kindle-page p. 5062
+            
+            quote
+                + L’angoscia è dunque, in primo luogo, un qualche cosa che si sente.
+                    \b Noi la chiamiamo uno stato affettivo, benché non sappiamo neppure che cosa sia un affetto. 
+                    \b Come sensazione, essa ha – nel modo più palese – carattere spiacevole, 
+                    \b ma ciò non esaurisce le sue qualità; 
+                    \b non possiamo chiamare angoscia ogni dispiacere.
+                    \b [..] noi avvertiamo nell’angoscia determinate sensazioni corporee, 
+                    \b che si riferiscono a organi ben precisi [..] 
+                    \b [.. mettiamo in evidenza] le sensazioni, più frequenti e distinte, 
+                    \b che interessano gli organi respiratori e il cuore.
+                    \b Esse testimoniano che innervazioni motorie, e quindi processi di scarica, 
+                    \b prendono parte al meccanismo generale dell’angoscia.
+                kindle-page 6419
+
+            quote
+                + L’angoscia si presenta dunque come la reazione alla mancanza dell’oggetto,
+                    \b e, per analogia, ci viene in mente che anche l’angoscia di evirazione
+                    \b ha come contenuto la separazione da un oggetto altamente stimato, 
+                    \b e che l’angoscia più primitiva (l’“angoscia primaria” della nascita) 
+                    \b ebbe luogo con la separazione dalla madre.
+                kindle-page 6425
+
+            quote
+                + L’angoscia è uno stato affettivo che naturalmente soltanto l’Io può percepire. 
+                    \b L’Es non può avere angoscia come l’Io: 
+                    \b non è un’organizzazione, non può giudicare situazioni di pericolo.
+                kindle-page 6429
+
+            quote
+                + Noi distinguiamo qui di bel nuovo, e con buon fondamento, i due casi: 
+                    \b [1] il primo, che nell’Es avvenga qualcosa che attivi una delle situazioni di pericolo per l’Io, 
+                    \b inducendo quest’ultimo a dare il segnale d’angoscia per evitare il pericolo; 
+                    \b [2] l’altro, che sorga nell’Es una situazione analoga al trauma della nascita, 
+                    \b per cui esso automaticamente addiviene alla reazione d’angoscia. 
+                    \b I due casi vengono ravvicinati se si osserva che 
+                    \b [2] il secondo corrisponde alla prima e originaria situazione di pericolo, 
+                    \b [1] il primo invece a una delle condizioni d’angoscia derivate in seguito da quella. 
+                    \b Oppure, con riferimento alle affezioni vere e proprie che ne provengono: 
+                    \b [2] che il secondo caso si verifica nell’etiologia delle nevrosi attuali, 
+                    \b [1] mentre il primo rimane caratteristico per l’etiologia delle psiconevrosi.
+                kindle-page 6429-6430
+
+            quote
+                + vien fatto di supporre che la condizione angosciosa della perdita d’amore 
+                    \b abbia nell’isteria una parte simile 
+                    \b a quella che la minaccia d’evirazione ha nelle fobie, 
+                    \b e l’angoscia del Super-io nella nevrosi ossessiva.
+                kindle-page 6431-6432
+
+
+            concept morale
+                title angoscia morale
+                alias angoscia sociale
+                quote
+                    + L’angoscia di evirazione si evolve in angoscia morale, in angoscia sociale. 
+                        \b Non è più così facile, ora, stabilire che cosa l’angoscia tema. 
+                        \b La formula “separazione, esclusione dall’orda” riguarda solo quella parte tardiva del Super-io 
+                        \b che si è sviluppata appoggiandosi ai modelli sociali, 
+                        \b e non il nucleo del Super-io che corrisponde all’istanza parentale introiettata. 
+                        \b Espresso più in generale, ciò che l’Io considera come un pericolo 
+                        \b e a cui risponde col segnale d’angoscia è l’ira, è la punizione del Super-io, 
+                        \b la perdita dell’amore da parte di questo.
+                    kindle-page 6428
+
+            concept di-morte
+                title angoscia di morte
+                alias angoscia delle forze del destino
+                quote
+                    + Ultima metamorfosi di tale angoscia di fronte al Super-io 
+                        \b mi è sembrata l’angoscia di fronte alla morte (o di fronte alla vita), 
+                        \b l’angoscia di fronte alla proiezione del Super-io nelle forze del destino
+                    kindle-page 6428
+
+            concept di-evirazione
+                quote
+                    + Anche la successiva trasformazione dell’angoscia, 
+                        \b l’angoscia di evirazione che compare nella fase fallica, 
+                        \b è un’angoscia di distacco ed è legata alla stessa condizione. 
+                        \b Il pericolo è qui una separazione dal genitale.
+                    kindle-page 6427
+
+            concept reale
+                alias angoscia per l'oggetto
+
+            concept nevrotica
+                alias angoscia per la libido

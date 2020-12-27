@@ -1,0 +1,7 @@
+$group
+
+    namespace freud
+
+        concept azione-specifica
+            + Azione richiesta nella realtà per scaricare l'eccitazione
+                \b di uno stimolo endogeno (pulsione) quale fame, sete, sessualità.

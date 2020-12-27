@@ -1,0 +1,14 @@
+$group
+
+    namespace lacan
+
+        concept enigma-che-vuoi
+            title Che vuoi?
+
+            quote
+                + L’Immaginario, la formazione fantasmatica, 
+                    \b è una risposta all’enigma del “Che vuoi?” 
+                    \b – “stai dicendo questo, ma cosa intendi realmente dicendo questo?” – 
+                    \b che stabilisce la posizione primordiale, 
+                    \b costitutiva del soggetto
+            book zizek.l-epidemia-dell-immaginario

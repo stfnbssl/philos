@@ -1,0 +1,29 @@
+$group
+
+    namespace sartre
+
+        concept esistenza
+
+            quote
+                + In termini filosofici, ogni oggetto ha un'essenza e un'esistenza. 
+                    \b Un'essenza, cioè un assieme costante di proprietà; 
+                    \b un'esistenza, cioè una certa presenza effettiva nel mondo. 
+                    \b Molti credono che prima venga l'essenza e poi l'esistenza... 
+                    \b Tale idea trova la sua origine nel pensiero religioso... 
+                    \b E per tutti coloro i quali credono che Dio crei gli uomini, 
+                    \b bisogna pure ch'egli l'abbia fatto riferendosi all'idea che aveva di loro. 
+                    \b Ma anche quelli che non hanno la fede 
+                    \b hanno conservato l'opinione tradizionale secondo cui 
+                    \b l'oggetto non esisteva mai se non in conformità con la sua essenza; 
+                    \b e l'intero XVIII secolo ha pensato 
+                    \b che vi era un'essenza comune per tutti gli uomini, chiamata natura umana. 
+                    \b L'esistenzialismo reputa, al contrario, che nell'uomo, e solo nell'uomo, 
+                    \b l'esistenza precede l'essenza. 
+                    \b Ciò significa semplicemente che l'uomo anzitutto è e che poi è questo o quello. 
+                    \b L'uomo deve crearsi la propria essenza.
+
+            r-concept sartre.necessità
+                quote
+                    + Dio, se esiste, è contingente
+                    book sartre.l-essere-e-il-tempo
+                    page 122

@@ -1,0 +1,18 @@
+$group
+
+    $include seminario-I
+    $include seminario-II
+    $include seminario-III
+    $include seminario-IV
+    $include seminario-V
+    $include seminario-VI
+    $include seminario-VII
+    $include seminario-VIII
+    $include seminario-X
+    $include seminario-XI
+    $include seminario-XVI
+    $include seminario-XVII
+    $include seminario-XVIII
+    $include seminario-XIX
+    $include seminario-XX
+    $include seminario-XXIII

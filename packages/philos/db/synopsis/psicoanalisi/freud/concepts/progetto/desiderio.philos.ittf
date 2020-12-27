@@ -1,0 +1,5 @@
+$group
+
+    namespace freud
+
+        concept desiderio

@@ -1,0 +1,28 @@
+$group
+
+    namespace freud
+
+        concept coazione-isterica
+            quote
+                + La coazione isterica è quindi: 
+                    \b 1) incomprensibile; 
+                    \b 2) insolubile attraverso il processo del pensiero; e 
+                    \b 3) incongrua nella sua struttura.
+                book freud.opere-complete
+                kindle-page 887
+
+        concept coazione-nevrotica-semplice
+            quote
+                + può essere contrapposta a quella isterica. 
+                    \b Per esempio: un uomo che è caduto da una carrozza ha corso pericolo, 
+                    \b e in seguito può diventargli impossibile usare questo mezzo di locomozione. 
+                    \b Tale coazione è: 
+                    \b 1) comprensibile, e infatti ne conosciamo l’origine; 
+                    \b 2) insolubile attraverso il processo del pensiero; e 
+                    \b 3) congruente, poiché l’associazione con il pericolo giustifica il legame 
+                    \b tra viaggiare in carrozza e paura.
+                + Si sarebbe inclini a considerare la coazione nevrotica come niente affatto patologica, 
+                    \b se [..] una coazione di questo genere persiste solo per un breve tempo [..]
+                    \b Quindi il persistere di una coazione è patologico e indica una nevrosi semplice.
+                book freud.opere-complete
+                kindle-page 887

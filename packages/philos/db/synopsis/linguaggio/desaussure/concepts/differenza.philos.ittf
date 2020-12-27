@@ -1,0 +1,18 @@
+$group
+
+    namespace desaussure
+
+        concept differenza
+            quote
+                + [..] la lingua è prioritariamente un sistema di differenze di elementi 
+                    \b e un sistema di opposizione di elementi.
+                    \b Tutto avviene come se la struttura del segno linguistico 
+                    \b procedesse da un “taglio” che interviene nel flusso dei suoni e dei pensieri: 
+                    quote
+                        + Si prenda il significante o il significato, 
+                            \b la lingua non comporta né delle idee né dei suoni 
+                            \b che preesistano al sistema linguistico, 
+                            \b ma soltanto delle differenze concettuali 
+                            \b e delle differenze foniche uscite da questo sistema
+                        book desaussure.corso-di-linguistica-generale
+                article dor.grafo_del_desiderio

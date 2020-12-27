@@ -1,0 +1,31 @@
+$group
+
+    namespace freud
+
+        concept traccia-mnestica
+            + lo scopo di Freud è di collocare la memoria secondo una "topica" 
+                \b e di fornire una spiegazione del suo funzionamento in termini economici (investimenti/disinvestimenti)
+            + la memoria non può risiedere nel sistema percezione-coscienza altrimenti esso
+                \b diverrebbe presto incapace di ricevere nuove eccitazioni
+                see 
+                    article freud.il-notes-magico
+            + un dato evento viene trascritto in diversi sistemi mnestici 
+            + i ricordi sono ordinati secondo diversi modi di classificazione: 
+                \b ordine cronologico, legame in catene associative, grado di accessibilità alla coscienza, ecc..
+            + tutti i sistemi mnestici sono inconsci nel senso descrittivo, 
+                \b ma le tracce del sistema Inc non sono in grado di giungere alla coscienza senza deformazioni, 
+                \b mentre i ricordi preconsci (la memoria nel senso corrente del termine) 
+                \b possono essere attualizzati in determinati comportamenti.
+            + per Freud gli eventi dei primi anni non vengono ricordati non per un difetto di fissazione, 
+                \b ma a causa della rimozione. 
+                \b In linea di principio, tutti i ricordi vengono trascritti, 
+                \b ma la loro rievocazione dipende dal modo in cui sono investiti, disinvestiti, controinvestiti. 
+                \b Questa concezione si basa sulla distinzione, 
+                \b messa in luce dall'esperienza clinica, 
+                \b tra la rappresentazione e l'importo d'affetto. 
+                quote
+                    + Nelle funzioni psichiche, bisogna distinguere qualcosa (importo d'affetto, somma di eccitazione) [...] 
+                        \b che può essere aumentato, diminuito, spostato, scaricato 
+                        \b e che si distende sulle tracce mnestiche delle rappresentazioni 
+                        \b quasi come una carica elettrica sulla superficie dei corpi.
+                    book freud.neuro-psicosi-da-difesa       

@@ -1,0 +1,13 @@
+$group
+
+    namespace sartre
+
+        concept uomo
+
+            quote
+                + L'uomo è coscienza, trascendimento continuo di sé; 
+                    \b la sua esistenza consiste in questo trascendersi continuo; 
+                    \b egli non "è" qualcosa, ma "diviene" sempre; 
+                    \b nella sua vita non esplicita un'essenza prefissata, ma la costruisce via via. 
+                    \b In tal senso, [..] l'esistenza precede l'essenza.
+                article tortora.sartre-l-essere-e-il-nulla

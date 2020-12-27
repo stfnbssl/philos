@@ -1,0 +1,16 @@
+$group
+
+    namespace klein
+
+        concept io-precoce
+            quote
+                + Ritengo che esso [l'Io] sia già presente, all'inizio della vita post-natale, 
+                    \b anche se in forma rudimentale e ancora privo di coesione. 
+                    \b Già nel primissimo periodo di vita l'Io esplica molte funzioni importanti.
+                book klein.invidia-e-gratitudine
+
+            r-concept freud.parte-inconscia-io
+                + Può darsi che questo io precoce si avvicini molto 
+                    \b a quello che Freud chiama la parte inconscia dell'io. 
+                    
+            

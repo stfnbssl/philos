@@ -1,0 +1,15 @@
+$group
+
+    namespace lacan
+
+        concept retroazione
+            + “Répondant”, letteralmente “colui che risponde, che garantisce per qualcuno”. 
+                \b Il riferimento è all’Altro a cui nella comunicazione intersoggettiva 
+                \b l’io e l’altro (la “a” minuscola definisce il loro statuto immaginario) fanno appello 
+                \b e a cui si rimettono come al Terzo, o al Testimone di verità. 
+                \b Questo (luogo dell’) Altro, che nella comunicazione intersoggettiva è sempre presupposto 
+                \b (pena il parlare a se stessi, a dei doppi speculari di sé, a dei meri sembianti), 
+                \b e che dunque garantisce che il soggetto sta parlando, 
+                \b al di là dell’immagine dell’interlocutore, 
+                \b a un “vero Altro” radicalmente sconosciuto (l’Altro che può ingannarmi, l’Altro della buona o della cattiva fede), 
+                \b è assente nel discorso delirante, in cui gli interlocutori non sono che meri riflessi speculari del soggetto.

@@ -1,0 +1,100 @@
+$group
+    function prettifyIttf
+        param mTreeData
+        param callback
+        var schema = mTreeData.schema
+        var title = mTreeData.title
+        var mTree = mTreeData.mTree
+        var item = mTreeData.ittf
+        var itemResult = {}
+        if item.children.length == 1
+            if (schema === 'json' && (item.children[0].n === '{' || item.children[0].n === '[')) ||
+                \b item.children[0].n === ittfRootFromSchema(schema) ||
+                \b ittfRootFromSchema(schema) === 'any'
+                # is already ok, has the correct root
+                set itemResult[item.n] = mTree.toIttf(item.children[0])
+                set itemResult[item.n + 'Wrapped'] = itemResult[item.n]
+            else
+                # wrap it
+                var ittfNode
+                    _ wrapperForSchema
+                        @ schema
+                foreach node in item.children
+                    _ ittfNode.children.push
+                        @ node
+                set itemResult[item.n] = mTree.toIttf(item.children[0])
+                set itemResult[item.n + 'Wrapped'] = mTree.toIttf(ittfNode)
+        else
+            # wrap them
+            var ittfNode
+                _ wrapperForSchema
+                    @ schema
+            foreach node in item.children
+                _ ittfNode.children.push
+                    @ node
+            set itemResult[item.n] = mTree.toIttf(item.children[0])
+            set itemResult[item.n + 'Wrapped'] = mTree.toIttf(ittfNode)
+        _ prettify
+            @ itemResult.ittf
+            f_cb( pretty )
+                set itemResult.ittfPretty = pretty
+                log 'prettifyIttf', itemResult
+                return
+                    _ callback
+                        @ null
+                        @ itemResult
+
+	function wrapperForSchema
+		param schema
+		if schema === 'js'
+			return
+				{
+					@ n 'module'
+					[ children
+						{
+							@ n 'kind'
+							@ v 'react'
+							[ children
+		elif schema === 'ts'
+			return
+				{
+					@ n 'module'
+					[ children
+		else
+			return
+				{
+					@ n schema
+					[ children
+
+	var schemaIttfRootMap
+		{
+            @ css 'css'
+            @ graphql 'graphql'
+            @ ittf 'any'
+            @ html 'html'
+			@ js 'module'
+            @ json '{'
+            @ md 'vtt'
+			@ scss 'scss'
+			@ svg 'svg'
+            @ ts 'module'
+			@ vtt 'vtt'
+
+	function ittfRootFromSchema
+		param schema
+		# log 'ittfRootFromSchema', schema, schemaIttfRootMap[schema]
+		return schemaIttfRootMap[schema]
+
+	var schemaPrismLanguageMap
+		{
+            @ css 'css'
+            @ graphql 'graphql'
+            @ ittf 'any'
+            @ html 'html'
+			@ js 'javascript'
+            @ json 'json'
+            @ md 'vtt'
+			@ scss 'scss'
+			@ svg 'svg'
+            @ ts 'typescript'
+			@ vtt 'vtt'

@@ -1,0 +1,21 @@
+$group
+
+    namespace lacan
+
+        concept la-cosa
+            title la Cosa
+                de das Ding
+
+            quote
+                + Che cosa vuol dire das Ding? 
+                    \b Vuol dire che la soddisfazione, 
+                    \b quella vera, quella pulsionale, la Befriedigung, 
+                    \b non si incontra né nell’immaginario, 
+                    \b né nel simbolico, 
+                    \b vuol dire che è fuori da ciò che è simbolizzato, 
+                    \b ma è piuttosto dell’ordine del reale 
+                page 16
+                book miller.i-paradigmi-del-godimento
+
+            + La Cosa riguarda il reale, eppure non è un oggetto. 
+

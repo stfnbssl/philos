@@ -1,0 +1,1243 @@
+$group
+
+    source 
+        url http://website.lacan-con-freud.it/ar/ms_il_fantasma_nella_dottrina_psicoanalitica_EAR.pdf
+        title IL FANTASMA NELLA DOTTRINA PSICOANALITICA E LA QUESTIONE DELLA FINE DELL'ANALISI
+        author Moustapha Safouan
+        
+        concept resistenza
+            + descritta nel IV capitolo degli Studi sull'isteria
+            + un fenomeno che si manifesta durante le libere associazioni e si
+                \b accresce nella misura in cui le associazioni, in apparenza senza limite, si avvicinano
+                \b ad un X che egli definisce «nucleo patogeno»; 
+                
+            Il nucleo patogeno, Freud lo ha inizialmente identificato con l'avvenimento traumatico, 
+                per riconoscervi in seguito il fantasma. 
+            
+            Secondo la sua prima concezione etiologica, l'inconscio è un aspetto secondario
+                del ricordo dell'avvenimento traumatico, in seguito alla sua rimozione; 
+                ma allora proprio la rimozione diventa un enigma. 
+                Infatti quale movente attribuirle, 
+                se non il carattere troppo penoso del ricordo in questione? 
+                Tuttavia, l'esperienza comune ci mostra che più un ricordo è penoso, 
+                più si presenta con insistenza. 
+                È stata questa l'obiezione di Breuer, che peraltro, 
+                non compromise l'adesione di Freud alla teoria della difesa.
+            
+            Procedendo sulla propria strada, Freud è stato indotto ad avanzare la seguente tesi:
+                nessun avvenimento produce un effetto traumatico senza già la mediazione di un ricordo. 
+                Di regressione in regressione, questa tesi, frutto dell'esperienza analitica, 
+                ci porterebbe ad ammettere l'esistenza di una sorta di ricordo pipistrello, 
+                un ricordo che non sarebbe l'immagine di una cosa qualunque conosciuta precedentemente 
+                e alla quale sia possibile assegnare una data. 
+            Quella tesi di Freud, dunque, conteneva in germe un'altra critica alla propria teoria. 
+            E se la concezione traumatica della nevrosi è crollata, 
+            ciononostante non ne è stata che meglio confermata l'idea di un'immagine
+            che si situerebbe in una rimozione non più secondaria, ma primaria 
+            — immagine che presenterebbe il paradosso di non potersi integrare in quella che 
+            il soggetto di solito ha di se stesso, e dunque immagine non speculare: 
+            che — come noi ci proponiamo di dimostrare — determina il fantasma. 
+            
+            Perciò, se la sede della resistenza è l'Io, dire
+            che essa aumenta proporzionalmente all'avanzata del discorso verso il fantasma, 
+            significa porre il problema di sapere che cosa perde l'Io a conoscerlo. 
+            Bisogna concepire l'Io come una struttura investita, 
+            il cui investimento consisterebbe anche in una certa ignoranza?
+            La resistenza, difatti, è stata una delle ragioni principali che hanno portato Freud
+            ad introdurre il concetto di narcisismo nel suo celebre saggio del 1914. 
+            Lo introduce facendo una serie di distinzioni:
+            
+            In primo luogo, c'è la coppia libido narcisistica - libido oggettuale.
+            In secondo luogo, dato che, nel suo ritiro dall'oggetto, la libido non arriva fino a
+                farsi inghiottire completamente nell'Io — sarebbe il caso della psicosi — 
+                ma si ferma per lo più — è il caso della nevrosi — a metà strada 
+                su oggetti che il soggetto attinge dal ricordo, 
+                è necessario distinguere tra questa libido intermedia e la libido narcisistica. 
+            A questo punto possiamo chiederci quali siano gli oggetti che il soggetto attinge, 
+                secondo Freud, nella memoria. 
+                È per esempio l'immagine del fratellino che Dora teneva per il lobo dell'orecchio mentre si succhiava il pollice.
+                Ma, come abbiamo appena fatto a proposito della regressione nei ricordi, dobbiamo chiederci: 
+                nel momento in cui l'investimento infantile era un investimento attuale, 
+                si trattava di un investimento narcisistico oppure oggettuale?
+            La questione si pone di nuovo nei termini che costituiscono la prima coppia, 
+            e la nuova distinzione sembra perdere la propria ragion d'essere. 
+            Tuttavia se il soggetto, in un amore attuale, ama l'oggetto 
+            nella misura in cui sostituisce l'oggetto di un tempo 
+            o si fonde con esso — come sostiene Freud — dobbiamo aggiungere che 
+            ciò capita all'insaputa del soggetto, il quale ama inspiegabilmente. 
+            
+            Per dei motivi che si chiariranno in seguito questa considerazione fenomenologica 
+            è sufficiente a farci definire, con Freud, «fantasmatica» la libido «intermediaria» 
+            di cui si parla qui e a distinguere la seconda coppia da quella precedente.
+
+            In terzo luogo, siccome l'Io è una struttura che non esiste da sempre, 
+            bisogna ammettere — secondo Freud — l'esistenza di un tipo di soddisfacimento delle pulsioni parziali, 
+            e dunque di una libido che sarebbe anteriore alla formazione dell'Io: 
+            la libido autoerotica. 
+            Vale a dire, notiamolo di passata, che l'auto-erotismo, 
+            contrariamente a ciò che di solito si pensa, 
+            entra in funzione quando il soggetto non è in grado di esprimere delle intenzioni, 
+            quando è assente da se stesso.
+
+            Infine, per motivi che apparentemente dipendono dal timore di una estensione junghiana della libido nell'archetipo e nell'oceanico, 
+            Freud tiene a distinguere dal narcisismo, un'energia non sessuale dell'Io.
+            A tutte queste distinzioni si aggiungono, nel seguito del saggio, 
+            quelle tra l'amore narcisistico e l'amore anaclitico o per appoggio 
+            e poi quelle tra l'ideale dell'Io e l'Io ideale.
+
+            Il rapporto tra i termini di ciascuna di queste coppie non è sempre facile da afferrare. 
+            Curiosamente, esso emerge con maggiore evidenza laddove li si è confusi al punto da considerarli intercambiabili: tra l'ideale dell'Io e l'Io ideale... Il testo di Freud
+            è inequivocabile in proposito: 
+            
+            concept freud.ideale-dell-io
+                + simbolico
+            concept freud.io-ideale
+                + immaginario
+
+            l'ideale dell'Io si presenta come un luogo di esigenze, 
+                il che significa che lo statuto e l'esistenza di questa istanza 
+                sarebbero inconcepibili senza il linguaggio; 
+                mentre l'Io ideale costituisce la forma secondo cui il soggetto appare o vuole apparire 
+                adeguato all'ideale dell'Io, appartiene cioè al registro dell'immaginario. 
+            La relazione tra le due istanze consiste in una dipendenza 
+            dell'Io ideale nei confronti dell'ideale dell'Io (ovvero dell'immaginario nei confronti dei simbolico).
+
+            Questo punto emerge con tanta più chiarezza in quanto le esigenze dell'ideale dell'Io 
+            sono spesso appagate sul piano dei fatti. 
+            Ad esempio, tale soggetto è un uomo. 
+            È un fatto... ma che non gli impedisce di cadere sotto la minaccia della domanda di essere un uomo, 
+            dunque del timore di non «essere sufficientemente uomo». 
+            La virilità invocata in risposta a una domanda come questa 
+            non potrebbe essere che una virilità fittizia, 
+            per non dire comica... anche se il timore resta un timore fondamentalmente organico.
+
+            Per quanto riguarda la scelta narcisistica e la scelta anaclitica dell'oggetto, 
+            non sembra che il loro rapporto consista nella separazione, 
+            come se si trattasse di due opposte direzioni della libido: 
+            o amo l'oggetto perché vi ritrovo me stesso, 
+            ovvero lo amo per l'aiuto che mi dà, cura o protezione. 
+            
+            Si tratterebbe piuttosto di due motivazioni dell'amore che si fondono in qualunque scelta, 
+            sebbene con una prevalenza dell'una sull'altra, 
+            che tiene dietro pressappoco alla divisione dei sessi. 
+            
+            L'uomo ama l'oggetto, non tanto perché vi ritrova se stesso, ma perché vi trova conforto. 
+            E la donna?
+            Ci si aspetta che ella ami l'uomo con tutto l'amore che nutre per se stessa. 
+            Ma non è affatto così. 
+            Freud ci dipinge un quadro dell'amore tipicamente femminile, 
+            che è precisamente quello di un essere ripiegato su se stesso, 
+            al punto di farci rievocare quelle creature che ci affascinano proprio in quanto 
+            ci offrono l'immagine di una certa pace, di sazia completezza, o di perfetta chiusura; 
+            come i bambini, oppure i gatti.
+
+            Tutti quelli, e soprattutto quelle, che hanno letto questo passo del saggio di Freud, 
+            vi hanno sospettato la «misoginia», trovando come al solito, nelle sue proteste, una prova supplementare. 
+            Diciamo più semplicemente, che si tratta della presenza in lui,
+            anche se in modo articolato, 
+            della concezione fittizia della donna veramente donna o
+            conforme alla propria natura di donna. 
+            
+            Comunque sia, l'investimento narcisistico, appare nel testo con due qualità contraddittorie: 
+            sia come movente dell'amore d'oggetto (l'uomo ama l'oggetto perché ama se stesso), 
+            sia come suo ostacolo (la donna ama troppo se stessa per amare).
+
+            Esaminiamo allora la coppia: libido narcisistica - libido oggettuale.
+            A prima vista, il rapporto è quello di una reciproca esclusione: 
+            quando l'oggetto è amato, il soggetto si sfibra e si impoverisce, 
+            giacché chi ama non ha più pensieri che per l'oggetto; 
+            se ne ha ancora uno per se stesso è per constatare la propria nullità o indegnità nei confronti del suo astro; 
+            quando, invece, è l'Io ad essere investito, c'è la megalomania, in cui l'oggetto non esiste più. 
+            Ma questa apparente esclusione, è abbastanza problematica.
+            Effettivamente, essa non dipende dalla contraddizione: 
+            non è dimostrato che ciascuno debba scegliere tra l'innamoramento più sfrenato e la megalomania. 
+            Certamente, non sarebbe possibile di contentarsi a questo punto di far appello ad un compromesso, 
+            salvo che sotto forma di comandamento destinato a portare al colmo la nostra ignoranza. 
+            Una terza soluzione sembra esclusa; ma senza che si tratti tuttavia di una relazione di contraddizione.
+
+            Questa reciproca esclusione non dipende più dalla discordia «madre di tutte le cose»; 
+            infatti non si potrebbe definire l'amore dell'oggetto, né quello dell'Io 
+            come se fosse ciascuno il difetto dell'altro, come il secco rispetto all'umido; 
+            e ancor meno potremmo parlare in questo caso di un dosaggio ottimale o di un giusto mezzo.
+
+            Si tratta di due forze ugualmente positive ma di segno contrario? 
+            Il risultato sarebbe la loro reciproca neutralizzazione, cioè un non-amore.
+            In verità, il testo di Freud non lascia dubbi sul fatto che tale esclusione 
+            dipende dalla reversibilità fondamentale della libido: 
+            la libido oggettuale si trasforma facilmente in una libido narcisistica e viceversa. 
+            E tale reversibilità a sua volta è riconducibile all'intercambiabilità dell'Io con i suoi oggetti: 
+            l'oggetto è amato, ma che deluda o che sparisca, 
+            la libido non avrà difficoltà a sostituirlo con l'Io o con un altro oggetto
+            che sarà ancora l'Io. 
+            In modo che, attenendosi a questo accoppiamento a due termini, 
+            l'oggetto si volatilizza e non lascia più sussistere altro che la libido narcisistica
+            — o viceversa l'Io investito è di per se stesso un oggetto. 
+            
+            Si può notare, di passata, a che punto Freud sia lontano, in questo saggio, 
+            dall'indirizzarci verso l'idea di un Io autonomo, padrone del rapporto con la realtà.
+
+            Ma se questa dialettica definisce per l'appunto il narcisismo, 
+            al tempo stesso rimanda a ciò che è in funzione al di là del narcisismo e, in ultima analisi, lo esige. 
+            Infatti, nell'esperienza si pone insistentemente la questione di sapere perché, e in quali condizioni, 
+            la libido a volte si lasci riversare sull'oggetto e a volte no.
+            Attualmente, sembra che il nostro legame con l'oggetto non abbia nulla 
+            della specifica fissità che gli sarebbe propria se Dio ci avesse creato uomini e donne.
+
+            Se nei mammiferi, l'odore serve come indice che segnala al maschio 
+            non solo che è alle prese con una femmina della sua stessa specie, 
+            ma anche che essa si trova in stato di disponibilità fisiologica, 
+            il meno che si possa dire, quanto a noi altri umani,
+            è che l'odor di femmina non sembra guidarci con la stessa naturalità.
+
+            In molte altre specie, è un segnale ottico che informa il maschio della presenza dell'oggetto. 
+            Tutto si svolge come se l'animale fosse equipaggiato di una «piccola immagine interiore»,
+            che, una volta incontrata fuori, scatena la cattura la cui determinazione consiste in una reazione, 
+            che serve al tempo stesso presso la femmina da segnale scatenante di un'altra reazione-segnale, 
+            e così via, in una complementarità che si perpetra fino alla fine della sequenza. 
+            Al momento della cattura iniziale, si potrebbe dire che la libido narcisistica 
+            e la libido oggettuale si congiungono armoniosamente, o si tengono la mano
+
+            Ma, se il narcisismo è una funzione immaginaria nell'essere umano — il che risulta di tutta evidenza, 
+            possiamo dire che si tratta dell'unica scoperta freudiana che raggiunge quelle della biologia —, 
+            questa funzione non porta in lui il minimo segno di una qualunque predestinazione a una fine naturale, 
+            ma, al contrario, lo conduce verso le scelte di oggetto più erratiche, 
+            più eteroclite e più «insensate» che ci siano. 
+
+            È così che l'amore di un uomo per se stesso, per ripetere un esempio di Freud, 
+            lo induce, occasionalmente, alla pederastia. 
+            Ma allora come intendere quel che viene detto di un tale uomo, 
+            cioè che «si ritrova» nei ragazzi che privilegia col suo amore? 
+            Che cosa è questo «si» che si ritrova in essi, e che cosa è questo «ritrovare»? 
+            Visto che non si tratta, evidentemente, di una corrispondenza punto per punto 
+            tra la propria immagine e quella dell'oggetto.
+            Come riferimento qualitativo, la sua immagine gli dovrebbe piuttosto evitare un errore del genere; 
+            e tuttavia è con essa che si inganna su se stesso per ritrovarsi nell'oggetto. 
+            Bisogna ammettere, dunque, che nella sua funzione di orientamento nei confronti dell'oggetto, 
+            l'immagine speculare si è ridotta in lui a ben poca cosa, 
+            precisamente all'immagine di una parte di se stesso, l'appendice del pene; 
+            e gli basta di incontrare di nuovo questa immagine parziale al di fuori di sé 
+            perché la sua libido si mobiliti. 
+            Ma per quale ragione questo condizionamento della sua vita amorosa? Perché è omosessuale?
+            È proprio la domanda a cui non potrebbe rispondere, e non a caso. 
+            Infatti, per la verità, sarebbe ancora più esatto dire che 
+            l'immagine parziale funziona in lui come un segnale in cui viene indicato per lui... che cosa? 
+            La presenza in quel luogo del suo Io, dunque dell'oggetto. 
+            Il soggetto, insomma, si è mutilato immaginariamente di una parte di se stesso 
+            per affidarle la custodia del proprio essere, per farne la prova della propria esistenza. 
+            Ma che bisogno ha di tale prova, dal momento che esiste dovunque si sposti?
+            Il fatto è che si tratta della sua esistenza non nello spazio comune, ma nell'oggetto; 
+            non in quanto oggetto immaginario o «piccolo altro», 
+            oppure ancora in quanto simile o sembiante della parte, 
+            il quale, a questo titolo, si inserisce veramente nel campo dello spazio comune; 
+            ma in quanto gli rivolge (A) un amore che resta a lui stesso inspiegabile, 
+            che è anche una domanda d'amore. 
+            
+            Ed è mutilando così l'Altro che il soggetto, 
+            identificandosi con il significante della parte di cui fantasmatizza la mancanza, 
+            è in grado di proporsi come amabile.
+            Ma non va diversamente in un amore eterosessuale. 
+            Quel che ci insegna Abraham sulle analisi delle sue pazienti ci è molto prezioso. 
+            Le une — dice — amano l'uomo di un amore che si estende su tutta la superficie dell'oggetto salvo il pene,
+            mentre le altre trattengono quest'unica parte dell'immagine dell'oggetto amato. 
+            Avrà ancor meno difficoltà a portare a compimento tale operazione l'uomo, per il quale la 
+            «mutilazione» della donna può apparire, in un certo senso, bell'e fatta.
+
+            In tutti i casi, l'amore è un amore parziale; 
+            e in tutti i casi ci troviamo su un piano in cui l'amante è coinvolto non specificamente in quanto uomo o donna, 
+            ma in quanto soggetto: o essere che parla.
+
+            Certamente, osservazioni come queste ci danno l'impressione che l'oggetto amato sia amato male o non abbastanza. 
+            Se ci si preoccupa, con Abraham, di ricercare la caratteristica di un amore sano o non nevrotico, 
+            si sarà costretti a definirlo, proprio come fa il nevrotico, come un amore che, per così dire, 
+            non tralasci una particella dell'oggetto, un amore totale. 
+            Ma si tratterà di una conclusione precipitosa: 
+            basta il fatto per cui non è provato che «parte» debba in questo caso contrapporsi a «tutto». 
+            Infatti, la contraddizione dell'amore risiede nel fatto che il soggetto, per essere amato,
+            vuole avere tutti i privilegi, il che determina le sue identificazioni narcisistiche, 
+            rifiutando di venir amato per qualcos'altro da ciò che è. 
+            
+            Ci si può domandare perché questo meccanismo non conduca il soggetto ad amare la donna,
+            in cui la parte in questione manca «naturalmente». 
+            La risposta è che l'omosessualità può avere, in un esempio del genere, 
+            il significato di una dimostrazione in atto, fatta nei confronti della donna, 
+            che si può amare un oggetto per un motivo diverso da questa parte, anche se la si ha. 
+            Ciò che sfugge al soggetto nel corso di questa complicata operazione è 
+            il fatto di essersi costituito come se fosse il fallo e non soltanto come se lo avesse.
+
+            E noi constatiamo che l'oggetto viene amato in virtù della mutilazione subita proprio da parte di questo amore: 
+            se faccio l'errore che mi porta a ingannarmi su me stesso per rintracciarmi in un possibile oggetto d'amore, 
+            è nella misura in cui lo mutilo di una parte di se stesso che divento io per lui 
+            (se il fallo, come organo, distingue l'uomo dalla donna, 
+            non li distingue come significante di ciascuno nel luogo dell'Altro). 
+            
+            Ora capiamo il vantaggio che ha chi ama a non sapere mai che cos'è come amato.
+            Parimenti, vediamo la portata decisiva del procedimento freudiano allorché 
+            disconosce nel «nucleo patogeno» il fantasma: 
+            in effetti, a partire da quel momento, non si tratta più di patologia ma di erotologia; 
+            il patogeno è l'erogeno.
+            Se l'oggetto parziale, dunque, si rivela fondare la condizione senza la quale 
+            la libido narcisistica non si lascia riversare sull'oggetto, 
+            che cosa succede nel caso in cui la forma dell'oggetto si presenta nell'economia libidica 
+            come una forma pressoché granitica che non si presta a nessuna frammentazione? 
+            
+            Dato che i nostri precedenti sviluppi ci hanno portato alla conclusione che la forma dell'oggetto 
+            è il riflesso di quella del soggetto, la stessa questione si lascia formulare in questi termini: 
+            che cosa succede quando il soggetto resta sospeso, senza attenuazioni, all'effetto di cattura
+            che esercita su di lui l'immagine in cui egli si anticipa come totalità?
+
+            In breve, che cosa succede quando il soggetto ama o vuole amare di un amore proprio totale? 
+            È a questo punto che dobbiamo esaminare più da vicino il rapporto del soggetto con l'immagine speculare.
+            Presto o tardi, che sia nell'onda o in uno specchio, questa immagine viene incontro al soggetto, 
+            il quale non manca di distinguerla improvvisamente, e direi abbastanza misteriosamente, come propria. 
+            Quali sono gli effetti di questo incontro fatale?
+            La leggenda ce lo narra: si innamora. 
+            Ma, la nostra tesi è che questo narcisismo primario 
+            — in quanto definisce il rapporto più primitivo dell'essere umano con se stesso, 
+            la sua prima alleanza per così dire, che non ha ancora nulla di un patto — 
+            è anche un difetto primario del narcisismo. 
+            Caso unico, in cui la contraddizione non solo è concepibile, 
+            ma ci fornisce la struttura stessa di quel che si tratta.
+
+            In effetti, se l'immagine gli dà un «se stesso», senza il quale non c'è neppure un «sé», 
+            contemporaneamente essa gli toglie il «se stesso» per metterlo a una distanza da lui 
+            che si può definire infinita: 
+            all'inizio ogni oggetto può aggiungersi al suo seguito, 
+            precisamente salvo quell'immagine la quale si distingue per il fatto di essere il solo oggetto 
+            che sia irrimediabilmente fuori da lui, senza essere tuttavia nient'altro che lui. 
+            
+            Quindi si rattrista di non raggiungerla, tanto da morirne. 
+            E anche questo ci narra la leggenda.
+
+            Molto fortunatamente, salvo un grave accidente di struttura, 
+            non ci arrestiamo alla riproduzione perpetua di questo primo incontro con noi stessi; 
+            non sentiamo alcuna fitta dolorosa alla vista della nostra immagine, 
+            non siamo neanche scontenti di guardarla; 
+            dimentichiamo persino la nostra alterità, di cui abbiamo (per questo motivo la dimentichiamo facilmente) 
+            un controllo abbastanza buono: possiamo farla apparire o sparire a piacimento. 
+            Del resto non facciamo di questo far apparire o sparire la nostra esclusiva occupazione. 
+            In verità a volte capita che il soggetto perda il controllo e che la sua immagine si metta a fare, 
+            per così dire, di testa sua: per esempio, lo guarda quando lui non la guarda, 
+            o non lo guarda quando lui la guarda; 
+            in breve, essa passa nel reale, trasformandosi nell'immagine del doppio. 
+            Ciò da luogo a connotazioni cliniche abbastanza rilevanti; 
+            tuttavia noi ci proponiamo di descrivere più in particolare quel che accade quando l'Io, 
+            l'oggetto princeps del mio amore, mi appare sotto i tratti di qualcun altro 
+            in quanto quest'ultimo mi appare lui stesso come se fosse colui che gode al mio posto di ciò che io sono.
+            Siccome a volte capita che un'opera d'arte, quando è contrassegnata dalla coerenza tipica del genio, 
+            ci aiuti meglio a isolare strutture che altrimenti mal si discernono nella complessità dei fatti reali, 
+            ci riferiremo al personaggio di Iefimov nel romanzo di Dostoevskij (Nitočka Nezvanov).
+
+            All'inizio della sua esistenza, lo incontriamo oscuro clarinettista in un'orchestra posseduta 
+            e reclutata da un signore musicomane.
+            Quest'ultimo, venendo un giorno a sapere dell'arrivo nel capoluogo della provincia 
+            di un celebre violinista francese, si fa un dovere di invitarlo. 
+            Qual è la sua sorpresa quando riceve una lettera in cui il francese si libera dall'invito: 
+            «Si sarebbe mostrato eccessivamente circospetto nelle sue relazioni con i personaggi 
+            che allevano a casa loro un'orchestra di musicisti; 
+            gli dispiaceva di vedere un vero talento alla mercè di un uomo incapace di apprezzarne il giusto valore; 
+            l'esempio di Iefimov, artista nato e il migliore violino, che lui avesse incontrato in Russia, 
+            era una prova evidente della verità delle sue parole. » 
+            Infatti, era noto che Iefimov si era legato di amicizia con un musicista decaduto, 
+            un vecchio italiano, e che questi gli aveva lasciato in eredità, oltre al suo vestito, 
+            un violino di un tale valore da procurare a Iefimov delle offerte generosissime, 
+            respinte con una ostinazione che provocava lo sbalordimento di tutti. 
+            Ma nessuno sapeva che l'italiano alcolizzato era uno straordinario insegnante 
+            e aveva trasmesso a Iefimov la propria arte. 
+            Iefimov non aveva rivelato il suo talento a nessuno, salvo che al visitatore straniero, 
+            e al solo scopo di ostentare la sua recriminazione di genio misconosciuto: 
+            recriminazione che, in questo caso, era una calunnia gratuita.
+            La calunnia, però, nonostante tutto gli viene perdonata dal proprietario: 
+            il quale gli propone un posto di primo violino e un salario considerevolmente più alto 
+            di quello dei suoi colleghi. 
+            Ma, Iefimov rifiuta. Che cosa vuole dunque?
+            «Signore — disse — mi potete chiedere: Zegor, che cosa desideri? Sono disposto a farti ottenere tutto. 
+            — Io, signore, non vi risponderò una parola, perché non so io stesso di che cosa ho bisogno.»
+            Frase che non promette nulla di buono, e che convince il proprietario 
+            a lasciarlo partire «verso l'indipendenza», non senza aggiungere questo consiglio: 
+            «Studia e non metterti a bere, se no rischierai di crepare dentro un fosso come il tuo italiano.»
+            Avvertimento profetico: la storia di Iefimov non sarà più altro che quella di una oziosità infinita. 
+            Arrivato a Pietroburgo, al termine di 6 anni di andirivieni, 
+            «era come obnubilato dal viaggio e non sapeva quasi lui stesso che cosa veniva a cercare in quel luogo».
+            In questa città, che voleva conquistare e dove la sua prima intenzione era di studiare, 
+            sposa una giovane vedova che ha creduto per un istante nel suo genio 
+            e alla quale non tarda ad imputare tutte le sue disgrazie, 
+            dopo aver dilapidato nel bere l'esigua fortuna per cui l'aveva sposata. 
+            Vive, o piuttosto alloggia, con lei e con sua figlia Nitočka, la narratrice, 
+            che lo ha chiamato padre prima di sapere che era il patrigno, 
+            e che gli ha consacrato un amore il cui carattere incondizionato 
+            (« ero pronta a fare tutto per lui, e Dio sa quel che avevo messo in questo tutto »), 
+            materno e imprevedibile, stupisce lei stessa; 
+            tanto più che esso contrasta con la sua sorda ostilità, o meglio la sua avversione, per la madre. 
+            Confronto fatto, senza dubbio, per stupirci: 
+            erano in effetti tali le condizioni simboliche e materiali della sua esistenza 
+            (ella notava il disaccordo fra i suoi genitori e, piccola, divideva il letto con la madre) 
+            che non poteva rifugiarsi in un amore rivolto alla madre, 
+            senza sentire la minaccia di venir trascinata nel luogo materno al di là di quel che avrebbe potuto sopportare; 
+            era dunque costretta a rivolgere all'altro genitore un amore «sublime». 
+            Del resto, lefimov le dice continuamente che la morte della madre toglierebbe l'ostacolo 
+            che gli impedisce di diventare ciò che è, ossia, «il più grande di tutti», e che, dopo questa morte, 
+            potranno vivere tutti e due insieme, senza separarsi mai. 
+            Ma in modo ben diverso si svolgerà l'incontro con il giorno promesso.
+            Una mattina, la città è in preda ad un'animazione straordinaria, 
+            una novità circola sulle bocche di tutti: S..., un violinista universalmente conosciuto, 
+            arriva per la prima volta — e forse si tratta della sua ultima apparizione in pubblico — a Pietroburgo.
+            Nulla può sostituire qui la penna di Dostoevskij per descrivere la strana agitazione che 
+            si impadronisce del nostro personaggio. Suona l'hallalì. 
+            Le sue armi abituali gli si rivoltano contro: non soltanto le frecce acuminate della sua critica 
+            non divertono più nessuno, ma ne vengono smascherati i motivi. 
+            Dopo una lunga denegazione, cede alla voglia irresistibile di andare al concerto: 
+            col biglietto che gli manda un benefattore, e dopo aver spinto, non indietreggiando di fronte a niente, 
+            la ragazzina a rubare i magri risparmi della madre.
+            Quando rientra è tardi. La moglie dorme tranquillamente. 
+            Egli tocca i tratti immobili del suo viso, e intuisce senza rendersene conto che è morta. 
+            Tremante e già annientato, tira fuori il violino, passa l'archetto e ne trae una specie di grido insopportabile, 
+            disarticolato: senza che si capisca se la disarticolazione è quella del suono o dell'infinito dolore che esprime. 
+            La figlia, anche lei, ha colto il senso sinistro dell'immobilità della madre. 
+            Tutti e due partono nella notte, e si fermano sul bordo di un canale. 
+            Incapace di serbare più a lungo l'idea che la assilla, 
+            Nitočka chiede che si chiami qualcuno «accanto a lei». 
+            Questa idea sembra sciogliere tutti i dubbi di lefimov. 
+            Approva, ordina alla figlia di andare a chiamare qualcuno e di tornare. 
+            Ma appena è partita, fugge dalla parte opposta. 
+            Poco dopo, viene fermato fuori della città, in preda ad un accesso di pazzia furiosa 
+            e condotto all'ospedale dove, due giorni dopo, muore.
+            «La verità gli aveva distrutto la ragione.»
+            Quale verità?
+            Apparentemente, la verità della visione di ciò che lui stesso è rispetto a colui che
+            era riuscito a realizzare, al suo posto, tutte le sue aspirazioni. 
+            Come se ci si potesse vedere, quali realmente si è, osservandosi da un punto di vista immaginario!
+            Certamente, è in questi termini che Dostoevskij descrive le cose ed è così che si
+            svolgono effettivamente per chiunque le osservi dall'esterno, 
+            sia che si tratti di un terzo (lettore o spettatore) sia che si tratti dello stesso soggetto: 
+            il quale non è meglio situato per cogliere le determinanti che fanno di lui ciò che è. 
+            Ma Dostoevskij non ha trascurato nulla per significarci che la verità era tutt'altra; 
+            e che, di quella verità, il suo Il fantasma nella dottrina psicoanalitica 
+            personaggio non aveva avuto mai il minimo barlume.
+            In effetti, niente è mancato a Iefimov di ciò che avrebbe dovuto permettergli di diventare quel che poteva essere. 
+            Né la libertà di disporre dei propri mezzi: non era schiavo, 
+            e poteva lasciare il proprietario quando gli sembrava giusto. 
+            Né gli stessi mezzi: aveva sia il talento che lo strumento — da cui non ha mai voluto separarsi,
+            senza tuttavia utilizzarlo se non con finalità poco chiare, 
+            in cui l'accecamento riguardo a quel che poteva diventare raggiungeva una anticipazione smisurata di se stesso:
+            e in ciò riteneva di cogliere quel che già era, e di riconoscersi quale era. 
+            E ciò che era, non era una forma puramente immaginaria: era un'immagine, sì, 
+            ma forgiata a colpi di superlativi, cioè di significanti, da una passione appassionata di questa stessa immagine 
+            e di nient'altro. 
+            Amore mortifero, poiché ciò che egli era, questa immagine idealizzata, 
+            era anche ciò, che egli non era, e a maggior ragione in quanto il suo divenire di soggetto vi si pietrificava. 
+            L'immagine in cui il soggetto si anticipa lo sfugge costantemente, al punto che rischia di acquistare, 
+            attraverso questa stessa fuga, una realtà ad essa peculiare: quella sprezzante, del doppio.
+            Dopo Nitočka Nezvanov, che ha dovuto interrompere a causa della sua deportazione in Siberia,
+            Dostoevskij ha scritto L'affittacamere e Il Sosia.
+            Per questo, non c'è neppure bisogno di un supporto materiale. 
+            Ma un tale supporto si presenta (gli è sufficiente un nome, come il famoso S..., che Iefimov non ha mai visto), 
+            un tale supporto si presenta con gli stessi attributi di cui il soggetto si è appropriato 
+            nella costruzione del suo Io, o del suo Io quale egli si amava, del suo Io ideale; 
+            e al contempo il soggetto si trova fatalmente di fronte al «nemico» che lo scaccia dal suo posto... 
+            il suo posto esclusivamente assicurato proprio da tale riferimento a una figura invidiata. 
+            
+            Ogni sondaggio sulle differenze qualitative in questo caso non fa che approfondire un'alienazione 
+            che si rivela in un «sentimento di sé» che sarebbe preferibile definire sentimento di intrusione. 
+            L'odio che immobilizza i tratti e vi si arresta, è fondamentalmente masturbatorio. 
+            Situazione che non a caso Dostoevskij, per darle intensità drammatica massima, 
+            accentua presentandoci la gloria del famoso S..., come se fosse «universalmente» riconosciuta.
+            In effetti, parlare dell'Io quale si ama, equivale a parlare dell'Io quale vuole essere amato. 
+            La sua fuga è funzione di un'altra fuga. 
+            Il personaggio che abbiamo visto prigioniero di una gloria illusoria sempre a venire, 
+            testimonia proprio attraverso questa cattura la signoria che esercita sfrenatamente su di lui 
+            il desiderio dell'Altro — e non potremo considerare a questo punto come accidentale la presenza, 
+            nel cuore dell'opera, della tematica dell'incesto. 
+            Perché tutto questo sogno, se non per uno sguardo che tutte le folle della terra non gli potrebbero concedere, 
+            e di cui egli di conseguenza non potrebbe dire: sguardo di chi? 
+            Avremmo voglia di dire che Iefimov ha ceduto a una visione di se stesso o del suo essere completamente impegnata, 
+            grazie al significante, sulla via dell'idealizzazione, senza voler sapere nulla dell'oggetto a che egli era.
+            Ma lì sfioriamo il limite di ciò che ci consente di avanzare l'opera di Dostoevskij. 
+            Anche l'errore rintracciabile nell'identificazione propriamente narcisistica con altri, 
+            non ha più nulla che ci sorprenda: se l'immagine del corpo proprio non può servirci da segno qualitativo, 
+            è per il fatto che, come luogo in cui si organizza l'idealità, essa è fatta per l'inganno.
+
+            Si pone dunque l'esigenza di una topica 
+            dove si esplicitino le relazioni secondo cui il luogo dell'Altro, o dell'essere, 
+            si articoli con lo spazio degli oggetti comuni.
+            Questa topica senza la quale non si spiega nulla dei fenomeni dell'identificazione, 
+            né del rapporto d'oggetto, è quella che Lacan ha fornito nello schema del 
+            «vaso capovolto» che studieremo più da vicino, dato che tutte le difficoltà della dottrina analitica 
+            per una formulazione corretta della fine dell'analisi, 
+            sono dovute — lo vedremo — al suo misconoscimento.
+            Una immagine è un riflesso. 
+            Tuttavia, il rapporto dell'essere umano con l'immagine del corpo proprio non è così semplice, 
+            poiché è in questa immagine che egli si unifica ovvero 
+            ottiene per la prima volta una visione unificata di se stesso 
+            che non abbandonerà mai. 
+            Questa strutturazione immaginaria è particolarmente sensibile nei fantasmi in cui 
+            il corpo si rovescia intorno all'uno o all'altro dei suoi orifizi, come un guanto. 
+            A questa mediazione immaginaria si aggiunge quella, non più unificante ma frammentante del linguaggio: 
+            quella che Freud dal 1893 ha ritrovato nel tracciato stesso dei sintomi isterici.
+            Il corpo, sebbene sia reale, non per questo si sottrae meno a ogni sequestro immediato, 
+            e l'idea di un tale sequestro non sarebbe altro che il sogno originato dalla sua stessa impossibilità. 
+            Quindi, Lacan lo rappresenta con un vaso nascosto. 
+            Tuttavia, uno specchio concavo permette di ottenere del vaso così nascosto, 
+            una immagine reale e capovolta, a condizione che l'osservatore si trovi nel campo x', y'; 
+            un supporto reale, rappresentalo da un mazzo di fiori, 
+            costituisce un supporto di adattamento che facilita la vista dell'immagine con maggiore chiarezza: 
+            fissando i fiori, lo spettatore li vedrà presi nell'incollatura dell'immagine reale del vaso nascosto (figura 1).
+            
+            Ma la relazione del soggetto con l'immagine (virtuale) del corpo proprio, 
+            rappresentata sullo schema dall'immagine reale i(a), è ugualmente una relazione mediata.
+            In effetti, supponiamo uno sguardo brutale, desoggettivizzato, che sarebbe lo
+            sguardo di nessuno oppure di qualcuno che si definisce soltanto per essere colui che guarda. 
+            Un'immagine gli apparirebbe, ma non vi vedrebbe che estraneità: quale identità vi troverebbe, 
+            dato che per ipotesi non ne ha? 
+            Lo sguardo si sostiene sempre a un significante, è lo sguardo di un soggetto già qualificato simbolicamente, 
+            che è questo o quello, sia che si tratti di uno statuto sociale sia dei dati simbolici primordiali 
+            che non difettano in nessun linguaggio, come i nomi propri, le designazioni della parentela 
+            e della differenza dei sessi, in cui il Soggetto si modella e ai quali è sensibile ben
+            prima di essere in grado di articolarli. 
+            Per esempio, è il bambino «Dick»
+            Per il momento, notiamo che l'apparizione della sua immagine è dunque una apparizione 
+            adattata all'appercezione di rappresentare qualcosa per l'Altro senza sapere che cosa; 
+            apparizione adattata al desiderio di questi, di cui egli coglie un segno e
+            che si vede.
+            Questa dissociazione, propria del soggetto che parla, tra il punto da dove guarda e il
+            punto da dove si vede, è segnalata sullo schema dalle rispettive posizioni dell'occhio
+            e dell'ideale dell'Io (I). 
+            Per rendere evidente la mediazione simbolica fornita dall'Altro, 
+            Lacan ha evocato il gesto del bambino che si gira verso la persona che lo porta, 
+            vi legge l'approvazione prima di ratificare a sua volta la propria immagine 
+            che si trovava già là. 
+            Già là, vale a dire prima della mediazione dell'Altro, la quale perciò gli sfugge;
+            rendendo possibile la pretesa di credere che avrebbe potuto nascere sotto un altro cielo, 
+            in un'altra epoca, e sarebbe stato lo stesso e — se è filosofo — avrebbe detto le stesse cose.
+            
+            Per il momento, notiamo che l'apparizione della sua immagine è dunque 
+            una apparizione adattata all'appercezione di rappresentare qualcosa per l'Altro senza sapere che cosa; 
+            apparizione adattata al desiderio di questi, di cui egli coglie un segno e che sente dunque come oscuro. 
+            Il dispositivo ottico prodotto da Lacan dopo Bouasse ha a questo punto un valore forzatamente approssimativo: 
+            il supporto dell'adattamento (a) vi figura sotto forma di un mazzo effettivo, perciò visibile, 
+            mentre noi se vogliamo restare più vicini possibile alla fenomenologia della costruzione soggettiva
+            che stiamo tracciando, faremmo meglio a rappresentarla con un punto interrogativo o
+            meglio ancora con un x, senza dubbio visibile, ma il cui valore è sconosciuto. 
+            In ciò la « qualificazione simbolica » è una de-qualificazione: «Dick è Dick» — 
+            copula ingannevole se dovesse nasconderci che tra il significante «Dick» e il suo ritorno, 
+            non c'è nulla. 
+            Per quanti significanti si accumulino, non saranno che i significanti dei suoi attributi: 
+            lui, il soggetto, resterà il subjectum. 
+            Così, è a buon diritto, che al posto dell'occhio rappresentativo dello sguardo, 
+            noi mettiamo nello spazio reale S (il soggetto barrato dal significante).
+            Se si rappresenta l'Altro adesso nelle sue funzioni di mediazione simbolica, 
+            con uno specchio piano (fig. 2), una immagine i' (a) apparirà nello spazio virtuale di questo specchio, 
+            che rappresenterà per noi l'oggetto amato.
+
+            Di un amore che è un voto. Voto non di essere amato: infatti il soggetto lo è, 
+            è anche, lo abbiamo visto, la condizione dell'assunzione della propria immagine i(a). 
+            
+            Ma da questo fatto stesso si genera un voto, per così dire, alla seconda potenza: voto
+di essere amato per... perché dunque se non per se stesso? Cioè voto di dare una ragione sufficiente a questo amore che gli è nondimeno necessario: legittimazione
+dell'indispensabile. Voto contraddittorio ma che l'oggetto, invece, realizza o sembra
+realizzare; e cioè, non solo per la sua struttura ma anche per la sua genesi, l'oggetto è
+il suo riflesso come egli si vuole, i.e.8
+Sottolineiamo, inoltre, come questo schema consenta di concepire la possibilità
+di cui dispone il soggetto (S) di braccare lo specchio A in modo da ottenere da esso
+stesso l'effetto che gli aggrada. Perché la visione di i(a), a partire da I, sia garantita,
+basta concepire questo specchio come uno specchio senza foglia o corne un vetro.
+Questo artificio accentua la sovrapposizione punto per punto dello spazio virtuale
+dello specchio sullo spazio reale, ovvero il loro mescolamento per il soggetto, che
+dunque li confonde. Il che ci consente di formulare la seguente questione: che cosa
+accade della teoria analitica quando l'analista, misconoscendo la categoria del simbolico, condivide tale confusione?
+un oggetto che include il suo essere come lo
+abbiamo appena ritrovato nell'oggetto parziale. Vediamo, tuttavia, che la verità di
+questa genesi sta nel fatto che l'amore non è se non perché è un amore inspiegabile,
+l'idealizzazione dell'oggetto, per quanto lontana la si spinga, non troverà nell'oggetto
+stesso una ragione sufficiente di questo amore. Meglio ancora, l'idealizzazione è proporzionale all'intensità che metto a non volere saper nulla di ciò che sono, dato che è
+il difetto nell'oggetto, correlativo alla mia ignoranza, che consente la mutilazione
+dell'oggetto parziale che io divento per lui, al di là dell'immagine unificata in cui
+l'«io» » trova il suo referente.
+ 8 Id est. La locuzione latina Id est, tradotta letteralmente, significa: cioè. L'espressione è utilizzata
+anche in inglese, nella forma abbreviata i.e. e viene letta "that is". [n.d.c.]
+Il fantasma nella dottrina psicoanalitica | 22
+www.lacan-con-freud.it
+IV
+Oltre alla categoria del simbolico, esistono per noi quelle del reale e dell'immaginario. Donde due possibilità per la teoria analitica: la prima, che troviamo in particolare in Anna Freud, consisterebbe nel dedurre il desiderio inconscio dal reale, o più precisamente, date le caratteristiche proprie dell'oggetto del desiderio (del quale il filosofo parla tanto più facilmente in quanto ignora tutto delle condizioni dell'esperienza in
+cui si determina), nel dedurlo da una perdita reale; la seconda, di cui Melanie Klein è
+la rappresentante più illustre, tenderebbe invece a dedurre il reale dal fantasma. Esaminiamole.
+a) Certamente Anna Freud non ignora la dipendenza dell'Io da questi tre padroni: l'Es, il Super-io, e il mondo esterno; non ignora che la dipendenza dell'Io è sinonimo della sua ignoranza: esso non sa — afferma — ciò che si muove nell'Es come
+ciò che gli richiede il Super-io; conosce appena un angolo minimo della realtà esterna.
+O meglio, A. Freud accentua la dipendenza quando sostiene che l'Io ignora persino i
+propri meccanismi di difesa; il che del resto si capisce: se li conoscesse, sarebbe al
+tempo stesso « contro » ciò che lo difende.
+Fin qui, l'Io funziona perciò, secondo lei, come un sistema di misconoscimento,
+concezione che trova conferma in base alla distinzione che A. Freud stabilisce molto
+nettamente tra la rimozione e tutti gli altri meccanismi di difesa dell'Io, i quali costituirebbero, per così dire, i diversi modi con cui cerchiamo di venire a capo di ciò che
+ci resta addosso, una volta che la rimozione ha avuto luogo.9
+Tutto ciò non impedisce che, nella condotta della cura, l'analista sia obbligato,
+secondo lei, ad appoggiarsi su questo stesso Io, nella misura in cui esso conserva una
+ 9 Cfr. A. Freud, L'lo e i meccanismi di difesa, ed. Martinelli, 1967, p. 52.
+23 | Moustapha Safouan
+www.lacan-con-freud.it
+certa corretta capacità « di auto-osservazione ». È qui in germe tutta la teoria della
+«parte sana dell'Io»; come se non fosse proprio quella parte la più coinvolta nella resistenza! Ma l'attribuzione di una capacità di autoconoscenza a una istanza caratterizzata per un altro verso come una funzione da misconoscersi, non è dovuta al caso.
+In effetti, sebbene il freudismo ci obblighi, nel modo più evidente, a distinguere
+tra il soggetto che dice la verità, ad esempio nel sogno o nel sintomo, e quello che si
+può definire l'emittente oppure il macina-parole, cioè colui che riferisce il sogno o
+confessa la propria incomprensione di fronte al sintomo — come avrebbe potuto Anna Freud trovare un altro alleato o interlocutore, quando dedica al problema del significante solo qualche riga, a proposito del simbolismo: « La conoscenza del linguaggio
+dei simboli ha, per la comprensione dell'Es, la stessa importanza che hanno le formule matematiche per la soluzione di un certo tipo di problemi. Queste formule sono
+utili nella soluzione dei problemi indipendentemente dal fatto che l'individuo conosca come esse siano state ricavate. Resta il fatto che, anche se ci aiutano a risolvere i
+problemi, esse non portano un contributo alla nostra conoscenza della scienza matematica. Allo stesso modo la traduzione dei simboli ci può rivelare i contenuti
+dell'Es, ma non ci porta in realtà ad una conoscenza più approfondita dell'individuo
+che analizziamo. »10
+Sarebbe più proficuo il confronto tra l'utilizzazione del simbolo matematico da
+parte del matematico e quella del simbolo analitico, non da parte dell'analista che
+traduce, ma del soggetto che vi si significa. Anna Freud scoprirebbe allora che, se ignorare la provenienza di un simbolo matematico (ad esempio il valore numerico della sua posizione) non ne impedisce l'applicazione corretta nella soluzione di un dato
+problema, cionondimeno la riuscita è condizionata dalla conoscenza esatta di ciò che
+tale simbolo rappresenta. Tuttavia, il simbolo analitico funziona non soltanto all'in-
+ 10 A. Freud, L'Io e i meccanismi di difesa, p. 25.
+Il fantasma nella dottrina psicoanalitica | 24
+www.lacan-con-freud.it
+saputa del soggetto, ma inoltre questa ignoranza condiziona il suo uso o la sua messa
+in gioco. Il misconoscimento del legame consustanziale tra l'Es freudiano e il significante che nulla subordina a una significazione data preliminarmente, piuttosto che
+all'intento significante del soggetto — questo misconoscimento induce Anna Freud,
+contrariamente alla sua prima tesi, a considerare l'Io come il guardiano della realtà.
+Interrogandosi sulle motivazioni della difesa, non esita allora a scrivere: « Tutti i
+metodi della difesa non hanno che uno scopo: aiutare l'Io nella sua lotta contro la vita istintuale. »11
+Infatti di che cosa si tratta, nell'Es? Qualche pagina prima, Anna Freud analizza,
+molto pertinentemente, i meccanismi di difesa di cui si serve « una paziente la quale,
+nella prima infanzia, aveva anch'essa sofferto di un'acuta invidia del pene, nel suo
+caso verso il padre. Le sue fantasie sessuali di questa fase raggiunsero il culmine con il
+desiderio di staccare con un morso il pene del padre ».
+Come se andasse da sé l'idea, di un essere che si difende contro i
+propri istinti, cioè contro ciò senza cui non potrebbe vivere, o come se l'idea di un
+istinto incompatibile con la conservazione dell'essere vivente nel campo della realtà
+non fosse una fonte di aporia!
+12
+Ma, se l'Io avesse il senso della realtà che A. Freud gli attribuisce, perché si sforzerebbe a difendere « le porte della motilità » contro una tendenza che in ogni modo
+non potrebbe superarle, impedendo un soddisfacimento che basta per l'appunto la
+realtà a rendere impossibile? Una tradizione che risale all'Antichità ci porta quasi naturalmente a fare del piacere lo scopo stesso dei nostri desideri 13
+ 11 Cfr. A. Freud, L'Io e i meccanismi di difesa, p. 68.
+− ma questa falsa
+evidenza, questa apparente saldatura ha mal resistito alla storia, e l'esperienza analiti12 Ibidem, p. 58. 13 In una recente reinterpretazione dell'edonismo, in cui procede innanzitutto attraverso la strada
+dell'analisi linguistica, J.C.B. Gosling conclude riaffermando il legame tra il piacere e il desiderio, pur
+negando che tale legame sia quello di un « poiché » come ritengono gli edonisti. Cfr. Pleasure and Desire, Clarendon-Press, Oxford, 1969.
+25 | Moustapha Safouan
+www.lacan-con-freud.it
+ca ci induce proprio a toccare i limiti dell'egemonia del principio di piacere, quando ci
+rivela che il desiderio viene favorito soltanto dalla difficoltà in cui si trova coinvolto, e
+che la difesa non è una difesa contro, ma una difesa del desiderio, il quale non dura
+se non in quanto ignorato, cioè rimosso, anche se questa « difesa » dovesse esporre il
+soggetto ad una realtà divenuta fonte di dispiacere.
+Ma, cosa strana, il dispiacere, Anna Freud lo assimila, senza una più ampia riflessione, a un dispiacere per così dire, realmente reale. È così che « anche se la vita
+istintiva del piccolo Hans, dopo l'interpretazione analitica, poté riprendere il suo corso normale, i suoi processi psichici rimasero ancora disturbati per qualche tempo. Egli
+si trovava costantemente di fronte a due fatti reali con i quali non era ancora riuscito a
+riconciliarsi. Il suo corpo (il suo pene in particolare) era naturalmente di proporzioni
+più ridotte di quello del padre, che egli considerava perciò tuttora un rivale imbattibile. Sussisteva così una ragione obiettiva di invidia e di gelosia. Il bambino estendeva
+così tali sentimenti anche alla madre e alla sorella. Egli le invidiava perché, quando la
+madre si occupava dei bisogni fisici della piccola, le sentiva legate dallo stesso piacere
+mentre egli non poteva essere che un semplice spettatore. Potremmo difficilmente aspettarci da un bambino di cinque anni un'introspezione conscia e ragionata tale da
+fargli accettare con rassegnazione queste frustrazioni obiettive. »14
+Che cosa farà dunque? «Hans negò la realtà per mezzo delle sue fantasie... »15.
+Ecco quindi che le affinità dell'Io si tramutano: non sono più affinità con la realtà ma
+con la psicosi. A tal punto che l'autore non ha risposta che sia in grado di spiegare il
+fatto che: « Nel piccolo Hans... la funzione della prova della realtà era perfettamente
+intatta. »16
+ 14 Op. cit. p. 80-81.
+O meglio, ella si interdice una tale risposta nella misura in cui fa della « fa15 Op. cit. p. 81 sottolineato dall'autrice: A. Freud. 16 A. Freud, L'lo e i meccanismi di difesa, p. 89.
+Il fantasma nella dottrina psicoanalitica | 26
+www.lacan-con-freud.it
+coltà di prova della realtà »17
+Ma questo « ancora » mal nasconde il fallimento di una prospettiva il cui vizio
+fondamentale risiede nell'assimilazione del desiderio inconscio a una mancanza reale. E non per è per caso che, salvo il fantasma del « pene da mordere » a che abbiamo
+citato sopra, la quasi totalità degli esempi riferiti da Anna Freud sono esempi sia di
+aggressività, sia di invidia del pene nella donna, che di inferiorità da confronto
+nell'uomo.
+una questione di maturazione: al mistero del bambino
+non pazzo, si aggiunge quello dell'adulto che lo è. È infatti in questi termini che conclude il capitolo intitolato « La negazione in fantasia » : « Non sappiamo ancora esattamente che cosa succede nell'Io adulto allorché esso opta per una gratificazione delirante e rinuncia alla funzione costituita dalla prova della realtà. »
+Di fatto, la deduzione del desiderio a partire da una perdita reale è a rigore sostenibile, ed è stata effettivamente sostenuta, sebbene con una infinita ingegnosità, per
+quanto riguarda i desideri orale e anale. Nel primo, il seno si presenta come la mira
+ultima dei processi appetitivi, il che significa che il soggetto ne fa una condizione assoluta: cioè senza cui non si accontenta di nulla. Al punto che si può dire in questo
+contesto che in partenza, non c'è il buono e il cattivo, in partenza c'è il seno, poi c'è
+il buono e il cattivo, determinati in relazione a quell'oggetto. È certamente escluso
+che il soggetto possa esserne soddisfatto, e certamente la domanda inconscia di averlo si mescola sempre alla paura di ottenerlo, al punto che mal sopporteremmo una
+rappresentazione pittorica che facesse figurare questo oggetto alla stregua dell'oggetto comune: un paio di seni su un piatto, ad esempio. Ma lungi dal concluderne l'eterogeneità radicale dell'oggetto del desiderio rispetto all'oggetto della domanda, in altri
+termini lungi dal concludere che non è per il fatto di rivelarsi strutturato come una
+domanda che il desiderio deve venir ridotto o assimilato a una domanda in più, gli au-
+ 17 Ibid., p. 90.
+27 | Moustapha Safouan
+www.lacan-con-freud.it
+tori analitici trovano nella nozione di esigenze della civiltà, ovverosia del training, la
+chiave per spiegare bene o male la rimozione che di norma colpisce questo oggetto e,
+di conseguenza, l'orrore che ispira la sua vicinanza. Resta il problema che il predominio della fissazione orale nella vita libidica si rivela tale da indurci a domandare quale
+molla possa ancora animare un desiderio genitale quando il soggetto ha fatto del seno
+la condizione della propria felicità. Risposta: per consolarsi dello svezzamento primitivo, o per ritrovare nella relazione sessuale il paradiso perduto dell'inclusione primaria
+nel seno materno. Il fantasma orale costituirebbe, da questo punto di vista, la verità
+della suddetta relazione.
+Ci si domanda se la dottrina analitica, e pensiamo in particolare a Ferenczi, fa a
+questo proposito altro che ripetere il fantasma. Comunque, il fatto è che, quando si
+considera la mancanza soltanto sotto le spoglie di una mancanza reale, diventa impossibile spiegare il carattere eminentemente nostalgico del desiderio senza il ricorso
+ad un mito di reminiscenza.
+Le stesse considerazioni e le stesse soluzioni si ritrovano attorno alle feci: sia che
+si tratti della loro resistenza a lasciarsi articolare nella domanda — per la quale si farà
+appello alle esigenze del training — oppure dell'inspiegabilità del desiderio genitale
+quando il soggetto ha fatto di tale oggetto la condizione della felicità propria e
+dell'oggetto — inspiegabilità che verrà eliminata facendo del fantasma anale della potenza la verità della relazione sessuale. Anche qui, la teoria analitica trova una verosimiglianza nel fatto che le feci, in un dato momento dell'esistenza, si distaccano realmente dal soggetto in risposta alla domanda altrui, e fungono in questa relazione da
+condizione della concessione o del rifiuto nell'amore.
+Laddove la dottrina analitica non ha più lo scampo della perdita reale, è riguardo
+alla fase fallica: giacché, quanto al maschio, lo ha; quanto alla femmina, non ha mai
+provato la felicità di essere un maschio. È precisamente in questo punto — dove la
+riflessione psicoanalitica dovrebbe trovare l'occasione di riesaminarsi analizzando cri-
+Il fantasma nella dottrina psicoanalitica | 28
+www.lacan-con-freud.it
+ticamente le categorie in base a cui si orienta — che tutto si spiega molto più facilmente: dato che la femmina è privata realmente del pene, come sorprendersi se invidia il maschio, e come stupirsi se quest'ultimo invidia il pene più grande del suo
+compagno o di suo padre?
+Per degli autori che si attengono ad una opposizione che non è un'opposizione
+tra un principio di piacere e un principio di realtà (come se Freud non avesse parlato
+di un al di là!), il desiderio fallico viene ricondotto così a una differenza reale, e al
+contempo si lascia assimilare, sia per la femmina che per il maschio, a una castrazione dello stesso ordine. Tuttavia, così facendo, verranno confusi desiderio e sintomo;
+come sperare allora di modificare quest'ultimo, quando gli verrà data la cauzione di
+un tale fondamento?
+Di fatto, Anna Freud non esita, nelle sue interpretazioni, a basarsi su inferiorità
+reali, ovvero a far valere la propria superiorità. È così che mette insieme nel capitolo
+intitolato « Limitazioni dell'Io », gli esempi di inibizione scolare che attribuisce all'incapacità di sopportare il confronto, mentre Melanie Klein, con una veracità clinica ben
+più alta, attribuisce tale inibizione all'interferenza di quel che chiama « un piacere
+primario ». Ma l'inevitabile limitazione di un'azione che adatta al sintomo il punto di
+vista stesso del soggetto che ne soffre, emergerà più chiaramente se esaminiamo non
+l'analisi che fa Anna Freud degli esempi succinti della propria esperienza, ma di un'opera conosciuta da tutti, Cyrano de Bergerac.
+Volendoci credere, « anche per Cyrano... è molto più importante la sicurezza
+della vita di Cristiano in battaglia, che non la propria. Sarebbe un errore supporre che
+si tratti di rivalità rimossa riaffiorante sotto forma di desideri di morte che poi vengono
+allontanati. L'analisi ci mostra come sia la presenza che la mancanza di ansia siano
+piuttosto dovute all'opinione per cui il soggetto ritiene la propria vita degna di essere
+vissuta e protetta soltanto nella misura in cui essa gli offre l'occasione di soddisfare le
+sue pulsioni istintuali. Quando gli impulsi vengono trasferiti su un'altra persona è la 
+29 | Moustapha Safouan
+www.lacan-con-freud.it
+vita di questa che diventa più preziosa della propria. La morte della figura sostitutiva
+significa, come succede a Cyrano per la morte di Cristiano, la fine di ogni speranza di
+soddisfacimento. »18
+Siamo riconoscenti ad Anna Freud per aver scartato l'ipotesi di una rivalità rimossa. Effettivamente, supponendo di poter dire che Cyrano lotta « per » Rossana, è
+nel senso che si era reso strumento del beneplacito della dama. Egli lottava per risultare gradito ai suoi occhi, non per averla. La « cessione dell'oggetto » è proprio alla base
+della rivalità. Ma non è così che la intende Anna Freud. Per lei, la « abdicazione altruistica era un mezzo per superare la sua umiliazione narcisistica ».
+19 Cyrano « cosciente
+della propria bruttezza, abbandona subito ogni speranza di poterla conquistare. Invece di usare la sua indiscussa abilità di spadaccino per tenere lontani i rivali, rinuncia
+alle sue aspirazioni amorose in favore di un uomo più prestante di lui ».20
+È strano che l'autrice misconosca i passi abbastanza significativi in cui si può
+capire che Cyrano era assai fiero del suo naso. Peggio ancora, ella si mette semplicemente nell'impossibilità di stanare il fantasma, non ponendo in discussione l'appropriazione intima senza la quale non ci sarebbe cessione: Cyrano ha ceduto Rossana;
+ma l'aveva mai avuta? Si dirà che è lui che ella ama senza saperlo. Ma è precisamente
+questo il fantasma di Cyrano. Ella preferisce lui, o gli preferisce Cristiano? Questa è la
+domanda a cui lei stessa di certo non saprebbe rispondere: poiché aspira alla perfezione. Piuttosto che deluderla, egli ha preferito ingannarla. Cristiano, da parte sua, ha
+preferito la morte. E sarebbe esagerato sostenere con Anna Freud che tale morte equivale per Cyrano alla « fine di ogni sua speranza ». Infatti egli è sopravvissuto a questa
+morte abbastanza a lungo. E bisogna pur ammettere, secondo le premesse stesse
+dell'autrice, che la sua frustrazione si accompagna tuttavia a qualche gratificazione:
+ 18 A. Freud, L'Io e i meccanismi di difesa, p. 145. 19 A. Freud, L'Io e i meccanismi di difesa, p. 142. 20 A. Freud, L'Io e i meccanismi di difesa, p. 143-144.
+Il fantasma nella dottrina psicoanalitica | 30
+www.lacan-con-freud.it
+quella di vedersi amato da una Rossana che non vede chi ama. Entriamo qui in contatto con la struttura fondamentale del fantasma: che l'Altro si contempli nella mia
+immagine, a prescindere dai suoi occhi. Cioè prima di raggiungere il suo oggetto, il
+desiderio di Cyrano si è fermato a metà strada. Su quale « oggetto intermedio »?
+Nell'ora dell'agonia, Cyrano colpisce il vuoto con la spada in un'ultima battaglia
+con i suoi nemici che sono legioni: la Menzogna, i Pregiudizi, la Viltà... Poi nel momento in cui cade contando sul fatto che nessuno era mai riuscito a prenderlo, la preziosa Rossana si china su di lui, gli bacia la fronte e gli chiede: Cos'è?... Certo non si
+aspettava la risposta: « Il mio pennacchio! »
+Come potrebbero degli analisti, davvero non informati meglio di lei su ciò che
+comporta l'amore in occasione di uno scacco del desiderio, ritrovare quest'ultimo, in
+un oggetto che, considerandolo come reale, peserebbe meno di una piuma? Ancor
+meno sarebbero in grado di spingere il soggetto a esaminarlo.
+Tuttavia non basta restituire al fantasma un'anteriorità pressoché assoluta — e
+pensiamo in proposito a Melanie Klein — per rimettere in piedi la terapia analitica.
+b) Si rivolgono molto spesso due obiezioni alla dottrina d i Melanie Klein.
+La prima contesta la fondatezza empirica delle sue tesi sugli stadi primitivi dello
+psichismo umano e i meccanismi che li determinano, in particolare quelli della proiezione e dell'introiezione.
+La seconda fa presente che se la vita psichica avesse alle origini il carattere esclusivamente fantasmatico che le attribuisce Melanie Klein, l'essere umano si troverebbe
+nell'impossibilità di accedere ad una relazione reale.
+Esaminando la prima obiezione, sostenuta come è noto dai rappresentanti della
+Scuola di Vienna, Michael Balint scrive: « La situazione è molto imbarazzante: da un
+lato, abbiamo una teoria che rende comprensibile un considerevole numero di fenomeni tra i più importanti della mentalità infantile, ma i cui postulati fondamentali mal 
+31 | Moustapha Safouan
+www.lacan-con-freud.it
+resistono a una critica perfettamente giustificata; dall'altro lato, abbiamo una critica di
+cui difficilmente possiamo contraddire le conclusioni, ma che non ci insegna quasi
+nulla nel campo che ci interessa. »21
+Non a caso un clinico competente come Balint ritiene che non si spiega nulla o
+quasi del nostro campo senza ammettere la fondatezza delle affermazioni di Melanie
+Klein. Basta, in effetti, — egli testimonia — che una esperienza analitica sia un po'
+approfondita per constatare uno stato di cose riassumibile nel fatto che: il paziente
+domanda tutto e non accetta nulla; tanto che se si osa rispondere a una delle sue
+domande o dei suoi « modest wishes », si cade da Cariddi a Scilla. Ecco dunque l'oggetto che si trova respinto, disprezzato, proprio mentre viene rivendicato come quel
+che c'è di più prezioso: nodo gordiano in cui si impigliano Eros e Thanatos.
+È abbastanza sorprendente che Balint — le cui descrizioni cliniche hanno il merito notevole di farci toccare con mano che la conflittualità dell'oggetto è la stessa
+della domanda — non pensi tuttavia ad esaminare a fondo gli effetti di quest'ultima,
+che si manifestano, all'occorrenza, nell'insistenza di un desiderio senza oggetto o
+senza oggetto in grado di esprimersi nella domanda stessa — la quale, quindi, non
+significa più nulla. Ma è tale l'autorità indiscussa della dottrina evoluzionista sugli spiriti, che Balint si dedicherà sulla scia di tanti altri, ad elaborare la propria concezione
+dello sviluppo. E siccome la conclusione dello sviluppo viene rintracciata nella stabilizzazione di una relazione reale, e siccome « da niente non esce niente », egli dovrà
+sostenere l'esistenza dall'inizio della vita di questa relazione reale sotto forma di un
+amore primario che egli contrappone al narcisismo primario attribuito ai kleiniani. Attribuzione che si accompagna ad un malinteso. In effetti non si vede perché i kleiniani
+sarebbero degli osservatori meno buoni degli altri, perché non noterebbero l'evidenza,
+ 21 Cfr. M. Balint, Early development states of the Ego Primary object-Love, in Primary love and
+psychoanalytic technic, Tavistock Publications, Londra, pp. 78-79; [trad. it. Primi stadi di sviluppo
+dell’Io. L’amore oggettuale primario, in L’amore primario, Guaraldi, Firenze 1973, p. 125. (n.d.c.)]
+Il fantasma nella dottrina psicoanalitica | 32
+www.lacan-con-freud.it
+cioè che il bambino reagisce indubbiamente, non solo alla presenza della madre, ma
+ad ogni tipo di oggetti, ovvero all'ombra di un oggetto.
+È frequente, senz'altro, trovare negli autori kleiniani testi in appoggio della tesi di
+un narcisismo primario o più precisamente primitivo, e certamente Melanie Klein ci
+fornisce lei stessa una descrizione dell'esistenza umana alle origini secondo la quale il
+soggetto vivrebbe completamente chiuso su se stesso, il « se stesso » non essendo
+nient'altro che un ammasso di oggetti tra i più eterocliti che ci siano, una sorta di
+cantiere in cui stanno vicini gli uni agli altri, pene, vagina, seno, escrementi, ecc. Ma
+l'unica conclusione derivabile da tali scoperte, è che per quanto si possano considerare lontane nel passato le relazioni del soggetto con gli oggetti esterni, esse si rivelano
+regolate dalle sue relazioni inconsce con gli oggetti « interni »: obiettarle che l'osservazione « diretta » non conferma sue asserzioni, è il risultato di un misconoscimento
+della realtà dell'inconscio.
+Tuttavia dà apparentemente ragione alla critica di Balint — allorché afferma il carattere originario della relazione reale con l'oggetto — il fatto che quando Melanie
+Klein tenta di dilucidare i rapporti tra la realtà e il fantasma, invece di considerarli come un'interferenza strutturale o topica — ammesso che sia possibile esprimersi al riguardo —, si trova, sotto l'effetto del medesimo pregiudizio evoluzionista, a ipostatizzare retroattivamente le su scoperte, attribuendo perciò una anteriorità reale alle relazioni fantasmatiche, che ella ha colto d'altronde con un potenza d'intuizione quasi
+divinatoria.
+E siccome ella condivide anche con i propri critici la fiducia in una realtà veramente reale, questi ancor più tranquillamente le rivolgono la seconda obiezione. Infatti, parlare di una relazione con l'oggetto liberata da ogni fantasma, equivale a parlare
+di un soggetto liberato dalla dimensione dell'inconscio; l'idea di una realtà che non
+sarebbe soltanto la realtà, ma che si raddoppia per il fatto di venir definita « reale », è
+il corrispettivo della finzione di un soggetto che sarebbe il soggetto puro della cono-
+33 | Moustapha Safouan
+www.lacan-con-freud.it
+scenza. Ma dato che l'analista non dispone, più del suo paziente, di alcun criterio
+della realtà, o della realtà del reale, ma soltanto, secondo Freud, di un « segno di percezione » che si scatena altrettanto bene nell'allucinazione, è costretto a trovare questo criterio in « se stesso », l'analista. L'analisi approderà allora all'identificazione con
+lui come al momento in cui il paziente accede al reale. Ma è chiaro che in questa prospettiva l'analista non avrà nient'altro da fare, che sostenere un vuoto.
+L'esame dettagliato del pensiero di Melanie Klein darà a queste considerazioni
+sui pregiudizi che governano la teorizzazione analitica in generale la loro piena portata.
+« II bambino — ella scrive — poiché mira a distruggere gli organi (pene, vagina,
+seno) che rappresentano gli oggetti, finisce per temerli. L'angoscia lo spinge ad assimilare questi organi ad altre cose; a causa di una tale equivalenza queste cose diventano a loro volta oggetti di angoscia, e il bambino è in tal modo costretto a stabilire
+incessantemente delle nuove equazioni che costituiscono la base del suo interesse
+per i nuovi oggetti e del simbolismo stesso. »22
+In altri termini, è all'angoscia che l'essere umano strappa le sue relazioni con gli
+oggetti del mondo esterno e persino al simbolismo stesso che gli fa sostituire questi
+oggetti agli oggetti interni angoscianti. Ma, siccome l'angoscia si annuncia nell'Io, bisogna che quest'ultimo abbia in una epoca precocissima una certa capacità di sopportare l'angoscia, capacità da cui in fin dei conti dipenderebbe sia il suo ulteriore sviluppo sia la stabilizzazione delle sue relazioni primarie con gli oggetti esterni, che riceveranno in virtù di questa origine la loro coloritura fantasmatica. « A mano a mano
+che l'Io si sviluppa, si stabilisce progressivamente un'autentica relazione con la realtà
+ 22 Cfr. Melanie Klein, The importance of Symbol-Formation in the Development of the Ego, in
+Contributions to Psycho-Analysis, The Hogarth Press, London 1948; [trad. it. L’importanza della
+formazione dei simboli nello sviluppo dell’Io; in Scritti 1921 – 1958; Boringhieri, Torino 1978, pp.
+249-264.(n.d.c).]
+Il fantasma nella dottrina psicoanalitica | 34
+www.lacan-con-freud.it
+a partire da questa realtà irreale. »
+Così ci troviamo spinti ad attribuire all'Io, come condizione primaria da cui dipenderebbe tutto il seguito del suo sviluppo, una capacità o una incapacità costituzionale, vale a dire occulta, di sopportare l'angoscia. Ma questa genesi è passibile di
+un'altra critica non meno importante. L'angoscia infatti è senza dubbio all'origine di
+ogni difesa dell'Io : quando questa vacilla, irrompe l'angoscia. Ma una volta sorta,
+non c'è difesa possibile contro di essa; la caratteristica dell'angoscia è di lasciare il
+soggetto privo di risorse. Parlare di una difesa contro l'angoscia, è il risultato di una
+confusione tra l'angoscia (che non è senza oggetto, come dice Freud, il che dà a intendere che l'oggetto è oscuro) e la paura, che è sempre paura davanti a qualcosa,
+fosse anche l'ignoto. Questa confusione, che dimostra l'uso intercambiabile di questi
+due termini fatto da Melanie Klein, si fonda su un'altra.
+In effetti, facendo delle relazioni fantasmatiche la prima tappa dello sviluppo, la
+Klein assimila gli oggetti del fantasma agli oggetti comuni, da cui essi non si distinguerebbero altrimenti che come l'interno dall'esterno. Ma l'idea freudiana di una rimozione primaria comporta uno sconvolgimento non solo — come si è visto — della
+nostra concezione della patologia, ma anche un altrettanto decisivo sconvolgimento
+della nostra concezione dell'oggetto tout court. In effetti, un oggetto la cui rimozione
+non sia soltanto secondaria, è per definizione un oggetto che non è mai stato nel
+tempo, a cui è impossibile assegnare una data, di conseguenza un oggetto che non si
+potrebbe riconoscere in una cosa qualsiasi che possa presentarsi danti a noi, nello
+spazio comune; in breve un oggetto non kantiano. Perciò, definirlo « interno », vuol
+dire qualificarlo in modo improprio. E piuttosto l'oggetto più lontano che ci sia — si
+attraverseranno tempo e spazio senza incontrarlo — pur essendo il più vicino —
+giacché si trova nel discorso di cui costituisce l'obiettivo non apparente e, in tal senso, la causa.
+Gli analisti stabiliscono delle teorie dimenticando che si tratta della teoria di 
+35 | Moustapha Safouan
+www.lacan-con-freud.it
+un'esperienza di discorso, ed è questa l'origine di tutte le vicissitudini della tecnica
+analitica. A causa di una tale dimenticanza, il processo analitico sarà concepito come
+un processo di conoscenza; le differenze poggeranno soltanto sull'oggetto della conoscenza stessa.
+Secondo gli uni, sarà la realtà; Anna Freud finirà per dire alla sua paziente: « Sei
+una donna che non guarisce del fatto di essere donna », e al suo paziente: « Sei un
+uomo che non guarisce del fatto di essere, o di essere stato, un piccolo uomo. » Secondo gli altri, sarà il fantasma: ma questa conoscenza sarà tanto meno integrata dal
+soggetto, in quanto l'analista si presenta in tale prospettiva come se fosse colui che
+risponde al suo desiderio (o al suo fantasma) più caro, quello di conoscersi, come il
+contenitore della conoscenza desiderata.
+Quindi, con questa partenza in cui analizzante e analista condividono la stessa
+mistificazione, come potrà costui portare a termine l'analisi, cioè l'analisi del transfert
+positivo? Non crederà a questa fine... poiché crede a se stesso.
+L'assimilazione dell'oggetto del fantasma all'oggetto comune, con le conseguenze che comporta quanto alla pratica analitica, si riduce essa stessa, in ultima analisi, a una confusione tra il desiderio e la domanda. Tuttavia, è sufficiente esaminare
+appena un po' attentamente le equazioni kleiniane, perché emerga la loro radicale eterogeneità, dinamica quanto topica. Per quanto lontani si possano considerare gli alimenti, con la loro infinita varietà, come equivalenti del seno, questo costituisce piuttosto il limite di ogni piacere che possa apportare il nutrimento, anche celeste. Dico:
+anche celeste, in quanto la fenomenologia della pulsione orale ci dimostra che il seno
+vi funziona precisamente sia come ciò che il soggetto rifiuta, sia come ciò di cui gli è
+impossibile trovare un equivalente. A che scopo identificare una tale pulsione, se non
+a questo: « non so che cosa voglio mangiare » — e di conseguenza, qualunque sia il
+cibo che troverò sul mio tavolo o sul tavolo altrui, « non sarà adeguato ». O inoltre a
+questo: « Voglio mangiare qualcosa di buono » — e di conseguenza niente sarà ab-
+Il fantasma nella dottrina psicoanalitica | 36
+www.lacan-con-freud.it
+bastanza buono. E quando una voglia improvvisa mira a tale o a tal'altro oggetto,
+questo si rivela essere il sostituto su cui ripiega un desiderio rimasto aggrappato a ciò
+che dà origine alla voglia stessa, ma senza che tale sostituzione abbia nulla di una intercambiabilità, come farebbe pensare il termine di « equazione ». Lo stesso vale per le
+equazioni anali: l'uomo ha un bel moltiplicare le sue armi da fuoco e il suo arsenale
+balistico, sarà sempre illudendosi che potrà distruggere o penserà di distruggere con le
+proprie feci. Così noi approdiamo alla tesi inversa di quella di Melanie Klein: la moltiplicazione infinita degli oggetti comuni, caratteristica dell'essere umano, lungi dall'essere dovuta all'equazione o alla messa in equazione — che lo spingerebbe a riversare
+su questi oggetti comuni le aggressioni erotiche o il sadismo tipico delle sue relazioni
+con gli oggetti del fantasma — è dovuta piuttosto all'impossibilità di un'equazione
+del genere. Non è la prima volta che vedremo Melanie Klein accostarsi alla verità, ed
+esprimerla in modo contrario.
+Le cose sono ancora più chiare quando si tratta dei fantasmi fallici, e lo sono
+proprio grazie a ciò che Melanie Klein ci insegna, ossia che quando il soggetto si avvicina a quel che si trova nel fondo del ventre materno, vi trova il pene paterno. Noi,
+per quanto ci riguarda, le diamo completamente credito: di che cosa è testimone, infatti, l'esperienza analitica, se non dello sforzo del soggetto per dividere la coppia parentale intorno a un asse che non ha nulla a che fare con la loro realtà anatomica,
+d'altronde evidente, un asse simbolico: il fallo? Ma che cosa significa allora la constatazione di Melanie Klein se non che il soggetto ha un bell'identificarsi col fallo, non
+può trovare, cioè riconoscere, ciò a cui si identifica salvo che sotto una forma che per
+l'appunto ve lo esclude? Bisogna insistere su ciò che si verificherebbe, senza questa
+limitazione simbolica, corne dissolvimento del desiderio in una passione dell'essere la
+cui struttura stessa sarebbe frustrazione?
+Soltanto la verifica dell'esperienza clinica è in grado di mettere d'accordo le opinioni su questo punto. Perciò esamineremo bene l'osservazione che ci riferisce Mela-
+37 | Moustapha Safouan
+www.lacan-con-freud.it
+nie Klein, visto che essa vi reperisce giustamente l'illustrazione migliore della propria
+tesi.
+Si tratta di un bambino di quattro anni — « la [cui] povertà lessicale e le acquisizioni intellettuali erano al livello di un bambino dai quindici ai diciotto mesi »23 —
+che l'ha colpita per questa coincidenza: una assenza pressoché totale dell'angoscia e
+una riduzione pressoché totale della .
+Perché l'assenza dell'angoscia? Perché: « L'Io di Dick presentava una totale e
+apparentemente costituzionale incapacità a sopportare l'angoscia. »
+relazione d'oggetto. Si capisce il valore quasi esemplare di un caso come questo che probabilmente le ha ispirato la tesi: niente angoscia, quindi nessuna relazione d'oggetto.
+Tuttavia, evidentemente scontenta della risposta, ne aggiunge un'altra: « Il genitale aveva cominciato troppo presto ad avere un ruolo; ne è conseguita una identificazione prematura ed esagerata con l'oggetto, e una difesa ugualmente prematura
+contro il sadismo. »24
+E aggiunge: « L'Io aveva smesso di elaborare una vita fantasmatica e di cercare di
+stabilire qualche relazione con la realtà. »
+Ci si domanda perché, separandosi dalla propria vita fantasmatica, il soggetto
+non si trovi direttamente nella realtà reale. Del resto, nulla conferma in questo caso
+l'ipotesi di un Edipo particolarmente precoce. Tutto ciò che sappiamo al proposito, è
+che quando il soggetto aveva quattro anni, la sua balia, la cui tenerezza era l'origine
+unica di alcuni progressi che faceva, l'ha visto masturbarsi e gli ha detto che era una
+«brutta cosa».
+Noi invece sappiamo che: « Benché sia stato accudito alla perfezione, non ha
+mai ricevuto vere testimonianze di amore, infatti fin dalla nascita, la madre ha avuto
+ 23 Melanie Klein, op. cit., p. 241. 24 Si tratta di una nota tesi di Melanie Klein che l'Edipo inizi ad un'età in cui il bambino è ancora
+vicino agli stadi pregenitali, estremamente angoscianti per il sadismo che li caratterizza. Più è precoce
+l'Edipo, maggiore è l'angoscia.
+Il fantasma nella dottrina psicoanalitica | 38
+www.lacan-con-freud.it
+nei suoi riguardi un atteggiamento segnato da un'estrema angoscia. »
+E Melanie Klein aggiunge in una nota: « Un po' prima di compiere un anno, il
+bambino le sembrò anormale; un'opinione del genere può aver influito sull'atteggiamento del figlio. » Tuttavia non approfondisce ulteriormente questa ipotesi.
+Ma, per quale ragione l'estrema angoscia della madre, se dietro questo « sembrare anormale » non c'era la certezza che egli fosse anormale. E se teniamo presente
+che il divoramento è l'occupazione abituale dei mostri, questa angoscia si lascia facilmente dedurre come angoscia nella madre che il rampollo non si gettasse golosamente su di lei. Ella si angosciava in quanto le regressioni l'avevano indotta ad identificarsi con il bene supremo (das Gute). Identificazione che si lascia rintracciare in
+modo inequivocabile, nella fiducia di essere indispensabile alla vita di Dick, dove viene misconosciuto il fatto molto semplice, che il desiderio del bambino sarebbe forse
+di essere a sua volta, almeno un po' indispensabile alla vita della madre. Quindi, tutte
+le apparenti intenzioni secondo cui la madre è sottomessa al suo bene, non possono
+che accecarla di più sull'intenzione di « tappargli la bocca ». È ciò che lei ha ottenuto:
+dalle prime settimane il bambino ha boicottato il seno, e il suo sintomo più notevole
+(l'anoressia) è rimasto pressoché immutato nonostante le felici trasformazioni che la
+terapia ha per il resto ottenuto. Egli non rappresentava nulla per la madre, la cui insistenza a dargli il seno che aveva, era proporzionale al suo rifiuto di dargli il seno che
+era. È diventato infatti il bambino senza forma che Melanie Klein ci descrive, che si
+sposta come un mobile tra altri mobili.
+La condizione, che gli avrebbe permesso di riconoscersi in una immagine propria, è mancata, Egli era una bocca e nient'altro, bocca chiusa alla parola come al nutrimento. Così erano anche gli oggetti: oggetti muti, che non lo invitano a nulla, che
+non lo stimolano a nulla, ma lo lasciano in una indifferenza da cui nulla lo tira fuori...
+neanche l'assenza della madre, o della balia.
+Queste analisi ci consentono di precisare un punto. Ciò che distrugge il bambi-
+39 | Moustapha Safouan
+www.lacan-con-freud.it
+no, non è la mancanza dell'amore materno, come si ripete fin troppo: ma, per risalire
+all'origine, il fatto che la madre gli si metta davanti al posto dell'oggetto del desiderio
+dell'Altro o del suo desiderio inconscio.
+Nel suo saggio sulla sessualità femminile, Freud affronta la questione di sapere
+che cosa domanda la femmina alla madre. Questione apparentemente irrisolvibile,
+giacché la rivendicazione di costei è tanto più intensa in quanto non le viene rifiutato
+nulla, e soprattutto l'amore. Quando in lei tutto è soddisfatto, allora si mette ad « assalire » la madre con una domanda .« insensata » come questa: « Mamma, dammi
+qualcosina! »
+Siamo dunque in un vicolo cieco? Sì, salvo ad accorgerci che ciò che la femmina,
+non specificamente in quanto femmina ma in quanto soggetto, domanda alla madre,
+è proprio una risposta che strutturi il suo rapporto alla domanda stessa. Una tale risposta potrebbe essere ad esempio: « Bisogna che mi mostri questo qualcosina perché io te lo dia. » È evidente che se la bambina fosse capace di mostrare questo prezioso qualcosina, lo prenderebbe senza passare attraverso la madre. Perciò come può
+la madre dare una tale risposta (e se ne possono immaginare delle altre) se non ammette che possa esistere fuori di sé « qualcosa », cioè se lei stessa non si separa dalla
+sua primaria identificazione con la totalità? Perciò preferisce vivere la domanda ripetuta dalla figlia come una « persecuzione ». Bisogna pure che la sconfitta della parola si
+paghi con qualche disgrazia.
+Per tornare a Dick, il bambino conservava tuttavia un interesse: « Si interessava ai
+treni e alle stazioni, come alle maniglie delle porte, alle porte e all'apertura e alla chiusura di queste. » «Quando gli mostrai i giochi che avevo preparato, egli li osservò
+senza il minimo interesse. Presi un grosso treno che posi accanto a un treno più piccolo e li designai col nome di < treno di papà> e < treno di Dick >. Egli prese allora il
+treno che io avevo chiamato < Dick >, lo fece rotolare fino alla finestra e disse <stazione>. Gli ho spiegato che < la stazione è la mamma; Dick entra nella mamma> ».
+Il fantasma nella dottrina psicoanalitica | 40
+www.lacan-con-freud.it
+        
+        Notiamo che Melanie Klein ammette di appoggiarsi in queste interpretazioni sulle conoscenze acquisite, 
+        del resto, dalla lettura del simbolismo immanente ai giochi dei bambini e alle loro parole; 
+        dato che Dick non giocava più di quanto parlasse. 
+        Il che ci impedisce di considerare tali interpretazioni come una formulazione dell'inconscio di Dick. 
+        Per la verità, sarebbe lecito domandarsi anche se questo bambino aveva un inconscio. 
+        Noi saremmo, per quanto ci riguarda, propensi a vedere nel suo interesse per i treni 
+        l'immagine del suo interesse per la catena significante, 
+        costituita anch'essa da elementi discreti, come le vetture, 
+        e dove gli era necessario trovare ciò che rappresentava il nome che portava e che 
+        — secondo un'espressione di Freud — gli stava incollato come la pelle.
+
+        Ma, sebbene si sappia quali attese, a volte folli, si significhino al bambino tramite il nome, 
+        «Dick» non significava niente, poiché non si domandava niente a Dick,
+        salvo che di mangiare ed essere come gli altri. 
+        Cioè, di non essere più... lui. 
+        Non avendo altra esistenza che nella domanda di non esistere, 
+        uno dei suoi sintomi è stato di fare «esattamente il contrario di ciò che ci si aspettava da lui». 
+        Sapeva che gli si chiedeva di «mangiare», cioè di vivere, soltanto per antifrasi? 
+        Comunque, non si potrebbe trovare immagine più eloquente del fading permanente in cui si trovava, 
+        di quella di una porta che si apre per richiudersi subito.
+        Ma, attraverso le parole di Melanie Klein, «Dick» è diventato «treno». 
+        Per risposta, lui ha preso il treno, lo ha fatto andare fino alla finestra e ha detto, «stazione».
+        Risposta che costituiva già una domanda riguardo a ciò che era, visto che era quel treno. 
+        Quando Melanie Klein gli ebbe spiegato che «la stazione è la mamma; Dick entra nella mamma», 
+        «egli buttò via il treno, corse a mettersi tra la porta interna e quella esterna della stanza, 
+        si chiuse dentro dicendo <nero>25
+
+         25 Noir in franc. come Black in ingl. — la lingua di Dick — hanno il significato sia di «nero»
+         che di « buio ». La traduzione ital., in un senso o nell'altro rischia di eludere 
+         tale ambivalenza terminologica. (n.d.t.)
+
+         e riuscì subito correndo. 
+         Si mise a ripetere più volte la manovra. 
+         Gli spiegai che <è nero dentro la mamma; Dick è dentro il nero della mamma> ». 
+         Il termine «nero» pronunciato da lui ci sembra in questo caso molto più significativo del termine «mamma» 
+         introdotto da lei. 
+         Poiché dopotutto, l'inclusione nel ventre deIIa madre non è che la forma immaginaria, 
+         la metafora obbligata sotto cui noi cogliamo la nostra inclusione nel luogo dell'Altro. 
+         E quel che caratterizzava la particolare posizione del bambino, 
+         era il fatto di essere preso nel discorso della madre in un modo 
+         che non potrebbe trovare immagine migliore di quella del «nero tra due porte»: 
+         dato he egli non ha ricevuto da questo discorso nulla che fosse tale da lasciare in lui 
+         l'impronta di un ideale dell'Io.
+         Tuttavia, nel corso dello stesso scambio con Melanie Klein, questa non ha indugiato a farne, 
+         non per lei, ma, se possibile, in sé, un pene, un pene contrassegnato dall'insufficienza: 
+         un «piccolo» pene accanto a quello di papà e, in un certo senso,
+         un pene al quale si domanda di crescere. 
+         Domanda che, diventando sua, si stabilì in lui come ideale dell'Io — 
+         e noi possiamo precisare: 
+         come ideale dell'Io fallico, dato che conosciamo l'ideale dell'Io anale come domanda di bellezza 
+         e l'ideale dell'Io orale come domanda di bontà o di essere buono. 
+         Contemporaneamente venne soddisfatta la condizione di una individuazione di se stesso, 
+         individuazione che si manifesta d'improvviso, secondo il nostro schema, 
+         sotto forma dell'esistenza per lui di un oggetto, cioè — il termine non ha altri significati — 
+         di un oggetto che egli potrebbe perdere.
+
+         Un appuntamento con l'oggetto si verificò, poiché lui aspettava qualcosa. 
+         Per la prima volta, un appello angosciato si sentì tramite la sua bocca: 
+         «Mentre io gli dicevo che lui entrava nel nero di mamma — scrive Melanie Klein — ripeté due volte, 
+         col tono interrogativo: Balia?»
+         Lungi dal sottoscrivere l'affermazione di Melaine Klein secondo cui non c'era relazione d'oggetto 
+         perché non c'era angoscia, noi ci troviamo spinti a sostenere la proposizione esattamente inversa: 
+         non c’era angoscia poiché non c'era relazione d'oggetto.
+
+         Questa osservazione — che ha di miracoloso il fatto di farci assistere in un certo senso 
+         alla nascita della relazione oggettuale in un bambino 
+         — che cosa ci insegna proprio riguardo a tale nascita?
+
+         Questo: la relazione ha origine nel riconoscimento da parte dell'Altro 
+         di una iniziale insufficienza nel soggetto, 
+         la quale notiamolo, è — nel bambino — una insufficienza reale. 
+         Ma questa origine, se sfugge perfino a chi (Melanie Klein) l'ha introdotta, 
+         a maggior ragione sfuggirà all'attenzione del soggetto. 
+         Il che vuol dire che tale insufficienza iniziale sarà come nulla e non avvenuta? 
+         No, ma si trasforma, con l'instaurazione della relazione d'oggetto, 
+         in una insufficienza immaginaria che la perpetuerà: 
+         dato che l'immagine del corpo proprio non appare se non nella misura in cui 
+         cade sotto l'effetto di una domanda dell'Altro, la domanda, non di essere grande, 
+         ma di essere grande «come papà», come un terzo, 
+         una domanda per così dire già impegnata nella strada dell'idealizzazione.26
+
+         Effettivamente, l'immagine del corpo proprio non appare che menomata di ciò che rappresenta, 
+         e che il soggetto ignora; essa appare nella misura in cui sembra escludere una porzione di lui stesso, 
+         che — egli lo sa per certo — costituisce il suo diritto all'amore. 
+         Rendendolo trasparente a se stesso, essa ne fa uno sconosciuto;
+         giacché tale trasparenza lo lega ad un x che rappresenta l'enigma del desiderio dell'Altro, 
+         di cui egli afferra soltanto un segno, e che, perciò, sembra sottrarglisi, 
+         per diventare l'oggetto di una interrogazione che è anche una interrogazione su ciò che
+
+        Con tale ignoranza che è, tutto sommato, 
+        ignoranza del fatto di essere amato per ciò che ci si aspetta da lui 
+        o per ciò che gli manca e non per la sua perfezione, 
+        niente tratterrà il soggetto nei suoi sforzi di annullare questa stessa insufficienza secondo la volontà dell'Altro. 
+        Ma c'è di più.
+
+        26 A cui corrispondono le due costanti di ogni civiltà umana. che sono l'ornamento e l'abbigliamento. 
+        Vedere il bel libro di J.C. Flügel, The Psychology of Clothes, The Hogarth Press, Londra.
+
+        
+43 | Moustapha Safouan
+www.lacan-con-freud.it
+egli è. Nel corso di questo movimento, gli sfugge anche che è il significante ad operare la deduzione immaginaria nella misura in cui lo rappresenta per un altro significante futuro,27
+Il suo desiderio di sapere, desiderio cieco, che, in tal caso, si rivela essere in verità desiderio di superare la sua divisione di soggetto, non si perpetrerà che meglio, diventando desiderio vuoto, affermazione pura della propria rappresentatività. È perciò
+che la nostra esperienza ci ha insegnato a sconsigliare l'analisi a chi la domanda « soltanto per capire ».
+mentre lui, il soggetto come tale, non rappresenta, rigorosamente parlando, nulla. Ignorando ciò, nulla lo tratterrà più nell'idea di rappresentare qualche
+cosa, come dire che nulla lo tratterrà negli sforzi di conservare un'insufficienza di cui
+si alimenti anche la sua sufficienza. Infatti metterebbe alla prova tale insufficienza fino a giocare con l'idea della propria morte (l'Alto può perdermi?); non si presterebbe
+a questo gioco se non pensasse di ottenere, così, il segno atteso : quello che gli confermi di essere amato... senza mai dirgli perché.
+In tal modo ci troviamo di fronte a uno stato di cose abbastanza paradossale,
+quello che abbiamo da risolvere in ogni analisi: da un lato, il soggetto soffre di una
+insufficienza che sente al limite come una castrazione (infatti sta proprio lì l'origine
+della castrazione, intesa come effetto immaginario della presa del soggetto nel significante) tuttavia, dall'altro, tiene a questa insufficienza più di tutto. La soluzione sembra, a rigore, impossibile, se ci si ricorda l'impotenza dell'Altro a rispondere al desiderio di sapere, che, del resto, lo si è visto, è ugualmente, o contraddittoriamente, un
+desiderio di ignoranza. E tuttavia, è da questa stessa impossibilità che nascerà la soluzione.
+ 27 Si può dare un nome proprio a un cane, il quale può rispondere al richiamo di questo nome.
+Ma il significante del nome proprio non gli domanda, se possibile, di spiegarsi sull'essere che avviene
+con questa denominazione; mentre il soggetto che non sospetta che l'Altro l'abbia preceduto nel subire le stesse determinazioni, è costretto a rimettersi a lui per la risposta.
+Il fantasma nella dottrina psicoanalitica | 44
+www.lacan-con-freud.it
+        
+        In effetti, quando abbiamo detto che l'immagine, fornendo al soggetto una falsa
+        trasparenza di se stesso, fa quindi di lui uno sconosciuto, 
+        dovevamo aggiungere che questo «uno» non ha nulla di unitario. 
+        Non è altro che una fodera invisibile, fatta, per così dire, 
+        dell'immissione dell'immagine speculare sullo sconosciuto; 
+        apparendo come immagine di x, l'immagine speculare si riveste di questa in-conoscenza 28
+        Giacché, fin dall'articolazione primaria dei significanti — e basta una olofrase:
+        mamma! — un anello vien chiuso, quello della domanda. 
+        Perciò, attraverso la questione sul desiderio dell'Altro — 
+        l'Altro da cui riceve in forma invertita la propria domanda — 
+        il soggetto si trova di fronte alla domanda in un rapporto di congiunzione
+        (è la questione sorta con la domanda), ma anche di disgiunzione 
+        (si può rispondere all'una senza rispondere all'altra). 
+        Parallelamente, l'Altro è già investito del privilegio che il soggetto gli attribuisce rivolgendogli la domanda, 
+        ma la sua risposta è già disinvestita in quanto risposta al bisogno.
+
+        stessa,
+        e si lascia subito afferrare come velo o « apparenza », nonostante che il « reale », supposto al di là, si lasci strutturare immaginariamente dal soggetto, come un oggetto
+doppio e nascosto: nell'Altro di lui, e in lui dell'Altro. Nel « reale », noi riconosciamo
+il soggetto come tale, in quanto, preso nella catena significante, egli libera un significante che lo rappresenta per un altro significante, con il quale egli ri-emerge per eclissarsi subito, e così di seguito. Abbandoniamo cioè l'uno della totalità immaginaria,
+per precipitare nell'infinito delle unità significanti? Non è affatto così.
+        È dal suo stesso scacco, in quanto lascia in sospeso la questione dell'essere, 
+        e risponde soltanto sia al bisogno che all'amore, ma allora esclusivamente come segno,
+        che l'oggetto trae l'efficacia che lo fa funzionare all'insaputa del soggetto, 
+        cioè in una rimozione primaria, come la causa di un desiderio immemorabile, 
+        restio a farsi riconoscere proprio in questo oggetto come a soddisfarsene, un desiderio che motiverà, 
+        per così dire immotivatamente, la risonanza delle domande, una dopo l'altra, che non si-
+        
+        28 In francese in/un sono pressoché omofoni. (n.d.c.)
+
+        gnificano più nulla. 
+        Così si genera il ripetibile, che viene al posto stesso del reale.
+        Come dire che in questo movimento, il suddetto oggetto diventa la causa della divisione del soggetto.
+        In altri termini, è per l'impotenza di ciò che viene articolato in parole, 
+        nel rispondere alla domanda di quel che il soggetto desidera o di quel che è, 
+        che per l'appunto il desiderio si divide dalla domanda, 
+        come desiderio inconscio o come desiderio dell'Altro. 
+        Così (giacché, come abbiamo sottolineato, a vedersi in i(a) è un soggetto
+        che ha già subito gli effetti della domanda), quel che appare come immagine di x è
+        infatti l'immagine di un oggetto che il soggetto immagina come l'agalma29
+
+        Questa non-specularità dell'oggetto a significa dunque l'impossibilità della sua
+        narcisizzazione... salvo che come ignoranza. 
+        Essa è la condizione della relazione oggettuale. 
+        Supponiamo tuttavia che a forza di pensare a ciò che sono, all'oggetto a —
+        che da solo, secondo una formula di Lacan, assorbe tutti i significanti a cui è sospesa una soggettività — 
+        capiti di apparire nel campo degli oggetti comuni: allora, 
+        è il soggetto stesso che ne sarà abolito, ed è il suo mondo che, 
+        da familiare, verrà colpito dall'estraneità.
+
+nascosto
+« dietro il velo », cioè al quale egli dà uno statuto che partecipa di diritto, se non di
+fatto, dello statuto del visibile, mentre vien definito, propriamente, per la sua nonspecularità.
+30
+        Ma a questo punto facciamo un'ipotesi contraddittoria, 
+        parlando della possibile comparsa di un oggetto che abbiamo appena definito per la sua non-specularità?
+        Per mettere innanzitutto in rilievo la portata della risposta a questa domanda,
+        
+        29 È il nome che ha dato Lacan a questo oggetto (altrimenti chiamato da lui: oggetto piccolo a,
+        oppure oggetto a) studiandone la funzione transferenziale. 
+        30 Si pensi, a questo punto, all'effetto di certi sogni in cui il pene si separa dal soggetto per
+        trovarsi in mano alla partner; oppure ancora all'effetto di quell'immagine onirica in cui non si tratta
+        di altro che di uno «sterco» isolato sul bordo di un marciapiedi, e che lascia il soggetto «interdetto».
+
+        prendiamo l'esempio della paziente di Freud (Traumdeutung) che fu sorpresa in mezzo ai lavori domestici 
+        dall'immagine terrificante del marito impiccato. 
+        Come associazione, ricordò di aver letto da poco un articolo in cui si parlava dell'erezione 
+        che a volte si osserva negli impiccati. 
+        Quindi l'interpretazione sembra a Freud indubbia: «Se si rizzasse, anche a prezzo di una impiccagione!» 
+        Interpretazione certamente troppo affrettata. 
+        Infatti, se si trattasse di un voto (Wunsch) di soddisfazione sessuale, 
+        ci si domanda a che cosa sarebbe servita questa immagine di erezione postuma. 
+        Noi riteniamo che si tratti piuttosto di un voto che, come tutti i voti dell'inconscio, 
+        è un voto di esistere, oppure il voto di un'esistenza che l'immagine da sola si rivela insufficiente a garantire. 
+        Correttamente interpretato, il voto si potrebbe formulare in questi termini:
+        «Se egli in mia presenza si rizzasse!» Tuttavia, perché l'immagine del marito impiccato le salti agli occhi, 
+        bisogna certo ammettere che il voto della paziente ha «divagato» da qualche parte: 
+        c'era ambiguità sia su «egli» che su «presenza». 
+        Invece di rivolgersi all'Altro — come voto che egli faccia per lei ciò che lei non sarebbe in grado
+        di fare per se stessa, renderla cioè l'oggetto del suo desiderio 
+        — è alla parte che si è rivolto il voto, come voto che la sua «presenza» 
+        (e senza dubbio se lo era già immaginato come un paesaggio fallico) 
+        le garantisca il desiderante... incondizionatamente:
+        «Se si rizzasse in mia presenza, persino impiccato!» Il desiderante, 
+        ovverosia il marito ridotto all'immagine di un fallo in erezione, 
+        di cui ella si accerta fittiziamente. 
+        Ma anche lei stessa, il cui desiderio diventa realmente eterno come Wunsch. 
+        Perciò la libido che occupa la parte del corpo messa in equivalenza con l'immagine fallica, 
+        operando invisibilmente nel fantasma, si radica nella zona stessa, 
+        come libido autoerotica, invece di investirsi, tramite un narcisismo secondario, 
+        nell'immagine del corpo proprio
+
+        31 Il che, all'occasione, si traduce in quella paziente, nel rifiuto di assomigliare 
+        alle «altre donne», cioè alle altre donne... che le assomigliano. 
+        Inutile aggiungere che una donna preoccupata di commisurarsi non ha tempo di pensare all'oggetto.
+        e da lì, riversarsi sull'oggetto i(a).
+
+
+        In breve, non c'è da scegliere, come voleva Abraham, tra un amore parziale e un amore totale, 
+        ma tra l'oggetto e l'Altro.
+        Ma, per riaffrontare la nostra questione, come mai il soggetto si trova spinto 
+        ad investire narcisisticamente un oggetto che peraltro abbiamo definito come irriducibile al narcisismo?
+        È difficile, al di fuori di un'esperienza analitica approfondita, 
+        cogliere la dimensione del turbamento e dell'agitazione intimi che si impadroniscono del bambino 
+        in occasione della nascita di un fratello o di una sorella. 
+        Non perché il nuovo venuto privi il bambino delle cure materne, 
+        come sostiene semplicisticamente e psicologicamente Anna Freud, 
+        ma perché, fino a quel momento, il suo desiderio non era senza oggetto e invece eccolo l'oggetto, 
+        che egli era, che si trova nelle mani del privatore il quale sembra realizzarne il possesso. 
+        Questo spettacolo lo lacera, gli apre le fenditure, e letteralmente gli toglie le viscere. 
+        Esso lo lascia senza altra risorsa che quella della sua immagine speculare, 
+        che lo fa precipitare in un'identificazione con il miraggio della totalità conquistata, 
+        e, tramite ciò, permette che la contemplazione (epopteia) incui si rivela l'oggetto a, 
+        diventi sopportabile trasformandosi nello «spettacolo delle cure», 
+        secondo l'espressione di Anna Freud, che il privatore riceve al posto suo. 
+        Spettacolo che egli vive con una gelosia simpatizzante, 
+        che non soltanto ormai sopporta abbastanza bene, 
+        ma che gli è molto più indispensabile di quanto non creda: 
+        «Chi mangia non è mai solo.»
+        Se vogliamo — per seguire il movimento secondo cui il non-speculare si trasforma in un oggetto reso invisibile 
+        nella rimozione — spostarci all'altro termine delle fasi pregenitali, la fase fallica, 
+        la madre vi compare con una mancanza reale. 
+        Di conseguenza si verificheranno, qualunque sia il sesso del soggetto, 
+        le identificazioni falliche che ci sono familiari dopo lavori ormai antichi, 
+        come quelli di Sandor Rado. 
+        Certamente, il soggetto non manca di passare ancora una volta attraverso lo sgomento 
+        in cui lo affonda la vista del «privatore», che gli sembra possedere l'oggetto che lo esclude. 
+
+        Ma anche qui, il privatore ha fatto presto a trasformarsi in rivale, 
+        e a trasformare questa vista in uno spettacolo indispensabile a ciò che egli «si» crede, 
+        o a ciò che egli crede di sapere che l'Altro desideri da lui, o in lui: 
+        la solitudine è altrettanto aliena a chi fa l'amore.
+        Infatti, il desiderio dell'Altro non per questo gli sfugge meno, 
+        e tanto più in quanto l'Altro glielo rivela — ossia, 
+        poiché è così che egli sente questa rivelazione,
+        «lo» domanda — e, di conseguenza, si perpetua la sua interrogazione sul desiderio nascosto dell'Altro, 
+        o sulla sua Demanda. 
+        Questa interrogazione, da sola, sarebbe sufficiente a spingerlo all'analisi, 
+        senza parlare di quel che vi si aggiunge come sintomi, inibizione e angoscia.
+        In conclusione, l'asse dell'esperienza analitica non può essere che il desiderio di chi viene 
+        — l'analista — al posto dell'Altro, nella misura in cui non si rivela come desiderante, 
+        ovvero si rivela come domanda di nulla: di nulla che il soggetto possa visualizzare, 
+        quindi erotizzare in se stesso.
+        E l'analisi costituirà il processo della graduale abolizione degli errori del soggetto sull'oggetto a, 
+        in quanto la sua storia non ha fatto, e non poteva fare altrimenti che ingannarlo riguardo a quell'oggetto, 
+        facendogli supporre conosciute le verità nascoste.
+        Ma nel momento in cui il soggetto è più vicino a sapere una seconda volta
+
+        32 [L’autore rimanda in nota a un passo di un saggio precedente (p. 70): 
+        «L’uomo dei topi, dunque, non poteva metter fine al suo lutto, perché non poteva, per così dire, 
+        rinnovarlo o cominciarne il “lavoro”, secondo l’espressione implacabile di Freud. 
+        E come avrebbe potuto, senza rinunciare alla sua ragion d’essere, 
+        sapere una seconda volta che la sorella era persa irrimediabilmente? 
+        A meno che una mediazione non gli avesse fatto intendere che la restituzione di Katherine 
+        non era in potere di nessuno, senza eccezione per il padre, cioè senza eccezione per nessun padre, 
+        in modo che attraverso la limitazione del potere del padre riuscisse ad accettare la stessa limitazione per sé, 
+        salvo poi a doversene consolare, diventando a sua volta padre.» 
+        Passo al quale, a sua volta, viene aggiunta la seguente nota:
+        «È in questo sapere che risiede la “seconda morte” menzionata da Lacan nel suo famoso seminario
+        sull’Etica della psicoanalisi. E colui che viene definito psicotico non ha altro scampo, giacché il suo
+        saper intendere è bloccato, che realizzare questa “seconda morte” nella morte reale.» (n.d.c.).]
+
+        ciò che credeva di sapere, la rabbia è già dissolta; infatti questa vicinanza è funzione della
+        scomposizione delle figure mitiche, in cui il desiderio di essere si ingannava nell'avere. 
+        È questo il motivo per cui tale vicinanza si annuncia piuttosto in una depressione,
+        che va distinta clinicamente da quella che infliggono, invece, queste stesse figure.
+
+        In una parola, si propone all'analizzante, nella «conquista dell'inconscio», 
+        solo un abbandono della doxa che lo metta in grado di sopportare la posizione 
+        che l'analista deve saper tenere, quella del soggetto. 
+        Una dialettica del desiderio porta allo stesso punto coloro i quali verrebbero confusi dall'identificazione.
+
+        Bisogna sottolineare a questo punto che un tale sapere richiede una mediazione diversa 
+        dalla mediazione hegeliana, perché nessun progresso o innalzamento della coscienza sarebbe in grado di
+        superare lo iato che lo separa dal sapere comune?
+

@@ -1,0 +1,346 @@
+$group
+    author Wittgenstein
+        name Ludwig Wittgenstein
+        born 
+            date 26/4/1889 
+            place Vienna, Austria
+        died
+            date 29/4/1951
+            place Cambridge, Regno Unito
+
+        url https://www.mcurie.edu.it/files/balducci.paola/FILOSOFIA_DELLA_SCIENZA_1.doc
+        url http://www.scienzepostmoderne.org/diversiautori/wittgenstein/pensierowittgenstein.html
+
+        concept primo Wittgenstein
+            + il linguaggio raffigurativo è l’unico che abbia senso 
+            + il linguaggio ha la funzione di descrivere i fatti 
+            + le affermazioni della filosofia che si pongono al di fuori dei fatti sono da eliminare
+            + la filosofia ha il compito di chiarire il significato delle proposizioni linguistiche, 
+                \b individuando i confini tra ciò che può essere descritto, e ciò che non lo può
+            + solo ciò che può essere descritto può essere pensato
+            + la filosofia è un’attività di chiarificazione e non una teoria
+            + il compito della filosofia è analizzare il linguaggio perfetto delle scienze naturali
+        
+        concept secondo Wittgenstein
+            + sposta il suo interesse dal linguaggio logico–formale al linguaggio comune, quotidiano
+            + nel linguaggio quotidiano non può essere identificata una struttura formale unitaria, 
+                \b ma esiste una molteplicità di pratiche linguistiche
+            + rifiuta l’idea di un linguaggio perfetto 
+            + ripudia la teoria di un linguaggio dotato di essenza logica, strutturalmente simile a un mondo logico
+            . il linguaggio raffigurativo è uno dei possibili linguaggi esistenti nella quotidianità
+            . vi sono linguaggi con cui non si denomina nulla, ad esempio le esclamazioni, le preghiere, le implorazioni 
+            . vi è una miriade di atti linguistici (cantare, raccontare, inventare storie, imitare, ecc..) 
+            + i significati del linguaggio risiedono negli svariati modi d’uso nei diversi ambiti della vita quotidiana 
+            + il significato di una parola varia in relazione al contesto in cui è inserita 
+
+            concept forma di vita
+                + il linguaggio fa parte di una forma di vita nel senso che si trova in relazione
+                    \b con una particolare situazione pragmatica, vive e si trasforma in un contesto di abitudini, 
+                    \b simboli e credenze umane
+
+            concept giochi linguistici
+                + sono gli innumerevoli modi d’uso del linguaggio
+                + il mettere in atto un tipo di “gioco linguistico” fa parte di un’attività 
+                    \b costruita in base a delle regole 
+                + il significato di una parola è il suo uso in un particolare contesto
+                + il significato è quindi posizionale e non “essenziale”, generato da presupposti pratici e non teoretici
+                + il concetto di gioco linguistico rimanda direttamente 
+                    \b a quello di “forma di vita”: il gioco, e quindi il linguaggio, non possono 
+                    \b essere visti come un codice astratto di regole, 
+                    \b ma devono essere considerati come attività fondate su regole semantiche e sintattiche, 
+                    \b stabilite e condivise da una comunità umana             
+                + i giochi linguistici mutano continuamente e, di volta in volta, nuovi tipi di linguaggio, 
+                    \b nuovi giochi linguistici, si affermano mentre altri invecchiano e vengono dimenticati
+                + esempi forniti da W. di giochi linguistici: comandare, obbedire, descrivere un oggetto, 
+                    \b riferire un avvenimento, elaborare un’ipotesi, recitare, cantare in girotondo, 
+                    \b risolvere un problema di matematica applicata, tradurre da una lingua all’altra, 
+                    \b ringraziare, chiedere, salutare, imprecare, ...
+                + terrestre ma fecondo ibrido di libertà e necessita 
+                    \b verso l'irrespirabile altezza del purismo logico
+
+            contribution-from
+                author Ramsey
+                + gli scambi con il logico ed economista inglese Frank Ramsey forniscono a Wittgenstein l’occasione 
+                    \b per un radicale ripensamento delle tesi del Tractatus
+                + Ramsey attribuisce  alle espressioni linguistiche un ruolo pragmatico nell’orientare il comportamento umano; 
+                    \b per lui il significato effettivo delle proposizioni non deriva solo dal rapporto specifico 
+                    \b tra le espressioni e delle espressioni con gli oggetti designati, 
+                    \b ma anche dalle credenze che gli uomini attribuiscono ad esse, 
+                    \b dall’uso che gli uomini ne fanno e le cui regole è possibile identificare 
+
+        concept gioco di certezza
+            super
+                concept gioco linguistico
+            book
+                title Della certezza
+                + procede sul filo delle differenze-interferenze che percorrono
+                    \b l'universo dei giochi linguistici
+                + prassi linguistche come condizioni trascendentali dell'esperienza,
+                    \b al confine tra grammatica ed esperienza
+
+        concept prassi linguistica
+
+        concept seguire le regole
+            alias rule following
+            + il linguaggio si alimenta della stessa legalità del gioco
+            + le regole che governano un gioco linguistico sono una serie di atti che 
+                \b noi ci apprestiamo a seguire e a cui siamo stati addestrati
+            + queste regole non debbono essere rigorose, anzi sono quasi sempre inespresse e spesso inconsapevoli 
+            + seguire una regola significa compiere un’adeguazione di massima ad una prassi diffusa, 
+                \b che lascia ampio spazio all’appropriazione personale e all’adattamento
+
+            book
+                title
+                author Kripke
+                edition 1982
+                + natura sociale della prassi linguistica, unica soluzione allo scetticismo gnoseologico
+
+        concept grammatica
+            + prassi costitutiva del linguaggio, e del nesso linguaggio-realtà
+
+        book
+            title Tractatus logico-philosophicus
+            + solipsismo di stampo machiano?
+            + precoce appicazione della tematica del "seguire le regole"?
+
+            approach neoempirismo
+                + insegue come proprio tratto distintivo la costituzione di un linguaggio logicamente perfetto
+                + nella prospettiva del Circolo di Vienna, la pubblicazione del Tractatus logico-philosophicus 
+                    \b costituisce un passo fondamentale
+
+        opinion-of Dummet
+            + filosofia della matematica di W. è convenzionalista
+
+        concept intenzionalità
+            + è ridefinita ad un livello puramente grammaticale
+
+        concept metafisica
+            + tentativo di trovare l'armonia, nella grammatica del linguaggio, tra pensiero e realtà
+
+        concept raffiguratività della proposizione
+            + non è la forma della rappresentazione che possa collegare proposizione e realtà,
+                \b bensì un "presa di posizione" che interpreti la rappresentazione (Bild) 
+                \b secondo un interesse vitale
+            + la presa di posizione verso l'immagine ce la rende realtà
+
+        quote
+            + meaning is use
+
+        concept pensiero della totalità del pensabile
+            + impossibilità di pensare il limite del pensiero 
+            + paradossi dell’infinito della teoria degli insiemi
+            + paradossi logici – siano essi semantici o sintattici – che misero in crisi i vari
+                \b tentativi di fondazione della matematica 
+
+        book
+            author M. Franchella
+            title Come l’amor platonico: kantismo e platonismo nella filosofia della matematica del XX secolo
+            edition LED, Milano 2001
+            + influenza del kantismo su Wittgenstein
+        
+        book
+            author C. Cellucci
+            title Filosofia e Matematica
+            edition Laterza, Roma-Bari 2002
+            + influenza del kantismo su Wittgenstein
+        
+        book
+            author M. Bastianelli
+            title Oltre i limiti del linguaggio: il kantismo nel ‘Tractatus’ di Wittgenstein
+            edition Mimesis, Milano 2008, par. II. 
+            + influenza del kantismo su Wittgenstein
+        
+        book
+            author M. Micheletti
+            title Lo schopenhauerismo di Ludwig Wittgenstein
+            edition Padova 1973
+            + influenza di Schopenhauer su Wittgenstein
+
+        concept dissoluzione dell'instanza trascendentale
+            essay
+                author Apel
+                title Wittgenstein e Heidegger: il problema del senso dell’essere e 
+                    \b il sospetto d’insensatezza contro ogni metafisica
+                book
+                    author Rosenberg & Sellier
+                    title Comunità e Comunicazione
+                    edition Torino 1977
+
+
+Quello Che il neoempirismo insegue come proprio tratto distintivo è, dunque, la COSTITUZIONE DI UN LINGUAGGIO LOGICAMENTE PERFETTO. 
+In questa direzione, dal punto di vista del Circolo di Vienna, un passo fondamentale è costituito dal Tractatus logico-philosophicus 
+di Wittgenstein. 
+Nell’Introduzione a questa opera, scritta da Russel, si afferma che: “In quarto luogo vi è il problema: un fatto (una proposizione 
+è un particolare fatto) che relazione deve avere con un altro fatto perché il primo possa essere simbolo del secondo? 
+Quest’ultimo è un problema logico ed è quello di cui si interessa Wittgenstein”. 
+
+La risposta di Wittgenstein si può sintetizzare così: il fatto “simbolizzante” (la proposizione) deve essere un’immagine del 
+simbolizzato: nel senso che deve avere la stessa “forma” del simbolizzato: ad ogni “elemento” di questo deve corrispondere 
+uno ed uno solo elemento nell’altro e gli elementi dei due fatti devono essere disposti in modo analogo. 
+Devono avere tra loro quel tipo di relazione che hanno le onde sonore di una sinfonia e lo spartito musicale, 
+o una figura e la sua proiezione, in modo che possano essere dedotti uno dall’altro per mezzo di una specie di “legge di proiezione”. 
+Nel linguaggio usuale, il linguaggio “naturale”, tale relazione di proiezione è molto imperfetta e questa è la ragione, 
+per Russul come per Wittgenstein, per cui il nostro linguaggio quotidiano dà origine, non solo a molti malintesi, 
+ma addirittura a problemi filosofici privi di senso.  
+
+Proposizione 4.003 del Tractatus:
+“La maggior parte delle proposizioni e dei problemi che sono stati esposti intorno ad argomenti filosofici non sono falsi,  
+ma sono privi di senso. […]La maggior parte dei problemi e delle proposizioni dei filosofi risultano dal fatto che noi 
+non conosciamo la logica del nostro linguaggio. E quindi non c’è da meravigliarsi se i problemi più profondi in realtà 
+non sono affatto problemi”. In questa prospettiva (4.001) la filosofia appare “critica del linguaggio”.
+
+Il Tractatus logico-philosophicus
+Apparso negli Annali di Filosofia naturale nel 1921 (ma concepito negli anni della prima guerra mondiale) ripubblicato l’anno dopo come libro a se stante il Tractatus logico-philosophicus venne discusso da cima a fondo da M. Schlick e dal suo gruppo.
+La trattazione consiste in una serie di aforismi, seguiti da commenti, che contengono specificazioni delle proposizioni principali e le loro giustificazioni o illustrazioni più o meno dettagliate. Le proposizioni principali del Tractatus sono sette; le prime quattro sono:
+1) Il mondo è tutto ciò che accade
+2) Ciò che accade, il fatto, è l’esistenza dei fatti atomici
+3) L’immagine logica dei fatti è il pensiero
+4) Il pensiero è la proposizione che ha significato
+La proposizione 1) viene commentata da Wittgenstein semplicemente dicendo che” il mondo consiste di fatti”; Ora: un fatto può constare di altri fatti, ma alla fine dobbiamo pervenire a fatti che non constano di altri fatti, che sono detti “fatti atomici”; i fatti atomici sono ulteriormente analizzabili non in quanto riconducibili ad altri fatti, ma in quanto constano di “oggetti”, sono configurazioni di oggetti. 
+(Cerchiamo di illustrare la caratterizzazione del mondo fatta da Wittgenstein: pensiamo ad una scacchiera; i pezzi da gioco sono gli “oggetti”: le loro configurazioni sulla scacchiera rappresentano i “fatti atomici”; le connessioni di queste costituiscono, infine, i fatti. Attenzione: il mondo non consiste nella totalità degli oggetti, ma nella totalità dei fatti. Nell’esempio: gli scacchi potrebbero essere disposti in tutt’altro modo; darebbero così luogo a configurazioni diverse, ad un mondo diverso, inteso come la totalità di tutte le connessioni delle configurazioni in questione). 
+Consideriamo ora le frasi del linguaggio : esse sono un complesso di segni che verranno formate secondo le regole grammaticali precise, quando operiamo con il linguaggio artificiale.  Una “frase” in questo linguaggio verrà costituita in modo che abbia senso dire di essa se è vera o falsa. Chiameremo proposizioni solo frasi di questo tipo.  (Un comando, ad es. “Esci di qui” non sarà una proposizione, mentre lo sarà “Carlo cammina”, oppure 3+3=6, 3+3=31). Per Wittgenstein, inoltre, affinché una proposizione abbia significato (possa essere vera o falsa) deve essere tale che il suo significato non dipenda da altre proposizioni, ovvero devo arrivare a proposizioni non più scomponibili in altre proposizioni, assolutamente semplici. Infatti, poiché le proposizioni descrivono fatti, questi devono essere fatti non decomponibili in altri fatti. (Russul usa per tale concezione l’espressione “atomismo logico”, dove logico serve a differenziarlo dall’atomismo tradizionale, che è un atomismo metafisico). 
+Il modo con cui gli  oggetti sono collegati gli uni agli altri è la forma del fatto atomico. Ai fatti atomici corrispondono proposizioni atomiche, le cui forme devono essere identiche a quelle dei fatti corrispondenti. “Noi ci facciamo immagini dei fatti” (2.1) “L’immagine è un modello della realtà” (2.12) “Per essere un’immagine un fatto deve avere qualcosa in comune con il fatto che raffigura” (2.16) “L’immagine si accorda o no con la realtà; è giusta o sbagliata, vera o falsa” (2.21) Ciò che l’immagine (cioè la proposizione) rappresenta è dunque il suo significato: nell’accordo di questo con la realtà, consiste la verità o la falsità. Bisogna dunque fare una distinzione tra la verità di un’immagine e il suo significato: il significato è ciò che rappresenta, ma essa è vera o falsa a seconda che rappresenti o no un fatto” 
+“La totalità dei pensieri veri è l’immagine del mondo (3.01), “Nella proposizione il pensiero è espresso percepibilmente attraverso i sensi” (3.1). Consideriamo la proposizione “Carlo cammina”: tale proposizione è innanzitutto un fatto, un fatto linguistico, ma sempre un fatto che ci comunica (mediante suoni o mediante segni scritti, in ogni caso sensibilmente) un altro fatto.
+Questa proposizione dice qualcosa intorno all’oggetto di nome Carlo; nell’ottica di W., come il mondo non è costituito dalla totalità degli oggetti in quanto tali, ma dalla totalità dei fatti, analogamente “soltanto la proposizione ha senso, e solo nel contesto di una proposizione un nome ha significato” (3.3)
+PROBLEMA DELLA CORRISPONDENZA FRA PROPOSIZIONE E REALTA’
+“Una proposizione atomica presenta la esistenza o non esistenza dei fatti atomici”. 
+“L’immagine logica dei fatti è il pensiero”; “La totalità dei pensieri veri è un’immagine del mondo”; queste affermazioni ci rivelano che  nel pensiero di Wittgenstein si ha una piena identificazione del pensiero con il linguaggio per cui le stesse limitazioni che valgono per il linguaggio valgono anche per il pensiero (non è pensabile né esprimibile nulla che non sia un fatto del mondo). Questo è il presupposto empiristico fondamentale della filosofia di Wittgenstein.
+Non fanno parte della “scienza della natura”, intesa come conoscenza del mondo, tutti gli inserti che non sono traducibili nel linguaggio artificiale, ma rigoroso della logica formale in proposizioni, cioè in espressioni linguistiche ditate di significato, di cui ha cioè senso dire se sono vere o false. Le proposizioni verranno poi divise in due classi: quelle vere e quelle false.; “infine la totalità delle proposizioni vere è la totale scienza della natura”. (4.11). Che posto resta in questo contesto alla filosofia? “La filosofia non è una delle scienze naturali. (La parola filosofia deve significare qualcosa che sta sopra o sotto, ma non a fianco delle scienze naturali)” (4.111) “L’oggetto della filosofia è la chiarificazione logica dei pensieri. La filosofia non è una teoria. Ma un’attività. Un’opera filosofica consiste essenzialmente di delucidazioni. Il risultato della filosofia non è certo un numero di proposizioni filosofiche, ma la chiarificazione delle proposizioni.”(4.112)
+Questa delimitazione dei compiti della filosofia viene ripresa come tema dominante dagli esponenti del Circolo di Vienna; per esempio Schlick: “La filosofia non è un sistema di proposizioni, non è una scienza”; Carnap: “Non viene più riconosciuta la filosofia come autonomo campo teoretico”.
+Cenni di logica proposizionale
+Le proposizioni assolutamente semplici (atomiche) possono essere combinate fra loro in modo da formare proposizioni più complesse; si prendono in considerazione solo combinazioni vero-funzionali, nelle quali la verità o falsità della nuova proposizione è determinata dalla verità e falsità delle proposizioni che concorrono a formarla.
+
+
+
+La negazione
+A
+-A
+v
+  f
+f
+  v
+
+La congiunzione
+A
+B
+A e B
+v
+v
+v
+f
+v
+f
+v
+f
+f
+f
+f
+f
+
+
+
+
+Le proposizioni che concernono fatti hanno un carattere contingente, non necessario (come sostenevano Hume e Leibniz); vi sono però anche per Wittgenstein, come per Hume e Leibniz, proposizioni che sono vere indipendentemente dai fatti stessi e queste sono le tautologie. La proposizione “Piove” è vera solo se il fatto accade, così per la proposizione “Non piove”, ma la proposizione “Piove o non piove” esprime tutte le possibilità ed è per questo sempre vera. D’altra parte questa proposizione non è una raffigurazione della realtà poiché non rappresenta alcuna situazione possibile; la tautologia non è una proposizione dotata di senso, ma non è neppure un non-senso come le proposizioni metafisiche, appartiene piuttosto al campo della logica e della matematica, ovvero al simbolismo. Tutto questo vale anche per la contraddizione, che è sempre falsa (es.: “Questo scapolo è sposato”).
+
+
+ETICA E METAFISICA
+(6.421) “E’ chiaro che l’etica non può essere espressa”. “La morte non è un evento della vita. Non si vive la morte… 
+    La nostra vita è senza fine al modo che il nostro campo visivo è senza limite (6.431). “La soluzione del problema della vita 
+    si vede nello svanire  di esso”. (6.521)
+Wittgenstein segue Hume quando afferma che da una proposizione atomica non se ne può inferire un’altra (5.134) 
+    perché ogni proposizione elementare concerne un fatto atomico ed i fatti atomici sono indipendenti l’uno dall’altro. 
+    Non esiste un nesso causale che giustifichi tali inferenze e pertanto è impossibile inferire gli eventi del 
+    futuro da quelli presenti. “La credenza nel nesso causale è la superstizione “ (5.136) Da questo punto di vista, 
+    non esistono propriamente parlando Leggi naturali. Le Leggi, cioè le regolarità, appartengono solo alla logica e 
+    “Fuori dalla Logica tutto è accidente” (6.3) Le teorie che ci forniscono una descrizione unitaria dell’universo 
+    (come la meccanica di Newton) sono sistemi arbitrari che potrebbero essere tranquillamenti sostituiti da altri sistemi 
+    egualmente efficaci.
+“Per una risposta che non può essere espressa, anche la domanda non può essere espressa. L’enigma non esiste. Se una domanda 
+    può comunque essere posta, essa può anche trovare risposte (6.5) Non si può neppure parlare del mondo nella sua totalità, 
+    che non è mai un fatto (come affermava già Kant nella dialettica trascendentale). Dice Wittgenstein: “Non come il mondo sia, 
+    è ciò che è mistico, ma che esso è”(6.44). I fatti costituiscono e le proposizioni manifestano, il come del mondo, le sue 
+    determinazioni: non il che, la sua essenza totale ed unica, il suo valore, il suo perché.
+Problemi che non possono trovare risposta sono pseudo-problemi; un enigma, un problema che non può essere risolto in via di principio, 
+    non può venire formulato nell’ambito del linguaggio rigoroso. Esso, infatti, dovrebbe far rigoroso ad asserti senza significato, 
+    cioè di cui non si può sensatamente dire che sono veri o falsi; ma nel linguaggio “logicamente adeguato” tali asserti non possono 
+    più venir espressi. Wittgenstein apre così la strada al gruppo viennese che definisce il proprio compito negativo come 
+    l’eliminazione, in quanto prive di significato, delle proposizioni metafisico-speculative e il proprio compito positivo nel 
+    definire sempre più esattamente e completamente il significato delle proposizioni scientificamente valide. 
+    L’indagine dell’empirismo logico pare rivolta alla costituzione di “una teoria del significato” (opuscolo del 1929, 
+    scritto da Hahn, Neurath, Carnap). 
+Le proposizioni dei metafisici e dei teologi non dicono nulla, solo espressione di un atteggiamento emotivo; 
+    ora esprimere tale atteggiamento può avere un significato, ma la forma d’espressione più adeguata risulta essere l’arte, 
+    per es.  la poesia o la musica.
+
+Il Tractatus si conclude con la settima proposizione fondamentale: “Di ciò di cui non si può parlare è meglio tacere”. 
+
+LA TEORIA DEI GIOCHI LINGUISTICI
+
+Gli incontri avviati nel 1927 con alcuni esponenti del Circolo di Vienna, la conoscenza del matematico intuizionista Brower, 
+    gli scambi con il logico ed economista inglese Frank Ramsey gli forniscono l’occasione per un radicale ripensamento delle 
+    tesi del Tractatus.
+
+Ramsey, infatti, attribuisce  alle espressioni linguistiche un ruolo pragmatico nell’orientare il comportamento umano; 
+    per lui il significato effettivo delle proposizioni non deriva solo dal rapporto specifico tra le espressioni e 
+    delle espressioni con gli oggetti designati, ma anche dalle credenze che gli uomini attribuiscono ad esse, dall’uso che 
+    gli uomini ne fanno e le cui regole è possibile identificare. 
+
+Wittgenstein fa propria questa impostazione pragmatica e nel Libro blu, dettato a Cambridge tra il 1933 ed il 1934, scrive: 
+    “Se dovessimo nominare qualcosa che sia la vita del segno, dovremo dire ciò che sia il suo uso”, ma l’uso non è una regola normativa 
+    che possa essere imposta al linguaggio: è ciò che si mostra nel linguaggio stesso, è la consuetudine  delle sue tecniche.
+
+Il Tractatus aveva delineato un linguaggio ideale, logicamente perfetto, a cui quello reale doveva adeguarsi e su cui 
+    si commisurava la sua significanza e la sua funzionalità, e ne aveva identificato lo scopo nella raffigurazione di un fatto. 
+    Nelle Osservazioni filosofiche Wittgenstein scrive, invece: “Che strano se la logica dovesse occuparsi di un linguaggio “ideale” 
+    e non del nostro! Cosa dovrebbe esprimere infatti quel linguaggio ideale? Di certo quello che ora esprimiamo nel nostro linguaggio 
+    abituale; ma allora la logica non può occuparsi che di questo..”
+
+In questa ottica comprendere il linguaggio non significa compiere un’operazione mentale, ma attuarne il senso, e la spiegazione 
+    del significato non è unica e univoca, ma particolare e contingente, legata al contesto e all’uso del linguaggio 
+    in quella situazione; il significato non è un’entità ideale fissata una volta per tutte. Il filosofo non è più disposto 
+    ad intendere il linguaggio come un simbolismo sottoposto alle regole rigorose del calcolo matematico e contesta proprio 
+    questa propensione logicizzante.
+
+Le Ricerche filosofiche (costituite da due parti, composte la prima tra il 1941 ed il 1945 e la seconda tra il 1947 ed il 1949 
+    e lasciate incompiute) sviluppano la nozione di gioco linguistico.
+
+Il linguaggio è un processo simbolico nel quale i significati non sono dati dal riferimento univoco alle cose, 
+    di cui sono la descrizione; 
+    esso è una forma di vita, lo svolgimento di un’attività governata da regole diverse a seconda delle circostanze, 
+    delle intenzioni del parlante, ecc… Non esiste un modello che unifica tutte le forme, ma una pluralità di usi alternativi 
+    e complementari, che si modificano ed aumentano poiché il mutare delle esigenze umane determina l’insorgenza di giochi nuovi; 
+    questa vaghezza, peraltro ineliminabile, non è il punto di debolezza del linguaggio, ma il motivo per cui esso funziona 
+    prestandosi alle più diverse esigenze. 
+
+I giochi possono essere raggruppati per analogia in “famiglie” e gli stessi criteri di analogia, sulla base dei quali eseguire 
+    i raggruppamenti familiari sono ovviamente molteplici e vari; non esiste un’unica gerarchia, ma una pluralità di ambiti diversi 
+    imparentati fra loro in modo analogico, non gerarchico. Il significato è ora inteso come formazione pubblica, 
+    intersoggettiva (non più come entità interiore del soggetto che ne fa uso, come rappresentazione mentale).
+
+
+Alla domanda: “che cos’è allora il linguaggio?” Wittgenstein preferisce non rispondere 
+    ritenendo che il peccato originale della filosofia sia proprio quello di aver sempre 
+    privilegiato e ricercato l’universale, piuttosto che il particolare ed il differente; 
+    ora l’eterogeneità dei giochi linguistici è tale che non si può neppure ridurli 
+    sotto un comune concetto; 
+    le loro relazioni reciproche sono come “somiglianze di famiglia” e come i membri di una famiglia 
+    hanno tra loro somiglianze diverse, chi nella statura, chi nei lineamenti, così i vari linguaggi 
+    hanno tra loro relazioni diverse che non possono ridursi ad una sola 
+    e le loro analogie sono comunque sfumate.
+
+    GARGANO
+    svolta linguistica
+        
+        filosofia analitica
+            movimento linguistico
+            scuola di oxford
+
+        neopositivismo
+            positivismo logico
+            neoempirismo
+
+        ermeneutica
+
+        pedagogia
+        morale
+        teoria della conoscenza

@@ -1,0 +1,12 @@
+$group
+
+    namespace lacan
+
+        concept beanza
+            + La beanza è il vuoto, il buco in quanto costitutivo della struttura stessa del soggetto 
+                \b e, più in particolare, alla definizione metaforica dell’inconscio 
+                \b inteso come una sorta di vescica che si apre e si chiude su stessa. 
+                \b Questa beanza, questo vuoto centrale è precisamente 
+                \b ciò che permette il funzionamento stesso della pulsione. 
+                \b Lacan, riprendendo in parte una frase di Eraclito citata all’inizio del capitolo, 
+                \b dice che quest’ultima “integra la dialettica dell’arco, del tiro dell’arco”. 

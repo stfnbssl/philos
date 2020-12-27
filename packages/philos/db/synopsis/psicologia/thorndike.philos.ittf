@@ -1,0 +1,48 @@
+$group
+    author Thorndike
+        fullname Edward Lee Thorndike
+        born
+            date 31/8/1874
+            place Williamsburg
+        died
+            date 9/8/1949
+            place Montrose
+        field psicologia animale
+        field pedagogia
+        
+        + condusse numerosi esperimenti nelle scuole americane che contribuirono a diffondere le conoscenze della psicologia 
+            \b comportamentale nell'ambiente pedagogico e gli permisero di costruiore test di profitto scolastico
+        
+        theory effetto alone
+            founder
+        
+        theory legge dell'esercizio
+            founder
+            field pedagogia
+            branch leggi dell'apprendimento
+            + l'apprendimento è graduale e migliora con la ripetizione delle prove
+        
+        theory legge dell'effetto
+            founder
+            field pedagogia
+            branch leggi dell'apprendimento
+            + l'apprendimento avviene in funzione delle conseguenze del comportamento: azioni seguite da riduzione di "stati di bisogno" 
+                \b o ricompense tendono ad essere ripetute
+        
+        theory legge del trasferimento 
+            founder
+            field pedagogia
+            branch leggi dell'apprendimento
+            + una risposta acquisita in una situazione verrà effettuata in altre situazioni nella misura in cui queste ultime sono simili 
+                \b alla prima
+
+        forerunner-of
+            approach comportamentismo
+            + non usa l'introspezione e si concentra sul comportamento osservabile
+            + formula una teoria dell'apprendimento basata sulla connessione tra stimoli e risposte, il che rende 
+                \b necessarie poche ipotesi su cosa succede dentro l'individuo
+            + generalizza dall'animale all'umano
+            + occorre fare esercizio (legge dell'esercizio)
+            + i comportamenti "giusti" vanno premiati e quelli "sbagliati" puniti (legge dell'effetto) 
+            + non ci si può aspettare che l'apprendimento sia generalizzato al di fuori dell'ambito specifico di 
+                \b insegnamento (legge del trasferimento)

@@ -1,0 +1,105 @@
+$group
+
+    namespace lacan
+
+        concept soggetto
+            + Il soggetto è causato, è quanto si dà una volta introdotta la scissione nell’io.
+            + Il soggetto è sempre l’effetto di qualcosa, dunque soggetto di qualcosa, dell’Altro,
+                \b Altro da intendersi come la funzione del simbolico, la catena significante. 
+            
+            r-concept lacan.immaginario
+                + il soggetto si colloca nella frattura immaginaria, 
+                    \b nel vacillamento tra la compattezza del miraggio 
+                    \b dell’unità della figura riflessa dallo specchio
+                    \b e il corpo-in-frammenti del suo Io attuale
+            
+            r-concept lacan.significazione
+                quote 
+                    + Il soggetto interroga la cosa e come tale nasce soggetto, 
+                        \b ma una volta nato come soggetto non si può non porre lui la domanda ‘che cosa sono io?’ 
+                        \b e il cerchio si chiude con la risposta che è la seguente: 
+                        \b io sono quella stessa cosa che ho interrogato, 
+                        \b su cui mi sono chiesto che cosa vuol dire
+                    webarticle licitra.alienazione-e-separazione
+            
+            quote
+                + il soggetto occupa la stessa posizione del significato, 
+                    \b ossia non è nulla al di fuori del rimando (S2 nell’algebra lacaniana) in cui è iscritto; 
+                    \b e che Lacan ha in mente un soggetto assoggettato al significante 
+                    quote
+                        + spossessato di ogni voler dire 
+                            \b e di ogni padronanza del linguaggio, 
+                            \b che parla in lui,
+                            \b piuttosto che esser parlato 
+                        book borch-jacobsen.lacan-il-maestro-assoluto
+                        page 223
+                book ciappa.linguaggio-e-fantasma
+            
+            quote
+                + Lacan accorda al soggetto il posto evanescente del significato, 
+                    \b gli assegna il posto reso vacante oltre la barra, 
+                    \b una volta introdotta cioè la scissione all’interno del segno linguistico.
+                book ciappa.linguaggio-e-fantasma
+            
+            quote
+                + Quello che Lacan chiama insomma soggetto 
+                    \b non è altro che l’effetto della delusione che il linguaggio crea ed alimenta 
+                    \b di fronte alla domanda “chi sono?”.
+                book ciappa.linguaggio-e-fantasma
+            
+            r-concept lacan.significato
+                quote
+                    + [..] allora il soggetto non è altro che
+                        \b quel nulla che il significante può rappresentare di volta in volta, 
+                        \b quel significato che risulta, senza consistervi, 
+                        \b dall’operazione differenziale della significazione.
+                    book ciappa.linguaggio-e-fantasma
+
+            quote
+                + L’effetto di linguaggio è la causa introdotta nel soggetto.
+                    \b Grazie a tale effetto egli non è causa di se stesso, 
+                    \b ma porta in sé il verme della causa che lo scinde. 
+                    \b Perché la sua causa è il significante senza il quale non ci sarebbe alcun soggetto nel reale. 
+                    \b Ma questo soggetto è ciò che il significante rappresenta,
+                    \b e il significante non sa rappresentare niente che per un altro significante: 
+                    \b cui si riduce allora il soggetto che ascolta. 
+                    \b Dunque al soggetto non si parla. 
+                    \b C’è chi parla, ça parle, di lui, 
+                    \b ed è lì che egli si apprende, e tanto più in quanto, 
+                    \b prima di sparire come soggetto sotto il significante 
+                    \b che diviene per il solo fatto che c’è, ça, chi si rivolge a lui, 
+                    \b egli non era assolutamente nulla. 
+                    \b Ma questo niente, questo rien, si regge sul suo avvento, 
+                    \b ora prodotto dall’appello rivolto nell’Altro al secondo significante
+                article lacan.posizione-dell-inconscio
+                page 838-9 
+
+            r-concept lacan.alienazione
+                quote
+                    + [..] l’alienazione non è un mero passaggio, un momento dialettico; 
+                        \b l’alienazione significante, così come l’abbiamo articolata, 
+                        \b resta l’elemento costitutivo della soggettività stessa
+                        \b perché fondata sulla mancanza a essere. 
+
+        concept soggetto-dell-inconscio
+            title soggetto dell'inconscio
+            alias soggetto del desiderio
+            alias soggetto dell'enunciato
+            + È una sfasatura tra Io (moi) e Je (me)
+            + il suo statuto è di soggetto diviso
+            + L’essere del soggetto non si esaurisce nell’Io (moi), 
+                \b l'Io è un miraggio, un luogo di un misconoscimento che ha radice nell’identificazione. 
+
+        concept soggetto-barrato
+            title soggetto barrato
+            alias soggetto diviso
+            + $, S barrato, nell’algebra/dizione lacaniana, 
+                \b è il soggetto diviso, 
+                \b ovvero il soggetto abitato da una parte di sé a lui sconosciuta, 
+                \b l’inconscio.
+            quote
+                + [Il soggetto, lo stesso con cui ha a che fare la psicoanalisi, 
+                    \b è barrato in quanto si va a costituire] come secondo rispetto al significante
+                book lacan.i-quattro-concetti-fondamentali-della-psicoanalisi
+
+        concept soggetto-della-psicoanalisi

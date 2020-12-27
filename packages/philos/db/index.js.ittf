@@ -1,0 +1,79 @@
+v07/plugin/examples/withMonoRepoWizziFactory()
+
+    $append plugins
+        [ items
+            @ './index.js'
+        @ pluginsBaseFolder
+            _ path.resolve
+                @ __dirname
+                @ '..'
+
+    _ executeGenerateModules
+        [
+            @ 'first'
+        f_cb_no_throw(result)
+            if err
+                log 'philos.examples.executeGenerateModules.err', err
+                log 'philos.examples.executeGenerateModules.err.toString()', err.toString()
+                if err.inner
+                    log 'philos.examples.executeGenerateModules.err.inner.toString()', err.inner.toString()
+            else
+                log 'philos.examples.executeGenerateModules.result', result
+
+    function executeGenerateModules
+        param modules
+        param callback
+
+        _ async.mapSeries
+            @ modules
+            =>
+                param module
+                param callback
+        
+                var ittfDocumentUri
+                    _ path.join
+                        @ __dirname
+                        @ 'ittf'
+                        @ module + '.philos.ittf'
+                
+                var outputPath
+                    _ path.join
+                        @ __dirname
+                        @ '..'
+                        @ '..'
+                        @ module + '.philos'
+                
+                $*
+                    _ loadModelAndGenerateArtifact
+                        @ ittfDocumentUri
+                        {
+                        @ 'philos/document'
+                        f_cb( artifactText )
+                            _ file.write
+                                @ outputPath
+                                @ artifactText
+                            r_cb( artifactText )
+                *$
+                _ loadWizziModel
+                    @ ittfDocumentUri
+                    {
+                    f_cb( model )
+                        _ file.write
+                            @ outputPath + '.json'
+                            _ stringify
+                                @ model.toJson()
+                                @ null
+                                @ 4
+                        _ loadModelAndTransform
+                            @ ittfDocumentUri
+                            {
+                            @ "philos/extended"
+                            f_cb( model )
+                                _ file.write
+                                    @ outputPath + '.extended.json'
+                                    _ stringify
+                                        @ model
+                                        @ null
+                                        @ 4
+                                r_cb()
+            @ callback                

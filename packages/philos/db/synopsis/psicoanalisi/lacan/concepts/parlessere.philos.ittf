@@ -1,0 +1,9 @@
+$group
+
+    namespace lacan
+
+        concept parlessere
+            + Concetto introdotto per pensare non al vivente fatto dal rinvio dell’articolazione significante, 
+                \b quanto al vivente fatto dalle incisioni di uno "sciame di significanti" 
+                \b che rappresentano l’irruzione di un godimento non collegato alla trama dell'Altro. 
+                \b Il parlessere non è in rapporto con il linguaggio ma con "lalingua”.

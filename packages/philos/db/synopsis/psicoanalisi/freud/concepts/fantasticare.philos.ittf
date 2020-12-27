@@ -1,0 +1,15 @@
+$group
+
+    namespace freud
+
+        concept fantasticare
+            quote
+                + Con l’introduzione del principio di realtà si è differenziata una specie di attività di pensiero che, 
+                    \b serbatasi libera dall’esame di realtà, 
+                    \b è rimasta soggetta soltanto al principio di piacere.
+                    \b Si tratta dell’attività del fantasticare, 
+                    \b che incomincia già col gioco dei bambini, e che successivamente, 
+                    \b portata avanti nella forma dei sogni a occhi aperti, 
+                    \b rinuncia alla dipendenza dagli oggetti reali.
+                kindle-loc 52842-52846
+                article freud.precisazione-sui-due-principi-dell-accadere-psichico

@@ -1,0 +1,14 @@
+$group
+
+    namespace freud
+
+        concept funzione-secondaria
+            + Con la crescente complessità dell'interno dell'organismo
+                \b il sistema nervoso riceve stimoli endogeni dall'elemento somatico stesso:
+                \b fame, respirazione, sessualità.
+                \b L'organismo non può fuggirli, come uno stimolo esterno, 
+                \b e l'unico modo per farli cessare
+                \b è produrre nel mondo esterno le circostanze adeguate,
+                \b ad esempio il nutrimento, con una azione detta specifica.
+            + L'organismo impara a mantenere una scorta di Qἠ per le esigenze di una azione specifica,
+                \b continua comunque a cercare di mantenere il più basso possibile il livello di Qἠ.

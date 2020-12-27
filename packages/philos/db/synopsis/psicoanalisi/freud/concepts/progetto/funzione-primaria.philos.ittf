@@ -1,0 +1,10 @@
+$group
+
+    namespace freud
+
+        concept funzione-primaria
+            + Un sistema nervoso primario si serve della Qἠ acquisita
+                \b per rimetterla lungo la via che lo collega ai meccanismi muscolari
+                \b mantenendosi in tal modo privo di stimoli.
+            + La bipartizione dei neuroni in motori e sensori è un ordinamento
+                \b che ha per scopo di annullare la ricezione di Qἠ mediante una trasmissione.

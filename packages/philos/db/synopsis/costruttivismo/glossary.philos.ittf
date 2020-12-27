@@ -1,0 +1,24 @@
+$group
+
+    glossary enciclopedismo
+        period 1600
+        + deduzione del sistema dell'universo e della totalità delle scienze dal concetto
+            \b primo ed essenziale dell'ordine
+
+    approach strumentalismo
+        + Nel mondo moderno lo strumentalismo fu sviluppato intorno all'inizio del nostro secolo in tre modi più o meno independenti: 
+            \b Dai "pragmatisti" negli Stati Uniti (14); 
+            \b da Ernst Mach in Austria (15); e 
+            \b da Aleksandr Bogdanov in Russia (16).
+
+        author Dewey
+            approach pragmatismo
+            + le idee e le teorie sono mezzi, strumenti per l’azione, la cui ‘verità’ è determinata dalla loro utilità ai 
+                \b fini della sopravvivenza biologica e del processo di adattamento dell’individuo, o meglio degli 
+                \b individui associati, all’ambiente.
+        
+        author Mach
+            field filosofia della scienza
+            against-approach realismo
+            + le teorie scientifiche non sono descrizioni vere della realtà fisica, ma strumenti più o meno efficaci 
+                \b per organizzare, rappresentare e prevedere fenomeni osservabili.

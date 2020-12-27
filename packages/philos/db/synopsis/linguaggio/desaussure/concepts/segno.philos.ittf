@@ -1,0 +1,36 @@
+$group
+
+    namespace desaussure
+
+        concept segno
+            + 
+
+        concept significazione
+            + Se un significante S1 è necessariamente legato a un significato s1,
+                \b ciò ci assicura una significazione Sign.1. 
+
+        concept delimitazione-del-segno
+            title principio della delimitazione del segno
+            quote
+                + Per (…) essere ben sicuri che si ha a che fare con una unità, 
+                    \b bisogna che, confrontando una serie di frasi in cui s’incontra la stessa unità, 
+                    \b si possa in ogni caso separare proprio quella dal rimanente contesto 
+                    \b avendo osservato che il senso autorizza la delimitazione
+                book desaussure.corso-di-linguistica-generale
+
+        concept valore-del-segno
+            quote
+                + Dire che il contesto delimita il segno, 
+                    \b non vuol dire altro se non che il segno non è segno se non in funzione del contesto. 
+                    \b Ora, il contesto è un insieme di altri segni. 
+                    \b La realtà del segno linguistico non esiste dunque che in funzione di tutti gli altri segni. 
+                    \b È questa proprietà che F. de Saussure chiama il valore del segno. 
+                    \b Il “valore” è ciò che fa che un frammento acustico divenga reale e concreto, 
+                    \b che sia delimitato facendo senso, e dunque che divenga segno linguistico. 
+                    \b Possiamo allora dire, come osserva Saussure, che 
+                quote
+                    + nella lingua ogni termine ha il suo valore per l’opposizione con tutti gli altri termini
+                        \b [allo stesso modo in cui nel gioco degli scacchi]
+                        \b il valore rispettivo dei pezzi dipende dalla loro posizione sulla scacchiera
+                    book desaussure.corso-di-linguistica-generale
+                article dor.grafo_del_desiderio

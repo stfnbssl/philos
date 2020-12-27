@@ -1,0 +1,8 @@
+v07/plugin/package()
+
+	$append scripts
+        examples "node examples"
+
+    $append dependencies
+
+    $append devDependencies

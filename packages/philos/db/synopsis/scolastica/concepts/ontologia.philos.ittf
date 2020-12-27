@@ -1,0 +1,11 @@
+$group
+
+    namespace scolastica
+
+        concept ontologia
+            + L'ontologia comincia quando si considerano le cose in quanto enti, 
+                \b quando si considera l'ente in quanto ente.
+            + È un uso ormai invalso nell'ontologia contemporanea 
+                \b chiamare essere l'ente in quanto ente.
+            + L'ontologia indaga i caratteri dell'essere, 
+                \b i suoi modi di attuarsi, le sue categorie.

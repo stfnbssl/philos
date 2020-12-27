@@ -1,0 +1,10 @@
+$group
+
+    namespace freud
+
+        concept energia
+            title energia mentale
+
+            concept legata
+
+            concept mobile     

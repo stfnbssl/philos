@@ -1,0 +1,8 @@
+$group
+
+    namespace freud
+
+        concept formazione-reattiva
+            
+            + nel caso della rimozione i contenuti psichici 
+                \b possono avere apparenza del tutto opposta al rimosso

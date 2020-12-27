@@ -1,0 +1,19 @@
+$group
+
+    namespace lacan
+
+        concept identificazione
+
+            quote
+                + Assumere l’immagine da cui si è affascinati
+                    \b si rivela essere la matrice dell’identificazione, 
+                    \b proprio perché tale immagine esterna introiettata 
+                    \b ha il potere di identificare, e cioè di forgiare e di plasmare, 
+                    \b di dare un’identità - di identificare quindi - l’istanza che la fa propria.             
+                article licitra.amore-e-godimento
+                page 2
+
+            quote
+                + nell’identificazione l’alieno diventa intimo e l’intimo si aliena
+                article licitra.amore-e-godimento
+                page 3

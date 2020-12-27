@@ -1,0 +1,1696 @@
+$group
+
+    source
+        url http://www.gianfrancobertagni.it/materiali/psiche/ciappa.pdf
+
+$group
+
+    $$ 1.1 IL MONDO DELLA RAPPRESENTAZIONE
+    quote
+        + L’uomo nasce in un bagno di linguaggio.
+            \b Questo bagno di linguaggio determina l’uomo già prima della nascita.
+        article lacan.piccolo-discorso-a-l-ORTF
+        comment 
+            + questa la soglia verso cui Lacan spinge la riflessione sul soggetto
+
+    concept lacan.altro-grande
+        title Altro
+        + il luogo della parola
+        + il soggetto dipende dalle leggi del linguaggio
+            \b ovvero dalla dimensione dell’Altro come luogo della parola. 
+
+    concept lacan.soggetto
+        + sintesi tra le due “anime ” della cultura filosofica fine 1800/inizio 1900;
+            \b soggettivistica (Hegel, Kojéve, Heidegger, Sarte) e
+            \b strutturalista (Saussure, Jakobson, Levy-Strauss, Althusser)
+        + Il “ritorno a Freud” come progetto inaugurale
+            \b del pensiero lacanianao nasce dall’esigenza di mediare
+            \b tra l’istanza del soggetto, da cui proviene la dottrina freudiana, 
+            \b e quella della struttura che lo eccede
+            \b in quanto programmaticamente irriducibile al soggetto. 
+        r-concept lacan.il-discorso-dell-altro
+            + Lacan mette in questione nella nozione di soggetto, 
+                \b la dimensione del rapporto uomo e linguaggio.
+        concept sovversione-del-soggetto
+            r-concept lacan.altro-grande
+                + In questo senso la nozione di inconscio scoperta da Freud
+                    \b non è altro che l’idea stessa di sovversione del soggetto.
+
+    concept lacan.parola
+        + Le parole dunque ci precedono. Siamo alla mercè dell’Altro. 
+            \b Allorché madre e padre desiderano un figlio, 
+            \b intorno alla figura di colui che verrà al mondo si istaurano discorsi;
+            \b quando questi discorsi assumono il carattere imperativo di un “che sia”, 
+            \b l’azione del significante è già preparata. 
+        + Dai suoi primi giorni di vita, l’infans è alla dipendenze dell’altro, 
+            \b il suo grido deve essere interpretato, 
+            \b le sue intenzioni incontrando la voce dell’altro, dei genitori, diventano le loro parole. 
+        + È interpretando il grido come una domanda che il bambino viene introdotto nel linguaggio.
+        + La funzione della parola è costitutiva, condizionale sull’essere umano. 
+
+    concept lacan.il-discorso-dell-altro
+        + l’umanità stessa dell’uomo si struttura 
+            \b a partire dalla preesistenza di un discorso, di una sonorità significante 
+            \b che per Lacan è non tanto strumento di espressione o medium della comunicazione, 
+            \b ma discorso dell’Altro, trama simbolica entro cui si viene al mondo.
+        + s’incide nella carne dell’uomo questo "avan-detto" che ricopre il suo nome proprio
+            \b ma senza determinismo, escludendo che una tale dimensione parlante 
+            \b preluda ad un soggetto schiavo del linguaggio, assoggettato a un parlato
+
+
+
+    $$ 1.2 LA RAPPRESENTAZIONE E IL SOGGETTO ELISO
+    Ne Le parole e le cose Michel Foucault interroga il quadro di Velazquez Las Meniñas, 
+    in cui a suo avviso si dispiega in forma emblematica la struttura della rappresentazione moderna. 
+    
+    All’inizio del XVII secolo si afferma una nuova struttura della rappresentazione
+    che sostituisce il canone della Somiglianza 
+    che ha fornito il sistema delle relazioni fra uomo e natura nel Cinquecento, 
+    per divenire il centro di una nuova esperienza fondata sull’elisione del soggetto.
+
+    Trasparenza e riflessività sono i due cardini della rappresentazione moderna. 
+    La rappresentazione si fa cioè rappresentazione di se stessa, si duplica, 
+        si denuda nel mostrare la sua struttura (riflessività) e,
+        nello stesso tempo, mette in atto un rapporto con il soggetto della rappresentazione 
+        di cui smarrisce la genesi (trasparenza), 
+        mostrando in tal modo la lacuna intorno a cui si costituisce la rappresentazione,
+        lacuna che colpisce proprio il soggetto. 
+    Ecco come, attraverso la lettura del quadro di Velazquez Foucault spiega l’evento:
+        Questa lacuna è dovuta all’assenza del re – assenza che è un artificio del pittore. 
+        Ma questo artificio cela e indica un vuoto che è invece immediato: 
+        quello del pittore e dello spettatore nell’atto di guardare o comporre il quadro. 
+        Ciò accade forse perché in questo quadro, come in ogni rappresentazione di cui, per così dire, 
+        esso costituisce l’essenza espressa,
+        l’invisibilità profonda di ciò che è veduto partecipa dell’invisibilità di colui che vede 
+        – nonostante gli specchi, i riflessi, le imitazioni, i ritratti.
+    Tutt’attorno alla scena sono disposti i segni e le forme successive della rappresentazione; 
+        ma il duplice rapporto che lega la rappresentazione al suo modello e al suo sovrano, 
+        al suo autore non meno che a colui cui ne viene fatta offerta, 
+        tale rapporto è necessariamente interrotto 15.
+    È questa lacuna, questo vuoto, oggetto di sguardi,
+        ciò intorno a cui la rappresentazione sorge. 
+    Nel quadro si ha un principio di dispersione, 
+        in modo che per chi osserva sia innestato in un gioco di rimandi continuo, sfiancante, 
+        entro cui si dà la scena del quadro: 
+        lo sguardo del pittore sull’oggetto della rappresentazione, 
+        la piccola principessa colta nel momento in cui sembra stornare gli occhi dalla coppia reale, 
+        la governante che riserva invece tutta la sua attenzione alla piccola principessa, 
+        e dietro le due figure di un uomo e di una donna, 
+        l’uno con sguardo compiaciuto ma quasi cancellato, 
+        l’altra che sembra in atto di rivolgerli parola distraendosi da quel che accade. 
+        Più avanti una coppia di nani, anche in questo caso, come nota Foucault, 
+        uno dei due guarda la coppia regale mentre l’altro svia lo sguardo affaccendato in altro. 
+    Sulla sinistra invece, ecco parte della scena che il pittore va dipingendo, 
+        al confine fra la tela, di cui vediamo il telaio, e il presunto oggetto della rappresentazione, 
+        ci sono i due regali. 
+    Nello specchio s’incornicia l’immagine riflessa dell’assenza, 
+        di quanto resta invisibile allo spettatore e di cui, in verità, 
+        non si può dedurre la natura di riflesso: 
+        se sia cioè immagine del dipinto o immagine diretta della coppia regale che giace in posa dietro la tela. 
+        E infine sul fondale, dietro una porta, appare una figura vestita di nero, 
+        che sembra di passaggio, ferma sulla soglia, come se fosse emersa da altrove. 
+        
+    Resta lì, immobile, assumendo la posa di uno sguardo che si dispiega su tutta la scena 
+    a mo’ di osservatore distratto ma incuriosito. 
+    È lì, forse, che si raccoglie, magari non nelle intenzioni del pittore, 
+    la dimensione visiva della rappresentazione, 
+    quanto insomma oltre a dare profondità al dipinto sembra alludere a una sorta di mise en abîme.
+    In questo ordito di sguardi, in questa trama di ottiche, 
+    nella visibilità della vista entro cui si descrive la traiettoria di ciò che Foucault definirà
+    come la nascita della rappresentazione nell’epoca classica, 
+    resta impresso il marchio di un’assenza, di quella lacuna che rende conto 
+    della struttura della rappresentazione e del suo sdoppiamento. 
+    
+    In una parola, la rappresentazione del pittore 
+    rappresenta la mancanza del soggetto della rappresentazione. 
+    Leggiamo da Foucault: 
+
+        Vi è forse in questo quadro di Velazquez una sorta di rappresentazione della rappresentazione classica 
+        e la definizione dello spazio che essa apre. 
+        Essa tende infatti a rappresentare se stessa in tutti i suoi elementi, 
+        con le sue immagini, gli sguardi cui si offre, 
+        i volti che rende visibili, i gesti che la fanno nascere. 
+        Ma là, nella dispersione da essa raccolta e al tempo stesso dispiegata, 
+        un vuoto essenziale è imperiosamente indicato da ogni parte: 
+        la sparizione necessaria di ciò che la istituisce 
+        – di colui cui essa somiglia e di colui ai cui occhi essa non è che somiglianza. 
+        Lo stesso soggetto – che è il medesimo – è stato eliso. 
+        E sciolta infine da questo rapporto che la vincolava, 
+        la rappresentazione può offrirsi come pura rappresentazione16
+
+
+
+
+    $$ IL SOGGETTO DELL’INCONSCIO
+    concept lacan.soggetto-diviso
+    concept lacan.soggetto-dell-inconscio
+
+    Ma di quale soggetto si tratta? 
+    Che cosa significa che contemporaneamente alla nascita della rappresentazione, 
+    così come viene figurata dal quadro di Velazquez, il soggetto “si elide ”? 
+    E, soprattutto, perché ricorrere a questa lettura foucaultiana per introdurre la questione del linguaggio?
+    Per rispondere occorre fare un passo indietro e ricentrare il discorso sui binari del pensiero lacaniano. 
+    Occorre cioè ripercorrere la strada che ha portato Lacan alla definizione di soggetto dell’inconscio, 
+    alla sua “causazione” e al suo statuto di soggetto diviso.
+    Alla domanda, insomma, sul “che cosa" è il soggetto diviso bisogna sostituire un “da che cosa” è diviso il soggetto.
+    Cosa intende Lacan dunque quando afferma che la psicoanalisi condivide con la scienza lo stesso soggetto, 
+    inteso in quanto prodotto eminente della cultura del XVII secolo 
+    e che trova il suo paradigma nell’istituzione del cogito cartesiano?
+    Bisogna innanzitutto chiarire che tanto per Lacan quanto per Freud il soggetto non è l’io. 
+    I due termini sono in un certo senso in contrasto sia per il loro campo, la loro estensione, 
+    che per funzione, ovvero per la posizione che occupano nel sistema psichico. 
+    Il riferimento al soggetto per Lacan è del tutto strategico: 
+    da un lato infatti col soggetto si vuole definire il campo d’indagine proprio della psicoanalisi, 
+    ciò che la psicoanalisi “maneggia” e su cui si fonda, 
+    ciò di cui “ parla ” una volta posta la questione del suo essere; 
+    dall’altro il soggetto è una nozione che sorge nell’ambito della scienza moderna, 
+    nella filiazione cioè proveniente dal passaggio cartesiano 
+    che ha consentito alla scienza di nascere come disciplina e come sapere in un dato periodo storico.
+    
+    Veniamo dunque alla questione: che cosa è il soggetto dell’inconscio?
+    Per rispondere occorre innanzitutto considerare la
+    discriminazione strutturale tra soggetto e io. 
+    Cos’è l’io allora? Lacan risponde: 
+    quote
+        + L’io è letteralmente un oggetto – un oggetto che adempie a una certa funzione
+            \b che chiamiamo funzione immaginaria
+        book lacan.l-io-nella-teoria-di-freud-e-nella-tecnica-della-psicoanalisi
+        page 57
+
+    Nel 1922 Freud pubblica il saggio L’io e l’Es in cui dà sostanza a una svolta 
+    in parte anticipata nel 1920 con il saggio Al di là del principio di piacere. 
+    In questo saggio Freud pur mantenendo la distinzione tra 
+    le varie province psichiche Inc, Prec e C o Coscienza (P-C), 
+    introduce una tripartizione che riguarda tre nuove “istanze” psichiche: Es, Io e Super-io,
+    nozioni che adempiono alla funzione di spiegare la psiche dal punto di vista topologico.
+    Questa nuova tripartizione nasce dalla consapevolezza che 
+    l’io non è quella formazione psichica che semplicemente erediterebbe dal sistema C il suo contenuto, 
+    identificandosi in buona parte con la coscienza. 
+    L’io, dice Freud, è anche inconscio 18 .
+    
+    Siamo di fronte a un tema cruciale. 
+    Una tale affermazione sembra a prima vista contraddire l’evidenza che l’io sia quella parte della psiche 
+    che gode della facoltà di corrispondere al mio pensiero cosciente. 
+    Per comprende la portata di una simile affermazione, 
+    occorre innanzitutto chiarire cosa sia l’inconscio, 
+    o almeno quale sia la sua estensione nel sistema freudiano, 
+    al fine di poter darne ragione e cogliere successivamente il luogo e lo statuto dell’io.
+    Inconscio è innanzitutto la sede di quei contenuti, di quelle rappresentazioni che,
+    per via dell’azione della rimozione, non raggiungono la coscienza. 
+    Nel sistema freudiano si distinguono rappresentazioni inconsce e rappresentazioni consce. 
+    Nella Nota sull’inconscio in psicoanalisi del 1912 Freud chiama conscia 
+    “soltanto la rappresentazione che è presente nella nostra coscienza e di cui abbiamo percezione ” 19
+    Lapalissiano. 
+    
+    Eppure l’ovvietà di una simile definizione serve a tracciare la strada per il suo opposto, 
+    ossia per la definizione dell’inconscio:
+    “Una rappresentazione inconscia è quindi una rappresentazione 
+        che non avvertiamo ma la cui esistenza siamo pronti ad ammettere in base a indizi e prove di altro genere ” 20. 
+    E già un buon passo. 
+    In affetti la definizioni di rappresentazione inconscia aggiunge qualcosa alla semplice ovvietà che essa “è
+    inconscia ”, 
+    che non perviene alla sistema percezionecoscienza: 
+    ci dice che la sua esistenza si deduce da “indizi e prove di altro genere ”. Quali? 
+    Freud risponderebbe: lapsus, atti mancati, motti di spirito, sogni; 
+        tutto ciò che sorprende il soggetto e lo coglie in fallo rispetto al suo voler-dire.
+    Ma accanto a queste due forme di rappresentazione ve ne è una terza che Freud assicura al sistema Prec: 
+    si tratta della rappresentazione latente, che se pur inconscia rimane “capace di ” diventare cosciente.
+    Una simile schematizzazione non rende tuttavia conto della complessità dell’attività psichica. 
+    Freud nota che la distinzione tra rappresentazione inconscia, latente e conscia 
+    deve servire solo da guida per delimitare, ove possibile, il campo dell’inconscio da quello della coscienza.
+    Con la “svolta ” dei saggi contenuti in Metapsicologia del 1915, 
+    Freud affronta il problema dell’inconscio stabilendo che il nesso con la rimozione 
+    non è sufficiente a esaurirlo e a spiegarlo.
+    
+    Il non essere conscio cioè non copre unicamente lo spazio del rimosso, dei suoi contenuti, 
+    che Freud identifica in rappresentazioni di cose (Sachevorstellung), che spingerebbero, 
+    secondo la vulgata, per divenire coscienti e scaricarsi, allo scopo di raggiungere la motilità. 
+    In questa visione, la psiche verrebbe a essere tripartita secondo una divisione in regioni o province comunicanti, 
+    e tuttavia tra loro nettamente distinte. Non è così.
+
+    quote
+        + L’inconscio, ci dice Freud, ha un’estensione più ampia: 
+            \b il rimosso è una parte dell’inconscio
+        note 21
+
+    Affermando ciò, Freud vuole sottrarre l’inconscio a quella rappresentazione 
+    che ne fa un gorgo di pulsioni pronte a scaricarsi sull’io per riconquistare l’appagamento negato. 
+    Pertanto, sottolinea, 
+    quote
+        + [l’inconscio] comprende da un lato atti che sono meramente latenti, 
+            \b provvisoriamente inconsci, ma che per il resto non differiscono in nulla dagli atti consci, 
+            \b e dall’altro processi come quelli rimossi, che, se diventassero coscienti, 
+            si discosterebbero necessariamente, e nel modo più reciso, dai rimanenti processi consci
+        note 22. 
+    E così che l’inconscio sfora e si estende al sistema Prec, 
+    sistema che non gode di autonomia, 
+    che non si limita al solo operare la rimozione, 
+    al filtraggio delle informazioni cui è consentito accedere alla coscienza.
+    Questo dal punto di vista dinamico. 
+    Sul piano descrittivo il sistema Inc si differenzia per caratteristiche peculiari 
+    che lo pongono in una dimensione di assoluta estraneità tanto dal sistema Prec che da quello percezione-coscienza: 
+    assenza di contraddizione e di negazione, intemporalità, mobilità degli investimenti, 
+    nonché una relativa indipendenza dalla realtà esterna, 
+    sono i tratti salienti dell’inconscio.
+    Il nucleo dell’Inc è costituito di rappresentanze pulsionali che aspirano a scaricare il proprio investimento, 
+    dunque da moti di desiderio. 
+    Questi moti pulsionali sono fra loro coordinati, esistono gli uni accanto agli altri senza influenzarsi, 
+    e non si pongono in contraddizione reciproca. 
+    […] In questo sistema non esiste la negazione, né il dubbio, né livelli diversi di certezza. 
+    Tutto ciò viene introdotto dal lavoro della censura fra Inc e Prec 23
+    
+    L’Inc dunque non è un abisso. L’inconscio non è un flusso di energia cieco. 
+    Esso è piuttosto il luogo in cui qualcosa accade e in cui cadono, sotto la spinta della rimozione, 
+    le rappresentazioni di cose, rappresentanze pulsionali, che consistono
+    quote
+        + nell’investimento, se non nelle dirette immagini mnestiche della cosa, 
+            \b almeno nelle tracce mnestiche più lontane che derivano da quelle immagini
+        note 24
+
+    L’inconscio, ci suggerisce Freud, è un sistema di tracce (tracce mnestiche), e non impronte, si noti, 
+    da cui si originano rappresentazioni di cose. 
+    La differenza, adesso, tra rappresentazione inconscia e rappresentazione conscia consiste, ribadisce Freud, 
+    in due distinte trascrizioni di uno stesso contenuto.
+    Ci troviamo di fronte a un punto nodale: la distinzione tra Sachevorstellung e Wortvorstellung
+    serve per comprendere come sia possibile la comunicazione tra i vari apparati psichici. 
+    Seguiamo Freud:
+    La rappresentazione conscia comprende la rappresentazione della cosa più la rappresentazione della parola corrispondente, 
+    mentre quella inconscia è la rappresentazione della cosa e basta. 
+    Il sistema Inc contiene gli investimenti che gli oggetti hanno in quanto cose, 
+    ossia i primi e autentici investimenti oggettuali; 
+    il sistema Prec nasce dal fatto che questa rappresentazione della cosa 
+    viene sovrainvestita in seguito al suo nesso con rappresentazioni verbali 25
+    
+    In altre parole, ciò che consente al sistema inconscio di spingersi nella coscienza, 
+    di “farsi sentire ” nelle sue varie forme sintomatiche è un progresso nella rappresentazione, 
+    una concatenazione di rappresentazioni che tende ad associare alla Sachevorstellung una Wortvorstellung. 
+    Questa operazione svela la natura dell’apparato psichico e del suo funzionamento, 
+    in particolare il ruolo del linguaggio nella sua strutturazione. 
+    Ma facciamo un passo indietro.
+    L’inconscio per Freud funziona secondo due grandi principi: 
+    il principio di piacere, che governa l’inconscio, 
+    e il principio di realtà, che è la legge che regola il preconscio o conscio. 
+    Il primo sussume quei processi di pensiero destinati a rimanere inconsci, 
+    il secondo si presenta invece “nell’ordine di un discorso mediato, articolabile, comprensibile, proveniente dal preconscio ” 26. 
+    I processi di pensiero inconscio pervengono alla coscienza nella misura in cui li si può verbalizzare, 
+    consegnandoli al dominio del principio di realtà. 
+    quote
+        + I processi ideativi, cioè quegli atti di investimento che sono i più lontani dalle percezioni, 
+            \b sono in se stessi privi di qualità e inconsci e acquistano la capacità di diventare coscienti 
+            solo connettendosi ai residui delle percezioni verbali
+        note 27
+
+    Non è compito di questa analisi indagare ulteriormente i rapporti tra coscienza e inconscio, 
+    ci basti sapere che è a questo stadio che si apre la dimensione dell’io, 
+    nucleo che condivide con la percezione e la coscienza la stessa stoffa. 
+    È qui che fa la sua comparsa l’Io, nella misura in cui qualcosa che si articola in parole perviene alla coscienza
+    permettendo l’articolazione di un discorso, ovvero l’articolazione di rappresentazioni tra loro. 
+    La percezione di idee, immagini, la strutturazione di pensieri diventa essenziale 
+    affinché sia possibile qualcosa come un processo di pensiero conscio. 
+    
+    L’Io è così quell’istanza che, inizialmente, si colloca tra percezione e coscienza e presiede a tali processi.
+    Se dunque l’inconscio è l’apparato che funziona secondo la legge principio di piacere, 
+    che spinge all’azzeramento della tensione, secondo uno stimolo che chiede il suo esaurimento nella motilità, 
+    il sistema percezione-coscienza, di cui l’io è l’istanza e l’espressione, 
+    alla scarica immediata della pulsione sostituisce un sistema coordinato che risponde al principio di realtà, 
+    ossia alla mediazione tra stimolo-pulsione da un lato, e scarica dall’altro,
+    annunciando in tal modo quello scarto tra la realizzazione della scarica a tensione zero e la sua possibilità di realizzazione, 
+    secondo un registro adattivo.
+    Cosa è dunque l’Io, io che Freud colloca nell’interstizio tra percezione e coscienza? 
+    Nella seconda topica Freud affronta il problema e si chiede 
+    se l’io sia veramente solo un nucleo facente parte del sistema percezione-coscienza.
+    Ci siamo fatti l’idea che esista nella persona un nucleo organizzato e coerente di processi psichici 
+    che chiamiamo l’Io di quella persona. 
+    A tale Io era legata la coscienza; esso domina le vie d’accesso alla motilità, 
+    ossia alla scarica degli eccitamenti nel mondo esterno; 
+    l’Io è quell’istanza psichica che esercita un controllo su tutti i processi parziali, 
+    è l’istanza psichica che di notte va a dormire e che anche allora esercita la censura onirica 28
+    
+    Il lavoro analitico, svolto con i suoi pazienti, porta Freud ad accorgersi che non tutto l’io è cosciente. 
+    Vi sono infatti momenti in cui, durante l’analisi, si manifestano resistenze, 
+    “le associazioni vengono meno quando dovrebbero avvicinarsi al rimosso” 29 
+    e il paziente si trova a vivere quella dimensione spiacevole di chi non ne sa nulla, 
+    nel momento in cui è proprio una resistenza quella che sta agendo in lui.
+    
+    Gli diciamo allora che è dominato da una resistenza; egli però non ne sa nulla […]. 
+    Dato però che questa resistenza proviene certamente dal suo Io e ad esso pertiene, 
+    ci troviamo di fronte a una situazione che non avevamo previsto. 
+    Abbiamo trovato nell’Io stesso qualche cosa che pure è inconscio, 
+    e cioè qualche cosa che esercita potenti effetti senza divenire in quanto tale cosciente, 
+    e che necessita, per essere reso cosciente, di un particolare lavoro 30.
+    Questa resistenza, dice Freud, proviene sicuramente dall’io, 
+    in quanto non espressa in registri sintomatici, 
+    e dunque ci deve far pensare che non tutto l’io è coerente con il sistema percezionecoscienza. 
+    In esso qualcosa appartiene all’inconscio, in quanto si comporta alla maniera del rimosso.
+
+    Tuttavia le conseguenze [di questa scoperta] per la nostra concezione dell’inconscio sono ancora più importanti. 
+    […] Constatiamo che l’Inc non coincide col rimosso; 
+    rimane esatto asserire che ogni rimosso è Inc, ma non che ogni Inc è rimosso. 
+    Anche una porzione dell’Io, una porzione Dio sa quanto importante dell’Io, può essere, e anzi indubbiamente è Inc. 31.
+
+    Appare adesso più chiaro l’ambito di dominio dell’inconscio e la correlativa funzione dell’Io. 
+    L’Io non è la sintesi dei miei pensieri e delle mie percezioni; 
+    l’Io è coinvolto invece – Dio sa in che misura – nella morsa tra realtà esterna e pulsioni interne, 
+    un’istanza tutt’altro che unita e sintetica. 
+    L’Io, dirà Lacan nella sua lettura dell’Entwurf freudiano nel seminario L’etica della psicoanalisi,
+    l’io è l’inconscio in funzione. 
+    Da un lato obliterato dall’inconscio, dall’altro suo prolungamento nella realtà. 
+    Si tratta in sostanza di un’istanza fondamentalmente rappresentativa, 
+    funzionante secondo una dialettica che articola le Wortvorstellung alle Sachevorstellung, 
+    ed è coinvolto in un processo che in tutto e per tutto associa linguaggio e rappresentazione.
+    E qui sta lo snodo, vedremo, che segna il passaggio in Lacan alla definizione di soggetto dell’inconscio
+    come effetto dell’azione del significante, una volta introdotto nel campo dell’Altro come luogo della Parola.
+
+    A questo Tu che ho chiamato di addomesticamento, e che non addomestica nulla, Tu di vano incantamento, 
+    di vano legame, 
+    corrisponde quel che ci può quando qualche ordine ci giunge dall’al di là dell’apparato dove ribolle 
+    ciò che per noi ha a che fare con das Ding. 
+    È quel che risponderemo quando qualcosa ci sarà imputato o sarà messo sul nostro conto 
+    – Io! Che cosa è questo Io? Io tutto solo cos’è? – se non un Io di scusa, un Io di rigetto, un Io di io no, non per me. 
+    Così, fin dalla sua origine, l’Io, in quanto espelle anche se stesso con un movimento all’incontrario, 
+    l’Io come difesa, come Io che prima di tutto rigetta, e che lungi dall’annunciare, denuncia, 
+    l’Io nell’esperienza isolata del proprio sorgere e che bisogna forse anche considerare come il suo originario declino, 
+    l’Io si articola qui 32
+
+        $$ 1.4 IL SOGGETTO DELL’INCONSCIO (II)
+        L’inconscio non è l’inconoscibile. L’inconscio si manifesta, 
+        seppur attraverso il velo di sintomi, lapsus, sogni; 
+        il suo manifestarsi consente quanto meno di avvertirne la presenza. 
+        Presenza che non si confonde mai con l’esser presente, con un darsi in carne ed ossa; 
+        eppure è un manifestarsi che letteralmente sorprende, scuote il soggetto, 
+        o sarebbe forse meglio dire lo coglie a tergo nel suo discorso cosciente, 
+        nel suo voler-dire, nei suoi atti, nei suoi desideri, nelle sue intenzioni, 
+        lo coglie cioè in un vacillamento che non è nulla di superficiale ma lo concerne nel suo stesso, 
+        nel suo più radicale essere.
+        L’inconscio è un inter-detto, esso non ha nulla dell’oscurità, 
+        dell’abissale o di una qualsiasi sorta di magma pulsionale feroce e muto. 
+        L’inconscio è sì muto, ma solo perché in esso sono presenti unicamente Sachevorstellung. 
+        
+        L’inconscio pensa, ma pensa-cose.
+        Ciò nonostante, sotto il dominio del Lustprinzip, l’inconscio non può non muovere alla scarica, 
+        ed è in questo movimento che lo spinge alla deriva 33 che esso trova le sue parole, 
+        incontrando il Realitätprinzip, e cioè la sua dimensione propriamente linguistica.
+        Lo vediamo, ci dice Freud, nei sogni: in essi si apre la “via regia ” per l’inconscio, 
+        ma altresì vediamo come, nei processi di condensazione e spostamento 34, 
+        si manifestino quei meccanismi che Lacan riconoscerà appartenere 
+        alle figure retoriche basilari della metafora e la metonimia.
+        Se l’incoscio non si presenta dunque come qualcosa di unitario e chiuso in sé, 
+        anche l’Io, come abbiamo osservato, non è un’istanza di cui è possibile affermare una qualsivoglia identità. 
+        L’Io non si conta come uno e non può dar conto dei processi razionali tout court. 
+        “P ropongo di tenere conto chiamando “ Io ” quell’entità che scaturisce dal sistema P e comincia col diventare prec; 
+        ma di chiamare l’altro elemento psichico in cui l’Io si continua e che si comporta in maniera inc, l’“ Es ” , 
+        nel senso di Groddeck ” 35
+
+        Siamo nella seconda topica e Freud, con la scoperta che 
+        l’io non è “quel nucleo organizzato e coerente” che si credeva, 
+        introduce una nuova istanza, l’Es.
+        Freud lo definisce come il sostrato sul quale “poggia nello strato superiore l’Io” 36. 
+        Si tratta di un concetto chiave che può facilmente venir confuso con l’inconscio. 
+        Innanzitutto: l’Es non è l’inconscio. I due campi non si coprono. 
+        Se l’inconscio investe anche parte dell’Io, l’Es è il suo sostrato, 
+        quote
+            + ciò che basta a far sì che il sistema P formi la sua superficie [dell’io]
+            note 37
+
+        Per chiarire questo punto occorre ricordare che il sistema P è un sistema superficiale, 
+        tramite esso giungono al sistema psichico tanto le impressioni esterne quanto le sensazioni interne. 
+        Adesso, sappiamo che affinché giunga all’Io qualcosa come una rappresentazione rimossa 
+        occorre che alle Sachevorstellung si aggiungano le Wortvorstellung. 
+        Per mezzo delle rappresentazioni verbali “i processi interni di pensiero si trasformano in percezioni ” 38.
+        
+        L’operatore di questo passaggio, a livello dinamico e il prec. 
+        Ma l’Io, abbiamo visto, non è del tutto conscio, la sua estensione topica raggiunge il rimosso, l’inconscio, 
+        e ciò fa supporre a Freud che accanto all’io, a questa istanza mediatrice, di rigetto e di difesa, 
+        vi sia una nuova istanza che traduce, in termini metapsicologici, la parte dell’Io più prossima all’inconscio. 
+        Si tratta appunto dell’Es.
+        L’Es è sì in buona parte inconscio, in esso confluisce il rimosso, 
+        ma l’Es, dirà Freud, è anche quella istanza che sorge accanto all’Io, come suo sostrato, 
+        e che fa sì che sotto la legge del Lustprinzip incontri nel sistema P-C, governato il Realitätprinzip.
+        Ma anche il rimosso confluisce con l’Es, di cui non è altro che una parte. 
+        Il rimosso è separato nettamente soltanto dall’Io, 
+        mediante le resistenze alla rimozione; può tuttavia comunicare con l’Io attraverso l’Es 39
+
+        L’Es non è l’inconscio, sebbene in esso confluisca il rimosso. 
+        L’Es gioca un ruolo importante in rapporto all’Io, 
+        Io che sorge sulla base di un movimento reattivo, secondo una modificazione, dice Freud, 
+        quote
+            + per la diretta azione del mondo esterno
+            note 40
+        
+        Ecco allora che appare chiaro che l’Es non essendo l’inconscio 
+        è quella parte dell’inconscio in cui confluisce il rimosso, 
+        ma con la differenza che in esso le Sachevorstellung sono accompagnate da Wortvorstellung.
+        Se l’inconscio è muto, l’Es parla. Ça parle. Ecco la provenienza del Ça parle di Lacan.
+
+        Siamo adesso in grado di comprendere cosa intenda dire Lacan 
+        quando parla di Io come oggetto, o funzione immaginaria. 
+        In un passo de L’Io e L’Es, Freud dopo aver introdotto l’Es, 
+        afferma che circa la genesi dell’Io agisce anche un altro fattore, il corpo. 
+        In questa prospettiva, il corpo va inteso soprattutto come una superficie, 
+        luogo in cui possono convergere percezioni esterne e interne. 
+        quote
+            + [L’Io è] innanzitutto un’entità corporea, non soltanto un’entità superficiale, 
+                \b ma anche la proiezione di una superficie
+            note 41. 
+        È forse a questo che pensa Lacan quando parla di funzione immaginaria? 
+        Di Stadio dello specchio? 
+        In un certo senso sì. 
+        Si può dire che Lacan legga Freud alla lettera allorquando, parlando dell’io, 
+        descrive una dimensione in cui il soggetto si proietta, 
+        ovvero assume la propria immagine come un tutto unitario, 
+        come se l’io fosse lo schermo riflettente attraverso cui reperire la propria immagine coordinata, 
+        anche attraverso il miraggio della propria unità.
+
+        Sintetizzando, l’Io per Freud assolve al compito di regolare, 
+        attraverso il principio di realtà la tendenza alla scarica proveniente dall’Es, 
+        che agisce sotto il dominio del principio di piacere. 
+        Ma l’Io è anche un istanza corporea, legata al sistema percezione-coscienza, 
+        ad esso spetta, sul piano funzionale, 
+        quote
+        
+            + il controllo delle vie di accesso alla motilità
+                \b fine ultimo della scarica pulsionale 
+            note 42. 223-4 
+        È l’Io che fa i conti, se così si può dire, con il corpo, 
+        l’io è un io-corpo in quanto è ad esso che spetta il compito di assicurare la mediazione con il mondo 
+        attraverso la dialettica tra percezione, coscienza e inconscio. 
+        L’io, insomma, pur nello scacco di non essere “padrone in casa propria ”, 
+        mirerebbe alla padronanza, ed è forse questo tratto che crea la maggiore confusione. 
+        
+        Mirare alla padronanza non significa “padroneggiare”. 
+        L’io cioè assolve, in maniera precaria, a un ruolo in cui, abbiamo visto, non si risolve. 
+        E questo perché ovunque vi sia un piano proiettivo, 
+        la rappresentazione che vi si proietta non assicura che essa non sia un miraggio, 
+        o quantomeno che tale proiezione non sia reattiva nei confronti di quanto “altrove” , 
+        nello stesso apparato psichico, si compie ad insaputa dell’io. 
+        Ecco allora perché, una volta delimitato il ruolo dell’io, 
+        Lacan introduce la nozione di soggetto, 
+        intendendo con ciò qualcosa che non si configura nell’argine posto dall’io, 
+        ma che dell’io assume anche la sua parte “oscura”.
+
+        Siamo alla soglia di una svolta importante. 
+        Per comprendere cosa sia il soggetto dell’inconscio e in che modo si distingua dall’io, 
+        per comprendere altresì cosa significhi quella ciò che Lacan chiama
+        “divisione del soggetto”, 
+        cifra e perno del suo pensiero, 
+        e per arrivare infine alla definizione 
+        del campo del linguaggio e della funzione dell’Altro come luogo della parola, 
+        dobbiamo innanzitutto saper distinguere i termini di Io, Soggetto e Desiderio,
+        così come si vanno elaborando in Lacan.
+
+        Ci riferiamo dunque, in primo luogo, alla celebre tesi dello stadio dello specchio 
+        redatta da Lacan nel 1936 e inserita negli Scritti in una revisione datata 1949 
+        e scritta per il Congresso internazionale di Psicoanalisi di Zurigo.
+
+        Si tratta di uno scritto in cui Lacan propone di ridare 
+        quote
+            + alla teoria, cruciale in Freud, del narcisismo, 
+                \b la sua posizione dominante nella funzione dell’io 
+            note 43. 
+        L’Io, abbiamo visto, secondo la lezione freudiana, non è alcunché di nucleare, saldo, 
+        non è il centro e l’alveo di un sapere fondato su certezza e distinzione. 
+        Tutt’altro, l’Io è un’immagine, una superficie sui cui si staglia la parvenza di un mondocorpo, 
+        è imago sorta dall’azione disgregatrice tanto dell’ambiente che del mondo interiore. 
+        L’io è quell’istanza all’interno della quale si proietta il mondo cosciente. 
+        Lo stesso Lacan, seguendo Freud, fa riferimento ne Seminario II 44 alla nozione di coscienza in quanto superficie. 
+        quote
+            + Vi prego di considerare […] che la coscienza si produce ogni volta che è data […]
+                \b una superficie tale da poter produrre ciò che si
+                \b chiama un’immagine
+            note 45
+        
+        La novità introdotta dalla psicoanalisi consiste nel limitare l’Io a un ruolo di compromesso, 
+        senza per questo elevarlo al rango dell’io penso ossia senza farne epicentro, 
+        l’istanza fondatrice della razionalità umana. 
+        L’Io è anche coscienza, è il luogo psichico dell’espressione razionale, 
+        del linguaggio articolato, delle connessioni coscienti; 
+        eppure l’Io, lo abbiamo visto, raccoglie in sé quella parte dell’inconscio che prende il nome di Es e vi si poggia, 
+        se ci consente l’immagine. 
+        L’Es funziona da sostrato connettivo, tra l’inconscio e la vita cosciente.
+        Illusorio è pertanto credere che la funzione dell’Io sia unicamente quella di presiedere alla razionalità,
+        interpretando tale istanza a guisa di un elemento trasparente e nucleare, 
+        della conoscenza di sé tout court. 
+        Mentre: Io è un altro, come afferma Rimbaud, 
+        è in fondo la sintesi migliore per definire lo statuto dell’io così come si pone dopo Freud. 
+        È la destituzione di un’illusione
+        quote
+             + Il soggetto è decentrato rispetto all’individuo. 
+                \b È questo che vuol dire Io (je) è un altro
+            note 46
+
+        Lo stadio dello specchio si pone dunque il compito di chiarire la natura immaginaria dell’io 
+        e di far emergere al contempo lo spettro decentrato del soggetto. 
+        Il saggio si basa sulla nozione di Idealich utilizzata da Freud nell’Introduzione al narcisismo.
+        L’io-ideale è una costituzione immaginaria, statuaria, dell’io. 
+        Essa è l’esito e il perno di quel processo che Freud denomina “identificazione ” 
+        e che svolge un ruolo di primo piano nella formazione dell’immagine di sé presso il bambino. 
+        Tale funzione Freud la individua in ciò che chiama narcisismo, 
+        nozione che indica la funzione che l’immagine ideale di sé svolge nella formazione dell’io. 
+        
+        In sintesi, il bambino, nella sua costituzione soggettiva, 
+        ha a che fare con due oggetti: il corpo della madre e il proprio; 
+        oggetti a cui Freud lega due concetti: libido dell’io e libido oggettuale. 
+        quote
+            + Affermiamo che l’uomo dispone in origine di due oggetti sessuali: 
+                \b se stesso e la donna che si prende cura di lui
+            note 47
+        I due oggetti d’amore danno vita a due forme distinte d’amore: 
+        quella anaclitica o “ per appoggio ”, caratterizzata dal sostegno esercitato dall’oggetto (le cure materne), 
+        e quella narcisistica, in cui l’oggetto amato, il proprio corpo, si pone in termini idealizzati. 
+        Adesso, l’idealizzazione è quel processo che mette in moto l’investimento della pulsione su oggetti d’amore,
+        oggetti che procurano piacere, e sorge in virtù della rappresentazione che il bambino, 
+        in quanto oggetto di cure e amore da parte di “altri ” 
+        – interpretati però come parte di sé – si fa del proprio genitore,
+        rappresentazione che mira a cancellarne i difetti nonché ad attribuirgli ogni perfezione. 
+        Il ritorno di questa immagine su di sé costituisce il narcisismo propriamente detto. 
+        L’Idealich è quella formazione inconscia che risulta dall’investimento narcisistico.
+        quote
+            + Possiamo dire che un individuo ha costruito in sé un ideale rispetto al quale 
+                misura il proprio Io attuale […]
+            note 48. 
+        Quando Freud sottolinea che l’io-ideale 
+        quote 
+            + si trova in possesso, come l’Io di quando si era bambini,
+                \b  di tutte le più preziose qualità
+            note 49
+        intende dirci che il processo di idealizzazione fa perno sull’Io 
+        e sul narcisismo inteso come operazione attraverso cui 
+        l’uomo si è trovato per la prima volta proiettato 
+        sullo schermo di una superficie riflettente che rimanda qualcosa di compiuto. 
+        
+        Ecco, l’io ideale, in quanto formazione inconscia 
+        che racchiude l’immagine di sé sulla base di una simile compiutezza, 
+        testimonia del carattere fortemente illusorio che governa l’io 
+        e che incanta l’uomo nei suoi primi anni di vita.
+
+        Ora, è da qui che Lacan prende avvio per introdurre la sua opera forse più originale, 
+        se non altro il suo primo vero debutto nella società psicoanalitica: 
+        la funzione dello stadio dello specchio come formatore dell’io. 
+        
+        Sottolineando l’importanza dell’immagine nella costituzione dell’Io, la sua “azione morfogena ”, 
+        Lacan vede nell’io un’istanza in origine formatasi a seguito di ciò 
+        che chiama “un’alienazione immaginaria ”.
+
+        Prendiamo un bambino, di un’età compresa tra i sei e i diciotto mesi, 
+        e mettiamolo di fronte a uno specchio. 
+        Ci accorgeremo che – a differenza di una scimmia, 
+        la cui intelligenza la riduce al mero esaurirsi del controllo 
+        “dell’inanità dell’immagine” 50 
+        – di fronte alla sua immagine il bambino è colto da gesti giubilatori rivolgendosi, 
+        al contempo, ai genitori o alle persone che gli sono accanto quasi a confermare, 
+        sondando la loro testimonianza, tale percezione.
+        L’assunzione giubilatoria della propria immagine speculare 
+        da parte di quell’essere ancora immerso nell’impotenza motrice 
+        e nella dipendenza dal nutrimento che è il bambino in questo stadio infans, 
+        ci sembra perciò manifestare in una situazione esemplare la matrice simbolica 
+        in cui l’io si precipita in una forma primordiale, 
+        prima di oggettivarsi nella dialettica dell’identificazione con l’altro, 
+        e prima che il linguaggio gli restituisca nell’universale la sua funzione di soggetto 51
+
+        Questa funzione dell’immagine come formatrice dell’io è al contempo una finzione, 
+        una pura rappresentazione in cui il bambino si aliena e in cui ritrova l’unità e l’interezza, 
+        cosa che la sua prematurazione specifica, 
+        ossia il fatto che nasca nell’imbarazzo del movimento e del controllo dei propri gesti 
+        oltre che del proprio sistema cognitivo, gli ha negato. 
+        L’assunzione giubilatoria è la seduzione dello specchio, 
+        la fascinazione in cui si produce quello sdoppiamento nel soggetto 
+        per cui l’immagine riflessa diventa l’emblema nel quale il soggetto si riconosce e si identifica. 
+        Si è colti in imago prima ancora che di persona, 
+        si è cioè catturati dall’immagine statuaria che si produce sulla superficie dello specchio 
+        in contrasto con quanto, nel corpo, testimonia dell’ingovernabilità 
+        e del fatto di essere in balia dell’altro e della propria inibizione motoria.
+
+        Il corps morcelé è l’espressione che Lacan utilizza per descrivere questo stato. 
+        Corpo-in-frammenti, è l’altro polo di questo processo, 
+        l’assenza di coordinazione motoria che detta le regole, 
+        da un lato, allo sbandamento del soggetto tra la sua immagine unitaria, ortopedica, come dice Lacan, 
+        in cui il soggetto si aliena, e la frammentazione che ne rivela la soggezione essenziale, organica. 
+        Lacan fa di questo processo il cardine della storia della nascita del soggetto.
+
+        È evidente, in questo periodo, il ricorso ad Hegel,
+        non solo per ciò che riguarda la definizione di desiderio come “desiderio di essere riconosciuti”,
+        ma soprattutto perché qui Lacan fa certamente riferimento allo fenomenologia dello spirito 
+        e soprattutto allo sviluppo della autocoscienza non in quanto soggetta alla Begierde, alla brama-appetito, 
+        ma in quanto frutto dell’incontro con l’altro umano, 
+        con l’Altro in quanto luogo del riconoscimento 52
+
+        In questo processo, dunque, l’immagine, che è altresì immagine del proprio simile 
+        – si ricorda che il bambino volta lo sguardo verso chi gli è vicino
+        quasi a sancire in tal modo il compito testimoniale dell’altro – 
+        è immagine in cui il soggetto si coglie e si aliena in una postura che lo pone come separato,
+        come sempre altrove rispetto al suo corpo, 
+        all’hic et nunc del suo corpo, in questa sorta di miraggio di padronanza in cui l’Io si va a costituire. 
+        L’immagine, ci dice Lacan, svolge un’azione morfogena: 
+        cattura il soggetto e impone una Gestalt ideale, di puro misconoscimento, di miraggio. 
+
+        La dialettica dell’alienazione comincia qui, in questa fase: 
+        è già nello stadio dello specchio così definito da Lacan, 
+        che si struttura ogni futuro rapporto dell’uomo con il proprio simile. 
+        L’io alienato nello specchio, ortopedico, è questo tutto immaginario 
+        che compensa il non-tutto del corpo-inframmenti, 
+        espressione del qui e ora del soggetto infans. 
+        Nello specchio si situa la forma inaugurale del soggetto in quanto “io”. 
+        L’io, dirà Lacan, “si precipita in una forma primordiale” 53, 
+        nasce in quanto miraggio di completezza, 
+        nell’illusione di essere un tutto unico, di essere per così dire “in piedi”.
+        Ecco in cosa l’immagine così prodotta svela il suo carattere narcisistico: nella compensazione, 
+        rispetto all’io attuale, come lo chiama Freud, che l’immagine rimirata fornisce al soggetto.
+        L’io è un oggetto bello e buono. […] 
+        Tutta la dialettica che vi ho dato come esempio sotto il nome di stadio dello specchio 
+        è fondata sul rapporto fra, da una parte, un certo livello delle tendenze, sperimentate 
+        – diciamo, a un certo momento della vita – come sconnesse, discordanti, frammentate – 
+        e ne resta sempre qualcosa –, 
+        e, dall’altra, un’unità con la quale essa si confonde e si accoppia. 
+        Questa unità è ciò che per la prima volta si conosce come unità, ma come unità alienata, virtuale 54
+
+        Lacan valore indicare come, l’avvento del discorso freudiano, 
+        implichi un profonda rottura con una certa tradizione cartesiana. 
+        È evidente che Lacan, influenzato dalla lettura kojeviana di Hegel,
+        riconosce qui un soggetto che mutua da Hegel le sue coordinate di base. 
+        Eppure il soggetto dell’alienanzione, nonostante l’evidente debito, e a differenza di Hegel, 
+        non si ricompone in un sapere assoluto, in un soggetto assoluto, 
+        ma resta articolato nella scissione che l’immagine virtuale dello specchio produce su quella reale del corpo. 
+        
+        Prima del linguaggio, del linguaggio parlato effettivamente dal soggetto, 
+        si dà già questa struttura essenziale che svela quanto la costituzione del soggetto 
+        sia avvinta all’Altro, alla sua cattura divaricante, come cioè il modello visivo offerto in partenza, 
+        sia quella forma speculare che introduce la rappresentazione come “linea di finzione” in cui trova posto l’identità.
+        
+        La funzione dell’altro così come si svolge nello stadio dello specchio 
+        illustra nient’altro che l’io come finzione. 
+        E questa dialettica, infinitamente debitrice alla dialettica servo-padrone hegeliana, 
+        ci porta a scoprire, nello sguardo rivolto all’altro, la dimensione che soggiace alla funzione dell’io, 
+        alla sua strutturazione immaginaria, quella del desiderio come desiderio di riconoscimento, 
+        prima formulazione, sottolineiamo, del desiderio in Lacan 55.
+
+        A questo proposito, dopo quanto detto, è possibile comprendere ove si collochi il soggetto, 
+        il soggetto dell’inconscio descritto da Lacan, e in cosa si distingua dall’io.
+        Il soggetto non è mai speculare, riflessivo. 
+        Il soggetto appare sul piano simbolico dell’altro,
+        annunciato nella faglia che si apre tra l’io speculare, oggetto immaginario, e il corpo-inframmenti. 
+        Seguiamo Lacan:
+        quote
+            + Che cosa ho cercato di far comprendere con lo stadio dello specchio? 
+                \b Che quanto c’è nell’uomo di frammentato, di anarchico, 
+                \b si pone in un rapporto con le sue percezioni sul piano di una tensione assolutamente originale. 
+                \b È l’immagine del suo corpo a essere il principio di ogni unità che percepisce negli oggetti. 
+                \b Ora, di questa stessa immagine egli percepisce l’unità solo al di fuori e in modo anticipato. 
+                \b Per il fatto di avere questa relazione doppia con se stesso, 
+                \b è sempre intorno all’ombra errante del suo proprio io che si struttureranno tutti gli oggetti del suo mondo. […] 
+                L’oggetto non è mai definitivamente per lui l’ultimo oggetto, 
+                tranne in alcune eccezionali esperienze. 
+                Ma si presenta allora come un oggetto di cui l’uomo è irrimediabilmente separato 
+                e che gli mostra la figura stessa della sua deiscenza all’interno del mondo 
+                – oggetto che per essenza lo distrugge, lo angoscia, che non può raggiungere, 
+                in cui non può veramente trovare la sua riconciliazione, la sua aderenza al mondo, 
+                la sua perfetta complementarità sul piano del desiderio. 
+                Il desiderio ha un carattere radicalmente lacerato.
+                L’immagine stessa dell’uomo vi apporta una mediazione sempre immaginaria, 
+                sempre problematica, dunque mai del tutto compiuta […]. 
+                È questa oscillazione immaginaria che dà a tutta la percezione umana 
+                la soggiacenza drammatica con cui è vissuta 
+            note 56.
+        
+        È insomma l’oggetto che separa l’uomo da se stesso.
+        In questo caso è lo specchio, non l’immagine che esso riflette.
+        Lo specchio è quel luogo in cui il soggetto scopre la sua prima alienazione 
+        e in cui accade qualcosa che appare nel registro della finzione: 
+        la formazione di sé, nell’immagine. 
+        
+        Ebbene, l’oscillazione, il vacillamento prodotto da questa percezione che giace “altrove ”, 
+        spinge Lacan a estendere questa condizione al piano del vissuto tout court dell’uomo, 
+        alla sua stessa esperienza in quanto essere parlante.
+
+        Ebbene, che cosa è questa oscillazione immaginaria se non 
+        la tensione stessa che l’uomo mette in rapporto alle cose, 
+        quella tensione all’unità che nell’uomo si colloca al livello dell’altro, 
+        sulla sponda riflessiva dello specchio in cui giace la propria immagine alienata e intera, 
+        amata perché finta, ma pur sempre altrove?
+        
+        Il mondo, ci dice Lacan, si staglia sul piano di questa immagine, 
+        è lì che ogni oggetto, ogni cosa del desiderio si ritrova, 
+        nel senso che giunge in quanto perduta, poiché perduta è l’unità, mai vera, mai originaria. 
+        Ed è questo che sembra gridare il desiderio, 
+        il desiderio che occupa lo spazio di questa oscillazione immaginaria, 
+        che un “riconoscimi!” scorra dalle labbra dell’altro perché oltre questo non c’è nulla, 
+        nient’altro, o solo il desiderio che non si soddisfa in nulla, 
+        o solo, anzi, il nulla del desiderio come perpetuo aggirarsi intorno alle tracce di un ritrovamento; 
+        perché se, come il primo Lacan sostiene sulla scorta di Hegel, 
+        il desiderio è fondamentalmente desiderio di riconoscimento, ovvero desiderio di desiderio, 
+        la negativa implica che non vi sia propriamente oggetto del desiderio, se non, 
+        come voleva Freud, nell’ “oggetto perduto ”, nel nulla “non ritrovato”.
+
+        Gli oggetti che incontriamo nel mondo, siano essi cose o oggetti del desiderio, 
+        hanno la stessa struttura che ha conformato il mondo nel quale si è eretto l’io. 
+        La costituzione dell’io è cioè, secondo Lacan, la matrice del nostro rapporto con esso 
+        – nella misura in cui il reperimento giubilatorio dell’immagine speculare 
+        paga il prezzo alla dimensione “vissuta”, alla frammentarietà anarchica del corpoin-frammenti, che “siamo ”. 
+        Questo iato è quanto ci portiamo dietro nel mondo 
+        ed è la superficie su cui nasce il soggetto, 
+        quello che Lacan chiama soggetto dell’inconscio.
+        
+        Il soggetto chiama in causa questa categoria, 
+        in quanto non si dà qualcosa come un soggetto se non nei termini, 
+        lo vedremo, di soggetto parlante, 
+        se non in quanto stagliato sulle labbra del significante. 
+        La dimensione del linguaggio entra in gioco nell’umano 
+        a condizione però che si compia quella frattura riassunta nella frase di Lacan 
+        “il significante rappresenta un soggetto per un altro significante ”.
+
+        Il linguaggio si pone così sul piano della costituzione della soggettività 
+        e non incontra un soggetto già formato, se così si può dire.
+        Il linguaggio viene a lacerare l’essere umano, l’essere parlante, 
+        e nello stesso tempo annuncia il piano dell’essere come manque. 
+
+        È in questo senso che va colta la questione del significante, 
+        unicamente cioè nel suo inscindibile legame al soggetto dell’inconscio in quanto mancanza a essere. 
+        Il linguaggio, lungi dall’essere attributo di un io parlante 
+        né, tanto meno, il veicolo attraverso cui il soggetto “si dice”, nella misura in cui ça parle,
+        diventa l’esperienza stessa dell’alienazione fondamentale 
+        in virtù della quale si dà qualcosa come il soggetto. 
+        L’ordine del linguaggio attraverso l’articolazione significante 
+        è ciò che apre nel soggetto la mancanza dispiegandone il piano del desiderio.
+
+        Vedremo quali conseguenze assuma sul piano ontologico una simile constatazione.         
+
+        $$ 1.5 ALIENAZIONE E SEPARAZIONE. OLTRE LO SPECCHIO.
+        L’io (moi) non è il soggetto (Je). 
+        Il primo, infatti, appartiene a una dimensione immaginaria, 
+        il secondo coinvolge il piano simbolico e concerne ciò che Lacan chiama soggetto dell’inconscio. 
+        E l’inconscio, dirà Lacan nei suoi Scritti 57, “è il discorso dell’Altro ”. 
+        La soggettività è cioè una dimensione aperta, trascesa, 
+        ferita nella sua dimensione intenzionale dall’intervento di quanto, 
+        pur non appartenendo alla coscienza, resta iscritto nelle leggi del linguaggio. 
+        
+        L’essere del soggetto non si esaurisce nell’Io (moi), 
+        perché quest’ultimo è un miraggio, 
+        il luogo di un misconoscimento e affonda le sue radici nell’identificazione. 
+        Esiste una sfasatura tra moi e Je e questa sfasatura è ciò che Lacan chiama soggetto dell’inconscio. 
+        Vediamo di cosa si tratta.
+
+        quote
+            + Se la psicoanalisi deve costituirsi come scienza dell’inconscio, 
+                \b conviene partire dal fatto che l’inconscio è strutturato come un linguaggio. 
+                \b Ne ho dedotto la topologia il cui fine è di rendere conto della costituzione del soggetto 58
+
+        L’idea che l’inconscio è strutturato come un linguaggio è uno dei capisaldi del pensiero di Lacan.
+        L’assunto parte dalla rilettura della trilogia freudiana composta da L’interpretazione dei sogni,
+        Psicopatologia della vita quotidiana e Il motto di spirito, 
+        e confluisce nel testo inaugurale 
+        L’istanza della lettera nell’inconscio o la ragione dopo Freud
+        in cui diventa palmare la svolta di Lacan in direzione di un interpretazione strutturalista di Freud, 
+        sulla scorta della lettura di Saussure e, soprattutto, di Jakobson. 
+        
+        Se il primo Lacan, quello dell’io come formazione ideale, proiettiva 
+        e della preminenza del desiderio come “desiderio di riconoscimento” 
+        sembra subire ancora molto l’influenza di Hegel 
+        – almeno nell’interpretazione fornita da Koyré, delle cui lezioni era un assiduo frequentatore – 
+        con L’istanza della lettera e a partire dal Seminario II del 1954
+        emerge per la prima volta nel suo pensiero una chiara tendenza 
+        a interpretare in termini retoricolinguistici l’insegnamento di Freud. 
+        Alla parola e alla sua dialettica del riconoscimento 
+        si sostituisce la dimensione della centralità del linguaggio e del potere delle sue leggi. 
+        Ed è in questa prospettiva che prende valore 
+        la distinzione tra significante e significato e la nozione di segno. 
+        
+        La logica del senso e del significante è un argomento che affronteremo approfonditamente nel secondo capitolo; 
+        ci limiteremo per ora a qualche breve accenno funzionale all’avanzamento del nostro discorso.
+
+        L’idea di inconscio strutturato come un linguaggio Lacan la ricava 
+        dalla lettura de L’interpretazione dei sogni 
+        e, in particolare, dalla scoperta freudiana del lavoro onirico 
+        che vede nella condensazione (Verdichtung) e nello spostamento (Verschiebung) 
+        i meccanismi tipici, eminenti, di quel lavoro onirico che la censura dell’Io applica dando vita al sogno,
+        come risultato dell’elusione appunto di questi meccanismi. 
+        Metonimia e metafora diventano in Lacan la trascrizione in termini retorici di questi meccanismi.
+        È noto, leggendo Freud, l’assunto che il sogno, così come i sintomi o il motto di spirito, 
+        sono rivelatori di un qualcosa che accade all’insaputa del soggetto, 
+        e cioè svelano la presenza nella vita del soggetto di pensieri e desideri di cui non egli non sa nulla 
+        ma che insistono nella vita e nell’esperienza dell’essere umano in termini inconsci. 
+        Se Freud può affermare che il sogno è la “ via regia ” per l’inconscio, 
+        è perché ha potuto osservare come, attraverso le operazioni che chiama di condensazione e di spostamento, 
+        vi sia un al di là dell’io, 
+        una dimensione che si esprime attraverso un discorso che oltrepassa la volontà esplicita del soggetto, 
+        che a sua insaputa continua a manifestarsi nella vita del soggetto. 
+        A tutto ciò Freud estenderà la nozione di inconscio.
+        Il passo ulteriore di Lacan è stato quello di saldare 
+        i concetti tradizionali di condensazione e spostamento a un piano linguistico-retorico più saldo e maneggiabile, 
+        da cui apparisse chiaramente quanto già Freud, sebbene non del tutto esplicitamente, 
+        avesse colto il carattere propriamente linguistico dell’inconscio.
+
+        Come detto in precedenza, 
+        metafora e metonimia diventano così sinonimi dei meccanismi propri del funzionamento dell’inconscio, 
+        e i principi attraverso cui interpretare il desiderio.
+        La Verdichtung, o condensazione: cioè la struttura di sovrapposizione dei significanti 
+        in cui prende campo la metafora, e il cui nome, condensando in sé la Dichtung,
+        indica la naturalità di questo meccanismo con la poesia, 
+        fino al punto di includere la funzione propriamente tradizionale di quest’ultima. 
+        La Verschiebung, o spostamento: cioè, più vicino al termine tedesco, 
+        il viraggio della significazione dimostrato dalla metonimia e che, 
+        fin dalla sua apparizione in Freud, è presentato come il mezzo dell’inconscio più adatto a eludere la censura 59
+        
+        E così che Lacan può affermare che questo aspetto retorico dell’inconscio, 
+        sebbene assai evidente, è stato fin dall’origine misconosciuto in Freud, 
+        e in particolare il fatto che simili meccanismi indichino chiaramente 
+        quanto preminente sia il “ruolo costituente del significante” nell’inconscio 60. 
+        Nel significante, e lo vedremo meglio in seguito, Lacan riconosce quella unità linguistica, 
+        individuata a suo tempo da Saussure, che gode di preminenza e di indipendenza rispetto al significato. 
+        L’algoritmo saussuriano s/S, significato su significante, viene rovesciato da Lacan, 
+        sulla scorta di Jakobson e soprattutto Benveniste, in S/s, significante su significato, 
+        dove la barra invece di unire i due elementi rappresenta un fattore di disgiunzione 
+        che opera una resistenza alla significazione. 
+        Il significante è cioè non più ciò che rappresenta l’immagine acustica del significato, del concetto,
+        sulla base della nozione di arbitrarietà, 
+        bensì ciò che indica la resistenza propria alla significazione,
+        che separa le due facce del segno linguistico. 
+        Diventa così centrale il concetto saussuriano di valore: 
+        non è mai in sé che il segno linguistico trova la sua significazione, 
+        bensì sempre in un altro segno, 
+        sempre in un rinvio che ne spezza l’unità, 
+        in uno scivolamento della significazione da significante a significante. 
+        
+        Il valore di un significante è dunque propriamente differenziale, 
+        il suo significato è reperibile solo nel rinvio ad un altro significante, 
+        e così via, all’infinito. 
+        È il classico esempio del dizionario, 
+        in cui un termine rinvia necessariamente a un altro termine per la sua significazione. 
+        Per lo stesso principio, non si dà un significante isolato,
+        come non si dà lettera che non sia concatenata alle altre lettere dell’alfabeto 
+        con le quali si trova in un rapporto di contiguità. 
+        Ed è in questa prospettiva che Lacan può affermare che 
+        quote
+            + è nella catena significante che il senso insiste, 
+                \b ma nessuno degli elementi della catena 
+                \b consiste nella significazione di cui è capace in quello stesso momento
+            note 61
+        Cade allora l’illusione che un significante 
+        “risponda alla funzione di rappresentare un significato ” 62, 
+        in quanto nella catena significante non funziona alcun principio d’identità A=A, 
+        bensì solo la logica differenziale che vede nel rinvio della significazione la sua stessa dialettica.
+
+        Sul piano della soggettività una simile interpretazione recupera un carattere eminentemente sovversivo. 
+        Il soggetto, abbiamo visto, non è un’ipostasi o una sostanza da cui far discendere degli attributi, 
+        il soggetto in Lacan è causato, è quanto si dà una volta introdotta la scissione nell’io, 
+        la sua natura immaginaria. 
+        Esso si colloca, senza poter suturarla, 
+        nella frattura immaginaria in cui l’io si trova, 
+        nel vacillamento tra la compattezza del miraggio dell’unità della figura riflessa 
+        e il corpo-in-frammenti del suo Io attuale.
+        La preminenza della categoria del simbolico sull’immaginario introdotta a questo punto, 
+        consente a Lacan di riformulare il discorso sulla soggettività.
+        
+        Parlare di soggetto dell’inconscio 
+        significa dischiudere così una dimensione non sostanzialistica del soggetto 
+        ma altresì porre il linguaggio quale elemento costituente. 
+        Se il linguaggio è nel luogo dell’Altro, 
+        il soggetto si colloca allora in una dimensione in cui il ricorso all’Altro 
+        rappresenta il passaggio necessario sulla via della sua costituzione,
+        passaggio che inaugura la non coincidenza, la divisione propria alla nozione stessa di “soggetto”.
+        L’Altro è divenuto con Lacan il luogo in cui si dà la dimensione esistenziale e ontologica del soggetto, 
+        è l’ambito in cui, per dirla con Heidegger, ne va, nel senso che è chiamato in causa, del proprio essere.
+        Se Lacan non interpreta la dimensione dell’inconscio come qualcosa di chiuso in se stesso 
+        e alla stregua dell’inconoscibile, dell’ignoto pulsionale, 
+        è proprio perché in esso ravvisa quello spazio, interno al soggetto, 
+        forgiato dal fatto che la dimensione dell’alterità occupa nel soggetto una funzione costituente: 
+        il tempo dell’inconscio, la sua struttura non è altro che la traccia nel soggetto 
+        dell’intervento del significante, e dunque dell’Altro come luogo della parola. 
+        
+        Un simile intervento, strutturale, 
+        ineludibile se non nei termini della psicosi, 
+        rappresenta quel dato di evanescenza su cui poggia il desiderio umano e la sua natura.
+        È così che si può comprendere il motto di Lacan secondo cui 
+        “un significante rappresenta il soggetto per un altro significante ” 63, 
+        nel fatto cioè che le leggi del linguaggio, 
+        lungi dall’essere meccanismi esterni 
+        appartenenti a un ordine simbolico di cui si verrebbe a conoscenza solo 
+        nel secondo tempo dell’organizzazione cosciente dell’uso della lingua e sotto forma di apprendimento, 
+        rappresentano invece la dimensione stessa che incide, tatuandola nel cuore,
+        nel soggetto la sua mancanza, ossia la sua mancanza a essere, 
+        che rappresenta la nozione propriamente ontologica cui Lacan fa ricorso per definire l’essere del soggetto. 
+        L’Altro è il linguaggio stesso che ha fatto la sua irruzione nel soggetto, 
+        in quanto presentifica nel discorso corrente la dimensione aitenzionale del ça parle 
+        che Freud ha definito trascendenza interna al soggetto.
+        
+        L’inconscio è quella parte del discorso concreto in quanto transindividuale, 
+        che difetta alla disposizione del soggetto per ristabilire la continuità del suo discorso cosciente […]. 
+        L’inconscio è quel capitolo della mia storia 
+        che è marcato da un bianco od occupato da una menzogna: è il capitolo censurato 64
+
+        Il soggetto così, dal punto di vista immaginario, si colloca nello iato, 
+        a cavallo fra l’immagine e il corpo-in-frammenti, 
+        fra quanto di sé è idea e quanto si è. 
+        Ma è solo quando Lacan scopre la preminenza del simbolico 
+        e la logica differenziale del significante che l’Altro, 
+        come luogo della parola, entra in scena come elemento causativo del soggetto, 
+        duplicandone sul piano simbolico l’alienazione. 
+        
+        “Nasciamo in un bagno di linguaggio” non vuol dire che questo: 
+        che il soggetto è in causa in quanto soggiacente all’Altro,
+        già da subito legato alla parola che lo nomina e lo determina in quanto soggetto diviso.
+        Se l’uomo arriva a pensare l’ordine simbolico è perché vi è anzitutto preso nel suo essere. 
+        L’illusione di averlo formato con la sua coscienza proviene dal fatto che 
+        è per la via di una beanza specifica della sua relazione immaginaria con il suo simile, 
+        che egli è potuto entrare in quest’ordine come soggetto. 
+        Ma non ha potuto fare questo ingresso altrimenti che attraverso il défilé radicale della parola […] 65
+
+        Il soggetto consiste nella lacerazione che il desiderio deve al linguaggio 
+        come sua condizione di esistenza. 
+        È in questo senso che Lacan formula la tesi della causazione del soggetto 
+        nella teoria dell’alienazione-separazione proposta nel Seminario XI 66 del 1964. 
+        Su questa base Lacan può formulare la tesi che 
+        il piano dell’essere e il piano del senso non coincidono. 
+        L’affermazione è capitale, e stravolge l’assetto metafisico 
+        che vede nell’Essere il dispiegarsi del senso, della pienezza originaria.
+        Nella misura in cui il soggetto è debitore al significante del proprio essere 
+        – è qui il senso forte della frase “un significante rappresenta il soggetto 
+        per un altro significante ” – 
+        l’ordine del senso e quello dell’essere si separano. 
+        La schisi che separa il cogito dal sum, 
+        nell’attestazione che l’io penso non ricuce l’io sono, 
+        rappresenta sul piano ontologico la portata dell’azione svolta dal significante,
+        mostrando in quale direzione sovversiva,
+        sorprendentemente anti-metafisica, 
+        giunga Lacan nell’elaborazione del suo pensiero. 
+        L’articolazione significante, il “bagno di linguaggio ” in cui consiste l’esistenza, 
+        sgancia il soggetto da un’ipotetica trasparenza a sé e lo pone nella “lacuna"  
+        in cui ogni dire è un raccontarsi, 
+        è la rappresentazione di sé da parte del soggetto sulla scena di una finzione.
+
+        È quanto Lacan nomina fattore letale del significante. 
+        Il significante, dirà, svolge un’azione letale, 
+        svuota il reale per introdurvi il senso, 
+            bax ***
+        il prezzo di questa operazione è una perdita sul piano dell’Essere 
+        o, in termini, lacaniani, sul piano del godimento.
+
+        Il piano ontologico per Lacan è un piano di sottrazione originaria. 
+        Letto in questo modo è fuor di dubbio che tutta la nozione di traccia 
+        e lo stesso concetto di différance postulati da Derrida siano debitori a Lacan. 
+        Ciò che manca infatti non è l’essere, non è quella presenza originaria, sottratta;
+        se così fosse ci troveremmo ancora sul versante privativo teorizzato da Sartre circa il manque d’être.
+
+        Si tratta qui di quell’essere che appare solo per il lampo di un istante, 
+        nel vuoto del verbo essere, e ho detto che pone la sua questione per il soggetto. 
+        Che vuol dire? Non pone la domanda davanti al soggetto,
+        perché il soggetto non può venire al posto in cui esso la pone, 
+        ma la pone al posto del soggetto, 
+        cioè in questo posto pone la questione con il soggetto, 
+        così come si pone un problema con una penna, 
+        e come l’uomo antico pensava con la sua anima 67
+
+        Il soggetto in quanto sottomesso costitutivamente all’ordine del linguaggio 
+        ne subisce altresì il regime. 
+        Lo scivolamento della significazione sotto la catena significante 
+        definisce il luogo stesso in cui il soggetto è colto come mancante, come evanescente,
+        qualora cerchi di arrestare questo scivolamento. 
+        Il soggetto non può cioè dirsi in un solo significante,
+        non può applicare dal punto di vista logico-metafisico
+        il principio di identità A=A. 
+        Esso è rappresentato da un significante per un altro significante, 
+        il che significa che nessuna significazione attesta nel soggetto la sua unità significativa. 
+        Questa dimensione è la mancanza a essere, 
+        o come in seguito la chiamerà Lacan, giocando con il termine desêtre, 
+        il suo deserto/disessere.
+        Pertanto la divisione del soggetto è una divisione costituente e non costituita, 
+        poiché non si produce nell’intervento di un secondo tempo in cui 
+        il manque viene a ricoprire una pienezza mitica, originaria, dove il soggetto era Uno con l’Altro, 
+        in cui faceva Uno. 
+        È vero, Lacan parla della Cosa, come oggetto perduto, mitico, fonte di ogni pienezza, 
+        ma essa s’inquadra nella tensione di quanto va ritrovato poiché originariamente perduto. 
+        È per questo che non si può parlare di Uno, 
+        e affermare in seguito che la divisione, il Due, 
+        cada solo in un tempo secondo, 
+        e cioè nel tempo del linguaggio e della dialettica del significante. 
+        Non c’è Uno e poi non-Uno, c’è solo un non-tutto, come afferma Recalcati 68, 
+        che apre la divisione come effetto dell’azione dell’Altro sul soggetto.
+
+        Adesso, Lacan nel seminario XI propone sotto la teoria dell’alienazione-separazione 
+        lo schema teorico della divisione del soggetto.
+        In primo luogo Lacan ribadisce che la caratteristica di un segno 
+        è innanzitutto quella di rappresentare qualcosa per qualcuno. 69 
+        Un segno può essere un’impronta, un marchio, una traccia d’urina nel mondo animale, 
+        in ogni caso il segno sta lì a rappresentare qualcosa per qualcuno, 
+        perché qualcuno possa riconoscere che lì c’è qualcosa. 
+        Il significante, viceversa, producendosi nel campo dell’Altro,
+        rappresenta un soggetto per un altro significante;
+        cioè lì dove c’è significante il soggetto è chiamato in causa, 
+        ed è in causa perché sotteso al campo dell’Altro, al linguaggio. 
+        
+        Cerchiamo di capire.
+        Un’impronta, ad esempio, può essere odorata o vista come un segno del passaggio di un animale 
+        e indicare così la sua prossimità o il suo passaggio, 
+        o un segno che vale da allerta o da minaccia, 
+        in ogni caso indica, fa segno a qualcuno. 
+        Ma la stessa impronta, nel momento in cui viene cancellata, 
+        nel momento in cui perde il carattere di impronta, diventa traccia, anzi, 
+        diventa la traccia cancellata di un passaggio 
+        che indica tutta la potenzialità della dimensione presenza-assenza propria del linguaggio. 
+        Cancellare una traccia è proprio dell’uomo 70. 
+        Mentire, fingere, dire che le cose stanno in un modo quando non è così:
+        ecco in cosa consiste la capacità umana di fare uso dei segni. 
+        Ed è questo che differenzia un segno qualunque da un segno linguistico, da un significante,
+        il fatto cioè che la sua significazione, la sua Bedeutung, possa essere velata, possa cancellarsi 71 .
+
+        Adesso, la dinamica appena descritta, muta l’indicare in un rappresentare, 
+        suggerisce che il significante sorge in relazione alla possibilità di mentire, 
+        e cioè di fare quello che un animale non può fare, 
+        sviare facendo credere il falso sul vero, cancellare la traccia. 
+        
+        Si tratta dell’idea di finzione, di truffa simbolica 
+        come marca del mutamento del segno in segno linguistico. 
+        Questa sorta di intervento in cui la traccia assume il suo valore di significante 
+        solo nella potenzialità del suo cancellamento, 
+        descrive il valore finzionale che l’Altro, 
+        in quanto luogo della parola, inaugura. 
+        La stessa Verità, per il fatto di non essere in relazione con alcuna realtà esterna, tangibile, 
+        trova la sua sede in questa struttura di finzione, 
+        per il fatto stesso che l’unico testimone a cui essa si enuncia è l’Altro, 
+        l’Altro della parola così come lo abbiamo definito. 
+        L’Altro, come luogo della parola, prima ancora di sanzionare l’oggettività dei miei discorsi,
+        è lì in quanto testimone della menzogna del linguaggio, 
+        della sua struttura altalenante ed eminentemente sviante. 
+        Ecco cosa il soggetto reperisce nell’Altro: 
+        il soggetto reperisce, attraverso l’azione del significante, 
+        attraverso cioè la modificazione profonda che il significante introduce nel soggetto,
+        il suo proprio svuotamento, il divario che separa il detto dal dire, 
+        ovvero, in termini semantici, 
+        il soggetto dell’enunciato dal soggetto (evanescente) dell’enunciazione 72 .
+        Bisogna comprendere innanzitutto questo: 
+        la sbrecciatura che così appare tra il soggetto e la sua significazione 
+        in realtà ne ricopre una più profonda,
+        quella che separa il Senso dall’Essere.
+        Il soggetto cioè, è posto, una volta entrato nel campo dell’Altro, di fronte a una scelta: 
+        da una parte sta il Senso, dall’altra l’Essere. 
+        
+        quote
+            + Si tratta del vel della prima operazione essenziale in cui si fonda il soggetto. […] 
+                Si tratta nientemeno che di quella operazione che possiamo chiamare l’alienazione
+            note 73
+
+        Il soggetto, ci spiega Lacan, appare dal punto di vista logico, 
+        della logica simbolica che vedremo avere un posto di rilievo nel suo pensiero, 
+        comandato a una scelta. 
+        L’alienazione non ha nulla a che vedere con il concetto della tradizione dialettico-umanistico 
+        che va da Feuerbach a Hegel e a Marx, 
+        ossia non suppone affatto l’idea di un soggetto-sostanza. 
+        L’alienazione non è in altro ma è ad opera dell’altro.
+        L’alienazione consiste in quel vel che […] condanna il soggetto ad apparire 
+        solo in quella divisione che ho appena, così mi sembra, articolato sufficientemente,
+        dicendo che, se esso appare da un lato come senso, prodotto dal significante, 
+        dall’altro appare come afanisi 74
+
+        Afanisi è un termine che Lacan riprende da Jones e che traduce la scomparsa, lo svanire, il fading,
+        esattamente ciò che accade al soggetto una volta introdotta l’azione “letale” del significante. 
+        Il vel dunque è il vel della scelta, della scelta forzata. 
+        Lacan lo distingue dall’o, vel che chiama esaustivo, 
+        che corrisponde al vel disgiuntivo – vado o qui o là, scelgo una delle due possibilità 
+        – e dal vel inclusivo che recita o vado qui o vado lì, non importa dove, è equivalente.
+        Il vel che interessa Lacan è un terzo. 
+        L’esempio ce lo fornisce lo stesso Lacan. 
+        Se dico: o la borsa o la vita, se scelgo la borsa perdo tutte e due; 
+        ma se scelgo la vita, avrò allora una vita priva della borsa.
+        Altro esempio: se sono un sadico tiranno e comando al mio suddito o la libertà o la vita, 
+        metto in atto la stessa logica alienante. 
+        Scegliere la libertà significa perderle tutte e due, 
+        scegliere la vita significa amputarla della libertà.
+        Secondo questa logica il vel risponde all’operazione che nell’insiemistica si chiama unione. 
+        L’unione non è l’addizione. 
+        Se ho cinque oggetti in un cerchio e cinque in un altro addizionarli fa dieci. 
+        Ma se alcuni oggetti di un cerchio appartengono anche all’altro cerchio, 
+        due per tenersi sull’esempio fornito da Lacan, allora nella riunione ce ne saranno otto. 
+        Ecco l’esempio di Lacan:
+        quote
+            Illustriamolo con ciò che ci interessa, l’essere del soggetto, che è là sotto il senso. 
+            Se scegliamo l’essere, il soggetto scompare, ci sfugge, cade nel non senso. 
+            Se scegliamo il senso, il senso non sussiste se non amputato di quella parte di non senso che,
+            propriamente parlando, è ciò che costituisce, nella realizzazione del soggetto l’inconscio. 
+            In altri termini, è proprio della natura del senso, 
+            quale viene a emergere nel campo dell’Altro, 
+            che esso è, per gran una parte del suo campo, eclissato dalla scomparsa dell’essere 
+            indotta dalla funzione stessa del significante 75
+
+        La conclusione è semplice: 
+        il soggetto sorge nel campo dell’Altro inteso come luogo della parola, e dunque del senso. 
+        L’operazione detta dell’alienazione altro non è se non la deduzione del soggetto come mancanza a essere. 
+        Entrare nell’ordine simbolico, significa varcare il muro dell’essere per accettare l’ordine del senso. 
+        L’essere per Lacan non corrisponde al senso, il senso è dalla parte del linguaggio,
+        introdotto dall’azione del significante definita appunto azione letale. 
+        Ribadiamo: dal punto di vista ontologico 
+        l’alienazione stravolge l’assunto cardine della metafisica occidentale 
+        secondo cui l’essere e il senso sono coestensivi. 
+        Qualcosa come il senso dell’essere è possibile solo nell’ottica in cui
+        linguaggio ed essere coesistono nella presenza del loro darsi, 
+        cioè nell’identità ideale del loro dispiegamento una volta oltrepassato,
+        heideggerianamente, ogni entificazione dell’essere e del linguaggio.
+        
+        Lacan, sulla scorta della lettura di Heidegger, 
+        opera quella separazione tra linguaggio ed essere 
+        che lo stesso Heidegger non aveva compiuto. 
+        L’essere, lo vedremo, quello che Lacan chiama godimento 
+        e che trova il suo supporto nella nozione di Cosa o di “oggetto a”, 
+        non si dà se non lì dove la vita è muta, dove il senso ancora non ha fatto il suo ingresso
+        nell’esistenza attraverso l’Altro in quanto luogo della parola. 
+        Se parliamo, se c’è “chi parla ”, se c’è essere parlante, 
+        è perché il soggetto è fuoriuscito dagli argini dell’essere, 
+        della pienezza dell’indistinto godimento dell’essere 
+        ove non si pongono più questioni. 
+        Si può indulgere a pensare che una tale visione sia quanto meno misticheggiante 
+        e che richiami alla mente le modalità del discorso apofantico; 
+        tuttavia il discorso di Lacan non è mosso da alcuna “nostalgia” di pienezza. 
+        La mancanza non è quanto manca, non è nostalgia 
+        – si pensi agli innamorati –, 
+        la mancanza è il risultato stesso dell’azione letale del significante, 
+        e cioè l’inevitabile constatazione che in quanto capaci di parola, 
+        siamo interni alla campo del senso entro cui si dà discorso dell’essere, ma non Essere.         
+
+        Ma facciamo un passo indietro. 
+        La questione è di cruciale importanza. 
+        Qual è il rapporto tra essere e linguaggio? 
+        Lacan direbbe “alcuno”, 
+        per Heidegger, ad esempio, basterebbe citare la celebre affermazione secondo cui 
+        “i l linguaggio è la dimora dell’essere”.
+        Eppure, il senso dell’essere, nonostante l’Heidegger della Khere ne abbia accentuato la vicinanza, 
+        non passa per il linguaggio, non si definisce per un rapporto interno al linguaggio, 
+        bensì per la sua condizione di “trascendens puro e semplice” 76. 
+        Anzi, sottoposto aristotelicamente alla logica della predicazione, 
+        l’essere è quella parola il cui senso resta indeterminato 
+        e che non trova collocazione all’interno del linguaggio se non come suo presupposto.
+        Nella proposizione “S è P ” 
+        – come è noto l’unica su cui è possibile dire il vero o il falso – 
+        il significato di S si delucida attraverso la predicazione P. 
+        Ma la proposizione lascia in sospeso, ed è qui che prende avvio il pensiero di Heidegger, 
+        il senso dell’ “è” che li connette.
+        La proposizione “S è P ” in cui si articola il nostro sapere, 
+        non copre cioè la dimensione dell’essere. 
+        Infatti, bisognerebbe affermare “l’Essere è P”, 
+        ma in tal modo si cadrebbe in quella continuità di rinvii 
+        caratterizzato dal fatto che “l’Essere è P”, esigerebbe a propria volta 
+        la delucidazione di P; al che andrebbe aggiunto che “P è C ”, 
+        il che riproporrebbe il problema di sapere cosa è C, e così via, all’infinito, 
+        mantenendo pur sempre ignoto il valore di “è”. 
+        Aggiungere poi che “è” è copula non aiuterebbe affatto a determinare il senso dell’essere. 
+        L’essere cioè, ed è questo l’enorme problema della metafisica, sfugge alla predicazione,
+        non rientra nel linguaggio nel quale sembra tuttavia anche risiedere. 
+        Eppure una simile condizione di sfuggevolezza rappresenta allo stesso tempo la sua centralità. 
+        È in questo senso che Derrida può dire:
+        quote
+            + Lo si consideri come essenza o esistenza [...] lo si consideri come copula o posizione di esistenza [...],
+                \b l’essere dell’essente non appartiene al campo della predicazione, 
+                \b perché è già implicato in ogni predicazione in generale e la rende possibile
+            note 77
+        La tradizione metafisica, ci dice Derrida, vede nell’essere una generalità assoluta, 
+        impredicabile perché presente in ogni predicazione 
+        (il Sommo Bene in Aristotele, l’idea del Bene in Platone come epekeina tes ousias, 
+        o Hegel, l’assolutamente negativo, il puro niente, pura astrazione). 
+        Resta però la questione che se l’essere è impredicabile, 
+        il linguaggio si trova a giocare o un ruolo di supporto 
+        o a dover colmare una distanza impossibile. 
+        L’essere cioè diventa la condizione, il presupposto incluso eppure trascendente al linguaggio. 
+        Dire che il “linguaggio è dimora dell’essere” 
+        se da un lato esclude la possibilità che l’essere possa essere detto, 
+        fronteggiato dal linguaggio come una cosa, 
+        dall’altra tende a porre l’essere stesso in una prospettiva sfuggevole e indeterminata 
+        – l’essere si rivela come qualcosa di “pienamente indeterminato” afferma Heidegger 78 -
+        e allo stesso tempo fondativa, 
+        proprio in quanto si tratta di una indeterminazione inclusa, propria al linguaggio stesso. 
+        Il senso sarebbe cioè quella dimensione altra dal significato (Bedeutung) 
+        che non si esaurisce nella significazione, 
+        nella quale si rivela la differenza propria dell’Essere rispetto al linguaggio. 
+        Il rapporto tra linguaggio ed essere sembra così votato, da un lato, 
+        o alla follia panlinguistica e autoreferenziale secondo cui il linguaggio 
+        in quanto potenza del rinvio, fame inappagata di senso per via della stessa logica
+        differenziale che vede nel gioco dei rinvii la sua sola consistenza, 
+        si autonomizza e si chiude su se stesso; 
+        o, dall’altro, nel postulato che il senso dell’essere è quanto il linguaggio (metafisico) non disvela, 
+        riconducendo quindi l’Essere sul piano di un presupposto ideale 
+        che sfugge ad ogni mediatezza per assumere lo statuto dell’ “è” , quello definito da Derrida della pura presenza.
+
+        Da questo punto di vista l’operazione di Lacan è rivoluzionaria. 
+        Lacan non fa altro che tirare le estreme conseguenze di questo ragionamento. 
+        Con la dialettica alienazione-separazione sgancia definitivamente il senso dall’essere, 
+        rompendo così con la stessa tematica del senso dell’essere heideggeriano. 
+        L’unica sfera in cui si dà Senso è nel luogo dell’Altro, nell’ordine simbolico. 
+        Il soggetto è così chiamato a una scelta – una pseudo-scelta perché forzata – 
+        tra l’essere in quanto godimento originario (perduto), 
+        e il senso in quanto azione ineluttabile del significante. 
+        È per questo che Lacan può affermare hegelianamente che “il simbolo uccide la Cosa” 79,
+        e cioè che il linguaggio, in quanto campo dell’Altro, sanziona quel momento in cui la morte, 
+        come altro assoluto, entra nella vita, e ci entra 
+        – e qui Lacan è debitore ad Heidegger quando introduce “l’esser-perla-morte ” – 
+        nella dimensione dell’iscrizione di una mancanza, 
+        nel vuoto che si squarcia nell’unità della vita, nella mitica pienezza ontologica, se così si può dire, 
+        scavando un buco nella compattezza muta del godimento.
+
+        L’essere in Lacan, dunque, non è né trascendente, né immanente: 
+        quando si parla di godimento dell’essere, di Cosa, non bisogna intendere una dimensione originaria, perduta, 
+        da cui si produce la mancanza introdotta dalla dimensione del senso dell’ordine simbolico. 
+        Godimento, o godimento dell’essere, è quanto resta, 
+        è l’oggetto a in quanto resto dell’operazione di divisione del soggetto 
+        dovuta alla dialettica dell’alienazione-separazione, 
+        dialettica che impone la scelta tra Senso e Godimento (Essere).
+
+        Ribadiamo ancora: il godimento, o godimento dell’essere, non è il trascendens puro, 
+        né tanto meno il mero indicibile, né la condizione affinché vi sia parola, 
+        esso è piuttosto il vuoto che plasma la rappresentazione, 
+        esso è l’ex nihilo intorno a cui matura il linguaggio.
+
+        Ora, se considerate il vaso nella prospettiva che ho messo in rilievo all’inizio, 
+        come oggetto fatto per rappresentare l’esistenza del vuoto al centro del reale che si chiama la Cosa, 
+        questo vuoto, quale si presenta nella rappresentazione, si presenta appunto come nihil, come nulla. 
+        Ed è per questo che il vasaio, proprio come voi a cui sto parlando, 
+        crea il vaso attorno a questo vuoto con la sua mano, lo crea proprio come il creatore mitico, 
+        ex nihilo, a partire dal buco […]. 
+        Con l’introduzione di questo significante plasmato che è il vaso, 
+        si ha già tutta la nozione di creazione ex nihilo. 
+        E la nozione di creazione ex nihilo è coestensiva all’esatta situazione della Cosa come tale 80 .
+
+        Torniamo all’alienazione. 
+        All’azione letale del significante in quanto operazione di divisione del soggetto 
+        condotta attraverso ciò che Lacan definisce alienazione significante, 
+        va affiancata la seconda operazione detta della separazione, che da essa discende. 
+        La separazione è un tempo logicamente secondo, 
+        essa illustra come il soggetto, a differenza dell’alienazione, 
+        opera quello che si può definire uno sganciamento dal significante. 
+        Si tratta di un’operazione in cui il soggetto 
+        “trova la via di ritorno dal vel dell’alienazione ” 81. 
+        Abbiamo visto che l’alienazione significante è rappresentabile attraverso l’operazione dell’unione: 
+        da una parte abbiamo l’essere, mentre dall’altra il senso. 
+        Il soggetto è il risultato dell’azione del significante sull’essere, risulta nel luogo dell’Altro 
+        quote
+            + in quanto il primo significante, il significante unario, sorge nel campo dell’Altro, 
+                in quanto rappresenta il soggetto per un altro significante, 
+                altro significante che ha come effetto l’afanisi del soggetto
+            note 82 
+        Abbiamo riportato nel disegno che segue un nuovo schema dell’alienazione 
+        sulla base dell’azione del significante. 
+        Quando Lacan parla di catena significante, 
+        ciò che comunemente implica un minimo di significazione 
+        è la presenza di almeno due significanti. 
+        quote
+            + Il linguaggio nella sua struttura può essere ridotto alla correlazione di due significanti;
+                \b è la stessa definizione saussuriana, perché il significante è diacritico, 
+                \b dunque si pone per differenza
+            note 83. 
+        Perché vi sia effetto di senso si deve avere la coppia minima di significanti S1-S2, 
+        in modo che si avvii quello che comunemente è detto significazione, 
+        il rinvio in cui abbiamo visto consistere la nozione di valore 84. 
+        L’Altro non è che questo: S1-S2 che s’impone come luogo della parola.
+        Seguendo lo schema, il soggetto si reperisce innanzitutto nel campo in cui sorge S1, 
+        ma in quel campo la sua condizione è costituita dal rinvio, 
+        dal fatto che l’S1 da cui è catturato rimanda necessariamente all’S2 
+        che però è iscritto nel campo dell’Altro. 
+        Il senso del soggetto, ecco cosa vuol dire questo schema dell’alienazione, 
+        è situato altrove rispetto al luogo in cui il soggetto si trova.
+        In alternativa si può dire che lo schema qui proposto riproduce la formula lacaniana secondo cui
+        “Un significante rappresenta il soggetto per un altro significante”. 
+        Il soggetto infatti, perché acceda alla significazione, 
+        all’ordine simbolico costituito da un minimo di significazione composto dalla coppia S1-S2, 
+        deve reperirsi nel campo dell’Altro. 
+        Da un lato, dunque, il godimento muto dell’essere, dall’altro il soggetto parlante, 
+        che nella lunula ove incontra l’S1, il tratto-unario, 
+        si trova iscritto nello scivolamento del significante, 
+        rappresentato altrove, rinviato all’S2, 
+        interamante situato nel campo dell’Altro. 
+        È questa il vacillamento, l’oscillazione del soggetto dall’essere al senso di cui parla J.-A. Miller. 
+        Il soggetto si trova già sempre lì dove incontra un significante che non lo esaurisce, 
+        che lo rinvia ad un altro significante segno dell’Altro. 
+        È questa l’essenza dell’alienazione, 
+        che in termini di insiemistica risponde alla formula dell’unione: “E ∪ S ”.
+
+        A questo punto è possibile considerare la seconda operazione, detta della “separazione ”. 
+        Essa risponde invece alla formula “E ∩ S ”, riguarda cioè l’operazione dell’intersezione. 
+        La sua rappresentazione è la seguente:
+
+        L’alienazione, che si basa sull’unione, traduce l’inscrizione del soggetto nel luogo dell’Altro, 
+        in quanto tale inscrizione comporta sempre un non-senso, 
+        e cioè situa il soggetto in una vacillazione dal nonsenso al senso, 
+        una vacillazione incessante dal nonsenso al senso, ma anche dall’essere al senso.
+        La separazione, quanto a lei, corrisponde alla rimozione originaria. 
+        Diciamo che quel che indica non è più il discorso dell’Altro, 
+        bensì il desiderio dell’Altro, 
+        cosa che ci permette di distinguerli con precisione. 
+        La separazione non concerne l’inconscio come discorso dell’Altro, 
+        ma il desiderio dell’Altro 85
+        Parlando della separazione Lacan propone un esempio 
+        e parla del bambino alle prese con un discorso proveniente dall’Altro, quello della madre, ad esempio. 
+        Egli dice: 
+        quote
+            + Tramite la separazione il soggetto trova, se così posso dire, 
+                \b il punto debole della coppia primitiva dell’articolazione significante, 
+                \b in quanto essa è, per definizione alienante. 
+                \b È nell’intervallo tra questi due significanti 
+                \b che risiede il desiderio offerto al reperimento del soggetto nell’esperienza del discorso dell’Altro […]”
+            note 86
+        Nella separazione, come nota Miller, si ha a che fare non più con il discorso dell’Altro 
+        ma con il suo desiderio. 
+        Essa riguarda cioè la collocazione del soggetto rispetto a questo desiderio 
+        che il soggetto scopre essere spostato rispetto al discorso che riceve dall’Altro. 
+        quote
+            + È in quanto il suo desiderio [dell’Altro, della madre] 
+                \b è al di là o al di qua di ciò che ella dice e intima, 
+                \b di ciò che fa sorgere proprio come senso, 
+                \b è in quanto il suo desiderio è sconosciuto, 
+                \b è proprio in questo punto di mancanza 
+                \b che si costituisce il desiderio del soggetto
+            note 87
+        Cerchiamo di chiarire.
+        Quello che Lacan vuole dire è che se con l’alienazione il soggetto scopre la sua mancanza a essere, 
+        la sua vacillazione perché lì dove c’è senso ne va dell’essere, 
+        nella separazione invece si determina quella operazione che svela 
+        che anche l’Altro è mancante, che la mancanza è nell’Altro, 
+        che cioè, detto in termini lacaniani, “non c’è Altro dell’Altro”, 
+        non c’è Altro che possa garantire che l’Altro sia completo, 
+        che l’ordine del senso rimandi a quello dell’essere.
+
+        Quando Lacan parla di “intervallo tra due significanti” 
+        bisogna intendere la lunula vuota che abbiamo rappresentato sopra. 
+        
+        È lì che Lacan rappresenta il soggetto che domanda “che vuole?”,
+        “che vuole da me?”; 
+        ed è lì che il soggetto, in quanto diviso, incontra il desiderio dell’Altro 
+        nella posizione di chi cerca di colmarlo al fine di suturare la sua mancanza 
+        (è l’esempio classico madre-bambino).
+        Quello che Lacan cerca di dirci è che il soggetto nella separazione incontra la X, 
+        l’incognita che emerge dal discorso dell’Altro, 
+        X che rivela la sua mancanza, il fatto cioè che non c’è Altro dell’Altro,
+        non c’è Dio garante, non c’è Significante che possa significare il desiderio dell’Altro, 
+        che possa garantire al soggetto che l’Altro, 
+        in quanto luogo della parola e in quanto altro intersoggettivo, 
+        sia esente, nel suo desiderio, dalla mancanza a essere.
+        Questa X apre il vuoto che il soggetto cercherà di colmare. 
+        Come? Facendosi oggetto del desiderio dell’Altro. 
+        Il soggetto, il soggetto dell’inconscio, in quanto diviso, alienato secondo lo schema che abbiamo mostrato, 
+        si trova adesso, nell’operazione della separazione, 
+        separato dalla catena significante S1-S2. 
+        Si trova a sinistra dello schema, confrontato con il vuoto che si apre 
+        tra la propria domanda e il desiderio dell’Altro 
+        in quanto – anch’esso – incolmabile. 
+        Questo vuoto al centro del desiderio,
+        questo vuoto che il senso dischiude come condizione necessaria 
+        affinché vi sia qualcosa come un soggetto parlante, affinché ci sia parola, 
+        è il luogo in cui – ma lo vedremo meglio in seguito – si produce 
+        ciò che Lacan chiama l’oggetto a, oggetto causa del desiderio.
+
+        In questo luogo il soggetto è preso in quella dimensione in cui ne va del suo essere, 
+        è colto in quella dimensione in cui, a trovarlo, riacciufferebbe il senso dell’essere 
+        e placherebbe il suo desiderio,
+        suturerebbe la ferita simbolica, 
+        l’alienazione che lo fa parlante e al contempo desiderante.
+
+        È chiaro che si tratta di una dimensione impossibile, 
+        ma è in tale dimensione che il soggetto diviso cerca la sua sutura. 
+        È in questo luogo altresì che si produce quello che in psicoanalisi si chiama fantasma 
+        e che in questa sede assumiamo come la dimensione linguistico-rappresentativa 
+        in cui prende forma la natura inconsistente del nostro bisogno di parole.
+
+        La formula del fantasma, non a caso, risponde in Lacan a questa dizione: 
+        + $ <> a, soggetto barrato di a;
+        e rappresenta il modo in cui il soggetto prova a rimediare alla mancanza a essere 
+        e, allo stesso tempo, al vuoto che ingoia il desiderio.         
+                
+    article lacan.piccolo-discorso-a-l-ORTF
+        book lacan.altri-scritti
+        date 1966
+
+    book lacan.altri-scritti
+        title Autres Écrits
+        author Lacan
+        edition Édition de Seuil, Paris 2001    
+
+    book focault.le-parole-e-le-cose
+        author Foucault
+        title Les Mots et les choses
+        edition Gallimard, Paris 1966
+
+    book lacan.l-io-nella-teoria-di-freud-e-nella-tecnica-della-psicoanalisi
+        title Livre II. Le moi dans la théorie de Freud et dans la technique de la psychanalyse (1954-1955), Éditions de Seuil, Paris 1977;
+        trad. it. di A. Turolla, C. Pavoni, P. Feliciotti, S. Molinari,
+A. Di Ciaccia, a cura di G. B. Contri, Libro II. 
+        L’io nella teoria di Freud e nella tecnica della psicoanalisi
+        edition Einaudi, Torino 1991 (20067), p. 53. 
+
+
+
+18 Cfr. S. Freud, Das Ich und das Es, in Gesammelte Werke, S.
+Fischer Verlag, Frankfurt a/M, (18 voll.); trad. it. a cura di
+Musatti C., in Opere vol. 9. L’Io e l’Es e altri scritti (1917-
+1923), Bollati Boringhieri, Torino 1977, §. L’Io e l’Es, p. 482.
+19 S. Freud, A note on the Unconscious in Psychoabalysis (1912),
+in Gesammelte Werke, op. cit.; trad. it. a cura di Musatti. C.,
+in Opere vol. 6. Casi clinici e altri scritti (1906- 1912),
+Bollati Boringhieri, Torino 1974, Nota sull’inconscio in
+psicoanalisi (1912), p. 575. 
+
+20 Cfr., Nota sull’inconscio in psicoanalisi (1912), cit; p. 576. 
+21 S. Freud., Metapsicologia, § L’inconscio, in Gesammelte Werke,
+op. cit.; trad. it. a cura di Musatti. C., in Opere vol. 8.
+Introduzione alla psicoanalisi e altri scritti (1915-1917),
+Bollati Boringhieri, Torino 1976 (2000), Metapsicologia (1915).,
+p. 49.
+22 Ivi, p. 55. 
+23
+        23 Ivi, p. 70.
+24 Ivi, p. 85. 
+24
+        25 Ibid.
+26 J. Lacan, Livre VII, L’éthique de la psychanalise (1959-1960),
+Édition de Seuil, Paris 1986; trad. it. di M. D. Contri, a cura
+di G. B. Contri, Libro VII. L’etica della psicoanalisi (1959-
+1960), Einaudi, Torino 1994, p. 59.
+27 S. Freud, Metapsicologia, cit., p. 86. 
+25
+28 S. Freud, L’Io e l’Es, cit., pp. 479-80.
+29 Ibid.
+30 Ibid. 
+27
+31 Ivi, p. 480-1. 
+28
+32 J. Lacan, L’etica della psicoanalisi, cit., p. 69-70. 
+29
+
+33 Si veda a proposito del termine “Deriva ” la bella
+interpretazione di Lacan, il quale la suggerisce, rifacendosi
+all’inglese “Drive ”, come la parola che meglio si addice alla
+traduzione del termine Trieb, che in italiano rendiamo
+indistintamente con “pulsione ” o “ istinto ”.
+34 Su questo vedi: S. Freud, Die Traumdeutung (1899), in
+Gesammelte Werke, op. cit.; trad. it. a cura di Musatti. C., in
+Opere vol. 3, Bollati Boringhieri, Torino 1966,
+L’interpretazione dei sogni (1899), in particolare i paragrafi
+Il lavoro di condensazione e Il lavoro di spostamento, pp. 259-
+85.
+35 S. Freud, L’Io e l’Es, cit., p. 486.
+36 Ibid. 
+30
+
+39 Ivi, p. 487.
+40 Ivi, p. 488.
+41 Ibid.
+42 Si veda a proposito S. Freud, Entwurf einer Psychologie 1895,
+in Gesammelte Werke, op. cit., S. Fischer Verlag, Frankfurt a/M
+1950; trad. it. a cura di Musatti C., Progetto di una psicologia
+e altri scritti 1892-1899, Bollati Boribghieri, Torino 1999, pp.
+43 J. Lacan, Il seminario su La lettera rubata, in Scritti, cit.,
+p. 50.
+44 J. Lacan, L’io nella teoria freudiana e nella tecnica
+psicoanalitica, cit., p. 62. 
+45 Ibid.
+46 Ivi, p. 12. 
+35
+47 S. Freud, Zur Einführung des Narzissmus (1914), in Gesammelte
+Werke, op. cit.; trad. it. a cura di Musatti. C., in Opere vol.
+7. Totem e tabú e altri scritti (1912 – 1914), Bollati
+Boringhieri, Torino 1975, Introduzione al narcisismo (1914), p.
+458.
+48 Ivi, p. 463.
+49 Ibid. 
+50 J. Lacan, Lo stadio dello specchio come formatore della
+funzione dell’io, in Scritti, cit., p. 87. Vedi anche, La cosa
+freudiana, in Scritti, cit., p. 419. 
+51 J. Lacan, Lo stadio dello specchio come formatore della
+funzione dell’io, cit., p. 88. 
+
+52 Hegel rappresenta un punto di riferimento ineludibile per il
+primo Lacan. In particolare, l’attenzione va alle pagine della
+Fenomenologia dello spirito dedicate alla costituzione
+dell’autocoscienza, da cui ricava le coordinate generali per la
+definizione di desiderio. Da questa lettura viene ne che,
+innanzitutto, il desiderio non è il bisogno, poiché l’ultimo
+implica la negazione unilaterale del campo di oggetti che
+incontra, generando così, fichtianamente, la reiterazione
+infinita di se stesso. Il desiderio è invece rivolto a un'altra
+autocoscienza, verso un’alterità soggettiva. In secondo luogo,
+il desiderio umano, in quanto rivolto all’altro che desidera, è
+desiderio di essere riconosciuti, desiderio di riconoscimento.
+Il bisogno, il cui “operare unilaterale sarebbe vano ”, come
+sostiene Hegel, non perviene ad alcuna mediazione. È solo il
+desiderio la misura del compimento dialettico verso il
+ritrovamento di sé. In terzo luogo, l’introduzione della
+dialettica della lotta per il riconoscimento, che conduce
+all’antagonismo servo-padrone, serve a Lacan da spunto per
+reperire quella dimensione di alienazione che in Hegel viene
+ricucita dal superamento della coscienza infelice attraverso la
+via del Sapere Assoluto. Il conflitto servo-padrone in Hegel
+produce una scissione decisiva per la costituzione della
+soggettività perché conduce a un’asimmetria tra le due
+autocoscienze in cui al riconoscimento dell’una corrisponde la
+morte dell’altra. Ma si tratta solo di un passaggio destinato ad
+esser superato, all’oltrepassamento della coscienza infelice
+sulla via dello Spirito. Lacan, che a pagina 800 degli scritti
+nel saggio Sovversione del soggetto e dialettica del desiderio
+nell’inconscio freudiano definisce questo movimento una
+“ dialettica convergente ”, userà questo momento tragicoconflittuale come misura dell’impossibilità di suturare la
+differenza interna ad ogni desiderio, e cioè l’impossibilità del
+superamento da parte del desiderio della propria infelicità. 
+53 Ibid. 
+40
+
+54 J. Lacan, L’io nella teoria di Freud e nella tecnica
+psicoanalitica, cit. p. 63.
+
+55 Per quanto detto è bene ricordare l’influenza che ha avuto 
+sulla tesi dell’io come proiezione immaginaria 
+e sulla lettura del cogito cartesiano 
+il testo di Sartre La trascendenza dell’ego dove si può leggere: 
+“Se l’Io, (Moi) è un oggetto, è chiaro che non potrò mai dire: la mia coscienza, cioè la coscienza del mio Io (Moi) ”. 
+E di seguito:
+quote
+    + L’Ego non è proprietario della coscienza, ma ne è un oggetto” .
+(J. P. Sarte, La trascendence de l’ego. Esquisse d’une description phenomenoligique, Librairie philosophique J. Vrain, Paris 1966;
+trad. it. a cura di Pirillo N., La trascendenza dell’ego,
+Berisio Editore, Napoli 1971; a cura di Ronchi R., 
+La trascendenza dell’ego, Egea, Milano 1992). 
+
+Tutto ciò, anticipato da Freud, 
+ci riporta al ruolo fondamentale, ma non fondatore,
+che ha avuto Sartre nell’elaborazione del pensiero di Lacan. 
+
+56 J. Lacan, L’io nella teoria di Freud e nella tecnica
+psicoanalitica, cit., pp. 213-4. 
+
+57 Si veda il saggio La psicoanalisi e il suo insegnamento, in
+Scritti, cit., p. 492. 
+58 J. Lacan, Livre XI Les quatre concepts fondamentaux de la
+psychanalyse (1964), Éditions de Seuil, Paris 1973; trad. it. di
+S. Loaldi, R. E. Manzetti, a cura di A. Di Ciaccia, Libro XI. I
+quattro concetti fondamentali della psicoanalisi (1964),
+Einaudi, Torino 1979 e 2003 p. 199. 
+59 J. Lacan, L’istanza della lettera nell’inconscio freudiano, in
+Scritti, cit., p. 506.
+60 Ivi, p. 507. 
+48
+61 Ivi, p. 492.
+62 Ivi, p. 497. 
+49
+        63 Se ne possono citare numerose fonti sparse qua e là nell’opera
+lacaniana. Si veda fra le altre Soggetto e desiderio
+nell’inconscio freudiano, in Scritti, cit. p. 822.
+64 J. Lacan, Funzione e campo della parola e del linguaggio, in
+Scritti, cit. p. 152. 
+51
+65 Id., Il seminario su La lettera rubata, in Scritti, cit. p.
+50.
+66 Si veda J. Lacan, Seminario XI. I quattro concetti
+fondamentali della psicoanalisi, ci., pp. 199-225. 
+52
+67 J. Lacan, L’istanza della lettera nell’inconscio o la ragione
+dopo Freud, in Scritti, cit., p. 515.
+68 Si veda M. Recalcati, A. Di Ciaccia, Jacques Lacan, Bruno
+Mondadori, Milano 2000, p. 63. Per quanto riguarda il tema della 
+        Cancellare
+
+Cosa e del godimento si rimanda all’ottimo approfondimento di
+Recalcati, L’universale e il singolare, Marcos y Marcos, Milano
+1995.
+69 Si veda in proposito R. Jakobson, Essais de linguistique
+générale, Éditions de Minuti, Paris, 1963; trad. it. Heilmann
+L., Grassi L., Saggi di linguistica generale, Feltrinelli,
+Milano 1966 (2002), p. 136. Lacan, attento lettore di Jakobson,
+si rifà probabilmente alla definizione medioevale, che appare
+nel testo del linguista russo, del segno inteso come aliquid
+stat pro aliquo. 
+
+70 Si veda J. Lacan, Livre X, L’angoisse (1962-1963), Édition de
+Seuil, Paris 2004; trad. it. di A. Di Ciaccia, A. Succetti, a
+cura di A. Di Ciaccia, Libro X. L’angoscia (1962-1963), Einaudi,
+Torino 2007, pp. 68-72.
+71 Sulla questione della traccia articolata da Derrida ci sarebbe
+molto da dire, ma non è questa la sede per affrontare il
+problema. Resta evidente l’apporto di Lacan sul tema, in
+particolare in riferimento all’idea di segno linguistico così
+come si viene a sviluppare nel suo pensiero. La portata della
+nozione di significante in Lacan è inscindibile, come abbiamo
+visto, da quella di traccia e dal fatto che non vi sia
+significante primo, dominante, ideale se non nei termini di una
+vera e propria “fissazione ”, di un’idealizzazione, cosa in cui
+Lacan riconosce il segno della metafisica così, alla stregua di
+Heidegger e Derrida. È pertanto quanto meno discutibile la
+critica di fallo-fono-centrismo rivolta da Derrida a Lacan. La
+traccia è traccia del significante, è traccia cancellata; e non
+si dà significante se non nell’ambito di un rinvio continuo
+della significazione, tale che, ad arrestarla, si ricadrebbe
+nell’ipostasi di una sostanza (una significazione) chiusa in se
+stessa, l’idea derridiana di ousia come presenza, phoné. Sul
+tema si veda tra gli altri: J, Derrida, De la grammatologie, Les
+Editions de Minuit, Paris 1967; trad it. di Balazotti R.,
+Bonicalzi F., Contri G., Lodadi A. C., a cura di Dal masso G.
+Della grammatologia, Jaca Book, Milano 1969, in particolare il
+capitolo secondo, Linguistica e grammatologia, pp. 103-8. 
+
+72 Si veda J. Lacan, La cosa freudiana, in Scritti, cit., pp.
+391-428.
+73 Id., I quattro concetti fondamentali della psicoanalisi, cit.,
+p. 205-6. 
+74 Ibidem. 
+
+75 Ivi, p. 207.
+ L’essere
+(il soggetto)
+ Il
+ non-senso
+ Il senso
+ (l’Altro) 
+76 M. Heidegger, Sein und Zeit, Niemeyer, Tubingen 1927; trad.
+it. a cura di Volpi F., Essere e Tempo, Longanesi, Milano 1990
+(2005), p. 69. 
+77 J. Derrida, La scrittura e la differenza, Einaudi, Torino
+1971, p. 172.
+78 M. Heidegger, Einführung in die Metaphysik, Niemeyer, Tubingen
+1966; trad. it. Masi G., Introduzione alla metafisica, Mursia
+1968 (20007
+), p. 88. “Se l’uomo deve ancora una volta ritrovare
+la vicinanza dell’essere, deve prima imparare ad esistere
+nell’assenza di nomi ”. Si veda anche M. Heidegger, Brief über
+den «Humanismus», Klostermann, Frankfurt a/M 1976, trad. it. a
+cura di Volpi F., Lettera sull’umanismo, Adelphi, Milano 1995,
+p. 273. 
+79 J. Lacan, Funzione e campo della parola e del linguaggio, in
+Scritti, cit., p. 313. Ma dello stesso autore si veda anche,
+L’etica della psicoanalisi, cit., pp. 150-1. 
+80 Ivi, p.155.
+81 J. Lacan, I quattro concetti fondamentali della psicoanalisi,
+cit., p. 214.
+82 Ibid.
+83 J.-A. Miller, Du symptôme au fantasme et retour. Lezione del 9
+marzo 1983. Corso tenuto alla Sorbona nell’a.a. 1982-1983
+(inedito). Il dattiloscritto è conservato presso la Biblioteca
+della Scuola Lacaniana del campo Freudiano di Roma.
+84 Per tutto questo si veda J. Lacan, L’istanza della lettera
+nell’inconscio o la ragione dopo Freud, in Scritti, cit.
+ L’essere
+(il soggetto)
+ S1
+ rinvio
+ Il senso
+ (l’Altro)
+ S2
+85 J. A. Miller, Du symtôme au fantasme et retour, cit.
+
+ L’essere
+(il soggetto)
+ Il senso
+ (l’Altro)
+S1-S2
+        86 J. Lacan, I quattro concetti fondamentali della psicoanalisi,
+cit. p. 214.
+87 Ibid. 

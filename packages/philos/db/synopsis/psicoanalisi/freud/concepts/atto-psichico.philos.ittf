@@ -1,0 +1,25 @@
+$group
+
+    namespace freud
+
+        concept atto-psichico
+            quote
+                + Nella prima fase l’atto è inconscio e appartiene al sistema Inc; 
+                    \b se dopo averlo controllato la censura lo respinge, gli è vietato di passare alla seconda fase; 
+                    \b si chiama allora “rimosso”, ed è costretto a restare inconscio. 
+                    \b Se invece supera questo controllo, entra nella seconda fase e viene a far parte del secondo sistema, 
+                    \b che abbiamo deciso di chiamare sistema C. 
+                    \b Ma il fatto di appartenere a questo secondo sistema 
+                    \b non è ancora sufficiente per determinare in modo univoco il suo rapporto con la coscienza. 
+                    \b L’atto psichico non è ancora cosciente, ma capace di diventare cosciente 
+                    \b (per usare l’espressione di Josef Breuer), 
+                    \b e cioè, a patto che intervengano certe condizioni, 
+                    \b può diventare oggetto della coscienza senza incontrare particolari resistenze. 
+                    \b Con riguardo a questa capacità di coscienza, 
+                    \b diamo al sistema C anche la denominazione di “preconscio”. 
+                    \b Se dovesse risultare che anche il farsi cosciente da parte del preconscio 
+                    \b è condizionato da una certa censura, 
+                    \b dovremmo scindere più nettamente fra loro i sistemi Prec e C 
+                    \b Per ora basti la costatazione che il sistema Prec condivide le proprietà del sistema C, 
+                    \b e che la rigida censura esercita il suo ufficio nel punto di transizione dall’Inc al Prec (o C).
+                kindle-page 4664-4665

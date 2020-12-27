@@ -1,0 +1,21 @@
+ $group
+
+    field psicofisica
+        founder Fechner
+        founder H-Weber
+        parent
+            field psicologia
+        forerunner-of
+            field psicologia sperimentale
+        + La psicofisica è una branca della psicologia che studia le relazioni 
+            \b che esistono tra stimoli fisici definiti e misurabili (luminosi, tattili, acustici, ecc.) 
+            \b e la risposta, intesa come intensità percepita legata agli stimoli stessi.
+        + La psicofisica è nata a metà 1800 dal lavoro di Ernst Heinrich Weber e di Gustav Theodor Fechner, 
+            \b che lavorarono sulle ricerche empiriche e le elaborazioni concettuali 
+            \b che condussero poi alla formulazione della Legge di Weber-Fechner, 
+            \b prima legge scoperta nella storia della psicologia sperimentale (1860), 
+            \b è stato un tentativo di emancipazione della psicologia dalla filosofia, 
+            \b spingendola nell'alveo delle scienze sociali.
+        + La psicofisica è nel corso del 1900 ha conosciuto un relativo ridimensionamento, 
+            \b ma all'interno della ricerca percettologica 
+            \b è tuttora considerata come uno dei principali programmi di ricerca della psicologia sperimentale.

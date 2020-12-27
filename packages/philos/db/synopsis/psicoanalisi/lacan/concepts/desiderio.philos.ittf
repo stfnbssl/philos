@@ -1,0 +1,47 @@
+$group
+
+    namespace lacan
+
+        concept desiderio
+            
+            quote
+                + Il desiderio è quello che resta della domanda una volta soddisfatto il bisogno.
+            
+            
+            quote
+                + La dimensione del desiderio apre il soggetto a un movimento di trascendenza, 
+                    \b alla ricerca di una soddisfazione che rimanda sempre ad altro,
+                    \b il desiderio è un dire che non si lascia condensare in nessun detto.
+                book terminio.misurare-l-inconscio
+            
+            quote
+                + Il desiderio, costretto a farsi parola in foggia di domanda, 
+                    \b è dunque ostaggio del processo del linguaggio. 
+                    \b Tuttavia, in ragione della sua anteriorità logica sulla sequenza del discorso che lo attualizza, 
+                    \b il linguaggio resta preso interamente nelle reti delle determinazioni inconsce del desiderio
+                        bax ???
+
+        concept oggetto-del-desiderio
+            alias fallo
+            + l’oggetto che colma la mancanza dell’altro, cioè il fallo
+
+        concept desiderio-di-soggetto
+            + desiderio che può rivolgersi verso 
+                \b oggetti sostitutivi dell'oggetto perduto (la madre)
+                \b perchè il soggetto padroneggia 
+                \b di non essere l'unico oggetto del desiderio della madre
+
+        concept desiderio-dell-altro
+            r-concept lacan.psicosi
+                + l’enigma del desiderio dell’Altro 
+                    \b può essere esperito come una volontà di godimento minacciosa
+
+        concept passione
+            + è più di semplice desiderio, è una combinazione di desiderio e di godimento
+            + il godimento spiegherebbe la ripetizione inestinguibile 
+                \b e il cieco avvitarsi su se stessa, della passione
+            + nella sua fenomenologica alla viva tensione verso la meta (desiderio) 
+                \b è sempre accoppiato un inconfondibile crogiolarsi ostentato o gloriarsi compiaciuto 
+                \b per il prezzo di sofferenza e di sacrificio (godimento)
+            + la ripetizione nevrotica non è dissimile dall’ostinata abnegazione 
+                \b di una suffragetta o di un agitatore di avanguardie 

@@ -1,0 +1,34 @@
+$group
+
+    namespace lacan
+
+        concept assenza
+
+            aspect assenza-negativa
+                + C’è l’assenza nel senso più corrente,
+                    \b l’assenza come esperienza della mancanza,
+                    \b della perdita, della separazione, del lutto.
+
+                + È l’accezione classica dell’assenza,
+                    \b la cui negatività contiene però già un’apertura al ‘positivo’.
+            
+            aspect assenza-positiva
+                + L’assenza è anche quanto di più peculiare della condizione umana.
+                    \b Un negativo che diventa positivo, almeno virtualmente.
+                
+                + Perché la cifra della condizione umana è proprio 
+                    \b la capacità di elaborazione della perdita dell’oggetto, 
+                    \b di farne una risorsa creativa grazie alla simbolizzazione. 
+                
+                + Sulla positività dell’assenza
+                    \b si attesta in buona parte l’aspetto più originale dell’elaborazione di Lacan.
+                    \b Un’assenza positiva: è il filo del suo percorso.
+
+            r-concept derrida.différance
+                + Derrida insiste con il concetto di différance 
+                    \b sul gioco della presenza e dell’assenza,  
+                    \b sulla traccia come presenza fatta di assenza. 
+                    \b È l’assenza che genera la forma del presente, 
+                    \b non vi è presente puro.
+
+        concept presenza

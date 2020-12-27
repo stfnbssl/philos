@@ -1,0 +1,22 @@
+$group
+
+    concept complesso di castrazione
+    concept invidia del seno
+    concept oggetto interno
+    concept introiezione
+    concept contenitore
+    concept identificazione proiettiva
+
+    approach psicoanalisi.psicologia-dell-io
+        use freud.seconda-topica
+        quote
+            + [..] la concezione tripartita ha aperto la strada e ha segnato l'inizio 
+                \b dello sviluppo della cosiddetta psicologia dell'io.
+                \b La psicologia dell'io è stata per la psicoanalisi 
+                \b un modo per entrare nella psicologia generale 
+            book blanco.l-inconscio-come-insiemi-infiniti
+            page 81
+
+    concept freud.compiacenza-somatica
+        bax
+            + l'approccio della embodied-cognition rende ovvio questo concetto?

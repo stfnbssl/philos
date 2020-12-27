@@ -1,0 +1,34 @@
+$group
+    
+    authors-group Scuola di Palo Alto
+        author Watzlawick
+        author Jackson
+        author Beavin
+        author Fish
+
+        theory I 5 assiomi della comunicazione umana
+            title è impossibile non comunicare
+                + Ogni comportamento in una situazione di interazione è considerato comunicazione
+            title All’interno di ogni messaggio possono essere individuati e distinti due livelli: 
+                \b il livello di contenuto ed il livello di relazione. 
+                + Ogni messaggio non solo trasmette un'informazione, ma contiene anche al suo interno un messaggio di 
+                    \b ordine superiore che indica come interpretare tale informazione. La comunicazione sulla comunicazione, 
+                    \b ovvero la metacomunicazione, può essere espressa verbalmente, ma solitamente è affidata al comportamento 
+                    \b non verbale. Anche il contesto stesso può contribuire a chiarire come interpretare il messaggio. I partner 
+                    \b conversazionali entrano in conflitto se non c'è accordo a livello di relazione.
+            title La natura della relazione dipende dalla “punteggiatura”, ovvero dalla sequenza di eventi, 
+                \b dall'organizzazione di significato nella comunicazione tra i partecipanti e dall'espressione del punto di
+                \b vista dei comunicanti. 
+                + Lo stesso evento può essere raccontato in modi diversi, dipende dalla punteggiatura che ne dà la persona.
+                + Essa deriva dal ruolo assunto dall'individuo nella comunicazione.
+            title Le modalità comunicative degli esseri umani possono essere distinte in verbali e non verbali. 
+                + Mentre la comunicazione verbale trasmette informazione, quella non verbale fornisce informazione sull'informazione
+            title Le interazioni possono essere simmetriche oppure complementari
+                + Le relazioni simmetriche sono basate sull'uguaglianza, nel senso che le due persone in interazione mettono in 
+                    \b atto dei comportamenti sempre più simili (ad esempio se uno attacca, l'altro risponde attaccando a sua volta). 
+                    \b Al contrario, le relazioni complementari si fondano sulla differenza, nel senso che i due partner
+                    \b conversazionali assumono due posizioni diverse: uno si colloca in posizione superiore o “one-up”, l'altro 
+                    \b in posizione inferiore o “one-down”, ed interagiscono tra loro mettendo in atto dei comportamenti sempre più 
+                    \b diversi (ad esempio se uno attacca, l'altro subisce). Entrambe le modalità relazionali sono positive per
+                    \b le persone coinvolte fin tanto che l'escalation nell'interazione simmetrica e la rigidità in quella complementare 
+                    \b si mantengono a livelli contenuti

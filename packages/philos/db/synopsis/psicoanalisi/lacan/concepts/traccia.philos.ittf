@@ -1,0 +1,25 @@
+$group
+
+    namespace lacan
+
+        concept traccia
+
+            + La stessa nozione di traccia, con cui 
+                \b il segno linguistico fuoriesce dalla sfera naturale dell’animalità 
+                \b per entrare nel circuito della significazione, 
+                \b resta impensabile se non si prevede l’atto della cancellazione come sua condizione, 
+                \b se cioè sul piano simbolico non viene introdotta la mancanza, il buco, la beanza 
+                \b attraverso cui significante e significato entrano in relazione in quanto scissi.
+                quote
+                    + struttura presupponente del linguaggio
+                    book agamben.la-potenza-del-pensiero
+                    page 9-36
+
+            quote
+                + Una cosa l’animale non fa: non lascia false tracce. 
+                    \b Vale a dire tracce tali da essere credute false 
+                    \b mentre di fatto sono le tracce di un vero passaggio. 
+                    \b Fare tracce falsamente false è un comportamento non dirò essenzialmente umano, 
+                    \b ma essenzialmente significante. 
+                book lacan.seminario-X
+                page 70

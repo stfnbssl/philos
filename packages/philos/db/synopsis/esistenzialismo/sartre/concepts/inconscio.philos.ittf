@@ -1,0 +1,18 @@
+$group
+
+    namespace sartre
+
+        concept inconscio
+
+            quote
+                + In realtà Sartre non ha mai ammesso l’idea di un inconscio in quanto sempre attivo (come la rimozione); 
+                    \b non ha mai ammesso un inconscio – freudiano – 
+                    \b di cui non ci si potrà mai appropriare. 
+                    \b “Dapprima l’es, e poi viene l’io”; 
+                    \b ma il je (io) libero non può mai liberarsi completamente dall’attrazione dell’es, dell’inconscio. 
+                    \b E’ questo punto basilare che Sartre non ammette. 
+                    \b Sartre ammetterà che ci sono cose di sé che non conosciamo, che occorre riconoscere. 
+                    \b Non ha ammesso il fondamento stesso dell’analisi. 
+                    \b E cioè che “il soggetto non è padrone in casa sua” e non lo sarà mai. 
+                    \b E direi: per fortuna. C’è sempre del demoniaco nell’uomo.
+                article pontalis.apres-coup-la-memoria-retroattiva

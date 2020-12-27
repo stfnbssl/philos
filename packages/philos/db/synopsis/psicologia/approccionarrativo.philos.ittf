@@ -1,0 +1,143 @@
+$group
+
+    approach approccio narrativo
+    
+        field psicologia
+        + Seguendo la metafora narrativa, la nostra esperienza è costruita attraverso le storie che raccontiamo su di essa: storie 
+            \b multiple e polifoniche narrate - e potenzialmente narrabili - intorno ad uno stesso evento; storie sempre collocate 
+            \b in riferimento al posizionamento di chi osserva; storie, quindi, virtualmente ricostruibili attraverso il percorso 
+            \b psicoterapeutico, in modo differente da quello che alimenta il disagio, il disadattamento, la sofferenza.
+        from 
+            author Mead
+            + sembra annunciarlo quando parla della rilevanza della vita sociale, con la sua valenza negoziale, nel processo 
+                \b in riferimento al quale si costruisce l’identità individuale 
+        from
+            author Bateson
+            + sembra annunciarlo quando parla della mente come costruita attraverso un processo relazionale tra più unità collegate 
+                \b ricorsivamente, in rapporto co-evolutivo con il contesto 
+        
+        application
+            field psicoanalisi
+                + Già negli ultimi lavori di S. Freud è rintracciabile la difficoltà dell’analista nel ricostruire in modo 
+                    \b attendibile le storie di vita dei pazienti.
+            author R. Schafer (1980)
+                + risulta evidente l’inesistenza di dati oggettivi autonomi e puri
+            author J. Hillman (1984), analista junghiano
+                + descrive per la prima volta l’arte narrativa della psicoterapia e la psicoterapia come arte narrativa, 
+                    \b per allontanarla dagli schemi medici di guarigione e dai modelli secolari di assistenza. Secondo
+                    \b questo Autore, il lavoro psicoterapeutico si realizza attraverso la costruzione di “storie che curano” 
+                    \b che si differenziano, per stile e per trama, a seconda delle teorie di riferimento del terapeuta.
+            author D. Spence (1987)
+                + differenzia il concetto di “verità storica” da quello di “verità narrativa” - intesa, quest’ultima, come 
+                    \b organizzazione coerente di eventi selezionati – e introduce l’idea che, nei racconti di vita delle
+                    \b persone che affrontano un percorso psicoterapeutico, non ci sia una Verità da scoprire ma piuttosto 
+                    \b un significato da attribuire.
+            author Edelson (1992)
+                + afferma di prestare attenzione alle storie che i pazienti gli raccontano e di riflettere su quali trame 
+                    \b di film visti, o di libri letti, gli vengono in mente; nota poi le somiglianze tra le diverse narrazioni; 
+                    \b a volte comunica con i pazienti i film o i libri che i loro racconti gli evocavano e lavora con loro 
+                    \b attraverso di essi, chiedendo, ad esempio, se riescono ad immaginare altri possibili sviluppi delle
+                    \b storie. Obiettivo di questo lavoro, secondo l’Autore, è utilizzare concetti vicini all’esperienza, piuttosto 
+                    \b che proporre i principi astratti della metafisica freudiana, per promuovere un processo di cambiamento.
+        
+        application
+            field neurologia
+            book
+                author O. Sacks 
+                title L'uomo che scambiò sua moglie per un cappello
+                edition 1995
+                + affronta in chiave narrativa il complesso tema della “neurologia dell’identità” 
+                    \b e dei fondamenti neurofisiologici dell’io e, a questo proposito, 
+                    \b argomenta la necessità di “parlare di storie e fiabe non meno che di casi”. 
+                quote
+                    + Le anamnesi sono una forma di storia naturale, 
+                        \b ma non ci dicono nulla sull'individuo e sulla sua storia; 
+                        \b non comunicano nulla della persona e della sua esperienza, 
+                        \b di come essa affronta la malattia e lotta per sopravvivere. 
+                        \b Non vi è “soggetto” nella scarna storia di un caso clinico; 
+                        \b le anamnesi moderne accennano al soggetto con formule sbrigative 
+                        \b (“albino femmina trisomico di anni 21”) 
+                        \b che potrebbero riferirsi a un essere umano come a un ratto. 
+                        \b Per riportare il soggetto – il soggetto umano che soffre, si avvilisce, lotta – 
+                        \b al centro del quadro, 
+                        \b dobbiamo approfondire la storia di un caso fino a farne una storia vera, un racconto: 
+                        \b solo allora avremo un “chi” oltre a un “che cosa”, 
+                        \b avremo una persona reale, un paziente 
+                        \b in relazione alla malattia  – in relazione alla sfera fisica
+        
+        application
+            field sistemica
+            book
+                author M. White
+                title libro La terapia come narrazione
+                edition 1992
+                + White parla di “storia dominante” per descrivere la tendenza a raccontare la storia di vita 
+                    \b seguendo una trama coerente con il nucleo narrativo centrale, 
+                    \b generativo di realtà e identità; 
+                    \b quando tale storia appare  “saturata dal problema”, 
+                    \b ovvero pervasa dalla dimensione del problema, 
+                    \b si crea la cosiddetta “psicopatologia”. 
+                    \b Il compito del clinico diventa accompagnare la persona 
+                    \b ad individuare gli aspetti dell’esperienza 
+                    \b che contraddicono la descrizione di sé saturata dal problema, 
+                    \b partendo dai quali costruire una nuova storia.
+            article
+                title Punti di attrazione inconsueti e trasformazioni narrative in terapia familiare
+                author C. Sluski
+                edition 1999
+                + Sluski propone una metodologia psicoterapeutica 
+                    \b funzionale alla costruzione di “storie formalmente migliori”, 
+                    \b ponendo come obiettivo del lavoro clinico 
+                    \b la trasformazione delle storie perpetuanti il problema in racconti vivibili, autodiretti e soddisfacenti; 
+                    \b racconti che descrivono i protagonisti come attivi, competenti, 
+                    \b responsabili, riflessivi, portatori di valori etico/morali quali il rispetto di sé e del prossimo, 
+                    \b l’evitamento della sofferenza, 
+                    \b il senso di responsabilità collettiva, 
+                    \b la promozione di processi di evoluzione e di cambiamento.
+                book
+                    author L. Boscolo e P. Bertando
+                    title Terapia sistemica individuale
+                    edition 1996
+                book
+                    author G. Manfrina 
+                    title La narrazione psicoterapeutica
+                    edition 1988
+                book
+                    author R.K. Papadopulos, J. Byng-Hall
+                    title Voci multiple, la narrazione nella terapia sistemica individuale
+                    edition 1999
+                book
+                    author V. Ugazio ; S. Mc Namee e K. Gergen
+                    title Storie permesse, storie proibite
+                    edition 1998
+                book
+                    author S. Mc Namee e K. Gergen
+                    title La terapia come costruzione sociale
+                    edition 1998
+        
+        application
+            field antropologia medica
+            book
+                author B.J. Good
+                title Narrare la malattia
+                edition 1999
+                + un esempio di applicazione dell’approccio narrativo alle chiavi di lettura inerenti al rapporto medico-paziente
+        
+        application
+            field pedagogia
+            + è emblematico il lavoro sull’utilizzo della “autobiografia come strumento di cura” portato avanti da D. Demetrio 
+                \b e dai suoi collaboratori, tra i quali L. Formenti, facenti riferimento alla “Libera Università dell’Autobiografia” 
+                \b di Anghiari.
+            book
+                author Demetrio
+                title Raccontarsi: l‟autobiografia come cura di sé"
+                edition 1996
+            book
+                author Demetrio
+                title Il gioco della vita. Kit autobiografico
+                edition 1997
+                + contiene trenta diverse proposte di esercitazione per potenziare l’abilità di raccontarsi 
+            book
+                author Formenti
+                title La formazione autobiografica
+                edition 1998

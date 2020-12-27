@@ -1,0 +1,6 @@
+$group
+
+    book klein.invidia-e-gratitudine
+        author Klein
+        title Invidia e gratitudine
+        edition Martinelli, Firenze, 1969

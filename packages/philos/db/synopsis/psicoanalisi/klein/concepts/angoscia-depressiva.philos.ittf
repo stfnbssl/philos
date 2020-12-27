@@ -1,0 +1,9 @@
+$group
+
+    namespace klein
+
+        concept angoscia-depressiva
+            + L’integrazione degli oggetti parziali in un oggetto intero genera l’angoscia depressiva 
+                \b che è la paura della perdita di integrità dell’oggetto amato tipica di questa posizione: 
+                \b il bambino teme di aver distrutto l’oggetto d’amore 
+                \b con le proprie fantasie sadiche e distruttive.

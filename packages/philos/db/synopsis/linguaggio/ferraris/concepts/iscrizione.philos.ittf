@@ -1,0 +1,14 @@
+$group
+
+    namespace ferraris
+
+        concept iscrizione
+            
+            quote
+                + [iscrizione, in senso tecnico, è ] ogni forma di fissazione accessibile ad almeno due persone
+                    \b [.. dunque una] registrazione accessibile pubblicamente
+                book ferraris.documentalità
+                page 200
+                
+            + L’iscrizione dà luogo infine agli oggetti sociali, 
+                \b secondo la formula “Oggetto = Atto iscritto”.

@@ -1,0 +1,9 @@
+$group
+
+    namespace blanco
+
+        concept pensiero
+            quote
+                + [..] conosciamo la realtà di questi modi di essere attraverso i loro aspetti conoscibili, 
+                    \b che sono, di fatto, espressioni dirette e indirette di pensiero, 
+                    \b cioè di attività proposizionale

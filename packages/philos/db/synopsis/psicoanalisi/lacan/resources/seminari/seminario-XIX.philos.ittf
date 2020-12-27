@@ -1,0 +1,58 @@
+$group
+
+    book lacan.seminario-XIX
+        author Lacan
+        title Seminario. Libro XIX. ...o peggio.
+        written 1971-1972
+        edition Torino: Einaudi, 2020
+        index
+            + Sommario: Dell'uno e dell'altro sesso. 
+                + I. La piccola differenza. 
+                + II. La funzione qx. 
+                + III. Dall'aneddoto alla logica. 
+                + IV. Dalla necessità all'inesistenza. 
+            + L'Altro: dalla parola alla sessualità. 
+                + V. Topologia della parola. 
+                + VI. Io ti chiedo di rifiutarmi quello che ti offro. 
+                + VII. La partner svanita. 
+                + VIII. Quanto all'Altro. 
+            + L'Uno: non accede al due. 
+                + IX. Nel campo dell'Uniano. 
+                + X. Cèd'luno. 
+                + XI. Storia di Uni. 
+                + XII. Il sapere sulla verità. 
+                + XIII. A fondamento della differenza tra i sessi. 
+                + XIV. Teoria delle quattro formule. 
+            + Coda 
+                + XV. Il desiderio di dormire. 
+                + XVI. I corpi acchiappati dal discorso. 
+            + Allegati
+                + Resoconto del Seminario XIX, di Jacques Lacan. 
+                + Quarta di copertina francese del Seminario XIX, di Jacques-Alain Miller. 
+                + Biblioteca del Seminario XIX, di Jacques-Alain Miller. 
+                + Avvertenza del curatore dell'edizione italiana. 
+                + Indice dei nomi.
+        back-cover
+            + In questo Seminario Lacan tratta dell’uomo e della donna. 
+                \b Per essere precisi tratta del loro rapporto, 
+                \b a proposito del quale l’immaginazione ha da sempre alimentato piacevoli illusioni e struggenti passioni, 
+                \b e rispetto al quale la cultura ha prescritto, secondo i tempi, ciò che è bene e ciò che è male. 
+                \b In realtà sia la poesia, in modo suggestivo, sia la società, che accentua il disagio di questo rapporto, 
+                \b sono come dei veli che coprono un buco: un buco nel reale. 
+                \b Lacan propone un’inedita definizione: «Non c’è rapporto sessuale». 
+                \b Questo non vuole dire che non ci possano essere quei rapportini, cosí li chiama, 
+                \b che fanno la delizia e la croce del genere umano. 
+                \b Vuol dire invece che tra l’uomo e la donna non c’è, a priori, nessun accordo né armonia alcuna. 
+                \b Difetto che non dipende né dall’uno né dall’altra, 
+                \b poiché la chiave è da ritrovare soltanto in quello che Freud ha chiamato inconscio 
+                \b e che Lacan cerca di precisare sviluppando una nuova logica. 
+                \b È l’inconscio che rende impossibile che di due si arrivi a fare uno. 
+                \b Eppure l’uno-tutto-solo c’è. 
+                \b Al non c’è del rapporto sessuale si oppone il c’è dell’Uno, 
+                \b il quale è solo nel suo godimento, e questo vale per qualunque corpo parlante, 
+                \b che sia dell’uno o dell’altro sesso. 
+                \b Qui inizia l’ultimo insegnamento di Lacan. 
+                \b Sembra che Lacan ripercorra strade conosciute, e invece è tutto diverso: 
+                \b l’Altro non è quello che conoscevamo, e neppure il desiderio, addirittura neppure il godimento. 
+                \b L’inconscio stesso, che Lacan piú avanti chiamerà parlessere, 
+                \b si situa ormai sotto l’egida dell’Uno nella dimensione del Reale.

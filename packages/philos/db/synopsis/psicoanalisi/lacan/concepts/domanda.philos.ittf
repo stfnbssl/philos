@@ -1,0 +1,27 @@
+$group
+
+    namespace lacan
+
+        concept domanda
+            quote
+                + [La domanda] è ciò che di un bisogno passa 
+                    \b attraverso il significante indirizzato all'Altro
+                page 85
+                book lacan.seminario-V
+            
+            + La domanda è un appello rivolto all'Altro (del discorso).
+                \b Quando un grido (del neonato) diventa un appello?
+                \b Quando la risposta dell'Altro lo accoglie; 
+                \b è necessaria una traduzione significante da parte dell'altro.
+            
+            r-concept lacan.desiderio
+                + Quando il bisogno passa nel registro della domanda si produce un resto,
+                    \b uno scarto (differenza) tra bisogno o domanda; 
+                    \b la domanda è sempre almeno parzialmente insoddisfatta. 
+                    \b Questo resto è il desiderio, che riappare al di là della domanda
+                    \b e che non si lascia assorbire nella dialettica soggetto-Altro.
+            
+            r-concept lacan.fallo
+                + Il fallo, in quanto significante del desiderio, 
+                    \b configura la possibilità di significantizzare la differenza
+                    \b tra bisogno e domanda (il desiderio).

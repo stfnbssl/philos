@@ -1,0 +1,13 @@
+$group
+    
+    concept struttura
+        + idea generale, o insieme dei principi fondanti (fondamenti) di una determinata disciplina
+        quote
+            author Bruner
+            + Le strutture sono le idee organizzatrici che mirano a connettere e semplificare l’esperienza: in fisica 
+                \b si è scoperta l’idea di forza, in chimica di combinazione, in psicologia quella di motivazione, in 
+                \b letteratura quella di stile. 
+                \b La storia della cultura è la storia delle grandi idee organizzative e strutturali.
+        quote
+            + leggi a cui si uniformano
+            author Blanco

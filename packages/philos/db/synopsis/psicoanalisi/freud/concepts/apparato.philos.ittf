@@ -1,0 +1,44 @@
+$group
+
+    namespace freud.apparato
+
+        concept topica
+            quote
+                + [..] ora essa [la psicoanalisi] intende occuparsi altresì della topica psicologica, 
+                    \b indicando, per un qualsivoglia atto psichico, 
+                    \b entro quale sistema o fra quali sistemi si svolga.
+                    \b A causa di questo suo sforzo 
+                    \b le è stato conferito il nome di “psicologia del profondo”.
+                kindle-loc 65456-65458
+            quote
+                + Per il momento la nostra topica psichica non ha niente da spartire con l’anatomia; 
+                    \b non si riferisce a località anatomiche, 
+                    \b bensì a regioni dell’apparato psichico, 
+                    \b a prescindere dalle parti dell’organismo in cui dette regioni possano esser situate.
+                kindle-loc 65478-65479
+
+        concept dinamica
+
+        concept modo-dinamico
+            + Freud descrisse i modi di essere con l'espressione
+                \b "agenzie costruttrici di pensiero"
+                \b e anche in termini di energia
+                quote
+                    + sostituire un .. modo di rappresentare le cose con uno dinamico
+
+        concept sistema
+            + Si riferisce a uno schema essenzialmente topico dello psichismo, 
+                \b in cui quest'ultimo è concepito come una serie di dispositivi attraversati dalle eccitazioni, 
+                \b allo stesso modo in cui la luce passa attraverso i diversi sistemi di un apparato ottico. 
+
+        concept istanza
+            de Instanz
+            + Nel quadro di una concezione sia topica che dinamica del l'apparato psichico, 
+                \b una qualsiasi delle diverse sottostrutture. 
+            example
+                + istanza della censura (prima topica), istanza del Super-io (seconda topica).
+            period 1900
+                + Il termine istanza è introdotto in L'interpretazione dei sogni
+                    \b come sinonimo di sistema ed è usato da Freud fino agli ultimi suoi scritti.
+                + Ne L'interpretazione dei sogni è usato per analogia con i tribunali 
+                    \b o con le autorità che giudicano di ciò che va lasciato passare.

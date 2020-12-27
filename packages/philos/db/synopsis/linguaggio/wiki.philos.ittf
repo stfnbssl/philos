@@ -1,0 +1,164 @@
+$group
+
+    field semiologia
+        author Saussure 
+            book
+                title Corso di linguistica generale
+                edition 1916 
+                quote
+                    + la scienza che studia la vita dei segni nel quadro della vita sociale
+                    
+                
+    concept segno
+        
+        author Saussure 
+            + il segno è una entità a due facce, significante e significato
+            + il segno ha a che vedere con un artificio comunicativo tra soggetti umani
+        
+        author Peirce
+            + i tre protagonisti della semiosi perciana invece sono tre "astratte entità semiotiche"
+                \b in un rapporto di dialogo che non prevede necessariamente una mente umana
+            + la definizione di relazione segnica o semiosi di Peirce avviene fra tre elementi:
+                \b un Representamen, un Oggetto e un Interpretante
+            + il concetto di segno o della semiosi in Peirce è triadico
+            concept representamen
+                + la parte materiale del segno
+                + ritaglia o identifica attraverso l'oggetto immediato (significato)
+                    \b un particolare punto di vista sull'oggetto dinamico (referente)
+            concept oggetto
+                + il referente a cui il segno fa riferimento
+                concept oggetto dinamico
+                    + l'oggetto quale è nella realtà
+                    + qui, nell'oggetto dinamico, quindi nella realtà esterna, 
+                        \b è il punto di partenza della semiosi di Peirce
+                concept oggetto immediato
+                    + nasce dal 'ritagliare' o dal mettere in rilievo 
+                        \b alcune delle caratteristiche dell'oggetto dinamico, quindi dell'oggetto reale 
+                    + ci dà dell'oggetto dinamico solo una prospettiva tra le tante possibili
+            concept interpretante
+                + ciò che deriva o viene generato dal segno
+                + si tratta di un ulteriore segno che sorge dal rapporto 
+                    \b tra il representamen e l'oggetto immediato; 
+                    \b come dire che un segno genera un altro segno attraverso un processo di interpretazione. 
+                + tale processo di generazione di un interpretante da un segno, 
+                    \b e poi di un altro segno-interpretante successivo e così via, 
+                    \b identifica un processo potenzialmente interminabile detto di semiosi illimitata 
+
+            approach pragmatismo
+                + Peirce ritiene in sintesi che il processo cognitivo fondamentale nell'uomo 
+                    \b sia il costante passaggio dalla condizione del dubbio a quello della credenza; 
+                    \b o meglio, Peirce ritiene che il nostro rapporto con il mondo sia dettato 
+                    \b dalla continua produzione di ipotesi riguardo al modo in cui possiamo 
+                    \b superare una condizione di incertezza, o di dubbio cognitivo, 
+                    \b e quindi riposare la nostra mente nella sicurezza della credenza 
+                + La credenza o "abitudine" (habit in inglese) può essere assimilata a un modello mentale, 
+                    \b uno stereotipo o una concezione culturale stabilita, 
+                    \b che ci permette di affrontare la realtà con un determinato successo 
+                
+                concept abduzione
+                    + Quindi fondamentale per Peirce è la nostra capacità di produrre ipotesi o abduzioni 
+                        \b riguardo al modo in cui vanno, o si ritiene debbano andare, le cose. 
+                
+                concept pensiero per ipotesi
+                    alias pensiero scientifico
+                    alias falsificazionismo
+                    + la centralità delle modalità di pensiero per ipotesi 
+                        \b deriva a Peirce dalla sua formazione scientifica 
+                    + è la stessa logica del pensiero scientifico 
+                        \b che prevede un costante e continuo processo di revisione 
+                        \b e messa in discussione delle ipotesi di partenza di una teoria 
+                        \b (il cosiddetto falsificazionismo di Karl Popper)
+
+    field semiotica
+        field semiotica interpretativa
+            alias semiotica estetologica
+            author Eco
+                + muove dalla centralità del concetto di interpretazione formulato da Peirce in due direzioni: 
+                    \b ridefinizione teorica ed epistemologica (conoscenza scientifica epistemologia) della semiotica; 
+                    \b analisi della cultura e dei testi con particolare riferimento alla loro ricezione. 
+                
+                critic-to
+                    Eco è stato tra i primi critici della prospettiva strutturale 'ortodossa', 
+                        mettendo in discussione che un testo sia la manifestazione di strutture ontologiche, 
+                        significative di per sé e indipendentemente dalle letture che di esso si possano dare. 
+                        Attaccherà dunque l'idea lévi-straussiana di considerare le 'strutture' 
+                        che danno valore ai testi 
+                        come entità realmente esistenti (strutturalismo ontologico), 
+                        per attribuire a esse valore euristico e sempre provvisorio. 
+                
+                Ha poi concretizzato le sue ricerche nella definizione 
+                di un paradigma teorico unificato per la semiotica nel Trattato di semiotica generale (1975). 
+                Ha così tentato l'innesto nella tradizione strutturalista (antipsicologista, non referenzialista) 
+                delle idee peirciane (generalità della nozione di segno, realismo semiotico). 
+                Ha insistito con l'analisi delle teorie semio-linguistiche giungendo alle 
+                fondamentali asserzioni sui limiti delle rappresentazioni semantiche. 
+                Ha poi indagato le relazioni tra semiotica e ricerche cognitive, 
+                recuperando molti problemi degli anni settanta e ottanta (iconismo, percezione e significato) 
+                e ponendoli in una luce nuova più attenta agli sviluppi contemporanei della psicologia cognitivista.
+
+                approach ermeneutica
+                    Fondamentale in Eco è quindi il problema dell'interpretazione (il che lega le sue riflessioni 
+                    alla prospettiva più generale dell'ermeneutica). 
+                    Eco muove dall'idea che l'analisi delle strutture del testo coincida 
+                    con la ricerca delle sue potenziali strategie interpretative. 
+                    Eco definisce il testo "una macchina pigra" in quanto ritiene 
+                    che il senso di un testo sia determinato solo in parte 
+                    dalle strutture o dai percorsi di senso potenziali costruiti dall'emittente, 
+                    ma che un ruolo fondamentale venga svolto dal fruitore del testo 
+                    senza il cui intervento il senso resterebbe lettera muta. 
+                    Quindi la costruzione del senso di un testo si gioca nel processo dialettico 
+                    che si attiva tra le strutture retorico-testuali e 
+                    le strategie di interpretazione del lettore (principio della cooperazione 
+                    interpretativa nei testi narrativi, v. Lector in fabula). 
+                
+                concept limiti dell'interpretazione
+                    Legata alla questione dell'interpretazione testuale – una delle questioni centrali del lavoro di Eco – 
+                    è quella della individuazione dei limiti dell'interpretazione medesima. 
+                    
+                    Fin dal 1962, in una fase pre-semiotica della sua ricerca, Eco si era occupato 
+                    della questione della interpretazione dei testi; 
+                    in Opera aperta veniva infatti elaborata un'estetica della ricezione testuale, 
+                    in cui il ruolo del lettore era fortemente attivo e creativo nei confronti della definizione del senso del testo. 
+                    In seguito Eco ha notevolmente ristretto la libertà del lettore o fruitore del testo, 
+                        prima con la teoria già citata della cooperazione interpretativa tra testo e lettore, 
+                        poi con una vera e propria definizione dei limiti dell'interpretazione. 
+                    
+                    In sostanza, secondo Eco, si può definire propriamente interpretazione di un testo 
+                        solo quella lettura che sia giustificata e comprovata dalle strutture testuali medesime; 
+                        ogni lettura del testo che vada oltre tale giustificazione testuale dovrà essere definita 
+                        un uso del testo medesimo e non avrà l'obbligo di essere coerente con il testo da cui deriva.
+
+                concept significato
+                    + Eco ha proposto un modello semantico a istruzioni in formato di enciclopedia 
+                    La metafora dell'enciclopedia serve a Eco per evidenziare la differente struttura interna 
+                    del modello di sapere da lui utilizzata 
+                    che si definisce come una rete di unità culturali tra loro interconnesse. 
+                    
+                    Il modello a enciclopedia viene contrapposto a più rigidi modelli semantici a dizionario 
+                    in cui ogni significato è semplicemente definito da una serie di unità minime 
+                    tra loro interdefinite e autosufficienti (semantica strutturale). 
+                    
+                    Ma il funzionamento del processo cognitivo che porta all'identificazione del significato 
+                    è molto più aperta ed è legata all'attivazione di porzioni del sapere culturale complessivo 
+                    in ragione delle esigenze contestuali. 
+                    
+                    Il significato è infatti determinato dall'uso di concetti legati alla nostra generale esperienza 
+                    o conoscenza del mondo, a stereotipi e strutture culturalmente predefinite che abbiamo appreso 
+                    nel tempo e/o da altri testi (competenza intertestuale).
+
+                    La nozione di enciclopedia è quindi un postulato semiotico o ipotesi regolativa 
+                    che non può essere descritta nella sua totalità, 
+                    ma che può rendere ragione dei meccanismi di costruzione e negoziazione del senso 
+                    nei diversi contesti comunicativi. 
+
+                    Su questa concezione si basa anche la più recente produzione di Eco. 
+                    In Kant e l'ornitorinco Eco cerca di individuare i processi cognitivi che stanno alle spalle 
+                    della negoziazione culturale del senso. 
+                    
+                    Secondo Eco posti di fronte a un nuovo fenomeno, attraverso un meccanismo di inferenza percettiva, 
+                    noi ci costruiamo dei tipi cognitivi – "privati" o individuali – mentre sul piano dell'accordo comunicativo, 
+                    quindi sul versante intersoggettivo e culturale, ci troviamo di fronte alla elaborazione 
+                    di quello che Eco chiama contenuto nucleare, 
+                    costituito dall'insieme delle diverse interpretazioni e concezioni dell'oggetto in uso. 
+                    A queste competenze si può poi aggiungere una conoscenza più specifica e "professionale" 
+                    propria solo di alcuni soggetti che Eco chiama contenuto molare.

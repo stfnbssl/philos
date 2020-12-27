@@ -1,0 +1,23 @@
+$group
+
+    namespace freud
+
+        concept associazione-libera
+            
+            quote
+                + [..] non è vero che la rimozione tiene lontane dalla coscienza tutte le propaggini del rimosso originario.
+                    \b Quando queste si sono allontanate a sufficienza dalla rappresentanza rimossa, 
+                    \b vuoi assumendo determinate deformazioni, 
+                    \b vuoi per il numero degli elementi intermedi interpolati, 
+                    \b l’accesso alla coscienza è per esse senz’altro libero. 
+                    \b È cioè come se la resistenza che la coscienza oppone a tali propaggini 
+                    \b fosse una funzione [inversa] della loro lontananza dal rimosso originario. 
+                    \b Nell’esercizio della tecnica psicoanalitica noi sollecitiamo ininterrottamente 
+                    \b il paziente a produrre quelle propaggini del rimosso che, 
+                    \b per la loro lontananza o la loro deformazione, riescono a oltrepassare la censura della coscienza. 
+                    \b Altro infatti non sono le associazioni libere che noi pretendiamo dal paziente 
+                    \b quando lo invitiamo a rinunciare ad ogni rappresentazione finalizzata cosciente 
+                    \b e ad ogni atteggiamento critico; 
+                    \b è a partire da queste associazioni 
+                    \b che noi riproduciamo una traduzione cosciente della rappresentanza rimossa.
+                kindle-loc 65164-65172

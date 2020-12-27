@@ -1,0 +1,226 @@
+$group
+
+    book agamben.la-potenza-del-pensiero
+        author Agamben
+        title La potenza del pensiero. Saggi e conferenze
+    
+    book agamben.stanze-la-parola-e-il-fantasma-nella-cultura-occidentale
+        author Agamben
+        edition Einaudi, 2006
+        title Stanze. La parola e il fantasma nella cultura occidentale
+
+    book alessandrini.spiegazione-dei-7-concetti-fondamentali-della-psicoanalisi
+        author Alessandrini
+        title Spiegazione dei 7 concetti fondamentali della psicoanalisi
+        edition Magi, Roma, 2001
+        
+    article aristotele.dell-anima
+        book aristotele.opere-IV
+    
+    book aristotele.opere-IV
+        author Aristotele
+        title Opere, vol 4
+        edition Laterza, Roma-Bari 2001
+    
+    article bassols.fantasma-e-reale-nella-clinica-lacaniana
+        author Bassols, M.
+        title Fantasma e reale nella clinica lacaniana. 
+        url http://miquelbassols.blogspot.it/2014/02/fantasma-e-reale-nella-clinica-lacaniana.html
+        edition 2014
+
+    book chemama-vandermesch.dizionario-di-psicoanalisi
+        title Dizionario di Psicoanalisi
+        author Chemama & Vandermesch
+        edition Roma: Gremese Edizioni, 2004
+
+    article deluca-picione.il-fantasma-in-psicoanalisi-un-dispositivo
+        author Raffaele De Luca Picione
+        title Il fantasma in psicoanalisi, un dispositivo che articola la “statica” e la “dinamica” temporale della significazione
+        url https://www.journal-psychoanalysis.eu/il-fantasma-in-psicoanalisi-un-dispositivo-che-articola-la-statica-e-la-dinamica-temporale-della-significazione/
+    
+    article dor.grafo_del_desiderio
+        author Joël Dor
+        url http://website.lacan-con-freud.it/ar/joel_dor_grafo_del_desiderio_EAR.pdf    
+    
+    article lacan.funzione-e-campo
+        author Lacan
+        title Funzione e campo della parola e del linguaggio in psicoanalisi
+        book lacan.scritti-1
+
+    article lacan.kant-con-sade
+        author Lacan
+        title Kant con Sade
+        book lacan.scritti-2
+
+    article lacan.il-seminario-sulla-Lettera-rubata
+        author Lacan
+        title Il seminario sulla Lettera Rubata
+        book lacan.scritti-2
+
+    article lacan.la-logica-del-fantasma
+        author Lacan
+        title La logica del fantasma
+        book lacan.altri-scritti
+
+    article lacan.la-direzione-della-cura
+        author Lacan
+        title La direzione della cura e i principi del suo potere
+        book lacan.scritti-2
+
+    article lacan.la-sovversione-del-soggetto
+        author Lacan
+        title La sovversione del soggetto e la dialettica del desiderio nell'inconscio freudiano
+        book lacan.scritti-2
+
+    book lacan.altri-scritti
+        author Lacan
+        title Altri scritti
+        edition Torino: Einaudi, 2013
+
+    book lacan.scritti-1
+        author Lacan
+        title Scritti, Vol 1
+        edition Torino: Einaudi, 1974
+
+    book lacan.scritti-2
+        author Lacan
+        title Scritti, Vol 2
+        edition Torino: Einaudi, 1974
+
+    book lacan.seminario-I
+        author Lacan
+        title Seminario I. 
+        edition Torino: Einaudi, 1974
+
+    book lacan.seminario-VI
+        author Lacan
+        title Seminario VI. Il desiderio e la sua interpretazione. 
+        edition Torino: Einaudi, 2016
+
+    book lacan.seminario-X
+        author Lacan
+        title Seminario X. L’angoscia.
+        edition Torino: Einaudi, 2007
+
+    book lacan.seminario-XX
+        author Lacan
+        title Seminario XX. Ancora.
+        edition Torino: Einaudi, 2011
+
+    book laplanche-pontalis.enciclopedia-della-psicoanalisi
+        author Laplanche, J. & Pontalis, J.B.
+        title Enciclopedia della psicoanalisi
+        edition Roma-Bari: Laterza, 2007
+
+    article licitra.alienazione-e-separazione
+        author Licitra
+        title Alienazione e separazione
+        url http://psicolicitra.it/wp-content/uploads/2015/02/Lezioni-su-Alienazione-e-Separazionie.pdf
+
+    article licitra.amore-e-godimento
+        author Licitra
+        title Amore e godimento
+        url http://psicolicitra.it/wp-content/uploads/2015/02/amore-e-godimento.pdf
+    
+    article licitra.lezioni-sull-angoscia
+        author Licitra
+        title Lezioni sull'angoscia
+        url http://psicolicitra.it/wp-content/uploads/2015/02/lezioni_sull_angoscia.pdf
+
+    article licitra.politica-del-sintomo-nella-nevrosi
+        author Licitra
+        url http://psicolicitra.it/wp-content/uploads/2015/02/Politica_del_sintomo_nella_nevrosi.pdf
+    
+    article lodovichi.fobia-e-perversione-bordi-della-modernità
+        author Maria Vittoria Lodovichi
+        title Fobia e perversione, bordi della modernità
+        url http://www.psychiatryonline.it/node/2383
+    
+    article manghi.un-edipo-di-meno
+        author Moreno Manghi
+        title Un Edipo di meno. Freud, Lacan, e la castrazione del padre
+        url http://website.lacan-con-freud.it/ar/dossier8_padre_ideale/mm_un_edipo_di_meno_EAR.pdf
+    
+    article miller.presentazione-del-seminario-VI
+        author Miller
+        title Presentazione del Seminario VI. Conferenza pubblicata in due parti nella rivista telematica Latigazo.
+        edition Bulletin Latigazo Nº1 Octobre 2013, Boletín Latigazo Nº2 Diciembre 2013 
+        url http://www.latigolacaniano.com/assets/jam-frances.pdf
+        url http://www.latigolacaniano.com/assets/jam-2-frances.pdf
+
+    book miller.i-paradigmi-del-godimento
+        author Miller
+
+    article nasio.il-concetto di fallo
+        author Nasio
+        title Il concetto di fallo
+        book alessandrini.spiegazione-dei-7-concetti-fondamentali-della-psicoanalisi
+        pages 65-80
+    
+    book pagliardini-et-al.attualità-di-lacan
+        author Pagliardini
+        author Ronchi
+        title Attualità di Lacan 
+        edition Textus, 2014
+
+    article recalcati.lezioni-su-lacan
+        author Recalcati
+        title Lezioni su Lacan
+        url https://kupdf.net/download/lezioni-su-lacan_5af44d14e2b6f5ec7b54c853_pdf
+
+    book recalcati.desiderio-godimento-e-soggettivazione
+        author Recalcati
+        title Desiderio, godimento e soggettivazione
+        edition Vol.1, Milano: Raffaello Cortina Editore, 2012
+        
+    book recalcati.il-vuoto-e-il-resto
+        author Recalcati
+        title Il vuoto e il resto. Jacques Lacan e il problema del reale
+        edition librerie CUEM, Milano 1993.
+
+    book recalcati.la-clinica-psicoanalitica
+        author Recalcati
+        title La clinica psicoanalitica: struttura e soggetto
+        edition Vol.2, Milano: Raffaello Cortina Editore, 2016
+
+    article sabbatini.lacan-presenza-assenza
+        author Sabbatini
+        title Lacan tra presenza e assenza
+        url https://docs.google.com/document/d/12EKuCr5E2DzhZVikjkwi3EPFW5TtQxlI-zlZmcNSWlc/edit
+
+    book sartre.l-essere-e-il-nulla
+        author Sartre
+        written 1943
+        edition Il Saggiatore, Milano, 1991 
+
+    article spinelli.le-psicosi-ordinarie-un-introduzione
+        title Le psicosi ordinarie. Un introduzione.
+        url http://www.journal-psychoanalysis.eu/le-psicosi-ordinarie-unintroduzione/
+        author Elisabetta Spinelli
+    
+    article succetti.la-pulsione-in-freud-e-in-lacan
+        author Succetti
+        url http://www.adelesuccetti.it/it/pubblicazioni/la-pulsione-in-freud-e-in-lacan/
+    
+    article terminio.forclusione-e-significazione
+        author Terminio
+        url https://www.nicoloterminio.it/psicoanalisi-psicoterapia/psicoanalisi-e-fenomenologia/forclusione-e-significazione.html        
+
+    article terminio.i-quattro-discorsi-di-lacan-tra-simbolico-e-reale
+        author Terminio
+        title I quattro discorsi di Lacan tra simbolico e reale
+        url https://www.nicoloterminio.it/psicoanalisi-psicoterapia/psicoanalisi-lacaniana/i-quattro-discorsi-di-lacan-tra-simbolico-e-reale.html        
+
+    article terminio.lacan-il-nome-del-padre-e-il-significante-fallico
+        author Terminio
+        url https://www.nicoloterminio.it/psicoanalisi-psicoterapia/psicoanalisi-lacaniana/lacan-il-nome-del-padre-e-il-significante-fallico.html
+    
+    book terminio.misurare-l-inconscio
+        author Terminio
+        title Misurare l’inconscio? Coordinate psicoanalitiche nella ri­cerca in psicoterapia
+        edition Bruno Mondadori, Milano, 2010
+    
+    book zizek.l-epidemia-dell-immaginario
+        author Žižek
+        title L’epidemia dell’immaginario
+        edition Meltemi, Roma, 2004

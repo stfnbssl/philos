@@ -1,0 +1,11 @@
+$group
+
+    namespace blanco
+
+        concept vita-mentale
+
+            quote
+                + La vita mentale però 
+                    \b non è mai limitata alla presenza dell’una o dell’altra logica: 
+                    \b ogni funzione è una combinazione a differenti gradi delle due logiche, 
+                    \b tanto da poter parlare di una bi-logica.

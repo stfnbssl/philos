@@ -1,0 +1,15 @@
+$group
+
+    namespace freud
+
+        concept rappresentazione
+
+            concept verbale
+                quote
+                    + La funzione delle rappresentazioni verbali diventa ora perfettamente chiara. 
+                        \b Per mezzo loro i processi interni di pensiero si trasformano in percezioni. 
+                        \b È come se dovesse essere dimostrata la tesi che ogni sapere proviene dalla percezione esterna. 
+                        \b Quando si verifica un sovrainvestimento dell’attività di pensiero, 
+                        \b i pensieri vengono effettivamente percepiti come provenienti dall’esterno, 
+                        \b e perciò considerati veri.
+                    kindle-page 5965

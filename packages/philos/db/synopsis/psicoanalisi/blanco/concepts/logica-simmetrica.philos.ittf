@@ -1,0 +1,26 @@
+$group
+
+    namespace blanco
+
+        concept logica-simmetrica
+            use concept freud.inconscio-non-rimosso
+            
+            + L’inconscio non è un qualcosa che “abbiamo”,
+                \b che “funziona” dentro di noi, 
+                \b ma un modo di essere tipico dell’essere umano, 
+                \b è strutturale e non rimosso.
+
+            + Si è quindi concluso che il sistema inconscio (Inc) 
+                \b è il modo di essere simmetrico ed 
+                \b il suo funzionamento è comprensibile 
+                \b se si fa uso di una logica simmetrica. 
+            
+            + Le caratteristiche dell’Inc, 
+                \b per come derivate da quelle del sogno ​(Freud, 1900)​ 
+                \b (es. la copresenza di contraddittori, 
+                \b l’assenza di relazioni, 
+                \b lo scompiglio della successione temporale, 
+                \b l'assenza di alternative esclusive, 
+                \b la relazione privilegiata di somiglianza, ecc.), 
+                \b si mettono in condizione di rendersi comprensibili 
+                \b attraverso l’uso di una logica simmetrica.

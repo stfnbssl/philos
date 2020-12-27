@@ -1,0 +1,22 @@
+$group
+    author Caramuel
+        name Juan Caramuel
+        born
+            date 23/5/1606
+            place Madrid, Spagna
+        died
+            date 8/9/1682
+            place Vigevano
+        approach costruttivismo
+        + religioso, matematico e filosofo del seicento, rimasto oscuro benché sia stato il primo a sviluppare la matematica 
+            \b binaria in occidente (17)
+        opinion-of Glasersfeld
+            + Si trova in Caramuel l'idea 
+                \b che i concetti e le combinazioni concettuali 
+                \b che adoperiamo per "maneggiare" il mondo della nostra esperienza, cioè il mondo in cui viviamo, 
+                \b sono il risultato della nostra attività costruttiva. 
+                \b Caramuel parla esplicitamente di operazioni della mente e spiega fra l'altro: 
+                quote
+                    + L'intelletto dunque 'fa' i numeri non li 'trova';
+                        \b considera diverse cose come distinte ciascuna in sé, 
+                        \b e come intenzionalmente unite dal pensiero.

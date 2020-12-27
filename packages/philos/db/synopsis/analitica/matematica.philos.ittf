@@ -1,0 +1,59 @@
+$group
+
+    approach formalismo
+        author von Neumann
+    
+    approach intuizionismo
+        author Heyting
+    
+    approach logicismo
+        author Carnap
+        book
+            title Principia Mathematica
+            author Russel
+            author Whitehead
+            edition 1910-1913
+
+    theorem indecidibilità
+        author Godel
+
+            
+
+    concept matematica
+        author Wittgenstein
+            + rappresentativa dell'intero mondo delle regole
+            + è costruzione di concetti per mezzo di immagini
+                refer-to
+                    author Rumelhart
+            + è essa stessa un'immagine
+            + è una nuova fisionomia del reale
+            + si colloca su un piano di certezze dove ancora non ci si attende il responso dei fatti
+            + la macchina matematica è solo l'immagine del funzionamento di una macchina
+
+
+    approach logicismo
+        concept follia
+            author Frege
+                + avrebbe voluto esorcizzare la follia
+            author Wittgenstein
+                + la follia deve essere conosciuta e curata
+
+    concept limite
+        author Cantor
+            + dal punto di vista dell’opera di Cantor, partire dal concetto di limite è
+                \b giustificato dal fatto che la nuova nozione di limite sta alla base della
+                \b definizione in termini puramente aritmetici di numero reale, del concetto di
+                \b continuo, nonchè dell’estensione del concetto di numero dal finito al transfinito 
+        field filosofia
+            + la questione del limite del pensabile e di fissare un limite al pensabile - o sul piano 
+                \b del linguaggio di fissare un limite a ciò che può essere espresso, 
+                \b quindi come scrive Wittgenstein «tracciarlo nel linguaggio» -
+                \b è il problema fondamentale che tutti gli esponenti della filosofia della matematica 
+                \b di fine ‘800 e inizio ‘900 dovranno affrontare in un modo o nell’altro, 
+                \b ossia il problema dei paradossi e delle antinomie.
+    
+    concept continuo
+
+    author Hilbert
+        approach formalismo (matematico)
+            + la matematica non è che un gioco di segni rigorosamente regolamentato

@@ -1,0 +1,8 @@
+$group
+
+    namespace lacan.sesso
+        
+        concept significante-fallico
+            + Esiste nell'inconscio solo un significante della sessualità umana,
+                \b ovvero il significante fallico.
+

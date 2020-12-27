@@ -1,0 +1,11 @@
+$group
+
+    namespace bax
+
+        concept linguaggio
+            + Il linguaggio è un grumo di struggimenti corporei che
+                \b coalesce attorno a immagini acustiche, grafiche o tattili,
+                \b che assumono ruoli nella forma di regole sintattiche,
+                \b e si organizzano in forma di testo,
+                \b allo scopo di dare o un sollievo o, in mancanza di questi, un senso, 
+                \b agli struggimenti corporei stessi.

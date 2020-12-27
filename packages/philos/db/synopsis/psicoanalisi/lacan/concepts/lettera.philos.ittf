@@ -1,0 +1,16 @@
+$group
+
+    namespace lacan
+
+        concept lettera
+            quote
+                + Designiamo con lettera il supporto materiale 
+                    \b che il discorso concreto prende dal linguaggio
+                page 490
+                article lacan.l-istanza-della-lettera-dell-inconscio
+
+            + godimento e scarto rispetto al senso
+
+            + La lettera è un "designatore rigido",
+                \b come il marchio, il Nome proprio,
+                \b è un significante che non rinvia ad un'altro significante.

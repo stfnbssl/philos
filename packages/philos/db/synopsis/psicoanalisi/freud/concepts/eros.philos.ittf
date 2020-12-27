@@ -1,0 +1,13 @@
+$group
+
+    namespace freud
+
+        concept Eros
+            quote
+                + Con l’ipotesi della libido narcisistica e l’estensione del concetto di libido alla singola cellula, 
+                    \b la pulsione sessuale si è trasformata nell’Eros 
+                    \b che cerca di spingere l’una verso l’altra le diverse parti della sostanza vivente e di tenerle unite; 
+                    \b quelle che sono comunemente chiamate le pulsioni sessuali 
+                    \b ci sono così apparse come la parte di questo Eros che è indirizzata all’oggetto.
+                kindle-loc 120354-120356
+                article freud.al-di-la-del-principio-del-piacere

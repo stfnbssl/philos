@@ -1,0 +1,21 @@
+$group
+
+    namespace lacan
+
+        concept nodo-borromeo
+            + introdotto nel Seminario XXI (Lacan 1973-74) 
+            + il nodo borromeo a tre anelli (RSI),
+                \b che si tengono insieme in modo borromeo,
+                \b si caratterizza per il fatto che se ne sciogliamo uno, 
+                \b si liberano tutti e tre. 
+            
+            r-concept lacan.nevrosi
+                + La nevrosi è identificata al nodo Olimpico, 
+                    \b caratterizzato dal fatto che se si scioglie un anello laterale i due successivi tengono. 
+                + Il nevrotico è colui che riesce ad avere una tenuta, 
+                    \b anche se manca una delle tre dimensioni RSI (reale, simbolico, immaginario).  
+
+            r-concept lacan.psicosi
+                + nella psicosi, 
+                    \b basta che manchi una dimensione RSI per divenire folli, 
+                    \b perché in effetti anche le altre due si liberano (lezione 11 dicembre 1973).

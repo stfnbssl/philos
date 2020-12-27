@@ -1,0 +1,95 @@
+$group
+    concept homo loquens
+        + è il punto focale della filosofia esistenziale e strutturalista
+    idea filosofia vivente
+        + si determina nei due aspetti interdipendenti di: interpretazione ed esortazione
+    approach cartesianesimo
+        author Pascal
+        author Spinoza
+        author Malebranche
+    author Vico
+        $$ name Giovan Battista Vico
+        born
+            date 23/6/1668
+            place Napoli
+        died
+            date 23/1/1744
+            place Napoli
+        influenced-by Platone
+        influenced-by Aristotele
+        influenced-by Niccolò Machiavelli
+        against-approach cartesianesimo
+        idea verum-factum
+            + rifiuto della conoscenza come contemplazione
+                approach pragmatismo
+            + la conoscenza diventa tale attraverso il fare e l'operare
+                approach pragmatismo
+        idea ricerche sociologiche
+        idea albero della scienza
+            + principio dell'unità del sapere
+            + albero storico-genomico tassonomico
+        idea conoscere
+            + totale e pluridimensionale significato del conoscere
+            + anche un errore può essere un conoscere
+            + manifestazioni artistiche, mitologiche, sociali e politiche al pari di quelle logiche e scientifiche
+        idea teoria genetica della poesia
+            attributed-by Read
+        idea mito come vera narratio
+            + confusione tra soggettiva verità dei miti e loro oggettiva verità storica 
+        concept enciclopedia in divenire
+            + un poiein precategoriale e intenzionale, che si fa coscienza emergendo dalle ombre e dall'oblio
+                \b acquistando significato e finalità
+        concept scienza
+            quote
+                + la cognizione della genesi delle cose, cioè della guisa in cui si vanno facendo
+                    \b e ... nell'atto stesso in cui viene a conoscere codesta guisa dispone ordinatamente gli elementi
+                    \b della cosa conosciuta e, insieme, la fa
+            + costrette a procedere "per analisi", in una "anatomia delle opere della natura"
+                + 
+        approach tradizione rinascimentale
+            + rivalutazione creatività umana non riducibile a deduzione razionale
+            + è più familiare con il mondo umano che con la tradizione metafisica
+            + la storia non deve essere ridotta a logica (Hegel)
+                + la storia stessa, il concreto è epistemologia
+                + determinatio è arricchimento
+                    against-concept omnis determinatio est negatio
+                        author Spinoza
+        quote
+            author Joice
+                + la mia immaginazione si alimenta e cresce, leggendo Vico, più di quanto avvenga
+                    \b se leggo Freud o Jung
+
+        book De antiquissima Italorum sapientia
+            opinion-of Glasersfeld
+                + fu il primo manifesto del costruttivismo
+                + Invece della separazione fra la conoscenza strumentale della scienza e quella "vera" e assoluta della religione, 
+                    \b egli oppose le costruzioni razionali alla sapienza poetica: l'una costruita più o meno consapevolmente, 
+                    \b l'altra frutto dell'intuizione e non direttamente accessibile alla ragione. 
+                + Il suo approccio è rivoluzionario perché ribalta il problema tradizionale dell'epistemologia. 
+                    \b Invece di chiedere come la mente possa ottenere la conoscenza "vera" di oggetti 
+                    \b gia esistenti, si chiede che cosa la mente debba fare per avere dei "fatti". 
+                    ref Vico's Science of Imagination
+                        pag 81
+
+        book Vico's Science of Imagination
+            author Donald Verene
+            edition Ithaca: Cornell University Press, 1981
+        
+        review
+            title Attualità di G.B. Vico
+            author Maria Goretti
+            reviewed-work
+                title Giambattista Vico. An International Symposium
+                editor Giorgio Tagliacozzo
+                co-editor Hayden V. White
+                edition Baltimore: Johns Hopkins Press, 1969, pp xxvi + 636
+                url https://onlinelibrary.wiley.com/doi/epdf/10.1002/1520-6696%28197210%298%3A4%3C441%3A%3AAID-JHBS2300080412%3E3.0.CO%3B2-2
+            url https://www.jstor.org/stable/478316?read-now=1&refreqid=excelsior%3Af7274106d56c0a430dc3253d3251ac52&seq=1#page_scan_tab_contents
+
+        book Scienza Nuova
+            + Poco dopo l'inizio della sua Scienza Nuova, Vico spiega che la mente umana giudica le cose lontane ed inaccessibili tramite ciò 
+                \b che le e familiare e vicino (1). La frase vichiana si riferiva alle grandi distanze nella storia, distanze di secoli e millenni. 
+                \b La psicologia cognitiva contemporanea, ignara di Vico, ri-inventa quell'idea, denominandola "assimilazione", e ne fa un principio 
+                \b universale, applicabile non solo a ricordi di tempi lontani nella storia delle civiltà, ma a tutto ciò che viene percepito. 
+                \b Anche a ciò che, nella storia dell'individuo, viene ripreso dopo un intervallo di tempo relativamente breve. Secondo questo 
+                \b principio, non si può ricostituire il passato se non attraverso i concetti ed i ragionamenti del presente. 

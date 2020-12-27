@@ -1,0 +1,12 @@
+$group
+
+    namespace freud
+
+        concept segno-di-qualità
+            + Il segno di qualità è una informazione che si produce in ψ
+                \b a seguito di una percezione reale (non allucinata).
+                \b Una percezione reale produce una carica in ψ avente origine in φ,
+                \b la quale eccita la coscienza di una qualità in ω,
+                \b la cui scarica in ψ è il segno di qualità.
+            + I segni di qualità assicurano e fissano il decorso [associativo]
+                \b ma non sono assolutamente indispensabili ad esso.

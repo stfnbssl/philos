@@ -1,0 +1,14 @@
+$group
+
+    set functors.theory
+        function
+            param parent
+            param resultObj
+            var theoryObj = createConcept(parent.wzName, "theory")
+            var newitems = fillConcept(parent, resultObj, theoryObj)
+            _ resultObj.theories.push
+                @ theoryObj
+            foreach child in newitems
+                _ doitem
+                    @ child
+                    @ resultObj

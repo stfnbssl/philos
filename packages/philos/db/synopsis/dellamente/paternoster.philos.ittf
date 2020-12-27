@@ -1,0 +1,181 @@
+$group
+    
+    approach fisicalismo
+        alias materialismo
+        + l'intera realtà è costituita dai processi di conversione energia-massa
+            \b e dal vuoto quantico che è il substrato che li rende possibili
+        + la conversione energia-massa produce particelle elementari, forze, onde, ecc., come
+            \b descritte dalla fisica di base
+
+    field filosofia della mente
+        approach fisicalismo
+            + le menti non sono sostanze, non sono nient’altro che il prodotto dell’attività del cervello
+            + niente cervelli, niente menti (né anime)
+            critics
+                + come fa un mero conglomerato di cellule, per quanto di grandissime dimensioni, a produrre proprietà così 
+                    \b sofisticate e in apparenza del tutto estranee al mondo fisico come il pensiero, 
+                    \b l’esperienza, il senso dell’io? 
+                + come è possibile coniugare l’apparente libertà delle proprie scelte in un quadro teorico 
+                    \b sostanzialmente meccanicistico?
+                comment
+                    + perché il pensiero non può essere considerato un processo fisiologico? 
+                    + se il pensiero è estraneo al mondo fisico perché subisce l'effetto di psicofarmaci e
+                        \b sostanze allucinogene?
+        
+        approach riduzionismo
+            alias teoria dell’identità
+            + la mente è identica al cervello: gli stati mentali si riducono agli stati cerebrali
+            concept distinzione particolare universale
+                author Pierce
+                    + distinzione tra occorrenze (tokens) e tipi (types). 
+                    example
+                        + nella parola «gatto», per esempio, vi sono cinque occorrenze di lettere (particolari), 
+                            \b ma solo quattro tipi di lettere (universali), perché vi sono due occorrenze della «t»
+        
+        approach eliminativismo
+            + la mente non esiste
+        
+        approach comportamentismo
+            + la mente è (un insieme di disposizioni al) comportamento. 
+
+        concept realizzabilità multipla
+    
+        concept sopravvenienza
+
+        approach funzionalismo
+            
+            concept stato mentale
+                + uno stato mentale è il tipo di ente che è in virtù del suo svolgere una certa funzione, 
+                    \b ovvero ricoprire un certo ruolo, all’interno dell’intera attività mentale di un agente 
+                + gli stati mentali sono stati funzionali
+            
+            concept proprietà funzionale
+                + è individuata dal ruolo o, appunto, dalla funzione che certi elementi assolvono in quel sistema, 
+                    \b prescindendo da come tale ruolo è realizzato fisicamente 
+                + è una proprietà che investe l’organizzazione o la struttura logica di un sistema e non la sua composizione fisica
+
+    concept intenzionalità
+        alias semanticità
+        + il vertere su oggetti e situazioni del mondo reale
+        + i processi cognitivi umani sono tipicamente «dipendenti dal significato» 
+        + gli esseri umani sono agenti intenzionali guidati da stati rappresentazionali
+
+    concept stato intenzionale
+        concept atteggiamento intenzionale
+            + credere, sperare, desiderare, temere, ecc..
+        concept contenuto intenzionale
+        + tipo di atteggiamento intenzionale più contenuto intenzionale
+
+        un eliminativista sosterrà che la psicologia intenzionale è una teoria falsa 
+            \b in quanto non esistono gli stati mentali nel modo in cui li concepisce il senso comune
+
+    concept psicologia del senso comune
+        + schema di interpretazione e previsione del comportamento basato sull’idea di invocare un opportuno 
+            \b stato mentale per giustificare una certa azione
+        + è una psicologia intenzionale, cioè una teoria compromessa con la tesi secondo cui 
+            \b gli stati mentali hanno intenzionalità
+        problem
+            + in che modo una relazione semantica qual è quella che lega una rappresentazione mentale 
+                \b al suo contenuto può essere caratterizzata in termini naturalistici 
+                \b senza ricorrere ad altri concetti semantici o intenzionali?
+                bax
+                    + vedi Lacan, il significante significa per un altro significante?
+            + la rappresentazione di un contenuto può essere vera o falsa,
+                \b occorre una norma
+            + ma come è possibile caratterizzare una norma in termini naturalistici?
+        
+        approach realismo intenzionale
+            + l’intenzionalità è una proprietà genuina degli stati mentali e 
+                \b la psicologia del senso comune è una teoria vera 
+            + psicologia del senso comune e psicologia scientifica sono in larga misura convergenti;
+                \b la seconda fornisce una descrizione scientificamente appropriata degli oggetti 
+                \b e fenomeni postulati dalla prima 
+            + il realismo intenzionale è un programma di ricerca di tipo naturalistico
+
+        approach eliminativismo
+            + non esistono gli stati mentali nel modo in cui li concepisce il senso comune
+            + la psicologia intenzionale è una teoria falsa (per la non esistenza degli stati mentali
+                \b come li concepisce il senso comune)
+        
+        approach interpretativismo
+            alias strategia dell’interpretazione
+            + la psicologia del senso comune consente di fare previsioni attendibili non perché gli stati 
+                \b che essa postula siano genuini enti psichici, suscettibili di una caratterizzazione scientifica, 
+                \b bensì in quanto essi danno luogo a una rete concettuale coerente introdotta 
+                \b per razionalizzare il comportamento
+            + gli stati mentali del senso comune non sono proiettabili sugli stati eventualmente individuati da una 
+                \b psicologia scientifica
+            author Dennet
+                + l’intenzionalità, lungi dall’essere una proprietà genuina (naturalistica, scientificamente determinabile)
+                    \b della mente-cervello, è soltanto negli occhi dell’interprete 
+                + gli stati intenzionali emergono meramente come risultato di un’attività interpretativa 
+                + la strategia dell’interpretazione non è arbitraria e priva di fondamento
+                quote
+                    + [la psicologia del senso comune è] un calcolo razionalistico di interpretazione e previsione [...] 
+                        \b che si è evoluto perché funziona, e che funziona perché si è evoluto
+                + la strategia dell’interpretazione è strumentalistica, finalizzata a un certo obiettivo, 
+                    \b e in questo senso gli stati mentali che essa postula sono come degli abstracta, 
+                    \b enti prodotti da calcoli o costrutti logici, come l’equatore o il baricentro,
+                    \b che pur non avendo un referente reale, svolgono un ruolo reale
+                    \b nelle teorie scientifiche
+                approach comportamentismo logico
+                    + Dennett riconosce che Ryle aveva ben compreso che gli stati mentali sono costrutti teorici 
+                        \b introdotti per razionalizzare il comportamento; il comportamentismo logico era soltanto 
+                        \b viziato da un ingiustificato pregiudizio antiscientifico
+                approach eliminativismo
+                    + Dennett è stato accusato di essere un eliminativista mascherato: ritenere che credenze e 
+                        \b desideri non denotino reali enti psichici non equivale forse a sostenere che gli 
+                        \b stati mentali non esistono? 
+                    + Dennett ha replicato che questa critica si basa su una considerazione ingenua e superficiale 
+                        \b di che cosa è «reale»: ci sono molti sensi diversi in cui si può dire che una cosa è reale. 
+                        \b I numeri sono reali ma, verosimilmente, non alla stessa stregua dei tavoli. 
+                        \b E non c’è forse un senso in cui l’equatore o i centri di massa sono perfettamente reali? 
+                        \b Dennett respinge l’inferenza, nella quale incorre erroneamente l’eliminativista, 
+                        \b secondo cui se gli stati mentali non hanno proprietà neuronali o biochimiche, allora non esistono 
+                    + Tuttavia, nella misura in cui egli nega che gli stati mentali del senso comune abbiano un correlato fisico, 
+                        \b la sua strategia dell’interpretazione può forse essere assimilata, 
+                        \b sul piano strettamente metafisico, all’eliminativismo. 
+                        \b Beninteso, di quest’ultimo egli non condivide le tesi più estreme, proprio in quanto riconosce 
+                        \b un notevole ruolo e valore allo schema concettuale del senso comune, che, lungi dall’essere 
+                        \b un’approssimativa e inaffidabile collezione di concetti, è bensì il prodotto di una struttura 
+                        \b psichica selezionata per il vantaggio evolutivo che conferisce
+                concept real patterns
+                    + strutture emergenti che esistono solo in quanto qualcuno le guarda, ma che 
+                        \b allo stesso tempo non si possono non vedere
+                    + un pattern emerge solo in relazione a un punto di vista, solo se – potremmo dire – c’è qualcuno che lo guarda
+                    + il pattern emerge con regolarità: si manifesta ogni volta che viene osservato, quale che sia l’osservatore 
+                    + gli stati mentali sono nello stesso tempo oggettivi («reali») e prodotto di interpretazioni 
+                    + credenze e desideri sono strutture astratte emergenti, che non possiamo fare a meno di attribuire 
+                        \b per dare un senso all’agire degli uomini
+
+    concept
+        rappresentazione
+        + la relazione tra mente e mondo
+        field GOFAI
+            alias Good Old Fashioned Artificial Intelligence
+        field NFAI
+            alias New Fangled Artificial Intelligence
+
+    field connessionismo
+        alias programma di ricerca su basi neurali
+        author Wiener
+            period 1940
+        author Nyqvist
+            period 1940
+        author McCulloch
+            period 1943
+        author Pitts
+            period 1943
+        author Hebb
+            period 1949
+        book
+            title Perceptrons
+            author Minsky
+            author Papert
+            edition 1969
+                + contiene una devastante critica del perceptrone di Rosenblatt – un tipo di rete neurale in voga negli anni Sessanta – a 
+                    \b e segnò il momento di maggior declino del connessionismo
+Paternoster, Alfredo. Introduzione alla filosofia della mente (Italian Edition) (Kindle Locations 2521-2525). Editori Laterza. Kindle Edition.         
+        
+
+

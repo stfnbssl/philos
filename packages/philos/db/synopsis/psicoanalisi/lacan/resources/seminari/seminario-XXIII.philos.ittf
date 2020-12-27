@@ -1,0 +1,45 @@
+$group
+
+    book lacan.seminario-XXIII
+        author Lacan
+        title Seminario. Libro XXIII. Il sinthomo.
+        written 1975-1976
+        edition Astrolabio, Roma, 2006
+        
+        index
+        
+        back-cover
+            + Questo volume presenta il testo del Seminario XXIII, 
+                \b tenuto neI 1975-1976 e redatto come tutti i Seminari di Lacan da Jacques-Alain Miller. 
+                \b Fin dagli inizi del suo insegnamento, Lacan tentò di rendere conto della scoperta di Freud: l'inconscio. 
+                \b Che vuoi dire l'inconscio freudiano secondo Lacan? 
+                \b Vuoi dire che c'e un sapere che funziona e che agita un soggetto sebbene egli non ne sappia nulla. 
+                \b Le formazioni dell'inconscio, come i sogni, i lapsus, gli atti mancati e i sintomi stessi, 
+                \b mettono in luce un pensiero funzionante secondo una logica che rivela un desiderio erratico, 
+                \b spesso inconfessato e inconfessabile. Inconscio, appunto. 
+                \b Lacan si volgeva verso i linguisti, gli strutturalisti, i letterati, i poeti 
+                \b perché potessero offrire degli strumenti per chiarire ed esemplificare questo strano funzionamento 
+                \b che egli sintetizzò nell'aforisma: l'inconscio è strutturato "come" un linguaggio. 
+                \b In questo Seminario, come in tutti quelli tenuti alla fine della sua vita, 
+                \b Lacan è su tutt'altra lunghezza d'onda. 
+                \b Alla ribalta non è più ciò che funziona come un linguaggio, ma ciò che non funziona, 
+                \b che è la definizione lacaniana del "reale" in psicoanalisi 
+                \b e che non è il reale della scienza. 
+                \b Alla ribalta non è più il simbolico, ma il reale. 
+                \b Così il sintomo stesso è visto da Lacan sotto un'altra angolatura. 
+                \b Da metafora del soggetto, diventa qualcosa che permette al soggetto un raccordo 
+                \b che gli consente di tenere insieme quella triade che costituisce l'essere parlante: 
+                \b l'immaginario, il simbolico e il reale.
+        
+        source
+            title Versione Staferla, Trascrizione non editata, in francese
+            url http://website.lacan-con-freud.it/lacanseminaires/s23_le_sinthome.pdf
+        
+        review
+            author DiCiaccia
+            url http://www.psychiatryonline.it/node/7484
+        
+        review
+            author Succetti
+            title Lettura e commento del Seminario Libro XXIII Il sinthomo di Jacques Lacan
+            url https://medium.com/psicoanalisi-lacaniana/lettura-e-commento-del-seminario-libro-xxii-il-sinthomo-di-jacques-lacan-d366430c272b

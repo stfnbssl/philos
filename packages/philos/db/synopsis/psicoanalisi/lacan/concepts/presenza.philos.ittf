@@ -1,0 +1,20 @@
+$group
+
+    namespace lacan
+
+        concept presenza
+
+            quote
+                + L'uomo letteralmente devolve il suo tempo a dispiegare l'alternativa strutturale 
+                    \b in cui la presenza e l'assenza traggono l'una dall'altra il loro appello. 
+                    \b È nel momento della loro congiunzione essenziale, 
+                    \b e per così dire nel punto zero del desiderio, 
+                    \b che l'oggetto umano cadde sotto i colpi della presa che, 
+                    \b annullando la proprietà naturale, 
+                    \b lo asserve ormai alle condizioni del simbolo
+                    \b Veramente abbiamo qui un saggio illuminante dell'ingresso dell'individuo 
+                    \b in un ordine la cui massa lo sostiene e l'accoglie nella forma del linguaggio, 
+                    \b e sovrappone nella diacronia come nella sincronia 
+                    \b la determinazione del significante a quella del significato. 
+                article lacan.seminario-su-lettera-rubata
+

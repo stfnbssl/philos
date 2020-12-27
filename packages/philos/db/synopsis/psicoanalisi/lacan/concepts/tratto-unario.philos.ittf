@@ -1,0 +1,37 @@
+$group
+
+    namespace lacan
+
+        concept unario
+            alias tratto-unario
+                de eineinziger Zug
+            
+            + Freud definisce in Psicologia delle masse 
+                \b il tratto di identificazione della massa al capo come tratto unario, 
+                \b eineinziger Zug. 
+                \b Per esempio i baffi di Hitler.
+                \b C’è un tratto di identificazione prelevato nel luogo dell’ideale. 
+            
+            +  Il tratto unario è il fondamento dell’identificazione simbolica edipica al padre.
+                \b Non è un’identificazione speculare di tipo narcisistica, 
+                \b non si limita alla cattura dell’immagine allo specchio,
+                \b ma è un tratto che il soggetto preleva dal luogo dell’Altro.
+                \b Per Freud questo prelievo è il dono del padre 
+                \b che permette al bambino di diventare soggetto di desiderio.
+            
+            +  Il tratto unario è l’identificazione basale, fondamentale, 
+                \b su cui si appoggiano tutte le identificazioni secondarie.
+                \b Mentre gli io ideali variano e si trasformano nel corso della vita,
+                \b l’ideale dell’io è il tratto basale,
+                \b è il tratto che rende possibile la serie,
+                \b è il passaggio da 0 a 1, è l’identificazione costituente.
+                \b La psicoanalisi dovrebbe mettere in luce il tratto unario del soggetto 
+                \b su cui si sono poi sedimentate le altre identificazioni. 
+            
+            + Il tratto unario è il tratto dell’identificazione che ci unarizza,
+                \b ci singolarizza, che viene dall’Altro ma pure istituisce la singolarità del soggetto.
+                \b L’Uno dell’identificazione è possibile.
+                \b Nella schizofrenia manca il tratto unario e il soggetto appare come frammentato, 
+                \b privo di unità appunto, disgregato. 
+                \b L’Uno del tratto unario è possibile 
+                \b mentre l’Uno del rapporto sessuale è impossibile

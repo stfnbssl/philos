@@ -1,0 +1,7 @@
+$group
+
+    namespace scolastica
+
+        concept essere
+            + È un uso ormai invalso nell'ontologia contemporanea 
+                \b chiamare essere l'ente in quanto ente.

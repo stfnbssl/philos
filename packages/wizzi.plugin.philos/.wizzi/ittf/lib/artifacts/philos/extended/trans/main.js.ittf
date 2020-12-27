@@ -1,0 +1,142 @@
+module
+    kind es6
+
+    $
+        var md = {
+            plugin: 'philos',
+            name: 'extended',
+            schema: 'philos',
+            checkSchema: true
+        };
+
+    v07/plugin/artifacts/trans(&md)
+
+        $append main
+
+            var resultObj
+                {
+                    [ authors
+                    [ authorsGroups
+                    [ fields
+                    [ approaches
+                    [ concepts
+                    [ theories
+                    [ books
+                    [ chapters
+                    [ articles
+                    [ webpages
+                    [ thesis
+                    { current
+            foreach item in model.items
+                _ doitem
+                    @ item
+                    @ resultObj
+            delete resultObj.current
+            foreach obj in resultObj.fields
+                _ clearConcept(obj)
+            foreach obj in resultObj.approaches
+                _ clearConcept(obj)
+            foreach obj in resultObj.theories
+                _ clearConcept(obj)
+            foreach obj in resultObj.concepts
+                _ clearConcept(obj)
+            r_cb(resultObj)
+
+        function doitem
+            param parent
+            param resultObj
+            var f = functors[parent.wzElement]
+            if f
+                _ f
+                    @ parent
+                    @ resultObj
+
+        var functors = {}
+        
+        $include author
+        $include comment
+        $include concept
+        $include contents
+        $include field
+        $include school
+        $include writing
+
+    function createEvent
+        param parent
+        var eventObj = {}
+        foreach item in parent.items
+            if item.wzElement == "date"
+                set eventObj.date = item.wzName
+            elif item.wzElement == "place"
+                set eventObj.place = item.wzName
+        return eventObj
+
+    function addContribution
+        param parent
+        param fromObj
+        param resultObj
+
+        var contrib = {}
+            {
+                @ kind null
+                @ id null
+                [ opinions
+                [ contents
+        foreach item in parent.items
+            if ['field', 'approach', 'theory', 'concept'].indexOf(item.wzElement) > -1
+                set contrib.kind = item.wzElement
+                set contrib.id = item.wzName
+                foreach child in item.items
+                    if !fillContents(child, contrib, resultObj)
+                    elif child.wzElement == 'opinionof'
+                        _ contrib.opinions.push
+                            @ child
+            elif item.wzElement == 'opinionof'
+                _ contrib.opinions.push
+                    @ item.toJson()
+        _ fromObj.contributionsto.push(contrib)
+
+    function addRelated
+        param parent
+        param fromObj
+        param resultObj
+
+        var related = {}
+            {
+                @ kind null
+                @ id null
+                [ opinions
+                [ contents
+        foreach item in parent.items
+            if ['field', 'approach', 'theory', 'concept'].indexOf(item.wzElement) > -1
+                set related.kind = item.wzElement
+                set related.id = item.wzName
+                foreach child in item.items
+                    if !fillContents(child, related, resultObj)
+                    elif child.wzElement == 'opinionof'
+                        _ related.opinions.push
+                            @ child
+            elif item.wzElement == 'opinionof'
+                _ related.opinions.push
+                    @ item.toJson()
+        _ fromObj.relatedsto.push(related)
+
+
+    function addFounded
+        param resultObj
+        param authorId
+        param kind
+        param id
+        foreach item in resultObj.authors
+            if item.id == authorId
+                foreach found in item.foundations
+                    if found.kind == kind && found.id == id
+                        return
+                if !item.foundations
+                    set item.foundations = []
+                _ item.foundations.push
+                    {
+                        @ kind kind
+                        @ id id
+                return
+

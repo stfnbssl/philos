@@ -1,0 +1,45 @@
+$group
+    author Piaget
+        name Jean Piaget
+        born
+            date 9/8/1896
+            place Neuchâtel, Svizzera
+        died
+            date 16/9/1980
+            place Ginevra, Svizzera
+        approach epistemologia genetica
+        approach costruttivismo
+        approach costruttivismo pedagogico
+        concept object permanence
+        concept egocentrismo
+        + usò il termine "costruttivismo" come descrittivo della sua "Epistemologia Genetica"
+        opinion-of Glasersfeld
+            + Sulla base dei suoi studi di biologia, 
+                \b arrivò a considerare le attività intellettuali come utensili dell'adattamento,
+                \b ma è difficile indovinare fino a che punto egli stesso abbia rinunciato 
+                \b al nesso conoscitivo con una realtà indipendente dall'organismo costruttore.
+        book 
+            title La costruzione della realtà nel bambino
+                original La construction du réel chez l'enfant
+            edition Neuchâtel, Delachaux et Niestlé, 1936
+            + A prima vista il testo potrebbe sembrare una cronaca dello sviluppo concettuale dei figli di Piaget 
+                \b durante i primi due anni della loro vita. 
+                \b L'opera invece non solo è complessa ma anche profonda; 
+                \b tanto che ancor'oggi costituisce una pietra angolare del costruttivismo.
+            + Il testo presenta un modello di costruzione di più di un concetto —  
+                \b 'oggetto', 'spazio', 'causalità' e 'tempo' 
+                \b — e poi suggerisce come i quattro elementi vengano integrati 
+                \b per formare lo sfondo dell'esperienza, cioè il mondo esterno. 
+                \b Dato che si tratta di un modello composito, 
+                \b l’autore deve per forza spiegare la costruzione delle parti l'una dopo l'altra, 
+                \b benché nel bambino la loro generazione sia simultanea. 
+                \b Cosí è il lettore a dover fare lo sforzo di considerare il giuoco delle interazioni 
+                \b che si realizza fino al termine del processo costruttivo verso l'età di due anni. 
+                \b Uno sforzo notevole e, visti i giudizi inappropriati che si ascoltano da più parti, 
+                \b ho l'impressione che pochi lettori l'abbiano portato a termine.
+            + Pur avendo scritto questo libro molto prima dell’affermarsi della cibernetica, 
+                \b Piaget si rese conto in retrospettiva 
+                \b che la costruzione inerente il suo modello di sviluppo concettuale era un modello cibernetico
+            + Piaget vide l'intelletto come uno strumento della funzione di adattamento
+            + Piaget vide la conoscenza come costruzione adatta all'ambiente percepito dall'organismo (6) 
+                \b e non come rappresentazione di un mondo esterno 

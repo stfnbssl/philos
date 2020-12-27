@@ -1,0 +1,114 @@
+$group
+
+    namespace freud
+        
+        concept rimozione
+            parent freud.difesa-dell-io
+            
+            + Operazione con cui il soggetto 
+                \b cerca di respingere o di mantenere nell'inconscio 
+                \b rappresentazioni (pensieri, immagini, ricordi) legati a una pulsione. 
+                \b La rimozione si attua nei casi in cui il soddisfacimento di una pulsione 
+                \b atta a procurare piacere rischierebbe di provocare del dispiacere rispetto ad altre esigenze.
+            + La rimozione ha un ruolo importante sia nelle affezioni mentali sia nella psicologia normale.
+            + La rimozione è un meccanismo di difesa dell'io, quello con maggiore specificità
+                \b ed è un prototipo per altre operazioni difensive.
+            
+            quote
+                + La sua essenza consiste soltanto nel fatto di allontanare 
+                    \b e di mantenere a distanza dal cosciente.
+                book freud.la-rimozione
+            
+            + Non agisce né sulla pulsione (14 a), 
+                \b che, in quanto è organica, sfugge all'alternativa conscio-inconscio, 
+                \b né sull'affetto. 
+                \b Quest'ultimo può subire diverse trasformazioni corrispondentemente alla rimozione, 
+                \b ma non può diventare inconscio stricto sensu
+                see 
+                    concept freud.repressione 
+            
+            r-concept freud.rappresentante-ideativo
+                + La rimozione agisce solo sui rappresentanti ideativi (idea, immagine, ecc.) della pulsione,
+                    \b i quali sono legati al rimosso.
+
+            r-concept freud.inconscio
+                + La rimozione è un processo psichico universale in quanto sarebbe all'origine 
+                    \b della costituzione dell'inconscio come campo separato dal resto dello psichismo.
+                + Almeno fino alla formulazione del concetto di difese inconsce dell'Io
+                    \b rimozione è per Freud sinonimo di inconscio
+            
+            r-concept freud.dinamismo-psichico
+                + La rimozione è una operazione dinamica, 
+                    \b implica il mantenimento di un controinvestimento (la resistenza?)
+                    \b altrimenti può essere bloccata (venir meno?)
+                r-concept freud.ritorno-del-rimosso
+                r-concept freud.formazione-di-compromesso
+            
+            r-concept freud.rappresentante-ideativo-pulsione
+                + La rimozione non agisce sull'affetto della pulsione, che è somatico
+                    \b ma sul suo rappresentante ideativo che è psichico.
+            
+            r-concept freud.difesa-dell-io
+                + La rimozione è sempre per Freud 
+                    \b una forma di difesa dell'Io con una sua specificità.
+            
+            r-concept freud.difese-secondarie
+                + Le difese secondarie Freud non le chiama mai rimozioni secondarie
+            
+            r-theory freud.isteria
+                + La rimozione svolge un ruolo prevalente nell'isteria
+        
+            r-theory freud.nevrosi-ossessiva
+                + La rimozione è parte di un processo più ampio nella nevrosi ossessiva
+
+            concept freud.rimozione.fasi
+                r-concept freud.seduzione
+                    + Va considerata come un primo tentativo sistematico per spiegare la rimozione, 
+                        \b tentativo tanto più interessante in quanto 
+                        \b non isola la descrizione del meccanismo 
+                        \b dall'oggetto elettivo su cui esso opera, cioè la sessualità.
+
+                concept freud.rimozione.fase-1
+                    r-concept rimozione-originaria
+                        + La prima fase sarebbe una rimozione originaria; 
+                            \b essa non riguarda la pulsione in quanto tale, 
+                            \b ma i suoi segni, i suoi rappresentanti, 
+                            \b che non accedono alla coscienza 
+                            \b e ai quali la pulsione rimane fissata 
+                        + viene così creato un primo nucleo inconscio 
+                            \b funzionante come polo di attrazione 
+                            \b nei confronti degli elementi da rimuovere                     
+                concept freud.rimozione.fase-2
+                    + La rimozione propriamente detta (eigentliche Verdrängung) 
+                        \b o rimozione posteriore (Nachdrängen) 
+                        \b è un processo duplice, 
+                        \b che unisce a questa attrazione 
+                        \b una repulsione (Abstossung) da parte di una istanza superiore.
+                concept freud.rimozione.fase-3
+                    + è costituita dal ritorno del rimosso
+                        \b sotto forma di sintomi, sogni, atti mancati, ecc..
+
+            r-theory freud.punto-di-vista-topico
+                r-theory freud.prima-topica
+                    + sebbene la rimozione sia descritta nella prima teoria dell'apparato psichico 
+                        \b come mantenimento fuori della coscienza, 
+                        \b non per questo Freud assimila l'istanza rimovente alla coscienza. 
+                        \b È la censura che ne fornisce il modello. 
+                r-theory freud.seconda-topica
+                    + Nella seconda topica, 
+                        \b la rimozione è considerata un'operazione difensiva dell'Io (parzialmente inconscio).
+
+            r-theory freud.punto-di-vista-economico
+                + la rimozione suppone un gioco complesso di disinvestimenti, reinvestimenti e controinvestimenti 
+                    \b riguardanti i rappresentanti della pulsione
+            
+            r-theory freud.punto-di-vista-dinamico
+                + il problema principale è quello dei motivi della rimozione: 
+                    \b come avviene che una pulsione 
+                    \b il cui soddisfacimento genera per definizione piacere
+                    \b possa suscitare un dispiacere tale 
+                    \b da provocare l'operazione della rimozione?
+                see
+                    concept freud.difesa
+
+

@@ -1,0 +1,19 @@
+$group
+
+    namespace freud
+
+        concept prima-topica
+
+            concept inconscio
+                quote
+                    + Come possiamo arrivare a conoscere l'inconscio? 
+                        \b Naturalmente lo conosciamo soltanto in una forma conscia 
+                        \b dopo che ha subito una trasformazione o traduzione in qualcosa di conscio. 
+                        \b Il lavoro psicoanalitico ci fa sperimentare ogni giorno 
+                        \b che una traduzione del genere è possibile.
+                    book freud.l-inconscio
+                        page 49
+
+            concept preconscio
+            
+            concept coscienza

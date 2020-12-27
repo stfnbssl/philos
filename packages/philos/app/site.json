@@ -1,0 +1,72 @@
+{
+    "baseURL": "http://127.0.0.1:5500/philos",
+    "assetsURL": "http://127.0.0.1:5500/philos/assets",
+    "languageCode": "it-it",
+    "Params": {
+        "name": "PhilosResources",
+        "description": "Risorse varie per progetto Philos",
+        "author": "Stefano Bassoli",
+        "email": "stfn.bssl@gmail.com",
+        "phone": "---",
+        "address": "---",
+        "year": 2019,
+        "logoText": "by Stefano & co"
+    },
+    "Features": {
+        "useWebFontLoader": false,
+        "webFontLoader": {
+            "providers": [
+                {
+                    "name": "google",
+                    "families": [
+                        "Aclonica",
+                        "Acme",
+                        "Roboto"
+                    ]
+                }
+            ]
+        },
+        "useGoogleFonts": true,
+        "googleFonts": {
+            "families": "Roboto:300,400,500,700|Roboto+Slab:400,700|Material+Icons"
+        },
+        "useFontAwesome": true,
+        "fontAwesome": {
+            "version": "latest"
+        },
+        "useBootstrap": true,
+        "bootstrap": {
+            "version": "4.3.1"
+        },
+        "useMaterialKit": false,
+        "materialKit": {
+            "assetsBaseUri": "http://localhost:5000/static/demo/material-kit"
+        },
+        "useDisqus": false,
+        "disqus": {
+            "site": "xxx.disqus.com"
+        },
+        "useGoogleTagmanager": false,
+        "googleTagmanager": {
+            "trackerID": "UA-0000000-0"
+        },
+        "useGoogleAnalytics": false,
+        "googleAnalytics": {
+            "trackerID": "GA-000000000-0"
+        }
+    },
+    "Styles": {
+        "palette": {
+            "dark_1": {
+                "backStrong": "#463A30",
+                "backMedium": "#827769",
+                "foreSofter": "#FFFFFF",
+                "foreSoft": "#DED9D8",
+                "foreMedium": "#95857A",
+                "foreMediumSoft": "#9C7F5B",
+                "foreMediumStrong": "#7D5F42"
+            }
+        }
+    },
+    "Data": {}
+}

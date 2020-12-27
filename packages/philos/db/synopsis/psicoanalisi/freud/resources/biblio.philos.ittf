@@ -1,0 +1,46 @@
+$group
+
+    book freud.l-interpretazione-dei-sogni
+        title L'interpretazione dei sogni
+        author Freud
+        edition 1900, Bollati Boringhieri
+        title L’interpretazione dei sogni
+
+    book freud.opere-complete
+        author Freud
+        title Opere complete 
+        edition Bollati Boringhieri. Kindle Edition.
+    
+    article freud.al-di-la-del-principio-del-piacere
+        title Al di la del principio di piacere
+        author Freud
+        book freud.opere-IX
+
+    article freud.psicologia-delle-masse-e-analisi-dell-io
+        title Psicologia delle masse e analisi dell'Io
+        author Freud
+        book freud.opere-IX
+
+    article freud.la-morale-sessuale-civile-e-il-nervosismo-moderno
+        title La morale sessuale “civile” e il nervosismo moderno
+        author Freud
+        book freud.opere-V
+
+    article freud.l-inconscio
+        title L'Inconscio
+        author Freud
+        book freud.opere-VIII
+
+    book freud.opere-VIII
+        author Freud
+        edition 1976, Bollati Boringhieri
+        title Le opere. Volume VIII. Introduzione alla psicanalisi e altri scritti.
+
+    book freud.opere-IX
+        author Freud
+        edition 1976, Bollati Boringhieri
+        title Le opere. Volume IX. L'Io e l'Es e altri scritti.
+
+    article pagliardini.l-oggetto-sguardo-nell-insegnamento-di-lacan
+        author Pagliardini
+        url file:///C:/Users/Stefano%20Bassoli/Downloads/4535-Articolo-16180-1-10-20141224.pdf

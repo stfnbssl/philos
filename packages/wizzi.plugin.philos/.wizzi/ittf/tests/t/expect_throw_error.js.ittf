@@ -1,0 +1,14 @@
+﻿$group
+	$params error
+
+	_ expect
+		function fn
+			$hook
+		. to
+		._ throwException
+			function
+				param  e
+				_ expect(e).to.be.a(errors.${error})
+
+
+

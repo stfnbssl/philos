@@ -1,0 +1,33 @@
+$group
+
+    book lacan.seminario-III
+        author Lacan
+        title Seminario. Libro III. Le psicosi.
+        written 1955-1956
+        edition Torino: Einaudi, 20xx
+        index
+            + Introduzione alla questione delle psicosi. 
+            + Tematica e struttura del fenomeno psicotico. 
+            + Del significante e del significato. 
+            + I dintorni del buco. 
+            + Avvertenza.        
+        back-cover
+            + Il folle non deve essere misurato in termini di deficit e di dissociazione delle funzioni. 
+                \b Lo psicotico infatti è un soggetto nel pieno senso della parola. 
+                \b Da Freud sappiamo che il soggetto, sia esso nevrotico, psicotico o perverso, 
+                \b è sempre il soggetto dell’inconscio. 
+                \b Ma qual è la molla che scatta perché si arrivi ad avere come risultato un folle? 
+                \b Tutto il seminario ruota intorno a questo interrogativo. 
+                \b Lentamente, procedendo a spirale, Lacan arriva a delineare la causa della psicosi. 
+                \b Essa non si annida nell’immaginario, ossia nel rapporto duale, tra un io e un altro io, 
+                \b fossero anche madre e bambino. 
+                \b La causa si annida nel simbolico, ossia in quel rapporto di cui Freud aveva dato il paradigma 
+                \b nella triade edipica e che Lacan, utilizzando l’apporto di de Saussure e di Jakobson, 
+                \b arriva a tradurre in termini di metafora. 
+                \b In gioco è un difetto della metafora paterna, 
+                \b a cui Lacan darà il nome di forclusione del Nome-del-Padre. 
+                \b Nel Seminario Lacan ricorre per illustrarlo alle Memorie di un malato di nervi del presidente Schreber, 
+                \b a cui Freud aveva dedicato un saggio. 
+                \b Ma non è il testo di Freud a chiarire quello di Schreber. 
+                \b È il testo di Schreber a mettere in luce la pertinenza delle categorie forgiate da Freud,
+                \b come ebbe a dire Lacan presentando le Memorie nella traduzione francese.

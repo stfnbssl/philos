@@ -1,0 +1,15 @@
+$group
+
+    namespace freud
+
+        concept educazione
+            quote
+                + L’educazione può senz’altro esser descritta come un incitamento a superare il principio di piacere, 
+                    \b e a sostituirlo col principio di realtà; 
+                    \b essa vuol offrire un ausilio al processo evolutivo che riguarda l’Io, 
+                    \b e a tale scopo si serve di premi d’amore da parte dell’educatore; 
+                    \b fallisce perciò al suo scopo 
+                    \b se il bimbo viziato crede di possedere senz’altro questo amore 
+                    \b e di non poterlo perdere mai più.
+                kindle-loc 52874-52877
+                article freud.precisazione-sui-due-principi-dell-accadere-psichico

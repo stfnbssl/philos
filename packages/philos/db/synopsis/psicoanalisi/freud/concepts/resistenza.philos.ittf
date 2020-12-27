@@ -1,0 +1,11 @@
+$group
+
+    namespace freud
+        
+        concept resistenza
+            + una delle ragioni principali che hanno portato Freud
+                \b ad introdurre il concetto di narcisismo nel suo celebre saggio del 1914
+        
+        concept nucleo-patogeno
+            + da Freud inizialmente identificato con un evento traumatico
+                \b poi con il «fantasma»

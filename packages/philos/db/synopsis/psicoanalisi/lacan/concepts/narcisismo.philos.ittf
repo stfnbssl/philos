@@ -1,0 +1,9 @@
+$group
+
+    namespace lacan
+
+        concept narcisismo
+            + Il narcisismo è la relazione immaginaria e speculare con l’altro 
+                \b – che deriva fondamentalmente dallo stadio dello specchio.
+            + L’investimento narcisistico dell’io è rappresentato dall’io ideale.
+            + Il narcisismo si costituisce nel campo dell’Altro.

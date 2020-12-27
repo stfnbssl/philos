@@ -1,0 +1,18 @@
+$group
+    author Bentham
+        name Jeremy Bentham
+        born
+            date 15/2/1748
+            place Houndsditch, Città di Londra, Regno Unito
+        died
+            date 6/6/1832
+            place Westminster, Londra, Regno Unito
+        idea Greatest happiness principle
+        approach Radical Consequentialism
+        concept finzioni
+            ref approach costruttivismo
+            + termine che per lui non ebbe significato sprezzante ma indicò precisamente l’attività costruttiva. 
+                \b Come Vico, sottolineò il ruolo del linguaggio: 
+                \b "Alla lingua - e solo alla lingua - 
+                \b le entità fittizie devono la loro esistenza" (21). 
+            + precedente alla semantica operativa

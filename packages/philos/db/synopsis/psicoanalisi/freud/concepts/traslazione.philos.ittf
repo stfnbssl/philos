@@ -1,0 +1,11 @@
+$group
+
+    namespace freud
+
+        concept traslazione
+            quote
+                + una tale elaborazione psichica anormale di una successione di pensieri normale 
+                    \b si verifica solo quando quest’ultima si è fatta traslazione di un desiderio inconscio, 
+                    \b che deriva dal materiale infantile e si trova in stato di rimozione.
+                book freud.l-interpretazione-dei-sogni
+

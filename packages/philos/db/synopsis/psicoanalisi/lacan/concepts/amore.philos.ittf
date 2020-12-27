@@ -1,0 +1,37 @@
+$group
+
+    namespace lacan
+
+        concept amore
+            
+            quote
+                + amore è dare qualcosa che uno non ha
+                
+            quote
+                + amore è dare qualcosa che uno non ha
+                    \b a qualcuno che non lo vuole
+                book zizek.leggere-lacan
+
+            + l’amore è sempre reciproco
+                \b – cosa che Lacan non ha mai smentito 
+
+            + nel Seminario XX, Lacan, sposta la scelta d’amore 
+                \b dal piano del desiderio, in cui era stato fino allora inquadrata,
+                \b al piano del godimento
+            
+            quote
+                + la chiave della reciprocità dell’amore 
+                    \b risiede in un certo rapporto tra i due saperi, 
+                    \b quale intercapedine tra amore ed essere; 
+                    \b saperi che – non bisogna mai perderlo di vista – 
+                    \b sono sempre e comunque dei saperi inconsci
+                article licitra.amore-e-godimento
+                page 8
+            
+            quote
+                + Ogni amore si sostiene 
+                    \b a partire da un certo rapporto 
+                    \b fra due saperi inconsci
+                book lacan.seminario-XX
+                page 182
+                

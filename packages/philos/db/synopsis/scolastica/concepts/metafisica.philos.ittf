@@ -1,0 +1,22 @@
+$group
+
+    namespace scolastica
+
+        concept metafisica
+            
+            quote
+                + Si dirà: ma non ci si può fermare alla fenomenologia, bisogna procedere oltre, 
+                    \b bisogna inferire dal dato, dal fenomeno ciò che non è dato, 
+                    \b ma si impone alla ragione come cið senza cui il dato sarebbe contraddittorio. 
+                    \b Siamo d'accordo. E qui comincia la metafisica. 
+                article rovighi.l-essere-e-il-nulla-di-sartre
+
+            quote
+                + E siamo anche persuasi che non sia possibile fare solo ontologia, 
+                    \b che l'ontologia porti necessariamente alla metafisica; 
+                    \b tanto più ne siamo persuasi quanto più vediamo che i filosofi 
+                    \b i quali sostengono di volersi limitare all'ontologia hanno sempre anche una metafisica, 
+                    \b si pronunciano cioè non solo sull'essere che appare, ma su tutto l'essere [..]
+                    \b anche se uno dicesse - l'essere è solo ciò che appare - farebbe metafisica [..]
+                    \b dichiarando l'essere che non appare inesistente.
+                article rovighi.l-essere-e-il-nulla-di-sartre

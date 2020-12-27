@@ -1,0 +1,46 @@
+v07/plugin/index( philos )
+
+	$append model-transform-artifacts
+		# window(s) vars must be declared even if empty
+		var window_modelFactories
+			{
+				@ 'philos' require('./lib/wizzi/models/philos-factory.g')
+		var window_artifactGenerators
+			{
+				@ 'philos/document' require('./lib/artifacts/philos/document/gen/main')
+		var window_transformers
+			{
+				@ 'philos/extended' require('./lib/artifacts/philos/extended/trans/main')
+		var window_schemaDefinitions
+			{
+
+	@ provides
+		{
+			@ schemas
+				[
+					@ 'philos'
+			@ modelTransformers
+				[
+                    @ 'philos/extended'
+			@ artifactGenerators
+				[
+					@ 'philos/document'
+
+	@ provides
+		{
+			@ schemas
+				[
+                    $foreach schema in pkg.Schema.items
+                        @ '${schema.name}'
+			@ modelTransformers
+				[
+                    $foreach schema in pkg.Schema.items
+                        $foreach trans in schema.modelTransformers
+                            @ '${schema.name}/${trans.name}'
+			@ artifactGenerators
+				[
+                    $foreach schema in pkg.Schema.items
+                        $foreach artifact in schema.artifactGenerators
+                            @ '${schema.name}/${artifact.name}'
+
+

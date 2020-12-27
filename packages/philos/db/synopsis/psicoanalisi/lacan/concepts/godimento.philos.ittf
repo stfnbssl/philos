@@ -1,0 +1,21 @@
+$group
+
+    namespace lacan
+
+        concept godimento
+            
+            + Il godimento, non è un’esperienza di benessere, 
+                \b non è un piacere estremo.
+                \b Esso è il luogo in cui 
+                \b tutto il complesso del principio di piacere collassa,
+                \b producendo un movimento contrario alla
+                \b conservazione/eternizzazione del desiderio.
+
+            + Lacan isola il reale del godimento, 
+                \b irriducibile tanto alla dialettica speculare del riconoscimento 
+                \b quanto alla logica del significante, 
+                \b come l'oggetto stesso della cura analitica 
+                \b da isolare attraverso un processo di riduzione e svuotamento 
+                \b che va nella direzione di un alleggerimento del soggetto dalle significazioni fantasmatiche 
+                \b che lo hanno segnato per giungere al nucleo di non senso che gli è proprio: 
+                \b al suo modo singolare di godimento. 

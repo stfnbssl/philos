@@ -1,0 +1,22 @@
+$group
+
+    namespace klein
+
+        concept posizione-schizoparanoide
+            title posizione schizoparanoide (primi 3-4 mesi di vita)
+            + Il bambino vive la madre come “oggetto parziale” cioè 
+                \b quando la madre soddisfa i suoi bisogni primari, 
+                \b quando è presente e lo allatta, 
+                \b ella è sentita come oggetto buono; 
+                \b è invece oggetto cattivo quando è assente 
+                \b e lo frustra nei suoi desideri. 
+            + In questa fase non ci sono i sensi di colpa per le pulsioni aggressive contro la madre quando lo frustra. 
+                \b Infatti, per il bambino la madre non è ancora riconosciuta come “oggetto totale”, 
+                \b cioè come colei che assomma aspetti frustranti e aspetti gratificanti.
+            + Il bambino, fin dall'inizio della vita, è dominato da due istinti:
+                \b una pulsione aggressiva, distruttiva (istinto di morte)
+                \b una pulsione d'amore o libido.
+            + Il bambino proietta questi istinti sulla madre, a seconda se lo gratifica o lo frustra. 
+                \b Così il seno, che è sentito contenere una gran parte dell'istinto di morte del lattante, 
+                \b è sentito come cattivo e minaccioso per l'Io 
+                \b e dà luogo nel bambino ad angosce di tipo persecutorio.

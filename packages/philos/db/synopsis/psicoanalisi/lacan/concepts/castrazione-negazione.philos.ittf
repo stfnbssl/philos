@@ -1,0 +1,7 @@
+$group
+
+    namespace lacan
+
+        concept castrazione-negazione
+            title negazione della castrazione
+            + ci sono tre tipi di negazione della castrazione: rimozione, forclusione, sconfessione

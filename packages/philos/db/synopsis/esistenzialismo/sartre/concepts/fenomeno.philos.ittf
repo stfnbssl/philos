@@ -1,0 +1,22 @@
+$group
+
+    namespace sartre
+
+        concept fenomeno
+            
+            bax
+                + topologicamente è una qualsiasi superficie che entra
+                    in contatto con un superficie capace di rappresentazione
+
+        concept fenomeno-d-essere
+            + La manifestazione, a me, del fenomeno in quanto tale.
+            + Rimanda sempre all'"essere del fenomeno", come alla sua condizione e fondamento.
+            quote
+                + Il fenomeno d'essere è un appello all'essere; 
+                    \b esso esige, in quanto fenomeno, un fondamento che sia transfenomenico.
+                    \b Il fenomeno d'essere esige la transfenomenicità dell'essere.        
+                book sartre.l-essere-e-il-nulla
+
+        concept essere-del-fenomeno
+            + Ciò da cui il fenomeno scaturisce, la sua transfenomenicità.
+

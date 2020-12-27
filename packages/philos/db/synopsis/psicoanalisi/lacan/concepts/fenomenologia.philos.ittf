@@ -1,0 +1,21 @@
+$group
+
+    namespace lacan
+
+        concept fenomenologia
+
+            + L’ispirazione fenomenologica ed esistenziale è decisiva nella formazione di Lacan: 
+                \b la sua tesi di dottorato in medicina, 
+                \b Della psicosi paranoica nei suoi rapporti con la personalità, del 1932, 
+                \b è il lavoro di uno psichiatra fenomenologo, 
+                \b che adotta il metodo comprensivo di Karl Jaspers. 
+                
+            + Per il giovane Lacan ogni fenomeno di coscienza ha di per sé un senso 
+                \b e la psicosi è una forma di esperienza vissuta e non un deficit o un disfunzionamento, 
+                \b la cui causa sarebbe organica. 
+            
+            + Lo psichiatra deve leggere il senso umano nelle condotte che osserva nel paziente. 
+
+            + Con qualche precisazione da fare sulla nozione di soggetto,  
+                \b è questo il punto in cui per Lacan psicoanalisi e fenomenologia si incontrano: 
+                \b il rigetto etico dell’oggettivazione del paziente.

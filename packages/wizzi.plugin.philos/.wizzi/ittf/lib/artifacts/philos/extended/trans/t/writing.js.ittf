@@ -1,0 +1,70 @@
+$group
+
+    set functors.book
+        function
+            param parent
+            param resultObj
+            var bookObj
+                {
+                    @ id parent.wzName
+                    @ title null
+                    [ authors
+                    [ reviews
+                    [ contents
+            var newitems = []
+            foreach child in parent.items
+                if child.wzElement == "title"
+                    set bookObj.title = child.wzName 
+                elif child.wzElement == "edition"
+                    set bookObj.edition = child.wzName
+                elif child.wzElement == "author"
+                    _ bookObj.authors.push(child.wzName)
+                elif !fillContents(child, bookObj)
+                else
+                    _ newitems.push
+                        @ child
+            _ resultObj.books.push
+                @ bookObj
+            foreach child in newitems
+                _ doitem
+                    @ child
+                    @ resultObj
+            return bookObj
+
+    set functors.chapter
+        function
+            param parent
+            param resultObj
+            var chapterObj
+                {
+                    @ id parent.wzName
+                    @ title null
+                    [ authors
+                    [ reviews
+                    [ contents
+            var newitems = []
+            foreach child in parent.items
+                if child.wzElement == "title"
+                    set chapterObj.title = child.wzName 
+                elif child.wzElement == "edition"
+                    set chapterObj.edition = child.wzName
+                elif child.wzElement == "author"
+                    _ chapterObj.authors.push(child.wzName)
+                elif child.wzElement == "book"
+                    set chapterObj.book = child.wzName
+                    _ functors.book
+                        @ child
+                        @ resultObj
+                elif child.wzElement == 'page'
+                    set chapterObj.page = child.wzName
+                elif !fillContents(child, chapterObj)
+                else
+                    _ newitems.push
+                        @ child
+            _ resultObj.chapters.push
+                @ chapterObj
+            foreach child in newitems
+                _ doitem
+                    @ child
+                    @ resultObj
+            return chapterObj

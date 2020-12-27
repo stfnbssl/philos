@@ -1,0 +1,35 @@
+$group
+
+    namespace lacan
+
+        concept soggettivazione
+
+            quote
+                + Il termine soggettivazione è invece un termine lacaniano.
+                    \b E’ un termine che appare centrale soprattutto nella fase classica del suo insegnamento, 
+                    \b quella che si sviluppa intorno alla metà degli anni Cinquanta. 
+                    \b Sapete che la mia prospettiva di lettura di Lacan 
+                    \b consiste nell’individuare proprio nella problematica della soggettivazione, 
+                    \b del soggetto, dell’"effetto soggetto" (per riprendere una espressione di Althusser), 
+                    \b il centro dell’insegnamento di Lacan. 
+                    \b E’ quello che mi sforzo di dimostrare nella mia lettura di Lacan: 
+                    \b l’insegnamento di Lacan è un insegnamento centrato 
+                    \b sulla problematica del soggetto e dei suoi processi di soggettivazione.
+                article recalcati.lezioni-su-lacan
+                page 136
+
+            quote
+                + Il problema della soggettivazione lacaniana è 
+                    \b che il suo presupposto è quello di una soggezione del soggetto, 
+                    \b per cui ciò che si soggettiva è sempre una soggezione, 
+                    \b la libertà è sempre in rapporto al destino. 
+                    \b Questa soggezione fonda un nuovo concetto di inconscio, 
+                    \b contrapposto all’idea romantica dell’inconscio come interiorità. 
+                    \b La soggezione alienante del soggetto al campo dell’Altro 
+                    \b mostra quanto l’interno sia un prodotto dell’esterno. 
+                    \b O se si preferisce quanto l’interno si produca come un’esteriorità interiorizzata. 
+                    \b L’inconscio come esteriorità è, direbbe Deleuze, 
+                    \b una piega che costituisce il soggetto il quale, 
+                    \b proprio per questa ragione, non è affatto proprietario del suo inconscio.
+                article recalcati.lezioni-su-lacan
+                page 152

@@ -1,0 +1,8 @@
+$group
+
+    namespace lacan.sesso
+        
+        concept genere
+            + Il concetto di genere non investe l'essere,
+                \b ma resta circoscritto al campo del sembiante.
+

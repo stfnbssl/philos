@@ -1,0 +1,7 @@
+$group
+
+    namespace lacan.sesso
+        
+        concept altro-godimento
+            + Godimento femminile che eccede la misura fallica, è "senza fondo", illimitato
+                \b (non limitato dalla misura fallica).

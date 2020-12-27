@@ -1,0 +1,9 @@
+$group
+
+    namespace lacan
+
+        concept comunicazione
+            + Il riferimento all’Altro è al principio del processo della comunicazione. 
+            + Il codice è isotopo al luogo dell’Altro, 
+                \b da cui consegue che l’inconscio è il discorso dell’Altro        
+

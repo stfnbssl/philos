@@ -1,0 +1,477 @@
+Brouwer
+
+2. Brouwer's Views on Logic nel 1907 e 1908
+
+2.1 Matematica, linguaggio e logica
+Nella sua dissertazione (1907), Brouwer presenta la sua concezione delle relazioni tra matematica, linguaggio e logica. 
+Sia la visione intuizionistica della logica come essenzialmente sterile, sia l'esistenza di risultati 
+nella logica intuizionista che sono incompatibili con la logica classica, 
+dipendono essenzialmente da quella concezione.
+
+    field matematica pura
+        + consiste principalmente nell'atto di realizzare certe costruzioni mentali
+        book 
+            title
+            edition 1907
+
+    concept intuizione del tempo
+        + quando spogliata da ogni contenuto sensuale, ci permette di percepire 
+            \b la forma di "una cosa e ancora una cosa, e un continuum in mezzo" 
+        + questa forma, che unisce il discreto e il continuo, è una "doppietà vuota"
+        + è l'intuizione di base della matematica; il discreto non può essere ridotto al continuo, 
+            \b né il continuo al discreto
+        + col passare del tempo, una doppietà vuota può essere considerata come una parte 
+            \b di una nuova doppietà, e così via
+        + lo sviluppo della matematica intuizionista consiste nell'esplorazione di quali 
+            \b costruzioni specifiche consentono la doppietà vuota e il suo auto-dispiegarsi 
+            \b o iterazione e quali no
+        + L'unico fondamento possibile della matematica va ricercato in questa costruzione sotto 
+            \b l'obbligo di osservare attentamente quali costruzioni l'intuizione consente e quali no
+
+    quote
+        author Heyting
+        + La costruzione [di Brouwer] della matematica intuizionista non è né più né meno che un'indagine 
+            \b dei limiti estremi che l'intelletto può raggiungere nel suo auto-dispiegarsi
+        page 314
+        essay
+            title L.E.J. Brouwer
+            author Heyting
+            pages 308–315
+            book
+                title Logic and Foundations of Mathematics, (Contemporary Philosophy. A Survey, Vol.1)
+                author Raymond Klibansky
+                edition 1968
+
+    Brouwer e altri intuizionisti hanno mostrato come su questa base si possano costruire aritmetica, 
+    analisi reale e topologia. 
+    Inoltre, Brouwer considera qualsiasi pensiero esatto che non sia esso stesso matematica un'applicazione della matematica. 
+    Infatti, ogni volta che pensiamo coscientemente a due cose insieme mantenendole separate, 
+    lo facciamo, secondo Brouwer, proiettando su di esse la doppiaità vuota (Brouwer 1907: 179n.1 [1975: 97n.1]).
+
+
+    Brouwer ritiene che l'intuizione del tempo appartenga alla coscienza prelinguistica. 
+    La matematica, quindi, è essenzialmente senza lingua. 
+    È l'attività di realizzare costruzioni non linguistiche da qualcosa che non è di natura linguistica. 
+    Usando il linguaggio possiamo descrivere le nostre attività matematiche, 
+    ma queste stesse attività non dipendono da elementi linguistici, 
+    e nulla di vero riguardo alle attività di costruzione matematica deve la sua verità a qualche fatto linguistico. 
+    Oggetti linguistici come gli assiomi possono servire a descrivere una costruzione mentale, 
+    ma non possono portarla in essere. 
+    Per questo motivo, alcuni assiomi della matematica classica sono rifiutati dagli intuizionisti, 
+    come l'assioma di completezza per i numeri reali, che dice che se un insieme non vuoto 
+    di numeri reali ha un limite superiore, allora ha un limite minimo superiore: 
+    sappiamo di nessun metodo generale che ci consentirebbe di costruire mentalmente 
+    il limite superiore minimo di cui l'assioma rivendica l'esistenza.
+
+    Come disse in seguito Brouwer, "il linguaggio formale accompagna la matematica come una partitura accompagna 
+    una sinfonia di Bach o un oratorio di Handel". (Brouwer et al. 1937: 262; traduzione mia) [5] 
+    Di conseguenza, stabilire le proprietà dei sistemi formali può avere molti usi, ma alla fine 
+    non ha alcun significato fondamentale per la matematica. 
+    In una conferenza del 1923, Brouwer esprime ottimismo sulla teoria della dimostrazione di Hilbert, 
+    ma nega che avrebbe significato per la matematica:
+
+    quote
+        Non dobbiamo assolutamente disperare di raggiungere questo obiettivo [di una prova di coerenza per 
+        la matematica formalizzata], ma non si otterrà così nulla di valore matematico: una teoria errata, 
+        anche se non può essere inibita da alcuna contraddizione che la confuterebbe, non lo è tanto 
+        meno è scorretta, così come una politica criminale è nondimeno criminale anche se non può essere 
+        inibita da alcun tribunale che la possa frenare. (Brouwer 1924N: 3 [van Heijenoort 1967: 336])
+
+    Allo stesso tempo, Brouwer era ben consapevole della necessità pratica del linguaggio, sia per comunicare 
+    i risultati matematici agli altri, sia per aiutare noi stessi a ricordare e ricostruire i nostri 
+    risultati precedenti (Brouwer 1907: 169 [1975: 92]). 
+    Solo un matematico ideale con una memoria perfetta e illimitata sarebbe in grado di praticare la matematica 
+    pura senza ricorrere al linguaggio (Brouwer 1933A2: 58 [van Stigt 1990: 427]). 
+    Chiaramente, date queste due funzioni pratiche del linguaggio, più precisa è la lingua, meglio è.
+    La logica, in questo quadro, cerca e sistematizza certi modelli nelle registrazioni linguistiche delle 
+    nostre attività di costruzione matematica. 
+    È un'applicazione della matematica al linguaggio della matematica. 
+    
+    field logica
+        + studia i modelli che caratterizzano l'inferenza valida
+        + lo scopo è stabilire regole generali che operano su affermazioni sulle costruzioni matematiche 
+        in modo tale che, se le affermazioni originali (le premesse) trasmettono una verità matematica, 
+        lo sarà anche l'affermazione ottenuta applicando la regola (la conclusione; Brouwer 1949C: 1243). 
+        Ciò che viene preservato in un'inferenza da date premesse a una conclusione non è quindi, 
+        come nella logica classica, una sorta di verità possibilmente trascendente l'evidenza, 
+        ma la costruibilità. 
+        Questo punto di vista è abbastanza esplicito già nella dissertazione di Brouwer 
+        (Brouwer 1907: 125-132, 159-160 [1975: 72-75, 88]), 
+        ma un passaggio più memorabile si trova nel documento del 1908:
+
+        Si può, nel caso di costruzioni e trasformazioni puramente matematiche, trascurare temporaneamente 
+        la presentazione del sistema matematico che è stato eretto e muoversi nell'edificio linguistico che lo accompagna, 
+        guidato dai principi del sillogismo, della contraddizione e del tertium exclusum, sempre fiducioso che, 
+        evocando momentaneamente la presentazione delle costruzioni matematiche suggerite da questo ragionamento, 
+        ogni parte del discorso possa essere giustificata? (Brouwer 1908C: 4 [van Atten & Sundholm 2017: 40])
+
+        (Poi prosegue affermando che la risposta è "sì" per i principi del sillogismo e della contraddizione, ma, 
+        in generale, "no" per il principio del mezzo escluso (PEM); più su questo sotto, sezione 2.4 .)
+
+        Ma se una certa costruzione matematica può essere costruita da un'altra, 
+        questo è un fatto puramente matematico, e come tale indipendente dalla logica. 
+        La logica quindi è descrittiva ma non creativa: mediante l'uso della logica, 
+        non si otterranno mai verità matematiche che non sono ottenibili da 
+        una costruzione matematica diretta (Brouwer 1949C: 1243). 
+        Quindi, nello sviluppo della matematica intuizionista, la logica non può 
+        mai svolgere un ruolo essenziale. 
+        Dal punto di vista di Brouwer consegue che la logica è subordinata alla matematica. 
+        La visione classica che la matematica è subordinata alla logica è strettamente 
+        correlata alla visione che la logica pura non ha un oggetto o un dominio particolare, 
+        ed è prioritaria a tutti. 
+        Da questa prospettiva, la concezione di Brouwer della logica come dipendente dalla matematica 
+        sembrerà troppo restrittiva. 
+        Ma per Brouwer la logica presuppone sempre la matematica, perché a suo avviso è, 
+        come ogni pensiero esatto, un'applicazione della matematica.
+
+        Il sistema logico linguistico risultante può a sua volta essere studiato matematicamente, 
+        anche indipendentemente dalle attività matematiche e dalle loro registrazioni da cui è 
+        stato originariamente estratto. 
+        Iterando il processo, sorge una gerarchia infinita di attività matematiche, 
+        le loro registrazioni linguistiche e lo studio matematico di queste registrazioni come oggetti linguistici 
+        indipendentemente dal loro significato originale. 
+        Brouwer descrive questa gerarchia (in modo più dettagliato di quanto abbiamo fatto qui) 
+        alla fine della sua dissertazione (Brouwer 1907: 173ss) e critica Hilbert per non averla rispettata. 
+        Di particolare interesse è la distinzione che Brouwer fa tra matematica 
+        e "matematica del secondo ordine" (Brouwer 1907: 99n.1, 173 [1975: 61n.1, 94]), 
+        dove quest'ultima è lo studio matematico del linguaggio della precedente in astrazione dal suo significato originale; 
+        in questo modo, Brouwer rese completamente esplicita la distinzione tra matematica e 
+        (quella che divenne nota come) metamatematica (ad esempio, Hilbert 1923: 153). 
+        
+        Più tardi, Brouwer rivendicò la priorità per questa distinzione, aggiungendo in una nota che 
+        l'aveva spiegata a Hilbert in una serie di conversazioni nel 1909 (Brouwer 1928A2: 375 [Mancosu 1998: 44n.1]).
+
+
+    concept il giudizio ipotetico
+        Brouwer si rese conto (1907: 125–128 [1975: 72–73]) che il giudizio ipotetico sembra porre 
+        un problema alla sua visione della logica come descritto sopra. 
+        Ciò che è peculiare del giudizio ipotetico, dice Brouwer, è che lì la priorità della matematica sulla logica 
+        sembra essere invertita. 
+        Tra gli esempi a cui si riferisce ci sono le prove trovate nella geometria elementare dei problemi di Apollonio. 
+        Eccone uno: dati tre cerchi, definiti dai loro centri e dai loro raggi, costruisci un quarto cerchio 
+        tangente a ciascuno dei tre dati. 
+        Il modo in cui questo viene solitamente risolto è prima presumere che tale quarto cerchio esista, 
+        quindi impostare equazioni che esprimano come è correlato ai tre cerchi dati, e poi, 
+        tramite manipolazioni algebriche e logica, arrivare a definizioni esplicite del centro e raggio 
+        del cerchio richiesto e, da lì, alle corrispondenti costruzioni matematiche. 
+        Quindi sembra che qui si debba prima assumere l'esistenza del cerchio richiesto, 
+        quindi usare la logica per formulare vari giudizi su di esso, e solo così si arriva 
+        a una costruzione matematica per esso.
+
+        Tuttavia, sostiene Brouwer, questo non è ciò che accade realmente. 
+        La sua interpretazione generale di tali casi è la seguente. 
+        Avendo prima osservato che il ragionamento logico accompagna o rispecchia l'attività matematica 
+        che è almeno concettualmente precedente a quel ragionamento, Brouwer poi dice:
+
+            C'è un caso speciale […] che sembra davvero presupporre il giudizio ipotetico dalla logica. 
+            Ciò si verifica quando una struttura in una struttura è definita da una relazione, 
+            senza che sia immediatamente chiaro come effettuare la sua costruzione. 
+            Qui sembra presumere di aver effettuato la costruzione richiesta e da questa ipotesi 
+            dedurre una catena di giudizi ipotetici. 
+            Ma questo non è più che apparente; quello che si sta realmente facendo in questo caso è il seguente: 
+            si inizia costruendo un sistema che soddisfi parte delle relazioni richieste, 
+            e si cerca di dedurre da queste relazioni, per mezzo di tautologie, altre relazioni, 
+            in modo tale che alla fine le relazioni dedotte, unite a quelle non ancora utilizzate, 
+            danno luogo ad un sistema di condizioni, idoneo come punto di partenza per la costruzione del sistema richiesto. 
+            Solo con questa costruzione sarà poi dimostrato che le condizioni originali 
+            possono effettivamente essere soddisfatte. (Brouwer 1907: 126-127 [1975: 72; traduzione modificata])
+
+        Sono state proposte diverse letture di questo breve brano. 
+        Secondo uno, il passaggio di Brouwer si riferisce ad A → B nel modo seguente:
+        (α) Brouwer fa notare nelle righe precedenti che se vengono fornite le condizioni e le specifiche per A, 
+        allora si cerca di aggiungere più informazioni in modo tale che, 
+        dopo una certa quantità di attività costruttiva, 
+        si possa davvero realizzare una costruzione di A che rispetta le specifiche. 
+        Una volta ottenuto ciò, possiamo passare alla costruzione di "implicazione" per B, 
+        che fornisce la costruzione per B e al necessario incorporamento 
+        della struttura per A nella struttura per B. (van Dalen 2004: 250–251)
+        Secondo l'interpretazione α, A → B significa semplicemente A∧B con l'informazione extra che 
+        la costruzione per B è stata ottenuta da quella per A. 
+        In questa lettura A → B può essere asserito solo dopo che è stata trovata una costruzione per A. 
+        L'idea è chiara: vale a dire, evitare costruzioni ipotetiche, e l'uso della logica che richiedono, 
+        insistendo sul fatto che venga fornita una costruzione che dimostri l'antecedente. 
+        (Come verrà spiegato nella sezione 6.2.1 di seguito, anche Freudenthal (1937b) ha suggerito questa strategia, 
+        sebbene con una motivazione diversa da questo passaggio della dissertazione di Brouwer.) 
+        Ma, come nota anche van Dalen, è anche in effetti un rifiuto del giudizio ipotetico nel caso generale 
+        in cui non si sa se esiste una costruzione per A.
+
+        Una lettura alternativa è β:
+
+        (β) Per stabilire A → B bisogna concepire A e B come condizioni su costruzioni, e dimostrare che dalle condizioni 
+        specificate da A si ottengono le condizioni specificate da B, secondo trasformazioni la cui composizione preserva 
+        la costruibilità matematica . (van Atten 2009: 128)
+        In questa lettura, la spiegazione di Brouwer del giudizio ipotetico evita le costruzioni ipotetiche e 
+        l'uso concomitante della logica considerando le condizioni sulle costruzioni invece delle costruzioni stesse. 
+        Invece di una "catena di giudizi ipotetici" che sembra fare, si sta realmente facendo una catena 
+        di trasformazioni in cui dalle relazioni richieste (cioè, date condizioni) derivano ulteriori relazioni. 
+        È, ovviamente, un requisito che queste trasformazioni preservino la costruibilità matematica e c
+        he questa conservazione sia essa stessa intuitivamente nota. 
+        Il ruolo delle condizioni è esplicito in una dichiarazione rilasciata da Brouwer 
+        all'altro capo della sua carriera editoriale:
+
+        
+            [La] formulazione di un teorema matematico non ha senso a meno che non indichi la costruzione di 
+            un'entità matematica effettiva o di un'incompatibilità (ad esempio, l'identità della duità vuota con un'unità vuota) 
+            da qualche condizione costruttiva imposta un ipotetico sistema matematico. (Brouwer 1954A: 3)
+
+        Brouwer non parla di un'incompatibilità costruita a partire da un ipotetico sistema matematico, 
+        ma da alcune condizioni sulla sua costruzione.
+
+        Comunque sia, la conservazione della costruibilità da A a B è essenziale sia per leggere α che per leggere β, 
+        quindi è chiaro che Brouwer aveva in mente l'interpretazione dimostrativa dell'implicazione già nel 1907. 
+        Per ulteriori discussioni sull'argomento di Brouwer passaggio sul giudizio ipotetico e le due letture 
+        di esso qui menzionate, vedi Kuiper 2004, van Dalen 2004, van Atten 2009 e van Dalen 2008.
+
+    concept negazione
+        Intuizionisticamente, dire che una proposizione A è vera significa principalmente che abbiamo 
+        effettuato una costruzione che è correttamente descritta da A; 
+        la proposizione A è resa vera dalla costruzione. 
+        Idealizzando in una certa misura, diciamo che A è vero se possediamo un metodo di costruzione che, 
+        una volta effettuato, produrrà una costruzione che è correttamente descritta da A. 
+        Secondo Brouwer, dire che una proposizione A è falsa allora deve significare 
+        che è impossibile effettuare una costruzione adeguata; notazione ¬A. 
+        Tale impossibilità viene riconosciuta immediatamente (ad esempio, l'impossibilità di identificare 1 unità e 2 unità) 
+        o mediatamente. 
+        Nel primo caso, si osserva direttamente che una costruzione prevista è bloccata; 
+        "non passa" (Brouwer 1907: 127 [1975: 73]). 
+        In quest'ultimo caso, si mostra che una proposizione A è contraddittoria riducendo A a una falsità nota, 
+        ad esempio, si mostra che A → 1 = 2 (Brouwer 1954A: 3). 
+        In pratica, si definisce ¬A: = A → 1 = 2 (e quindi ¬1 = 2 è visto come un caso particolare di A → A).
+
+        La nozione di "negazione come impossibilità" è nota come "negazione forte". 
+        Si parla di "negazione debole" di A per esprimere che finora non è stata trovata alcuna prova di A. 
+        Ciò non esclude né il trovare una prova di A né il trovare una prova di ¬A in un secondo momento. 
+        Chiaramente, quindi, affermare la negazione debole di A non significa assegnargli 
+        un valore di verità oltre a vero e falso; 
+        L'affermazione di Barzin ed Errera (vedere la sezione 4.3 di seguito) secondo cui 
+        il trattamento della negazione trasforma la logica di Brouwer in una logica a tre valori è priva di fondamento. 
+        La distinzione tra negazione debole e forte è importante per i cosiddetti "controesempi deboli".
+
+        2.4 Controesempi deboli ("inaffidabilità") e Terzo Escluso
+        Poiché le regole della logica operano su oggetti linguistici, e questi oggetti linguistici 
+        possono essere considerati separatamente dal contesto matematico preciso in cui hanno descritto una verità, 
+        è possibile applicare le regole della logica e ottenere nuovi oggetti linguistici 
+        senza fornire un contesto matematico preciso per quest'ultimo. 
+        In altre parole, i principi logici, che possono essere enunciati senza specificare il contesto 
+        in cui vengono applicati, e suggeriscono quindi indipendenza dal contesto, sono per la loro correttezza 
+        sensibili al contesto. 
+        Non vi è alcuna garanzia generale che i principi logici validi in un contesto siano ugualmente validi in un altro. 
+        Questo è ciò che Brouwer intende quando parla di "inaffidabilità dei principi logici", 
+        il titolo e il tema del suo articolo fondamentale Brouwer 1908C; vedere anche Brouwer 1949A: 1243.
+
+        In quel documento, Brouwer trae una conseguenza della sua visione generale sulla logica che aveva 
+        trascurato nella sua dissertazione: PEM, A∨¬A, non è valido. 
+        La sua validità costruttiva significherebbe che abbiamo un metodo che, per ogni A, o ci dà una costruzione per A, 
+        o mostra che una tale costruzione è impossibile. 
+        Ma non abbiamo un metodo decisionale così generale e ci sono molti problemi aperti in matematica. 
+        Brouwer afferma "Ogni numero è finito o infinito" come esempio di una proposizione generale per la quale 
+        finora non è stata trovata alcuna prova costruttiva. 
+        Di conseguenza, afferma, al momento è incerto se problemi come i seguenti siano risolvibili:
+
+            Nell'espansione decimale di π c'è una cifra che ricorre più spesso di ogni altra?
+            Nell'espansione decimale di π si verificano infinite coppie di cifre consecutive uguali? 
+                \b (Brouwer 1908C: 7 [van Atten & Sundholm 2017: 44])
+        
+        In effetti, Brouwer sta dicendo che possiamo affermare le deboli negazioni delle proposizioni 
+        espresse in queste domande; quindi, queste proposizioni sono i cosiddetti "controesempi di Brouwer" 
+        o "controesempi deboli" al PEM. 
+        Sulla lettura costruttiva del PEM, ovviamente qualsiasi problema ancora irrisolto 
+        è un debole controesempio del PEM. 
+        Brouwer iniziò a pubblicare deboli controesempi alla PEM su riviste internazionali 
+        solo molto più tardi (1921A, 1924N, 1925E).
+
+        Brouwer osserva nel documento del 1908 che il fatto che il PEM non sia valido 
+        non significa che sia falso: ¬ (A∨¬A) implica ¬A∧¬¬A, una contraddizione. 
+        In altre parole, ¬¬ (A∨¬A) è corretto. 
+        Brouwer conclude che è sempre coerente utilizzare PEM ma che non sempre porta alla verità. 
+        In quest'ultimo caso, l'argomento che fa appello alla PEM non stabilisce la verità, 
+        ma la coerenza della sua conclusione. 
+        Brouwer propone di dividere i teoremi che di solito sono considerati provati in quelli veri 
+        e quelli non contraddittori (Brouwer 1908C: 7n.2 [van Atten & Sundholm 2017: 44n.14]). 
+        Questo non significa che ci siano tre valori di verità, vero, non contraddittorio, falso; 
+        perché una proposizione non contraddittoria potrebbe essere provata un giorno e quindi diventare vera.
+
+        Un contesto matematico in cui PEM è valido, sottolinea Brouwer, è quello della questione 
+        se una data costruzione di carattere finito sia possibile in un dato dominio finito. 
+        In un tale contesto ci sono solo un numero limitato di tentativi possibili a quella costruzione, 
+        e ciascuno riuscirà o fallirà in un numero limitato di passaggi (per chiarezza, 
+        la frase qui non è quella di Brouwer 1908C ma quella di Brouwer 1955). 
+        Quindi per questi motivi vale A∨¬A, dove A è la proposizione che afferma che la costruzione esiste.
+
+        Brouwer ha attribuito la credenza nella validità generale della PEM a una proiezione ingiustificata 
+        di tali casi finiti (in particolare, quelli derivanti dall'applicazione della matematica finita 
+        ai fenomeni quotidiani) all'infinito. [6]
+
+        Nella sua dissertazione del 1907, Brouwer accettava ancora la PEM come tautologia, interpretando A∨¬A 
+        come ¬A → ¬A (Brouwer 1907: 131, 160 [1975: 75, 88]). [7] 
+        Curiosamente, si rese conto allo stesso tempo che non ci sono prove per il principio secondo cui 
+        ogni proposizione matematica è dimostrabile o confutabile (Brouwer 1907: 142n.3 [1975: 101]); 
+        questo principio è la lettura costruttivamente corretta di PEM. 
+        Nel documento del 1908, ha corretto la sua precedente comprensione della PEM:
+
+            Ora il principium tertii exclusi: questo esige che ogni supposizione sia corretta o errata, 
+            matematicamente: si può costruire quella di ogni supposto adattamento in un certo modo di sistemi 
+            l'uno nell'altro, sia la terminazione che il blocco per impossibilità. 
+            (Brouwer 1908C: 5 [van Atten & Sundholm 2017: 42])
+
+        2.5 Non ci sono proposte assolutamente indecidibili
+        Brouwer continua quest'ultima citazione come segue:
+        Ne consegue che la questione della validità del principium tertii exclusi equivale alla questione 
+        se possano esistere problemi matematici irrisolvibili. 
+        Non c'è un briciolo di prova per la convinzione, che a volte è stata avanzata 
+        [qui Brouwer si riferisce in una nota a Hilbert 1900] 
+        che non esistono problemi matematici irrisolvibili.
+
+        Qui sembra trascurare che, costruttivamente, c'è una differenza tra l'affermazione 
+        che ogni problema matematico è risolvibile 
+        e l'affermazione più debole che non ci sono problemi assolutamente irrisolvibili. 
+        Il primo è equivalente ad A∨¬A, il secondo a ¬¬ (A∨¬A); 
+        e Brouwer aveva dimostrato la validità intuizionistica di quest'ultimo nello stesso articolo. 
+        In effetti, nell'archivio Brouwer c'è una nota circa dello stesso periodo 1907-1908 in cui il punto è esplicitamente:
+        
+            Si può mai dimostrare di una proposizione, che non potrà mai essere decisa? 
+            No, perché bisognerebbe farlo per reductio ad absurdum. 
+            Quindi si dovrebbe dire: supponiamo che la proposizione sia stata decisa nel senso a, 
+            e da ciò dedurre una contraddizione. 
+            Ma poi sarebbe stato dimostrato che non-a è vero, e la proposizione è decisa dopotutto. 
+            (van Dalen 2001b: 174 n.a; traduzione mia)
+
+        Brouwer non ha mai pubblicato questa nota.
+        
+        Wavre nel 1926 ha fornito l'argomento per un caso particolare, 
+        vedendo chiaramente il punto generale:
+
+            Basta fare un esempio di un numero di cui non si sa se è algebrico o trascendente per dare 
+            allo stesso tempo un esempio di un numero che, fino a quando non arrivano ulteriori informazioni, 
+            non potrebbe essere né l'uno né l'altro. 
+            Ma, d'altra parte, sarebbe vano, mi sembra, voler definire un numero che in verità 
+            non è né algebrico né trascendente, 
+            poiché l'unico modo per dimostrare che non è algebrico consiste nel mostrare che 
+            è assurdo che sarebbe stato, e quindi il numero sarebbe trascendente. (Wavre 1926: 66; traduzione mia)
+
+        L'osservazione esplicita che ¬¬ (A∨¬A) significa che nessun problema assolutamente irrisolvibile 
+        può essere indicato è stata fatta in Heyting 1934: 16.
+
+    3. I successivi perfezionamenti e applicazioni di Brouwer, 1921-1955
+    3.1 L'interpretazione della prova implicita
+        Si possono fornire tre esempi che dimostrano che alla metà degli anni '20 Brouwer 
+        in pratica lavorò con il giudizio ipotetico e con la clausola di implicazione 
+        nella Proof Interpretation (che fu pubblicata più tardi): un'equivalenza nella logica proposizionale, 
+        la prova del bar teorema e la sua lettura degli assiomi di ordinamento.
+
+    3.1.1 Un'equivalenza nella logica proposizionale
+        In una conferenza del 1923, Brouwer presentò una prova di ¬¬¬A ↔¬A (Brouwer 1925E: 253 [Mancosu 1998: 291]). [8] 
+        Questa equivalenza è l'unico teorema nella logica proposizionale che Brouwer abbia mai pubblicato. 
+        L'argomento inizia sottolineando che A → B implica che ¬B → ¬A (perché ¬B è B → ⊥ e le due implicazioni possono essere composte perché il conseguente dell'una è l'antecedente dell'altra). Non sarebbe stato possibile per Brouwer fare questa inferenza se all'epoca tra le sue condizioni di prova di un'implicazione ci sarebbe stata una dimostrazione dell'antecedente, poiché allora una dimostrazione di A → B porterebbe a una dimostrazione di B e quindi rendere impossibile iniziare a stabilire la seconda implicazione dimostrando il suo antecedente ¬B.
+
+Successivamente, Brouwer sottolineò la seguente conseguenza della validità di ¬¬¬A↔¬A: il metodo di dimostrazione della reductio ad absurdum può essere utilizzato per stabilire proposizioni negative ¬A (Brouwer 1929A: 163 [Mancosu 1998: 52]). Perché se l'assunzione di ¬¬A porta ad una contraddizione, cioè a ¬¬¬A, l'equivalenza permette di semplificare quella a ¬A. D'altra parte, la reductio ad absurdum in generale non può essere usata per stabilire proposizioni positive A; la derivazione di una contraddizione dall'assunto ¬A porta solo a ¬¬A, che intuizionisticamente è più debole di A.
+
+3.1.2 La dimostrazione del teorema della barra
+Il teorema della barra di Brouwer è cruciale per l'analisi intuizionistica; per una spiegazione dettagliata delle nozioni coinvolte e della dimostrazione di Brouwer, vedere Heyting 1956 (cap. 3), Parsons 1967 e van Atten 2004b (cap. 4). Qui ci occuperemo piuttosto degli aspetti logici.
+
+La dimostrazione di Brouwer del teorema della barra del 1924 (versioni successive della dimostrazione apparvero nel 1927 e nel 1954) dimostra un'affermazione della forma "Se A è stato dimostrato, allora B è dimostrabile" (Brouwer 1924D1, 1927B, 1954A). Ciò evidentemente non è la stessa cosa di un'implicazione A → B intesa come trasformazione delle condizioni di prova di A in quelle di B, perché nel primo caso c'è l'informazione aggiuntiva che, per ipotesi, A è stata dimostrata. In altre parole, abbiamo, per ipotesi, una prova concreta di A a portata di mano. (Tuttavia, entrambi sono giudizi ipotetici nel senso che nessuno dei due richiede che abbiamo effettivamente dimostrato A.) ​​Potrebbe essere possibile sfruttare queste informazioni extra, e di seguito verrà indicato come Brouwer ha fatto questo. (Heyting nel 1956 scelse di definire l'implicazione in questo senso più forte; vedere la sezione 5.4 di seguito.)
+
+L'affermazione in questione può essere resa più specificamente come
+
+Se è stato dimostrato che l'albero T contiene un insieme di nodi che formano una barra, allora si può dimostrare che T contiene una barra che è ben ordinata. [9]
+
+Brouwer formula prima una condizione per ogni dimostrazione che può essere trovata della proposizione "L'albero T contiene una barra". Questa condizione è che qualsiasi dimostrazione di quella proposizione deve essere analizzabile in una certa forma canonica. Brouwer fornisce quindi un metodo per trasformare qualsiasi dimostrazione di questo tipo, analizzata in quella forma canonica, in una costruzione matematica che renda vera la proposizione "T contiene una barra ben ordinata", stabilendo così il conseguente. Questa strategia mostra chiaramente che la spiegazione operativa di Brouwer del significato di A → B era una versione della clausola (H3) dell'Interpretazione della prova come formulata nell'introduzione, se intendiamo "prova" in quella clausola come "dimostrazione".
+
+Per ottenere una forma canonica è necessaria una dimostrazione o una prova concreta dell'antecedente, sia esso reale o ipotetico. La ragione è che l'esistenza di una dimostrazione canonica di una proposizione A non può essere logicamente derivata dalle mere condizioni di prova di A, poiché la forma che tale dimostrazione canonica assume può dipendere da specifici dettagli non logici delle costruzioni matematiche di A.
+
+Nella dimostrazione di Brouwer del teorema bar, l'applicabilità del metodo di trasformazione a qualsiasi dimostrazione dell'antecedente è garantita dal fatto che la condizione su tali dimostrazioni che egli formula è una condizione necessaria. Brouwer ottenne questa condizione necessaria sfruttando il fatto che nella sua concezione gli oggetti matematici, quindi in particolare alberi e sbarre, sono oggetti mentali; questo apre la possibilità che la riflessione sul modo in cui questi oggetti e le loro proprietà sono costruiti negli atti mentali fornisca informazioni su di essi che possono essere utilizzate matematicamente, in particolare se queste informazioni consistono in vincoli a questi atti di costruzione. È così che Brouwer è arrivato alla sua forma canonica. In effetti, l'argomento di Brouwer per il teorema bar è un argomento trascendentale. Su altre concezioni della matematica tali considerazioni non devono essere accettabili, e in effetti non sono note prove del teorema della barra (classicamente valido) in altre varietà di matematica costruttiva (dove l'induzione della barra è accettata come assioma, una possibilità che Brouwer aveva anche suggerito (Brouwer 1927B: 63n.7 [van Heijenoort 1967: 460n.7]), o non accettato, come nella scuola di Markov).
+
+Per una discussione più dettagliata di questo argomento, vedere Sundholm e van Atten 2008.
+
+3.1.3 Ordinare gli assiomi
+Intorno al 1925, Brouwer introdusse la nozione di "ordinamento virtuale". Un ordinamento (parziale) <è virtuale se soddisfa i seguenti assiomi (Brouwer 1926A: 453):
+
+Le relazioni r = s, r <se r> s si escludono a vicenda.
+Da r = u, s = v e r <s segue u <v.
+Dal fallimento simultaneo delle relazioni r> se r = s segue r <s.
+Dal fallimento simultaneo delle relazioni r> se r <s segue r = s.
+Da r <se s <t segue r <t.
+In un corso di conferenza sui tipi di ordine nel 1925, di cui gli appunti di David van Dantzig sono conservati nell'archivio Brouwer, Brouwer ha commentato:
+
+Gli assiomi da II a V devono essere intesi in senso costruttivo: se le premesse dell'assioma sono soddisfatte, l'insieme virtualmente ordinato dovrebbe fornire una costruzione per la condizione d'ordine nella conclusione. (van Dalen 2008: 19)
+
+Questo è un chiaro esempio della clausola di implicazione nella Proof Interpretation. Si noti che Brouwer non ha incluso questa delucidazione nel documento pubblicato (1926A), né nelle presentazioni successive.
+
+3.2 Ampliare la portata dei deboli controesempi
+Come abbiamo visto sopra, nel documento del 1908 Brouwer aveva fornito deboli controesempi al PEM. Negli anni '20 Brouwer sviluppò una tecnica generale per costruire controesempi deboli che permise anche di ampliarne la portata e includere principi di analisi. Lo sviluppo iniziò nel 1921, quando Brouwer diede un debole controesempio alla proposizione che ogni numero reale ha un'espansione decimale (Brouwer 1921A). L'argomento è proseguito definendo numeri reali i cui sviluppi decimali dipendono da specifici problemi aperti riguardanti lo sviluppo decimale di π. Brouwer ha concluso osservando che, se questi problemi aperti fossero risolti, si possono definire altri numeri reali senza espansione decimale (Brouwer 1921A: 210 [Mancosu 1998: 34]). La tecnica generale fu resa esplicita in una conferenza del 1923 (Brouwer 1924N: 3 e nota 4 [van Heijenoort 1967: 337 e nota 5]) e raggiunse la sua perfezione con il metodo del "numero oscillatorio" nella prima conferenza di Vienna nel 1928 (Brouwer 1929A: 161 [Mancosu 1998: 51]). Il metodo prevede la riduzione della validità di un principio matematico alla risolvibilità di un problema aperto del seguente tipo: abbiamo una proprietà decidibile P (definita sui numeri naturali) per la quale non abbiamo finora mostrato né ∃xP (x) né ∀x¬P (x). Questa riduzione viene effettuata in modo tale da utilizzare solo il fatto che P induce un problema aperto di questo tipo, e non dipende dalla definizione esatta di P; cioè, se il problema aperto è risolto, si può semplicemente sostituirlo con un altro (dello stesso tipo), e esattamente la stessa riduzione funziona ancora. Questa uniformità significa che, fintanto che ci sono problemi aperti di questo tipo (e questo è praticamente certo in qualsiasi momento), non vi è alcuna prova intuizionistica del principio matematico generale in questione. Negli anni '20 Brouwer costruì deboli controesempi alle seguenti proposizioni matematiche generali, tra le altre (dove R sta per l'insieme dei numeri reali intuizionistici e Q per l'insieme dei razionali):
+
+Il continuum è totalmente ordinato (Brouwer 1924N)
+Ogni set è finito o infinito (Brouwer 1924N)
+Il teorema di Heine-Borel (Brouwer 1924N)
+∀x∈R (x∈Q∨x∉Q) (Brouwer 1925E)
+Qualsiasi due linee rette nel piano euclideo sono parallele, o coincidono o si intersecano (Brouwer 1929A)
+Ogni sequenza infinita di numeri positivi converge o diverge (Brouwer 1929A)
+
+3.3 Forti controesempi e soggetto che crea
+Un debole controesempio mostra che al momento non possiamo provare alcuna proposizione, ma in realtà non la confuta; in questo senso, non è un controesempio vero e proprio. Dal 1928 in poi, Brouwer escogitò una serie di forti controesempi a proposizioni classicamente valide, cioè dimostrò che queste proposizioni erano contraddittorie. Questo dovrebbe essere inteso come segue: se ci si attiene alla lettera del principio classico ma nella sua interpretazione si sostituiscono le nozioni intuizionistiche alle loro controparti classiche, si arriva a una contraddizione. Quindi i forti controesempi di Brouwer non sono più controesempi nel senso stretto del termine di quanto lo siano i suoi deboli controesempi (ma per una ragione diversa). Un modo per guardare a forti controesempi è che sono risultati di non interpretabilità.
+
+Che siano possibili forti controesempi ai principi classici è spiegato come segue. Come accennato, nella comprensione intuizionistica, la logica è subordinata alla matematica, mentre classicamente è il contrario. Quindi, se la matematica intuizionista contiene oggetti e principi che non figurano nella matematica classica, può accadere che la logica intuizionista, che poi dipende anche da questi elementi non classici, non sia parte propria della logica classica.
+
+Il primo forte controesempio di Brouwer è stato pubblicato in Brouwer 1928 A2, dove ha mostrato:
+
+¬∀x∈R (x∈Q∨x∉Q)
+Questo è un rafforzamento del corrispondente debole controesempio del 1923, ma l'argomento è completamente diverso. Il controesempio forte dipende dal teorema dell'analisi intuizionistica, ottenuto nel 1924 e perfezionato nel 1927, secondo cui tutte le funzioni totali [0,1] → R sono uniformemente continue. Gli elementi non classici in quel teorema sono la concezione del continuum come diffusione di sequenze di scelta, e il Teorema di Bar basato su di esso (per ulteriori spiegazioni di questa concezione, vedere Heyting 1956 (Cap.3) e van Atten 2004b (Chs .3 e 4)). [10]
+
+Dal 1948 in poi, Brouwer pubblicò anche controesempi basati sui cosiddetti "metodi di creazione dei soggetti". (Egli menziona in Brouwer 1948A che usa questo metodo nelle lezioni dal 1927.) La loro proprietà caratteristica è che fanno esplicito riferimento al soggetto che esegue le costruzioni matematiche, alla struttura temporale delle sue attività e alla relazione tra questa struttura alla nozione intuizionistica di verità. Questi metodi possono essere utilizzati per generare controesempi sia deboli che forti. (Nel precedente metodo del "numero oscillatorio" per generare deboli controesempi, il soggetto che lo crea non è esplicitamente indicato.)
+
+Utilizzando metodi di creazione di soggetti, Brouwer ha mostrato, ad esempio,
+
+¬∀x¬∀x∈R (¬¬x> 0 → x> 0) ∈R (x ≠ 0 → x <0∨x> 0) (Brouwer 1949A) (Brouwer 1949B)
+Gli argomenti effettivi che utilizzano questi metodi non introducono nuovi fenomeni logici in quanto tali: controesempi deboli e forti possono essere forniti anche con altri mezzi. Per il momento, rimandiamo alla letteratura per ulteriori dettagli: Brouwer 1949A, 1949B, 1954F; Heyting 1956: 117–120; Myhill 1966; Dummett 2000: 244–245. Ma notiamo qui un aspetto particolare di questo metodo. Sembra introdurre un'ulteriore nozione di negazione, accettando che, se è noto che il soggetto creatore non dimostrerà mai A, allora A è falso. Ma questo in realtà non è diverso dalla nozione di negazione come impossibilità. Euristicamente, questo può essere visto come segue: data la libertà che il soggetto creatore ha di costruire tutto ciò che può, l'unico modo per dimostrare che non può esserci momento in cui il soggetto dimostra A è mostrare che una dimostrazione di A stesso è impossibile . Una giustificazione effettiva del principio è questa: se il soggetto creatore mostra una proposizione A, lo fa in un particolare momento n; quindi, per contrapposizione, se è contraddittorio che esista un momento n in cui il soggetto dimostra A, allora A è contraddittorio. [11]
+3.4 La classificazione delle proposizioni
+In Brouwer 1955, i quattro casi possibili in cui può trovarsi una proposizione α in un determinato momento sono esplicitati:
+
+α è stato dimostrato essere vero;
+α si è dimostrato falso, cioè assurdo;
+α non è stato dimostrato né vero né assurdo, ma è noto un algoritmo che porta alla decisione o che α è vero o che α è assurdo;
+α non è stato dimostrato né vero né assurdo, né conosciamo un algoritmo che porti all'affermazione che α è vero o che α è assurdo.
+In una conferenza del 1951, Brouwer elenca solo i casi 1, 2 e 4 dall'elenco precedente, aggiungendo che il caso 3 "è ovviamente riducibile al primo e al secondo caso" (Brouwer 1981A: 92). Questa osservazione sottolinea un'importante idealizzazione consentita nella matematica intuizionista: possiamo fare l'idealizzazione che, una volta ottenuto un metodo di decisione per una proposizione specifica, ne conosciamo anche il risultato.
+
+Brouwer aggiunge anche che una proposizione per cui vale il caso 4 può ad un certo punto passare a un altro caso, o perché nel frattempo abbiamo trovato un metodo di decisione, o perché gli oggetti coinvolti nella proposizione α nel frattempo hanno acquisito ulteriori proprietà che consentono di prendere la decisione (come può accadere per le proposizioni sulle sequenze di scelta).
+
+3.5 Il punto di vista di Brouwer sul programma formalista e i teoremi di incompletezza di Gödel
+Nel 1908 Brouwer aveva dimostrato che ¬¬ (A∨¬A); nel 1923, quando il programma di Hilbert era in pieno svolgimento, questo risultato portò Brouwer a dire che "Non dobbiamo assolutamente disperare di raggiungere questo obiettivo [di una prova di coerenza per la matematica formalizzata]"; vedere la sezione 2.1 sopra per la quotazione completa. (All'epoca, Brouwer sospettava che ¬¬A → A fosse più debole del PEM; Bernays ha rapidamente corretto questa impressione in una lettera a Brouwer (Brouwer 1925E: 252n.4 [Mancosu 1998: 292n.4]).)
+
+Nel 1928 aggiunse a ciò la consistenza delle congiunzioni finite di istanze di PEM e considerò questi risultati "offrire un certo incoraggiamento" per il progetto formalista di una prova di coerenza (Brouwer 1928A2: 377 [Mancosu 1998: 43]). [12 ] L'affermazione più forte basata su questi risultati ha fatto alla fine della prima conferenza di Vienna del 1928:
+
+Un'appropriata meccanizzazione del linguaggio di questa matematica intuizionisticamente non contraddittoria dovrebbe quindi fornire esattamente ciò che la scuola formalista si è prefissata come obiettivo. (Brouwer 1929A: 164; traduzione mia)
+
+Ma, per le ragioni spiegate sopra, una tale dimostrazione di coerenza non avrebbe alcun valore matematico per Brouwer; e il meglio che un matematico classico può dire di fare, secondo la visione abbozzata da Brouwer, è di fornire prove di relativa coerenza.
+
+I teoremi di incompletezza di Gödel hanno mostrato che il Programma di Hilbert, nella sua forma più ambiziosa, non può avere successo. L'assistente di Brouwer Hurewicz ha discusso il teorema di incompletezza in un seminario (van Dalen 2005: 674n.7). Non ci sono commenti da Brouwer sul primo teorema di Gödel in stampa; d'altra parte, aveva chiaramente in mente il secondo teorema quando scrisse, nel 1952, quello
+
+La speranza originariamente nutrita dagli Antichi Formalisti che la scienza matematica eretta secondo i loro principi sarebbe stata coronata un giorno da una prova di non contraddittorietà, non è mai stata soddisfatta e, oggi, alla luce dei risultati di alcune indagini degli ultimi decenni , credo sia stato abbandonato. (Brouwer 1952B: 508)
+
+Hao Wang riferisce:
+
+Nella primavera del 1961 feci visita a Brouwer a casa sua. Ha discusso ampiamente su molti argomenti. Tra le altre cose ha detto di non ritenere che i risultati di incompletezza di G siano importanti quanto la formalizzazione del ragionamento intuizionistico di Heyting, perché per lui i risultati di G sono ovvi (ovviamente veri). (Wang 1987: 88) [13]
+
+Rispetto al primo teorema di incompletezza, la reazione di Brouwer è facilmente comprensibile. Già nella sua dissertazione aveva notato che la totalità di tutte le possibili costruzioni matematiche è "numericamente incompiuta"; con questo intendeva quello
+
+non possiamo mai costruire in modo ben definito più di un sottoinsieme numerabile di esso, ma quando abbiamo costruito un tale sottoinsieme, possiamo immediatamente dedurne, seguendo un processo matematico definito in precedenza, nuovi elementi che vengono conteggiati nell'insieme originale . (Brouwer 1907: 148 [1975: 82])
+
+E in uno dei quaderni che hanno preceduto la sua dissertazione, ha affermato che "La totalità dei teoremi matematici è, tra le altre cose, anche un insieme che è numerabile ma mai finito". [14]
+
+Infatti, secondo Carnap, era stato un argomento di Brouwer che aveva stimolato Gödel a trovare il primo teorema. In una nota di diario del 12 dicembre 1929, Carnap afferma che Gödel gli parlò quel giorno
+
+sull'inesauribilità della matematica (vedi foglio a parte) A questa idea fu stimolato dalla conferenza di Brouwer a Vienna. La matematica non è completamente formalizzabile. Sembra avere ragione. (Wang 1987: 84)
+
+Sul "foglio separato", Carnap annotò ciò che Gödel gli aveva detto:
+
+Ammettiamo come matematica legittima certe riflessioni sulla grammatica di un linguaggio che riguarda l'empirico. Se si cerca di formalizzare una tale matematica, allora con ogni formalizzazione ci sono problemi, che si possono comprendere ed esprimere nel linguaggio ordinario, ma non possono esprimere nel dato linguaggio formalizzato. Ne consegue (Brouwer) che la matematica è inesauribile: bisogna sempre attingere di nuovo alla “fonte dell'intuizione”. Non esiste, quindi, alcuna caratteristica universalis per l'intera matematica, e nessuna procedura decisionale per l'intera matematica. In ogni lingua chiusa ci sono solo molte espressioni numerabili. Il continuum appare solo in "tutta la matematica" ... Se abbiamo un solo linguaggio, e possiamo solo fare "delucidazioni" al riguardo, allora queste delucidazioni sono inesauribili, richiedono sempre di nuovo qualche nuova intuizione. (Come citato, in traduzione, in Wang 1987: 50)
+
+Questa registrazione contiene in particolare elementi della seconda delle due conferenze di Brouwer a Vienna, in cui si trova l'argomento a cui si riferisce Gödel: da un lato, il continuum completo è dato in intuizione a priori, mentre dall'altro non può essere esaurito da un linguaggio con numerosissime espressioni (Brouwer 1930A: 3, 6 [Mancosu 1998: 56, 58]).
+
+Il secondo teorema di incompletezza, d'altra parte, deve aver sorpreso Brouwer, dato il suo ottimismo negli anni '20 sul fatto che la scuola formalista raggiungesse il suo scopo di provare la coerenza della matematica classica formalizzata (vedi la citazione all'inizio di questa sottosezione).
+
+Nel suo ultimo articolo originale pubblicato (1955), Brouwer era, a suo modo, abbastanza positivo riguardo allo studio della logica classica. Dopo aver dimostrato che vari principi della tradizione algebrica in logica (ad esempio, Boole, Schröder) sono intuizionisticamente contraddittori, continua:
+
+Fortunatamente l'algebra classica della logica ha i suoi meriti ben distinti dalla questione della sua applicabilità alla matematica. Non solo come immagine formale della tecnica del pensiero sensoriale comune ha raggiunto un alto grado di perfezione, ma anche di per sé, come edificio del pensiero, è una cosa di eccezionale armonia e bellezza. Infatti, il suo successore, la sontuosa logica simbolica del Novecento, che attualmente solleva continuamente i problemi più accattivanti e fa le scoperte più sorprendenti e penetranti, è anch'essa in gran parte coltivata per se stessa. (Brouwer 1955: 116)
+
+3.6 La logica di Brouwer e la Grundlagenstreit
+La logica di Brouwer ha avuto un ruolo nel Grundlagenstreit (il dibattito fondativo) solo nella misura in cui questa logica potrebbe essere vista come un frammento della logica classica. La logica costruttiva in questo senso è stata un successo ed è diventata fondamentale anche per il programma di Hilbert. D'altro canto, i fenomeni specifici della piena concezione della logica di Brouwer, in particolare i forti controesempi, non hanno avuto alcun ruolo nel dibattito fondazionale. La ragione principale di ciò potrebbe essere che, nella loro dipendenza dalle sequenze di scelta, usano oggetti che non sono accettabili nella matematica classica. (Una questione più sottile è se sono accettabili nella matematica finitaria di Hilbert. Secondo Bernays, Hilbert non ha mai preso posizione sulle sequenze di scelta (Gödel 2003a: 279), e più in generale non ha mai letto gli articoli di Brouwer (van Dalen 2005: 637). [ 15]) Inoltre, Brouwer non ha annunciato l'esistenza di forti controesempi in modo forte o polemico; e quando, nel 1954, pubblicò finalmente (in inglese) un articolo dal titolo polemico - "Un esempio di contraddittorio nella teoria classica delle funzioni" - il Dibattito Fondamentale era, in senso sociale, finito da tempo. La logica e la matematica intuizioniste erano state ampiamente accettate nella misura in cui potevano essere viste come la parte costruttiva della matematica classica, mentre le innovazioni tipicamente intuizioniste venivano ignorate. Non sorprende, quindi, che la presentazione dei forti controesempi negli anni Cinquanta non abbia portato affatto a una riapertura del dibattito. Per ulteriori discussioni su questo argomento, vedere Hesseling 2003 e van Atten 2004a.

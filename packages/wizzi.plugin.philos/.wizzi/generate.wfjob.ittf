@@ -1,0 +1,70 @@
+wfjob wizzi-plugin-philos
+	
+	$
+		var ittf_models_folder  = path.join(__dirname, 'ittf', 'models');
+        var ittf_root_folder    = path.join(__dirname, 'ittf', 'root');
+		var ittf_lib            = path.join(__dirname, 'ittf', 'lib');
+		var ittf_examples       = path.join(__dirname, 'ittf', 'examples');
+		var ittf_tests          = path.join(__dirname, 'ittf', 'tests');
+		var dest_folder         = path.join(__dirname, '..', 'dist');
+
+	model pkg
+        export-name pkg
+		schema json
+		src ${ittf_models_folder}/pkg.json.ittf
+
+	line ittf-root
+		cwd-folder ${ittf_root_folder}
+		dest-folder ${dest_folder}
+
+		wfjob/any_js()
+			ignore ${ittf_root_folder}/**/*__copy.*/**/*.js.ittf
+		wfjob/any_json()
+		wfjob/any_md()
+		wfjob/any_text()
+		wfjob/.gitignore()
+		wfjob/any_plain(ps1)
+		wfjob/any_plain_d_ts()
+
+	line ittf-lib
+		cwd-folder ${ittf_lib}
+		dest-folder ${dest_folder}/lib
+
+		wfjob/any_js()
+			ignore ${ittf_lib}/**/*__copy/**/*.js.ittf
+
+		artifact any_ittf_inside___copy
+			src ${ittf_lib}/**/*__copy/**/*.ittf
+			extension ittf
+
+	line ittf-examples
+		cwd-folder ${ittf_examples}
+		dest-folder ${dest_folder}/examples
+
+		wfjob/any_js()
+			ignore ${ittf_examples}/**/*__copy/**/*.js.ittf
+
+		artifact any_ittf_inside___copy
+			src ${ittf_examples}/**/*__copy/**/*.ittf
+			extension ittf
+
+	line ittf-tests
+		cwd-folder ${ittf_tests}
+		dest-folder ${dest_folder}/tests
+
+		wfjob/any_js()
+			ignore ${ittf_tests}/**/*__copy/**/*.js.ittf
+
+		artifact any_ittf_inside___copy
+			src ${ittf_tests}/**/*__copy/**/*.ittf
+			extension ittf
+
+		$include wfjob/any_tests_ittf
+		$include wfjob/any_expected
+
+	production
+		dest-folder ${dest_folder}
+		line-ref ittf-lib
+		line-ref ittf-examples
+		line-ref ittf-root
+		line-ref ittf-tests

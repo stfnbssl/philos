@@ -1,0 +1,9 @@
+$group
+
+    concept freud.pulsione
+        + concetto limite tra somatico e psichico
+        + fonte, meta, oggetto
+        + la fonte della pulsione è di natura somatica,
+            \b si tratta di fenomeni organici generatori di tensioni interne
+            \b a cui il soggetto non può sfuggire
+        + la meta e l'oggetto della pulsione hanno un destino psichico

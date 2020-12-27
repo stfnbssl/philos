@@ -1,0 +1,25 @@
+v07/plugin/tests/withMonoRepoWizziFactory()
+
+    $append plugins
+        [ items
+            @ './index.js'
+        @ pluginsBaseFolder
+            _ path.resolve
+                @ __dirname
+                @ '..'
+
+	it-async should load a basic sample ittf document
+
+		var info 
+			_ getTestModelInfo
+				@ 'sample'
+				@ 'basic'
+
+        _ loadModelAndGenerateArtifact
+            @ info.ittfPath
+            {
+            @ 'sample/document'
+            f_cb_throw( artifactText )
+                _ info.writeResult(artifactText)
+                tobe_string_value( artifactText, info.expectedContent )
+                _ done

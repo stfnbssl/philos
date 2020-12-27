@@ -1,0 +1,27 @@
+$group
+
+    namespace lacan
+
+        concept topologia
+
+            quote
+                + [..] una pratica ‘topologica’ che ho conosciuto 
+                    \b quando mi sono avvicinato al “Campo freudiano” 
+                    \b e che ha contribuito a farmi scegliere l’approccio lacaniano. 
+                    \b È una pratica istituzionale della mancanza, 
+                    \b inventata nei primi anni settanta in Belgio da Antonio di Ciaccia, 
+                    \b nella clinica del bambini ‘gravi’, l’Antenne. 
+                    \b È un’istituzione psicoanalitica ‘bucata’: 
+                    \b al centro c’è un buco, non c’è il sapere della psicoanalisi, 
+                    \b che semmai può interessare gli operatori all’esterno.  
+                    \b All’interno non si fa psicoanalisi, ma si lavora  
+                    \b secondo la logica della psicoanalisi. 
+                    \b In un gioco metonimico di rinvio da operatore a operatore,  
+                    \b l’offerta al bambino tende a far sorgere 
+                    \b delle domande alle quali è imposta una circolarità. 
+                    \b Non c’è risposta che possa chiudere il movimento.  
+                    \b L’idea è che la circolazione delle domande 
+                    \b si faccia circolazione del desiderio, 
+                    \b che permetta al soggetto di produrre lui stesso 
+                    \b un sapere sul suo ‘buco’.
+                article sabbatini.lacan-presenza-assenza

@@ -1,0 +1,29 @@
+$group
+
+    script
+        type text/babel
+        module
+            function loadJSON
+                param jsonpath
+                param callback
+
+                var xobj = new XMLHttpRequest()
+                _ xobj.overrideMimeType("application/json")
+                _ xobj.open('GET', jsonpath, true)
+                set xobj.onreadystatechange
+                    function
+                        if xobj.readyState == 4 && xobj.status == "200"
+                            # .open will NOT return a value but simply returns undefined in async mode so use a callback
+                            _ callback(xobj.responseText)
+                _ xobj.send(null)
+
+            function compareById
+                param a
+                param b
+                if a.id < b.id 
+                    return -1
+                if a.id > b.id
+                    return 1
+                return 0
+
+

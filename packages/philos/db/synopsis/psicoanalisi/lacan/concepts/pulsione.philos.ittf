@@ -1,0 +1,243 @@
+$group
+
+    namespace lacan
+
+        concept pulsione
+            + La pulsione è in relazione con la domanda dell’Altro ($<>D) 
+                \b come una sceneggiatura 
+                \b che pur implicando un soggetto non lo designa direttamente.
+
+            + La pulsione è dell’ordine del significante.
+
+            quote
+                + I significanti che fissano – pietrificandola – 
+                    \b l’identità del soggetto 
+                    \b sono gli stessi che introducono nel corpo del soggetto 
+                    \b una quota di godimento 
+                    \b che innesca il movimento inerte della ripetizione.
+                book recalcati.la-clinica-psicoanalitica
+                page 275                    
+
+            quote
+                + [la questione della pulsione concerne] 
+                    \b ciò che disarticola il naturalismo dell’istinto.
+                    \b La pulsione ... non ha nulla di naturale”.
+                book recalcati.il-vuoto-e-il-resto
+                bax
+                    + passaggio fondamentale dalla razionalità perfetta e necessaria dell'inorganico,
+                        \b che ancora condiziona l'animale,
+                        \b alla libertà imperfetta dell'umano
+
+            quote
+                \b Lacan riflette sul senso delle coppie antitetiche 
+                \b – attività vs passività, sadismo vs masochismo, ecc.. – presenti nel discorso freudiano. 
+                \b L’analisi freudiana delle varie forme dei verbi, infatti, 
+                \b è fondamentale in quanto rappresenta il movimento proprio di andata-ritorno (aller-retour) 
+                \b tipico della pulsione. 
+                \b La pulsione non può essere separata da questo suo movimento, 
+                \b “dalla sua fondamentale reversione, dal suo carattere circolare”. 
+                \b Ed è proprio per rappresentare la circolarità della pulsione 
+                \b che Lacan disegna l’immagine di un vettore 
+                \b che attraversa una superficie piana con una base circolare.                        
+
+            concept spinta
+                quote 
+                    + La spinta, dice Freud, è “l’elemento motorio” della pulsione, 
+                        \b è la tendenza a scaricarsi di uno stimolo interno 
+                        \b che non deve essere inteso in senso biologico 
+                        \b ma piuttosto nel senso di uno stimolo come quello della fame o della sete. 
+                            bax perché lo stimolo della fame e della sete non è biologico?
+                        \b La spinta è ciò che tende all’annullamento della tensione, al suo azzeramento. 
+                        \b Lacan parla di un supplemento di energia, di un’eccitazione interna che deve essere scaricata. 
+                        \b Energia interna in quanto non si tratta dell’organismo nella sua totalità,
+                        \b dell’io, come luogo di tutte le identificazioni, 
+                        \b ma, bensì, del Real-Ich, cioè del vaso di fiori nascosto 
+                        \b che, nello schema ottico elaborato nella “Nota alla relazione di Daniel Lagache”, 
+                        \b contiene gli oggetti pulsionali – inteso come una superficie e, quindi, in senso topologico. 
+                        \b Alcuni elementi di questa superficie vengono investiti pulsionalmente, 
+                        \b in essi cioè si produce un’energia, un potenziale di energia che non si consuma, non diminuisce. 
+                        \b Freud, e con lui Lacan, mette in evidenza il fatto che la pulsione è una “forza costante” 
+                        \b – una Konstante Kraft.
+                        \b La spinta della pulsione, quindi, apre su qualcosa 
+                        \b che non persegue il principio di piacere 
+                        \b ma che va al di là del principio di piacere. 
+                        \b Tutto ciò ribadisce ancora una volta il carattere non-biologico della pulsione, 
+                        \b il fatto, cioè, che non si tratta di una forza che, come solitamente accade, si esaurisce 
+                        \b ma, bensì, di una forza inesauribile. 
+                        \b E in questo senso si può parlare della pulsione anche come di una domanda insaziabile.
+                    article succetti.la-pulsione-in-freud-e-in-lacan
+                    bax
+                        + c'è qualcosa di mitologico in questa interpretazione che non mi torna
+
+            concept meta
+                quote 
+                    + La meta, è il soddisfacimento – la Befriedigung – 
+                        \b che si realizza sopprimendo lo stato di stimolazione.
+                    book freud.pulsioni-e-loro-destini
+
+                quote 
+                    + La definizione di Freud entra in conflitto con il carattere non biologico della pulsione;
+                        \b in che modo la pulsione può soddisfarsi nella sublimazione e soprattutto nel sintomo? 
+                        \b Nel sintomo la soddisfazione si ottiene 
+                        \b seguendo sia le vie del piacere che quelle del dispiacere. 
+                        \b Per spiegare il senso di questa particolare soddisfazione, 
+                        \b Lacan fa riferimento alla categoria dell’impossibile che, 
+                        \b come egli sottolinea, è già presente in Freud. 
+                        \b L’impossibile corrisponde fondamentalmente al concetto di reale 
+                        \b così come è stato elaborato da Lacan; 
+                        \b per Freud, in particolare, il reale è ciò che, nella pulsione, 
+                        \b fa ostacolo al principio di piacere, ciò che, 
+                        \b proprio per questa sua alterità rispetto al principio di piacere, 
+                        \b ammette qualcosa di nuovo e cioè, dice Lacan, l'impossibile.
+                    article succetti.la-pulsione-in-freud-e-in-lacan
+
+            concept oggetto
+                quote 
+                    + L'aspetto dell’impossibile è presente anche nella definizione 
+                        \b che Freud dà dell’oggetto della pulsione. 
+                        \b L’oggetto, dice Freud, non ha alcuna importanza, è totalmente indifferente, irrilevante. 
+                        \b Il che significa che la pulsione, benché tenda alla propria soddisfazione, 
+                        \b non si soddisfa, di fatto, di alcun oggetto. 
+                        \b Per la pulsione orale, ad esempio, non si tratta tanto del cibo quanto, 
+                        \b piuttosto, del seno e, quindi, di un oggetto particolare 
+                        \b che mostra ancora una volta il carattere impossibile della soddisfazione stessa.
+                    article succetti.la-pulsione-in-freud-e-in-lacan
+
+            concept fonte
+                quote 
+                    + [è il] processo somatico che si svolge in un organo o parte del corpo 
+                        \b il cui stimolo è rappresentato nella vita psichica dalla pulsione
+                    book freud.pulsioni-e-loro-destini
+
+                quote
+                    + Alla definizione di Freud Lacan aggiunge l’idea secondo cui 
+                        \b le cosiddette zone erogenee sono contraddistinte dal fatto 
+                        \b di avere una struttura di bordo. 
+                        \b Per questo motivo egli parla della bocca (come fonte della pulsione orale), 
+                        \b dell’ano (come fonte della pulsione anale) 
+                        \b e non, invece, dello stomaco o dell’esofago. 
+                        \b Il margine, il bordo, quindi, è precisamente la fonte, 
+                        \b il punto da cui prende avvio un particolare tipo di pulsione.
+                    article succetti.la-pulsione-in-freud-e-in-lacan
+
+            concept campo
+                quote
+                    + [Freud dice molto semplicemente che l’esibizionismo è il contrario del voyeurismo 
+                        \b per delle] ragioni puramente grammaticali 
+                        \b d’inversione del soggetto e dell’oggetto 
+                    book lacan.seminario-XI
+                
+                quote
+                    + Lacan iscrive la pulsione nel campo dell’Altro nel senso che
+                    quote
+                        + la logica che comanda la pulsione non è una logica biologica-evolutiva 
+                            \b ma riguarda la dimensione significante della domanda
+                        book recalcati.il-vuoto-e-il-resto
+                    + le "ragioni puramente grammaticali" di cui parla Lacan 
+                        \b si riferiscono precisamente alla mancanza di “naturalità” 
+                        \b [..] che la pulsione aveva già nell’elaborazione freudiana.
+                    article succetti.la-pulsione-in-freud-e-in-lacan
+            
+            concept cammino
+                quote
+                    + il cammino della pulsione è l’unica forma di trasgressione 
+                        \b permessa al soggetto in relazione al principio di piacere
+                    book lacan.seminario-XI
+                    bax
+                        + trasgressione che significa potere godere anche del non piacere,
+                            \b ovvero del dolore, di ciò che fa soffrire
+
+            concept montaggio
+                + Aggiunto da Lacan ai quattro elementi evidenziati da Freud (fonte, spinta, meta, oggetto).
+                quote
+                    + [il montaggio pulsionale è qualcosa che] scatena una reazione più o meno appropriata
+                        \b [.. che ..] in primo luogo, si presenta come senza né coda né testa
+                        \b [e lo si deve intendere] nel senso di un collage surrealista
+                    book lacan.seminario-XI
+                
+                quote
+                    + Il montaggio sarebbe un movimento che parte da un punto d’inizio 
+                        \b per giungere a un punto d’arrivo e che produce, comunque, un qualche effetto. 
+                
+                quote
+                    + Nella pulsione non c’è barriera, non si verifica il funzionamento di barriera, 
+                        \b in quanto l’investimento pulsionale è interno al campo stesso. 
+                        \b In questo campo non funziona alcuna barriera perché, come aggiunge Lacan
+                    quote
+                        + [...] è precisamente nella misura in cui delle zone annesse, connesse, sono escluse 
+                            \b che delle altre assumono la loro funzione erogena, 
+                            \b che diventano delle fonti specifiche per la pulsione.
+                        book lacan.seminario-XI
+                    + Da questa frase si può cogliere, quindi, il carattere in un certo qual modo autistico 
+                        \b del godimento pulsionale in quanto 
+                        \b ogni parte del corpo può fare bordo attorno a sé.
+                    article succetti.la-pulsione-in-freud-e-in-lacan
+
+            r-concept lacan.oggetto-piccolo-a
+                quote
+                    quote
+                        + La tensione è sempre anello (boucle) 
+                            \b e non può essere scollegata (désolidarisée, qualcosa a cui è stata tolta la solidarietà, il sostegno) 
+                            \b dal suo ritorno sulla zona erogena
+                        book lacan.seminario-XI
+                    + Questo è, dunque, il movimento della pulsione : un ritorno circolare (en circuit) 
+                        \b che corrisponde ad un girare attorno all’oggetto piccolo a 
+                        \b senza poterlo mai raggiungere. 
+                    article succetti.la-pulsione-in-freud-e-in-lacan
+                
+                quote
+                    + Di fatto, che cos’è questo oggetto piccolo a 
+                        \b attorno a cui la pulsione gira – se così si può dire – a vuoto? 
+                        \b L’oggetto piccolo a ha una funzione specifica, 
+                        \b cioè la funzione di essere causa del desiderio. 
+                        \b Tutti gli altri oggetti, invece, 
+                        \b sono contraddistinti dal fatto che nessuno di essi soddisfa mai completamente la pulsione. 
+                        \b Ed è proprio per fare un esempio dell’oggetto della pulsione 
+                        \b che Lacan riporta l’immagine dell’autoerotismo descritta da Freud: una bocca che si bacia. 
+                        \b In questo caso si vede bene che l’oggetto non è l’altra bocca 
+                        \b ma, piuttosto, nei termini stessi di Lacan, la “presenza di un cavo, di un vuoto, 
+                        \b occupabile, ci dice Freud – da qualsiasi altro oggetto”, 
+                        \b in quanto oggetto piccolo a. 
+                        \b L’oggetto piccolo a, cioè, entra nella dinamica della pulsione orale 
+                        \b proprio perché nessun cibo può soddisfarla. 
+                        \b Lo stesso vale per le altre pulsioni che, comunque, come sottolinea Lacan, 
+                        \b non rappresentano in alcun modo una sorta di evoluzione biologico-naturalistica 
+                        \b (la pulsione anale, cioè, non rappresenta un’evoluzione rispetto a quella orale, ecc.). 
+                        \b Ciò che contraddistingue tutte le pulsioni, invece, 
+                        \b è la presenza di una forza costante – come diceva Freud -, 
+                        \b di una tensione stazionaria. 
+                        \b L’immagine freudiana dello Schub (la spinta) 
+                        \b rappresenta la pulsione come una colata di lava, 
+                        \b come – e qui cito Lacan – 
+                    quote
+                        + qualcosa che esce da un bordo,
+                            \b che ne raddoppia la struttura chiusa, 
+                            \b seguendo un tragitto che fa ritorno “ (SEM. XI, p. 165) 
+                    + e che gira attorno all’oggetto. 
+                        \b Per questo motivo, nel voyeurismo, ad esempio, 
+                        \b l’oggetto non è ciò che si vede 
+                        \b ma piuttosto lo sguardo in quanto oggetto perduto 
+                        \b e, in seguito, ritrovato grazie all’intervento dell’altro. 
+                        \b Ciò che il voyeur cerca di vedere, in effetti, 
+                        \b- dice ancora Lacan – “ non è ..... il fallo ma precisamente la sua assenza”. 
+                        \b Si capisce bene, allora, come mai Lacan abbia sottolineato il carattere grammaticale, 
+                        \b dell’analisi freudiana della pulsione. 
+                        \b Così come la catena significante è costituita fondamentalmente dall’opposizione presenza-assenza, 
+                        \b analogamente il movimento di andata-ritorno costitutivo della pulsione 
+                        \b sembra essere soggetto alle medesime leggi di struttura. 
+                        \b In effetti, se ci si sofferma sull’affermazione di Lacan secondo cui 
+                        \b “..se, grazie all’introduzione dell’altro, la struttura della pulsione appare, 
+                        \b questa si completa realmente solo nella sua forma ribaltata, 
+                        \b nella sua forma di ritorno che è la vera pulsione attiva” (SEM. XI, p. 166), 
+                        è difficile non vedere sullo sfondo il movimento del desiderio 
+                        così come è stato rappresentato da Lacan nella cellula elementare del grafo del desiderio 
+                        (nello scritto “Sovversione del soggetto e dialettica del desiderio” (nota 7)). 
+                        In questo senso è senza alcun dubbio illuminante una frase che Jacques-Alain Miller 
+                        ha pronunciato durante una sua conferenza che si è tenuta a Los Angeles. 
+                        Il testo della conferenza è stato pubblicato nella rivista La Cause freudienne 
+                        con il titolo “Les paradigmes de la jouissance” (nota 8). 
+                        Nel testo, di cui si trova una traduzione anche nel numero 26 de La Psicoanalisi, 
+                        J.-A. Miller enuclea sei diversi paradigmi presenti nella dottrina lacaniana del godimento. 
+                        Nel quarto paradigma, intitolato “Il godimento normale”, J.-A. Miller, 
+                        riferendosi al godimento pulsionale, dice che esiste                    
+

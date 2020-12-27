@@ -1,0 +1,14 @@
+$group
+    author Fröbel
+        fullname Friedrich Fröbel
+        born
+            date 21/4/1782
+            place Oberweißbach/Thür. Wald, Germania
+        died
+            date 21/6/1852 
+            place Mariental, Germania
+        + Pedagogista tedesco. Definito il "pedagogista del Romanticismo" è universalmente noto per aver creato e messo in 
+            \b pratica il concetto di Kindergarten. Con i Giardini di Infanzia inizia un nuovo modo di concepire, vedere ed educare 
+            \b la natura infantile. Wikipedia
+        concept giardino d'infanzia
+            alias Kindergarten

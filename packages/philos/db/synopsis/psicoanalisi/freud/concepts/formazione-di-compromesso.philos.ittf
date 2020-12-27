@@ -1,0 +1,17 @@
+$group
+
+    namespace freud
+
+        concept formazione-di-compromesso
+            quote
+                + [..] ma ciò che come rappresentazione e affetto ossessivi si fa cosciente, 
+                    \b sostituendo per la vita cosciente il ricordo patogeno, 
+                    \b costituisce formazione di compromesso 
+                    \b tra le rappresentazioni rimosse e quelle rimoventi.
+                kindle-page 8035 
+                article freud.l-uomo-dei-topi
+            r-concept freud.sintomo
+            r-concept freud.sogno
+            r-concept freud.atto-mancato
+            r-concept freud.ricordo-di-copertura
+

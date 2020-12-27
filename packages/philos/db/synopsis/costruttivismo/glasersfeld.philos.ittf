@@ -1,0 +1,11 @@
+$group
+    author Glasersfeld
+        name Ernst von Glasersfeld
+        born
+            date 8/3/1917 
+            place Monaco di Baviera, Germania
+        died
+            date 12/11/2010
+            place Leverett, Massachusetts, Stati Uniti
+        approach costruttivismo
+        approach costruttivismo radicale

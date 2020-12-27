@@ -1,0 +1,22 @@
+$group
+
+    source
+        url https://link.springer.com/article/10.1007/s12304-011-9116-2
+        title Manipulating Representations
+        author Angelo N. M. Recchia-Luciani
+
+        $$ Consciousness Versus Awareness
+        concept linguistic symbol
+            + is – as an abstract concept – a word defined by other words 
+            quote
+                author Marcel Danesi
+                + the act of defining implies circularity; 
+                    \b the sign as single form can bear meaning only 
+                    \b by entering into systematic connections with other forms 
+                book
+                    edition 2008
+                    page 292
+
+        concept meaning-attribution
+            + is inherently dynamic, situated, contextual, negotiated. 
+            + non-ambiguous definitions are often difficult

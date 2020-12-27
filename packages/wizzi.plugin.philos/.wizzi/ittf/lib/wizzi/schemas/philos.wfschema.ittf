@@ -1,0 +1,38 @@
+wfschema philos
+
+    preserve-tags false
+    mtree-is-preprocessed true
+    $$ unknown-element-replacer item
+
+    export-to json
+    $$ export-to xml
+    $$ export-to prettify
+
+	e item
+		a value
+        r item/s
+
+	e philos : item
+		is-root
+		r item/s
+
+    e fullname : item
+    e alias : item
+    e date : item
+    e year : item
+    e period : item
+    e place : item
+    e source : item
+    e url : item
+    e title : item
+    e description : item
+    e ref : item
+    e from : item
+    e to : item
+    e extends : item
+    e exports : item
+
+	philos/author()
+    philos/school()
+    philos/concept()
+    philos/writings()

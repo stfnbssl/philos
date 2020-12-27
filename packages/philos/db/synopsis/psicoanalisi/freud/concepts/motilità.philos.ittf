@@ -1,0 +1,8 @@
+$group
+
+    namespace freud
+
+        concept motilità
+            quote
+                + [..] la motilità, vale a dire ciò che immediatamente dà luogo al mutamento interno del corpo, 
+                    \b era la via di cui disponeva per la scarica.

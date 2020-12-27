@@ -1,0 +1,37 @@
+$group
+    author Wundt
+        fullname Wilhelm Wundt
+        born
+            date 16/8/1832
+            place Mannheim, Germania
+        died
+            date 31/8/1920
+            place Großbothen, Grimma, Germania
+        
+        approach psicologia scientifica
+            + l'introspezione va esercitata su contenuti psichici semplici e precisamente 
+                \b quelli che insorgono nella coscienza del soggetto in situazioni appropriate (quelle del laboratorio) con 
+                \b la somministrazione di stimoli opportunamente scelti in base alle loro proprietà fisiche. 
+            + i processi psichici superiori (il pensiero, per es.) non possono essere colti dall'indagine sperimentale 
+                \b e Wundt ne tratterà, in un'ottica di evoluzionismo sociale e culturale, nella sua Völkerpsychologie, 
+                \b dove prenderà altresì in considerazione lingua, mito, costumi, ecc., sintetizzando i risultati 
+                \b delle indagini etnografiche, filologiche, linguistiche e storico-religiose del suo tempo. 
+
+        approach parallelismo psicofisico
+            + esistono due serie parallele di fenomeni, quelli fisici in generale e quelli psichici, che si rivelano 
+                \b all'introspezione
+            
+        contribution-to
+            field psicologia sperimentale
+            + fece vaste ricerche su: processi sensoriali - sulla visione in specie -, determinazione di soglie percettive, 
+                \b associazione, cronometria, tempi di reazione (al fine d'individuare la durata dei singoli processi psichici, 
+                \b come discriminazione, decisione, ecc...)
+            
+        contribution-to
+            field filosofia
+            approach positivismo
+            approach idealismo spiritualistico
+            approach volontarismo
+            + pur accogliendo la concezione, propria del positivismo, del sapere filosofico come sistemazione delle conoscenze 
+                \b fornite dalle singole scienze, pervenne a una sorta di idealismo spiritualistico, con una particolare accentuazione 
+                \b della nota volontaristica              

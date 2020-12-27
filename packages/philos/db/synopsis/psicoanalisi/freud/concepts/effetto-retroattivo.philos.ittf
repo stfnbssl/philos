@@ -1,0 +1,40 @@
+$group
+
+    namespace freud
+
+        concept effetto-retroattivo
+            title effetto retroattivo
+            alias risignificazione a posteriori
+            alias Nachträglicheit
+            
+            + indica la tendenza dell’apparato psichico a 
+                \b ridefinire a posteriori il significato di eventi passati, 
+                \b avvenuti in epoche nelle quali la mente non era ancora in grado 
+                \b di conferire loro un senso adeguato. 
+            
+            example
+                + esempio classico è quello di una molestia sessuale subita da un bambino, 
+                    \b che prende il suo significato di seduzione e violenza 
+                    \b solo anni dopo l’evento reale. 
+                + altro caso è quello di un trauma precoce 
+                    \b – per es., la morte di una persona cara – 
+                    \b verificatosi in epoca preverbale, 
+                    \b che assume un senso memorizzabile solo in seguito a 
+                    \b un nuovo evento attuale minore, per es. una separazione, 
+                    \b il quale – grazie alla raggiunta maturità psichica e 
+                    \b all’elaborazione del momento attuale – 
+                    \b si carica di tutto il dolore di un lutto a suo tempo non vissuto. 
+            
+            + così il passato determina il presente, 
+                \b ma a sua volta il presente può determinare il passato, 
+                \b corredandolo di rappresentazioni e costituendolo di significato. 
+            
+            r-concept freud.transfert
+                + nella situazione della terapia psicoanalitica il transfert (➔) stesso, 
+                    \b d’altronde, è intriso di memorie inconsapevoli: 
+                    \b si agiscono nel rapporto con lo psicoanalista 
+                    \b schemi relazionali di antiche passioni, 
+                    \b invece di ricordarle ed è il gioco di transfert e controtransfert 
+                    \b che può non solo modificare il presente e il futuro, 
+                    \b ma gettare nuova luce sul passato. 
+

@@ -1,0 +1,35 @@
+$group
+
+    book lacan.seminario-VI
+        author Lacan
+        title Seminario. Libro VI. Il desiderio e la sua interpretazione.
+        written 1958-1959
+        edition Torino: Einaudi, 2016
+        
+        index
+            + Introduzione.
+            + Sul desiderio nel sogno.
+            + Su un sogno analizzato da Ella Sharpe.
+            + Sette lezioni su Amleto.
+            + La dialettica del desiderio.
+            + Conclusione e ouverture.
+            + Allegati: Marginalia del Seminario sul desiderio di Jacques-Alain Miller. 
+            + Avvertenza del curatore dell'edizione italiana. 
+            + Indice dei nomi.
+        
+        back-cover
+            + Il desiderio e la sua interpretazione è il titolo che Lacan diede al suo seminario nel 1958-59. 
+                \b Da allora ‘desiderio’ è diventato un termine sempre piú familiare, 
+                \b in un certo senso rimpiazzando i termini classici della psicoanalisi, come libido e pulsione. 
+                \b Che cos’è una psicoanalisi? 
+                \b È leggere, ossia interpretare, nel sintomo causa di sofferenza, 
+                \b il messaggio occulto che vi ha depositato il desiderio inconscio. 
+                \b Questo desiderio non coincide affatto con quello che si vuole o si crede di volere. 
+                \b Molte volte le analisi iniziano proprio quando il soggetto si rende conto 
+                \b che c’è una scissione tra il suo volere cosciente e il suo desiderio inconscio.
+
+        review
+            author Succetti
+            title Desiderio e volontà nel Seminario VI di Jacques Lacan
+            url https://medium.com/psicoanalisi-lacaniana/desiderio-e-volont%C3%A0-nel-seminario-vi-di-jacques-lacan-sezione-clinica-di-milano-15-settembre-13-93cecf19e936
+                

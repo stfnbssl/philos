@@ -1,0 +1,23 @@
+{
+	name "wizzi.plugin.philos"
+	version "0.0.1"
+	description "Wizzi plugin package for database of philosophical items"
+	{ author
+        name  "Stefano Bassoli"
+        email "stfn.bssl@gmail.com"
+    { github
+        userId "stfnbssl"
+    { license
+        name "MIT"
+        copy "stfn.bssl - 2020"
+    
+    { Schema
+        [ items
+            {
+                name "philos"
+                [ artifactGenerators
+                    {
+                        name "document"
+                [ modelTransformers
+                    {
+                        name "extended"

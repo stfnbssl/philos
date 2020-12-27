@@ -1,0 +1,25 @@
+$group
+
+    namespace lacan
+
+        concept libido
+            quote
+                + [..] la teoria dell’immaginario non è una teoria puramente immaginaria 
+                    \b in quanto, sin dalla sua originaria elaborazione, 
+                    \b i raggi riflessi che giocano tra i diversi specchi sono da leggere come raggi carichi di libido. 
+                    \b [..] L’immaginario pertanto è d’emblèe una teoria del godimento 
+                    \b e il godimento è d’emblèe il godimento dell’immagine. 
+                    \b Ci vorrà del tempo perché il godimento diventi il godimento del reale.
+                    \b Fino al Seminario VII, come ci ha fatto notare Jacques Alain Miller, 
+                    \b è l’immagine che realizza il godimento.     
+                article licitra.lezioni-sull-angoscia                   
+
+            quote
+                + Freud afferma che, se la libido è un’energia che fluisce e defluisce, 
+                    \b siamo obbligati a pensare un serbatoio in cui questa è contenuta. 
+                    \b È in qualche modo tale concezione per così idraulica della libido che impone necessariamente, 
+                    \b come in ogni circuito idraulico, l’esistenza di un serbatoio.
+                    \b Quale sarebbe dunque il serbatoio della libido? 
+                    \b Qui Freud dà due risposte distinte: 
+                    \b nel 1914, l’anno di Introduzione al narcisismo, afferma chiaramente che il serbatoio è l’Io stesso, 
+                    \b mentre nel 1922, l’anno de L’Io e l’Es, affermerà che il serbatoio è l’Es.

@@ -1,0 +1,1074 @@
+$group
+
+    $$Introduzione
+    
+    field semiotica
+        approach strutturalismo
+            + per DeSaussure il linguaggio umano è un sistema di segni che ha come obiettivo primario
+                \b quello di comunicare contenuti e, per analogia, ha una somiglianza naturale con altri sistemi di segni
+            + la linguistica è collocata all'interno del più ampio settore della semiotica,
+                \b scienza dei vari sistemi di segni
+            + il linguaggio umano è un sistema di segni che ha come obiettivo primario
+                \b quello di comunicare contenuti e, 
+                \b per analogia, ha una somiglianza naturale con altri sistemi di segni.
+                \b Questa prospettiva colloca quindi la linguistica 
+                \b all'interno del più ampio settore della semiotica, scienza dei vari sistemi di segni.
+                quote
+                    author DeSaussure
+                    + essa [la lingua] è solo il più importante di tali sistemi [di segni] 
+                    book
+                        edition 1968 [1916]
+                        page 252
+            + il linguaggio è uno strumento sociosemiotico, 
+                \b da studiare in comparazione con altri sistemi di comunicazione
+
+    field grammatica generativa
+        author Chomsky
+        + studio generativista del linguaggio naturale
+        + il linguaggio umano ha caratteristiche strutturali che, 
+            \b sono indipendenti dalla sua qualsivoglia funzione
+        + il linguaggio umano ha caratteristiche idiosincratiche, 
+            \b come la ricorsività, la struttura sintagmatica o i tratti grammaticali
+        
+        concept ricorsività
+        
+        concept struttura sintagmatica
+        
+        concept tratti grammaticali
+    
+        article 
+            title Human Language and Other Semiotic Systems
+            edition 1979
+            quote
+                + [le prime questioni di cui ci si dovrebbe preoccupare]
+                    \b sono: cos'è il linguaggio umano e cosa sono gli altri linguaggi, 
+                    \b quali sono le differenze e come studiarli in quanto fenomeni 
+                page 429-30 
+
+        + se possiamo intendere i vari codici semiotici come sistemi comunicativi, 
+            \b la differenza sostanziale con il linguaggio umano sta nelle 
+            \b sue caratteristiche strutturali che, secondo la teoria chomskyana,
+            \b sono indipendenti dalla sua qualsivoglia funzione
+
+        book
+            author Chomsky
+            edition 1965
+        quote
+            + […] Il compito principale della teoria linguistica deve essere di sviluppare un elenco di
+                \b universali linguistici che, da un lato, non sia poi smentito dalla concreta diversità delle
+                \b lingue e, dall’altro, sia sufficientemente ricco ed esplicito da spiegare la rapidità e
+                \b l’uniformità dell’apprendimento linguistico, e la notevole complessità e portata delle
+                \b grammatiche generative che dell’apprendimento linguistico sono il prodotto.
+            page 27-28
+
+        + il linguaggio è una specifica facoltà cognitiva, da analizzare
+            \b congiuntamente ai suoi correlati psicologici e neurologici, 
+            \b posizionando la linguistica come una branca della psicologia cognitiva
+
+        + guardare al linguaggio da un punto di vista essenzialmente interno
+        
+        quote
+            author Chomsky
+            edition 1957
+            + [una lingua è] un insieme (finito o infinito) di frasi, 
+                \b […] costruite da un insieme finito di elementi
+            comment 
+                + la stessa definizione, proveniente da Wilhelm von Humboldt,
+                    \b viene ripresa nell’introduzione de Il Programma Minimalista (Chomsky 1995) 
+                    
+        approach minimalismo
+            parent grammatica generativa
+            + costituisce lo sviluppo più recente della teoria generativa
+            + rimarca ancora di più le distanze dallo strutturalismo: 
+                \b tutti i fattori, ad esempio, relativi alla variazione delle lingue, 
+                \b o qualunque altro fenomeno esterno, 
+                \b inclusa l’arbitrarietà saussuriana (del lessico), 
+                \b sarebbero da attribuire solo alla manifestazione superficiale delle lingue 
+                \b e non al sistema sottostante (interno) della grammatica universale (1995: ix-xi),
+                \b che dovrebbe essere, invece, l’interesse primario della teoria linguistica.
+
+        Lo studio del sistema linguistico interno è sempre stato molto astratto perché si riteneva che
+        le indagini empiriche e sperimentali non potessero contribuire in modo sostanziale alla ricerca sulla
+        natura fondamentale del linguaggio; oggi, però, la linguistica generativa può contare moltissimo, ad
+        esempio, sulle neuroscienze per quanto riguarda fattori neurobiologici decisivi (come, ad esempio,
+        l'analisi della reazione del nostro cervello in risposta a stimoli agrammaticali) e, addirittura, si
+        richiama anche ad analisi sperimentali che comparino i sistemi cognitivi di altri animali a quello
+        umano, con lo scopo di gettare luce sulle strutture bio-cognitive che ci differenziano dagli altri primati
+        (Berwick et al. 2013: 8). 
+
+        field biolinguistica
+            + la grammatica generativa si accosta sempre di più alla biolinguistica, 
+                \b lo studio dell'origine evoluzionistica del linguaggio, 
+                \b prima considerato quasi un taboo nella ricerca.
+        
+        + la linguistica teorica odierna 
+            viene quindi inserita dapprima all'interno dell'ambito cognitivista e poi, a sua volta, 
+            posizionata comodamente all'interno di un quadro concettuale eminentemente biologico 
+            (si veda Boekxs (2006: 125-30) per un interessante elenco di analogie 
+                a favore del paragone tra linguistica e biologia). 
+
+        Le cause di questo dislocamento della posizione 
+        delle scienze del linguaggio nella ricerca attuale 
+        sono da rintracciarsi nell'intenzione, 
+        peraltro espressa già dagli inizi della grammatica generativa, 
+        di analizzare e spiegare il fenomeno del linguaggio come un "oggetto naturale", 
+        all'interno di un "approccio alla mente che considera il linguaggio ed altri
+            fenomeni similari come elementi del mondo naturale, 
+            da studiare con ordinari metodi di ricerca empirica" 
+        e dove "mentale" ha un significato simile a "chimico", "ottico" o "elettrico" 
+        (Chomsky 2000: 106).
+
+        distanza dalla concezione saussuriana
+            se in quest'ultima il linguaggio viene accostato per analogia ad altri sistemi di segni semiotici, 
+            Chomsky, invece, per giustificare il suo approccio opera confronti con altri fenomeni empirici, 
+            di fatto allontanando la grammatica generativa dalle altre branche della linguistica 
+            e ponendola in diretta dipendenza delle scienze naturali. 
+        
+        Questo si conforma anche alle tendenze delle più ampie aree filosofiche 
+        a cui questi due approcci fanno riferimento: 
+        lo strutturalismo avrà un ruolo fondamentale nella filosofia continentale del linguaggio,
+        mentre la grammatica generativa principalmente nella filosofia analitica.
+
+        $$ L’architettura del sistema linguistico
+        Nella tradizione generativista si sono succeduti vari modelli teorici 
+        con lo scopo di rappresentare i processi e i meccanismi della grammatica universale, 
+        a partire dal primo modello proposto in Syntactic Structures, 
+        seguito da quello di Aspects of the Theory of Syntax, 
+        poi Lectures on Government and Binding, 
+        per giungere al modello più recente ed attualmente in uso, 
+            sottoforma di un rinnovato programma di ricerca definito minimalismo 
+            note
+                + Si veda Jackendoff (2003) per un interessante confronto dei modelli della grammatica generativa, 
+                    \b sebbene ne critichi il sintattocentrismo.
+
+        La caratteristica più saliente della teoria attuale 
+        è l'eliminazione di molti elementi, 
+        fra cui i livelli di struttura profonda e struttura superficiale,
+        che avevano caratterizzato la teoria chomskyana fin dall'inizio, 
+        in favore dei concetti di I-Language (linguaggio interno) e di E-Language (linguaggio esterno), 
+        la riduzione della struttura X-Barra, che comporta rappresentazioni ad albero più semplici, e, 
+        soprattutto, la centralità dell'operazione di Salda (Merge), 
+        espressione della ricorsività pura, 
+        per l'assemblaggio delle strutture sintagmatiche a partire dal lessico. 
+        
+        Si stabilisce che il vero e proprio sistema linguistico è la sintassi, 
+        definita sistema computazionale, 
+        che interagisce con due sistemi esterni, semantica e fonologia, 
+        per generare significato e struttura fonetica della frase. 
+        
+        Di seguito si spiega più dettagliatamente il funzionamento dei tre sistemi, 
+        concludendo con alcune osservazioni epistemologiche sul programma di ricerca.
+
+        concept sistema computazionale
+            alias sintassi
+            + ricopre il ruolo centrale nel sistema del linguaggio descritto dal minimalismo
+                \b poiché è in essa che si manifesta il meccanismo fondamentale della ricorsività 
+                \b (su cui si tornerà nel capitolo seguente). 
+            concept ricorsività
+                + sembra costituire quella che Chomsky definisce come ‘computazione minimale’, 
+                    la ‘proprietà di base’, la più semplice operazione logica per 
+                    la creazione di una nuova struttura (un sintagma) 
+                    a partire da due elementi preesistenti. 
+                Secondo l'ipotesi del ‘minimalismo forte’ è forse la unica proprietà specifica 
+                    che distingue il linguaggio da altre facoltà cognitive (Chomsky 1995: ix). 
+                Essa si realizza in quella che viene chiamata operazione di Salda, 
+                    che agisce così: 
+                    dati due elementi {casa} e {rossa}, 
+                    l'operazione forma un nuovo oggetto sintattico, {casa rossa} 
+                    risultato dalla fusione dei due precedenti. 
+                Salda è un'operazione binaria, nel senso che agisce sempre su due elementi, 
+                ed è gerarchica poiché i costituenti così formati sono asimmetrici. 
+                A {casa rossa} si può saldare il nuovo elemento {la}, 
+                ottenendo {la {casa rossa}}. 
+                Questa operazione si può riapplicare su sé stessa un numero potenzialmente infinito di volte 
+                grazie alla capacità ricorsiva.
+                
+                Fatta questa premessa, iniziamo con il descrivere le fasi del processo di generazione di una frase. 
+                Prima di tutto, il sistema computazionale della sintassi accede al lessico mentale 
+                e preleva i lessemi necessari per costruire l'enunciato. 
+                Questa operazione si chiama ‘Numerazione’. 
+                Una volta raccolto l'insieme dei lessemi necessari, 
+                si passa al secondo passaggio, detto ‘Selezione’; 
+                qui l'operazione Salda seleziona due elementi da quelli all'interno dell'insieme e li unisce. 
+                Una volta formato questo nuovo costituente, 
+                ne sceglie un altro e lo unisce al precedente, 
+                e così via finché non terminano i lessemi numerati all'origine. 
+                È importante precisare che in questo particolare stato del processo, 
+                i lessemi non hanno ancora la forma di parole vere e proprie 
+                ma sono semplicemente insiemi di tratti (morfo-sintattici, fonologici, semantici), 
+                poiché la sintassi computa i tratti, unità astratte, non parole o morfemi 
+                    note
+                        + Per una sintesi del funzionamento del sistema, 
+                            con descrizione accurata della derivazione divisa in step, 
+                            si veda Adger (2003: 13-17)
+                Una volta che la struttura della frase è stata ultimata, 
+                in una forma gerarchica, non lineare,
+                questa espressione necessita di essere mandata ai due sistemi esterni: 
+                il sistema concettuale e il sistema articolatorio-sensoriale; 
+                il primo interpreta la struttura e le assegna un significato semantico attraverso la forma logica, 
+                il secondo, contemporaneamente, produce la rappresentazione fonologica,
+                che porterà alla forma fonetica. 
+                Quest'ultimo "esternalizza" l'enunciato (mediante il processo chiamato Spell-Out) e 
+                il risultato è il 'linguaggio esterno', o E-Linguaggio, 
+                mentre i meccanismi interni costituiscono il I-Linguaggio. 
+                L'insieme dei vari passaggi che portano dalla numerazione lessicale all'esternalizzazione 
+                si definisce "derivazione"; 
+                se l'enunciato prodotto risulta grammaticale la derivazione è convergente, 
+                in caso contrario divergente.
+                Nei modelli precedenti al minimalismo erano presenti livelli intermedi, 
+                struttura profonda e struttura superficiale, 
+                ma ora vengono eliminati poiché ritenuti superflui; 
+                la loro presenza era motivata soprattutto da esigenze del modello teorico più che empiriche, 
+                ma ora non sono più necessari (Chomsky 1995: 171-77). 
+                Ora gli unici livelli di rappresentazione dell'enunciato sono la forma logica (FL) 
+                e la forma fonetica (FF), rispettivamente il significato e la struttura fonetica esteriore. 
+                Da notare, non da ultimo, che ora anche la struttura sintagmatica subisce un mutamento: 
+                nell'assemblaggio mediante Salda, 
+                le strutture sintagmatiche sono "proiettate" direttamente dal lessico, 
+                poiché la testa del sintagma proietta i suoi tratti sull'intero elemento e quei tratti innescano, 
+                poi, la sua saldatura con un elemento nuovo. 
+                Di fatto si elimina, quindi, l'idea di una struttura sintagmatica simile ad 
+                una griglia da riempire con il lessico giusto. 
+                Ora essa è generata direttamente dal lessico.
+                Il modello detto ‘a Y’ riassume il funzionamento del sistema.
+
+                Lessico
+                Numerazione
+                Selezione
+                Salda
+                Sistema computazionale
+                Forma Logica Forma Fonetica
+                Sistema concettuale-intensionale Sistema articolatorio-sensoriale
+
+            1.2 Il sistema articolatorio-sensoriale: la fonologia
+            Definito anche sistema senso-motore o articolatorio-percettivo, 
+            è il sistema che permette di esternalizzare la struttura creata nel sistema sintattico; 
+            l’esternalizzazione prende il nome di SpellOut; 
+            La struttura della frase viene convertita mediante, in questo caso, 
+            il sistema di interfaccia definito sintassi-fonologia, 
+            dove ciò che viene generato deve essere sottoforma di informazioni sufficientemente generali e astratte 
+            da poter essere utilizzate sia per comprendere i segmenti fonologici che per produrli (Jackendoff 1997: 22) 
+            oltre che comprendere e produrre in una diversa forma: 
+            quella segnata, che costituisce l'altra principale alternativa in quanto a modalità semiotica di esternalizzazione. 
+            All'interno di questo sistema la struttura costruita si sottopone ad una ulteriore derivazione 
+            per portare dalla forma fonologica alla forma fonetica (FF), 
+            vale a dire ciò che è concretamente pronunciato (o percepito) dal parlante. 
+            Secondo Chomsky è qui che ha luogo la maggioranza delle variazioni, dei mutamenti e, quindi, 
+            della diversità delle lingue del mondo: 
+            al livello di forma fonetica e di lessico.
+
+    $$ 1.3 Il sistema concettuale-intensionale: la semantica
+    Per sistema concettuale-intensionale si intende 
+    quella porzione del sistema cognitivo umano costituita dai processi concettuali 
+        (ed intensionali, nel senso di astratti) come l'elaborazione di 
+        entità, eventi, significati, 
+        insieme alle informazioni pragmatiche, le intenzioni, 
+        le conoscenze enciclopediche del parlante ecc... (Jackendoff: 1997: 31); 
+    tutto ciò si esprime in strutture 
+    che possono essere formalizzate nella cosiddetta Forma Logica, 
+    che codifica il significato semantico in base alla sua struttura sintattica. 
+    Esso è però un sistema esterno, collegato al linguaggio (il sistema computazionale) tramite un’interfaccia, 
+    definita interfaccia sintassi-semantica, 
+    che “legge” la struttura gerarchica della frase assemblata dalla sintassi 
+    e permette al sistema semantico di elaborare il suo significato. 
+    Questo sistema è indipendente dal linguaggio perché, naturalmente, 
+    è il sistema concettuale generale usato anche da infanti, animali, ecc... (1997: 33). 
+    
+    La sua interazione con il sistema computazionale 
+    fa sì che si generi il significato di un enunciato, 
+    a patto che sia grammaticale.
+    Secondo la teoria minimalista il sistema concettuale è universale, 
+    nel senso che le strutture concettuali potenzialmente generabili sono omogenee fra tutti i parlanti. 
+    Questo implicherebbe quindi che il bambino non necessiti di acquisire concetti (essendo già presenti) 
+    ma solo le strutture della lingua a cui è esposto. 
+    D’altro canto, però, 
+    il rapporto tra le strutture concettuali e la grammatica risulta più problematico. 
+    L’idea più tradizionale è che, se il sistema semantico è anch’esso universale,
+    allora ogni lingua, per poter potenzialmente esprimere tutti i concetti, 
+    deve necessariamente possedere tutti i tratti grammaticali, 
+    manifestati (marcati) tuttavia in forme diverse. 
+    Più recentemente, Jackendoff (2002: 264) presenta, invece, 
+    l’interessante considerazione che la grammatica universale
+    possa costituire un “arsenale” di elementi grammaticali (i vari tratti morfo-sintattici) 
+    ma che ogni lingua ne selezioni e manifesti solo alcuni come marcati.
+
+    $$ 1.4 Alcuni aspetti epistemologici della teoria minimalista
+    Il sistema linguistico qui descritto è architettato appositamente 
+    per essere il risultato del meccanismo computazionale più semplice di tutti: Salda (o Merge); 
+    grazie alla ricorsività il bambino è in grado di astrarre le regole combinatorie dai dati che riceve, 
+    e comprende le strutture gerarchiche create con Salda (Chomsky 2016: 20). 
+    L’obiettivo della teoria minimalista, quindi, 
+    è quello di fornire una spiegazione per il fenomeno dell’acquisizione del linguaggio 
+    che sia la più ottimale ed efficace che ci sia, 
+    basata sulle operazioni e le procedure generative più minimali che ci siano. 
+    La teoria viene poi unita ad aspetti complementari, 
+    quali i cosiddetti “tre fattori” principali della facoltà del linguaggio: 
+    (i) il corredo genetico, 
+    (ii) l'esperienza (l’esposizione ad una lingua), 
+    (iii) gli altri elementi non direttamente connessi al sistema linguistico 
+        (radicati nelle proprietà generali del sistema cognitivo) (Chomsky 2005: 8). 
+    
+    Da un punto di vista metodologico bisogna, pertanto,
+    considerare l’entità di questi fattori 
+    che concorrono alla strutturazione della facoltà del linguaggio. 
+
+    Unire agli aspetti astratti della grammatica universale 
+    questi aspetti relativi ai meccanismi cognitivi e biologici che la supportano, 
+    rende la teoria più empiricamente valida, 
+    facendola apparire inserita in un contesto concreto.
+
+    Il minimalismo, in ogni caso, è un programma, non una teoria, 
+    soprattutto perché propone delle linee guida 
+    su cui impostare delle ricerche ma non suggerisce precise soluzioni a problemi specifici; 
+    le teorie elaborabili in questo quadro teorico possono essere anche abbastanza diverse dall’originale. 
+    Il programma minimalista contiene tutti gli elementi necessari 
+    indicati da Lakatos per poter essere considerato un vero programma di ricerca, 
+    non da ultimo il fatto che genera nuove domande; 
+    inoltre, tutti i suoi concetti astratti possono essere confutati ed eliminati (Boeckx 2006: 75-90), 
+    come nel caso della struttura profonda e della struttura superficiale; 
+    esso è infatti una teoria nata per semplificarsi costantemente 
+    ogni volta che i dati empirici permettono di comprendere meglio dei fenomeni e, così, 
+    eliminare le ridondanze del modello concettuale.
+    Nei capitoli seguenti si esploreranno le relazioni tra il sistema del linguaggio naturale 
+    ed altri codici semiotici ma, 
+    essendo un modello esplicativo di un fenomeno cognitivo estremamente specifico e particolare, 
+    l’applicazione dell’approccio minimalista al di fuori della grammatica generativa 
+    dovrà necessariamente essere molto prudente.
+
+    $$ 2. La ricorsività e la sua interazione con il lessico e con altri sistemi di segni: alcune considerazioni
+    Il concetto di ricorsività, nonostante sia onnipresente nelle argomentazioni generativiste 
+    e sia considerato il fulcro di ciò che una volta veniva definito Language Acquisition Device, 
+    ora definito più semplicemente grammatica universale, o “proprietà di base”, 
+    è mancante di una definizione libera da ambiguità. 
+    Proprio questa mancanza sembra essere all’origine di vari equivoci 
+    sulla comprensione della natura del linguaggio così come espressa dai generativisti. 
+    In testi introduttivi la ricorsività viene definita essenzialmente come 
+    la capacità della mente umana di generare una frase potenzialmente infinita 
+    aggiungendo elementi grammaticali per un numero potenzialmente infinito di volte, 
+    se non fosse per ovvie limitazioni fisiche 
+    – capacità finita di aria nei polmoni, limiti nel sistema della memoria, ecc. (Graffi e Scalise 2003: 19-20). 
+    Il manuale avanzato di sintassi minimalista di Adger (2003) fornisce una definizione lievemente più articolata: 
+    una lingua è ricorsiva quando può generare frasi mediante l’applicazione di regole ricorsive, 
+    dove per regola ricorsiva si intende 
+    
+    una regola che possa essere applicata sullo stesso elemento un numero infinito di volte, 
+    come Salda in relazione ai sintagmi che vengono assemblati (Adger 2003: 14-15). 
+    
+    In ogni caso, però, è difficile evitare completamente un’ambiguità di fondo 
+    relativamente alla relazione tra questa potenzialità astratta e i fenomeni idiosincratici delle lingue umane.
+    Queste definizioni deriverebbero dalla ormai famosa massima di Humboldt, 
+    ripresa da Chomsky (vedi capitolo precedente), che descrive il linguaggio umano 
+    come l’utilizzo infinito di elementi finiti. 
+    D’altro canto, però, occorre specificare maggiormente il funzionamento di questo meccanismo, 
+    in quanto ha dirette conseguenze sulla nostra comprensione della sintassi e del sistema
+    computazionale all’interno dell’architettura cognitiva del linguaggio. 
+    In questo capitolo saranno illustrati i termini fondamentali del dibattito attuale e si discuterà, poi, 
+    dell’evidenza che la ricorsività sia presente, 
+    in forme più o meno diverse dal linguaggio naturale, anche in altri sistemi semiotici.
+
+    $$ 2.1 la ricorsività nel linguaggio naturale: il dibattito
+    Una svolta fondamentale sulla discussione della ricorsività si ebbe con Hauser, Chomsky e Fitch (2002). 
+    In seguito venenero sollevate alcune questioni problematiche in Pinker e Jackendoff (2005). 
+    Non si fece attendere la risposta di Fitch, Hauser e Chomsky (2005) 
+    a cui controbatterono ulteriormente Jackendoff e Pinker (2005).
+    Hauser, Chomsky e Fitch (2002), 
+    discutendo della natura della facoltà del linguaggio e sulla sua evoluzione come sistema biologico, 
+    definiscono il sistema linguistico come suddivisibile in due componenti principali: 
+    la Narrow Language Faculty (o NLF, “Facoltà del linguaggio in senso stretto”) e 
+    la Broad Language Faculty (o BFL, “Facoltà del linguaggio in senso ampio”). 
+    La prima sarebbe costituita dal sistema computazionale della sintassi, 
+    quindi dalla ricorsività allo stato puro,
+    mentre la seconda sarebbe composta dai due sistemi di interfaccia esterni, 
+    ovvero semantica e fonologia. 
+    Questo perché, mentre il sistema concettuale e il sistema articolatorio-sensoriale 
+    sono presenti anche in altre specie animali, 
+    il sistema computazione della ricorsività sarebbe, invece, peculiare della specie umana. 
+    La ricorsività sarebbe presente anche in altri domini della cognizione 
+    ma comunque specifica del sistema linguistico.
+    Pinker e Jackendoff (2005) sostengono di essere 
+    essenzialmente d’accordo con HCF sull’idea che il sistema concettuale sia non specifico del linguaggio, 
+    poiché contiene molti dei meccanismi generali del pensiero, 
+    alcuni di questi condivisi anche con altri primati, altri no. 
+    Pinker e Jakendoff elencano, però, varie argomentazioni 
+    a sfavore dell’idea che la NLF sia composta esclusivamente dalla ricorsività come tratto peculiare. 
+    Fra le altre, le più salienti sono: 
+    (1) la percezione acustica sembra essere diversa nell’uomo rispetto ad altri primati, 
+        come anche l’apparato articolatorio; 
+    (2) il lessico viene assegnato da Hauser, Chomsky e Fitch al linguaggio in senso ampio (BLF) 
+        eppure la struttura della parola sembra essere estremamente peculiare anch’essa; 
+    (3) Hauser, Chomsky e Fitch non parla della grande varietà di fenomeni sintattici, 
+        come il caso, la struttura argomentale, le costruzioni interrogative, e molti altri, 
+        che sono presenti nelle varie lingue del mondo e che sono specifici per il linguaggio 
+        ma che non possono essere spiegati dalla pura ricorsività. 
+        Per esempio anche il fatto che le strutture sintagmatiche 
+        presentano una testa, un elemento che funge da fulcro 
+        e che proietta le sue proprietà sull’intero sintagma, 
+        meccanismo alla base della teoria X-barra. 
+    Pinker e Jackendoff sono comunque d’accordo con Hauser, Chomsky e Fitch 
+    sul fatto che la ricorsività si manifesti anche in domini diversi dal linguaggio.
+    La risposta di Fitch, Hauser e Chomsky (2005) non si lascia attendere: 
+    dichiarando che le loro reali intenzioni sono state male interpretate da Pinker e Jackendoff (2005) 
+    procedono con il chiarire i punti centrali sollevati da questi ultimi, 
+    nonostante, a loro parere, molte delle argomentazioni siano irrilevanti per la loro ipotesi, 
+    corredando il tutto con una esplicita critica 
+    allo studio delle componenti biologico-evoluzionistiche del linguaggio 
+    che sia solo speculativa e che non sia supportata da reali dati empirici. 
+    Chiariscono la natura della distinzione tra NLF e BLF, 
+    sostenendo che la loro è una distnzione concettuale 
+    – da prendere come un programma di ricerca. 
+    Lasciano intendere, poi, che i vari fenomeni morfo-sintattici 
+    costitutivi della grammatica universale 
+    potrebbero essere spiegati attraverso 
+    l’interazione tra la ricorsività (il sistema computazionale) e le due interfacce.
+    Jackendoff e Pinker (2005) rispondono dicendo 
+    la divisione fra NLF e BFL è troppo semplicistica 
+    perché omette la possibilità che le componenti del sistema 
+    potrebbero essersi evolute in più modalità e più momenti diversi. 
+    Inoltre, proprio il fatto che la ricorsività sia presenti in altri domini
+    dimostrerebbe che essa da sola non può essere sufficiente 
+    per generare la facoltà del linguaggio nella sua interezza, 
+    ma deve esserci qualcos’altro che che la caratterizza in modo peculiare rispetto ad altri sistemi.
+
+    In seguito a questa discussione la ricerca si è concentrata sempre di più sulla domanda: 
+    quanto è ricca – o complessa – la grammatica universale? 
+    Ovvero, se la ricorsività possa da sola essere sufficiente 
+    per dare vita al fenomeno del linguaggio nella sua complessità, 
+    oppure se ci sia qualcos’altro che arricchisce il sistema.
+    All’interno del dibattito, inoltre, una delle questioni più fondamentali 
+    che si cerca di esplorare è anche quella 
+    dell’implementazione cognitiva e neuro-cognitiva della ricorsività: 
+    recentemente esperimenti neurolinguistici hanno dimostrato che, molto probabilmente, 
+    una specifica sottoregione dell’area di Broca, la Pars Opercularis (area di Brodmann 44), 
+    è specializzata nell’elaborazione di strutture gerarchiche, 
+    e potrebbe quindi essere identificata come 
+    la localizzazione cerebrale dell’operazione Salda (Zaccarella e Friederici 2015). 
+    Questo sembra essere un ulteriore indizio verso 
+    una più accurata mappatura delle modalità in cui 
+    i meccanismi computazionali della grammatica universale, 
+    da sempre studiati come fenomeni mentali astratti, 
+    sono concretamente generati da circuiti neurali appositamente specializzati. 
+    D’altro canto, però, 
+    il fatto che una certa localizzazione cerebrale venga identificata non implica, 
+    sebbene sia una comunque una prova importante, 
+    che la ricorsività come meccanismo mentale sia effettivamente Domain-Specific, 
+    vale a dire specifica del modulo del linguaggio 
+    – idea centrale del pensiero chomskyano; 
+    recentemente si è tentato di dimostrare che la ricorsività sia Domain-General, 
+    vale a dire una proprietà generale di tutto il sistema cognitivo umano (ad esempio Corballis 2014). 
+    Naturalmente questa discussione va al di là degli obiettivi di questa tesi
+    ma è utile ricordare che lo studio “intersemiotico”, o “multimodale”, della ricorsività 
+    è chiaramente collegato in modo diretto alla questione. 
+    Strutture gerarchiche sono palesemente presenti in domini cognitivi non linguistici; 
+    ricerche future potranno poi dirci, forse, 
+    se la ricorsività è un fenomeno generico della mente oppure se è, 
+    invece, tipico del linguaggio e venga poi solo “sfruttato” anche da altri domini.
+
+    $$ 2.2 La grammatica come insieme di vincoli sulla ricorsività
+    Uno degli equivoci più discussi attualmente riguardo la ricorsività 
+    e la sua problematica definizione 
+    riguarda quello relativo alla scoperta della lingua Pirahã: 
+    una lingua parlata in Amazzonia da una piccola tribù rimasta isolata per secoli, 
+    che mostrerebbe apparentemente un sistema grammaticale sorprendentemente poco complesso e, 
+    stando al suo scopritore Dan Everett, mancante di ricorsività. 
+    La suddetta lingua, infatti, mancherebbe della capacità di innestare frasi l’una dentro l’altra. 
+    Inoltre, la popolazione sarebbe caratterizzata da una cultura estremamente peculiare 
+    – mancante, per esempio, di memoria storica o di miti cosmogonici – 
+    e la loro lingua avrebbe i termini per esprimere solo i numeri uno e due, 
+    ed un lessico cromatico estremamente ristretto. 
+    Secondo Everett (2005), sarebbe proprio la loro cultura ad influenzare la struttura della loro lingua.
+    Naturalmente il fatto rimane estremamente controverso, e presenta molte problematiche. 
+    La più rilevante è che la struttura di una lingua è generalmente sconnessa dalla sua cultura 
+    e le costruzioni morfo-sintattiche, inclusa la presenza o l’assenza di determinati tratti grammaticali, 
+    sono generalmente fenomeni arbitrari. 
+    Il fatto che la lingua in questioni non presenti, apparentemente, la capacità di creare subordinate 
+    potrebbe non avre alcuna relazione con la peculiare cultura della comunità che la parla.
+    Oltre a ciò, viene commesso l’errore di considerare la ricorsività 
+    puramente come la capacità di creare subordinazione; 
+    in realta, però, Hauser, Chomsky e Fitch (2002) definiscono la ricorsività come “infinito digitale”, 
+    non come un fenomeno caratterizzato da una costruzione morfo-sintattica specifica. 
+    Il fatto che nella lingua Pirahã manchi la capacità di subordinare 
+    potrebbe essere una banale restrizione come molte altre. 
+    Le grammatiche delle lingue umane sono per loro natura formate da vincoli, 
+    altrimenti qualunque composizione di costituenti avrebbe significato, 
+    rendendo inutile l’esistenza della grammatica stessa.
+    
+    Numerose lingue presentano restrizioni di vario genere 
+    e non è necessario considerare lingue non indoeuropee. 
+    Ad esempio, Pesetsky (2009: 367) nota che in inglese per un aggettivo 
+    che si sia saldato ad un complemento oggetto 
+    non sia possibile saldarsi a sinistra di un nome nella posizione di modificatore: 
+    “the destructive (*to houses) storm” risulterebbe agrammaticale a qualunque parlante
+    anglofono se “to houses” venisse incassato in quella posizione. 
+    E molte altre lingue presentano casi diversi di questo genere, 
+    pertanto l’operazione Salda ha effettivamente delle restrizioni, 
+    ma sono vincoli del tutto naturali imposti dalle grammatiche di qualunque lingua esistente. 
+    Questo non ha alcuna ripercussione sulla definizione di ricorsività data da Hauser, Chomsky e Fitch (2002) 
+    poiché qualunque bambino, inserito in un determinato ambiente, 
+    acquisirebbe la lingua alla quale è esposto con tutte le sue restrizioni e i suoi vincoli, 
+    che siano i meccanismi dell’inglese o quelli di lingue con restrizioni diverse. 
+    Questo è reso possibile dal fatto che il bambino, 
+    nello stato iniziale dell’acquisizione, grazie alla ricorsività, 
+    possiede la capacità di captare le regolarità e le combinazioni negli stimoli percepiti, 
+    dove per combinazioni si intendono, ovviamente, vincoli e restrizioni; 
+    senza di questi non sarebbe possibile alcuna creatività, 
+    sostanzialmente la produttività del linguaggio umano non potrebbe mai avere luogo 
+    e, quindi, non esisterebbero lingue. 
+    L’intero processo di acquisizione della grammatica di una lingua umana si potrebbe definire come, 
+    sostanzialmente, l’acquisizione di vincoli che vanno a porre dei limiti nella forma di regole, 
+    necessarie affinchè si realizzi la produttività linguistica, 
+    che vanno a restringere le possibilità combinatorie altrimenti infinite che la ricorsività pura rende possibili.
+    
+    Anche Levinson (2013) interpreta la ricorsività equivocandone il senso, 
+    tentando di dimostrare che è possibile trovare strutture gerarchiche anche nella pragmatica, 
+    per esempio all’interno di un dialogo, 
+    dove si può effettivamente manifestare una sorta di “incassamento” nelle varie fasi dell’interazione, 
+    affermando che è possibile trovare strutture gerarchiche anche nell’uso del linguaggio. 
+    In seguito afferma che la ricorsività nella sintassi potrebbe 
+    non essere applicata allo stesso modo in tutte le costruzioni; 
+    se consideriamo un’espressione formata, ad esempio, solo da una lista di parole 
+    – come una serie di aggettivi, attribuiti ad un solo nome – 
+    non abbiamo una struttura gerarchica.
+
+    Se consideriamo la ricorsività semplicemente come incassamento di una struttura 
+    all’interno di una struttura dello stesso tipo, 
+    in questo caso si potrebbe dire che apparentemente la frase non è ricorsiva. 
+    Potrebbe sembrare che gli aggettivi costituiscano una semplice lista di elementi posti uno dopo l’altro, 
+    secondo un processo che si potrebbe definire iterativo, non ricorsivo, appunto, poiché non gerarchico.
+
+    Osservando più attentamente, però, bisogna ricordare che la ricorsività, 
+    nella forma dell’operazione Salda, 
+    viene impiegata in modo automatico dal sistema computazionale per generare qualunque tipo di struttura. 
+    Questo implica che senza un meccanismo del genere non sarebbe proprio possibile assemblare alcun sintagma. 
+    Per necessità logica qualunque costruzione, 
+    anche nel caso appaia superficialmente come una lista di parole, 
+    deve necessariamente avere una struttura gerarchica sottostante, 
+    poiché un’organizzazione lineare è “illeggibile” dal sistema. 
+    La linearità è una proprietà assegnata a quella costruzione esclusivamente dal sistema dell’esternalizzazione.
+    Oltre a questo, possiamo aggiungere quelli che in Watumull et al. (2013) 
+    vengono definiti come i tre aspetti essenziali della ricorsività:
+        (1) Computabilità: la capacità di combinare elementi discreti con regole (al livello intensionale) 
+            e non tramite liste di oggetti (al livello estensionale);
+        (2) Definizione per induzione: ci sono regole ricorsive che generano sempre e specificamente quelle strutture;
+        (3) Induzione matematica: la capacità di generazione potenzialmente infinita;
+    
+    In ragione di queste considerazioni è possibile formulare la seguente definizione di ricorsività:
+    È ricorsiva ogni lingua che, dato un oggetto sintattico, lo salda ad un altro oggetto sintattico,
+    ottenendo un nuovo costituente. 
+    Il costituente così formato potrà essere a sua volta saldato ad un altro, 
+    mediante un processo che potrebbe essere realizzato potenzialmente un numero infinito di volte.
+
+    Pertanto, decade qualunque argomentazione che possa mettere in dubbio 
+    la presenza di reali strutture gerarchiche nella sintassi di una lingua naturale, 
+    poiché il semplice fatto che una lingua permetta di saldare costruzioni grammaticali fra loro è, 
+    di per sé, un fenomeno ricorsivo,
+    indipendentemente dal fatto che ci sia un incassamento dovuto a forme di subordinazione, 
+    o che sia presente o assente la categoria del complementatore. 
+    Che questi specifici fenomeni si manifestino o meno in una lingua specifica, 
+    insieme alle altre varie restrizioni su Salda, 
+    risulta essere del tutto irrilevante per quanto concerne il fenomeno della ricorsività, 
+    intesa come componente della competenza astratta del parlante.
+
+    Un’ultima precisazione riguarda il fatto che 
+    la ricorsività deve essere intesa come un meccanismo atomico della mente, 
+    vale a dire non divisibile in proprietà più semplici. 
+    Pensiamo ad una sua caratteristica basilare: 
+    la ramificazione binaria, 
+    che implica che Salda possa unire solo due elementi alla volta – 
+    motivo per cui le ramificazioni degli alberi sintattici sono sempre, appunto, binarie. 
+    Una ramificazione ternaria non è possibile 
+    per via della natura stessa del meccanismo di computazione. 
+    Se fosse realizzabile una costruzione ternaria 
+    significherebbe che la ricorsività potrebbe essere scomposta in meccanismi più semplici 
+    e che uno di questi possa variare. 
+    La concezione minimalista di ricorsività, però, non permette nulla di tutto questo.
+    È estremamente utile, però, includere nell’argomentazione 
+    anche un altro elemento di fondamentale importanza, cioè la semantica, 
+    ed in particolare la natura composizionale del significato. 
+    La ricorsività, infatti, fondendo due oggetti sintattici in uno nuovo, 
+    compone anche al significato complesso del nuovo costituente. 
+    In questa modalità la ricorsività si manifesta anche nel sistema concettuale.
+
+    2.3 La materia prima della ricorsività: il lessico e i tratti morfo-sintattici
+    È necessario, ora, porsi la seguente domanda: cosa computa la ricorsività per generare frasi?
+    naturalmente una risposta abbastanza ovvia, anche se parzialmente incompleta 
+    – come si vedrà in seguito, è il lessico. 
+    Nel minimalismo il lessico abbastanza problematico, 
+    e non si sa con precisione quel funzione assegnargli all’interno del sistema. 
+    Certamente il sistema computazionale ha accesso al lessico mentale, 
+    per poter prelevare le unità necessarie da immettere nella derivazione. 
+    Le unità vengono strutturate gerarchicamente e l’espressione così composta viene spedita alle due interfacce.
+    Di fondamentale importanza è precisare che il lessico, 
+    in questo stadio del processo, 
+    non è formato da parole vere e proprie, ma bensì da elementi astratti, intensionali, 
+    composti sostanzialmente da insiemi di tratti. 
+    La forma esteriore della parola (e, ovviamente, dell’intera frase) 
+    intesa come insieme di segmenti fonologici distintivi, 
+    è solamente l’output del processo, non la sua origine. 
+    I lessemi che vengono computati dalla ricorsività sono puramente strutture concettuali. 
+    Il lessico è computabile dalla ricorsività per via della sua caratteristica primaria: è discreto. 
+    È composto da unità facilmente distinguibili fra di loro, anche a livello astratto/concettuale.
+    Ogni unità, o lessema, è però costituita da entità astratte più semplici: i tratti. 
+    
+    concept tratto morfo-sintattico
+        Il concetto di tratto morfo-sintattico nella grammatica generativa 
+        deriva dal suo analogo in fonologia ma ha una natura diversa: 
+        i tratti sono la modalità in cui le grammatiche delle lingue del mondo 
+        codificano al loro interno le strutture informative e concettuali 
+        che sono necessarie per rendere il linguaggio capace di riferirsi a qualcosa 
+        e, ovviamente, comunicare. 
+        In effetti si potrebbe affermare che le reali unità minime del linguaggio sono i tratti, non le parole. 
+        Sono i singoli tratti che sono resi disponibili al sistema mentale del bambino 
+        per fare in modo che si attui l’acquisizione del lessico, 
+        le cui parole vanno ad associarsi ai tratti già presenti nella mente ricevente, 
+        che in quel momento è allo stato iniziale dell’acquisizione.
+        Quando affermiamo che un lessema è costituito da tratti 
+        intendiamo che sono le unità mentali in cui la sua forma astratta è scomponibile. 
+        Consideriamo:
+        La casa rossa
+        [+D] [+N] [+AGG]
+        [+FEMM] [+FEMM] [+FEMM]
+        [+SING] [+SING] [+SING]
+        Le tre parole sono rappresentate nella nostra mente come costituite da quei tratti. 
+        Nel momento in cui analizziamo sintatticamente una frase, 
+        in alcuni casi è possibile che le ramificazioni delle rappresentazioni ad albero disegnate 
+        possano arrivare al punto da scomporre anche i singoli tratti.
+        Ecco perché è vero che apparentemente sono le parole ad essere computate, 
+        ma ad un’analisi più attenta anche i singoli tratti grammaticali 
+        possono essere oggetto della computazione ricorsiva. 
+        Un recente ramo della ricerca generativa, infatti, 
+        è quello rappresentato dalla “nanosintassi” (si veda Starke, 2010, per una definizione programmatica) 
+        dove, appunto, si considerano come unità minime della derivazione sintattica non le parole, 
+        ma unità più piccole anche dei singoli morfemi, cioè i tratti puri.
+        Sembra che l’inventario dei tratti resi disponibili alla mente umana sia predeterminato.
+        Chomsky (1995: 254) elenca la seguente suddivisione:
+        a. Tratti categoriali
+        b. Tratti-Phi
+        c. Tratti del Caso
+        Oltre a queste potrebbero esserci anche altre categorie. 
+        Solitamente si cerca di differenziare ulteriormente i tratti categoriali 
+        – ad esempio [+D], [+N], [+V], [+AGG], [+ADV], [+C], [+P] – dagli altri tratti. 
+        Se le categorie (che siano esse lessicali o funzionali) hanno maggiore preminenza, 
+        gli altri elementi possono essere definiti come proprietà morfo-sintattiche 
+        che vanno ad essere attribuite a quelle categorie fondamentali (Adger & Svenonius 2011: 28).
+        
+        È interessante considerare che nell’ambito generativo 
+        le categorie di nome e verbo sono sempre state considerate le più fondamentali, 
+        e, forse, le più universali. 
+        Le categorie di aggettivo e preposizione, al contrario, 
+        vengono considerate solitamente una composizione dei tratti [+V] e [+N],
+        secondo il seguente schema:
+        a. Nome: [+N; -V]
+        b. Verbo: [-N; +V]
+        c. Aggettivo: [+N; +V]
+        d. Preposizione: [-N; -V]
+        Questo tipo di caratterizzazione, quindi, ha palesemente una natura formale, 
+        nel senso che le componenti e il modo in cui si combinano fra di loro 
+        determina l’aspetto esteriore della parola, 
+        ma ciò non ha una reale relazione con il significato semantico della parola stessa. 
+        Le stesse categorie di nome e verbo sono sempre state viste come arbitrarie rispetto al contenuto semantico, 
+        rendendo definizioni come “il verbo asperime azioni, il nome esprime cose o entità”, 
+        tipiche della grammatica insegnata a scuola, semplicemente irrilevanti. 
+        Questo perché ci sono verbi che possono esprimere stati d’essere, 
+        che si contrappongono ai verbi che esprimono realmente azioni dinamiche, 
+        ed allo stesso tempo esistono nomi che esprimono eventi o entità dinamiche.
+        Quindi, da un punto di vista della rappresentazione mentale astratta, 
+        le categorie e le proprietà morfo-sintattiche dovrebbero servire 
+        per determinare la funzione dei lessemi all’interno della frase.
+        
+        Un approccio radicalmente diverso è, ad esempio, 
+        quello proposto dalla visione funzionalista, 
+        dove in realtà si ritiene possibile una caratterizzazione di nomi e verbi 
+        sulla base del loro contenuto semantico-concettuale (Langacker 1974), 
+        generando quindi delle differenze sostanziali 
+        anche sul piano del loro significato 
+        dipendenti direttamente dalla categoria di appartenenza. 
+        D’altro canto, però, una spiegazione funzionalista sembra essere non conciliabile 
+        con le evidenze neurolinguistiche che dimostrano che 
+        nomi e verbi vengono elaborati in regioni differenziate del nostro cervello,
+        indipendentemente dal loro contenuto concettuale (Damasio & Tranel 1993).
+
+    $$ 2.5 Linterazione fra ricorsività e tratti nel linguaggio e nei sistemi non linguistici
+    Una domanda che rimane, invece, senza una soluzione reale 
+    è la questione riguardo l’origine dei tratti, 
+    vale a dire da dove provengono queste unità discrete 
+    e come la ricorsività sia in grado di agire su di esse 
+    per assemblare strutture più complesse (lessemi e sintagmi). 
+    Secondo Cinque (2013) dovremmo chiederci come mai 
+    fra tutte le strutture che il nostro sistema concettuale riesce ad elaborare, 
+    solo alcune unità vengono scelte dal sistema della grammatica universale. 
+    Per esempio, perché il genere e il numero possono essere codificati 
+    nelle grammatiche delle lingue del mondo mentre, allo stesso tempo, 
+    concetti come quelli dei colori, 
+    che dovrebbero avere altrettanta rilevanza nel nostro apparato di pensiero, 
+    non sono marcati sul piano morfo-sintattico in nessun idioma. 
+    Al contrario, questi concetti, se sono presenti in una data lingua, lo sono sempre sul piano lessicale.
+    Cos’è, quindi, che restringe radicalmente 
+    l’inventario di tratti disponibili al sistema gramamticale di una data lingua? 
+    Secondo Cinque (2013) la causa di tutto ciò 
+    sarebbe da rintracciarsi sul piano evoluzionistico: 
+    probabilmente l’insieme ristretto dei tratti esistenti 
+    è il risultato del modo in cui la grammatica universale si è “cristallizzata” 
+    in un momento specifico dell’evoluzione della nostra specie.
+
+    Un’altra caratteristica fondamentale dei tratti grammaticali è che sono discreti, 
+    vale a dire facilmente distinguibili l’uno dall’altro, 
+    e questa proprietà sembra essere fondamentale affinchè essi 
+    possano essere oggetto della costruzione di frasi mediante la ricorsività, 
+    poiché Salda agisce esclusivamente su elementi discreti. 
+    Non si sa da dove provenga la discretezza dei tratti, 
+    e perché i concetti da loro marcati non possano essere più “sfumati”. 
+    Ad esempio, i generi canonici trovati nelle varie lingue sono sempre 
+    il maschile, il femminile, il neutro, 
+    e non è possibile per un parlante coniare un nuovo tratto 
+    che sia qualcosa di intermedio tra i tre, 
+    mentre al contrario è sempre possibile inventare un nuovo colore dal nulla. 
+    Un altro esempio potrebbe essere il tempo: 
+    passato, presente e futuro sono le tre dimensioni temporali di base 
+    – a cui vanno aggiunti altri elmentei come aspetto o modo – 
+    ma anche qui non è certo possibile per un parlante inventare un nuovo tratto temporale. 
+    La spiegazione potrebbe risiedere nel dominio cognitivo responsabile della della percezione temporale,
+    vale a dire il sistema specifico, estraneo al sistema linguistico, 
+    che ci permette di elaborare lo scorrere degli eventi dividendoli in queste tre “fasi” o dimensioni fondamentali. 
+    Se si accetta questa visione, allora si potrebbe affermare 
+    che il modo in cui i tratti grammaticali sono “suddivisi” discretamente
+    potrebbe provenire dai singoli domini cognitivi da cui queste strutture concettuali provengono; 
+    questa idea implicherebbe che, ad esempio, verbi, nomi, aggettivi e preposizioni 
+    sarebbero espressione della nostra capacità di concettualizzare l’esperienza 
+    nella forma di eventi, entità, attributi, relazioni, ecc.
+    richiamando la spiegazione funzionalista citata in precedenza. 
+    Il problema, però, è rappresentato dal fatto che questa spiegazione 
+    non può essere applicabile a tutti i tratti, 
+    poiché la suddivisione del genere, per esempio, non troverebbe una reale giustificazione in questa prospettiva.
+    Altra analoga questione è quella riguardante il lessico funzionale: 
+    da dove proviene? Perché è chiuso? 
+    Sappiamo che le parole funzionali sono necessarie per stabilire 
+    determinate relazioni grammaticali fra oggetti morfo-sintattici, 
+    eppure però qui abbiamo un caso particolare di limitazione della produttività linguistica, 
+    perché non rientra nella competenza astratta del parlante la capacità di costruire nuove parole funzionali. 
+    Anche i tratti funzionali come il determinante o il complementatore – [+D], [+C] 
+    – oltre ad essere lmitati nel loro inventario, 
+    non possono neanche essere ricombinati nello stesso modo dei tratti delle parole lessicali.
+    In conclusione, sembra che un fattore peculiare che distingue il linguaggio naturale 
+    da altri sistemi di segni sia proprio l’interazione fra la ricorsività è la sua materia prima. 
+    Il lessico di una lingua ha dei forti vincoli, 
+    dovuti alla natura stessa dei suoi “atomi”, i tratti grammaticali. 
+    Al contrario, in altri codici semiotici simili restrizioni sembrano non essere presenti. 
+    La domanda centrale che dovrebbe essere oggetto di ricerche future è: 
+    per quale motivo la grammatica universale (e il suo inventario di tratti) 
+    non ha accesso ad altri sistemi semiotici? 
+    Per quale motivo il meccanismo della ricorsività 
+    non può assemblare tratti (e lessemi, sintagmi) in altri sistemi di segni, 
+    nonostante abbiano una struttura ricorsiva, o sintagmatica, come la musica (vedi cap. seguente)? 
+    Sembra che la grammatica universale sia un sistema rigido, 
+    formato da una sua complessità interna che, però, non interagisce con molti altri sistemi esterni, 
+    fatta eccezione per le interfacce con il sistema semantico e il sistema morfo-fonologico, 
+    i due livelli necessari per dare vita alla forma di una lingua nel modello minimalista.
+    Il fatto che altri sistemi di comunicazione non possiedano tratti distintivi nel loro “lessico”,
+    non mostrando, quindi, i segni di un sistema formale, 
+    è probabilmente una delle motivazioni per cui 
+    la loro analisi viene da sempre condotta all’interno di un quadro teorico particolarmente connesso allo strutturalismo, 
+    come la tradizione semiologica europea. 
+    D’altro canto però, come verrà spiegato nel prossimo capitolo, 
+    tentare di usare un’analisi generativa, 
+    per quanto diversa da un punto di vista teorico, 
+    può fornire una nuova prospettiva particolarmente incentrata sui fattori (neuro-)cognitivi, 
+    che potrebbe dare luogo a risvolti interessanti in ricerche future.
+    
+    3. Linguaggio naturale ed altri sistemi di segni
+    Dopo aver delineato le questioni centrali relative al problema della ricorsività 
+    e quello, non meno importante, dei tratti grammaticali, 
+    è necessario, ora, tentare di stabilire una connessione 
+    con l’analisi di altri fenomeni estremamente connessi. 
+    Naturalmente lo studio delle due componenti fondamentali della struttura del linguaggio, 
+    la capacità di combinazione e la sua materia prima, 
+    deve essere unita all’analisi delle modaltà semiotiche 
+    che vengono utilizzate dall’essere umano per esternalizzare questa struttura astratta 
+    e trasformarla in un codice concreto valido per la comunicazione. 
+    Le possibilità che l’uomo ha a disposizione sono due: 
+    l’articolazione di suoni, generando il linguaggio parlato, 
+    oppure la formazione di gesti, generando le lingue dei segni. 
+    
+    Le lingue dei segni sono riconosciute a tutti gli effetti come lingue vere e proprie, 
+    poiché possiedono caratteristiche strutturali perfettamente compatibili con quelle delle lingue vocaliche.
+    L’essere umano può, però, comunicare anche mediante altre modalità, altri sistemi di segni;
+    un esempio può essere quello della musica. 
+    Questi diversi codici semiotici non hanno le caratteristiche delle lingue (vocaliche o segnate) storico-naturali, 
+    non hanno la capacità di esprimere i tratti grammaticali, 
+    non hanno un sistema definito di meccanismi combinatori che si possano considerare “grammatiche”. 
+    Eppure, però, la musica, come vedremo, 
+    sembra mostrare un comportamento ricorsivo, 
+    cioè una struttura dotata della possibilità di creare gerarchie. 
+    È, quindi, naturale chiedersi per quale motivo un codice 
+    che mostra effettivamente tracce di ricorsività in modo analogo al linguaggio naturale 
+    non mostri anche altri elementi strutturali simili. 
+    Si analizzeranno prima di tutto le caratteristiche delle lingue dei segni, 
+    intese come una differente modalità di esternallizzazione del sistema linguistico, 
+    ed, in seguito, il caso specifico della musica.
+
+    3.1 Un’altra modalità semiotica: il caso delle lingue dei segni
+    Le lingue dei segni sono lingue a tutti gli effetti.
+    Questo perché le caratteristiche del loro sistema formale astratto
+    sono esattamente le stesse di una qualunque lingua vocalica. 
+    Questo significa che la modalità gestuale
+    ha completo accesso al sistema cognitivo della grammatica universale, 
+    sfrutta la ricorsività e la capacità di creare strutture sintagmatiche gerarchiche, 
+    e preleva i tratti morfosintattici dall’inventario fornito dalla grammatica universale. 
+    Queste sono le motivazioni per cui le lingue dei segni 
+    mostrano tutte le proprietà espressive di una normalissima lingua. 
+    Variano e mutano nel tempo, possono esibire variazioni dialettali, 
+    il loro uso è soggetto a fattori pragmatici, ecc. 
+    L’unica differenza è che il tutto avviene in una modalità semiotica differente: 
+    quella visuo-spaziale, o gestuale. 
+    Naturalmente questo ha alcune conseguenze, come, ad esempio, 
+    il fatto che le lingue dei segni esibiscano maggiormente proprietà iconiche nei loro lessemi, 
+    vale a dire una relazione di somiglianza strutturale tra la forma del significante e quella del suo significato, 
+    eppure, però, questo fenomeno, molto più raro nelle lingue vocaliche, 
+    non sembra avere particolari conseguenze nell’acquisizione e nell’uso dei segni. 
+    Tutto ciò fu notato già nel seminale studio di Klima e Bellugi (1979), 
+    dove vennero delineate le caratteristiche peculiari della modalità visuo-spaziale del linguaggio. 
+    Grazie, anche qui, a studi neurolinguistici, poi, è possibile confermare che 
+    le lingue dei segni sono elaborate esattamente dalle stesse aree cerebrali di quelle vocaliche, 
+    stabilendo quindi che il linguaggio in quanto a facoltà cognitiva 
+    è un sistema astratto indipendente dalla modalità usata per esternalizzarlo (Bellugi et al. 1989).
+
+    Prendendo il modello minimalista della facoltà del linguaggio, 
+    la modalità gestuale può essere considerata banalmente una differente tipologia di esternalizzazione, 
+    ad opera del sistema articolatorio-sensoriale, che, 
+    anziché trasformare le strutture sintagmatiche astratte in segmenti fonologici, 
+    attua la stessa operazione mediante un canale differente. 
+    La lingua dei segni condivide, quindi, tutte le altri componenti del sistema con il linguaggio vocalico, 
+    inclusa, naturalmente, l’interfaccia con il sistema concettuale, 
+    per la creazione della forma logica e del significato semantico.
+
+    La lingua dei segni è, pertanto, l’unico esempio di un codice semiotico differente 
+    che riesce a sfruttare interamente il sistema della grammatica universale. 
+    Questo si pone in diretto contrasto con tutti quegli altri mezzi comunicativi – come la musica – 
+    che l’essere umano può utilizzare, ma che non possiedono, nella loro struttura esterna, le stesse caratteristiche.
+
+    3.2 Musica, sintassi, ricorsività
+    La musica, in quanto sistema di segni, 
+    mostra moltissime analogie con il sistema linguistico umano, 
+    eppure anche molte differenze strutturali. 
+    All’interno del paradigma generativo 
+    la prima ricerca sistematica riguardante un’analisi formale della musica 
+    risale a Lerdahl e Jackendoff (1985),
+    dove già viene stabilito che la teoria musicale ha il compito 
+    di formulare una “descrizione formale delle intuizioni di un ascoltatore che ha esperienza in un idioma musicale” (1985: 1); 
+    l’analogia con la teoria linguistica, quindi, è resa immediatamente esplicita. 
+    La prima analisi del linguaggio musicale in chiave minimalista, però, 
+    è quella di Katz e Pesetsky (2011), dove si afferma che, 
+    sebbene siano ovviamente presenti molte differenze strutturali da un punto di vista esterno, 
+    dal punto di vista formale (interno) linguaggio naturale e musica sono due sistemi identici. 
+    Questo perché la musica presenta evidenti segni di strutture gerarchiche, ricorsive, 
+    dimostrate anche dalla presenza di una sorta di movimento sintattico, 
+    analizzato nelle combinazioni tra determinati “gruppi sonori”. 
+    Naturalmente la materia prima del linguaggio, il lessico e i suoi tratti, 
+    non possono essere trovati in alcun modo nella musica, 
+    ma dal punto di vista formale 
+    i meccanismi ricorsivi di combinazione che danno luogo alle strutture armoniche 
+    tipiche della musica tonale 
+    sono effettivamente analoghi a quelli che si manifestano nella sintassi di una lingua umana.
+    Effettivamente, è stato dimostrato che, in propettiva neurolinguistica, 
+    la sintassi musicale viene elaborata nella stessa Area di Broca (Maess et al. 2001), 
+    e le relazioni sintagmatiche tra le unità tonali 
+    producono una reazione neurofisiologica del tutto simile 
+    a quella osservabile nella sintassi linguistica (Patel et al. 1998). 
+    
+    Effettivamente Katz e Pesetsky (2011) affermano 
+    che la stessa operazione Salda ha, nella sintassi musicale, 
+    il compito di assemblare strutture tonali in modo binario
+    – rendendo quindi possibile, eventualmente, 
+    realizzare rappresentazioni ad albero anche per i “sintagmi musicali” – 
+    mediante la stessa procedura con cui vengono saldati i lessemi in un enunciato.
+    Naturalmente, sebbene i due sistemi possano essere definiti “identici” 
+    ad un livello di osservazione estremamente astratto e formale, 
+    è chiaro che molte differenze nella struttura esterna dei due sistemi di segni sono invece presenti, 
+    a cominciare dalla mancanza di tratti morfo-sintattici e del lessico, 
+    che costituiscono un problema per l’elaborazione di una semantica musicale.
+
+    3.3 Musica e semantica
+    Se consideriamo, come abbiamo fatto fino ad ora, 
+    la musica come insieme di unità formanti un’espressione strutturata, 
+    allora è necessario domandarsi anche come questa struttura 
+    possa instaurare un processo di significazione con l’ascoltatore. 
+    Naturalmente il linguaggio umano può contare su 
+    una semantica impostata sulla forma logica dell’enunciato, 
+    espressa mediante le condizioni di verità, 
+    le condizioni necessarie e sufficienti affinchè quell’enunciato si possa considerare vero.
+    Questo però perché una lingua naturale può riferirsi a entità ed eventi nel mondo reale, 
+    grazie alle informazioni sia morfo-sintattiche sia lessicali 
+    che contengono le risorse informative necessarie. 
+    La musica, però, non possiede tratti, come si è visto, 
+    perciò come è possibile che abbia un riferimento?
+    
+    Si possono delineare due possibilità: 
+    (1) il significato della musica si può intendere solo ad un livello semiotico, 
+        relazionato con gli stati emozionali evocati, ma non semantico, quindi non linguistico; 
+    (2) il significato della musica si può intendere ad un livello semantico-linguistico, 
+        cercando di capire quali posano essere i riferimenti di determinate stringhe di suoni, 
+        ed elaborando quindi una qualche forma di condizioni di verità.
+
+    Considerando la prima ipotesi, ad un livello semiotico, 
+    dal momento che non sono presenti tratti che possano essere computati per formare lessemi e sintagmi, 
+    non vi possono essere proposizioni che possano essere dichiarate vere o false, 
+    perché la musica in questo caso non avrebbe la capacità di dire qualcosa sul mondo. 
+    Questo, d’altro canto, non vuol dire che la musica 
+    non possa in alcun modo avere una qualche forma di referente con cui stabilire una relazione. 
+    Se pensiamo a determinati motivi musicali resi celebri, 
+    ad esempio, da alcune opere cinematografiche, 
+    possiamo certamente associare ad essi delle sensazioni, delle emozioni; 
+    possono essere allegria, paura, suspense, ma anche qualcosa di molto più complesso. 
+    Si può quindi affermare che la musica può essere associata a determinati stati mentali, 
+    che possono essere considerati il suo significato semiotico. 
+    È necessario, però, che questo avvenga a determinate condizioni pragmatiche, 
+    poiché si tratta di un significato “evocato” dallo stimolo musicale, non generato da esso, 
+    al contrario di come avviene nel linguaggio naturale. 
+    Nella musica le strutture gerarchiche delle unità di suoni armonici, pertanto, 
+    non possono determinare una vera e propria forma logica in base alla loro combinazione. 
+    Tutto ciò implica che è necessario distinguere tra il potere evocativo della musica e 
+    quello informativo del linguaggio naturale. 
+    Grazie ai tratti contenuti nell’enunciato abbiamo la capacità di riferirci ad entità specifiche 
+    e formulare affermazioni su di esse, trasmettendo dei contenuti; 
+    al contrario, la musica ha un legame con il suo referente molto più debole, e, 
+    ovviamente, più soggetto a diverse interpretazioni a seconda dell’ascoltatore, 
+    impedendo quindi di esprimere informazioni strutturate.
+    La seconda ipotesi, invece, delineata in Schlenker (2017), 
+    sostiene che nella musica potrebbe essere possibile per l’ascoltatore trarre delle inferenze, 
+    provenienti da due fonti peculiari: 
+    la percezione uditiva continua 
+        – intesa come l’insieme di suoni, non divisi nettamente in unità come nel linguaggio naturale – 
+    e le proprietà tonali specifiche dell’armonia musicale. 
+    Queste inferenze riguarderebbero la potenziale fonte del suono musicale 
+    che l’ascoltatore cercherebbe di dedurre.
+    
+    Unendo i due tipi di inferenze 
+    si potrebbe cercare di assegnare ad una sequenza musicale una forma di riferimento. 
+    Con l’associazione a delle entità, o eventi, 
+    per quanto concettualmente vaghi, 
+    si procederebbe ad elaborare un concetto di “verità” musicale. 
+    In ogni caso, però, si tratterebbe comunque di un semantica estremamente diversa e, certamente, 
+    meno “logica” rispetto alla semantica formale di una lingua naturale, 
+    poiché proveniente da procesi di natura sensoriale e non dall’interpretazione delle unità astratte.
+    Provando a far conciliare la questione con il modello minimalista del linguaggio, 
+    descritto nel primo capitolo, 
+    sembrerebbe che nel caso della musica non vi sia un accesso completo al sistema concettuale-intensionale; 
+    anche nella seconda ipotesi delineata, infatti, 
+    non si riesce comunque a raggiungere una forma logica analoga a quella di una lingua naturale.
+    In conclusione, la musica mostra un comportamento ricorsivo, gerarchico, 
+    ma non mostra tracce di elementi astratti che siano riconducibili a tratti morfo-sintattici, 
+    e la questione riguardante la sua semantica rimane comunque aperta. 
+    Alla luce delle osservazioni compiute, è possibile affermare che la grammatica universale, 
+    intesa come sistema di diverse proprietà, 
+    ha la capacità di rendere alcune sue componenti (la ricorsività, l’operazione Salda) 
+    disponibili anche ad altri sistemi semiotici, come la musica, 
+    ma, allo stesso tempo, 
+    non rende disponibili gli elementi grammaticali che invece costituiscono la base minima del linguaggio naturale.
+    Abbiamo quindi un sistema “chiuso”, 
+    di cui però il meccanismo centrale ha la possibilità di essere sfruttato da domini cognitivi esterni. 
+    Tutto ciò segnala la necessità di ricerche future che facciano chiarezza sulle modalità in cui 
+    la grammatica universale interagisce con le altre facoltà cognitive.
+
+    $$ Conclusioni
+    La panoramica presentata fin qui cerca di mostrare la complessità delle questioni e delle problematiche 
+    che vanno prese in considerazione quando si discute delle relazioni 
+    fra linguaggio umano ed altri sistemi semiotici. 
+    Il sistema generativo della grammatica universale, 
+    così come descritto dal modello teorico del minimalismo, 
+    è nato come spiegazione cognitiva del fenomeno della facoltà del linguaggio naturale.
+    Cercare di analizzare le relazioni che intercorrono 
+    fra questo specifico modulo della mente ed altri domini cognitivi, 
+    responsabili di altri fenomeni semiotici, 
+    è un’impresa ambigua in molti sensi. 
+    
+    Come abbiamo visto le uniche due modalità espressive 
+    che possono essere assunte come esternalizzazione delle strutture sintagmatiche astratte 
+    sono la modalità vocalica e quella segnata. 
+    Indubbiamente l’uomo comunica anche mediante altri sistemi, 
+    i quali, però, non hanno accesso alla grammatica universale. 
+    D’altro canto, di fondamentale importanza è l’osservazione 
+    che una struttura come la musica è in possesso della ricorsività, 
+    fulcro della facoltà linguistica. 
+    Che altri sistemi semiotici siano in grado di generare espressioni gerarchiche 
+    in modo analogo al linguaggio
+    è certamente un elemento importantissimo che apre molte domande 
+    riguardo l’interazione fra un determinato meccanismo cognitivo 
+    e i domini, o facoltà, a cui esso si può applicare.
+    Le domande che rimangono aperte sono, naturalmente, 
+    quelle riguardanti la natura dei tratti grammaticali 
+    – da dove vengono e in che modo sono elaborati dalla grammatica universale – 
+    e il motivo per cui rimangono confinati al linguaggio naturale 
+    senza poter essere messi in contatto con altri sistemi di segni, 
+    al contrario della ricorsività.
+    È interessante notare, comunque, un riavvicinamento 
+    fra le tematiche tradizionalmente studiate nel solco della semiologia europea 
+    e quelle studiate nelle scienze cognitive – inclusa la grammatica generativa. 
+    Oggi obiettivi comuni sembrano far accostare temi di ricerca che fino a poco tempo fa, 
+    a causa della diversa natura dei paradigmi teorici 
+    a cui le diverse analisi facevano riferimento, 
+    sembravano irrimediabilmente lontani.
+
+
+Bibliografia
+Adger, D. (2003). Core syntax: A minimalist approach (Vol. 33). Oxford: Oxford University Press.
+Adger, D., Svenonius, P. (2011). Features in minimalist syntax, in Boeckx, C. (ed.) The Oxford
+handbook of linguistic minimalism, Oxford: Oxford University Press, 27-51.
+Bellugi, U., Poizner, H., & Klima, E. S. (1989). Language, modality and the brain. Trends in
+neurosciences, 12(10), 380-388.
+Berwick, R. C., Friederici, A. D., Chomsky, N., & Bolhuis, J. J. (2013). Evolution, brain, and the
+nature of language. Trends in cognitive sciences, 17(2), 89-98.
+Boeckx, C. (2006). Linguistic minimalism: Origins, concepts, methods, and aims. Oxford: Oxford
+University Press.
+Chomsky, N. (1957). Syntactic Structures. Cambridge: Mouton.
+Chomsky, N. (1979). Human language and other semiotic systems. Semiotica, 25(1-2), 31-44.
+Chomsky, N. (1993). Lectures on government and binding: The Pisa lectures. Cambridge: Walter de
+Gruyter.
+Chomsky, N. (1995). The Minimalist Program. Cambridge: MIT press.
+Chomsky, N. (2000). New Horizons in the Study of Language and Mind. Cambridge: Cambridge
+University Press.
+Chomsky, N. (2005). Three factors in language design. Linguistic inquiry, 36(1), 1-22.
+Chomsky, N. (2016). Minimal computation and the architecture of language. Chinese Semiotic
+Studies, 12(1), 13-24.
+Chomsky, N. (1964). Aspects of the Theory of Syntax. Cambridge: MIT press.
+Cinque, G. (2013). Cognition, universal grammar, and typological generalizations. Lingua, 130, 50-
+65.
+Corballis, Michael C. The recursive mind: The origins of human language, thought, and
+civilization, Priceton: Princeton University Press, 2014.
+36
+Damasio, A. R., Tranel, D. (1993). Nouns and verbs are retrieved with differently distributed
+neural systems. Proceedings of the National Academy of Sciences, 90(11), 4957-4960.
+De Saussure, F., & De Mauro, T. (1968). Corso di linguistica generale. Roma: Laterza.
+Everett, D. (2005). Cultural constraints on grammar and cognition in Piraha: Another look at the
+design features of human language. Current anthropology, 46(4), 621-646.
+Fitch, W. T., Chomsky, N., & Hauser, M. D., (2005). The evolution of the language faculty:
+clarifications and implications. Cognition, 97(2), 179-210.
+Graffi, G., Scalise, S. (2002). Le lingue e il linguaggio. Bologna: Il Mulino.
+Hauser, M. D., Chomsky, N., Fitch, W. T. (2002). The faculty of language: What is it, who has
+it, and how did it evolve?. Science, 298(5598), 1569-1579.
+Jackendoff, R. (1997). The architecture of the language faculty (No. 28). MIT Press.
+Jackendoff, R. (2002). Foundations of Language. Oxford: Oxford University Press.
+Jackendoff, R. (2003). Précis of Foundations of language: brain, meaning, grammar,
+evolution. Behavioral and Brain Sciences, 26(06), 651-665.
+Jackendoff, R., Pinker, S. (2005). The nature of the language faculty and its implications for
+evolution of language (Reply to Fitch, Hauser, and Chomsky). Cognition, 97(2), 211-225.
+Katz, J., & Pesetsky, D. (2011). The identity thesis for language and music. Manuscript.
+Klima, E. S., Bellugi, U. (1979). The signs of language. MA. Harvard University Press.
+Langacker, R. W. (1987). Nouns and verbs. Language, 53-94.
+Lerdahl, F., & Jackendoff, R. (1985). A generative theory of tonal music. MA. MIT Press.
+Levinson, S. C. (2013). Recursion in pragmatics. Language, 89(1), 149-162.
+Maess, B., Koelsch, S., Gunter, T. C., & Friederici, A. D. (2001). Musical syntax is processed in
+Broca's area: an MEG study. Nature neuroscience, 4(5), 540.
+37
+Nevins, A., Pesetsky, D., & Rodrigues, C. (2009). Pirahã exceptionality: A reassessment.
+Language, 85(2), 355-404.
+Patel, A. D., Gibson, E., Ratner, J., Besson, M., & Holcomb, P. J. (1998). Processing syntactic
+relations in language and music: An event-related potential study. Journal of cognitive
+neuroscience, 10(6), 717-733.
+Pinker, S., Jackendoff, R. (2005). The faculty of language: what's special about it?. Cognition,
+95(2), 201-236.
+Schlenker, P. (2017). Outline of music semantics. Music Perception: An Interdisciplinary Journal,
+35(1), 3-37.
+Starke, M. (2010). Nanosyntax: A short primer to a new approach to language. Nordlyd, 36(1), 1-6.
+Watumull, J., Hauser, M. D., Roberts, I. G., & Hornstein, N. (2013). On recursion. Frontiers in
+psychology, 4.
+Zaccarella, E., Friederici, A. D. (2015). Merge in the human brain: A sub-region based functional
+investigation in the left pars opercularis. Frontiers in psychology, 6.

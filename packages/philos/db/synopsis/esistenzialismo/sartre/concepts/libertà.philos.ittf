@@ -1,0 +1,96 @@
+$group
+
+    namespace sartre
+
+        concept libertà
+
+            r-concept sartre.essere-in-sé
+                quote
+                    + Nella misura in cui il per-sé cerca di incorporarsi l'in-sé come suo autentico modo d'essere, 
+                        \b esso cerca di mascherare a se stesso la propria libertà. 
+                        \b Il rifiuto della libertà non può quindi attuarsi 
+                        \b che come tentativo di concepirsi come essere-in-sé.
+                    book sarte.l-essere-e-il-nulla
+
+            quote
+                + Ci è stato possibile comprendere come la realtà umana sia il proprio nulla. 
+                    \b Essere, per il per-sé, è annullare l'in-sé che esso è. 
+                        bax è fermare il movimento cieco
+                    \b Cosi stando le cose la libertà non può esser null'altro che questa nullificazione. 
+                        bax questa saper fermare il movimento cieco, saper scegliere tra si e no dopo riflessione (presa di distanza dal movimento)
+                    \b È in virtú sua che il per-sé sfugge al suo essere nel senso di essenza, 
+                        bax non è più sottomesso ad un cieco movimento che fissando ciò che egli è gli impone una essenza
+                    \b è in virtú sua che esso è sempre qualcos'altro da ciò che si può dire di lui. 
+                        bax può dire di sì poi di no come lui ritiene
+                    \b Dire che il per-sé ha da essere ciò che è, 
+                        bax dire che ora può decidere cosa essere (nel sì o nel no)
+                    \b dire che esso è ciò che non è nel mentre non è ciò che è, 
+                        bax ???
+                    \b dire che in lui l'esistenza precede e condiziona l'essenza... 
+                        bax che le sue scelte determinano ciò che è
+                    \b equivale a dire che l'uomo è libero.            
+                book sarte.l-essere-e-il-nulla
+
+            quote
+                + Io sono per sempre condannato ad esistere al di là della mia essenza, 
+                    \b al di là del moventi e del motivi della mia azione, 
+                    \b sono condannato ad essere libero. 
+                    \b E ciò significa che non è possibile trovare alla libertà altri limiti oltre se stessa, 
+                    \b o, se si preferisce, che non siamo liberi di cessare di essere liberi.
+                book sarte.l-essere-e-il-nulla
+                bax
+                    + Questa facoltà che ho di fermarmi e di scegliere il sì o no non posso rifiutarla;
+                        \b non posso evitare di potere sempre cambiare idea;
+                        \b sono obbligato ogni volta a riaffermare le mie scelte;
+                        \b non mi posso vincolare per il futuro;
+                        \b non posso tornare ad essere schiavo del movimento cieco.
+
+            quote
+                + Nella misura in cui il per-sé cerca di incorporarsi l'in-sé come suo autentico modo d'essere, 
+                    \b esso cerca di mascherare a se stesso la propria libertà. 
+                    \b Il rifiuto della libertà non può quindi attuarsi 
+                    \b che come tentativo di concepirsi come essere-in-sé.
+                book sarte.l-essere-e-il-nulla
+                bax
+                    + per rifiutare la libertà
+                        \b bisogna tentare di concepirsi
+                        \b incapaci di fermarsi
+
+            quote
+                + L'Esserci umano è libero proprio perché è a se stesso insufficiente 
+                    \b perché è costantemente sottratto a se stesso. 
+                    \b L'uomo è libero perché non è se stesso ma presenza a se stesso. 
+                    \b Un essere che fosse ciò che non è non potrebbe esser libero. 
+                    \b Abbiamo visto infatti come per la realtà umana esserci significa scegliersi... 
+                    \b Essa è totalmente abbandonata (e senza rimedio alcuno) 
+                    \b alla ineliminabile necessità di farsi essere anche nel più piccolo particolare. 
+                    \b E perciò la libertà non è un essere, ma l'essere dell'uomo.                        
+                book sarte.l-essere-e-il-nulla
+                bax
+                    + Il movimento cieco e impulsivo non basta all'uomo;
+                        \b egli può valutare e quindi non riesce a lasciarsi andare all'impulso;
+                        \b egli costantemente si inibisce e si osserva sottraendosi all'impeto del'impulso.
+                        \b L'uomo è libero perchè non è mai il il proprio movimento, ma è presenza
+                        \b di fronte al proprio stare e il movimento per lui è sempre la conseguenza di un sì,
+                        \b che egli ad ogni istante deve pronunciare, anche per il più piccolo movimento
+                        \b (almeno dai tre anni in poi, come ha osservato Vygotzkji).
+
+            quote
+                + La libertà dell’uomo appare dunque non solo come condizione positiva, 
+                    \b ma l’uomo ne sente tutto il peso in quanto ha delle responsabilità, 
+                    \b per sé e per gli altri, e la responsabilità produce angoscia. 
+                    \b Questa è la condanna dell’uomo libero, 
+                    \b costretto perennemente a scegliere senza paletti imposti, 
+                    \b che rendono ingabbiati ma sicuramente più sereni e sicuri. 
+                    \b D’altronde, per l’esistenzialista non può esserci una morale universale, unica 
+                    \b e, perciò, legittimamente imposta; 
+                    \b per lui tutto diventa dubbio, riconsiderazione, invenzione: 
+                    \b è abbandonato e non trova in sé e fuori di sé possibilità di ancorarsi. 
+                    \b È questo il prezzo della libertà, 
+                    \b libertà che per Sartre deve essere 
+                    \b il significato ultimo degli atti dell’uomo di buona fede.
+                article luzietti.il-peso-della-libertà-in-sartre
+
+
+
+

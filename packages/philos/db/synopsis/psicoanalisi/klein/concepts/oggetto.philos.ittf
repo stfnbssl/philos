@@ -1,0 +1,17 @@
+$group
+
+    namespace klein
+
+        concept oggetto
+            
+            r-concept
+                + Il termine oggetto era un termine tecnico usato da Freud 
+                    \b per designare ciò a cui è rivolto un impulso istintuale.
+                    \b Per Freud, l’oggetto era un qualcosa verso cui scaricare un impulso libidico.
+            
+            + Per Klein l’oggetto è una componente essenziale della vita psichica, 
+                \b è inteso come entità, sentita come concreta,
+                \b dotata di esistenza propria e di propri impulsi,
+                \b una “quasi persona” attiva nella nostra mente, in quanto ama, odia, distrugge, divora, invidia. 
+                \b Gli oggetti possono essere anche oggetti interni determinati da sensazioni corporee,
+                \b come pure persone o parti di corpo.

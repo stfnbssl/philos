@@ -1,0 +1,42 @@
+$group
+
+    namespace freud
+
+        concept seconda-topica
+            alias concezione-tripartita
+            + Es, Io, Super-Io
+
+            concept es
+                title L'Es
+                quote
+                    + [..] siamo in grado di attribuire all’Es 
+                        \b altre caratteristiche oltre a quella di essere inconscio e 
+                        \b che è possibile che parti dell'Io e del Super-io siano inconsce 
+                        \b senza condividere i caratteri primitivi e irrazionali dell'Es
+
+            concept inconscio-non-rimosso
+                title Inconscio non rimosso
+                + inconscio "primitivo e irrazionale"
+                quote
+                    + [..] dobbiamo attribuire a questo tipo di inconscio non rimosso (primitivo e irrazionale) 
+                        \b tutte le caratteristiche che Freud ha in precedenza descritto 
+                        \b come processo primario o come caratteristiche del sistema inconscio 
+                    book blanco.l-inconscio-come-insiemi-infiniti
+                    page 88
+                quote
+                    + [..] nel lavoro "L'inconscio", 1915, dove non parla ancora dell'inconscio non rimosso 
+                        \b ma certamente lo implica e comunica l'idea della rimozione come 
+                        \b ritorno allo stato primitivo (non rimosso) attraverso il diniego 
+                        \b (precedentemente aveva parlato di ritiro di investimenti) degli investimenti di parole
+                    book blanco.l-inconscio-come-insiemi-infiniti
+                    page 89
+
+            concept io
+                title L'Io
+                quote
+                    + [..] l'inconscio non rimosso dell'Io è l'aspetto rimovente dell'Io
+                    book blanco.l-inconscio-come-insiemi-infiniti
+                    page 93
+
+            concept super-io
+                title Il Super-Io

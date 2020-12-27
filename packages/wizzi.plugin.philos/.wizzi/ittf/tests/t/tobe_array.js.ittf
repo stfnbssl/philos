@@ -1,0 +1,6 @@
+﻿$group
+	$params name, length
+	
+	_ expect(${name}).to.be.an('array')
+	_ expect(${name}.length).to.be(${length})
+

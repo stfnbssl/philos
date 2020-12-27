@@ -1,0 +1,8 @@
+$group
+
+    namespace lacan
+
+        concept cesoiata
+            alias coup de cisaille
+            + La cesoiata del linguaggio stacca dal corpo l'oggetto
+                \b (seno, feci, sguardo, voce, ecc..) e lo rende perduto.

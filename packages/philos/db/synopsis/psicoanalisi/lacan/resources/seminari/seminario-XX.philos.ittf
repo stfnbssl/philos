@@ -1,0 +1,33 @@
+$group
+
+    book lacan.seminario-XX
+        author Lacan
+        title Seminario. Libro XX. Ancora.
+        written 1972-1973
+        edition Torino: Einaudi, 2011
+        index
+            + I. Del godimento. 
+            + II. A Jakobson. 
+            + III. La funzione dello scritto. 
+            + IV. L'amore e il significante. 
+            + V. Aristotele e Freud: l'altra soddisfazione. 
+            + VI. Dio e il godimento de La donna. 
+            + VII. Una lettera d'animamore. 
+            + VIII. Il sapere e la verità. 
+            + IX. Del barocco. 
+            + X. Anelli di corda. 
+            + XI. Il ratto nel labirinto. 
+            + Avvertenza del curatore.
+        back-cover
+            + È quel godimento di cui tutti e ognuno sanno dire qualcosa: 
+                \b parlare d’amore è già un godimento. 
+                \b L’amore infatti viene a supplire – e può arrivare a supplirvi egregiamente – 
+                \b al fatto che qualcosa nell’inconscio fa sí che anche quando l’uomo e la donna fanno l’amore 
+                \b ognuno resta dalla propria parte. 
+                \b Che Lacan sintetizza nell’aforisma «non c’è rapporto sessuale». 
+                \b Ma – colpo di scena – in questo Seminario Lacan apre un capitolo nuovo risolvendo una vecchia questione: 
+                \b il godimento fallico, rispetto al quale una donna si situa come non-tutta, ossia non-tutta lí, 
+                \b non esaurisce il godimento, poiché c’è un godimento Altro, 
+                \b che è, rispetto al godimento fallico, supplementare. 
+                \b Ci sono persone che lo provano, ma che non sanno dirne nulla, 
+                \b come capita ad alcune donne o a dei mistici.

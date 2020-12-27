@@ -1,0 +1,21 @@
+$group
+    author Bateson
+        fullname Gregory Bateson
+        born
+            date 9/5/1904
+            place Grantchester, Regno Unito
+        died
+            date 4/7/1980
+            place San Francisco, California, Stati Uniti
+
+        approach epistemologia sistemica
+
+        theory teoria del doppio legame
+            + intende spiegare il comportamento umano, sia “normale” che “disturbato”, a partire dall'analisi
+                \b dei processi comunicativi
+            + cerca l'origine della malattia mentale in fattori relazionali
+            + sposta l'attenzione dal singolo soggetto all'intero sistema di relazioni in cui è inserito
+            + ha trovato applicazione in ambito clinico negli interventi di terapia familiare
+            + non è esclusivamente una teoria della schizofrenia, sebbene il gruppo di studiosi si soffermi ad
+                \b analizzare in particolar modo gli scambi comunicativi delle persone con questo tipo di disturbo
+                

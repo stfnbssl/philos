@@ -1,0 +1,20 @@
+$group
+    e author : item
+    e authorsgroup : item
+        tag authors-group
+    e coauthor : item
+        tag co-author
+    e founder : item
+    e parent : item
+    e child : item
+    e place : item
+    e born : item
+    e died : item
+    e influenced : item
+    e influencedby : item
+        tag influenced-by
+    e attributedby : item
+        tag attributed-by
+    e opinionof : item
+        tag opinion-of
+    e criticism : item

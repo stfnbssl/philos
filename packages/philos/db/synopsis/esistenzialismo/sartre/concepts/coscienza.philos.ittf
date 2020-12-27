@@ -1,0 +1,24 @@
+$group
+
+    namespace sartre
+
+        concept coscienza
+            quote
+                + Il non essere cosa della coscienza,
+                    \b che è poi il potere della coscienza di oggettivare,
+                    \b è la radice della libertà
+
+
+            bax
+                + Ogni coscienza è un toccarsi.
+                    \b La realtà piegandosi su se stessa 
+                    \b diventa fenomeno e coscienza allo stesso tempo.
+                    \b La coscienza esiste perché il mondo ha la proprietà
+                    \b di potersi piegare su se stesso.
+                    \b La coscienza è sempre fenomeno di bordo in una piegatura del mondo;
+                    \b il bordo è il fenomeno.
+            bax
+                + D: può la coscienza essere coscienza di se stessa?
+                + R: la coscienza è un dispositivo che legge i fenomeni,
+                    \b quindi se la coscienza riesce a scriversi,
+                    \b allora può anche leggersi

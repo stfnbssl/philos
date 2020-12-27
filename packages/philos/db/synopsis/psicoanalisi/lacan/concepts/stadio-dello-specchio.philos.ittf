@@ -1,0 +1,68 @@
+$group
+
+    namespace lacan
+
+        concept imago
+            + L'imago è un'immagine con la quale l'individuo si identifica.
+            
+            r-concept stadio-dello-specchio
+                + L'imago è esterna al neonato;
+                    \b l'Io non si forma come emanazione dell'individuo,
+                    \b ma come il risultato di un incontro con l'altro.
+
+        concept aha-Erlebnis
+            alias esperienza ah-ha
+            alias eureka
+            + Nella sua ricerca su come gli esseri umani e gli animali apprendono e risolvono i problemi, 
+                \b Wolfgang Köhler ha osservato che gli studenti sperimentano un momento 
+                \b in cui gli elementi del loro compito o problema "si uniscono" 
+                \b - nei termini di Kohler, emergono come una gestalt - 
+                \b per loro in modi diversi che migliorano notevolmente la loro comprensione 
+                \b e il successo nella risoluzione dei problemi. 
+                \b Questo momento di intuizione è l'esperienza ah-ha; 
+                \b Aha-Erlebnis è il termine tedesco a cui allude Lacan. 
+                \b Per Lacan, l'esperienza ah-ha è analoga alla fase dello specchio, 
+                \b che implica anche un momento di intuizione improvvisa 
+                \b che porta a un cambiamento significativo nell'organizzazione mentale del soggetto.    
+
+        concept stadio-dello-specchio
+            + È il momento nel quale Lacan individua la frammentazione, la scissione 
+                \b tra struttura e oggetto piccolo (a).
+            
+            + Tra i 6 e i 18 mesi il bambino risponde in modo giubilatorio 
+                \b alla propria immagine riflessa nello specchio. 
+            
+            + Il bambino si identifica con l'immagine, 
+                \b che funge da gestalt (forma) delle percezioni emergenti dell'individualità del bambino, 
+                \b ma poiché l'immagine di un corpo unificato 
+                \b non corrisponde alla vulnerabilità fisica 
+                \b e alla debolezza del bambino sottosviluppato, 
+                \b questa immagine è stabilita come un Io ideale a cui 
+                \b il soggetto si sforzerà continuamente di conformarsi per tutta la vita.
+
+            + Nello stesso istante in cui si riconosce comincia per lui il processo che Lacan chiama, 
+                \b con un termine ripreso dalla Coscienza infelice hegeliana, di alienazione: 
+                \b la sua immagine, e quindi il suo Io, si frantuma, 
+                \b si scinde alienandosi oggettivamente in un sé. 
+                \b L’Io del bambino si costituisce quindi come risultato della mediazione tra le due parti, 
+                \b cioè tra il sé oggettivo e l’immagine dello specchio, detta Io ideale, 
+                \b che salva il soggetto dalla disgregazione, 
+                \b permettendogli il riconoscimento come Io. 
+                \b L’identificazione in un Io spinge di conseguenza il soggetto 
+                \b a cercare la propria immagine nello specchio, 
+                \b a entrare cioè nel campo dell’Altro, 
+                \b il che significa sottostare a delle leggi che inevitabilmente lo privano del godimento. 
+            
+            + Lacan parla di questa perdita di godimento 
+                \b in termini di “azione letale del significante”. 
+                \b Secondo questa concezione, l’Edipo risulta una limitazione del godimento, 
+                \b imposta dalla legge del padre, 
+                \b il quale interviene come rappresentante della legge dell’Altro, 
+                \b alla quale egli stesso è sottomesso.
+                \b Accettando la legge paterna, 
+                \b il bambino si identifica con il padre
+                \b e dal padre, considerato da Lacan il detentore del fallo, 
+                \b cioè preleva del campo dell’Altro dei significanti, 
+                \b dei tratti che lo rappresentano 
+                \b quali la storia familiare, la cultura, le abitudini, 
+                \b ed assume il suo giusto ruolo nella triade familiare.

@@ -1,0 +1,29 @@
+$group
+
+    namespace blanco
+
+        concept generalizzazione
+
+            quote
+                + il sistema inconscio tratta una cosa individuale 
+                    \b come se fosse un membro di un insieme o classe; 
+                    \b tratta questa classe come sottoclasse di una classe più ampia 
+                page 43
+                book blanco.l-inconscio-come-insiemi-infiniti
+            
+            quote
+                + nella scelta di classi e di classi sempre più ampie 
+                    \b il sistema inconscio preferisce quelle funzioni proposizionali che, 
+                    \b in un aspetto, esprimono una generalità crescente,
+                    \b in altri, conservano alcune caratteristiche particolari 
+                    \b della cosa individuale da cui sono partite                            
+                page 44
+                book blanco.l-inconscio-come-insiemi-infiniti
+            
+            quote
+                + È la natura dell'uomo che appare costituita da 
+                    \b una parte generalizzante, che ci immette nei simboli 
+                    \b e una parte limitante, che conduce a un pensiero preciso (asimmetrico).
+                    \b Solo nell'interazione tra queste due parti possiamo capire i fenomeni umani.
+                page 119
+                book blanco.l-inconscio-come-insiemi-infiniti

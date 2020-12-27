@@ -1,0 +1,30 @@
+$group
+
+    book lacan.seminario-VII
+        author Lacan
+        title Seminario. Libro VII. L'etica della psicoanalisi.
+        written 1959-1960
+        edition Torino: Einaudi, 2008
+        index
+            + Introduzione della Cosa.
+            + Il problema della sublimazione.
+            + Il paradosso del godimento.
+            + L'essenza della tragedia.
+            + La dimensione tragica dell'esperienza psicoanalitica.
+            + Avvertenze.
+        back-cover
+            + L’etica consiste essenzialmente in un giudizio sulla nostra azione.
+                \b La psicoanalisi apporta qualcosa che si pone come misura della nostra azione, 
+                \b ma lungi dal proporre un ritorno agli istinti o una ripresa degli ideali della morale tradizionale, 
+                \b essa pone l’accento sul rapporto dell’azione con il desiderio che la abita. 
+                \b Il desiderio non si confonde né con il volere né con il potere, né con il piacere né con l’utile. 
+                \b Comporta invece la dimensione dell’inconscio.
+                \b In questo seminario Lacan illustra come il desiderio inconscio ruoti attorno a un vuoto di senso:
+                \b Freud lo chiama das Ding, Lacan la Cosa. 
+                \b Questo vuoto, esemplificato nelle forme della sublimazione dell’amor cortese e dell’arte, 
+                \b Lacan lo delinea nel rapporto paradossale che egli stabilisce 
+                \b tra il Kant dell’imperativo categorico e il de Sade del fantasma perverso. 
+                \b Di questo vuoto Lacan svela l’orrore, 
+                \b esemplificato nella tragica figura di Antigone 
+                \b e celato dal comandamento dell’amore verso il proprio prossimo.
+

@@ -1,0 +1,15 @@
+$group
+
+    set functors.approach
+        function
+            param parent
+            param resultObj
+            var approachObj = createConcept(parent.wzName, "approach")
+            var newitems = fillConcept(parent, resultObj, approachObj)
+            _ resultObj.approaches.push
+                @ approachObj
+            foreach child in newitems
+                _ doitem
+                    @ child
+                    @ resultObj
+

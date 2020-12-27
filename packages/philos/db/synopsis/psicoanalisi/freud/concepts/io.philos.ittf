@@ -1,0 +1,15 @@
+$group
+
+    namespace freud
+
+        concept Io
+            
+            r-concept freud.seconda-topica
+                quote
+                    + Tuttavia anche l’Io soggiace all’azione delle pulsioni come l’Es, 
+                        \b di cui è soltanto una parte che ha subito una particolare modificazione.
+                    kindle-page 5983
+
+        concept parte-inconscia-io
+
+

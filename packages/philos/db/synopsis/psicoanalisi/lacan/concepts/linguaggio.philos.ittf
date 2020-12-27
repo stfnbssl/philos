@@ -1,0 +1,50 @@
+$group
+
+    namespace lacan
+
+        concept linguaggio
+
+           
+            r-concept lacan.significante
+                + il linguaggio è rappresentativo, 
+                    \b instaura l’ordine del senso in luogo di quello dell’essere, 
+                    \b inteso come pienezza chiusa, assoluta presenza. 
+            quote
+                + Tutto ciò che si determinerà successivamente 
+                    \b – desiderio, pulsione, domanda, fantasma – 
+                    \b avrà in questa premessa la sua condizione eminente, la sua origine: 
+                    \b nell’assunto che il linguaggio è quanto ci delude, 
+                    \b non occasionalmente, bensì costitutivamente. 
+
+            quote
+                + E in cosa ci delude? Nella possibilità di formulare la domanda “chi sono?” 
+                    \b e nell’impossibilità, allo stesso tempo, di reperire una risposta, 
+                    \b nell’ostacolo che il linguaggio presenta verso ogni appello all’essenza, all’essere.
+
+            quote
+                + Sottolineare la dimensione rappresentativa del linguaggio 
+                    \b non vuol dire così altro che segnalare la distanza, la differenza, 
+                    \b e altresì la spaziatura che divarica il soggetto dal suo essere. 
+    
+            quote
+                + Indipendentemente dal significante maître 
+                    \b che viene a suturare e ricucire di volta in volta 
+                    \b il soggetto dalla sua divisione, 
+                    \b resta il dato irriducibile che il linguaggio non può, 
+                    \b in virtù di quanto detto, ricoprire – se non in termini illusori – 
+                    \b l’ordine dell’essere dal quale esso stesso estromette. 
+
+            r-concept lacan.essere
+                + essere e linguaggio coabitano
+
+            r-concept lacan.mancanza-a-essere
+                quote
+                    + La riflessione sul linguaggio investe la parola come esperienza del soggetto 
+                        \b sullo sfondo della sua mancanza a essere; 
+                        \b il che significa introdurre la questione nel cuore stesso della possibilità stessa 
+                        \b da parte di ogni essere parlante di strutturare la propria esperienza, 
+                        \b e dunque il desiderio. 
+                        \b Da questo punto di vista, il linguaggio è un’esperienza, 
+                        \b è l’esperienza stessa della soggettività, 
+                        \b ma altresì della mancanza in cui questa esperienza si consuma 
+                        \b allorché votata a significarsi.

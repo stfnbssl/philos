@@ -1,0 +1,33 @@
+$group
+
+    author Brouwer
+        fullname Luitzen Egbertus Jan Brouwer
+        born 
+            date 27/2/1881
+            place Overschie, Rotterdam, Paesi Bassi
+        died
+            date 2/12/1966
+            place Blaricum, Paesi Bassi
+        + È stato un matematico olandese, professore all'Università di Amsterdam dal 1912 al 1951.
+        + Fu il fondatore della "scuola intuizionistica",
+            \b una delle principali scuole di filosofia della matematica del XIX secolo. 
+        quote
+            + Mathematics is nothing more, nothing less, than the exact part of our thinking.
+
+        quote
+            author Heyting
+            + La costruzione [di Brouwer] della matematica intuizionista non è né più né meno che un'indagine 
+                \b dei limiti estremi che l'intelletto può raggiungere nel suo auto-dispiegarsi
+            page 314
+            chapter Heyting.L E J Brouwer
+                title L.E.J. Brouwer
+                author Heyting
+                page 308–315
+                book Klibansky.Contemporary philosophy, A survey, I
+                    title Contemporary philosophy, A survey, I, Logic and foundations of mathematics
+                    author Raymond Klibansky
+                    edition 1968
+
+                        
+
+

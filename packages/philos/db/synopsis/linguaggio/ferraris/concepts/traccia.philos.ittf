@@ -1,0 +1,18 @@
+$group
+
+    namespace ferraris
+
+        concept traccia
+            + la traccia può diventare registrazione e questa può diventare iscrizione. 
+            
+            quote
+                + [Traccia è] ogni forma di modificazione di una superficie 
+                    \b che rinvia (ricordandolo) a qualcosa di non presente
+                book ferraris.documentalità
+                page 200
+                bax
+                    + Traccia è ogni forma di modificazione permanente di una superficie 
+                        \b la quale produca a sua volta una modificazione
+                        \b in chiunque o qualsiasi cosa che successivamente
+                        \b percorra quella superficie                  
+                    

@@ -1,0 +1,46 @@
+$group
+
+    book lacan.seminario-XVII
+        author Lacan
+        title Seminario. Libro XVII. Il rovescio della psicoanalisi. 
+        written 1969-1970
+        edition Torino: Einaudi, 2001
+        index
+            + I. Produzione dei quattro discorsi. 
+            + Assi della sovversione analitica: 
+                + II. Il padrone e l'isterica. 
+                + III. Sapere, mezzo di godimento. 
+                + IV. Verità, sorella di godimento. 
+                + V. Il campo lacaniano. 
+            + Al di là del complesso di Edipo: 
+                + VI. Il padrone castrato. 
+                + VII. Edipo e Mosè, e il padre dell'orda. 
+                + VIII. Dal mito alla struttura. 
+                + IX. La feroce ignoranza di Yahweh. 
+            + Il rovescio della vita contemporanea: 
+                + X. Colloquio sulla gradinata del Pantheon. 
+                + XI. I solchi dell'aletosfera. 
+                + XII. L'impotenza della verità. 
+                + XIII. Il potere degli impossibili. 
+            + Allegati
+                + A. Analyticon. 
+                + B. Relazione del professor André Caquot. 
+                + Postfazione di Jacques-Alain Miller. 
+                + Cenni storici e biografici. 
+                + Avvisi.        
+        back-cover
+            + Lacan tenne il seminario dal titolo Il rovescio della psicoanalisi 
+                \b – il diciassettesimo del suo insegnamento – 
+                \b nell’anno accademico 1969-70. 
+                \b I fatti del maggio ’68 non esulano dalla tematica del seminario 
+                \b né per le implicazioni concrete, 
+                \b né soprattutto perché Lacan vi sviluppa una teoria del potere 
+                \b che ha il suo fulcro nel «discorso del padrone», 
+                \b esatto rovescio del discorso della psicoanalisi. 
+                \b Il discorso del padrone, infatti, è incentrato sul potere del significante, 
+                \b mentre nel discorso della psicoanalisi 
+                \b il potere non è accordato al significante ma a ciò che lo causa. 
+                \b Il rovescio della psicoanalisi è dunque un seminario critico nei confronti di Freud, 
+                \b dove Lacan contesta l’idea freudiana 
+                \b che faceva coincidere il discorso della psicoanalisi con il discorso dell’inconscio 
+                \b poiché quest’ultimo, in realtà, altro non sarebbe che il «discorso del padrone».

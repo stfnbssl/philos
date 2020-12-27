@@ -1,0 +1,478 @@
+$group
+
+    source
+        author Ilaria Gianetto
+        url http://www.trad.it/ilaria-gianetto-pensiero-e-linguaggio-in-vygotskij-un-glossario/
+
+        content
+            author Vygotskij
+
+            concept agglutinazione
+                en agglutination
+                see linguaggio interno
+                
+            concept apprendimento
+                en learning
+                + Vygotskij afferma che 
+                    quote
+                        + en un proceso natural de desarrollo, 
+                            \b el aprendizaje se presenta como un medio 
+                            \b que fortalece este proceso natural, 
+                            \b pone a su disposición los instrumentos 
+                            \b creados por la cultura 
+                            \b que amplían las posibilidades naturales del individuo 
+                            \b y reestructuran sus funciones mentales 
+                        page Ivić 1994: 5
+                + raffinando così la capacità di pensiero. 
+                + Attraverso il processo di apprendimento nascono nella mente del bambino 
+                    \b nuovi tipi di astrazioni (vedi) e generalizzazioni (vedi) 
+                    \b che giocano un ruolo di fondamentale importanza nella formazione di concetti (vedi) 
+                    \b e di nuovi concetti sulla base dei primi; 
+                    \b viene riorganizzata così la struttura concettuale nella mente del bambino.
+                + Vygotskij definisce l’apprendimento come lo “sviluppo artificiale del bambino” 
+                    \b e aggiunge che 
+                    quote
+                        + la educación no se limita únicamente 
+                            \b al hecho de ejercer una influencia en los procesos del desarrollo, 
+                            \b ya que reestructura de modo fundamental todas las funciones del comportamiento 
+                            page (Vygotskij, citato in Ivić 1994: 7)
+                + Quindi, per Vygotskij l’apprendimento non si riduce 
+                    \b ad una mera acquisizione di una certa quantità di informazioni, 
+                    \b bensì va a costituire la fonte e il motore trainante dello sviluppo (vedi) e della crescita. 
+                    \b L’essenza dell’insegnamento consiste, di conseguenza, 
+                    \b nel garantire lo sviluppo fornendo al bambino strumenti, 
+                    \b tecniche interiori di pensiero e operazioni di ragionamento.
+                + Le ricerche di Vygotskij mettono in luce come nel momento in cui ha inizio l’apprendimento, 
+                    \b i bambini che mostrano un buon rendimento, 
+                    \b non presentano il più piccolo segno di maturazione 
+                    \b delle premesse psicologiche necessarie per il processo stesso di apprendimento, 
+                    \b quali memoria, attenzione, consapevolezza e volontarietà. 
+                    \b Queste, in particolar modo le ultime due, sono neoformazioni 
+                    \b appartenenti alla sfera delle funzioni psichiche superiori 
+                    \b che nascono proprio in età scolare; 
+                    \b essendo ancora allo stadio embrionale in questo momento della storia del bambino 
+                    \b sono forgiate dall’apprendimento, 
+                    \b che ne garantisce un corso adeguato di sviluppo. 
+                    \b Risulta quindi che 
+                    quote 
+                        + l’apprendimento si realizza su processi psichici immaturi, 
+                            \b che stanno appena iniziando il primo e fondamentale ciclo del loro sviluppo (Vygotskij 2004: 262)
+                    + ed è proprio questa la chiave del successo dell’apprendimento.
+                + Studiando il rapporto tra apprendimento e sviluppo, 
+                    \b Vygotskij ha concluso che il primo va sempre avanti al grado di sviluppo mentale del bambino; 
+                    \b tra i due processi non esiste nessun tipo di parallelismo. 
+                    \b Sarebbe dunque un errore pensare che le leggi esterne della struttura del processo di insegnamento 
+                    quote 
+                        + coincidano perfettamente con le leggi interne della struttura dei processi di sviluppo 
+                            \b che danno vita all’apprendimento. [...] 
+                            \b Lo sviluppo non è quindi subordinato al programma scolastico (265-266)
+                    + tuttavia, non vi sono dubbi sul fatto che 
+                        \b tra sviluppo e apprendimento vi sia una forte relazione. 
+                        \b Vygotskij ha provato che 
+                        quote
+                            + il pensiero astratto del bambino si sviluppa in tutte le lezioni 
+                                \b e il suo sviluppo non si scompone affatto in corsi separati 
+                                \b corrispondente alle diverse materie, 
+                                \b lungo i quali si divide l’apprendimento scolastico (268)
+                        + infatti
+                            quote 
+                                + le differenti materie hanno in parte una base psicologica comune (267)
+                            + Ne consegue che l’apprendimento in una materia 
+                                \b mette in moto funzioni psichiche 
+                                \b che si attiveranno anche nell’apprendimento di altre materie.
+                + L’apprendimento ha dunque la sua struttura interna, la sua logica di sviluppo; 
+                    \b interiormente, lo scolaro che apprende ha nella sua mente come una rete interna di processi che, 
+                    \b generati e messi in movimento dall’apprendimento, si sviluppano e rifiniscono. 
+                    \b Concludendo, per risultare il più fruttuoso possibile, 
+                    \b l’apprendimento deve situarsi nella zona di sviluppo prossimo (vedi).
+
+            concept attività verbale
+                en verbal activity
+                see linguaggio interno
+
+            concept astrazione
+                en abstraction 
+                + Spostamento dalla cosa concreta, 
+                    \b dall’oggetto singolo all’idea dell’oggetto 
+                    \b in cui l’intelletto si scosta dall’oggetto empirico e ne trae una copia, 
+                    \b ovvero il concetto astratto, 
+                    \b il quale si colloca nella psiche ad un livello superiore rispetto a quello della percezione concreta. 
+                    \b L’astrazione viene considerata dunque come un movimento dal basso verso l’alto e, 
+                    \b contrariamente a quanto affermavano teorie precedenti a Vygotskij, 
+                    \b non dipende dalla quantità di legami associativi 
+                    \b che il soggetto è giunto a stabilire in quel momento, 
+                    \b ma da neoformazioni qualitative 
+                    \b che normalmente si presentano nella psiche del soggetto a partire dall’adolescenza 
+                    \b e che sono supportate da strumenti quale, in modo particolare, 
+                    quote
+                        + il linguaggio, che è uno degli elementi fondamentali nella costruzione 
+                            \b delle forme superiori dell’attività intellettiva (148)
+                    + sotto cui risiede, appunto, il processo di astrazione. 
+                        \b Il linguaggio, prosegue Vygotskij, 
+                        quote
+                            + non interviene in modo associativo come una funzione che corre parallelamente, 
+                                \b ma in modo funzionale, come un mezzo utilizzato razionalmente (148)
+                        + ovvero, è mediante l’uso della parola che il soggetto si concentra 
+                            \b sui tratti distintivi dell’oggetto al quale si trova di fronte, 
+                            \b li sintetizza per poi dare un simbolo all’oggetto. 
+                            \b Non si tratta, quindi, di un’operazione semplice e immediata, 
+                            \b di uno sdoppiamento automatico, 
+                            \b ma di un processo che matura all’interno dell’individuo lentamente 
+                            \b e che dal momento della sua comparsa si potenzia sempre più e si sviluppa.
+
+La capacità di astrazione compare nell’adolescenza durante il processo di formazione dei concetti (vedi) o di attribuzione di significati (vedi), fenomeni per cui è necessario un «uso funzionale della parola o di un altro segno come mezzo per dirigere attivamente l’attenzione, per differenziare e separare i tratti caratteristici (143)» del concetto o del significato in questione. Durante la formazione di un concetto il soggetto riunisce caratteristiche che
+
+11
+
+accomunano determinati oggetti concreti e le disloca nella sfera della memoria e del pensiero astratto sotto uno stesso riferimento all’oggetto. Si tratta dunque di un processo di sintesi, dai vari oggetti concreti con caratteristiche comuni alla copia astratta nel pensiero, appunto il concetto, sotto cui risiedono gli oggetti concreti. Vygotskij scrive infatti che « [...] mediante l’astrazione di tratti, il bambino disloca la situazione concreta, il legame concreto dei tratti e si crea la premessa necessaria per una nuova unificazione di questi tratti su una base nuova (189)», presente in una sfera differente da quella della percezione concreta, quella dell’astratto. I concetti nuovi vengono poi creati sulla base di concetti già esistenti, quindi in questo caso si presuppone un processo di astrazione non più a partire dalla percezione dell’oggetto empirico, bensì già dall’idea dell’oggetto, che viene arricchita e trasportata ad un livello ancora superiore in cui sussistono diversi legami tra i tratti caratterizzanti dell’oggetto rispetto al livello inferiore di partenza di tale astrazione. Si va in questo modo a formare un sistema di concetti sulla base di diversi livelli di astrazione.
+
+Il processo di astrazione costituisce inoltre un tratto caratterizzante del linguaggio interno (vedi) in quanto questo si differenzia dal linguaggio esterno (vedi) proprio per l’assoluto grado di «astrazione del linguaggio dal lato sonoro (355)», il quale rappresenta l’aspetto più concreto della lingua.
+
+COMPLESSO [complex] [complejo]
+
+Il complesso rappresenta un concetto (vedi) nella sua forma embrionale, è il frutto del pensiero del bambino fino all’età pre-adolescenziale nell’organizzazione mentale della sua esperienza concreta. Si tratta del secondo livello di generalizzazione (vedi) seguente il sincretismo (vedi); costituisce dunque una delle prime fasi di raggruppamento di oggetti in un unico insieme precedente la fase di formazione di un concetto vero e proprio. Come nel concetto, anche nel caso di un complesso vi è la comparsa di rapporti tra differenti percezioni concrete, la riunione e
+
+12
+
+generalizzazione degli oggetti isolati, nonché l’organizzazione e sistematizzazione dell’esperienza. «Ma, il modo di riunione dei differenti oggetti concreti in gruppi generali, il carattere dei legami che vi si stabiliscono, la struttura dell’unità che si costituiscono [...] differiscono profondamente per il tipo e la modalità di azione dal pensiero per concetti [...] (151)». Ciò significa che le generalizzazioni effettuate mediante il pensiero per complessi vanno a creare, per la loro struttura, dei veri e propri complessi di oggetti concreti isolati, riuniti sulla base dei soli legami soggettivi che si stabiliscono nell’impressione del bambino; alla base del complesso infatti vi sono i legami più svariati, che spesso hanno poco in comune tra di loro e che sono di tipo fattuale, casuale e concreto. «Ogni elemento del complesso può essere legato al tutto, espresso nel complesso, e agli elementi isolati che lo compongono mediante legami isolati più diversi (153-154)». Inoltre, «nel complesso, a differenza del concetto, non vi sono legami gerarchici e relazioni gerarchiche tra i tratti (158)» degli oggetti, né rapporti di generalità (vedi). Vygotskij fa notare che «i complessi infantili, corrispondenti ai significati (vedi) delle parole, non si sviluppano liberamente, spontaneamente, secondo linee tracciate dal bambino stesso, ma secondo direzioni precise che sono indicate per lo sviluppo del complesso dal significato delle parole, già stabilito nel linguaggio degli adulti (162)». In ogni caso, il complesso infantile coincide con il concetto dell’adulto nel riferimento all’oggetto, ossia, il bambino e l’adulto si intendono perfettamente nel riferirsi ad un determinato oggetto, ma il bambino lo fa attraverso il meccanismo interno del complesso disorganico e basato sulla concretezza, mentre l’adulto lo fa sulla base del processo interno organizzato tipico del concetto. È necessario sottolineare che una volta superato il complesso con la comparsa del concetto, questo non soppianta completamente il complesso. Esso, infatti, rimane nella mente del soggetto e opera quotidianamente nella sfera del pensiero puramente concreto e nelle forme più primitive del pensiero umano come quelle che sono presenti nel sogno; qui domina ancora il meccanismo primitivo del pensiero per complessi che si manifesta attraverso il processo «della fusione concreta, della condensazione e
+
+13
+
+dello spostamento (182)», nonché della sovrapposizione di immagini e della partecipazione (vedi).
+
+COMPLESSO ASSOCIATIVO [associative complex] [complejo asociativo]
+
+Primo tipo di complesso (vedi) caratterizzato dal legame puramente associativo tra gli oggetti appartenenti al gruppo. Il bambino costruisce il complesso attraverso l’inclusione nel gruppo degli oggetti più svariati sulla base di qualunque rapporto concreto, qualunque legame associativo tra gli oggetti, quali il colore, la forma, la dimensione o altri tratti distintivi che il bambino individua. Vygotskij spiega che «dire una parola per il bambino in questo periodo significa indicare il nome della famiglia delle cose, legate tra di loro in una parentela per le linee più diverse (155)». Non solo gli elementi sono inclusi nella stessa famiglia secondo l’associazione dei più svariati tratti caratterizzanti, ma anche in base a differenti caratteri del rapporto tra gli oggetti. Ne risulta quindi un complesso estremamente eterogeneo, vario e poco sistematizzato. Inoltre, come testimonia Vygotskij, «alla base di questa massa ci può essere non solo un’identità immediata dei tratti, ma anche la loro somiglianza o il loro contrasto [...] (154)»; vi è sempre e comunque un legame concreto. Il bambino dunque chiamerà con lo stesso nome tutta una serie di oggetti che oggettivamente possono non avere nulla in comune tra loro, ma per cui il bambino ha stabilito più legami singoli e di vario genere sulla base della sua personale percezione di fatto della realtà. Il bambino, seguendo la logica di questo tipo di complesso, potrebbe ad esempio riferirsi con la parola «acqua» all’acqua, al latte che è liquido come l’acqua, al bicchiere, che contiene l’acqua, al vetro, che è trasparente come l’acqua, al bagno che gli viene fatto dalla madre con l’acqua, e via dicendo.
+
+14
+
+COMPLESSO A CATENA [chain complex] [complejo cadena]
+
+Il complesso a catena «si costituisce secondo il principio della riunione dinamica e temporanea di mattoni isolati in una catena unica e del trasferimento di significato tra i mattoni di questa catena (157)»; in questo modo, nel processo di formazione di tale complesso (vedi) vi è sempre un passaggio in sequenza da un tratto all’altro a cui corrisponde uno slittamento di significato lungo gli anelli della catena, rappresentanti le parole. Ogni anello risulta essere collegato al precedente per un tratto che differisce completamente dal tratto che caratterizza l’unione con l’anello successivo. Anche in questo caso il legame tra gli oggetti che costituiscono tale complesso è di tipo associativo. Vygotskij riporta nella sua opera vari esempi di esperimenti in cui il bambino manifesta chiaramente la formazione di un complesso a catena. In uno di questi «il bambino indica con la parola «qua» dapprima un’anatra che nuota in uno stagno, poi ogni liquido, compreso il latte che beve nel suo biberon. Poi quando un giorno vede su una moneta la raffigurazione di un’aquila, indica anche la moneta con questo nome e ciò è sufficiente perché in seguito tutti gli oggetti tondi, che ricordano una moneta, siano indicati con lo stesso nome (171-172)».
+
+COMPLESSO COLLEZIONE [collection] [colección]
+
+Vygotskij spiega che nella collezione «[...] oggetti concreti differenti sono riuniti in base alla loro mutua complementarietà rispetto ad un qualsiasi tratto distintivo e formano un tutto unico, composto da parti eterogenee che si completano reciprocamente l’una con l’altra (155)»; in questo tipo di complesso (vedi), quindi, agiscono delle associazioni per contrasto. Inoltre, «il complesso collezione è una generalizzazione (vedi) delle cose sulla base della loro partecipazione ad un’unica operazione pratica, sulla base della loro collaborazione funzionale (156)». Questo tipo di complesso ha delle radici molto profonde nella concretezza, nell’intuito e nella pratica del bambino, elementi che costituiscono quasi totalmente il suo pensiero fino a
+
+15
+
+questo momento e, essendo la forma più frequente di generalizzazione delle esperienze concrete, permane nella psiche del bambino molto a lungo. Anche questo complesso non viene soppiantato completamente dalla comparsa del pensiero per concetti e rimane presente ad esempio «[...] nel linguaggio concreto, quando l’adulto parla delle stoviglie o dei vestiti, [e] ha in vista non tanto il concetto astratto corrispondente quanto degli assortimenti di cose concrete, formanti una collezione (156)».
+
+COMPLESSO DIFFUSO [diffuse complex] [complejo difundido]
+
+Il complesso diffuso costituisce il quarto tipo di complesso (vedi) e si caratterizza per il fatto che il singolo tratto distintivo che sta alla base della riunione dei vari oggetti concreti facenti parte del complesso si presenta, appunto, come diffuso, nonché fluido e vago; ne consegue dunque la formazione di un complesso con elementi legati tra loro in maniera imprecisa e sfumata. Gli esperimenti condotti da Vygotskij sul complesso diffuso mostrano come «il bambino assegna ad un dato modello, un triangolo giallo, non solo dei triangoli, ma anche dei trapezi, poiché gli ricordano dei triangoli con il vertice tagliato. Poi ai trapezi sono vicini i quadrati, ai quadrati gli esagoni, agli esagoni le semicirconferenze e poi i cerchi [...]. [Il bambino fa rientrare nel gruppo anche figure che si avvicinano per il colore]; allora [...] assegna agli oggetti gialli degli oggetti verdi, ai verdi dei blu, ai blu dei neri (159)». Anche questo tipo di complesso, come il complesso collezione (vedi), persiste a lungo nella mente del bambino e presenta un tratto nuovo che caratterizza il pensiero per complessi, ovvero l’imprecisione dei suoi contorni e la sua illimitatezza di principio. Questo complesso, inoltre, compare quando il bambino inizia a scostarsi leggermente dal mondo della pura concretezza per avvicinarsi al mondo dell’immaginazione. Quindi, lo vediamo correre con la fantasia realizzando accostamenti di oggetti sfumati e oscillanti, sorprendenti per i risultati inattesi che spesso risultano incomprensibili per gli adulti. Volendo spaziare verso campi diversi dalla psicologia,
+
+16
+
+vediamo anche un esempio di questo tipo di pensiero creativo e fantastico nella letteratura inglese della seconda metà dell’Ottocento con Lewis Carroll, che nel suo libro Alice nel Paese delle Meraviglie istituisce per Alice, la bambina protagonista del romanzo, un mondo assolutamente irreale fondato proprio sul volo che si può compiere solo attraverso l’immaginazione e la fantasia, mondo in cui la bambina si lascia scivolare per le vie del ragionamento basato su associazioni di idee e immagini totalmente libere e sfumate che ricordano proprio il complesso diffuso.
+
+CONCETTO [concept] [concepto]
+
+Il concetto costituisce il livello superiore di generalizzazione (vedi) seguente il concetto potenziale (vedi); è dato dalla riunione di tratti distintivi comuni di determinati oggetti sotto un unico nome, in cui sussistono legami tra i tratti unici, precisi, regolari e sistematizzati. Vygotskij afferma in merito che «[il concetto è] caratterizzato dall’uniformità dei legami che sono alla sua base. Ciò significa che ogni oggetto isolato, implicato in un concetto generalizzato, è incluso in questa generalizzazione secondo un fondamento assolutamente identico a quello di tutti gli altri oggetti (153)», e non sulla base di tratti costituiti da impressioni soggettive, empiriche e diverse le une dalle altre, come succede nel caso del complesso (vedi).
+
+CONCETTO POTENZIALE [potential concept] [concepto potencial]
+
+Il concetto potenziale costituisce il terzo livello di generalizzazione (vedi) precedente il concetto; è dunque l’anello di congiunzione tra lo pseudoconcetto (vedi), rientrante nella categoria del complesso (vedi), e il concetto (vedi) vero e proprio. A differenza di come succede per il complesso, «il bambino che si trova in questa fase del suo sviluppo distingue solitamente un gruppo di oggetti da lui riuniti sulla base di un unico tratto comune (186)» e questo fa somigliare il concetto potenziale al concetto; tuttavia, è solo «un significato concreto e
+
+17
+
+funzionale [...] [a formare la] base psichica del concetto potenziale (188)» e non un processo intellettivo e logico. Infatti, il concetto potenziale viene considerato, più che il risultato di un’operazione mentale di astrazione (vedi), una formazione pre-intellettiva costituita da «un’impressione d’insieme analoga a quella che abbiamo avuto precedentemente (Groos, citato in Vygotskij 2003: 186)», «una disposizione ad una reazione comune (187)».
+
+CONCETTO QUOTIDIANO [everyday concept] [concepto cotidiano]
+
+I concetti quotidiani sono il prodotto dell’apprendimento (vedi) prescolastico e sono caratterizzati da un uso da parte del bambino spontaneo, automatico e del tutto corretto, anche se incosciente e involontario. Vygotskij scrive che «[...] l’indagine sui concetti spontanei e non spontanei è un caso particolare dell’indagine più generale del problema dell’apprendimento (vedi) e dello sviluppo [...] (vedi) (244)», nel senso che i concetti spontanei sono indicatori del grado di sviluppo mentale del bambino, sul quale si innesta il processo di apprendimento a scuola dei concetti non spontanei, cioè dei concetti scientifici (vedi), i quali, a loro volta, esercitano un’influenza costruttiva sui primi. Vygotskij spiega in merito che si verifica «un innalzamento del livello dei concetti quotidiani che si riorganizzano sotto l’influenza del fatto che il bambino padroneggia i concetti scientifici [...] (283)», responsabili della comparsa nel bambino della presa di coscienza (vedi); il bambino trasferisce questa funzione ai concetti quotidiani, i quali vengono sistematizzati, acquistando tutta una serie di nuovi rapporti con gli altri concetti e modificando così il loro rapporto con l’oggetto. Vygotskij spiega quindi che «i concetti spontanei del bambino si sviluppano dal basso verso l’alto, dalle proprietà più elementari e inferiori a quelle superiori (286)»; «[essi infatti] sono forti nella sfera dell’applicazione concreta, spontanea, con un senso dato dalla situazione, nella sfera dell’esperienza e dell’empirismo [...]. [Proprio da qui comincia il loro sviluppo che] [...] si muove verso le proprietà superiori dei concetti: la presa di coscienza e la volontarietà (288)»,
+
+18
+
+funzioni che compaiono grazie all’apprendimento dei concetti scientifici nella zona di sviluppo prossimo (vedi).
+
+CONCETTO SCIENTIFICO [scientific concept] [concepto científico]
+
+I concetti scientifici si formano durante il processo di apprendimento (vedi) e la loro assimilazione si basa sull’esistenza di concetti quotidiani (vedi) già elaborati. Vygotskij spiega che «[...] i concetti scientifici si sviluppano dall’alto verso il basso, dalle proprietà più complesse e superiori a quelle più elementari e inferiori (286)»; più precisamente, «la forza dei concetti scientifici si manifesta nella sfera che è interamente definita dalla proprietà superiore dei concetti: la presa di coscienza (vedi) e la volontarietà. [...] Lo sviluppo dei concetti scientifici comincia [proprio da questa sfera] [...] e prosegue in avanti, germinando verso il basso nella sfera dell’esperienza personale e del concreto (288)», regno dei concetti quotidiani, sui quali, appunto, prende piede l’apprendimento dei concetti scientifici. Vygotskij afferma in merito che «la dipendenza dei concetti scientifici da quelli spontanei e a sua volta la loro influenza su quelli spontanei derivano da un rapporto particolare del concetto scientifico con l’oggetto, che, [...], è caratterizzato dal fatto che è mediato da un altro concetto e quindi racchiude in sé allo stesso tempo, oltre alla relazione con l’oggetto, anche la relazione con l’altro concetto, cioè i primi elementi di un sistema di concetti (242)»; il concetto quotidiano fa quindi da intermediario tra il concetto scientifico e il suo oggetto, creando così una rete di concetti. È importante sottolineare che «i concetti scientifici sono le porte attraverso cui la presa di coscienza entra nel regno dei concetti infantili (243)»; da questa funzione scaturisce poi la volontarietà, che insieme alla prima funzione, va ad investire la sfera dei concetti spontanei, ristrutturandola ed elevandola alla padronanza. Vygotskij scrive infatti che «la disciplina formale di questi concetti scientifici si manifesta nella riorganizzazione di tutta la sfera dei
+
+19
+
+concetti spontanei del bambino. In ciò sta la loro grande importanza per la storia dello sviluppo mentale (vedi) del bambino (314)».
+
+CONCETTO SPONTANEO [spontaneous concept] [concepto espontáneo] Vedi CONCETTO QUOTIDIANO
+
+CONDENSAZIONE [condensation] [condensación]
+Vedi COMPLESSO, GENERALIZZAZIONE, LINGUAGGIO EGOCENTRICO
+
+ENDOFASIA [endophasy] [endofasia] Vedi LINGUAGGIO INTERNO
+
+EQUIVALENZA DEI CONCETTI [equivalence of concepts] [equivalencia de conceptos]
+
+Si tratta di una legge secondo la quale «ogni concetto (vedi) può essere designato [non solo attraverso se stesso ma anche] secondo una quantità infinita di modi mediante altri concetti (299)»; è necessario precisare che questa legge è diversa e specifica per ogni stadio di sviluppo della generalizzazione (vedi).
+
+FASE AFFETTIVO-VOLITIVA [affective- volitional phase] [fase afectiva / volitiva] Vedi LINGUAGGIO
+
+FASE EMOZIONALE [emotional phase] [fase emocional] Vedi LINGUAGGIO
+
+20
+
+FASE PRE-INTELLETTIVA [pre-intellective phase] [fase pre-intelectiva] Vedi LINGUAGGIO
+
+FUSIONE CONCRETA [concrete fusion] [fusión concreta] Vedi COMPLESSO
+
+GENERALITÀ [generality] [generalidad]
+
+Per generalità si intende il tipo di relazione che struttura i concetti (vedi) in un sistema secondo un ordine genetico dal più generale al più particolare e vice versa; un esempio che propone Vygotskij è la relazione tra le parole di uguale grado di generalità «sedia, tavolo, armadio, divano, scansia (297)» e la parola «mobile (297)», di generalità superiore. Vygotskij afferma che «le relazioni di generalità tra i concetti sono legate alla struttura di generalizzazione (vedi) [...] e che inoltre sono legate ad essa nel modo più stretto: ad ogni struttura di generalizzazione [...] corrisponde il suo sistema specifico di generalità e di rapporti di generalizzazione tra i concetti generali e particolari [...] (297)». Vygotskij aggiunge poi che dai rapporti di generalità dipende la cosiddetta equivalenza dei concetti (vedi). Vygotskij spiega infine che «in funzione dello sviluppo dei rapporti di generalità aumenta l’indipendenza del concetto dalla parola, del senso della sua espressione ed appare la sempre più grande libertà delle operazioni di senso rispetto a se stesse e alle loro espressioni verbali (302)»; ne consegue che «l’insufficiente concatenazione del pensiero infantile è l’espressione diretta dello sviluppo insufficiente delle relazioni di generalità tra concetti (312)».
+
+21
+
+GENERALIZZAZIONE [generalization] [generalización]
+
+«La generalizzazione avviene tramite una sorta di catena percezione -> parola -> percezione -> parola ecc. (ossia analisi -> sintesi -> analisi -> sintesi ecc.) tramite la quale nuove percezioni inducono a formulare nuove parole per descriverle e ciò spinge a catalogare le percezioni affinché sia possibile, con un numero di parole finito, esprimere percezioni infinite, dato che non esistono due percezioni identiche (Vygotskij, citato in Osimo 2004:1)»; si tratta dunque di una sorta di processo di condensazione mediante il quale a tutta la realtà viene assegnato un sostituto simbolico appartenente ad una classe data, «implicitamente accettata dalla comunità dei parlanti come un’entità unitaria (Sapir, citato in Vygotskij 2003: 16)», che serve nella relazione sociale per trasmettere ad altri un’esperienza. La generalizzazione, intesa appunto come raggruppamento di oggetti singoli in un unico gruppo, avviene, a seconda dell’età del soggetto, a diversi livelli, che sono sincretismo (vedi), complesso (vedi), concetto potenziale (vedi) e concetto (vedi). Vygotskij spiega in merito che «un nuovo stadio di generalizzazione compare solo sulla base del precedente. Una nuova struttura di generalizzazione [...] compare come una generalizzazione delle generalizzazioni e non semplicemente come un modo nuovo di generalizzazione di oggetti singoli. Il lavoro precedente del pensiero, che si manifesta nelle generalizzazioni dominanti nello stadio precedente, non è annullato e perduto, ma si inserisce ed entra come premessa necessaria per il nuovo lavoro del pensiero (303)»; una volta formata la nuova struttura di generalizzazione dapprima solo con alcuni concetti, il bambino trasferisce il nuovo principio agli altri concetti, riorganizzando la struttura di tutti i concetti precedenti. Riguardo alla generalizzazione come processo su cui si basa la formazione di un concetto, Vygotskij scrive che «[...] la generalizzazione di un concetto comporta la localizzazione di un dato concetto in un sistema determinato di rapporti, che sono i legami più fondamentali, più naturali, più importanti tra i concetti. La generalizzazione significa così [...] la sistemazione dei concetti (241)». Inoltre, come afferma Vygotskij, essa «[...] presuppone [...] non un
+
+22
+
+impoverimento, ma un arricchimento della realtà rappresentata nel concetto rispetto alla percezione e all’intuizione sensibili e immediate di questa realtà (295)».
+
+IDIOMATICITÀ [idiomaticity] [idiomaticidad] Vedi LINGUAGGIO INTERNO
+
+INFLUENZA DEL SENSO [influx of sense] [influjo de sentido] Vedi LINGUAGGIO INTERNO
+
+INTROSPEZIONE [introspection] [introspección] Vedi PRESA DI COSCIENZA
+
+LEGAME ASSOCIATIVO [associative bond] [vínculo asociativo]
+V edi ASTRAZIONE, COMPLESSO ASSOCIA TIVO, COMPLESSO A CA TENA,
+
+SVILUPPO
+
+LINGUA [language] [lengua]
+
+La lingua comprende tutto un insieme di fenomeni sonori e intellettivi, esterni e interni, orali e scritti, grammaticali e semantici, che permettono ad un individuo di esprimere, comunicare, raccontare, agli altri e a se stessi, pensieri e sentimenti, seguendo le maniere e gli scopi più svariati. Dunque, «la lingua, dal punto di vista del linguista, non è un’unica funzione verbale, ma un insieme di forme verbali diverse (369)» che presentano, a seconda del fine e della situazione d’impiego, dal discorso quotidiano al linguaggio dell’opera letteraria, modalità
+
+23
+
+d’espressione radicalmente differenti. Vygotskij riporta un esempio sulla differenza fra linguaggio in prosa e linguaggio in poesia e afferma che «la lingua, nell’una e nell’altra forma, ha le sue particolarità nella scelta delle espressioni, nell’impiego di forme grammaticali e nelle procedure sintattiche di accoppiamento delle parole nel linguaggio (370)».
+
+Vygotskij, riprendendo un esperimento sulla lingua e il suo sviluppo nel bambino effettuato dallo studioso W. Stern e confermandone la validità, spiega che è all’incirca all’età di due anni che «nel bambino si sveglia una prima coscienza del significato della lingua e la volontà di conquistarlo. Il bambino a questo punto fa la più grande scoperta della sua vita. Scopre che ogni cosa ha un nome (111)». Il bambino si appropria della lingua attraverso il rapporto con il mondo degli adulti, in particolar modo attraverso il rapporto fin dai primissimi mesi di vita con la madre. «In questa fondamentale prima relazione madre-bambino, gioca un ruolo importante l’imitazione reciproca, ad iniziare dallo svilupparsi del linguaggio, in cui la madre imita il bambino, ma sempre un passo più avanti di lui dal punto di vista semantico e sintattico. [...] Come osserva Vygotskij, diventiamo noi stessi attraverso gli altri: quindi non conosciamo gli altri attraverso l’empatia, bensì nella socializzazione primaria, in cui il bambino impara a conoscere l’altro e come l’altro lo interpreta, e in tal modo apprende a conoscersi. Perciò il linguaggio è anche uno strumento di comunicazione fra l’uomo e se stesso (Carnaroli 2001: 2)». Da qui l’importanza di quello che Vygotskij denomina linguaggio interno (vedi).
+
+La lingua diventa poi un importante mezzo funzionale su cui si innestano, il primo trainato dal secondo, il processo di sviluppo (vedi) e di apprendimento (vedi) del soggetto; infatti, si osserva che «la contribución del aprendizaje consiste en que pone a disposición del individuo un poderoso instrumento: la lengua. En el proceso de adquisición, este instrumento se convierte en parte integrante de las estructuras psíquicas del individuo (Ivić1994: 4)».
+
+24
+
+LINGUA MATERNA [native language] [lengua materna]
+
+La lingua materna costituisce il primo apparato linguistico che il bambino apprende direttamente dal rapporto con la madre e con il mondo esterno. Vygotskij spiega che «lo sviluppo della lingua materna comincia con l’uso libero e spontaneo del linguaggio e si compie con la presa di coscienza (vedi) delle forme verbali e la loro padronanza (291)», processo esattamente opposto a quello di apprendimento di una lingua straniera (vedi). Con questa vi è una strettissima interdipendenza in quanto «l’assimilazione di una lingua straniera apre la strada alla padronanza delle sfere superiori della lingua materna (291)»; Vygotskij procede precisando che «[...] la padronanza di una lingua straniera innalza anche la lingua materna ad uno stadio superiore, nel senso della presa di coscienza delle forme della lingua, della generalizzazione dei fenomeni della lingua, dell’uso più consapevole e più volontario della parola come strumento del pensiero e come espressione del concetto (220-221)». Vygotskij conclude la sua analisi affermando un paragone tra l’apprendimento della lingua materna e l’apprendimento nel periodo prescolare dei concetti quotidiani (vedi); il bambino infatti assimila questi in maniera inconsapevole, libera e spontanea, così come avviene con la lingua madre.
+
+LINGUA STRANIERA [foreign language] [lengua extranjera]
+
+La lingua straniera significa per il bambino l’assimilazione dei corrispondenti di quei significati già acquisiti attraverso il processo di astrazione (vedi) e generalizzazione (vedi) nella lingua materna (vedi) in un altro codice linguistico; lo studioso russo mette in luce infatti come «l’apprendimento da parte dello scolaro di una lingua straniera si basa in qualche modo sulla conoscenza della lingua materna (220)», nel senso che «il bambino assimila una lingua straniera perché dispone già di un sistema di conoscenze nella lingua materna e lo trasferisce nella sfera dell’altra lingua (291)». Una volta comparso il processo di appropriazione volontaria della propria lingua e delle regole che la disciplinano, nel bambino l’apprendimento di una lingua
+
+25
+
+straniera parte proprio da questo punto; come spiega Vygotskij, «lo sviluppo della lingua straniera inizia con la presa di coscienza (vedi) della lingua e il suo uso volontario e si compie con un linguaggio libero e spontaneo (291)». Di conseguenza si può affermare che «l’assimilazione della lingua straniera segue una via direttamente opposta a quella che percorre lo sviluppo della lingua materna; [...] lo sviluppo della lingua materna va dal basso verso l’alto, mentre lo sviluppo della lingua straniera va dall’alto in basso (289-290)»; il primo si muove dalla spontaneità e dalla libertà alla presa di coscienza della regola, il secondo dalla regola e dalla consapevolezza all’uso spontaneo, così come succede per l’apprendimento dei concetti scientifici (vedi).
+
+LINGUAGGIO [language] [lenguaje]
+
+Vygotskij scrive che il «linguaggio è anzitutto il mezzo di relazione sociale, il mezzo di espressione e comprensione (15)»; in seguito, precisa che «la funzione iniziale del linguaggio è la funzione della comunicazione, del legame sociale, dell’azione su coloro che sono attorno, sia dalla parte degli adulti, che dalla parte del bambino. Così il primo linguaggio è puramente sociale [...] (57)». Vi è dapprima una fase emozionale, affettivo-volitiva del linguaggio, in cui il bambino esprime i sui bisogni e le sue sensazioni prettamente attraverso il pianto; segue poi una fase pre-intellettiva, in cui il grido, il balbettio e le prime parole costituiscono per il bambino il mezzo con cui comunica con il mondo esterno. Il linguaggio diviene infine linguaggio intellettivo (vedi) quando la sua linea di sviluppo si interseca, all’incirca all’età di due anni, con quella dello sviluppo del pensiero; a partire da questo momento il linguaggio inizia ad assumere una funzione simbolica, ovvero, inizia a presentare suoni di senso (vedi) compiuto, andando ad indicare determinati oggetti e facendosi portatore di significati (vedi). A questo punto attraverso il linguaggio il bambino assimila la rappresentazione del mondo.
+
+26
+
+Vygotskij spiega che «al primo stadio del linguaggio infantile autonomo non esistono nuove relazioni di generalità (vedi) tra i concetti (vedi), per cui tra di essi sono possibili solo i legami che possono essere stabiliti nella percezione (309)». Inoltre, «[...] nel campo dello sviluppo del linguaggio, l’assimilazione delle forme e delle strutture grammaticali avviene nel bambino prima dell’assimilazione delle strutture e delle operazioni logiche che corrispondono a queste forme (117)»; in seguito, l’apprendimento delle regole della lingua, in particolar modo della grammatica e della scrittura, danno al bambino la possibilità di accedere ad un livello superiore dello sviluppo del linguaggio, prendendo coscienza (vedi) della lingua, acquistando la capacità di astrazione (vedi) e generalizzazione (vedi) dei concetti e diventando di conseguenza sempre più consapevole e abile nell’uso del linguaggio stesso.
+
+Lo sviluppo del linguaggio non corre soltanto lungo la linea della presa di coscienza della lingua come mezzo di comunicazione e della formazione progressiva di un sistema di concetti, ma anche lungo la linea della presa di coscienza della presenza di due piani del linguaggio, uno interno e uno esterno. Vygotskij testimonia ciò riportando i risultati della sua analisi in merito. «La ricerca mostra che l’aspetto interno, dotato di senso, semantico del linguaggio e l’aspetto esterno, sonoro, fasico, pur formando un’unità autentica, hanno ciascuno delle proprie leggi di movimento. L’unità del linguaggio è un’unità complessa, ma non omogenea e congenere [...]. L’aspetto semantico della parola nel suo sviluppo va dal tutto alla parte, dalla frase alla parola, mentre l’aspetto esteriore del linguaggio va dalla parte al tutto, dalla parola alla frase (335)». Il bambino inizialmente non è consapevole di tale divisione; «una delle linee più importanti dello sviluppo del linguaggio nel bambino consiste appunto nel fatto che questa unità comincia a differenziarsi e si comincia a prenderne coscienza (342)».
+
+LINGUAGGIO AFASICO [aphasic speech] [lenguaje afásico] Vedi LINGUAGGIO INTERNO
+
+27
+
+LINGUAGGIO EGOCENTRICO [egocentric speech] [lenguaje egocéntrico]
+
+Il linguaggio egocentrico è un linguaggio per sé ad alta voce che assume per il bambino le funzioni di comprensione del sé, contatto, guida e organizzazione; essendo privo di destinatario esterno, risulta incomprensibile se non si conosce la situazione in cui nasce. È caratterizzato da frammentarietà, abbreviazione e tendenza alla predicatività, ovvero nel discorso vi è un’omissione del soggetto a favore del predicato e delle parole ad esso legato. Vygotskij afferma che «il linguaggio egocentrico del bambino è uno dei fenomeni del passaggio dalle funzioni interpsichiche a quelle intrapsichiche, cioè dalle forme di attività sociale, collettiva del bambino alle sue funzioni individuali. [...] Il linguaggio per se stessi nasce dalla differenziazione della funzione inizialmente sociale del linguaggio per gli altri. Si tratta dunque di [...] una individualizzazione progressiva, nata sulla base della socialità interna del bambino (350)». Secondo Vygotskij, «studiare il linguaggio egocentrico del bambino è importante perché è l’embrione del linguaggio interno (vedi) dell’adulto (Osimo 2004: 1)»; infatti, la sequenza evolutiva tracciata da Vygotskij parte dal linguaggio sociale, passa attraverso l’egocentrismo, per poi raggiungere il linguaggio interno. «Il linguaggio egocentrico è un linguaggio interno per la sua funzione psichica e un linguaggio esterno per la sua struttura (351)» e il suo sviluppo è costituito da una curva crescente per quanto riguarda la sua funzione psichica e una curva decrescente per quanto riguarda la sua struttura, ovvero la vocalizzazione. Ne consegue necessariamente che «[...] il linguaggio egocentrico si sviluppa in direzione del linguaggio interno, e tutto il suo sviluppo non può essere compreso che come il corso di un’acquisizione progressiva di tutte le proprietà distintive del linguaggio interno (356)», in primis «[...] l’astrazione (vedi) dal lato sonoro e la tendenza sempre più grande all’abbreviazione, all’attenuazione dell’articolazione sintattica, alla condensazione (377)».
+
+28
+
+LINGUAGGIO ESTERNO [external speech] [lenguaje exterior / externo]
+
+Vygotskij definisce il linguaggio esterno come «un processo di trasformazione del pensiero nella parola, la sua materializzazione e oggettivazione (347)» attraverso la vocalizzazione. Il linguaggio esterno è dunque orale, meglio ancora fasico, cioè dotato di suono, e compare prima di tutte le altre forme di linguaggio, in modo spontaneo e inconsapevole come del resto tutti i concetti quotidiani del bambino. Ha la funzione di comunicare con l’esterno, ha dunque un destinatario ed è per questo comprensibile agli altri. Nella maggior parte dei casi il linguaggio esterno è dialogico e questo presuppone la velocità. Vygotskij afferma in merito che «la rapidità dell’atto del linguaggio presuppone una sua esecuzione del tipo di un atto volontario semplice ed inoltre con elementi abituali [...]; la comunicazione dialogica implica enunciati di getto e come viene viene. Il dialogo è un linguaggio fatto di repliche, è un linguaggio di reazioni (373)». È importante precisare che il linguaggio esterno deve essere «[...] contestualizzato rispetto agli stati della mente di chi parla, riferendosi a stati della mente personali, cioè a sentimenti, credenze e pensieri che, proprio tramite la parola, colui che parla intende trasferire e riprodurre nella mente di colui che ascolta. Quindi, [...] perché l’atto linguistico sia efficace, i dialoganti devono avere un’esperienza di attenzione condivisa, anche riguardo all’uso convenzionale delle parole in riferimento ai propri stati interni: quindi con un processo di organizzazione rispetto ad un codice linguistico condiviso (Carnaroli 2001: 1-2)». Di norma il linguaggio esterno è completamente espresso e sintatticamente articolato, ma vi sono circostanze in cui può essere abbreviato. Vygotskij spiega infatti che «se vi è identità di pensieri tra gli interlocutori, un identico orientamento della loro coscienza, il ruolo delle stimolazioni verbali si riduce al minimo (367)». Precisa in seguito che «[...] nel caso in cui sia presente nella mente degli interlocutori un soggetto comune, la comprensione sarà completa con l’aiuto della massima abbreviazione del linguaggio, con una sintassi estremamente semplificata; nel caso contrario non si avrà affatto la comprensione, anche se il linguaggio fosse sviluppato. Così talvolta non solo due sordi non arrivano ad intendersi tra loro, ma anche semplicemente due
+
+29
+
+persone che danno un contenuto differente ad una stessa parola o hanno punti di vista opposti (368)». La tendenza all’abbreviazione nel linguaggio esterno compare anche «[...] quando il parlante esprime il contesto psicologico di ciò che viene enunciato mediante l’intonazione (374)».
+
+LINGUAGGIO FASICO [phasic speech] [lenguaje fásico] Vedi LINGUAGGIO ESTERNO
+
+LINGUAGGIO INTELLETTIVO [intellective speech] [lenguaje intelectivo]
+
+Con questo termine si indica quella porzione di linguaggio che nasce dall’incontro tra pensiero e linguaggio a cui corrisponde il pensiero verbale (vedi). Per citare le parole di Vygotskij, egli afferma che «ad un certo momento (circa due anni), le linee di sviluppo del pensiero e del linguaggio, fino ad allora separate, si intersecano, coincidono nel loro sviluppo e fanno nascere una forma del tutto nuova di comportamento, così caratteristica dell’uomo. [...] Questo momento di svolta, a partire dal quale il linguaggio diventa intellettivo e il pensiero diventa verbale, è caratterizzato da due criteri perfettamente oggettivi e indiscutibili: [...] il primo sta nel fatto che il bambino [...] comincia ad ampliare attivamente il suo vocabolario, [...] il secondo elemento sta nel fatto che [...] la riserva di parole cresce in modo estremamente rapido e a salti (110-111)». Il bambino a questo punto si sforza di possedere il segno che serve a riferirsi ad un determinato oggetto, cioè il suo nome, il quale racchiude in sé un significato; questo fatto sta ad indicare che il bambino smette di considerare il nome meramente come proprietà di un oggetto e che attraverso il pensiero intuisce un legame interno alla parola tra segno e significato. Questo primo atto di pensiero del bambino testimonia il fatto che il suo linguaggio è entrato nella fase intellettiva del suo sviluppo.
+
+30
+
+LINGUAGGIO INTERNO [inner speech] [lenguaje interior / interno]
+
+In un testo di critica su Vygotskij si afferma che nella sua opera Pensiero e linguaggio egli «describe las sutilezas del proceso genético mediante el cual el lenguaje, en calidad de instrumento de las relaciones sociales, se transforma en un instrumento de la organización psíquica interior del niño (la aparición del lenguaje privado, del lenguaje interior, del pensamiento verbal) (Ivić 1999: 4)». Vygotskij introduce l’analisi sul linguaggio interno spiegando che questo «è una formazione particolare per la sua natura psicologica, un tipo particolare di attività verbale, che ha delle caratteristiche assolutamente specifiche e sta in rapporto complesso con gli altri tipi di attività verbale (346)»; prosegue con l’affermazione secondo la quale il linguaggio interno si sviluppa «[...] per la via dell’isolamento funzionale e strutturale dal linguaggio esterno (vedi), per il passaggio da questo al linguaggio egocentrico (vedi) e dal linguaggio egocentrico al linguaggio interno (355)». Si tratta di un linguaggio afasico, ovvero, in esso vi è una totale astrazione (vedi) del linguaggio dal lato sonoro; il bambino, quindi, inizia a pensare la parola, maneggia la sua immagine senza pronunciarla. Il linguaggio interno svolge le stesse funzioni del linguaggio egocentrico, è cioè un linguaggio per sé, distinto dal linguaggio sociale, è la forma più intima di pensiero del bambino che compare nella prima età scolare ed è finalizzata all’adattamento individuale, alla riflessione e all’organizzazione mentale di discorsi sia orali che scritti; costituisce il fondo della coscienza e, non avendo interlocutore, in esso il pensiero viene formulato in termini imprecisi e sfumati in quanto non c’è bisogno di chiarezza per se stessi, l’identico orientamento della coscienza è totale. Il linguaggio interno è abbreviato, ridotto al massimo, stenografico, presenta cortocircuiti, economie e omissioni di ciò che è chiaro al parlante, risultando all’esterno incomprensibile.
+
+In sintesi, le caratteristiche che lo stesso Vygotskij assegna al linguaggio interno sono: sintassi semplificata, predicatività, riduzione ed interiorizzazione dell’aspetto fasico, da cui la denominazione «endofasia», predominanza di senso su significato, influenza dei sensi,
+
+31
+
+agglutinazione delle unità semantiche e idiomaticità. Più nel dettaglio, Vygotskij spiega che «la prima e più importante caratteristica del linguaggio interno è la sua particolarissima sintassi; [...] questa particolarità si manifesta nella frammentarietà apparente, nella discontinuità, nell’abbreviazione del linguaggio interno rispetto a quello esterno (363)». Inoltre, «[...] la predicatività è la forma fondamentale ed unica del linguaggio interno, che dal punto di vista psicologico è costituito tutto dai soli predicati (374)»; ci troviamo dunque di fronte ad una predicatività assoluta per cui il soggetto, in quanto costantemente noto al parlante, viene sottinteso e per questo omesso a favore del predicato. «Il linguaggio interno utilizza preferibilmente l’aspetto semantico e non quello fonetico del linguaggio (379)». Per quanto riguarda l’aspetto fonetico, si assiste ad una riduzione delle parole alle iniziali, mentre considerando l’aspetto semantico, vi è «[...] una predominanza del senso (vedi) della parola sul suo significato (vedi) (380)», essendo il primo più vasto del secondo; non solo, a questa preponderanza del senso sul significato corrisponde anche una predominanza della frase sulla parola e di tutto il contesto sulla frase, rendendo così il linguaggio agglutinato a livello di unità semantiche, dal momento che i sensi e le frasi si riversano gli uni negli altri, e diventando veicolo di un pensiero condensato. Vygotskij afferma che «[...] sembra che la parola assorba in sé il senso delle parole precedenti e successive, allargando quasi senza limiti l’ambito del suo significato. Nel linguaggio interno la parola è molto più carica di senso che in quello esterno (384)»; con una sola denominazione del linguaggio interno possiamo riferirci ad una vastità di pensieri, ragionamenti e sentimenti. Questo sovrapporsi di significati fa sì che si creino nuovi significati, i quali acquistano sfumature diverse e personali, intraducibili nel linguaggio esterno e quindi comprensibili solo per chi li genera; si tratta di veri e propri idiomi.
+
+Si conclude l’analisi affermando che «il linguaggio interno è in misura rilevante un pensiero di puri significati (387)», assolutamente fondamentale per lo studio del pensiero stesso; è infatti un elemento dinamico ed instabile che fa da intermediario nei complessi passaggi tra il pensiero e la parola.
+
+32
+
+LINGUAGGIO ORALE [oral speech] [lenguaje oral] Vedi LINGUAGGIO ESTERNO
+
+LINGUAGGIO SCRITTO [written speech] [lenguaje escrito]
+
+Il linguaggio scritto è un linguaggio monologico di origine intellettuale, espresso attraverso l’uso di segni grafici e caratterizzato, a differenza del linguaggio orale, da consapevolezza, costruzione volontaria e presa di coscienza della struttura fonica, grammaticale, sintattica e semantica del discorso; non costituisce dunque la mera traduzione del linguaggio orale in segni grafici. Un importante tratto caratterizzante di questo linguaggio è l’alto grado di astrazione (vedi) dal suono e dall’interlocutore; si tratta infatti di un linguaggio muto che presenta una notevole distanza dal destinatario. È proprio per via di questa lontananza tra chi scrive e chi legge che tutto deve essere detto nella maniera più espressa possibile e nulla può essere sottointeso. Vygotskij scrive in merito che «nel linguaggio scritto gli interlocutori si trovano in situazioni differenti, il che esclude la possibilità della presenza nei loro pensieri di un soggetto comune (369)». Ecco perché il linguaggio scritto, a differenza di quello orale, presenta sempre la massima articolazione sintattica e non presuppone mai sfumature di senso e idiomaticità, avvalendosi esclusivamente dei significati formali delle parole; Vygotskij afferma infatti che «[...] il linguaggio scritto è la forma di linguaggio più verbosa, più precisa e sviluppata. In esso si deve trasmettere mediante delle parole ciò che nel linguaggio orale è trasmesso mediante l’intonazione e la percezione immediata della situazione (372)»; dunque nel caso del linguaggio scritto, affinché la comprensione sia totale, è necessario l’uso di una quantità maggiore di parole rispetto il linguaggio orale e una combinazione tra di esse il più ricca possibile. Vygotskij prosegue la sua analisi scrivendo che «se il linguaggio esterno viene prima di quello interno, allora quello scritto viene dopo quello interno; [...] il linguaggio scritto è la chiave del linguaggio interno (vedi) (261)», in quanto porta il bambino all’interiorizzazione della lingua.
+
+33
+
+Tuttavia, i due tipi di linguaggio differiscono profondamente per come si presentano: uno è sviluppato ed espresso al massimo, l’altro stenografico e ridotto al minimo.
+Vygotskij assegna al linguaggio scritto il merito di far «accedere il bambino al piano astratto più elevato del linguaggio, riorganizzando allo stesso tempo il sistema psichico del linguaggio orale precedentemente formato (258-259)»; il linguaggio scritto conferisce dunque al bambino una maggiore padronanza della lingua.
+
+PAROLA [word] [palabra]
+
+Vedi ASTRAZIONE, GENERALIZZAZIONE, LINGUA, LINGUAGGIO, LINGUAGGIO INTERNO, SEGNO, SENSO, SIGNIFICATO, UNITÀ COMPONENTE, VOLA TILIZZAZIONE
+
+PARTECIPAZIONE [participation] [participación]
+
+Con questo termine ci si riferisce ad una caratteristica tipica del complesso (vedi) che sta ad indicare «la relazione che il pensiero primitivo stabilisce tra due oggetti o due fenomeni considerati sia come parzialmente identici, sia come aventi un’influenza stretta l’uno sull’altro, mentre non esiste tra loro alcun contatto spaziale, né qualche altro legame comprensibile (173)» alla luce del pensiero per concetti.
+
+PENSIERO ARTIFICIALE [artificial thought] [pensamiento artificial] Vedi APPRENDIMENTO
+
+PENSIERO ASTRATTO [abstract thought] [pensamiento abstracto] Vedi ASTRAZIONE, PSEUDOCONCETTO
+
+34
+
+PENSIERO CONCRETO [concrete thought] [pensamiento concreto] Vedi COMPLESSO, PSEUDOCONCETTO
+
+PENSIERO PER COMPLESSI [complex thinking] [pensamiento por complejos] Vedi COMPLESSO
+
+PENSIERO PER CONCETTI [conceptual thinking] [pensamiento por conceptos] Vedi COMPLESSO, CONCETTO, PARTECIPAZIONE, PSEUDOCONCETTO
+
+PENSIERO VERBALE [verbal thought] [pensamiento verbal]
+
+Con questa espressione si definisce quel settore del pensiero che nasce dall’incontro con il linguaggio; a questa porzione di pensiero orientata verso il linguaggio corrisponde poi il linguaggio intellettivo (vedi). Spiega Vygotskij: «la relazione tra pensiero e linguaggio potrebbe essere rappresentata schematicamente in questo caso da due circonferenze che si intersecano, che mostrerebbero che i processi del linguaggio e del pensiero coincidono in parte. Questa è quella che si chiama la sfera del pensiero verbale (118)». Vygotskij riassume poi la sua analisi sul pensiero verbale nel seguente modo: «il pensiero verbale ci è apparso come un insieme dinamico complesso, in cui il rapporto tra pensiero e parola si è manifestato come un movimento attraverso tutta una serie di piani interni, come un passaggio da un piano all’altro. Abbiamo condotto la nostra analisi dal piano più esterno al piano più interno. Nel dramma vivente del pensiero verbale il movimento va in senso inverso: dalla motivazione che fa nascere un pensiero alla formazione di questo stesso pensiero, alla sua mediazione nelle parole del linguaggio interno (vedi), poi nei significati delle parole esterne e infine nelle parole (393)».
+
+35
+
+PERIODO SENSITIVO [sensitive period] [período sensitivo]
+
+Con questo termine, sostituibile anche con l’espressione «zona di sviluppo prossimo» (vedi) si indica precisamente il periodo «in cui l’organismo è particolarmente sensibile a influenze di tipo specifico. In questo periodo, influenze di tipo specifico producono un’azione sensibile su tutto il corso dello sviluppo, producono in esso vari e profondi cambiamenti (275)». Ogni materia scolastica ha il suo periodo sensitivo e in esso l’apprendimento (vedi), perché possa avere un’influenza sul corso dello sviluppo (vedi), deve prendere piede solo nel momento in cui la corrispondente fase di sviluppo è ancora immatura.
+
+PREDICATIVITÀ [predication] [predicatividad]
+Vedi LINGUAGGIO EGOCENTRICO, LINGUAGGIO INTERNO
+
+    concept presa di coscienza
+        en to become conscious / aware
+        + Vygotskij definisce questo termine come «un atto della coscienza, il cui oggetto è l’attività stessa della coscienza (238)»; prendere coscienza significa dunque acquisire consapevolezza di una determinata attività che nasce dall’interno, dalla coscienza, e che normalmente viene svolta automaticamente senza rendersi conto delle leggi che regolano il funzionamento di tale attività. Quindi, «[...] prendere coscienza di un’operazione vuol dire [...] farla passare dal piano dell’azione a quello del linguaggio; vuol dire [...] inventarla di nuovo in immaginazione, per poterla esprimere in parole (Cleparède, citato in Vygotskij 2003: 227)». Prima di tutto, afferma Vygotskij, «per prendere coscienza, bisogna possedere ciò di cui si deve prendere coscienza. Per padroneggiare bisogna disporre di ciò che deve essere sottoposto alla nostra volontà (236)»; ciò significa che la presa di coscienza implica necessariamente la pre-esistenza di una determinata attività della coscienza e una sua fase di funzionamento inconsapevole e involontario; solo queste condizioni permettono poi il passaggio alla consapevolezza nell’uso di tale attività.
+        + Vygotskij conferma in seguito la tesi di Piaget secondo la quale «la presa di coscienza segue l’azione e nasce solo quando l’adattamento automatico urta contro delle difficoltà (Piaget, citato in Vygotskij 2003: 75)». È proprio per questo motivo che questa funzione nasce solo nel periodo scolare, quando il bambino per la prima volta si scontra con la soluzione di problemi alla quale può giungere solo attraverso la padronanza delle sue attività psichiche. Inoltre, la presa di coscienza ha una comparsa tardiva in quanto si tratta di una funzione propria di uno stadio superiore dello sviluppo che presuppone l’introspezione, attività che compare ad un livello minimo appunto in età scolare; solo in questo momento nel bambino inizia a svilupparsi la percezione di ciò che accade nella sua psiche, all’interno dei suoi processi psichici, solo ora questi processi vengono generalizzati e portati alla coscienza, permettendone al bambino la progressiva padronanza.
+
+    concept pseudoconcetto
+        en pseudo-concept
+        + Lo pseudoconcetto costituisce l’ultimo tipo di complesso che funge da anello di congiunzione tra il complesso (vedi) e il concetto (vedi) vero e proprio. Viene chiamato in questo modo in quanto «fenotipicamente, cioè per il suo aspetto esterno, [...] coincide completamente con il concetto, ma per la sua natura genetica, per le condizioni della sua apparizione e del suo sviluppo, per i legami causali-dinamici che stanno alla sua base, non è affatto un concetto (161)», rientra ancora nella categoria del complesso. Quindi, il risultato delle operazioni alla base di questo complesso è assolutamente identico al concetto; ciò che differisce da esso sono proprio la dinamica e l’essenza di tali operazioni. Infatti, alla base di un concetto vi sono legami che nascono dal processo di astrazione (vedi), i quali portano l’oggetto dalla sfera inferiore dell’impressione concreta a quella superiore del pensiero astratto, mentre per quanto riguarda il complesso, i legami che uniscono gli oggetti fra loro si fondano sul principio di una semplice associazione nel campo della concretezza. Di conseguenza, si tratta ancora di una forma di
+            \b pensiero concreto che, tuttavia, ha un ruolo fondamentale sia sotto l’aspetto funzionale che genetico per il raggiungimento del pensiero per concetti e costituisce il tipo di complesso in assoluto più diffuso nell’età scolare del bambino. È necessario precisare che la formazione dello pseudoconcetto nel bambino viene influenzata dalla relazione verbale con gli adulti che lo circondano in quanto questo fenomeno corrisponde per il bambino al processo di attribuzione di un significato (vedi), il quale avviene proprio attraverso l’appropriazione del linguaggio degli adulti; per questo motivo, ne consegue che questa ultima forma di complesso, orientata e guidata nel suo sviluppo dalla forza motrice della lingua degli adulti, sfocerà nella comparsa del pensiero per concetti, tipico del pensiero adulto. Gli pseudoconcetti vanno quindi considerati come gli equivalenti funzionali dei concetti, i quali prenderanno vita, appunto, a partire da queste formazioni precedenti. È proprio questa somiglianza esterna tra lo pseudoconcetto e il concetto che permette a questo punto dello sviluppo del pensiero infantile la completa comprensione tra bambino e adulto nel riferimento all’oggetto. Vygotskij conclude affermando che «gli pseudoconcetti non sono un patrimonio esclusivo del bambino. Nella nostra vita quotidiana il pensiero opera molto spesso per pseudoconcetti. [A volte i concetti con cui ragioniamo] non sono concetti nel vero senso della parola. Sono piuttosto delle rappresentazioni generali delle cose (183)».
+
+    RIFERIMENTO ALL’OGGETTO [referent] [referencia al objeto] Vedi ASTRAZIONE, COMPLESSO, PSEUDOCONCETTO
+
+    concept segno
+        en sign 
+        + Il segno è l’elemento attraverso cui avviene la comunicazione; nel caso della comunicazione verbale, quindi del linguaggio, il segno si identifica nella parola, la quale serve appunto per indicare un oggetto tramite il suo nome. Il segno, che riunisce in sé il suono e il significato della
+            \b parola, diventa il simbolo dell’oggetto designato all’interno dell’atto comunicativo; esso dunque veicola la funzione simbolica del linguaggio. L’uso funzionale del segno distingue le forme psichiche superiori dell’uomo; Vygotskij afferma che «[...] tutte le funzioni psichiche superiori sono unite [...] dall’uso del segno come mezzo fondamentale di direzione e padronanza dei processi psichici (137)». Questo è ciò che succede anche con la parola nel linguaggio: qui essa viene usata, oltre che esternamente come mezzo della comunicazione, anche come mezzo per orientare il pensiero all’interno dei processi intellettivi. Inizialmente però «la parola entra nella struttura delle cose senza avere però il significato funzionale di segno. [...] Per un certo tempo [la parola] è per il bambino una proprietà della cosa a fianco delle sue altre proprietà (123)»; solo in un secondo tempo, quando avviene la presa di coscienza (vedi) della parola come portatrice di un significato interno (vedi), essa comincia ad essere usata come segno strumentale.
+
+    concept senso 
+        en sense 
+        + Il senso è principalmente l’elemento che, abbinato al suono, rende tale suono parte del linguaggio umano. Vygotskij definisce il senso sottolineando le differenze con il significato (vedi) delle parole: «il senso della parola [...] rappresenta l’insieme di tutti i fatti psicologici che compaiono nella nostra coscienza grazie alla parola. Il senso di una parola è così una formazione sempre dinamica, fluttuante, complessa che ha parecchie zone di stabilità differenti, [costituite dai singoli significati] (380)». Continua Vygotskij: «Il senso di una parola, [a differenza del suo significato], è un fenomeno [...] mobile, che in una certa misura cambia costantemente secondo le varie coscienze e, per una stessa coscienza, secondo le circostanze. A questo riguardo il senso di una parola è inesauribile. [...] [Inoltre,] il senso può essere staccato dalla parola che lo esprime, come può essere fissato facilmente a qualsiasi altra parola. [...] Perciò accade che una parola prenda il posto di un’altra. Il senso si stacca dalla parola e così si
+            \b conserva. Ma se la parola può sussistere senza il senso, il senso può nella stessa misura sussistere senza la parola (381)».
+
+    concept significato
+        en meaning 
+        + Il significato è la parte più interna della parola che costituisce l’unità componente (vedi) del pensiero verbale (vedi) in quanto è l’elemento che racchiude in sé sia un atto di pensiero, la semantica della parola, sia un atto verbale, la sonorità della parola; il significato dunque media internamente il pensiero nella sua espressione verbale, così come il segno (vedi) lo media esternamente. Vygotskij afferma che «il fatto nuovo ed essenziale che presenta questa ricerca sullo studio del pensiero e del linguaggio è che i significati della parola si sviluppano (326)». Spiega Vygotskij più in particolare: «il significato delle parole non è costante. Si modifica nel corso dello sviluppo del bambino. Varia secondo i diversi modi di funzionamento del pensiero. Rappresenta una formazione più dinamica che statica. È stato possibile stabilire la variabilità dei significati solo quando è stata definita correttamente la natura del significato stesso. La sua natura si manifesta anzitutto nella generalizzazione (vedi), che è contenuta come elemento fondamentale e centrale in ogni parola, perché ogni parola già generalizza. (333)». Nel suo sviluppo e mutamento, il significato resta comunque una formazione più costante rispetto al senso (vedi). Vygotskij afferma infatti che «il significato è [...] una [delle] zone del senso che acquista la parola in un qualche contesto; [...] è la zona più stabile, più unificata e più precisa. [...] Il significato [...] è quel punto immobile e immutabile che rimane stabile di fronte a tutti i cambiamenti di senso della parola nei diversi contesti (389)».
+
+    concept sincretismo
+        en syncretism
+
+Il sincretismo costituisce il primo livello di generalizzazione (vedi) tipico del bambino molto piccolo; è caratterizzato da un raggruppamento «[...] informe, indeterminato fino al fondo, di 40
+
+oggetti isolati che sono legati gli uni agli altri in un modo qualsiasi nella rappresentazione e nella percezione del bambino, in un’unica immagine fusa (149)». Vygotskij spiega che «alla base delle forme sincretiche stanno soprattutto i legami soggettivi emozionali tra le impressioni, prese dal bambino come legami delle cose (156)».
+
+SISTEMA DI CONCETTI [concept system] [sistema de conceptos]
+Vedi ASTRAZIONE, CONCETTO SCIENTIFICO, GENERALITÀ, GENERALIZZAZIONE
+
+SOVRAPPOSIZIONE [juxtaposition] [superposición] Vedi COMPLESSO
+
+SPOSTAMENTO [transfer] [transferencia] Vedi COMPLESSO
+
+SUONO [sound] [sonido]
+Vedi LINGUAGGIO EGOCENTRICO, LINGUAGGIO ESTERNO, LINGUAGGIO
+
+INTERNO, SEGNO, SENSO, SIGNIFICATO
+
+STRUMENTO DI PRODUZIONE INTELLETTUALE [means of intellectual production] [instrumento de producción intelectual]
+
+Vedi SVILUPPO
+
+41
+
+    concept sviluppo
+        en development
+        + Vygotskij definisce lo sviluppo come «[...] la formación de funciones compuestas, de sistemas de funciones, de funciones sistemáticas y de sistemas funcionales (Ivic 1994: 4)». Il grado di sviluppo mentale di un bambino viene stabilito mediante dei test che egli deve eseguire indipendentemente; questo metterà in luce le funzioni mentali maturate fino a quel momento e queste sono gli indicatori del grado di sviluppo. È importante sottolineare che «lo fundamental en el desarrollo no estriba en el progreso de cada función considerada por separado sino en el cambio de las relaciones entre las distintas funciones [...] (Ivić 1994: 4)». Analizzando il fenomeno da questo punto di vista, lo sviluppo si presenta come un processo che apporta dei cambiamenti interni nella psiche del soggetto attraverso l’uso di strumenti esterni. Più precisamente, «the child’s mind develops in the course of acquisition of social experiences, which are presented to the child in the form of special psychological tools: language, mnemonic techniques, formulae, concepts, symbols, signs, and so on. These tools are presented to the child by an adult or by more capable peers in the course of their joint activity. Given to and used by the child first at the external level, these tools then internalize and become the internal possession of the child, altering all his or her mental functions [...] (Karpov 1995: 1)», ristrutturandole a livelli via via superiori. Vygotskij afferma che «[...] la historia del desarrollo de las funciones mentales superiores aparece así como la historia de la transformación de los instrumentos del comportamiento social en instrumentos de la organización psicológica individual (Vygotskij, citato in Ivić 1994: 4)». Lo sviluppo avviene dunque attraverso la relazione sociale e non lo si considera solo in termini di sviluppo cognitivo, ma anche di intreccio fra sviluppo emotivo e sviluppo cognitivo; qui il motore trainante è il rapporto tra motivazioni e pensieri e gli strumenti forniti dall’educazione.
+        + Le varie funzioni psichiche (percezione, emozione, memoria, pensiero, immaginazione, volontà) non hanno ciascuna una propria linea di sviluppo separata, ma costituiscono un sistema, in cui lo sviluppo di ogni elemento modifica il funzionamento degli altri. Esse si sviluppano
+            \b affinandosi qualitativamente, passando da elementari a superiori, non attraverso l’accumulo di legami associativi, come pensavano gli studiosi prima di Vygotskij, bensì attraverso la funzione mediatrice dei cosiddetti “strumenti di produzione intellettuale”, i quali elevano le funzioni mentali ad un livello che permette la sistematizzazione e il controllo del comportamento. Considerandolo in relazione all’apprendimento (vedi), lo sviluppo, non solo non corre parallelamente ad esso, o lo precede, come si pensava prima della formulazione della tesi di Vygotskij su tali processi, ma segue l’apprendimento, il quale lo spinge in avanti, stimolando la creazione di nuove formazioni e funzioni psichiche. Vygotskij ha infatti dimostrato che lo sviluppo deve ancora essere immaturo quando ha inizio l’apprendimento affinché questo sia efficace e lo sarà solo se collocato entro la zona di sviluppo prossimo (vedi). A livello di ritmo, lo sviluppo si realizza differentemente rispetto all’apprendimento; ne consegue che esso non deve essere subordinato al programma scolastico. Le ricerche di Vygotskij hanno anche dimostrato che ogni materia contribuisce alla maturazione delle varie funzioni mentali dello scolaro, il quale giungerà ad utilizzarle anche per la risoluzione di problemi attinenti alla sfera della vita quotidiana. Lo sviluppo avviene quindi attraverso l’apprendimento, è il fine dell’apprendimento; questo «sarebbe completamente inutile, se potesse utilizzare soltanto ciò che già è maturato nello sviluppo, se non fosse di per sé la fonte di sviluppo, la fonte di un nuovo principio (275)».
+
+    concept sviluppo artificiale
+        en artificial developmential
+        see APPRENDIMENTO
+
+    concept tratto distintivo
+        en distinctive trait
+        V edi COMPLESSO, COMPLESSO ASSOCIA TIVO, COMPLESSO A CA TENA, COMPLESSO COLLEZIONE, COMPLESSO DIFFUSO, CONCETTO, CONCETTO POTENZIALE, PSEUDOCONCETTO
+
+UNITÀ COMPONENTE [component unit] [unidad componente]
+
+Quando si parla di unità componente si fa riferimento al metodo su cui si basa Vygotskij per analizzare il fenomeno del rapporto tra pensiero e linguaggio, appunto il metodo «che decompone un insieme unitario di base in unità componenti. Per unità componenti intendiamo quei prodotti dell’analisi tali che, pur nella differenza degli elementi, possiedono le proprietà fondamentali proprie dell’insieme, e che sono parti viventi, non decomponibili ulteriormente, di questa unità globale. [...] Che cos’è dunque questa unità che non è più decomponibile ed in cui vi sono le proprietà del linguaggio verbale [e del pensiero] come insieme? Pensiamo che questa unità possa trovarsi nella parte interna della parola: nel suo significato (vedi) [...] perché proprio nel significato della parola sta il centro di questa unità che chiameremo pensiero verbale (vedi) (13)»; il significato risulta essere quindi allo stesso tempo un fenomeno intellettivo e verbale, adatto all’analisi del pensiero e del linguaggio considerati nella loro unione. Vygotskij conferisce all’analisi in unità componenti il merito di mostrare «che in ogni idea si trova, in forma rimaneggiata, la relazione affettiva dell’uomo con la realtà rappresentata in questa idea. Essa permette di scoprire il movimento diretto dai bisogni e dagli impulsi dell’uomo ad una certa direzione del suo pensiero e il movimento inverso dalla dinamica del pensiero alla dinamica del comportamento e dell’attività concreta della persona (20)».
+
+VOCALIZZAZIONE [vocalization] [vocalización]
+Vedi LINGUAGGIO EGOCENTRICO, LINGUAGGIO ESTERNO
+
+44
+
+    concept volatizzazione
+        language en turning of speech into inward thought
+        + Vygotskij usa questo termine per indicare il passaggio dalla parola al pensiero, ovvero dal linguaggio esterno (vedi) al linguaggio interno (vedi). Lo studioso russo afferma che «se tutto il linguaggio esterno è un processo di trasformazione del pensiero in parole, la materializzazione è l’oggettivazione del pensiero, allora osserviamo qui un processo inverso, un processo che va in qualche modo dall’esterno verso l’interno, un processo di volatilizzazione del linguaggio nel pensiero, ma il linguaggio non scompare affatto, anche nella sua forma interna. [...] Il linguaggio interno è sempre un linguaggio, cioè un pensiero legato alla parola. Ma se il pensiero si incarna nella parola nel linguaggio esterno, allora la parola scompare nel linguaggio interno, dando origine al pensiero (387)».
+
+    concept zona di sviluppo prossimale
+        language en zone of proximal development
+        + Area in cui sono presenti i margini entro cui si può realizzare lo sviluppo futuro del bambino nel momento in cui egli è supportato dalla presenza di un adulto che collabora con lui o che funge da modello da imitare, fornendogli la possibilità di ampliare le sue capacità intellettive fino al limite massimo dettato dal suo sviluppo attuale e dalle sue attuali possibilità intellettive. La zona di sviluppo prossimo è il parametro che completa il quadro globale del grado di sviluppo mentale del bambino in quanto non prende in considerazione solo le funzioni e le capacità già maturate nel bambino, ma anche quelle appena comparse e in via di maturazione. L’importanza della zona di sviluppo prossimo si manifesta «nella dinamica dello sviluppo mentale del bambino durante l’apprendimento e nella riuscita di questi due fenomeni considerati in relazione tra loro (270)». Infatti, le possibilità di apprendimento (vedi) e il corso dello sviluppo (vedi) mentale del bambino si basano proprio sulla zona di sviluppo prossimo, così come l’insegnamento, di conseguenza. Il contenuto vero e proprio del concetto di zona di sviluppo
+            \b prossimo sta nella possibilità dello sviluppo «di elevarsi attraverso la collaborazione ad un livello intellettivo superiore, la possibilità di passare da ciò che in bambino sa fare a ciò che non sa fare, mediante l’imitazione (272)» durante l’apprendimento, il quale deve precedere e stimolare lo sviluppo, trainandolo dietro di sé. È importante precisare che il concetto di zona di sviluppo prossimo si basa proprio sul principio per cui «in collaborazione il bambino può fare sempre di più che da solo (270)»; egli, infatti, se spronato e aiutato da un adulto attraverso la proposta di esempi o di domande che spingono il bambino a mettere in gioco e potenziare le sue abilità, può superare se stesso e le sue capacità, può arrivare ad un livello superiore di attività intellettive, giungendo a risolvere problemi che per difficoltà si addicono a bambini più grandi. Come afferma Vygotskij, «[...] dobbiamo sempre determinare la soglia inferiore di apprendimento. Ma così non si chiude la questione: dobbiamo saper determinare anche la soglia superiore di apprendimento. Solo nei limiti tra le due soglie l’apprendimento può risultare fruttuoso (274)» e può portare in vita i processi di sviluppo potenziale del bambino. Questi due margini vanno proprio a determinare il periodo della zona di sviluppo prossimo, il quale viene anche denominato comunemente periodo sensitivo (vedi). È inoltre bene puntualizzare che la zona di sviluppo prossimo differisce da soggetto a soggetto nonostante la parità di età; Vygotskij scrive infatti che «la possibilità più o meno grande di passaggio del bambino da ciò che sa fare indipendentemente a ciò che sa fare in collaborazione è il sintomo più sensibile che caratterizza la dinamica dello sviluppo e della riuscita del bambino (271)». Le ricerche di Vygotskij mostrano che ciò che è presente nella zona di sviluppo prossimo in un determinato stadio di età si realizza nel livello di sviluppo superiore andando così a determinare il livello presente di sviluppo del bambino in un’età successiva.
+
+CARNAROLI, Francesco. Vygotskij e la psicoanalisi: relazione, linguaggio, coscienza riflessiva, [on line]. [Roma, Italia]: Psychomedia, 2001 [citato dicembre 2004]. Psicoterapia e scienze umane, N . 3 / 2001. Disponibile dal world wide web: <http://www.psychomedia.it/pm- revs/journrev/psu/psu-2001-3-b.htm>.
+
+— Aspetti della ricerca sul dialogo in psicoanalisi, [on line]. [Roma, Italia]: Psychomedia, 2001 [citato dicembre 2004]. Sezione: Modelli e ricerche in psicoterapia, Area: Emozioni e linguaggio nelle narrative. Disponibile dal world wide web: <http://www.psychomedia.it/pm/modther/emozling/carnaroli.htm+Vygotskij+%22linguaggio+i nterno%22&hl=en&lr=lang_it>.
+
+CASTORRI, Emanuela. Vygotskij, Piaget, Bruner. Concezioni dello sviluppo, [on line]. [Milano, Italia]: Raffaello Cortina Editore, 1998 [citato dicembre 2004]. La mediazione pedagogica. Disponibile dal world wide web: <web.tiscali.it/mediazionepedagogica/anno_02/numero_01/Castorri/par01.htm+%22linguaggio +egocentrico%22+piaget+vygotskij&hl=en&lr=lang_it>.
+
+DAS, J. P.. Some Thoughts on two Aspects of Vygotsky’s Work. Articolo in Educational Psychologist, [on line]. Lawrence Erlbaum Associates, Inc., vol. 30, n 3, 1995 [citato dicembre 2004]. p. 93-97. Disponibile dal world wide web: <http://www.questia.com/PM.qst?a=o&d=77519474>.
+
+IVIC, Ivan. Lev Semionovich Vygotsky (1896-1934). In Perspectivas: revista trimestral de educación comparada, [on line]. UNESCO: Oficina Internacional de Educación, vol. XXIV, n 3-4, 1994 [citato dicembre 2004]. p. 773-779, s.i.t.. Disponibile dal world wide web: <http://www.ibe.unesco.org/International/Publications/Thinkers/ThinkersPdf/vygotskys.PDF+V ygotskij+%22lenguaje+interior%22&hl=en>.
+
+KARPOV, Yuriy V.. L. S. Vygotsky and the Doctrine of Empirical and Theoretical Learning. In Educational Psychologist, [on line]. Lawrence Erlbaum Associates, Inc., vol. 30, n 3, 1995 [citato dicembre 2004]. p. 61-66. Disponibile dal world wide web: <http://www.questia.com/PM.qst?a=o&d=77519406>.
+
+— Two Ways to Elaborate Vygotsky’s Concept of Mediation Implications for Instruction. In American Psychologist, [on line]. Lawrence Erlbaum Associates, Inc., vol. 53, n 1, 1998 [citato dicembre 2004]. p. 27. Disponibile dal world wide web: <http://www.questia.com/PM.qst?a=o&d=96542058>.
+
+KOZULIN, Alex. Mediated Learning Experience and Psychological Tools: Vygotsky’s and Feuerstein’s Perspectives in a Study of Student Learning. In Educational Psychologist, [on line]. Lawrence Erlbaum Associates, Inc., vol. 30, n 3, 1995 [citato dicembre 2004]. p. 67-75. Disponibile dal world wide web: <http://www.questia.com/PM.qst?a=o&d=77519420>.
+
+OSIMO, Bruno. Corso di traduzione [on line]. [Modena, Italia]: Logos, 2004 [citato dicembre 2004]. Prima parte, La lettura – Parte prima. Disponibile dal world wide web: <http://www.logos.it/pls/dictionary/linguistic_resources.cap_1_6?lang=it >.
+
+53
+
+— Corso di traduzione [on line]. [Modena, Italia]: Logos, 2004 [citato dicembre 2004]. Prima parte, La scrittura come processo mentale. Disponibile dal world wide web: <http://www.logos.it/pls/dictionary/linguistic_resources.cap_1_8?lang=it>.
+
+— Corso di traduzione [on line]. [Modena, Italia]: Logos, 2004 [citato dicembre 2004]. Seconda parte, Lettura e formazione dei concetti. Disponibile dal world wide web: <http://www.logos.it/pls/dictionary/linguistic_resources.cap_2_4?lang=it>.
+
+— Corso di traduzione [on line]. [Modena, Italia]: Logos, 2004 [citato dicembre 2004]. Seconda parte, Lettura ed evoluzione dei concetti. Disponibile dal world wide web: <http://www.logos.it/pls/dictionary/linguistic_resources.cap_2_5?lang=it>.
+
+— Storia della traduzione, riflessioni sul linguaggio traduttivo dall’antichità ai contemporanei, Milano, Hoepli, 2002, ISBN 8820330733.
+
+TAPPAN, Mark V. Sociocultural Psychology and Caring Pedagogy: Exploring Vygotsky’s “Hidden Curriculum”. In Educational Psychologist, [on line]. Lawrence Erlbaum Associates, Inc., vol. 33, n 1, 1998 [citato dicembre 2004]. p. 23. Disponibile dal world wide web: <http://www.questia.com/PM.qst?a=o&d=76994962>.
+
+VYGOTSKIJ, Lev Semënovič, Pensiero e linguaggio, introduzione, traduzione e commento di Luciano Mecacci, 1990, settima edizione 2003, Moskva-Leningrad, Editori Laterza, [prima edizione 1934], ISBN 88-420-3953-5.
+
+— Thought and Language, edited and translated by Eugenia Hanfmann and Gertrude Vakar, Moscow-Leningrad, The M.I.T Press, 1962.            

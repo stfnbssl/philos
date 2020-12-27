@@ -1,0 +1,16 @@
+$group
+
+    namespace lacan.sesso
+        
+        concept godimento
+            alias soddisfazione del godimento
+            + La soddisfazione del godimento implica non il segno ma il corpo dell'Altro.
+
+        concept godimento-dell-essere
+        concept godimento-fallico
+        concept godimento-dell-altro
+        concept altro-godimento
+            title Altro godimento
+                alias godimento femminile
+            + Godimento infinito, senza fondo, non-tutto fallico. 
+

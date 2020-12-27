@@ -1,0 +1,19 @@
+$group
+
+    namespace sartre
+
+        concept essere
+
+            quote
+                + L'essere è sé. Ciò significa che non è né attività né passività. 
+                    \b Non si può tuttavia dirlo "immanente a se stesso", 
+                    \b perché l'immanenza è sempre un rapporto a se stesso. 
+                    \b Ma l'essere non è rapporto a se stesso, è invece se stesso. 
+                    \b Riassumeremo tutto questo dicendo che l'essere è in sé.
+                    \b Che l'essere sia in sé significa che esso non rinvia a sé, 
+                    \b come fa la coscienza di sé: questo sé esso lo è. 
+                    \b In realtà, l'essere è opaco a se stesso e lo è perché è pieno di se stesso. 
+                    \b È ciò che diremo meglio affermando che l'essere è ciò che è.
+                    \b L'essere è, l'essere è in sé, l'essere è ciò che è. 
+                    \b Ecco i tre caratteri che l'esame provvisorio del fenomeno d'essere 
+                    \b ci permette di attribuire all'essere del fenomeno.

@@ -1,0 +1,21 @@
+$group
+
+    url https://link.springer.com/bookseries/7710
+
+    field biosemiotics
+        extends biology
+        extends semiotics
+        extends philosophy
+        extends linguistics
+        exports natural selection
+        exports animal behaviour
+        exports psychology
+        exports life fundamentals
+        + Combining research approaches from biology, semiotics, philosophy and linguistics, 
+            \b the field of biosemiotics studies semiotic processes 
+            \b as they occur in and among living systems.
+            \b This has important implications and applications 
+            \b for issues ranging from natural selection 
+            \b to animal behaviour and human psychology, 
+            \b leaving biosemiotics at the cutting edge 
+            \b of the research on the fundamentals of life.

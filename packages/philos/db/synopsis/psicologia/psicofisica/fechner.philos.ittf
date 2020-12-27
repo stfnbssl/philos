@@ -1,0 +1,32 @@
+$group
+    author Fechner
+        fullname Gustav Theodor Fechner
+        born
+            date 19/4/1801
+            place Groß Särchen
+        died
+            date 18/11/1887
+            place Lipsia
+        + psicologo e statistico tedesco, fondatore della psicofisica
+
+        theory legge di Weber-Fechner
+            field percettologia
+            + una equazione in grado di quantificare esattamente il rapporto tra stimolo fisico e sensazione 
+                \b (rapporto tra anima e materia)
+            + uno dei primi tentativi di descrivere la relazione tra la portata fisica di uno stimolo 
+                \b e la percezione umana dell'intensità di tale stimolo
+            + costituì il primo fondamento della psicofisica, 
+                \b che fu a sua volta l'ambito pionieristico 
+                \b della nascente psicologia sperimentale (in particolare della percettologia)
+            description
+                + La scoperta della relazione esistente tra stimolo e percezione è stata fatta da Weber in seguito all'esperimento 
+                    \b consistente nell'incrementare di una certa quantità il peso di un oggetto sostenuto da un uomo.
+                + La percezione di tale stimolo (l'incremento di peso) risultò tanto meno accentuata quanto più pesante era l'oggetto. 
+                + Aggiungere 1 kg ad un oggetto pesante 5 kg risultava essere percepito in maniera differente 
+                    \b rispetto ad aggiungere 1 kg ad un oggetto il cui peso è di 30 kg. 
+                + L'entità dell'incremento necessario  perché la variazione venisse percepita dal soggetto non risultò costante, ma 
+                    \b costante è, per ciascun senso (vista, udito, tatto, ...), il rapporto k (detto "costante di Weber") tra 
+                    \b Delta R (l'incremento) ed R (l'intensità al valore iniziale). 
+                + Weber teorizzò, cioè, che ci fosse una relazione di diretta proporzionalità tra lo stimolo percettivo e la soglia 
+                    \b differenziale (intesa come minima variazione percepibile, più tardi nota come just-noticeable difference o JND).
+            

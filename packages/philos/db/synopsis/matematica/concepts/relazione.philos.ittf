@@ -1,0 +1,28 @@
+$group
+
+    namespace matematica
+        
+        concept relazione
+            + elemento che viene a crearsi 
+                \b dalla semplice presenza di una coppia di valori 
+                \b che soddisfi una qualsiasi funzione proposizionale
+            example
+                + Gianni studia filosofia. "Studia" è una relazione che unisce i valori "Gianni" e "filosofia".
+        
+        concept relazione-simmetrica
+            extends matematica.relazione
+            + ogni relazione possiede un suo inverso,
+                \b se A è in relazione con B, allora anche B è in relazione con A, 
+                \b e da ciò deriva la differenziazione 
+                \b tra relazioni asimmetriche e relazioni simmetriche 
+            + una relazione simmetrica è identica al proprio inverso
+            example
+                + Gianni è amico di Andrea implica che Andrea è amico di Gianni
+
+        concept matematica.relazione-asimmetrica
+            extends matematica.relazione
+            + ogni relazione possiede un suo inverso e 
+                \b da ciò deriva la differenziazione tra relazioni asimmetriche e relazioni simmetriche 
+            + una relazione asimettrica è una relazione non identica al proprio inverso
+            example
+                + Sofia è madre di Gianni non implica che Gianni è figlio di Sofia

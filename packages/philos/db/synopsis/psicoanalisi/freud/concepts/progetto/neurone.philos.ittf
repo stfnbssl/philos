@@ -1,0 +1,20 @@
+$group
+
+    namespace freud
+
+        concept neurone
+            
+            + Cellula di cui è composto il sistema nervoso;
+                \b ha linee di conduzione che ricevono l'eccitamento 
+                \b attraverso prosecuzioni delle cellule ramificate, o dendriti,
+                \b e lo rimettono lungo il cilindrasse, o assone.
+            
+            + Il principio di inerzia trova la sua espressione nell'ipotesi di una corrente
+                \b [una carica quantitativa Qἠ] che si diriga dai dendriti al cilindrasse.
+            
+            r-concept freud.progetto.barriera-di-contatto
+                + La sostanza interposta tra neuroni, che sono tutti separati e distinti,
+                    \b fa da punto di contatto e da barriera tra neuroni, 
+                    \b consentendo di trattenere la carica.
+
+

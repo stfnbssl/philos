@@ -1,0 +1,12 @@
+$group
+
+    namespace sartre
+
+        concept prova-ontologica
+
+            quote
+                + Ora, la coscienza può sorreggere il proprio contenuto intenzionale 
+                    \b precisamente in quanto è sempre cosciente di non essere quel contenuto 
+                    \b (è ciò che Sartre chiamerà prova ontologica);
+                    \b in assenza di tale coscienza, sarebbe quel contenuto, cioè non una coscienza.
+                article anonimo.esistere-per-niente-la-fatticita-in-sartre

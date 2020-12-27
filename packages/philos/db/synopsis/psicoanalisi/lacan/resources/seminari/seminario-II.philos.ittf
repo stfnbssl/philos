@@ -1,0 +1,27 @@
+$group
+
+    book lacan.seminario-II
+        author Lacan
+        title Seminario. Libro II. L'io nella teoria di Freud e nella tecnica della psicoanalisi 1954-1955.
+        written 1954-1955
+        edition Torino: Einaudi, 2006
+        index
+        back-cover
+            + In realtà non si tratta solo di una ripresa dei punti cardine della psicoanalisi in uno studio accurato, 
+                \b ma di una critica altrettanto accurata che potremmo chiamare metodologica: 
+                \b perché il testo freudiano sia leggibile e operativamente efficace nella cura psicoanalitica, 
+                \b occorre che i concetti freudiani prendano posto correttamente 
+                \b e, per farlo, è necessario uno strumento. 
+                \b Lo strumento che Lacan utilizza è la triade composta da immaginario, simbolico e reale. 
+                \b Per esempio, in questo Seminario, Lacan indica chiaramente che non è la stessa cosa, 
+                \b e nella pratica clinica non si hanno gli stessi effetti, 
+                \b quando l’io è considerato sul suo versante immaginario 
+                \b e quando lo è sul suo versante simbolico 
+                \b o ancora sul suo versante reale, 
+                \b sebbene quest’ultimo concetto sarà veramente esplicitato solo piú tardi. 
+                \b L’io di cui parla Freud è costituito a partire da identificazioni e da rapporti duali, 
+                \b ma è anche l’io che parla, l’io che sogna. 
+                \b Lacan distingue quindi l’io in quanto costruzione immaginaria, che ha valore di oggetto, 
+                \b dall’io in quanto soggetto che è una funzione simbolica. 
+                \b Parallelamente, l’inconscio non è una formazione immaginaria ma è una struttura simbolica,
+                \b che Lacan sintetizza nell’aforisma «l’inconscio è strutturato come un linguaggio».

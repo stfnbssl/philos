@@ -1,0 +1,17 @@
+$group
+
+    namespace sartre
+
+        concept presenza-a-sé
+            + L'introduzione della coscienza apre un abisso fra sé e ciò di cui è coscienza, 
+                \b quand'anche si trattasse di se stessa. 
+                \b Orbene, 'se stessa' è l'indicazione di sé come unità comprensiva di questa distanza. 
+                \b Il sé è una «distanza ideale nell'immanenza» della coscienza 
+                \b che ha come caratteristica fondativa il 
+                \b «non essere la propria coincidenza [...], pur ponendola come unità»(5). 
+                \b Si tratta della presenza a sé, 
+                \b come legge ontologica della coscienza per cui essa non può essere sé (al modo dell'identità), 
+                \b ma non può neppure non essere sé (al modo della non inerenza). 
+                \b È quanto pensava Heidegger appellando l'uomo "un essere di lontananze". 
+                \b In questo senso, dunque, la coscienza non può mai fondarsi come coscienza-di-coscienza.
+

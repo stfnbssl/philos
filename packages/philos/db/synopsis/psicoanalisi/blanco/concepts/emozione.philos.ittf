@@ -1,0 +1,33 @@
+$group
+
+    namespace blanco
+
+        concept emozione
+
+            quote
+                + [..] dal punto di vista della introspezione
+                    \b l'emozione è sperimentata non come un evento mentale ma psicofisico.
+
+            quote
+                + Tali oggetti sono le emozioni, 
+                    \b ovvero contenuti simmetrici della mente 
+                    \b che la costringono a sviluppare qualcosa che possa 
+                    \b definirli, categorizzarli, dargli un senso 
+                    \b (istituendo relazioni asimmetriche negli oggetti).
+
+            quote
+                + [..] ho detto che il modo di essere simmetrico lo possiamo solo sperimentare “di pancia”; 
+                    \b ebbene, allineandosi un po’ anche al senso comune, 
+                    \b introduciamo l’idea che di fatto l’Inc 
+                    \b è per gran parte costituito da emozione. 
+                    \b L'emozione è per Matte Blanco  
+                    \b quell’evento psicofisico che ci mette in contatto diretto con il mondo; 
+                    \b egli individua nell’emozione anche una componente di pensiero 
+                    \b per cui essa deriverebbe contemporaneamente 
+                    \b dall’apprezzamento di cambiamenti corporei (egli lo chiama sensazione-sentimento) 
+                    \b e dal pensiero connesso a tale emozione (es. un pensiero di amore o di paura). 
+                    \b Ma il pensiero è concomitante o conseguente l’attivazione sentimentale? 
+                    \b Io sosterrei la seconda opzione, portando a concludere che sì, 
+                    \b l’emozione è una struttura bi-logica, 
+                    \b ma nella sua provenienza di base è totalmente simmetrica.
+                article bacchiega.logica-simmetrica-logica-asimmetrica

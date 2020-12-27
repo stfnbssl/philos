@@ -1,0 +1,9 @@
+$group
+
+    namespace freud
+
+        concept psicosi
+            
+            r-concept freud.meccanismo-di-difesa
+                period 1984-86
+                    + la reiezione della rappresentazione e dell'affetto o la proiezione

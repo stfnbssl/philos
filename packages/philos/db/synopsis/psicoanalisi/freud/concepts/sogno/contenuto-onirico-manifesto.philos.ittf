@@ -1,0 +1,6 @@
+$group
+
+    namespace freud
+
+        concept contenuto-onirico-manifesto
+            title contenuto onirico manifesto

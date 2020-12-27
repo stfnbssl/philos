@@ -1,0 +1,20 @@
+$group
+
+    namespace lacan
+
+        concept anoressia
+
+            r-concept godimento
+                + Il godimento non è il piacere, 
+                    \b spesso siamo costretti nella pratica clinica 
+                    \b a cogliere il dato di un godimento oscuro, 
+                    \b di una soddisfazione aldilà del principio del piacere. 
+                    \b Paradigmatica in questo senso la clinica dell’anoressia 
+                    \b con la sua  elevazione, la divinizzazione della mancanza ad oggetto.
+
+            r-concept empedocle
+                + Tuttavia anche l’anoressia, come il gesto di Empedocle,
+                    \b manifesta un No! verso la vita del bisogno, 
+                    \b verso l’immediatezza della vita animale istintuale, 
+                    \b e in questo senso si colloca sul lato del simbolico, 
+                    \b è una manifestazione del potere del simbolico.

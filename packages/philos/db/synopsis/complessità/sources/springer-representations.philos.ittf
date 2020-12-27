@@ -1,0 +1,1881 @@
+$group
+    url https://link.springer.com/article/10.1007/s12304-011-9116-2
+
+    $$ Consciousness Versus Awareness
+    concept linguistic symbol
+        + is – as an abstract concept – a word defined by other words 
+        quote
+            author Marcel Danesi
+            + the act of defining implies circularity; 
+                \b the sign as single form can bear meaning only 
+                \b by entering into systematic connections with other forms 
+            book
+                edition 2008
+                page 292
+
+    concept meaning-attribution
+        + is inherently dynamic, situated, contextual, negotiated. 
+        + non-ambiguous definitions are often difficult
+        
+    concept consciousness
+        + in Western thought the concept of consciousness is equivocally compromised with the concepts 
+            \b of sensory perception, learning, thinking, mind, intellect 
+        author Julian Jaynes
+            definition denotative
+                + “that which is introspectable” (much as Descartes, Locke, and Hume posited)
+            definition connotative
+                + the analog ‘I’ narratizing in mind-space
+                concept narratization process
+                    + the analogic simulation of actual behavior
+                    + generates the Analog I (me envisioned from within), 
+                        \b and the Metaphor Me (me envisioned from within observed from outside) 
+                        \b through the use of the metaphor ‘function’. 
+            book
+                edition 1984
+            + the analog ‘I’, the metaphor ‘me’ and narratization are all 
+                \b exclusive metaphorical constructs of consciousness proper
+            + there is the narration of the self as an agent 
+            + consciousness is “intimately bound with volition and decision”
+            + the perception of time and space does exist in awareness, 
+                \b but what is missing is time and space conceptualization, 
+                \b a function that we confine here to the 
+                \b narration of an “analog I, able to narratize within a functional mental space”
+
+        author Favareau
+            quote 
+                + we [humans] ‘manipulate representations’ (and not the things themselves)
+                comment 
+                    + as to decipher the Peircean words firstness, secondness and thirdness
+                    + Favareau share this position with Sebeok and Deacon
+                book
+                    author Favareau
+                    edition 2008
+
+        author Recchia-Luciani
+            + the conquest of consciousness over the above awareness takes place 
+                \b not only on a species scale (phylogenesis), 
+                \b but also on the scale of individual development (ontogenesis), 
+                \b as seems to be suggested by the apparent capability of children 
+                \b to fully experience the present, 
+                \b which is accompanied by their relative inability to reasoning on wide-ranging time scales, 
+                \b a scientific evidence-based gradual achievement in children
+            + all humans attain consciousness and the 
+                \b asymmetric functions allowing for the perception of separateness 
+                \b (the full perception of being an individual separate from what surrounds him/her) 
+                \b after having exclusively experienced awareness, non-separateness, the symmetric way of life 
+                \b (three ways to describe the perceptive picture where the one who perceives 
+                \b and the object perceived are one and the same) 
+            + overwhelmed by the consciousness of time, man seems to experience an ongoing awareness nostalgia,
+                \b a nostalgia likely to become the driving force of life itself in some humans
+
+    concept metaphor
+        author Jaynes
+            + in every metaphor there are at least two terms, 
+                \b the metaphrand (“the thing we are trying to express in words”), 
+                \b and the metaphier (“the term produced by an instruction to do so”)
+            + the relationship between the metaphrand and the metaphier 
+                \b is an operation on its own proper nature 
+            + crucial in this relationship is the set of features which are transferred between the two parts 
+            quote
+                + metaphiers usually have associations called paraphiers that project back 
+                    \b into the metaphrand as what are called paraphrands and, indeed, create new entities
+                book
+                    edition 1986
+                    page 7
+
+    concept awareness
+        author Julian Jaynes
+            + the presence of an object within the sensory-perceptive-motor (and vegetative, hormonal and immune) 
+                \b domain of an individual. 
+            + shares with consciousness the functions of spatialization, selection and concordance 
+            + shows a spontaneous tendency to extreme concentration and suppression 
+            + the choice of the term awareness to mean consciousness 
+                \b without an analog I able to narratize in a mental space, 
+                \b makes explicit reference to the meaning attributed to the term awareness 
+                \b by sapiential, mystical and meditative traditions, 
+                \b be they of a religious or of a lay nature, 
+        
+            concept symmetric way of being
+                alias non-separateness
+                alias awareness
+                quote
+                    + experiencing non-separateness
+                    author Matte-Blanco
+                        book 
+                            edition 1975, 1988
+
+            + of the utmost importance in awareness is a non-narratized perception of time, 
+                \b which is experienced only within a present confined by the constraints of the current perceptive field, and, 
+                \b in terms of the specific objects of perception, 
+                \b in forms in all likelihood analogue to what is already possible in many animal species other than man; 
+
+            + the perception of time and space does exist in awareness, 
+                \b but what is missing is time and space conceptualization, 
+                \b a function that we confine here to the 
+                \b narration of an “analog I, able to narratize within a functional mental space”
+
+            quote
+                author Vygotskij
+                + The behaviour of an ape, described by Köhler, is limited to 
+                    \b the animal’s manipulation in a given field of vision
+                book
+                    author Vygotskij and Lurija
+                    edition 1984
+                comment
+                    + time and space are ‘present’ and ‘manipulable’, but not conceptualized
+                    + there exist many examples of veritable animal cultures, but, 
+                        \b in the sensorial absence of the specific objects of action, 
+                        \b they lack a system of signs suitable for transmitting information and meanings 
+                        \b to their ‘physically’ absent conspecies. 
+
+            quote 
+                author Konrad Lorenz
+                + [animal cultures are characterized by the impossibility of a]
+                    \b perceptible accumulation of supra-individual knowledge
+                book
+                    edition 1973
+                comment
+                    + animal cultures and animal knowledge depend on the sensory field,
+                        \b as well as on the co-occurrent object
+
+    $$ Signs and Symbols: Modeling System Theory
+    concept sign
+        author Saussure
+            + in bringing semiology into being, 
+                \b Saussure emphasized the constitutive relation (for which he coined the term signification) 
+                \b of the linguistic sign 
+                \b intended as an arbitrary union between the signified and the signifier (its sound pattern)
+
+        author Peirce
+            + the founder of modern interpretation semiotics
+            + for Peirce the sign is to somebody: 
+                \b while de Saussure focuses the dyadic relation between two mental elements, 
+                \b the significant (the “acoustic image” produced by a sound) and 
+                \b the signified (the concept attached to such significant), 
+                \b Peirce fully grasps the importance of the interpretant, for whom, 
+                \b as we will see below, the sign is not necessarily and solely conventional
+            
+            quote
+                + [the sign is] something which stands to somebody for something in some respect or capacity. 
+                    \b It addresses somebody, that is, creates in the mind of that person an equivalent sign, 
+                    \b or perhaps a more developed sign. 
+                    \b That sign which it creates I call the interpretant of the first sign. 
+                    \b The sign stands for something, its object.
+                book
+                    author Peirce
+                    edition 1931–58
+                    page 2.228
+                comment
+                    + The sign has implications connected to the exclusive nature of this something 
+                        \b which excludes and scotomizes elements over the totality of possible meanings 
+            
+            concept relations in signs and objects
+                + Peirce noted relations in signs and objects. 
+                    \b He identified icons, indices, and symbols 
+                concept icons
+                    + signs that resemble the objects they represent;
+                concept indices
+                    + signs which are contiguous (either in terms of spatial,
+                        \b temporal and co-occurrence relationship, 
+                        \b or in terms of causal relationship) to the object represented 
+                concept symbol
+                    + signs that have a conventional link with their object
+                    + the symbol is not arbitrary in Peirce, but it is so in Saussure, 
+                        \b and, in our opinion, the very nature of the symbol is constituted 
+                        \b by its original native arbitrariness which fades away 
+                        \b as the symbol makes a transition from being a personal object 
+                        \b to a socially shared object. 
+
+        approach re-foundation of semiotics by Sebeok and Danesi
+            + based on the belief that 
+                \b the main objective of theoretical semiotics is 
+                \b to establish an ontological statute of signs, 
+                \b as well as to study the functions of signs
+            concept fundamental components of the sign
+                + the sign is the relation [A stands for B], or [A = B] for short, 
+                    \b in an unambiguous fashion
+                + the [A] part is called a form, and the [B] part the referent
+                + the linkage of the two dimensions produces a model, the [A = B] relation itself
+                book
+                    author Danesi
+                    edition 2008
+            approach Modeling System Theory
+                acronym MST
+                author Danesi
+                + four modeling strategies interdependent and broadly hierarchized: 
+                    \b singularized forms are the elements of composite forms which, 
+                    \b in their own turn, account for the building blocks of cohesive forms
+                concept singularized forms modeling strategy 
+                concept composite forms modeling strategy
+                concept cohesive forms modeling strategy
+                concept connective forms modeling strategy
+                    + coincides with that traditionally identified as figural modeling
+                    quote
+                        + because a figural sign (a metaphor, a metonym, etc.) 
+                            \b is more precisely a model connecting one type of referent (or referential domain) to another 
+                        book
+                            author Danesi
+                            edition 2008
+                            page 291 
+                
+                principle modeling principle
+                    + species-specific understanding of the world is indistinguishable 
+                        \b from the forms used to model it, as some of its essential implications. 
+                    + implies simply that for something to be known and remembered, 
+                        \b it must be assigned some form 
+                
+                principle variability principle
+                    + implies that modeling varies according to the referent 
+                        \b and to the function of the modeling system
+                    book
+                        author Danesi
+                        edition 2008
+                        page 291
+
+    $$ Signs of Life
+    We want to reiterate it once again: 
+        the key feature of signs is their systematically relational nature. 
+    In MST, connective forms are intended to result 
+    from some exclusively human forms of associative reasoning and 
+    they are studied by conceptual metaphor theory, 
+    the approach that considers metaphoric and metonymic thought as cognitive devices, 
+    a new kind of image-of-the-world-device. 
+
+    ThisFootnote7 is the species-specific understanding of the world of humans, 
+    indistinguishable from the forms used to model it, 
+    on a logical level that differs from those of other forms, 
+    which anyhow remain accessible to it.
+
+    How can humans understand something when they only have a conceptual and linguistic experience of that something? 
+    The brain areas involved in speech production and phonation are necessary, albeit not sufficient, elements 
+    since what is crucial is our ability to process symbols (like in the language of signs), 
+    rather than our ability to produce sounds. 
+    Far from being Socrates’ speaking animal (like a crow or like a parrot?), 
+    man is a symbolic animal, 
+    as we have been taught by Ernst Cassirer (Cassirer 1944).
+
+    In general systems theory, it can be said that when the model relation is represented by an analogy, 
+    a property of the prototype is accounted for by a different property of the model; 
+    the relation between the two properties is defined ‘by analogy’. 
+    In this manner many physical magnitudes can be represented: 
+    this is the way diagrams and graphs are constructed.
+
+    In symbolic representation a property of the prototype 
+    is accounted for by a symbol in the model, 
+    and here the relation, the model is governed by a law. 
+    Symbols imply a semantics, i.e. they have a meaning;
+    they can be subjected to rules, 
+    i.e. to a syntax whereby they can be manipulated (as is the case for letters and numbers). 
+    This is the basis of the amplitude and freedom of human representation.
+
+    Also the Correspondence by Analogy falls within this category, 
+    since it still concerns a ‘law’, albeit very simple in nature: 
+    a proportionality (direct or, more seldom, indirect) between two magnitudes, 
+    one of which is straightforwardly sensorial. 
+    Analogies do differ from indices. 
+    In analogies there is no Peircean feature of relational, spatial, or temporal contiguity. 
+    Indices imply a direct field dependence. 
+    
+    To sum up:
+
+    Property of the object: = property of the model, in an iconic correspondence. 
+        This implies an object dependence, at least in the form of a mnemonic image.
+
+    Property of the object: = other property of the model, 
+        with a relation, by analogy, in the homonymous correspondence.
+
+    Property of the object: = symbol of the model arbitrarily chosen 
+        (co-validated in a social context) in the symbolic representation.
+
+    An efficient model is a model that selects essential properties 
+        while ruling out all other properties. 
+    Metaphors and models share a representative function: 
+        they are (to someone) something that stands for something different, 
+        with goals and implications, provided by the selection of the attributes.Footnote8
+
+    Symbols allow for a crucial distinction, a key definition, that of language proper: 
+        as stated by Deacon, not ‘a whatever system of communication’, 
+        even when organized by a specific syntax, 
+        but rather a “system of communication based on symbolic reference (just as words refer to things) 
+        which contemplates combinatory rules, including a system of synthetic logic relations across the same symbols. 
+        In this connection, sign language, mathematics, computer ‹languages›, musical compositions, 
+        religious ceremonies, protocol systems, and a number of rule-based games could be defined 
+        as “holders of the central attributes of language”,Footnote9 
+        something that other animal species have not developed, 
+        unable as they are to “get how word combinations make reference to things”.Footnote10
+
+    Terrence Deacon, an interpreter of Peirce, emphasizes on the structurally hierarchical nature of signs, 
+    a hierarchy that, not only and simply grows in terms of complexity, 
+    but also in the modality whereby relations are established between forms and referents: 
+    quote
+        author Deacon
+        + Just as indices are made up of relations between and among icons, 
+            \b symbols are made up of relations between and among indices 
+            \b (hence, also between and among icons)
+        page 61
+        book deacon.the symbolic species
+
+    A key element for transferring associations from one stimulus to another 
+    is what psychologists use to define “stimulus generalization”, 
+    a perceptive operation where what seems to be ineliminable is a constant 
+    “ambiguity related to the essential parameters of the stimulus that 
+    a subject learns to associate with an either desired or undesired outcome”.
+    Footnote12 
+    These are essential parameters which will be shown (below) to be characterized by invariance, 
+    where arbitrariness in the goal- and implication-driven selection of attributes seems to be essential.
+
+    The aleatory nature of words, along with the circular nature of definitions, 
+    assign to symbolic systems a combinatory power, 
+    which simply cannot be attained by the rigour of the bijective correspondences of codes, 
+    since in the former case the relation is systematically a one-to-many and many-to-one relation. 
+    This combinatory power is heightened by the variability in the modeling operations 
+    governing the relationships between these forms and their referents, 
+    operations that we are going to analyze below by showing their conscious forms 
+    compared to their typical unconsciuous ones.
+
+    concept lexigram
+        + a symbol representing a word, especially one used in learning a language
+    
+    In analyzing the experiments of Sue Savage-Rumbaugh and Duane Rumbaugh with chimpanzees Sherman and Austin, 
+    Deacon describes a crucial achievement obtained during the tests: 
+    
+    quote
+        author Deacon
+        + The animals have discovered that the relation between a lexigram and an object is 
+            \b a function of the relation with the other lexigrams, 
+            \b and not only of the correlated occurrence of lexigrams and objects. 
+            \b This is the essence of a symbolic relation
+        page 68
+        book deacon.the symbolic species
+  
+    which is underlined by a very important change in strategy 
+    - as suggested by Sebeok and Danesi in their modeling principle, 
+    in terms of both understanding and memorization (given that also the registration of forms 
+    is reticular and scattered in nature). 
+    At the basis of a combinatory power there is the choice of the elements likely or unlikely 
+    to be combined, replaced, manipulated, which produce new levels of correspondence 
+    defined by linguistics as “semantic traits”, e.g. the absence or presence 
+    of a certain property like “solidity”.Footnote14
+
+    Now, crossing the symbolic threshold makes the full co-occurrence of relations, 
+    which are typical of both the iconic and indical models, completely unnecessary: 
+    the co-occurrence of relations (and not of things themselves) 
+    gives the possibility of making categorial speculations 
+    among the few possible alternatives, 
+    as can be experimentally shown by the specific autonomic-vegetative responses 
+    triggered by exposure to a semantic field.
+    Footnote15
+
+    theory neuronal group selection
+        Footnote16
+        author Edelman
+        + a mature brain seems to be pre-wired and well disposed to model itself to the umwelt 
+        Footnote17 
+            \b with which it is designed to co-develop after birth. 
+        concept invariant characters
+            refer-to
+                concept repetition
+            concept semantic traits
+                + semantic traits are characterized by a feature: they are invariant characters. 
+                + they do exhibit a prerequisite for determining which neural group 
+                    \b is destined to undergo selective pressure in the brain in a later phase: 
+                    \b they make “regular invariant requests to neural processes”.
+                    Footnote18 
+                + semantic traits, much as sensory features, make these same regular invariant requests to neural circuits
+
+
+    $$ Qualia
+    Today the ‘mind-body problem’ is considered in terms of a relationship between 
+        first-person experiences and the third-person viewpoint. 
+    Following Chomsky’s introduction of the concept of mental organ into linguistics and psychology, 
+    knowledge turns out to be a viable subject of scientific study. 
+    The central nervous system does not actually comply 
+    with the definition of a bodily organ and/or system either from a morphological (anatomical) 
+    or from a functional (physiological) point of view. 
+    It has multiple functions, some well documented in biology and physiology
+    –from the molecular to the cellular levels, 
+    up to the neural networks–while others are analyzed at a psychological–mental level 
+    and in relation to social functions.
+
+    concept qualia
+        alias qualitative characteristics
+        + are properties ascribed to mental states
+        + usually refers to mental states with characteristics of highly distinct subjectivity, 
+            \b or to phenomenal aspects of mental life accessible solely through introspection
+        book
+            author Harman
+            edition 1990
+            + they consist of phenomenal properties
+        book
+            author Block
+            edition 1980
+            + they are proposed as independent of the representational properties of mental states, 
+                \b yet accessible via introspection
+        book
+            author Lewis
+            edition 1929
+            + the Latin term quale (plural, qualia) was first used by Clarence I. Lewis 
+            quote
+                + [in relation to] recognizable qualitative characters of the given
+                page 121
+
+        + Since their introduction, qualia have been seen as a challenge to the philosophy of mind. 
+        + In its simplest form, the term denotes qualities or feelings 
+            which are considered to be independent from their effects on behaviour. 
+            Qualia are irreducible monads of mental states; 
+            that is, primary, indivisible elements of reality. 
+            For some authors, they are perceptual experiences or bodily sensations; 
+            for others, mental states associated with emotions, feelings or moods. 
+            Typical examples of subjective qualia accessible only through introspection are 
+            the ‘redness’ of red roses or red light, the scent of perhaps the same rose, 
+            and salty, sweet, bitter or acid tastes. 
+            In other words, what are traditionally considered to be 
+            the specific properties of sensory experiences.
+
+        Unless one has a theory of mind, subjectivity and access to introspective states 
+            are insurmountable problems. 
+        One’s understanding of the other is possible only through the recognition, 
+            in that other, of mental states similar to one’s own. 
+        Otherwise, short of a social intersubjective validation, such an agreement would be impossible.
+
+        The qualia involved in processes of this kind are those which evolution has endowed us with, 
+            tools which are particularly suitable for adaptation to specific ecological environments on this planet. 
+        Adaptation in this sense is demographically measured by fitness, through the number of descendants. 
+        These are sensory qualia. 
+        The sense organs have developed biologically through the selection of specific transducers 
+        that are capable of generating adaptive ‘sensory models’ in accordance with the ability 
+        to improve the survival of the species. 
+        
+        concept metaphor
+            book
+                author Lakoff and Johnson
+                edition 1980 
+                field cognitive linguistics
+                    + in the quite different context of cognitive linguistics, 
+                        \b the authors made explicit reference to the metaphor as a sense organ itself 
+                    + it is still a metaphor, but a metaphor of an extraordinary 
+                        \b power and appropriateness
+
+        In a previous paragraph as in other works, 
+        I have defined in detail the characteristics of consciousness 
+        as being distinct from those of awareness (Recchia-Luciani 2007). 
+        
+        On the basis of this distinction, it is possible to identify the sense organs 
+        and so-called ‘sensory channels’ through which awareness is achieved by means of sensory qualia. 
+        
+        Humans have entire ‘new’ classes of mental states–and so ‘new’ qualia–which are subjective and 
+        accessed solely through introspection, at least prior to the intersubjective validation 
+        made possible by a theory of mind.
+        Footnote19 
+        Orientational and physical metaphors form the basis for structural metaphors, 
+            where one concept is metaphorically structured in terms of another. 
+        In all cases, these concepts are unconceivable without postulating 
+            a psychologically demonstrable device (a Chomskyan device) 
+            suitable for treating tropes (transformations, transfers of meaning) 
+            and configuring representations;
+            a module that can enable the cognitive elaboration of one thing in terms of something else.
+
+        Is the ‘seven-ness’ of the ‘seven deadly sins’ or of the ‘seven wonders of the world’ a concept explainable 
+            to those who lack the mental faculties for perceiving it? 
+        Though it might repeat the word ‘seven’, can your parrot actually understand it? 
+        For convenience, I have already described this type of example as a metaphorical quale (Recchia Luciani 2007), 
+            although it is possible to define non-sensory qualia of different classes, 
+            each characteristic of a specific type of ‘reality emulator’. 
+        
+        Sensory qualia are always characterised in terms of value. 
+        They are ‘primary biological devices for survival.’ 
+        Here lies the key role of Damasio’s somatic-markers, 
+            which are believed to have preceded, 
+            in the course of evolution, 
+            any type of awareness. (Damasio 1994). 
+        An emotion – in the sense given to that term by Antonio Damasio – may be described as ‘beautiful’ or ‘ugly’, 
+            and so on, though the meaning may not always coincide with the strict linguistic sense of the term.
+
+        In the absence of consciousness, 
+            an emotion supported by sensory qualia has no meaning linguistically. 
+        However, it still has connotations of a richly significant value, 
+            because it is somatic and necessary for ‘existence in life’, 
+            especially in threatening conditions. 
+        It is therefore carefully coded into our genes 
+            in order to ensure a constantly high stability in subsequent behaviour. 
+        The stench of putrefaction is invariably negative. 
+        The sensory qualia, being ‘pure’, have a basic value in terms of biological knowledge.
+
+        In humans endowed with awareness and consciousness,
+        a sensory quale is necessary 
+        in order to give meaning and value 
+        to the metaphorical quale it is based on. 
+        
+        concept metaphorical qualia
+            + are characterized by a much more complex connotation of value: the semantic differential. 
+            concept semantic differential
+                + has a dual origin
+                + the value, as in many decision-making processes, can be provided by somatic markers, 
+                    \b and thus have the same original ‘carnal’, bodily physiology, intrinsically and strongly emotional 
+                + as the name indicates, however, a semantic differential is also inherently semantic, 
+                    \b and thus has a proper, situated significance; it is context-bound, 
+                    \b or learned through transmission from a bearer of a tradition, for instance, the family 
+                    \b or another cultural group, or a group of peers, and so on.
+        Footnote20
+
+
+    Semantic Differential (on Senses, Connotation and Extensions)
+    
+    Metaphorical qualia are endowed with a complex value connotation, the semantic differential.
+    Footnote21 
+    This latter has a dual origin: as is the case in many decision/making processes, 
+    it can be provided with its value by its somatic markers and 
+        thus have the same intrinsically and strongly emotional “carnal”, bodily, physiological origin. 
+    However, as suggested by the same adjective, it is inherently semantic. 
+    
+    It is the semantic differential (or sense, connotation, extension) that makes 
+    the concept of metaphorical qualia more complex 
+    than that formulated, already 2500 years ago, in Plato’s (428–348B.C.) Doctrine of Ideas. 
+    
+    Indeed, those ideas were already immutable objects in the world of forms, 
+    and they were only accessible by means of reason.
+
+    concept dual origin of memories
+        The dual origin of the connotative value of metaphorical qualia 
+        has a remarkable parallel in the dual origin of memories in humans: 
+        some are emotional, sometimes traumatic, and have an immediate onset and an unconscious outset; 
+        others are acquired through laborious learning, very often accompanied by exercise and repetition. 
+    
+    concept the complex terrain of the living body
+        It is the insertion of significance into the complex terrain of the living body 
+        that makes the values attributed to the metaphorical qualia so exceedingly variable.
+        To attest that a metaphorical device is necessary for developing an explicit understanding 
+        means that the device in question is a basic element in the development of language. 
+        Here we refer to the two functions of language (Vygotskij 1934, 1978), 
+        one of which is to build a model of the world, 
+        and the other is to communicate. 
+        But if metaphorical qualia are likely to become a basis for understanding and communication, 
+        then the famous four properties which Daniel Dennett found to be commonly ascribed to qualia
+        – ineffable, intrinsic, private, and directly or immediately apprehensible in consciousness (Dennett 1988, 1994) –
+        would disappear. 
+        In fact a quale would not be ineffable – that is, communicated or apprehended by no means other than direct experience –
+        it would not be intrinsic – in other words, a non-relational property which does not change in different relations – 
+        and it would not be private – a property which refers to the fact that all interpersonal comparisons 
+        between qualia are systematically impossible. 
+        To share the experience of a quale requires an analogy – such as ‘red as a traffic light’ – 
+        or a description – for instance, ‘an electromagnetic radiation with a wavelength of 700 nm’.
+
+    These are acts made possible through the availability of two types of sign – indexes and symbols – 
+    but they are also completely incapable of providing a direct perception, 
+    for instance, granting the ability to see red to a person blind from birth. 
+    
+    This illustration introduces the fourth property: 
+    a quale is directly or immediately apprehensible in consciousness;
+    in other words, to experience a quale is to know that one experiences a quale 
+    and to know all there is to know about that quale.
+
+    $$ Primary Syncretic Perceptions, Late Perceptive Achievements
+    Here I recall the proposed distinction between awareness – the only state in which a sensory quality 
+    can be directly or immediately accessible as a mental state – and consciousness. 
+    I endorse Edelman’s understanding of qualia as fully organic, functional, and strictly based on evolutionary history. 
+    Qualia are not to be considered accidental elements or 
+    parts of some kind of representation, unless they are metaphorical.
+
+    concept syncretic perceptions
+        alias synthetic perceptions
+        + the syncretic-synthetic perceptions of childhood come before any analytic approach
+        + a child first perceives the object ‘ball’ in its entirety, 
+            \b including in the properties of the object in question also the name which identifies it
+
+    As a result, other objects with similar names will tend to be considered somehow ‘akin’, 
+    without even considering the problem of ‘the class of the objects ball’, 
+    or the problem of ‘sphericity as a constant property’, 
+    or that of ‘redness as a property of red objects’, 
+    a property that can be considered constant, 
+    irrespective of the objects exhibiting it. 
+    
+    By the same token, from an evolutionary perspective, at least from that of ontogeny, 
+    the ‘qualia’ and their constancy in terms of properties, are not basic ingredients, 
+    but rather late perceptive achievements.
+    Footnote22
+
+    The status of qualia is that of ontological components of the human world, 
+    since humans do not live in some abstract and objective ‘reality’, 
+    but within the universe of possibilities of sensory and motor perceptions generated by their brain
+    
+    Elements such as colours, smells and sounds have proved particularly suitable 
+    for increasing the survival of some species. 
+    These species have selected transducers, sensory systems and brain maps suitable to ‘receive’ 
+    and use them as constituent elements of their peculiar universe. 
+    Their existence is inherently subjective, as they do not exist 
+    except in the interaction between the world and the perceiver.
+
+    Given the intrinsically organic, natural and functional origin of qualia, we can say with Edelman (1987, 1992) 
+    and with Edelman and Tononi (2000) that there is nothing resembling a special quale with non-functional properties. 
+    What we propose is that in hominids – particularly in the species homo as represented by the modern heirs of Cro-Magnon – 
+    a new category of sensory devices has emerged. 
+    Its peculiarity lies in the ability to represent something in terms of something else; 
+        that the genesis of this device is, once again, entirely organic, natural and functional; 
+    and that, in quite the same way as the elements of qualitative sensory experiences, 
+    this particular representative capacity has its primary place of existence 
+    in a solely introspective, accessible subjectivity, 
+    and its place of validation and objectification within the context of inter-subjective
+    recognition and comparison with others, 
+    through the functions identified in psychology and in neuroscience (construed as a theory of mind).
+
+    This is a biological foundation which goes beyond positivist ideals of science, such as objectivity. 
+    It is this metaphorical device that allows the construction of those formal models 
+    we sometimes identify with objective reality, 
+    or with the so-called physical world. 
+    In areas where this possibility still seems feasible, its persistence owes much to two factors: 
+    the advent of mechanisms for the validation of explanatory hypotheses
+        – primarily, experimental paradigms which have connoted the advent of thought –
+    and the possibility, in some specific areas, to build schemes informed 
+        by a high local rationality (Sperber 1996; Brown et al. 1996).
+
+    The main achievement of this approach relates to the construction of a model 
+        through which we can take full advantage both of internal theoretical consistency 
+        and of the congruence between theory and practice. 
+    A good explanatory theory about a deterministic linear model of a piece of reality 
+        usually allows predictions to be made. 
+    However, we must not fall into the logical trap here of supposing that because our senses build our world, 
+        they also literally build our physical world. 
+    Colours, sounds, metaphors or mathematical formulas do not exist 
+        outside of the interaction between the world and the perceiving subject
+
+    $$ The Permanence of Properties
+    If we use a screen to hide objects from a human baby aged between four and five months, 
+    we will see typical activities of ‘research’ through sight carried out by the baby. 
+    The infant seeks an object which exists because it is permanent. 
+    The ‘surprise’ that a very young baby shows when exposed to novelty 
+    is readily measured calculating the duration of his/her gazing at the ‘new’ object.
+    Children get bored quickly, and re-introduction of familiar objects deserves only a fleeting and careless glance. 
+    Something new reawakens the baby’s attention and results in a prolonged gaze. 
+    This is a classic preference-for-novelty task. 
+    The permanence of the object is connected with these properties which last in time. 
+    If, behind the screen, a red ball is replaced by a yellow ball, 
+    the baby would still look for a red ball, 
+    seeming not to believe that the red ball has become yellow.
+    In talk about sensory experience, the concept of reality is directly linked to the permanence of properties, 
+    in a form analogous to that of classical physics, where we speak of an intuitive concept of what is ‘real’. 
+    In an almost Kantian fashion, we recognize substantial objects early and spontaneously as things that persist through time.
+
+    In discussions about symbolic–linguistic experiences, 
+    which encompass human thought and language, 
+    reality is directly linked to inter-subjective validation. 
+    Phenomenological and introspective experiences of property are not enough. 
+    We don’t have any direct means of demonstrating whether or not 
+    what we perceive and think is the same as what our interlocutors do. 
+    We can – or we should – assume so, because human communication is possible 
+    only for those who have a theory of mind; 
+    in other words, the presupposition that we share with our interlocutors 
+    analogous states of mind (Baron-Cohen, 1988).
+
+    Sensory perception is focused on invariant features, 
+    the Aristotelian ‘essences’, the sensory qualia, 
+    which coincide with those properties that are constant in objects and that, 
+    as the preference-for-novelty task has proved, 
+    are perceived from early childhood (generally after a few months of life). 
+    
+    Sensory perception has evolved to ensure the highest possible adherence to 
+    the ‘factual’ qualities of the objects of perception 
+    on the basis of their relevance to the animal (as defined in Smith Churchland 2007). 
+    
+    This is not the case for understanding, 
+    which is available to humans through a new class of cognitive devices. 
+    The focus on the congruence between domains in the relationship between 
+    prototype (the thing or function used as an ‘example’) 
+    and object (what must be understood or elucidated) 
+    is, typically, the result of an interpretation and, as such, 
+    is susceptible to various positionings and re-positionings, 
+    definitions and redefinitions, negotiations, conceptualizations, 
+    contextualizations and re-contextualizations – all independent 
+    from any variation in the factual characteristics of the object 
+    which we seek to understand or explain.
+
+    Objectivity is always the result of an inter-subjective validation: 
+    an agreement on a specific quality, or on a specific collection of qualities.
+    Footnote23 
+    It is easy to achieve in sensory perception, 
+    but much more difficult with an interpretation. 
+    We have no direct relations with the world: 
+    we only deal with our perceptions of it. 
+    What gives rise to emotion is not the ‘abstract nature of the experience’, 
+    but the assessment which a person makes of it in relation to their own welfare. 
+    When they do not relate to basic needs, goods are exchanged according to their symbolic value, 
+    which is primarily dictated by the social-status value rather than by the functional one. 
+    Otherwise why would anyone buy diamonds?
+
+    $$ The Evolution of Representation: Animals and Abstract Thinking
+    Researchers in the area of comparative psychology 
+    have compared the capacity of various species of monkeys, of chimpanzees and of humans 
+    to construct conceptual classes, both in infancy and adulthood. 
+    The preferred means of conducting the study is through a ‘matching-to-sample task’ (MTS) 
+    and the results suggest that even Rhesus monkeys (Macaca mulatta) are capable of classifying 
+    based on shared invariable characteristics by using simple associational procedural strategies. 
+    
+    There is no proof, however, of their capacity to perceive relations-between-relations, 
+    the lack of which defines them as ‘paleologic’ (Thompson and Oden, 2000). 
+    
+    These monkeys can identify similarities and differences between single objects, 
+    but their classification is confined to a single class (first-order classifying). 
+    
+    Chimpanzees (Pan troglodytes), however, are able to classify on a more abstract level, 
+    attaining a simple second-order classifying level. 
+    This means they are capable of identifying similarities and differences in more than one class, 
+    which permits them to distinguish between pairs of objects; 
+    not only can they put a bunch of keys together, 
+    but they are able to recognise the similarities between a key and a similar plastic toy. 
+    This conceptual capacity, which may be correctly defined as ‘analogical,’ 
+    is found exclusively in chimpanzees and humans, 
+    but in both groups only after a phase of instruction to the use of symbols! 
+    It emerges as an explicit faculty only after a period of training in a ‘symbolic system’ 
+    (the language, or a system of tokens) which makes it possible to codify and manipulate propositional representations. 
+    Using this system, a five-year-old chimpanzee becomes capable of 
+    selecting objects and grouping them into matching pairs.
+
+    The ‘preference-for-novelty task’ shows what it was not possible to measure explicitly in the MTS tests, 
+    namely that similarities between objects are perceived by both young humans and young chimpanzees before training, 
+    but are not perceived by either young or adult Rhesus monkeys, 
+    despite their capacity to perceive physical identity. 
+    Babies and chimpanzees exhibit the capacity to understand causal relations and 
+    when trained in a symbolic system – a language or a system of labels, e.g. tokens – 
+    they are capable of labelling components respectively as actor, object or instrument and 
+    of choosing the correct conclusion to an incomplete succession in a causal sequence. 
+    The renowned Sarah, (Premack and Premack, 1994), in addition to labelling, 
+    managed to complete unfinished representations of actions 
+    which involved multiple transformations.
+
+    The availability of different types of ‘reality emulators’ is a sign of evolutionary leaps of great significance, 
+    capable of generating new types of development from the emergence of consciousness onwards, 
+    as posited by epistemological evolutionists (Campbell 1974; Lorenz 1973) 
+    and some geneticists (Cavalli-Sforza, 2004), 
+    new forms that are structured on new ‘replicators,’ which Dawkins calls ‘memes’ (Dawkins 1976), 
+    up to the onset of full self-awareness. 
+    The genesis of cerebral structures capable of generating and manipulating metaphors 
+    constitutes a fundamental stage, 
+    perhaps the fundamental stage, in the natural history of man. 
+    We understand, three centuries later, 
+    Giambattista Vico’s intuition regarding the corporal base of all constructs, 
+    up to the most exclusively human of cognitive mechanisms, the metaphor (Vico, 1744). 
+    From the beginning, life is possible only where transfer of information occurs, 
+    with consequences in terms of matter and/or energy. 
+    There is no life without independent autopoietic networks capable of replication.
+
+    The process of semiosis rather than the study of signs lies at the heart of semiotics (Deacon, 1997, 1999), 
+    and this is also the promise of memetics. 
+    Memetics consists in finding replicating patterns which allow us to isolate what generates significance 
+    in systems that are structured in strata, from the biological level, 
+    through individual and group psychology, and on to behaviour patterns which regulate society, 
+    the economy and global eco-systems, and which influence the planet in its totality.
+
+    The intersection between the ‘hard’ sciences, which are concerned with ‘things,’ 
+    and the ‘soft’ or ‘historic’ sciences, which are concerned with processes, 
+    is precisely this: 
+    the identification of invariant patterns, 
+    which for a long time have been referred to as the unchangeable laws of nature. 
+    How do the signs come into being?
+    How do we begin to go beyond first level relations, between sign and object, 
+    and move on to perceiving and then manipulating relations-between-relations?
+
+    Monkeys can perceive similarities and differences between objects. 
+    Chimpanzees, like children, are able to make second level associations, 
+    but only after a period of instruction, 
+    the role of which should not in any way be undervalued. 
+    Studies on the ‘Baldwin effect’ showed that it is difficult to consider a ‘gene’ pattern 
+    as anything more than a type of pre-disposition. 
+    And besides, the effects of epigenetic regulation, 
+    behaviour and acquisition can drastically alter the outcome of the development
+    – the realisation of the phenotype –
+    although without directly affecting what is copied and transmitted across the generations.
+
+    In Deacon’s classification (1997), an icon is a first level classification; 
+    indexes consist of relationships between icons, making them indirect representations; 
+    and symbols consist of relationships between indexes, making them doubly indirect representations.
+
+    The preference-for-novelty tasks show that children and chimpanzees 
+    perceive the similarities in relationships, 
+    but they aren’t able to manipulate them, 
+    and that even this perceptive capacity, if not cultivated, remains unproductive. 
+    Deacon emphasises the importance of these elements, 
+    while also stressing the importance of phenomena such as the sharing of attention and intentionality.
+
+    $$ Representations, Sign Systems, Intentionality
+    Bronckart (1996 p. 99–100) reminds us of an important distinction between ‘event’ and ‘action’, 
+    a distinction originally introduced by Anscombe.
+    Footnote24 
+    Referring to human intervention in the world, he defines 
+    ‘intentionality’ as ‘proactive representation which guides action’, 
+    and goes on to define ‘action’ as ‘an organised sequence of events which can be assigned to an agent’. 
+    
+    It is a definition which goes far beyond that of ‘process orientated to an end,’ 
+    which has been proposed by various scholars from Thomas Aquinas to Husserl, Brentano and Ach. 
+    It differs greatly both from that of Piaget, 
+    which harks back to the rather traditional notion that infantile intentionality 
+    is expressed by the coordination between the means and the end, 
+    and that of Bruner, who speaks of a general activation 
+    which demonstrates a diffuse intentionality preceding the capacity to identify means and ends 
+    (a child is capable of proactive representation but lacks the means to use it, and learns by observing adults).
+
+    Bronckart’s definition is particularly interesting, not only because of its clarity, 
+    but above all because of its adherence to the model of interaction 
+    between sensory and motor components of the central nervous system 
+    that today is widely accepted. 
+    In this model there is a complex and complete convergence between sensory and motor functions. 
+    On the one hand, the functioning of the sensory organs (more than one or even all sensory modalities simultaneously) 
+    is impossible without the complex motor activity of ‘targeted exploration’ of the environment, 
+    because most of the transducers and neural systems of perception known to biology respond to variation 
+    rather than to stationary conditions. 
+    On the other hand, one of the functions essential to the correct execution of a motor act is 
+    forecasting the outcome of the act before undertaking it 
+    (Dufosse et al. 1985, Kawato et al. 1987, Wolpert et al. 1995, 1998). 
+    Without this function it is impossible to have: 
+    (a) the compensation of sensory feedback, which is inevitably delayed; 
+    (b) the cancellation of the sensory effects due to the movement itself; and above all 
+    (c) planning successive motor acts. 
+    The system of ‘forward models’ is multiple and integrated and 
+    can be integrated with other modular systems and above all it can evolve with learning.
+
+    By means of multiple trials with varying strategies, including fMRI, 
+    sensomotor activity has been localised in the cerebellum. 
+    Now, the incorporation of ‘forward models’ makes credible 
+    the hypothesis that multiple systems of ‘mirror neurons’ 
+    may form part of the ‘neuronal correlation’ of ‘embodied simulation’ 
+    which Rizzolatti and Gallese propose as an infrastructural neural mechanism 
+    that underlies imitation, empathy and–perhaps–a theory of mind (Gallese et al. 1996, 2006; Rizzolatti et al. 1996).
+
+    Even the animals closest to us do not ‘comprehend’ and ‘interpret’ symbols,
+    Footnote25
+    like humans do; 
+    they are denied access to what is ‘signified’. 
+    This is why we prefer Bronckart’s definition to all the others. 
+    His interpretation of ‘representation’ makes it possible to classify and render systematic 
+    the existence of different types and forms of intentionality, 
+    and also to better specify what we mean by ‘comprehend’.
+
+    Representation is sign, classifiable, as already mentioned, in different forms: 
+    icons, indexes and symbols.
+
+    Proactive representation based on icons and/or indexes and capable of guiding action 
+    (and therefore forms of intentionality) 
+    are present in higher animals, 
+    but appear to be limited by specific sensory fields (for instance, the field of vision in primates), 
+    and sometimes by relativity to particular objects (as happens with animals, 
+    who lose the knowledge of how to use an instrument if it’s use skips a generation). 
+    In other words, the forms of observable intentionality are linked to field and/or object dependence.
+
+    It has been demonstrated that higher primates are able to use icons to communicate.
+    These are not devised by the animals themselves, but the animals can use them. 
+    This is what enabled Bateson to define them in the 1940’s as ‘iconic animals,’ 
+    though they do not possess a real sign system (Bateson 1972).
+
+    concept trope
+        + transformation, the transfer of meaning
+        + the most notable is the metaphor
+        concept asymmetry
+            + the metaphor is a trope which displays the most advanced level of asymmetry
+
+    There are various types of ‘cognitive apparatus’ capable of manipulating signs.
+    At the highest level is that for the processing of tropes 
+    (i.e. transformations, the transfer of meaning), 
+    the most notable of which is the metaphor, 
+    which displays the most advanced level of asymmetry.
+
+    We do reiterate that complex communication is only and always possible in relation to another’s ‘mind theory.’ 
+    It is based on the presupposition that mental states analogous to ours are present in our interlocutors. 
+    Communication of mental states is simpler if and when 
+    these latter are characterised by sensory qualia, and by icons or indices. 
+    In humans, and only in humans, communication may also include the sharing of mental states 
+    characterised by metaphorical qualia, narratives in which the actors are symbols, 
+    though because of their arbitrary nature not necessarily shared ones. 
+    Comprehending others means 
+    understanding their intention (proactive representations, what they are driving at) and their motivations, 
+    understanding their signs and the value connotations of these signs, 
+    such as how we know that our cat is hungry. 
+    In the case of humans things are a bit more complicated. 
+    It becomes necessary to identify an entire context (a ‘metaphoric landscape’, Lawley and Tompkins 2000), 
+    in which the signs, which are often symbolic, acquire ‘semantic differential’.
+
+    One interpretation of the term ‘intelligent’ refers to those who have this capacity to ‘mind read’. 
+    The fewer clues that have to be provided regarding intentions, 
+    the greater the recipient’s level of intelligence. 
+    Such a proactive representation (intentionality according to Bronckart) 
+    can determine the behaviour of the agent (an organism with the capacity to perform an action), 
+    as can retroactive representation (motivation according to Bronckart). 
+    It is always the sum of representation and value connotation 
+    (semantic differential in the case of symbols) 
+    which explains the common use of the term ‘motivation’ as a cause of, or reason for, 
+    justification or explanation of behaviour. 
+    I hope that this clarifies that the operations we use 
+    when we ‘understand’ that the dog needs to go out for a walk 
+    are different from those we use when we ‘understand’ the motives and the company strategy 
+    that led to us being overlooked for promotion.
+
+    In the Modeling Systems Theory (MST) perspective, 
+    “Species-specific understanding of the world is indistinguishable 
+    from the forms used to model it (the modeling principle)”. 
+    As Bruner emphasised in much of his writing, 
+    notwithstanding the difficulties that psychology and neuroscience may have encountered 
+    in determining their significance, 
+    concepts have always had enormous weight in the history of human civilisation.
+
+    The presence or absence of proactive representation (intentionality) 
+    and retroactive representation (motivation) 
+    is reflected in the legal distinctions between voluntary, involuntary and premeditated crimes. 
+    There is a criminal act only where there is intention. 
+    The event, from Spinoza onwards, is a ‘chain of causes’. 
+    The ability to perceive and model time (in spatial terms) 
+        enables us to reconstruct causal chains. 
+    Conscience confers agency to the self.
+
+    $$ Emotional Qualia and the Invention of Self-Agentivenness: The Qualic Self
+    We referred to the formidable capacity of our sensory systems to adhere to ‘factual characteristics’, 
+    as typical and invariant constants of the objects of perception. 
+    Unlike Plato, we believe that senses yield shareable results, 
+    but with value attributions that vary according to the different ‘perceivers’.
+
+    From a phenomenological viewpoint, this strongly recalls Husserl’s notion of ‘eidetic vision’, 
+    of the ‘intuition of essences’, in Logische Untersuchungen (Husserl 1900/1901). 
+    Similarly, the proposition of a ‘taxonomy of intentionality’ 
+    with the concept of proactive representation, 
+    seems to be an attempt to develop the types of ‘content’ and ‘direction’ 
+    of the intentional acts allowed to animal species 
+    in relation to their different representational capacities.
+    Footnote26
+
+    concept somatic-marker
+        author Damasio
+        Psychologists recognise some ‘basic’ emotions which we share with all of the other mammals
+        – fear, anger, disgust, joy, sadness and surprise – 
+        and which recall the value connotations of Damasio’s somatic-marker. 
+        Humans not only can evoke complex emotional constellations, 
+        similar to those we defined above as ‘value connotations of semantic differences’, 
+        but they can also attempt a disassociation of the emotional content 
+        from the object which evoked it. 
+        Pharmacologically active substances are able to provoke ‘pure emotions’ 
+        in a way which can be demonstrated and reproduced not only on the basis of accounts, 
+        but also through modern neuroimaging technology which is able to demonstrate 
+        functional activation of deep cerebral nuclei, 
+        an experience already unveiled by Servan-Schreiber 
+        (‘emotions without an object’ in Levy and Servan-Schreiber, 1997). 
+        Psychiatrists make a distinction between anguish and fear, 
+        the former being ‘devoid of object’. 
+        In all cases, it seems that we can affirm the possibility that in these types of experience, 
+        the emotional is the invariant and dominant property. 
+        Also here, we find ‘qualitative characters recognisable by data’, 
+        whether that data is of a sensory or metaphoric nature; 
+        and we are faced with a mental state with highly distinct subjective characteristics, 
+        or in other words with important phenomenal aspects of our mental life 
+        which are accessible only through introspection. 
+        What we are faced with is a emotional quale.
+
+    concept damasio.emotional quale
+        parent quale
+        author Damasio
+        We understand the term ‘emotional quale’ in Damasio’s sense. 
+        In The Feeling of What Happens (1999), 
+        Damasio dedicated pages to the vital differentiation between emotion and feeling. 
+        He defined emotions as ‘complex, stereotyped patterns of response [often] publicly observable’, 
+        and feelings as ‘private mental experiences’. 
+        Damasio excludes from emotions the perception of all changes which make up the emotive response. 
+        He reserves the term ‘feeling’ for the experience of such changes (Damasio 1994). 
+        For Damasio, it is not possible to observe a feeling in another person, 
+        albeit is possible to observe a feeling in ourselves when, 
+        insofar as we are conscious beings, 
+        we perceive our emotional states (Damasio 1999).
+
+        Thus, feelings are metaphorical qualia because, for Damasio, 
+        they need the hippocampus as a neural structure and 
+        consciousness as a psychic function. 
+        They are qualia in that they are subjective mental states. 
+        We can’t observe them in others, we can observe them only in ourselves. 
+        But if an emotion becomes a feeling when our consciousness tells us so, 
+        when we manage to understand it, 
+        the sensory dominion alone is no longer sufficient to be aware of it’s constituent elements. 
+        And consciousness uses metaphorical qualia as raw material 
+        for the construction of its stories, of its own narratives. 
+        This ontological status is different from that of emotional qualia, 
+        intended, it must be remembered, as 
+        ‘introspectively accessible emotional qualities distinct from the object which has evoked them’.
+
+        Beyond this step, we humans can turn our attention towards ourselves, 
+        towards the capacity to perceive and understand the subject of perception itself. 
+        This introduces a complex psychic operation, 
+        the construction of a perceptual illusion, 
+        evidently advantageous in terms of evolution and 
+        demonstrable in mathematical terms through the concept of fitness 
+        (the demographic success which constitutes the objective dimension of survival 
+        and reproductive success). 
+        
+        These illusions are those of continuity and oneness,
+        two properties that are obvious in phenomenological experience,
+        yet almost impossible to define in terms of pure biology.
+        There is neither continuity nor oneness 
+        in the complex molecules that we are made up of, 
+        not even in any of the atoms 
+        that the molecules are made up of.
+
+        And yet, our biological make up seems to have given us a ‘qualic self’. 
+        It is the agent apparently responsible for those complex causal chains which we call our actions, 
+        arbitrarily but advantageously (from the point of view of evolution) 
+        perceived as unique and constant. 
+        Causal chains have revealed themselves to be an extremely important image-of-the-world apparatus, 
+        which have enabled homo sapiens sapiens to be the current forerunner in the race for the ‘cognitive niche’.
+
+        It is an image-of-the-world apparatus of great and almost frightening power, 
+        but not without limits, as philosophers remind us. 
+        To perceive and reconstruct a chain of causes, 
+        and therefore to represent an event, 
+        is responsible for our capacity to understand, 
+        which in this text is considered to be possible 
+        by virtue of the metaphoric ability in humans. 
+
+        Attributing significance to events is no longer only a question of perception, 
+        it is a step that belongs to the field of culture.
+
+        An extraordinarily potent and potentially dangerous metonymic operation (a part standing for the whole) 
+        occurs when we ‘decide’ which specific invariant property, in ourselves, and above all in others, 
+        confers the status of ‘person’. 
+        The ownership of goods, which accounts for a constitutive ‘essential’ invariant property of man in capitalism, 
+        reduces man to the role of an agent of accumulation of goods, including money, 
+        the great symbolic generator of our time. 
+        In other contexts, ethnic cleansing is possible only because categories 
+        such as ‘Jews’, ‘niggers,’ ‘infidels’ etc., are thinkable.
+
+    $$ On Truth (and Falsity)
+    Notwithstanding this writer’s natural affinity for the epistemological approach of Thomas Kuhn (1962), 
+    rather than the social and historical nature of science and it’s revolutions, 
+    it seems relevant to promote a return to a more Popperian tradition (Popper, 1934), 
+    and to his emphasis on falsification. 
+    What makes theories scientific is that they can be falsified; 
+    and that their claims are verifiable by means of a very specific method, 
+    that of experimental observation. 
+    Here we want to assert the possibility of building ‘a general model of experimental observation’, 
+    which is, in fact, none other than an iconic, indexical or symbolic representation, 
+    formalised as a non-verbal metaphor of the event-process under study 
+    (though it may be described and explained verbally). 
+    The origin of an explanation, as well as the origin of an experimental model, 
+    is linked to the emergence of ‘viable’ metaphors.
+
+    Lakoff and Johnson made explicit that the purpose and means of metaphor is understanding, 
+    an understanding without which there is no experience, 
+    at least in the domain of language: 
+    “The essence of metaphor is understanding and experiencing one kind of thing in terms of another” 
+    (Lakoff and Johnson 1980). 
+    Here we must clarify what we mean by ‘domain of language’. 
+    
+    concept recchia.language
+        parent language
+        + We use the term ‘language’, as in semiology, 
+            \b to indicate the human capacity to use any type of code, 
+            \b rather than being confined to standard verbal communication.
+
+    In our opinion, Lakoff and Johnson approach a critical juncture in their studies 
+    on the truth (and falsity) of metaphoric constructs. 
+    Remembering the central role of metaphor in the processes of understanding, 
+    the study of their truth characteristics becomes the primary axis of epistemology. 
+    The judgement of the truth or falsity of a metaphor is linked to 
+    the congruence of the relationship between two objects and 
+    the congruence of the attributes of objects to be elucidated and those already familiar.
+
+    A metaphor which is not congruent,
+    that is in which we do not find the necessary agreement between the attributes of the known object 
+    and the attributes which we perceive of the less known object, 
+    is perceived as a false affirmation.
+
+    Every metaphor has aims: it selects the aspects of a concept which it has chosen to highlight. 
+    If the selection of highlighted aspects is such that almost all the attributes of the known object 
+    (the metaphier) are replicated in the attributes of the unknown (the metaphrand), 
+    then we speak of literal meaning.
+
+    ‘Revelation’, ‘intuition’ and ‘inspiration’ are all metaphors which are unconscious in origin, 
+    feasible in various ways, and the sources of, respectively, 
+    religious, scientific-logical-philosophical and artistic narratives. 
+    Depending on the fields of knowledge, however, the criteria for validation are radically different. 
+    For rationality, verification can not merely be intersubjective, 
+    but must be tied to the approval of a collective model of representation, 
+    not confined to a specific community of scientists, 
+    but generally agreed on as a representation of the real, 
+    as is the case with the hard sciences. 
+    Religion and politics are typically self-referential, 
+    but logic/philosophy and art are also intrinsically intersubjective.
+
+    This is what makes so important the study of the properties of qualia, 
+    with their variously ‘spontaneous’ adhesion to the ‘factual’ characteristics of the object. 
+    We have seen this in comparing sensomotor qualia, which are almost spontaneously ‘objective’, 
+    and emotional qualia, whose value connotation recalls Damasio’s somatic marker.
+    We have also seen it in the analysis of those subjective experiences 
+    – different not only in terms of emotive connotation, but because of the perception itself 
+    of the nature of personal experience – 
+    in what we have defined as metaphorical qualia 
+    (always being attentive, however, to the semantic differential, 
+    and to the modalities through which they become ‘intersubjective’.) 
+    And in qualia of other categories, different in that their orientation is outwards, 
+    away from the subject, 
+    though the subject may eventually become one with the object
+    – as happens with sensory qualia–either both externally 
+    and internally (as with metaphoric qualia) 
+    or only internally (as with emotional qualia or the perception of the invariant self).
+
+    It is essential to note that self-referentiality does not guarantee any real power over the world, 
+        though it may gain an indirect form of power over men.
+    An example is the alleged efficacy of prayer to overcome epidemics, 
+        as opposed to that of antibiotics.
+
+    $$ Conscious and Unconscious Metaphors
+    Jaynes intention was to assign to consciousness the function of an operator. 
+    Similarly, and by difference, we have identified a second operator 
+    that we have chosen to name awareness. 
+    Defining ‘consciousness’ and ‘awareness’ allows us 
+    to detect what plays an additional cognitive role, 
+    an operative function still differing from the other functions, 
+    exactly because it is a not conscious and unaware function. 
+
+    Unconscious is 
+    a) a state of mind out of the focus of consciousness, or 
+    b) a state of mind which implies implicit learning, or 
+    c) a complex psycho-physical state frequently mediated by the autonomous nervous system 
+        (sometimes old-fashionedly referred to as ‘vegetative’) 
+        and/or by peptides with complex organismic functions (neuroimmunoendocrine).
+
+    The cross-fertilization of formal logic and psychoanalysis was accomplished 
+    thanks to the impressive work of the great Chilean psychoanalyst Ignacio Matte Blanco (1975), 
+    whose analytical tools, borrowed from set theory, 
+    have allowed us to trace back the various properties of Freudian unconsciousness 
+    to two fundamental principles: 
+    the principle of symmetry and 
+    the principle of generalization. 
+    As to the principle of symmetry, in which the reverse relation of any relation is, 
+    for the unconscious, identical to the relation itself, 
+    the unconscious operates a ‘symmetrization of asymmetric relations’. 
+    
+    Symmetric logic and asymmetric logic coexist 
+        much as consciousness and the unconscious coexist: 
+    what changes, according to the different cognitive tasks, 
+        is the proportion at which the two elements of the bi-logic combine. 
+    The way of generation of the world, 
+        which is typical of the unconscious, 
+        deals with every relation as if it were symmetrical.
+
+    In a symmetrized relation, 
+        the absence of asymmetry 
+        makes space conceptualization impossible. 
+        The absence of spatialization, in turn, 
+        makes time conceptualization impossible.
+
+    A learning deprived of space and time 
+        is endowed with infinite space and time. 
+        It is everywhere and forever. 
+        It has no story, it is no longer a process, 
+        but a static entity, a cognitive entity which governs behaviour. 
+    A learning without story and context is not likely to change. 
+    It is a structured information pattern destined to repeat itself, 
+        and to exhibit features of stability and protection from change.
+        Such an information pattern, 
+        either innately unconscious or unconscious by acquisition, 
+        is able to induce behaviours in relation to which 
+        it exhibits a higher level of logic.
+
+    The principle of symmetry comes with the principle of generalization, 
+        in which any individual member, and the class it belongs to, essentially coincide, 
+        as is the case in metonymy whereby we identify a part with the whole. 
+    The principle of generalization appears, 
+        also at a superficial analysis, 
+        as a basic principle for the categorization functions of the human mind. 
+    Therefore the cognitive processing modality of the unconscious 
+        generates classes and categories ‘automatically’.
+
+    quote 
+        author Nietzsche
+        + We feel like we know something of things themselves, 
+            \b when we speak of colours, trees, snow and flowers,
+            \b but we only possess metaphors of things 
+            \b which do not correspond at all to their original essentialities.
+        book nietzsche.in-Über-Wahrheit-und-Lüge-im-außermoralischen-Sinn, 1873).
+
+    The expression ‘symmetrization of asymmetric relations’ can be misleading 
+        as it seems to introduce the notion that 
+        the so-called ‘correct’, ‘initial’ perception 
+        of an asymmetric relation is followed by 
+        an operation of symmetrization on the part of the unconscious. 
+    It is not so: 
+        symmetric and asymmetric logics coexist 
+        much as consciousness, awareness and the unconscious coexist. 
+    In the history of life on earth 
+        the conquest of the asymmetric perception 
+        seems far more recent and, 
+        as far as we know, far less spread, 
+        confined as it is to adult humans and, 
+        maybe, only to educated ones.
+
+    But, how to define the complex outcomes of 
+        the cognitive activities that 
+        life structures into more and more complex models, 
+        be the most elementary biochemical signals or 
+        the boldest social architectures? 
+    
+    Attaining higher and higher levels 
+        we witness the emergence of the memesis 
+        of patterns of semantic information 
+        driven by mechanisms of variability, 
+        subjected to selection, 
+        protected against ‘accidental’ changes 
+        thanks to their own stability, 
+        able–through the behaviour they 
+        induce–to transfer energy and materials. 
+        In other words: memes.
+
+    For sake of space it is impossible to dwell on this topic here: 
+        those who are interested are invited to read a specific work (Recchia Luciani 2009), 
+        on which I draw only some key concepts: 
+    memes are informational patterns of a signic nature with 
+        a metaphorical relational organization, 
+        an individual generation 
+        and a social selection, 
+    whose stability is guaranteed by their becoming unconscious 
+        (in individuals, in groups or in institutions), 
+        i.e. a-historical.
+
+    Much as we observe in genetics 
+        with the protective effects of the information content of genes 
+        when these latter are arranged in chromosomes, 
+        memes are temporarily not functional, 
+        and not susceptible to environmental influences. 
+    Chromosomes represent the specific modalities whereby several conditions are guaranteed: 
+        generation, 
+        mutability under controlled conditions, 
+        and storage of what has been selected 
+        in the information pattern for biological conservation and adaptation.
+
+    Correspondingly, signs (above all symbols) within metaphorical relations
+        – subject to the principle of symmetry and generalization – 
+        account for information patterns for the generation, 
+        mutability under controlled conditions, 
+        and the conservation of what has been selected by human cultures.
+
+    Cultures that are no longer field-dependent nor are they object-dependent, 
+        both inside individual subjects and inside social organizations. 
+    These configurations could be both ascribable to third-order units 
+        within the classification of living beings 
+        of the Santiago Theory of Cognition (Maturana and Varela, 1985).
+
+    Such fundamental metaphorical sign-based information patterns 
+        generate 
+            – through the mechanisms of ‘clusters of metaphors’, described in modern cognitive linguistics – 
+        the structure of the character and personality of both individuals and social organizations. 
+    These patterns are susceptible to evolution. 
+    
+    In sexuated reproduction meiosis generates an additional variety, 
+        whereas mitosis and production of proteins guarantee the systemic ‘status quo’. 
+    Within the cultural context of an individual 
+        a similar role is played by childhood and adolescence; 
+        the same role is played, within social contexts, 
+        by the periods of transition 
+        as Kuhn calls scientific revolutions or historical transformations. 
+    
+    concept kuhn.period-of-transition
+
+    The conscious asymmetric informational pattern turns into an unconscious, 
+        symmetrized and generalized informational pattern by ‘freezing’. 
+        In its atemporality it attempts to become an invariant pattern until a revolution, 
+        driven by new adaptive needs, shakes it again, sometimes deep in its foundations.
+
+    $$ Conclusions: A Philosophical Framework
+    We will now show how some of the key concepts discussed in this work
+    are central to philosophical reflection.
+    In Plato the eide arise on the basis of a cognitive requirement,
+    to overcome the constraints of subjectivity,
+    which would not allow for an agreement on ‘the truth’ of sensory contents.
+
+    Quite the contrary, in this work we maintain that 
+    sensory data are the data with 
+    the highest likelihood of a spontaneous sharing 
+    in terms of the contents of their ‘image-of-the-world’ apparatuses 
+    notwithstanding the important ‘warning’ of a potential extreme variety 
+    in the values that somatic markers confer to sensory data. 
+    The eide are immutable objects in the world of forms or ideas, 
+    which are knowable only through reason. 
+    The forms are ‘more real’ 
+    than the objects of the physical world, 
+    because they are perfect and stable, 
+    and because they are models 
+    to which the objects of the world are just 
+    similar in an ‘essentialist’ approach.
+
+    By contrast, in the first part of this work we argue that 
+        some constant, invariant properties of the real objects 
+        exhibit the prerequisite for determining 
+        which neural group is destined to undergo selective pressure in the brain in a later phase, 
+        posing ‘regular invariant requests to neural processes’. 
+    
+    In different ways, objects which are real, 
+        but of a different reality (sensitive or suprasensitive), 
+        differ in terms of their substance 
+        intended in Kantian terms as what persists over time.
+
+    concept kant.substance
+        extend substance
+        author Kant
+        + what persists over time
+
+    Methodologically, already in Plato 
+        truth as such occurs only 
+        when it is shared/shareable/common (cum scientia), 
+        and therefore intersubjectively validated. 
+    The mind, the spirit, is from the beginning 
+        the organ of numbers, of ideas, of thought beyond the sensitivity, 
+    whilst the body is its prison, 
+        a kind of obstacle to thinking objectively, 
+        as objectivity is a formalized and shareable subjectivity. 
+    In philosophy, Marx, Nietzsche and Foucault, in different ways, 
+        have demonstrated that 
+        individual consciousness was dependent on such factors as 
+        social relations, political relations and ideology. 
+    Gilbert Ryle has shown how 
+        the Cartesian dualism between res cogitans and res extensa 
+        is essential for understanding how 
+        ordinary language refers to consciousness. 
+    These are traditions of thought and conceptual frameworks 
+    which are crucial to the history of the Western thought: 
+    consciousness, soul, individual, I, me, self and ethnicity 
+        (from the greek ethnos, for people, nation, raceFootnote28) 
+        are all ‘optional’, albeit adaptive, constructions, 
+        i.e. ‘winning’ constructions from a demographic point of view.
+
+    All these constructions are made of metaphorical qualia 
+        organized in unconscious social metaphors that we call memes, 
+        invariant and a-historical informational patterns 
+        which last as long as they remain adaptive. 
+    But this is not an arbitrary choice: 
+        as is the case in Ludwig Wittgenstein’s Sprachspiel (“language-game”, Wittgenstein 1953) 
+        we are facing a new “form of life”. 
+    
+    Because, as the potent aphorism of Guy Debord (Debord 1967) reads:
+    Ideas improve. 
+        Words and their meanings participate in the improvement.
+    Plagiarism is necessary.
+        Progress implies it.
+    It embraces an author’s phrase, 
+        makes use of his expressions, 
+        erases a false idea, 
+        and replaces it with the right idea.
+
+Notes
+1.
+This definition makes specific reference to certain functions/properties: 
+spatialization (“a spatial quality or mind-space”); 
+concentration (“the ‘inner’ analog of external perceptual attention”); 
+suppression (“by which we stop being conscious of annoying thoughts, 
+    the analog of turning away from annoyances in the physical world”); 
+excerption (“the analog of how we sense only one aspect of a thing at a time”); 
+consilience (“the analog of perceptual assimilation”) (Jaynes 1986, p. 7–8). 
+But both connotation and denotation boast of a long polysemous tradition in philosophy, 
+logic and theory of language. Danesi (2008, p.288) makes it clear that 
+
+i) the sense (or the connotation or the extension) of a term 
+    is assigned the task of the expressing subjective meanings, and that 
+ii) in the current scientific practice of semiotics some words are virtually used as synonyms as follows: 
+
+Reference = Denotation = Intension; 
+
+while Sense = Connotation = Extension, 
+    thus emphasizing that semiosis accounts for an intrinsically relational and associative process, 
+    whereas meanings can only have a contextual nature. 
+
+Unfortunately, in Peirce and - traditionally - in logic, 
+    denotations = extension while connotation = intension. 
+Moreover, Intension should not be confused with Intention, 
+    a concept used extensively in this paper.
+
+2.
+Jaynes here seems to recall a Peirce’s idea: 
+“Intuition is the regarding of the abstract in a concrete form, 
+    by the realistic hypostatization of relations; 
+    that is the one sole method of valuable thought”, 
+an idea which is a rephrasing in semiotic terms of Kant’s concept of schemata. 
+This process is what Favareau calls “manipulations of representation”
+
+3.
+A key concept must be elucidated here. 
+This paper proposes the idea of ‘perception of space’ as an idea evolutionarily 
+    preceding that of ‘perception of time’. 
+Species-specific perceptions ask for species-specific ‘image-of-the-world apparatuses’. 
+‘Image-of-the-world apparatuses’ able to provide multiple kinds of ‘perception of space’ 
+(i.e. two- or three dimensional space perceptions) 
+seem to occur much frequently on planet Earth than ‘image-of-the-world apparatuses’ 
+able to provide ‘perception of time’. 
+This is not conflicting with the statement made about qualia, 
+which are intended as entities posing “regular invariant requests to neural processes”, 
+defining the notion of the permanence of properties. 
+If a property must last in time to pose invariant requests, 
+temporality turns out to be crucial. 
+But properties pose invariant requests to neural processes 
+which can operate totally out of the focus of consciousness or awareness. 
+Therefore, although always important to neural processes, 
+temporality can be ‘out of sight’ of a species. 
+“A succession of feelings, in and of itself, is not a feeling of succession. 
+And since, to our successive feelings, a feeling of their own succession is added, 
+that must be treated as an additional fact requiring its own special elucidation” (James 1890).
+
+4.
+Animals live in time and space where they are able to orient themselves without conceptualizing time and space.
+For example, time perception is essential to animal training. 
+For animals to learn by classical conditioning, a temporal contiguity is needed between one test and the other, 
+as well as an ideal interval which can be either steady or variable (either shorter and shorter or longer and longer). 
+When the interval between 2 reinforcement stimuli increases, “weaning” is induced.
+
+5.
+In Peirce, the ‘pure sensations’ are firstness to the agent, 
+brute sensations which turn into significant perceptions in secondness. 
+When the agent goes beyond sensations and perceptions, 
+to reach a network of sensations/perceptions and a network of relations/perceptions/perceptions 
+thirdness is induced. 
+Synthesis by Favareau, ibidem p. 30 (see References).
+
+6.
+Peirce refers to the interpretant as being produced “in a mind”; 
+interpretants, as significant results of signs, make up the interpreter, i.e. his/her ‘mind’.
+
+7.
+Along with all the broadly hierarchized forms of modelling identified by Sebeok and Danesi species-specific to humans (most of them being common to other species), this image-of-the-world-device is what only humans possess.
+
+8.
+We can brand someone who is particularly clumsy a bull, 
+as in the saying “bull in a china shop”. 
+In this connection (connotation, extension), we do not make reference to an individual with relatively small-sized eyes , 
+with horns and hooves. 
+“Understanding a funny joke” frequently 
+calls for making a ‘jump’ across the different extensional domains of the same referent.
+
+9.
+Deacon 1997, It. tr. p.22 my italic; it must be made clear that “holders of the central attributes of language” 
+are not to be designated “languages”
+
+10.
+ibidem, p. 23
+
+11.
+ibidem, p. 61
+
+12.
+ibidem, p. 62
+
+13.
+ibidem, p. 68
+
+14.
+ibidem, p. 76
+
+15.
+ibidem, p. 78–79. In the experiment described by Deacon it was possible to induce and measure a physiological response to stress, 
+for example, through the classical conditioning to the word “cat”. 
+A response is produced repeating the same word and, albeit in a lower voice, 
+some lexically associated words of the same category, as “dog”, “animal”; 
+or some symbolically correlated words, as “miaow”, “mad”, that only share a phonetic stimulus.
+
+16.
+From the perspective of neural darwinism the upper brain functions are thought to result from 
+selective pressure occurred not only during the phylogenetic development of a species. 
+That would also be induced by the same anatomo-functional arrangements 
+triggered by the competition among different groups of neurons during ontogenesis, 
+i.e. the development of the single individual after his/her birth.
+
+17.
+The “environment” or “surrounding world”, to use the words of Jakob von Uexküll and Thomas A. Sebeok, 
+represents the model of the world for the body (Favareau 2008).
+
+18.
+Deacon, ibidem, p. 317
+
+19.
+Such mental states consist of the concepts Lakoff and Johnson called orientational metaphors 
+- derived from the fact that we have bodies and that they function as they do in our physical environment - 
+and ontological or physical metaphors - derived from our interaction with physical objects, substances and entities.
+
+20.
+Damasio himself, who introduced the concept of the somatic marker, 
+    seems to want to broaden his definition to include what we define as a semantic differential. 
+When asked about the origin of somatic markers, 
+    he replied that it was in individuals, 
+    in the juxtaposition of bodily states provided by the somatic marker onto mental images 
+    - and, I would add, onto words, abstract concepts and the like – 
+    although ‘conventions and rules need be transmitted only through education and socialization, 
+    from generation to generation’ (Damasio 1994). 
+Damasio also tells us that our reason (or at least most of it) has a social origin;
+but he leaves the door wide open to the contributions and interpretations of individuals.
+
+21.
+Osgood, Suci, and Tannenbaum (1957) introduced the semantic differential technique to determine the connotations, specific to the different cultures, which confer a meaning to abstract concepts. An abstract concept has to be assigned some specific features which are arbitrarily assessed resorting to a score (from 1 to 7) on a scale whose ends are accounted for by two qualifying adjectives with an opposite meaning (for example, which score is given to love of country, between good (1) and bad (7)?). The statistical analysis of questionnaires shows social trends towards “prevailing”, “dominant” meanings exhibiting specific time and space patterns. Consider, for example, dishonour that Japanese associate (with an extremely negative connotation) to the impossibility to respect one’s commitments to such an extent that they consider the suicide “solution” as socially acceptable; an inconceivable connotation in Jewish-Christian tradition.
+
+22.
+The best example of this development is that reported by Betty Edwards in her wonderful “Drawing on the right side of the brain”. Edwards is not a neurophysiologist, but an incredible teacher of drawing. The acquisition of analytical capacities goes beyond syncretic perception, thus allowing for a perception of the constancy of properties. Primal infant drawing is spontaneously perspective. The perception (yet to come ) of what-never-changes (with the change in the point of view) seems not to be there: when either the perspective or the point of view change, the only thing that does not change indeed in a wheel is exactly its ‘roundness’. At the beginning, we draw on a sheet of paper what our eyes see: then, all of a sudden, we draw ‘Platonic ideas’. Thus we start to draw the ‘roundness quale’ that, much as a synecdoche ‘stands for wheel’, in whatever position we look at it or in whatever position it is placed compared to our position. Objects are on one side, and on the opposite side there is the ability to detect properties, a nontrivial achievement, in that it is not attained by all in the same manner. Laymen do not observe paintings like art reviewers do, they do not taste wine as wine stewards do, nor they do not hear music as musicians do. fMRI (functional Magnetic Resonance Imaging) has shown that the right side of the brain exhibits some musical functions, but only in non musicians, because musicians, for whom music is the language par excellence, hear music through their left brain.
+
+23.
+In this view, objectivity is a subjective property of a community; in science, a community organised into paradigms ((Kuhn 1962).
+
+24.
+von Wright, Ricoeur and Habermas share similar ideas on this topic.
+
+25.
+All living beings can ‘interpret’ signs that are essential to their survival; 
+but icons and indexes cannot be compared in complexity and/or wealth of possible meanings with the symbols we humans use. 
+Think of the verb ‘to interpret’ when used in relation to an animal ‘sign’ (a ‘signal’) or in relation to a novel, 
+an actor piece, or a symphony…
+
+26.
+The philosophical constructs of ‘epoché’ and phenomenological reduction seem to have different applicability 
+on the one hand to the objects of sensory perception, 
+and on the other to those of ‘conscious cognition’, 
+intended here as the phenomenon of human understanding.
+
+27.
+“We feel like we know something of things themselves, when we speak of colours, trees, snow and flowers, 
+but we only possess metaphors of things which do not correspond at all to their original essentialities.” 
+(Nietzsche, in Über Wahrheit und Lüge im außermoralischen Sinn, 1873).
+
+28.
+ethnicity characterize social groups sharing a common language, culture, territory or, 
+as Max Weber taught us, beliefs about a common origin, based on habits, traditions and myths, 
+but certainly not on any biological connotations.
+
+References
+Cassirer, E. (1944). 
+An essay on man. An introduction to a philosophy of human culture. 
+New Haven: Yale University Press.
+
+Google Scholar
+ 
+
+Baron-Cohen, S. (1988). 
+Without a theory of mind one cannot participate in a conversation. 
+Cognition, 29(1), 83–84.
+
+PubMed
+ 
+Article
+ 
+CAS
+ 
+Google Scholar
+ 
+
+Bateson G., (1972), 
+Steps to an Ecology of Mind. Collected Essays in Anthropology, Psychiatry, Evolution, and Epistemology. 
+University of Chicago Press.
+
+Block, N. (1980). 
+Troubles with Functionalism. 
+In N. Block (Ed.), Readings in the philosophy of psychology, volume 1 (pp. 268–305). 
+Cambridge: Harvard University Press.
+
+Google Scholar
+ 
+
+Bronckart J.P. (1996) 
+Units of Analysis and Interpretation of Development. What is a ‘Developmental Explanation’? 
+in Tryphon A., Vonèche J. Piaget–Vygotsky: The Social Genesis of Thought, Psychology Press, Taylor & Francis Group London, New York, Philadelphia, Singapore.
+
+Brown, A.L., Metz, K.E., Campione, J.C. (1996) Social interaction and individual understanding in a community of learners: The influence of Piaget and Vygotsky. in Tryphon A., Vonèche J. Piaget - Vygotsky: The Social Genesis of Thought. Psychology Press,. Taylor & Francis Group London, New York, Philadelphia, Singapore.
+
+Campbell, D. T. (1974). Evolutionary epistemology. In P. A. Schilpp (Ed.), The philosophy of Karl R. Popper (pp. 412–463). LaSalle, IL: Open Court.
+
+Google Scholar
+ 
+
+Cavalli-Sforza L.L. (2004). L’evoluzione della cultura, Codice Ed., Torino.
+
+Damasio, A. R. (1994). 
+Descartes’ error. Emotion, reason, and the human brain. 
+New York: Avon Books.
+
+Google Scholar
+ 
+
+Damasio, A. R. (1999). 
+The feeling of what happens: Body, emotion and the making of consciousness. 
+London: Heinemann.
+
+Google Scholar
+ 
+
+Danesi, M. (2008). 
+Towards a standard terminology for (bio)semiotics. 
+In M. Barbieri (Ed.), Introduction to biosemiotics (pp. 283–298). Springer: Dordrecht.
+
+Google Scholar
+ 
+
+Dawkins, R. (1976). 
+The selfish gene. 
+New York: Oxford University Press.
+
+Google Scholar
+ 
+
+Deacon, T. W. (1997). 
+The symbolic species. The coevolution of language and the brain. 
+W. W. Norton.
+
+Deacon, T. W. (1999). 
+Editorial: Memes as signs. The trouble with memes (and what to do about it). 
+Semiotic Review of Books, 10(3), 1–3.
+
+Google Scholar
+ 
+
+Debord G., (1967) 
+La società dello spettacolo, 
+Baldini & Castoldi, Milano, 1997 
+(original title, La société du spectacle) http://fc.retecivica.milano.it/~roberto.dicorato/Debord/indice.html
+
+Dennett, D. C. (1988). 
+Quining qualia. 
+In A. Marcel & E. Bisiach (Eds.), Consciousness in contemporary science (pp. 42–77). Oxford: Oxford University Press.
+
+Google Scholar
+ 
+
+Dennett, D. C. (1994). Instead of Qualia. In A. Revonsuo & M. Kamppinen (Eds.), Consciousness in philosophy and cognitive neuroscience. Hillsdale: Lawrence Erlbaum.
+
+Google Scholar
+ 
+
+Dufosse, M., Hugon, M., & Massion, J. (1985). Postural forearm changes induced by predictable in time or voluntary triggered unloading in man. Experimental Brain Research, 60, 330–334.
+
+Article
+ 
+CAS
+ 
+Google Scholar
+ 
+
+Edelman, G. M. (1987). 
+Neural Darwinism: The theory of neuronal group selection. 
+New York: Basic Books.
+
+Google Scholar
+ 
+
+Edelman, G. M. (1992). 
+Bright air, brilliant FIRE: On the matter of the mind. 
+New York: Basic Books.
+
+Google Scholar
+ 
+
+Edelman, G. M., & Tononi, G. A. (2000). 
+Universe of consciousness: How matter becomes imagination. 
+New York: Basic Books.
+
+Google Scholar
+ 
+
+Favareau, D. (2008). 
+The evolutionary history of biosemiotics. 
+In M. Barbieri (Ed.), Introduction to biosemiotics: The new biological synthesis (pp. 1–67). Springer: Dordrecht.
+
+Google Scholar
+ 
+
+Gallese V. (2006). 
+La molteplice natura delle relazioni interpersonali- la ricerca di un comune meccanismo neurofisiologico, 
+in Chora, number 12 (spring 2006).
+
+Gallese, V., Fadiga, L., Fogassi, L., & Rizzolatti, G. (1996). 
+Action recognition in the premotor cortex. Brain, 119(2), 593–609.
+
+PubMed
+ 
+Article
+ 
+Google Scholar
+ 
+
+Harman, G. (1990). 
+The intrinsic quality of experience. 
+In J. E. Tomberlin (Ed.), Philosophical perspectives, iv, action theory and philosophy of mind (pp. 31–52). Atascadero: Ridgeview Publishing.
+
+Google Scholar
+ 
+
+Husserl E.G.A. (1900/1901) Logische Untersuchungen. Erster Teil: Prolegomena zur reinen Logik Max Niemeyer, 
+Halle a. d. S.; 
+Logische Untersuchungen. Zweiter Teil: Untersuchungen zur Phänomenologie und Theorie der Erkenntnis. 
+English translation: Logical Investigations, trans. J. N. Findlay: [1900/01; 2nd, revised edition 1913], Routledge, London 1973.
+
+James, W. (1890) 
+The Perception of Time, 
+in The Principles of Psychology Vol1, Chapter 15. Harvard University Press, 1983. On line: http://psychclassics.yorku.ca/James/Principles/prin15.htm
+
+Jaynes, J. (1976). 
+The Origin of Consciousness in the Breakdown of the Bicameral Mind. 
+Houghton Mifflin Company, Boston 1976, 1990.
+
+Jaynes, J. (1986). 
+Consciousness and the Voices of the Mind. 
+Lecture given at the Canadian Psychological Association Symposium on Consciousness in Halifax, Canada, in 1985 and first appeared in Canadian Psychology, April 1986, Vol. 27 (2). On line: http://www.julianjaynes.org/pdf/jaynes_consciousness-voices-mind.pdf
+
+Kawato, M., Furukawa, K., & Suzuki, R. (1987). 
+A hierarchical neural-network model for control and learning of voluntary movement. Biological Cybernetics, 57, 169–185.
+
+PubMed
+ 
+Article
+ 
+CAS
+ 
+Google Scholar
+ 
+
+Kuhn, T. (1962). 
+The structure of scientific revolutions. Chicago: University of Chicago Press.
+
+Google Scholar
+ 
+
+Lakoff, G., & Johnson, M. (1980). 
+Metaphors we live by. Chicago: University of Chicago Press.
+
+Google Scholar
+ 
+
+Lawley, J., & Tompkins, P. (2000). 
+Metaphors in mind: Transformation through symbolic modelling. London: The Developing Company.
+
+Google Scholar
+ 
+
+Levy, B. - Servan-Schreiber, E. (eds.), Les secrets de l’intelligence, (2 CD-Rom) Édition Hypermind, Paris, 1997.
+
+Lewis, C. I. (1929). Mind and the world order: An outline of a theory of knowledge. New York: Charles Scribner’s Sons [reprinted in paperback by Dover Publications, Inc. New York, 1956].
+
+Google Scholar
+ 
+
+Lorenz, K. (1973). Die Rückseite des Spiegels. Versuch einer Naturgeschichte des menschlichen Erkennens. München: Piper.
+
+Google Scholar
+ 
+
+Matte, B. I. (1975). The unconscious as infinite sets: An essay in bi-logic. London: Duckworth.
+
+Google Scholar
+ 
+
+Matte-Blanco, I. (1988). Thinking, feeling, and being: Clinical reflections on the fundamental antinomy of human beings and world. London: Routledge.
+
+Google Scholar
+ 
+
+Maturana, H., & Varela, F. (1985). El Árbol del Conocimiento: Las bases biológicas del entendimiento humano. Santiago: Editorial Universitaria. 1985.
+
+Google Scholar
+ 
+
+Osgood, C. E., Suci, G. J., & Tannenbaum, P. H. (1957). The measurement of meaning. Urbana: University of Illinois Press.
+
+Google Scholar
+ 
+
+Peirce, C. S. (1931–58). 
+The Collected Papers of C. S. Peirce, vols. 1–6, 
+ed. Charles Hartshorne and Paul Weiss; vols. 7–8, ed. A. W. Burks, Cambridge: Harvard.
+
+Premack, D., & Premack, A. J. (1994). Levels of causal understanding in chimpanzees and children. Cognition, 50(1–3), 347–362.
+
+PubMed
+ 
+Article
+ 
+CAS
+ 
+Google Scholar
+ 
+
+Popper, K. R. (1934). 
+Logik der Forschung, (English translation: The logic of scientific discovery, 1959 Hutchinson education Ed. London: Routledge.
+
+Google Scholar
+ 
+
+Recchia Luciani, A. N. (2007) 
+Biologia della Coscienza. In La Coscienza – come la biologia inventa la cultura. A cura di Mauro Maldonato, scritti di M. Maldonato, G. Mininni, A. Montuori. A. Recchia Luciani. Alfredo Guida Editore, pagg. 137–238, Napoli.
+
+Recchia Luciani A. N. (2009), 
+Memorie oltre le generazioni. Memi, segni e neuroscienze cognitive per un’ipotesi evolutiva della cultura. Chora, Numero 16 Anno 7, Ed. Alboversorio, Milano 2009, P. 89–95.
+
+Rizzolatti, G., Fadiga, L., Gallese, V., & Fogassi, L. (1996). 
+Premotor cortex and the recognition of motor actions. Cognitive Brain Research, 3, 131–141.
+
+PubMed
+ 
+Article
+ 
+CAS
+ 
+Google Scholar
+ 
+
+Sebeok, T. A., & Danesi, M. (2000). The forms of meaning: Modeling systems theory and semiotics. Berlin: Mouton de Gruyter.
+
+Google Scholar
+ 
+
+Smith Churchland, P. (2007). 
+Neurophilosophy: The early years and new directions. 
+Functional Neurology, 22(4), 185–195.
+
+Google Scholar
+ 
+
+Sperber, D. (1996). 
+Explaining culture - A naturalistic approach. 
+Oxford: Blackwell.
+
+Google Scholar
+ 
+
+Thompson, R. K. R., & Oden, D. L. (2000). 
+Categorical perception and conceptual judgments by nonhuman primates: The paleological monkey and the analogical ape. Cognitive Science, 24(3), 363–396.
+
+Article
+ 
+Google Scholar
+ 
+
+Vico, G. (1744). 
+Principj di una scienza nuova; 
+In Opere, Andrea Battistini (ed.), Mondadori, Milano, 1990.
+
+Vygotskij, L. S. (1934). 
+Myšlenie i reč´. Psihologičeskie issledovanija. Moskvà-Leningrad, Gosudarstvennoe social´no-èkonomičeskoe izdatel´stvo.
+
+Vygotskij, L. S. (1978). 
+Mind in society. Cambridge: Harvard University Press.
+
+Google Scholar
+ 
+
+Vygotskij, L. S., Lurija, A. R. (1984), 
+Orudie i znak v razvitii rebënka, in Sobranie so.inenij, vol. VI, Pedagogika, Moskwa. 
+[En. Ed. (1994) Tool and symbol in child, in The Vygotsky reader / edited by Rene van der Veer and Jaan Valsiner, Oxford, UK ; Cambridge, Mass., USA : Blackwell].
+
+Wittgenstein, L. (1953). 
+Philosophical investigations. 
+Malden: Blackwell.
+
+Google Scholar
+ 
+
+Wolpert, D. M., Ghahramani, Z., & Jordan, M. I. (1995). 
+An internal model for sensorimotor integration. 
+Science, 269(5232), 1880–1882.
+
+PubMed
+ 
+Article
+ 
+CAS
+ 
+Google Scholar
+ 
+
+Wolpert, D. M., Miall, R. C., & Kawato, M. (1998). 
+Internal models in the cerebellum. 
+Trends in Cognitive Sciences, 2(9), 338–347.
+

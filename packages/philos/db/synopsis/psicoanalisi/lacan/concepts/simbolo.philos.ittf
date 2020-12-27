@@ -1,0 +1,39 @@
+$group
+
+    namespace lacan
+
+        concept simbolo 
+
+            + Nel testo che segna l’inizio dell’insegnamento di Lacan, 
+                \b Funzione e campo della parola e del linguaggio in psicoanalisi, 
+                \b Lacan mette al centro la funzione simbolica della parola: 
+                quote
+                    + Nella parola (mot) che è già una presenza fatta d’assenza, 
+                        \b l’assenza stessa giunge a nominarsi in un momento originale 
+                        \b di cui il genio di Freud ha colto nel gioco del bambino la ricreazione perpetua
+                    article lacan.funzione-e-campo
+                    
+            
+            + È il Fort – Da del gioco del rocchetto che Freud racconta in Aldilà del principio di piacere.  
+            quote
+                + È da questa coppia modulata della presenza e dell’assenza, 
+                    \b che la traccia sulla sabbia del tratto semplice e del tratto spezzato 
+                    \b dei koua mantici della Cina è sufficiente a costituire, 
+                    \b nasce l’universo di senso di una lingua 
+                    \b in cui verrà a disporsi l’universo delle cose
+                article lacan.funzione-e-campo
+            
+            + Se il significante non è la cosa, 
+                \b ha comunque il potere di evocarla in sua assenza. 
+                \b Lacan nel “Seminario I”, Gli scritti tecnici di Freud, 
+                \b prende  l’esempio della parola elefante. 
+                \b L’identità nella differenza caratterizza il rapporto della parola  
+                \b alla cosa ed è ciò che fa sì che la cosa sia cosa 
+                \b e che il fatto sia simbolizzato. 
+            + È il mondo delle parole (mots) a creare il mondo delle cose. 
+
+            quote
+                + [..], ma a promuovere per la nostra epoca un mito d'origine nella forma di un'uccisione del padre 
+                    \b che la legge primordiale avrebbe reso perenne, 
+                    \b secondo la formula con cui abbiamo connotato l'ingresso del simbolismo nel reale:
+                    \b «dandogli un altro senso».

@@ -1,0 +1,127 @@
+$group
+
+    author Prefilosofici-Greci
+        
+        concept sapienza
+            + il sapiente viene contrapposto a “coloro che imparano”,
+                \b che vengono liquidati in modo sprezzante,
+                \b perché costoro non hanno accesso alla vera ‘sapienza’
+                \b ma al suo pallido riflesso che traluce nell’artificialità dei discorsi
+            + i riti misterici, nel corso dei quali avviene l’iniziazione dell’adepto, 
+                \b hanno un carattere esoterico, una loro segretezza che ne impedisce la divulgazione, 
+                \b la rivelazione al volgo ‘profano’; 
+                \b essi “non si possono trasgredire né apprendere né proferire” 
+                \b in quanto la loro realtà è estranea alla parola 
+            author Aristotele
+                quote
+                    + gli iniziati non devono imparare qualcosa, 
+                        \b bensì subire un’emozione ed essere in un certo stato
+        
+        concept ragione
+            + è un ‘discorso’ su qualcos'altro, un ‘logos’ che appunto ‘dice’ soltanto, 
+                \b esprime una cosa differente, eterogenea
+            + esprime un distacco metafisico
+            + è qualcosa di complementare, come una ripercussione, 
+                \b la cui origine sta in alcunché di nascosto, fuori di essa, 
+                \b che non può essere totalmente restituito, 
+                \b ma soltanto accennato da quel ‘discorso’
+                comment
+                    + solo più tardi si è considerato il ‘discorso’ come se avesse una propria autonomia, 
+                        \b fosse un semplice specchio di un oggetto indipendente senza sfondi, chiamato razionale, 
+                        \b o addirittura fosse esso stesso una sostanza 
+            
+            book
+                title La nascita della filosofia
+                author G. Colli
+                edition Adelphi, Milano 1996     
+                   
+        concept logica
+            alias logoi
+            + la ragione si è identificata con l’arte dell’articolazione dei discorsi, 
+                \b cioè come logica
+            concept nichilismo conoscitivo
+                + i logoi sono anche utilizzati per spezzare l’hybris della ragione, 
+                    \b per rivelarne le debolezze e i punti ciechi, 
+                    \b per tenderla fino al suo punto di rottura al di là del quale
+                    \b possa rivelarsi la sapienza che la precede e la completa 
+                + il nichilismo conoscitivo cui inesorabilmente conducono i ‘logoi’, 
+                    \b con la loro forza irresistibile, 
+                    \b non è altro che il preludio di una conoscenza diversa, ‘alogica’, 
+                    \b perduta sì nella civiltà avanzante e nei commerci intersoggettivi tra gli uomini, 
+                    \b ma sempre presente come dimensione dell’essere, 
+                    \b cui si giunge solo a condizione di spezzare l’assolutezza della ragione 
+                    \b con la potenza delle sue stesse argomentazioni
+            concept progresso tecnico-scientifico
+                + la logica, in quanto ‘pensiero calcolante’, rappresenta il frutto più genuino, 
+                    \b più puro e raffinato della civilità umana, 
+                    \b di quella civiltà che riceviamo in eredità dalla cultura greca
+            concept argomentazione
+                + l’umanità, nel momento in cui edificava 
+                    \b una società intessuta di rapporti interumani, traffici e relazioni sociali,
+                    \b non poteva evitare di porre al centro
+                    \b la dimensione della intersoggettività e del dialogo
+                + vi è quindi l’esigenza di argomentare e di bene argomentare
+                + la logica nasce quando si danno argomentazioni,
+                    \b il cui scopo sia quello di “dimostrare” o “provare” una certa tesi
+            concept legittimità del discorso logico
+                + non ogni discorso è suscettibile di analisi logica:
+                    \b ad esempio, la conoscenza iniziatica sfugge alla possibilità dell’articolazione linguistica
+                + perché la logiga possa svilupparsi
+                    \b deve essere riconosciuta l’esistenza di ambiti dell’esperienza umana 
+                    \b per i quali si ammette, ed anche si auspica, un’indagine razionale, 
+                    \b senza proibizioni in nome di credenze religiose, 
+                    \b dettate dalla loro sacralità, 
+                    \b che si vorrebbe proteggere dall’empietà di un discorso solo umano e quindi profano
+                + dove la logica è dichiarata legittima, 
+                    \b deve essere attribuita all’argomentazione un’autorità 
+                    \b che sia superiore ad altre autorità precedentemente riconosciute (tradizionali, religiose ecc.) 
+
+        concept essere
+            + è l'originario, il ‘sacro’, il ‘nascosto’ 
+            + è l'oggetto della sapienza arcaica, dei riti misterici
+            author Heidegger
+                concept oblio dell’essere
+                    + la storia della filosofia occidentale come storia della metafisica, è intesa nel
+                        \b segno dell’oblio dell’essere e dell’erramento. 
+                    + nell’idea dell’“oblio dell’essere”, iniziato nell’età dei Greci, 
+                        \b si rispecchia tale differenza tra la sapienza arcaica e 
+                        \b la razionalità logica della filosofia 
+                        \b e viene con ciò indicato il carattere proprio dell’Occidente, 
+                        \b che ormai è diventato quello dell’intero globo 
+                    + ne deriva il richiamo profetico alla dimensione del ‘sacro’ e del ‘nascosto’, 
+                        \b nel tentativo di riportare in vita quella sapienza 
+                        \b che la ragione greca ha cacciato nella penombra 
+                    + ma ciò non può essere realizzato, senza la mediazione dei ‘discorsi/logoi’ e
+                        \b quindi di quell’apparato categoriale edificatosi nei millenni della civilizzazione europea
+        
+        concept essente
+            author Heidegger
+                + l’Essere, catturato nella trama del linguaggio predicativo
+                    \b tipico della metafisica dell’Occidente,
+                    \b viene a darsi all’uomo come essente, 
+                    \b cioè come ciò che è manipolabile dalla tecnica 
+                    \b ed è esprimibile nelle trame delle argomentazioni razionali, 
+                    \b del pensiero ‘calcolante’
+                + l’Essere non è mai un essente
+
+        field poesia
+            author Heidegger
+                + è solo dalla grande poesia che può manifestarsi il ‘sacro’, l’‘originario’;
+                    \b solo essa può dare accesso a quell’Essere
+                + l’arte “disvela un’ulteriorità” che è qualcosa di più dell’umano produrre, 
+                    \b allude a un “manifestare luminoso in cui l’uomo prende soggiorno”; 
+                    \b nei poeti si adombra poeticamente la verità che ‘l’essere non è mai un essente’
+                book
+                    author F. Bosio
+                    title Martin Heidegger. Prospettive e itinerari
+                    edition Angeli, Milano 1992
+                    quote
+                        + [alla poesia viene rivendicato] “il luogo privilegiato del disvelamento di qualcosa di ‘ulteriore’ 
+                            \b rispetto alla tecnica e all’organizzazione pianificante,
+                            \b massificata della totalità di ciò che è. 
+                            \b Alle ‘scienze’ che ‘non pensano’
+                            \b egli viene sempre più contrapponendo il pensare del diverso, 
+                            \b dell’Altro che non si lascia catturare nel linguaggio oggettivante delle scienze e della tecnica 
+                            \b e dalla cui prossimità l’uomo può ancora, meditando, apprendere 
+                            \b un modo non-tecnico di essere nel mondo
+                        page 23

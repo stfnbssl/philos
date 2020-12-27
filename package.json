@@ -1,0 +1,30 @@
+{
+  "name": "philos",
+  "version": "1.0.0",
+  "description": "Database for philosophical items",
+  "main": "wizzi.config.js",
+  "dependencies": {
+    "wizzi": "^0.7.12",
+    "wizzi-core": "^0.7.1",
+    "wizzi-js": "^0.7.5",
+    "wizzi-web": "^0.7.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stfnbssl/philos.git"
+  },
+  "keywords": [
+    "wizzi",
+    "philosophy"
+  ],
+  "author": "Stefano Bassoli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stfnbssl/philos/issues"
+  },
+  "homepage": "https://github.com/stfnbssl/philos#readme"
+}

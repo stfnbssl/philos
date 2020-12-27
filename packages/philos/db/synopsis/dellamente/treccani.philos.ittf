@@ -1,0 +1,299 @@
+$group
+    field filosofia della mente
+        + solo nel 1900 si è resa disciplina autonoma
+        + i prodromi della concezione moderna della mente sono nell’opera di Cartesio
+        + l’opera di Freud mostra che la mente è un ‘oggetto’ assai complesso,
+            \b che va al di là della percezione dei fenomeni coscienti
+        + nell’ultimo decennio del 1900 la filosofia della mente
+            \b abbandona la pura analisi concettuale ed entra in contatto con la ricerca empirica,
+            \b in particolare le scienze cognitive, le neuroscienze e la teoria dell’evoluzione
+        
+        etimology
+            + Per i greci ψυχή, psiche, denotava l’anima rationalis aristotelica
+                \b ed era legata al termine ἄνεμσς, anemos, («soffio, vento», da cui il lat. anĭma), 
+                \b che a sua volta rimandava a πνεῦμα, pneuma, (traducibile con «spirito»)
+            + a lungo mens non fu termine centrale del lessico filosofico;
+                \b vi si preferiva il termine, considerato sinonimo, di anima 
+
+        author Platone
+            + sviluppa una tripartizione della mente tra anima irascibile, concupiscibile e razionale 
+            + è l’atto di nascita della riflessione filosofica sulla mente 
+        
+        author Aristotele
+            + propone una diversa tripartizione dell’anima (vegetativa, sensitiva, intellettiva), e la concepisce 
+                \b come l’atto primo del corpo naturale, che in sé avrebbe vita solo in potenza 
+
+        school filosofia medievale
+            + sistematizza le concezioni classiche dell'anima, cercando di armonizzarle
+                \b con le tesi teologiche e antropologiche proprie del Cristianesimo
+
+        author Cartesio
+            + la mente è ontologicamente autonoma rispetto alla corporeità (dualismo mente-corpo)
+            + la mente ha le connotazioni fondamentali che la filosofia medioevale attribuiva all’anima, 
+                \b incluse l’immortalità e l’immaterialità
+            + la mente è perfettamente ‘trasparente’, nel senso che il soggetto è perfettamente 
+                \b cosciente di tutti i propri stati mentali (da quelli percettivi sino ai pensieri più complessi) 
+
+        author Leibniz
+            + mette in questione l’idea della trasparenza della mente
+            
+        author Freud
+            + l’idea della trasparenza della mente viene definitivamente abbandonata di fronte 
+                \b all’enorme messe di dati che mostrano l’assai maggior ampiezza dell’ambito del pensare, 
+                \b in tutte le sue gradazioni, rispetto ai fenomeni coscienti
+
+        school filosofia moderna
+            + viene meno l’idea che la mente sia immortale e immateriale
+            + mette in discussione il dualismo ontologico mente-corpo
+            + empirismo, idealismo e materialismo, per quanto concezioni diverse tra loro, 
+                \b sono accomunate dal rifiuto del dualismo ontologico cartesiano
+                
+        author Brentano 
+            + sostiene che la caratteristica distintiva del mentale non è la coscienza, ma l’intenzionalità, 
+                \b ossia il necessario riferirsi dei fenomeni psichici ad altro da sé (per es., non c’è desiderio 
+                \b senza qualcosa di desiderato né credenza senza qualcosa in cui si crede) 
+
+        author Wundt
+            + impianta il primo laboratorio di psicologia sperimentale, 
+                \b e contribuisce all’elaborazione di una metodologia scientificamente appropriata 
+                \b per lo studio della mente, insistendo in particolare sul ruolo dell’introspezione 
+
+        author James 
+            + reimposta in una chiave pragmatistica, molto attenta anche ai dati sperimentali, tutti i grandi temi filosofici 
+                \b riguardanti la mente.
+            book
+                title Principi di psicologia
+                edition 1890
+
+        author Wittgenstein
+            + con una famosa boutade definisce la psicologia come il prodotto di «metodi sperimentali e confusione concettuale»
+                book
+                    title Ricerche filosofiche
+                    edition 1953
+            + attacca con vigore opinioni diffuse dal chiaro carattere cartesiano, come quella secondo 
+                \b la quale un linguaggio irriducibilmente privato è possibile o quella per cui 
+                \b l’epistemologia fonda il sistema delle conoscenze sul mondo esterno 
+                \b a partire dalle credenze certe che il soggetto ha rispetto alla propria vita mentale 
+
+        author Dewey
+            + sviluppa il pragmatismo di James in direzione naturalistica, insistendo sul ruolo dei processi evolutivi 
+                \b nella formazione delle nostre capacità mentali. 
+                
+        author Carnap
+            + studia i concetti mentali dal punto di vista epistemologico e logico-semantico, 
+                \b tentandone la riduzione a leggi ed enunciati osservativi. 
+
+        author Ryle
+            + può essere considerato il fondatore vero e proprio della filosofia della mente
+            book 
+                title Lo spirito come comportamento
+                edition 1949
+                + in quest’opera si attacca con decisione il dualismo cartesiano, asserendo che esso implica 
+                    \b l’assurda idea che la mente sia una sorta di entità omuncolare, 
+                    \b misteriosamente situata nel corpo, 
+                    \b che ne verrebbe diretto nello stesso modo in cui le marionette sono dirette dal burattinaio. 
+
+        author Quine
+            approach comportamentismo filosofico
+            + i termini mentalistici mediante cui descriviamo l’agire umano non rimandano a una 
+                \b misteriosa ‘vita mentale’ ma soltanto ai comportamenti e alle disposizioni pubbliche dei soggetti. 
+
+        theory teoria dell’identità dei tipi mente/cervello
+            author Feigl
+            author Smart
+            author Place
+            + articola una risposta radicalmente materialistica al problema mente-corpo 
+            + ogni tipo o classe di eventi mentali (per es., credere q.cosa oppure percepire un colore verde) 
+                \b è identica a un tipo di eventi fisici, e più specificamente neurofisiologici 
+            + come la fisica riduce la nozione di calore a quello di energia cinetica molecolare, 
+                \b i concetti mentalistici sono in linea di principio riducibili a concetti neurofisiologici
+
+        concept qualia
+            + A partire dagli anni Sessanta del secolo scorso vengono mosse importanti obiezioni alla 
+                \b teoria dell’identità dei tipi. 
+                \b Molti autori insistono per es. sul fatto che le qualità soggettive delle esperienze 
+                \b coscienti (i qualia), in quanto irriducibilmente soggettive e ineffabili, sono irriducibilmente 
+                \b diverse dalle proprietà fisiche 
+        
+        author Davidson
+            + tra i tipi di eventi mentali e i tipi di eventi fisici non può intercorrere una relazione di identità 
+                \b perché il mentale, a differenza del fisico, è intrinsecamente normativo e non 
+                \b spazialmente localizzabile. 
+        
+        author Putnam
+            + l’argomento più forte contro la teoria dell’identità dei tipi si basa sul cosiddetto argomento 
+                \b della realizzabilità multipla degli eventi mentali
+            + siccome la teoria dell’identità dei tipi presuppone che ogni evento mentale (per es., il provare dolore) 
+                \b sia identico con lo stato neurofisiologico che ne rappresenta il sostrato fisico, 
+                \b ne segue che tutti gli eventi di un determinato tipo mentale devono essere identici a eventi 
+                \b di un determinato tipo neurofisiologico. Ma ciò implica che in tutte le creature 
+                \b che hanno un determinato evento mentale dovrebbe occorrere lo stesso tipo di evento fisico. 
+                \b Le specie animali sono però profondamente diverse tra loro per anatomia e fisiologia: è semplicemente assurdo, 
+                \b pertanto, pensare che le realizzazioni fisiche degli eventi mentali possano essere tutte uguali, 
+                \b come afferma la teoria dell’identità dei tipi. 
+                
+        author Kim
+            + per rispondere alle obiezioni propone di emendare la teoria dei tipi in senso intraspecifico: così, per la specie 
+                \b Homo sapiens la sensazione di dolore corrisponderebbe all’attivazione di determinati neuroni, laddove specie 
+                \b diverse attiverebbero meccanismi fisiologici sottostanti diversi; e ciò, secondo Kim, renderebbe 
+                \b possibile una «riduzione specie-specifica o locale» del fisico al mentale
+            book 
+                title Mind in Physical World
+                edition 2000 
+
+        school funzionalismo
+            author Putnam
+            author Fodor
+            input-from Chomsky
+            + gli eventi mentali non sono costituiti da presunte proprietà intrinseche, ma dalle relazioni causali 
+                \b che essi intrattengono con gli altri eventi mentali, con gli input sensoriali e con gli output comportamentali 
+                \b degli individui: e ciò significa che gli eventi mentali sono caratterizzati dal loro ruolo funzionale 
+            + al contrario della teoria dell’identità dei tipi, dunque, la concezione funzionalistica è compatibile 
+                \b con la multirealizzabilità degli eventi mentali: infatti, secondo questa prospettiva specie 
+                \b biologiche diverse possono condividere le stesse proprietà mentali, in quanto il modo in cui queste 
+                \b sono fisicamente implementate non incide sul loro ruolo funzionale – analogamente a quanto accade con 
+                \b i software per computer che possono girare su diversi hardware 
+
+        author Block
+            fullname Ned Block
+                            
+                Anche contro il funzionalismo, tuttavia, sono state avanzate importanti critiche. Così, 
+                Ned Block ha mostrato che questa concezione presenta il duplice rischio di portare ad attribuire 
+                proprietà mentali anche a entità cui certo non attribuiremmo stati mentali, oppure di 
+                restringere aprioristicamente l’ambito del mentale alle manifestazioni da noi conosciute. 
+                
+        approach esternismo
+            author Saul Kripke
+            author Putnam
+            + critica l’assunzione, propria del cartesianismo, ma anche del funzionalismo, secondo cui 
+                \b il contenuto degli stati mentali è determinato soltanto dalle proprietà non-relazionali, 
+                \b interne, della mente/cervello. 
+            + per l’esternismo, invece, il contenuto è casualmente determinato anche da fattori (fisici e sociali) 
+                \b esterni al sistema mente/cervello
+
+        author Davidson
+            approach monismo anomalo
+                + ogni singola occorrenza di un evento mentale (ogni particolare credenza, 
+                    \b desiderio, intenzione, ecc.) è identica a una corrispondente occorrenza di un evento neurobiologico, 
+                    \b nel senso che uno stesso evento può essere alternativamente descritto per mezzo del vocabolario 
+                    \b delle neuroscienze o in quello mentalistico
+                + ma l’identità tra l’occorrenza di un evento mentale e l’occorrenza di un evento fisico 
+                    \b non si estende però ai corrispondenti ‘tipi’ di eventi mentali e fisici. 
+                + due individui, così, possono avere due occorrenze dello stesso tipo di 
+                    \b eventi mentali (per es., potrebbero credere che Oslo sia la capitale della Norvegia), 
+                    \b ma tali occorrenze possono essere rispettivamente identiche a realizzazioni 
+                    \b neurofisiologiche diverse tra loro. 
+                + da ciò segue che la relazione tra il livello dei tipi mentali e quello dei tipi fisici mentale 
+                    \b e quello del fisico c’è una relazione di sopravvenienza: ogni qualvolta due individui 
+                    \b hanno le stesse proprietà fisiche, esso avranno anche identiche proprietà mentali, 
+                    \b mentre non è detto il contrario. 
+
+        approach eliminazionismo
+            author Feigl
+            author Feyerabend
+            author Rorty
+            + il vocabolario mentalistico è espressione di una concezione (la cosiddetta psicologia del senso comune) 
+                \b sprovvista di ogni credenziale scientifica e che andrebbe abbandonata come un tempo fu abbandonata 
+                \b la chimica del flogisto 
+            + in questa prospettiva, concetti come quelli di credenza, coscienza o percezione sono solo residuati 
+                \b da archeologia della scienza 
+            author Churchland(s)
+                + hanno sviluppato modelli connessionistici che traducono in termini neurofisiologici 
+                    \b i tradizionali problemi della filosofia 
+            author Benjamin Libet
+                + autore di esperimenti sui processi decisionali 
+                book 
+                    title Mind Time. Il fattore temporale nella coscienza
+                    edition 2004
+                    + esperimenti che mostrano che, almeno nel caso di semplici decisioni motorie, 
+                        \b l’impulso ad agire è avvertito consapevolmente dal soggetto circa 300 ms dopo che 
+                        \b nel suo cervello si è verificato un rilevante incremento dell’attività elettrica 
+                        \b cerebrale (il cosiddetto potenziale di prontezza) che corrisponde all’inizio di un 
+                        \b processo causale fisiologico che conduce il soggetto ad agire; 
+                        \b ma, se è così, le nostre intuizioni sulla libertà paiono vacillare, 
+                        \b se non crollare del tutto
+            
+        author Searle
+            + immagina una situazione in cui un persona chiusa in una stanza riceve domande scritte 
+                \b in cinese (lingua che non conosce), ma può farvi corrispondere risposte correttamente scritte 
+                \b sempre in cinese, usando un manuale scritto in una lingua che invece conosce. 
+            + Questa persona ovviamente non conosce il cinese, anche se risponde correttamente alle domande in quella lingua. 
+                \b Ma questo caso, osserva Searle, è del tutto analogo a ciò che accade con i computer e con tutti 
+                \b i sistemi computazionali; e ciò mostra che la semplice manipolazione di simboli (che è ciò che 
+                \b fanno i computer) non permetterà mai la completa comprensione dei significati. 
+
+        author Frank Jackson 
+            + immagina invece il caso di Mary, una neurofisiologa cieca dalla nascita, che ha una 
+                \b conoscenza completa della neurofisiologia della visione ma quando riacquista la vista, e vede per 
+                \b la prima volta i colori, prova un’esperienza visuale che prima era per lei inimmaginabile. Il che, 
+                \b secondo Jackson, mostra che in linea di principio la neurofisiologia non può dare conto di tutto 
+                \b ciò che c’è da conoscere sulla visione.
+
+
+        approach psicologia evoluzionistica
+            author Leda Cosmides
+            author John Tooby
+            + le funzioni mentali sono moduli cognitivi selezionati nel corso dell’evoluzione 
+                \b e instanziati nei circuiti cerebrali 
+
+        approach evoluzionistico-cognitivo
+            author Daniel Dennett
+            author Dan Sperber
+            author Marc D. Hauser
+            + hanno proposto spiegazioni evoluzionistico-cognitive di fenomeni tradizionalmente appannaggio delle 
+                \b scienze umane come l’etica o la religione o, più in generale, i fenomeni culturali 
+            + in questo nuovo quadro di collaborazione con le scienze cognitive e le neuroscienze, 
+                \b alla filosofia della m. paiono aprirsi oggi nuove feconde prospettive: 
+                \b dalla neuroetica alla neuroeconomia, dalla neuroestetica alla neurofenomenologia
+
+        field neuroscienze
+            + lo sviluppo della neuroscienza ha mutato la geografia delle scienze cognitive
+            + disponibilità di tecniche sperimentali più sofisticate, come la stimolazione magnetica transcranica
+                \b e la risonanza magnetica funzionale (o altre tecniche di neuroimmagine) 
+            + notevole crescita dei finanziamenti assegnati ai progetti di ricerca sul cervello e 
+                \b sulle basi cerebrali del comportamento
+            + alcuni hanno parlato, non a torto, di una «neuromania», e di correlati effetti distorsivi
+            bias fallacia naturalistica
+                + un conto è chiedersi quali aree cerebrali presiedono alla emissione di un giudizio morale 
+                    \b e un altro è chiedersi qual è il comportamento giusto da tenere in una data situazione 
+                + da premesse descrittive («le cose stanno così») si pretende di trarre conclusioni prescrittive 
+                    \b o normative («dovresti comportarti così»)
+            book
+                author Legrenzi e Umiltà
+                title Neuromania
+
+        concept mente estesa
+            alias extended mind
+            article
+                title Extended mind
+                author Andy Clark
+                author David Chalmers
+                edition 1998
+                
+
+Paternoster, Alfredo. Introduzione alla filosofia della mente (Italian Edition) (Kindle Location 4236). Editori Laterza. Kindle Edition.                 
+                , è stato approfondito e raffinato nel corso del decennio successivo, soprattutto per iniziativa del primo11.
+
+Paternoster, Alfredo. Introduzione alla filosofia della mente (Italian Edition) (Kindle Locations 4236-4238). Editori Laterza. Kindle Edition. 
+            critics
+                + l’idea di mente estesa è assai problematica se si prendono in considerazione 
+                    \b la coscienza e gli aspetti soggettivi 
+                + un sistema formato, poniamo, da me e da un taccuino, non è un soggetto di esperienza,
+                    \b non è un io: non prova nulla a essere quel particolare sistema, non si riferisce a se stesso ecc. 
+                + è incapace di dar conto degli stati soggettivi/qualitativi
+                approach fenomenologia
+                    + per chi pensa che la dimensione fenomenologica sia costitutiva 
+                        \b del concetto di mente è concettualmente impossibile che la mente sia estesa
+        
+        concept enacted mind
+            alias importanza dell’azione
+        
+        concept coscienza
+
+        approach funzionalismo
+            critics
+                + è incapace di dar conto degli stati soggettivi/qualitativi
+
+        approach fenomenologia
+            + per chi pensa che la dimensione fenomenologica sia costitutiva 
+                \b del concetto di mente è concettualmente impossibile che la mente sia estesa

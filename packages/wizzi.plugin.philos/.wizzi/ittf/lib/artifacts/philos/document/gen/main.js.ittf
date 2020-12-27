@@ -1,0 +1,61 @@
+module
+    kind es6
+
+    $
+        var md = {
+            plugin: 'philos',
+            name: 'document',
+            schema: 'philos',
+            checkSchema: true,
+            isAsync: true,
+        };
+
+    v07/plugin/artifacts/gen(&md)
+        
+        $append imports
+            var prettify = require('wizzi-utils').prettifyFromString
+            $$ var highlightCode = require('./highlightCode')
+
+        $append main
+            _ md.philos
+                @ model
+                @ ctx
+                f_cb()
+                    if ctx.artifactGenerationErrors.length > 0
+                        r_cb_err(ctx.artifactGenerationErrors)
+                    else
+                        # generation OK
+                        r_cb(ctx)
+
+        async-md( philos )
+            _ ctx.w('philos ' + model.wzName)
+            _ md.genItems
+                @ model.items
+                @ ctx
+                {
+                    @ indent false
+                a_cb()
+                    _ md.genItems
+                        @ model.ittfPanels
+                        @ ctx
+                        {
+                            @ indent false
+                        @ callback
+    
+        $*
+        async-md( item )
+            _ ctx.w('. item ' + model.wzName)
+            if model.value
+                _ ctx.w('  - value ' + model.value)
+            r_cb()
+
+        async-md( ittfPanel )
+            _ ctx.w("<div>Schema " + model.wzMTreeData.schema + '</div>')
+            _ ctx.w("<h3>Title " + model.wzMTreeData.title + '</div>')
+            _ prettifyIttf
+                @ model.wzMTreeData
+                a_cb( result )
+                    r_cb()
+
+        *$
+        $include prettifyIttf

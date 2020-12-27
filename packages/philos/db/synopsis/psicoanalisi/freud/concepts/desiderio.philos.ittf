@@ -1,0 +1,43 @@
+$group
+
+    namespace freud
+
+        concept desiderio
+
+            quote
+                + [..] un’accumulazione di eccitamento – 
+                    \b seguendo determinate modalità che non è necessario determinare – 
+                    \b viene sentita come dispiacere e mette in moto l’apparato, 
+                    \b allo scopo di ottenere nuovamente lo stato di soddisfacimento, 
+                    \b in cui la riduzione dell’eccitamento viene provata come piacere. 
+                    \b Chiamiamo desiderio codesta corrente all’interno dell’apparato, 
+                    \b che parte dal dispiacere e mira al piacere; 
+                    \b abbiamo detto che nulla, fuorché un desiderio, 
+                    \b è in grado di mettere in moto l’apparato e 
+                    \b che in esso il decorso dell’eccitamento 
+                    \b è regolato automaticamente dalle percezioni di piacere e dispiacere.
+                book freud.l-interpretazione-dei-sogni
+        
+            + è legato indissolubilmente a delle «tracce mnestiche»
+                \b e trova il suo appagamento nella riproduzione allucinatoria
+                \b delle percezioni divenute segni di tale appagamento
+            
+            + la ricerca dell'oggetto (del desiderio) nel reale
+                \b è guidata da questi segni
+            
+            quote
+                + il primo atto di desiderio pare sia stato
+                    \b un investimento allucinatorio del ricordo del soddisfacimento
+                book freud.l-interpretazione-dei-sogni
+
+                + nulla, all’infuori di un desiderio, 
+                    \b è in grado di mettere in moto il nostro apparato psichico.
+                book freud.l-interpretazione-dei-sogni
+            
+            r-concept freud.fantasma
+                + la combinazione strutturata di questi segni
+                    \b costituisce il fantasma legato al desiderio
+            
+            r-concept freud.indistruttibilità-del-desiderio
+                + riguarda eminentemente il desiderio inconscio,
+                    \b legato a segni infantili indistruttibili

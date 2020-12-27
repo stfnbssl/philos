@@ -1,0 +1,19 @@
+$group
+
+    namespace freud
+
+        concept trauma
+            quote
+                + Chiamiamo “traumatici” quegli eccitamenti che provengono dall’esterno 
+                    \b e sono abbastanza forti da spezzare lo scudo protettivo. 
+                    \b Penso che il concetto di trauma implichi quest’idea di una breccia inferta nella barriera protettiva 
+                    \b che di norma respinge efficacemente gli stimoli dannosi. 
+                    \b Un evento come il trauma esterno provocherà certamente 
+                    \b un enorme disturbo nell’economia energetica dell’organismo, 
+                    \b e mobiliterà tutti i possibili mezzi di difesa. 
+                    \b Nello stesso tempo, il principio di piacere in un primo momento è messo fuori combattimento. 
+                    \b Non è più possibile evitare che l’apparato psichico sia sommerso da grandi masse di stimoli; 
+                    \b sorge invece un altro compito, quello di padroneggiare lo stimolo, 
+                    \b di “legare” psichicamente le masse di stimoli che hanno fatto irruzione nell’apparato psichico, 
+                    \b in modo da potersene poi sbarazzare.
+                kindle-page 5664

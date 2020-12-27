@@ -1,0 +1,13 @@
+$group
+
+    set functors.comment
+        function
+            param parent
+            param resultObj
+            var commentObj
+                {
+                    @ author
+                    [ lines
+            foreach child in parent.items
+                if !fillContents(child, commentObj, resultObj)
+            return commentObj

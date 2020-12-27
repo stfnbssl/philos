@@ -1,0 +1,7 @@
+$group
+
+    namespace freud
+
+        concept principio-inerzia
+            alias principio inerzia neuronica
+            + Prima formulazione del principio di costanza (1920).

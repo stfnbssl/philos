@@ -1,0 +1,10 @@
+$group
+
+    namespace lacan.sesso
+        
+        concept oggetto-feticcio
+            + Per la donna il solo oggetto feticcio è il fallo;
+                \b gli uomini tendono a moltiplicare la serie degli oggetti feticcio,
+                \b piede, scarpa, gamba, seno, collo, occhio, ecc.., 
+                \b sul fondamento dell'assenza del fallo sul corpo della donna.
+

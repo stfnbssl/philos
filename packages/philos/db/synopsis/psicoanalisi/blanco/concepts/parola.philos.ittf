@@ -1,0 +1,11 @@
+$group
+
+    namespace blanco
+
+        concept parola
+            quote
+                + [..] le parole, cose astratte, assolvono la funzione
+                    \b di stabilire differenze tra concetti e anche tra altre cose.
+                    \b Sono necessariamente, quindi, altamente asimmetriche nella loro struttura. 
+                book blanco.l-inconscio-come-insiemi-infiniti
+                page 130

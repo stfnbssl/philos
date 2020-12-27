@@ -1,0 +1,13 @@
+$group
+
+    namespace blanco
+
+        concept logica-inclusiva
+
+            quote
+                + Forse un giorno, 
+                    \b saremo in grado di sviluppare una logica inclusiva, 
+                    \b sovraordinata alle due in oggetto, 
+                    \b con cui poter approcciare direttamente l’inconscio, 
+                    \b ma fino ad allora dovremo accontentarci di farlo in modo indiretto 
+                    \b se ci imponiamo testardamente di usare come unico strumento il pensiero.

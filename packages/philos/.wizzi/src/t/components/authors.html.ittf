@@ -1,0 +1,54 @@
+$group
+
+    function AuthorList
+        param props
+        var {jsonData} = props
+        return
+            div
+                < h2 Authors
+                < Paper
+                    @ style {{maxHeight: 370, overflow: 'auto'}}
+                    < Table 
+                        {
+                            _ jsonData.authors.sort(compareById).map
+                                function
+                                    param item
+                                    return
+                                        < TableRow 
+                                            @ button
+                                            @ key {item.id}
+                                            < TableCell
+                                                < Author
+                                                    @ item {item}
+
+    
+    function Author
+        param props
+        var {item} = props
+        return
+            < div 
+                < h3 {item.id}
+                div {item.fullname}
+                {
+                    iif item.born
+                        then
+                            div Nascita
+                                span :&nbsp;
+                                span {item.born.date}
+                                span ,&nbsp;
+                                span {item.born.place}
+                        else
+                            + null
+                {
+                    iif item.died
+                        then
+                            div Morte
+                                span :&nbsp;
+                                span {item.died.date}
+                                span ,&nbsp;
+                                span {item.died.place}
+                        else
+                            + null
+                < ContentText
+                    @ item {item}
+        

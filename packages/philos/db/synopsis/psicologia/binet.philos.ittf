@@ -1,0 +1,55 @@
+$group
+    author Binet
+        fullname Alfred Binet
+        born
+            date 8/7/1857
+            place Nizza
+        died
+            date 18/10/1911
+            place Parigi
+        + condusse il suo tirocinio in psicopatologia, presso la Salpêtrière, sotto la direzione di M. Charcot
+        approach associazionismo
+            book
+                title La psychologie du raisonnement 
+                edition 1886
+            book
+                title Le magnétisme animal
+                edition 1887
+            book
+                title Les altérations de la personnalité
+                edition 1892
+        
+        field psicologia "individuale"
+            + studî sulla memoria, sull'emotività, sulla suggestionabilità, sulla sensibilità tattile, sulla grafologia 
+            book
+                title La psychologie individuelle
+                edition 1896
+                + sostiene che le differenze individuali sono più notevoli nei processi superiori (intelligenza) che non 
+                    \b in quelli elementari (sensazioni)
+        
+        field psicologia scientifica
+            book
+                title Introduction à la psychologie expérimentale
+                edition 1894
+                + presenta al pubblico la nuova psicologia scientifica di cui era fautore, affrontando anche i problemi 
+                    \b epistemologici posti dall'applicazione del metodo sperimentale
+            book
+                title L'Étude expérimentale de l'intelligence
+                edition 1903
+                + l'evoluzione dalle sue posizioni associazioniste lo condusse allo studio differenziale dell'intelligenza, 
+                    \b mettendo a fuoco due tipi di funzionamento intellettuale, "soggettivo" e "oggettivo", e a riconoscere 
+                    \b l'esistenza di un "pensiero senza immagini" 
+
+        method scala di intelligenza
+            date 1905
+            date 1908
+            date 1911
+            forerunner-of
+                method test QI
+            + elabora con Th. Simon il primo test moderno in grado di misurare l'intelligenza: la cosiddetta "Scala Binet-Simon"
+            + un ulteriore raffinamento della scala Binet-Simon, fu pubblicata nel 1916 da Lewis M. Terman, della Stanford University, 
+                \b che incorporò l'idea dello psicologo tedesco William Stern che l'intelligenza individuale può essere misurata 
+                \b come quoziente di intelligenza (QI) 
+            + il test di Terman, che è chiamato Stanford-Binet Intelligence Scale, 
+                \b pose le basi per uno dei moderni test di intelligenza ancora oggi usato; conosciuti colloquialmente 
+                \b come "test QI" (o "test IQ", in lingua inglese)

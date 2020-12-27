@@ -1,0 +1,19 @@
+$group
+
+    namespace lacan
+
+        concept nome-del-padre
+            title Nome del Padre
+            alias metafora paterna
+            alias padre simbolico
+            + il Nome del Padre va inteso come un operatore linguistico 
+                \b che collega il significante e il significato 
+                \b in un modo che risulta connesso al common-sense
+
+        concept forclusione
+            + la forclusione del Nome del Padre è il modo psicoanalitico lacaniano 
+                \b per indicare compromissione dell’atto di significazione nella clinica della psicosi 
+            + indica la disattivazione dell'operatore linguistico Nome del Padre
+            + il modo antropo-fenomenologico per dire la stessa cosa è
+                \b disancoraggio dal common-sense
+

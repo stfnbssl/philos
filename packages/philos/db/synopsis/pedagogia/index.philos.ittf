@@ -1,0 +1,33 @@
+$group
+    
+    field psicologia fisiologica
+        alias psicologia sperimentale
+        author Weber
+        author Fechner
+        author Wundt
+        author Binet
+    
+    field antropologia pedagogica
+    
+    approach pedagogia scientifica
+        field pedagogia
+        author Sergi
+        book
+            title Educazione ed Istruzione (Pensieri)
+            author Sergi
+            approach antropologia pedagogica
+            approach pedagogia scientifica
+            + riassume il contenuto di lezioni e conferenze di propaganda
+            + addita come via del rinnovamento desiderato lo studio metodico dell'educando, condotto sulla guida 
+                \b dell'antropologia pedagogica e della psicologia sperimentale
+            quote
+                + Da parecchi anni io combatto per un'idea che più ripenso, più ritrovo giusta e utile per l'istruzione e 
+                    \b l'educazione umana, cioè che per aver metodi naturali e raggiungere questi fini è necessario che noi abbiamo 
+                    \b numerose osservazioni esatte e razionali sugli uomini, e principalmente sull'infanzia nella quale si debbono 
+                    \b porre le basi dell'educazione e della cultura.
+            quote
+                + Misurare la testa, la statura ecc. non significa, è vero, fare della pedagogia; ma significa seguire la via per 
+                    \b giungervi, perché non si può educare alcuno se non lo si conosce direttamente. 
+
+    $include montessori                    
+    

@@ -1,0 +1,304 @@
+$group
+
+    $$ IL SOGGETTO DELL’INCONSCIO
+    concept lacan.soggetto-diviso
+        + “da che cosa” è diviso il soggetto?
+        + "la psicoanalisi condivide con la scienza lo stesso soggetto,
+            \b prodotto eminente della cultura del 1600
+            \b che trova il suo paradigma nell’istituzione del cogito cartesiano", perché?
+        + il soggetto non è l’io!
+    
+    concept lacan.io
+        quote
+            + L’io è letteralmente un oggetto – un oggetto che adempie a una certa funzione
+                \b che chiamiamo funzione immaginaria
+            book lacan.l-io-nella-teoria-di-freud-e-nella-tecnica-della-psicoanalisi
+            page 57
+        r-concept freud.io
+            + l’io non è quella formazione psichica che semplicemente erediterebbe dal sistema C il suo contenuto, 
+                \b identificandosi in buona parte con la coscienza. 
+            quote
+                + L’io è anche inconscio
+                book freud.l-io-e-l-es
+
+    concept lacan.soggetto-dell-inconscio
+        + che cosa è il soggetto dell’inconscio?
+
+    concept lacan.causazione-del-soggetto-dell-inconscio
+
+    Ma di quale soggetto si tratta? 
+    Che cosa significa che contemporaneamente alla nascita della rappresentazione, 
+        così come viene figurata dal quadro di Velazquez, il soggetto “si elide”? 
+        E, soprattutto, perché ricorrere a questa lettura foucaultiana per introdurre la questione del linguaggio?
+        Per rispondere occorre fare un passo indietro e ricentrare il discorso sui binari del pensiero lacaniano.
+
+    Occorre cioè ripercorrere la strada che ha portato Lacan alla definizione di soggetto dell’inconscio, 
+        alla sua “causazione” e al suo statuto di soggetto diviso.
+    Alla domanda, insomma, sul “che cosa" è il soggetto diviso bisogna sostituire un “da che cosa” è diviso il soggetto.
+    Cosa intende Lacan dunque quando afferma che la psicoanalisi condivide con la scienza lo stesso soggetto, 
+    inteso in quanto prodotto eminente della cultura del XVII secolo 
+    e che trova il suo paradigma nell’istituzione del cogito cartesiano?
+    Bisogna innanzitutto chiarire che tanto per Lacan quanto per Freud il soggetto non è l’io. 
+    I due termini sono in un certo senso in contrasto sia per il loro campo, la loro estensione, 
+    che per funzione, ovvero per la posizione che occupano nel sistema psichico. 
+    Il riferimento al soggetto per Lacan è del tutto strategico: 
+    da un lato infatti col soggetto si vuole definire il campo d’indagine proprio della psicoanalisi, 
+    ciò che la psicoanalisi “maneggia” e su cui si fonda, 
+    ciò di cui “ parla ” una volta posta la questione del suo essere; 
+    dall’altro il soggetto è una nozione che sorge nell’ambito della scienza moderna, 
+    nella filiazione cioè proveniente dal passaggio cartesiano 
+    che ha consentito alla scienza di nascere come disciplina e come sapere in un dato periodo storico.
+    
+    Veniamo dunque alla questione: che cosa è il soggetto dell’inconscio?
+    Per rispondere occorre innanzitutto considerare la
+    discriminazione strutturale tra soggetto e io. 
+    Cos’è l’io allora? Lacan risponde: 
+    quote
+        + L’io è letteralmente un oggetto – un oggetto che adempie a una certa funzione
+            \b che chiamiamo funzione immaginaria
+        book lacan.l-io-nella-teoria-di-freud-e-nella-tecnica-della-psicoanalisi
+        page 57
+
+    Nel 1922 Freud pubblica il saggio L’io e l’Es in cui dà sostanza a una svolta 
+        in parte anticipata nel 1920 con il saggio Al di là del principio di piacere. 
+    In questo saggio Freud pur mantenendo la distinzione tra 
+        le varie province psichiche Inc, Prec e C o Coscienza (P-C), 
+        introduce una tripartizione che riguarda tre nuove “istanze” psichiche: Es, Io e Super-io,
+        nozioni che adempiono alla funzione di spiegare la psiche dal punto di vista topologico.
+    Questa nuova tripartizione nasce dalla consapevolezza che 
+        l’io non è quella formazione psichica che semplicemente erediterebbe dal sistema C il suo contenuto, 
+        identificandosi in buona parte con la coscienza. 
+    L’io, dice Freud, è anche inconscio 18 .
+    
+    Siamo di fronte a un tema cruciale. 
+    Una tale affermazione sembra a prima vista contraddire l’evidenza che l’io sia quella parte della psiche 
+        che gode della facoltà di corrispondere al mio pensiero cosciente. 
+    Per comprende la portata di una simile affermazione, 
+        occorre innanzitutto chiarire cosa sia l’inconscio, 
+        o almeno quale sia la sua estensione nel sistema freudiano, 
+        al fine di poter darne ragione e cogliere successivamente il luogo e lo statuto dell’io.
+    Inconscio è innanzitutto la sede di quei contenuti, di quelle rappresentazioni che,
+        per via dell’azione della rimozione, non raggiungono la coscienza. 
+    Nel sistema freudiano si distinguono rappresentazioni inconsce e rappresentazioni consce. 
+    Nella Nota sull’inconscio in psicoanalisi del 1912 Freud chiama conscia 
+    “soltanto la rappresentazione che è presente nella nostra coscienza e di cui abbiamo percezione ” 19
+    Lapalissiano. 
+    
+    Eppure l’ovvietà di una simile definizione serve a tracciare la strada per il suo opposto, 
+    ossia per la definizione dell’inconscio:
+    “Una rappresentazione inconscia è quindi una rappresentazione 
+        che non avvertiamo ma la cui esistenza siamo pronti ad ammettere in base a indizi e prove di altro genere ” 20. 
+    E già un buon passo. 
+    In affetti la definizioni di rappresentazione inconscia aggiunge qualcosa alla semplice ovvietà 
+    che essa “è inconscia ”, 
+    che non perviene alla sistema percezionecoscienza: 
+    ci dice che la sua esistenza si deduce da “indizi e prove di altro genere ”. Quali? 
+    Freud risponderebbe: lapsus, atti mancati, motti di spirito, sogni; 
+        tutto ciò che sorprende il soggetto e lo coglie in fallo rispetto al suo voler-dire.
+    Ma accanto a queste due forme di rappresentazione ve ne è una terza che Freud assicura al sistema Prec: 
+    si tratta della rappresentazione latente, che se pur inconscia rimane “capace di” diventare cosciente.
+    Una simile schematizzazione non rende tuttavia conto della complessità dell’attività psichica. 
+    Freud nota che la distinzione tra rappresentazione inconscia, latente e conscia 
+    deve servire solo da guida per delimitare, ove possibile, il campo dell’inconscio da quello della coscienza.
+    Con la “svolta” dei saggi contenuti in Metapsicologia del 1915, 
+    
+    Freud affronta il problema dell’inconscio stabilendo che il nesso con la rimozione 
+    non è sufficiente a esaurirlo e a spiegarlo.
+    
+    Il non essere conscio cioè non copre unicamente lo spazio del rimosso, dei suoi contenuti, 
+    che Freud identifica in rappresentazioni di cose (Sachevorstellung), che spingerebbero, 
+    secondo la vulgata, per divenire coscienti e scaricarsi, allo scopo di raggiungere la motilità. 
+    In questa visione, la psiche verrebbe a essere tripartita secondo una divisione in regioni o province comunicanti, 
+    e tuttavia tra loro nettamente distinte. Non è così.
+
+    quote
+        + L’inconscio, ci dice Freud, ha un’estensione più ampia: 
+            \b il rimosso è una parte dell’inconscio
+        note 21
+
+    Affermando ciò, Freud vuole sottrarre l’inconscio a quella rappresentazione 
+        che ne fa un gorgo di pulsioni pronte a scaricarsi sull’io per riconquistare l’appagamento negato. 
+    Pertanto, sottolinea, 
+    quote
+        + [l’inconscio] comprende da un lato atti che sono meramente latenti, 
+            \b provvisoriamente inconsci, ma che per il resto non differiscono in nulla dagli atti consci, 
+            \b e dall’altro processi come quelli rimossi, che, se diventassero coscienti, 
+            si discosterebbero necessariamente, e nel modo più reciso, dai rimanenti processi consci
+        note 22. 
+    E così che l’inconscio sfora e si estende al sistema Prec, 
+        sistema che non gode di autonomia, 
+        che non si limita al solo operare la rimozione, 
+        al filtraggio delle informazioni cui è consentito accedere alla coscienza.
+    Questo dal punto di vista dinamico. 
+    Sul piano descrittivo il sistema Inc si differenzia per caratteristiche peculiari 
+        che lo pongono in una dimensione di assoluta estraneità tanto dal sistema Prec che da quello percezione-coscienza: 
+        assenza di contraddizione e di negazione, intemporalità, mobilità degli investimenti, 
+        nonché una relativa indipendenza dalla realtà esterna, 
+        sono i tratti salienti dell’inconscio.
+    
+    Il nucleo dell’Inc è costituito di rappresentanze pulsionali che aspirano a scaricare il proprio investimento, 
+        dunque da moti di desiderio. 
+    Questi moti pulsionali sono fra loro coordinati, esistono gli uni accanto agli altri senza influenzarsi, 
+        e non si pongono in contraddizione reciproca. 
+    […] In questo sistema non esiste la negazione, né il dubbio, né livelli diversi di certezza. 
+        Tutto ciò viene introdotto dal lavoro della censura fra Inc e Prec 23
+    
+    L’Inc dunque non è un abisso. L’inconscio non è un flusso di energia cieco. 
+    Esso è piuttosto il luogo in cui qualcosa accade e in cui cadono, sotto la spinta della rimozione, 
+    le rappresentazioni di cose, rappresentanze pulsionali, che consistono
+    quote
+        + nell’investimento, se non nelle dirette immagini mnestiche della cosa, 
+            \b almeno nelle tracce mnestiche più lontane che derivano da quelle immagini
+        note 24
+
+    L’inconscio, ci suggerisce Freud, è un sistema di tracce (tracce mnestiche), e non impronte, si noti, 
+    da cui si originano rappresentazioni di cose. 
+    La differenza, adesso, tra rappresentazione inconscia e rappresentazione conscia consiste, ribadisce Freud, 
+    in due distinte trascrizioni di uno stesso contenuto.
+    Ci troviamo di fronte a un punto nodale: la distinzione tra Sachevorstellung e Wortvorstellung
+    serve per comprendere come sia possibile la comunicazione tra i vari apparati psichici. 
+    Seguiamo Freud:
+    La rappresentazione conscia comprende la rappresentazione della cosa più la rappresentazione della parola corrispondente, 
+    mentre quella inconscia è la rappresentazione della cosa e basta. 
+    Il sistema Inc contiene gli investimenti che gli oggetti hanno in quanto cose, 
+    ossia i primi e autentici investimenti oggettuali; 
+    il sistema Prec nasce dal fatto che questa rappresentazione della cosa 
+    viene sovrainvestita in seguito al suo nesso con rappresentazioni verbali 25
+    
+    In altre parole, ciò che consente al sistema inconscio di spingersi nella coscienza, 
+    di “farsi sentire ” nelle sue varie forme sintomatiche è un progresso nella rappresentazione, 
+    una concatenazione di rappresentazioni che tende ad associare alla Sachevorstellung una Wortvorstellung. 
+    Questa operazione svela la natura dell’apparato psichico e del suo funzionamento, 
+    in particolare il ruolo del linguaggio nella sua strutturazione. 
+    Ma facciamo un passo indietro.
+    L’inconscio per Freud funziona secondo due grandi principi: 
+    il principio di piacere, che governa l’inconscio, 
+    e il principio di realtà, che è la legge che regola il preconscio o conscio. 
+    Il primo sussume quei processi di pensiero destinati a rimanere inconsci, 
+    il secondo si presenta invece “nell’ordine di un discorso mediato, articolabile, comprensibile, proveniente dal preconscio ” 26. 
+    I processi di pensiero inconscio pervengono alla coscienza nella misura in cui li si può verbalizzare, 
+    consegnandoli al dominio del principio di realtà. 
+    quote
+        + I processi ideativi, cioè quegli atti di investimento che sono i più lontani dalle percezioni, 
+            \b sono in se stessi privi di qualità e inconsci e acquistano la capacità di diventare coscienti 
+            solo connettendosi ai residui delle percezioni verbali
+        note 27
+
+    Non è compito di questa analisi indagare ulteriormente i rapporti tra coscienza e inconscio, 
+    ci basti sapere che è a questo stadio che si apre la dimensione dell’io, 
+    nucleo che condivide con la percezione e la coscienza la stessa stoffa. 
+    È qui che fa la sua comparsa l’Io, nella misura in cui qualcosa che si articola in parole perviene alla coscienza
+    permettendo l’articolazione di un discorso, ovvero l’articolazione di rappresentazioni tra loro. 
+    La percezione di idee, immagini, la strutturazione di pensieri diventa essenziale 
+    affinché sia possibile qualcosa come un processo di pensiero conscio. 
+    
+    L’Io è così quell’istanza che, inizialmente, si colloca tra percezione e coscienza e presiede a tali processi.
+    Se dunque l’inconscio è l’apparato che funziona secondo la legge del principio di piacere, 
+    che spinge all’azzeramento della tensione, secondo uno stimolo che chiede il suo esaurimento nella motilità, 
+    il sistema percezione-coscienza, di cui l’io è l’istanza e l’espressione, 
+    alla scarica immediata della pulsione sostituisce un sistema coordinato che risponde al principio di realtà, 
+    ossia alla mediazione tra stimolo-pulsione da un lato, e scarica dall’altro,
+    annunciando in tal modo quello scarto tra la realizzazione della scarica a tensione zero 
+    e la sua possibilità di realizzazione, 
+    secondo un registro adattivo.
+    
+    Cosa è dunque l’Io, io che Freud colloca nell’interstizio tra percezione e coscienza? 
+    Nella seconda topica Freud affronta il problema e si chiede 
+    se l’io sia veramente solo un nucleo facente parte del sistema percezione-coscienza.
+    Ci siamo fatti l’idea che esista nella persona un nucleo organizzato e coerente di processi psichici 
+    che chiamiamo l’Io di quella persona. 
+    A tale Io era legata la coscienza; esso domina le vie d’accesso alla motilità, 
+    ossia alla scarica degli eccitamenti nel mondo esterno; 
+    l’Io è quell’istanza psichica che esercita un controllo su tutti i processi parziali, 
+    è l’istanza psichica che di notte va a dormire e che anche allora esercita la censura onirica 28
+    
+    Il lavoro analitico, svolto con i suoi pazienti, porta Freud ad accorgersi che non tutto l’io è cosciente. 
+    Vi sono infatti momenti in cui, durante l’analisi, si manifestano resistenze, 
+    “le associazioni vengono meno quando dovrebbero avvicinarsi al rimosso” 29 
+    e il paziente si trova a vivere quella dimensione spiacevole di chi non ne sa nulla, 
+    nel momento in cui è proprio una resistenza quella che sta agendo in lui.
+    
+    Gli diciamo allora che è dominato da una resistenza; egli però non ne sa nulla […]. 
+    Dato però che questa resistenza proviene certamente dal suo Io e ad esso pertiene, 
+    ci troviamo di fronte a una situazione che non avevamo previsto. 
+    Abbiamo trovato nell’Io stesso qualche cosa che pure è inconscio, 
+    e cioè qualche cosa che esercita potenti effetti senza divenire in quanto tale cosciente, 
+    e che necessita, per essere reso cosciente, di un particolare lavoro 30.
+    Questa resistenza, dice Freud, proviene sicuramente dall’io, 
+    in quanto non espressa in registri sintomatici, 
+    e dunque ci deve far pensare che non tutto l’io è coerente con il sistema percezionecoscienza. 
+    In esso qualcosa appartiene all’inconscio, in quanto si comporta alla maniera del rimosso.
+
+    Tuttavia le conseguenze [di questa scoperta] per la nostra concezione dell’inconscio sono ancora più importanti. 
+    […] Constatiamo che l’Inc non coincide col rimosso; 
+    rimane esatto asserire che ogni rimosso è Inc, 
+    ma non che ogni Inc è rimosso. 
+    Anche una porzione dell’Io, 
+    una porzione Dio sa quanto importante dell’Io, 
+    può essere, e anzi indubbiamente è Inc. 31.
+
+    Appare adesso più chiaro l’ambito di dominio dell’inconscio e la correlativa funzione dell’Io. 
+    
+    L’Io non è la sintesi dei miei pensieri e delle mie percezioni; 
+        l’Io è coinvolto invece – Dio sa in che misura – 
+        nella morsa tra realtà esterna e pulsioni interne, 
+        un’istanza tutt’altro che unita e sintetica. 
+    L’Io, dirà Lacan nella sua lettura dell’Entwurf freudiano nel seminario L’etica della psicoanalisi,
+        l’io è l’inconscio in funzione. 
+        Da un lato obliterato dall’inconscio, dall’altro suo prolungamento nella realtà. 
+        Si tratta in sostanza di un’istanza fondamentalmente rappresentativa, 
+        funzionante secondo una dialettica che articola le Wortvorstellung alle Sachevorstellung, 
+        ed è coinvolto in un processo che in tutto e per tutto associa linguaggio e rappresentazione.
+        E qui sta lo snodo, vedremo, che segna il passaggio in Lacan alla definizione di soggetto dell’inconscio
+        come effetto dell’azione del significante, una volta introdotto nel campo dell’Altro come luogo della Parola.
+
+    A questo Tu che ho chiamato di addomesticamento, e che non addomestica nulla, 
+        Tu di vano incantamento, di vano legame, 
+        corrisponde quel che ci può quando qualche ordine ci giunge dall’al di là dell’apparato dove ribolle 
+        ciò che per noi ha a che fare con das Ding. 
+    È quel che risponderemo quando qualcosa ci sarà imputato o sarà messo sul nostro conto 
+        – Io! Che cosa è questo Io? Io tutto solo cos’è? – se non un Io di scusa, un Io di rigetto, un Io di io no, non per me. 
+    
+    Così, fin dalla sua origine, l’Io, in quanto espelle anche se stesso con un movimento all’incontrario, 
+        l’Io come difesa, come Io che prima di tutto rigetta, e che lungi dall’annunciare, denuncia, 
+        l’Io nell’esperienza isolata del proprio sorgere e 
+        che bisogna forse anche considerare come il suo originario declino, 
+        l’Io si articola qui 32
+
+18 
+    Cfr. S. Freud, Das Ich und das Es, in Gesammelte Werke, S.Fischer Verlag, Frankfurt a/M, (18 voll.); 
+    trad. it. a cura di Musatti C., in Opere vol. 9. L’Io e l’Es e altri scritti (1917-1923), Bollati Boringhieri, Torino 1977, 
+    §. L’Io e l’Es, p. 482.
+19
+    S. Freud, A note on the Unconscious in Psychoabalysis (1912), in Gesammelte Werke, op. cit.; 
+    trad. it. a cura di Musatti. C., in Opere vol. 6. Casi clinici e altri scritti (1906- 1912), Bollati Boringhieri, Torino 1974, 
+    Nota sull’inconscio in psicoanalisi (1912), p. 575. 
+20 
+    Cfr., Nota sull’inconscio in psicoanalisi (1912), cit; p. 576. 
+21
+    S. Freud., Metapsicologia, § L’inconscio, in Gesammelte Werke, op. cit.; 
+    trad. it. a cura di Musatti. C., in Opere vol. 8.
+    Introduzione alla psicoanalisi e altri scritti (1915-1917),
+    Bollati Boringhieri, Torino 1976 (2000), Metapsicologia (1915)., p. 49.
+22
+    Ivi, p. 55. 
+23
+    Ivi, p. 70.
+24
+    Ivi, p. 85. 
+25
+    Ibid.
+26
+    J. Lacan, Livre VII, L’éthique de la psychanalise (1959-1960), Édition de Seuil, Paris 1986; 
+    trad. it. di M. D. Contri, a cura di G. B. Contri, Libro VII. L’etica della psicoanalisi (1959-1960), Einaudi, Torino 1994, p. 59.
+27
+    S. Freud, Metapsicologia, cit., p. 86. 
+28
+    S. Freud, L’Io e l’Es, cit., pp. 479-80.
+29 Ibid.
+30 Ibid. 
+31 
+    Ivi, p. 480-1. 
+32
+    J. Lacan, L’etica della psicoanalisi, cit., p. 69-70. 
+

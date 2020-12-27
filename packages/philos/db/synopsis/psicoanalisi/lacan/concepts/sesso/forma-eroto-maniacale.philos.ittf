@@ -1,0 +1,6 @@
+$group
+
+    namespace lacan.sesso
+
+        concept forma-eroto-maniacale
+            + La soddisfazione dell'amore è il segno d'amore

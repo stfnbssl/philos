@@ -1,0 +1,22 @@
+$group
+
+    namespace lacan
+
+        concept passe
+
+            quote
+                + [..] dell’esigenza ‘scientifica’ 
+                    \b che ha spinto Lacan a inventare la passe, 
+                    \b ripetendo il passo di George Cantor con la teoria dei numeri transfiniti. 
+                    \b Lacan si ispira a Cantor che ha cambiato le carte in tavola 
+                    \b quando ha posto come ente ben definito l’infinito attuale, 
+                    \b su cui ha costruito la gerarchia degli infiniti. 
+                    \b Così Lacan ha considerato la psicoanalisi non nel suo svolgersi potenzialmente infinito 
+                    \b ma a partire dalla sua conclusione, con l’invenzione della passe.
+                article sabbatini.recensione-pagliardini-lacan
+
+    article sabbatini.recensione-pagliardini-lacan
+        url http://www.losguardo.net/wp-content/uploads/2017/02/2016-22-Recensione-Sabbatini-Pagliardini-Lacan.pdf
+        author Sergio Sabbatini
+
+

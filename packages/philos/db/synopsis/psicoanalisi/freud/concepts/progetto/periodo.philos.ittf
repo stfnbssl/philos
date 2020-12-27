@@ -1,0 +1,12 @@
+$group
+
+    namespace freud
+
+        concept periodo
+            + A rigore, né i “processi” del mondo esterno, né gli “stimoli” che, 
+                \b passando attraverso gli apparati nervosi terminali, raggiungono φ, 
+                \b né le cariche in φ o ψ hanno una qualità, 
+                \b ma solo una caratteristica qualitativa (il periodo) 
+                \b che diventa qualità quando raggiunge ω.
+            kindle-loc 105368-105370
+

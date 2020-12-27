@@ -1,0 +1,28 @@
+$group
+
+    namespace sartre
+
+        concept essere-per-sé
+            + È l'essere stesso della coscienza.
+            + Il per-sé è negazione, si costituisce come nullificazione dell'in-sé.
+
+            quote
+                + Il per-sé è l'in-sé perdentesi come in-sé per fondarsi come coscienza.
+                    \b La coscienza trae dunque da se stessa il suo esser coscienza e non può rinviare che a se stessa, 
+                    \b in quanto è la propria nullificazione; 
+                    \b ma ciò che si annulla nella coscienza, 
+                    \b senza tuttavia potere esser detto fondamento della coscienza, 
+                    \b è l'essere in sé contingente. 
+                    \b L'in-sé non può fondare nulla. 
+                    \b Se fonda se stesso lo può soltanto dandosi la modificazione del per-sé. 
+                    \b E' fondamento di se stesso in quanto non è già piú in sé: 
+                    \b qui incontriamo l'origine di ogni fondamento. 
+                    \b Se l'essere in sé non può essere né il proprio fondamento né quello di alcun altro essere, 
+                    \b il fondamento in generale viene all'essere in virtú del per-sé. 
+                    \b Il per-sé non soltanto fonda se stesso come in sé nullificato, 
+                    \b ma con lui fa la sua prima apparizione il fondamento come tale.
+           
+            bax 
+                + È quel lato del reale che nella piegatura che origina la percezione
+                    \b è dalla parte del percepiente
+

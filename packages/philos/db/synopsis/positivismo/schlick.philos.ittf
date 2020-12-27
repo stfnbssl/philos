@@ -1,0 +1,129 @@
+$group
+    author Schlick
+        name Henri Schlick
+        born
+            date 14/4/1882
+            place Berlino, Germania
+        died
+            date 22/6/1936
+            place Vienna, Austria        
+        approach
+        no-approach
+        quote
+            + Il significato di una proposizione è il metodo della sua verifica, una proposizione è insensata se non esiste 
+                \b un metodo per verificarla.
+
+SCHLICK: SIGNIFICATO E VERIFICAZIONE
+
+I temi esaminati nel Tractatus di Wittgenstein vengono assunti come base di riflessione  all’interno del Circolo di Vienna attraverso 
+    la mediazione prima di Hans Hanh e poi di Moritz Schlick.
+Schlick nacque a Berlino nel 1882; anche durante il conflitto mondiale continuò a tenere contatti con Planck, Einstein e Hilbert; 
+    questo gli permise di comprendere a pieno la profonda svolta della fisica all’inizio del secolo. Nel 1922 ottenne la cattedra 
+    di Filosofia delle scienze induttive all’Università di Vienna (cattedra che era già stata di Mach) e da questo momento inizia 
+    la sua efficace collaborazione con il gruppo dei filosofi viennesi.
+
+Prima fase del pensiero di Schlick
+Alla luce dei risultati sorprendenti e rivoluzionari della fisica contemporanea Schlick sentì l’esigenza della costruzione di una 
+    nuova metodologia e gnoseologia adeguate ai risultati della nuova scienza.  
+    Punti essenziali di questo programma: 
+        una profonda istanza antimetafisica, 
+        più salda fiducia nella base empirica e nell’elaborazione logico-matematica di ogni conoscenza.
+Opera: Allgemeine Erkenntnislehre (1918, Teoria generale della conoscenza)
+Tesi principale: distinzione fra kennen ed erkennen, tra puro intuire, il puro esserci di un contenuto di coscienza antecedente 
+    ad ogni elaborazione ed il vero e proprio conoscere, inteso come ordinamento e calcolo per mezzo dei concetti. 
+    Conoscere è, infatti, per Schlick ritrovare l’uniformità nella molteplicità e varietà dei dati dell’esperienza; 
+    perché questo avvenga occorre che nei confronti delle esperienze immediate entri in gioco il simbolismo concettuale.
+Le componenti della conoscenza sono due: 
+    1) il riferimento ai dati immediati, che forniscono il materiale della conoscenza da una parte e 
+    2) l’interpretazione simbolica delle forme concettuali dall’altra. 
+    Concetto = simbolo coordinato al fatto, per cui la componente concettuale della conoscenza viene a risolversi 
+        nella simbolizzazione dei dati immediati dell’esperienza. 
+Questa concezione lascia aperto ed irrisolto il problema del rapporto fra simbolismo e mondo 
+    e dei limiti del simbolismo nei confronti di una realtà in sé, la cui esistenza è ammessa da Schlick  
+    senza alcuna perplessità in questa prima fase del suo pensiero. 
+    Lo scopo di Schlick è quello di liberare la conoscenza scientifica dall’alone soggettivistico troppo spesso diffuso 
+    intorno ad essa dalle cosiddette intuizioni (gnoseologia di impronta fortemente empiristico-realistica).
+
+Seconda fase del pensiero di Schlick
+Nel 1922, chiamato all’università di Vienna Schlick viene a contatto con i filosofi viennesi: Hanh, Neurath, Frank.
+In questo gruppo i problemi suscitati dalla nuova scienza venivano discussi con un approccio simile a quello di Schlick: 
+    comune era il riconoscimento dell’impossibilità di comprimere in schemi concettuali tradizionali i risultati della nuova fisica 
+    comune era l’opposizione alle interpretazioni irrazionalistiche della crisi dei fondamenti della scienza. 
+    Tuttavia l’ambiente viennese si distingueva per l’accentuazione sensistica dell’empirismo (influenza di Mach) e per 
+    una decisa polemica nei confronti della filosofia tradizionale, considerata dominio di problemi insolubili e senza senso. 
+In questa fase di ripensamento Schlick risolve il problema del rapporto simbolismo/mondo facendo propria la teoria di Wittgenstein 
+    che si può definire “del rispecchiamento”: tale teoria ritiene essenziale l’identità di struttura fra proposizione (simbolo) e fatto. 
+    La proposizione, quindi, descrive in modo naturale la struttura del mondo, o meglio la struttura dei dati empirici, 
+    dal momento che Schlick interpreta i fatti wittgensteiniani come dati empirici. 
+
+E’ conoscibile solo ciò che è simbolizzabile e, di conseguenza, vista la nuova concezione di simbolo, solo ciò che è esprimibile 
+nel linguaggio. Ciò che è esprimibile nel linguaggio di Wittgenstein sono, però, solo le proprietà esterne degli oggetti 
+    (relazioni e rapporti) mentre sono inesprimibili le essenze (proprietà interne) delle cose, i dati immediati della conoscenza, 
+    le intuizioni… Da ciò deriva la critica ad ogni filosofia genericamente intuizionistica e soggettivistica; 
+    si dimostrerà che le proposizioni di cui tali filosofie fanno uso non esprimono alcun contenuto informale, ma sono semplici 
+    connessioni di segni o simboli privi di senso.
+
+Il criterio di significanza empirica (o principio di verificazione)
+Schlick si propone di formulare un criterio di significanza empirica che enunci le proprietà caratteristiche delle proposizioni 
+    esprimenti un effettivo contenuto informativo e quindi permetta di distinguere inequivocabilmente le proposizioni insensate 
+    da quelle dotate di senso.
+Per la formulazione del criterio di significanza Schlick è debitore di Wittgenstein, anche se l’interpretazione che fornisce 
+    Schlick è empirica, mentre la definizione che troviamo nel Tractatus è legata ad una problematica eminentemente logica.
+    Wittgenstein nella proposizione 4.024 aveva affermato: “Comprendere una proposizione vuol dire sapere che accade se essa è vera”, 
+    legando così il senso di una proposizione con la sua possibilità di verificazione. In Positivismo e realismo (1932) – testo 
+    in Abbagnano, pp. 390/91 – Schlick riprende quasi letteralmente tale definizione sostenendo che “è affatto impossibile esibire 
+    il senso di un asserto se non descrivendo lo stato di cose che deve sussistere affinché l’asserto stesso risulti vero”. 
+    Ciò equivale ad affermare che per esibire il senso di un asserto è necessario determinare le condizioni o le circostanze in cui 
+    la proposizione è vera. Il criterio di significanza, che diverrà lo slogan di tutta la prima fase del Circolo viennese, 
+    viene quindi formulato così: “Il senso di una proposizione è il metodo della sua verifica”. Ma quando riteniamo che sia possibile 
+    esibire un metodo di verifica per una proposizione? Quando , dato che la verità di una proposizione è determinata dalla esistenza 
+    o dalla non esistenza di certi dati di esperienza, la nostra proposizione o faccia direttamente riferimento ai dati di fatto 
+    o sia riducibile a proposizioni che facciano diretto riferimento a dati di fatto. Perché una proposizione faccia diretto 
+    riferimento ai dati di fatto occorre che in essa siano presenti unicamente termini osservativi o indicativi, ossia legati, 
+    mediante definizioni ostensive, ai dati di esperienza. Con definizioni ostensive si intendono quelle particolari definizioni che, 
+    per determinare il significato di un termine, non rinviano ad altri termini più noti, ma direttamente legano un termine con 
+    un dato di fatto mediante un gesto indicatore (es.: “Questa è una mela”; “questo è un foglio A4”, definisco mostrando l’oggetto 
+    a cui mi riferisco nella proposizione); è necessario, inoltre, che tutte le parole significanti siano infine 
+    definite ostensivamente. Schlick si rese, però, ben presto conto che il requisito di verificabilità era molto restrittivo 
+    (vedi dispensa p. 67)
+
+Che cosa si intende con metodo di verifica? La richiesta di un metodo di verifica non ha niente a che fare con la verificazione  
+    della proposizione. Se, infatti, si sostenesse che “una proposizione ha senso se è stata verificata” dovremmo accettare 
+    un’ingiustificabile restrizione della nostra conoscenza a ciò che è già stato verificato in passato, eleminando come insensate 
+    proposizioni riguardanti eventi futuri; inoltre, andremmo incontro alla palese assurdità di considerare il processo della 
+    verificazione antecedente a quello della comprensione del senso.
+
+Quando, dunque, leghiamo il senso di una proposizione al metodo della sua verifica non ci riferiamo affatto a verificazioni 
+    già compiute, ma unicamente alla “possibilità di verifica” della proposizione o alla sua “verificabilità”.
+Ma come può venire intesa l’espressione “possibilità di verifica”?
+Ora possiamo distinguere: 1) la possibilità empirica   e   2) la possibilità logica. 
+1) Riteniamo “empiricamente possibile qualsiasi cosa che non contraddice le Leggi di natura”.
+Per esempio, è empiricamente possibile che la luna ruoti intorno alla terra perché ciò è in accordo con le leggi della 
+    meccanica accettate, mentre è impossibile da un punto di vista empirico che i fiumi scorrano verso la sorgente. 
+    Tuttavia, poiché non disponiamo mai di una completa conoscenza della natura, non possiamo tracciare una linea di 
+    demarcazione netta tra fatti empiricamente possibili e fatti empiricamente impossibili, ma dobbiamo spesso accontentarci 
+    di parlare di gradi di possibilità empirica di certi stati di cose. (Mi è possibile sollevare questo libro? Certamente sì. 
+    Questo tavolo? Penso di sì. Questo tavolo da biliardo? Penso di no. Questa automobile? Certamente no”). Non solo, ma 
+    non disponendo di una conoscenza sicura della natura, dal momento che le leggi oggi accettate per vere possono in futuro 
+    dimostrarsi false o inadeguate, in seguito ad un maggior approfondimento della ricerca o ad un cambiamento della stessa 
+    struttura dell’universo, dobbiamo legare le distinzioni fra possibile ed impossibile allo sviluppo conoscitivo raggiunto 
+    in determinati periodi storici.
+2)  E’ chiaro che considerare la possibilità di verifica come empirica implica l’accettazione di un criterio di significanza 
+    non assoluto. Tale concezione appare del tutto inadeguata a Schlick il quale afferma che “…La possibilità di verificazione 
+    rilevante , in relazione al significato, non può essere di tipo empirico, non può essere stabilita post festum. 
+    Si deve essere sicuri di essa prima di poter considerare le circostanze empiriche e di accertare se permetteranno o no, 
+    e a quali condizioni, di effettuare la verifica”.
+
+3) “Io chiamo un fatto, o un processo, logicamente possibile se può essere descritto, cioè, se la frase che si suppone 
+    lo rappresenti, obbedisce alle regole della grammatica stabilite per il nostro linguaggio…Facciamo un esempio. 
+    Le frasi: “il mio amico è morto dopodomani”; “La signora indossava un abito scuro che era di verde acceso”, …violano ovviamente 
+    le regole che, nella lingua comune, governano l’uso dei termini ricorrenti nelle stesse frasi date. Queste non descrivono 
+    alcun fatto, sono prive di senso perché esprimono delle impossibilità logiche… Quando si parla di impossibilità logica ci 
+    si riferisce ad una discordanza fra le definizioni dei termini ed il modo in cui li si usa.” 
+
+Conclusione: per Schlick quando richiediamo per la determinazione del senso di una proposizione il metodo della sua verifica 
+    in effetti non facciamo altro che richiedere che tale proposizione sia descrivibile all’interno del nostro linguaggio e cioè 
+    faccia uso di termini significanti, connessi fra lor secondo le regole della grammatica logica.
+Critica al criterio di significanza empirica; il problema delle leggi di natura; il problema della verifica delle 
+    proposizioni singolari  (vedi dispensa pp. 34-37) 
+

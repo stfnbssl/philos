@@ -1,0 +1,7 @@
+$group
+
+    namespace freud
+
+        concept immagine-motoria
+
+        concept immagine-mnestica

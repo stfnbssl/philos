@@ -1,0 +1,16 @@
+$group
+
+    namespace klein
+
+        concept angoscia-primaria
+            quote
+                + La minaccia di annientamento dall'interno, per opera dell'istinto di morte,
+                    \b secondo il mio punto di vista, che in questo differisce da quello di Freud,
+                    \b è l'angoscia primaria; 
+                    \b ed è l'Io che, al servizio dell'istinto di vita, 
+                    \b chiamato in causa forse dall'istinto di vita stesso, 
+                    \b deflette in parte la minaccia che ne deriva verso l'esterno.
+                    \b Freud attribuiva all'organismo questa difesa fondamentale contro l'istinto di morte,
+                    \b io invece considero questo processo come la prima attività dell'Io.
+                book klein.invidia-e-gratitudine
+            

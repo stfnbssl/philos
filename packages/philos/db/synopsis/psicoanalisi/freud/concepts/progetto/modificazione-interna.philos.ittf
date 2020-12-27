@@ -1,0 +1,17 @@
+$group
+
+    namespace freud
+
+        concept modificazione-interna
+            + La modificazione interna è l'unico mezzo di scarica del neonato,
+                \b fino al ritrovamento dell’azione specifica.
+                \b È espressione di emozioni, grida, innervazioni vascolari.
+                \b Richiamando l'aiuto esterno di un adulto soccorritore
+                \b tale via di scarica acquista 
+                \b la funzione secondaria estremamente importante dell’intendersi, 
+                \b e l’impotenza iniziale degli esseri umani 
+                \b è la fonte originaria di tutte le motivazioni morali.
+
+            
+
+

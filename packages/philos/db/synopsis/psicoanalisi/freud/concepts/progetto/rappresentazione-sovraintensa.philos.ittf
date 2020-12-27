@@ -1,0 +1,19 @@
+$group
+
+    namespace freud
+
+        concept rappresentazione-sovraintensa
+            title Rappresentazione sovraintensa
+                de überstark
+            quote
+                + Una rappresentazione può, ad esempio, entrare nella coscienza con particolare frequenza, 
+                    \b senza che il corso [degli eventi] la giustifichi; 
+                    \b o può accadere che il risveglio di tale rappresentazione 
+                    \b si accompagni a conseguenze psichiche che non si riesce a comprendere. 
+                    \b L’emergere della rappresentazione sovraintensa ha risultati 
+                    \b che non possono né venire soppressi né essere capiti: 
+                    \b liberazione di affetto, innervazioni motorie, impedimenti. 
+                    \b Il soggetto stesso non è per nulla ignaro della stranezza della situazione.
+                kindle-page 886-887
+
+

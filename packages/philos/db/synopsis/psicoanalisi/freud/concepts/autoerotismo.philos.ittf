@@ -1,0 +1,12 @@
+$group
+
+    namespace freud
+
+        concept autoerotismo
+            + Per Freud l’autoerotismo è uno stadio antecedente al narcisismo;
+                \b il narcisismo - ovvero l’investimento libidico dell’Io, 
+                \b di quell’ Io che è al contempo la fonte di tutta la libido che può essere trasfusa - 
+                \b può essere assottigliato fino all’estremo, a causa di un sovrainvestimento eccessivo dell’oggetto, 
+                \b senza però intaccare l’autoerotismo, 
+                \b ovvero la quota libidica che rimane strenuamente abbarbicata 
+                \b a questo punctum (il fallo) di origine della libido. 

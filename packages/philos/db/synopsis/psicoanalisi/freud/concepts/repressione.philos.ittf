@@ -1,0 +1,29 @@
+$group
+
+    namespace freud
+
+        concept repressione
+            + La repressione si oppone, soprattutto dal punto di vista topico, alla rimozione, 
+                \b nella quale l'istanza rimovente (l'Io), l'operazione e il suo risultato sono inconsci. 
+                \b La repressione sarebbe invece un meccanismo conscio che opera 
+                \b al livello della seconda censura che Freud colloca tra il conscio e il preconscio; 
+                \b si tratterebbe di una esclusione dal campo di coscienza attuale 
+                \b e non del passaggio da un sistema (preconscio-cosciente) a un altro (inconscio). 
+            
+            + Dal punto di vista dinamico, 
+                \b le motivazioni morali svolgono nella repressione un ruolo predominante.
+            
+            r-concept freud.rimozione
+                + Nel processo di rimozione la repressione designa una possibile sorte dell'affetto. 
+                    \b Infatti, per Freud, solo il rappresentante ideativo della pulsione è, 
+                    \b propriamente parlando, rimosso, 
+                    \b mentre l'affetto non può diventare inconscio: 
+                    \b esso è trasformato in un altro affetto oppure è represso. 
+                quote
+                    + [...] sicché non si trova più nulla di esso 
+                    book freud.la-rimozione
+                quote
+                    + [oppure ...] non gli corrisponde più altro (nel sistema inconscio) 
+                        \b che un rudimento che non è riuscito a svilupparsi 
+                    book freud.l-inconscio
+

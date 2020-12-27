@@ -1,0 +1,11 @@
+$group
+
+    namespace freud
+
+        concept meccanismo-psichico
+
+            concept molla
+                + La molla del meccanismo psichico consiste nel fatto
+                    \b che il sistema ψ è esposto senza difese alle Q
+                    \b che salgono dai canali endogeni di eccitamento,
+                    \b direttamente dal corpi ai neuroni.

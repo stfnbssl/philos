@@ -1,0 +1,9 @@
+$group
+
+    namespace lacan.sesso
+        
+        concept spinta-alla-donna
+            + Fenomeno psicotico maschile caratterizzato dall'idea delirante 
+                \b di essere una "Vera donna", "La donna", irresistibile, ingorda,
+                \b insaziabile di godimento e priva di castrazione.
+

@@ -1,0 +1,73 @@
+$group
+
+    set functors.author
+        function
+            param parent
+            param resultObj
+            var authorObj
+                {
+                    @ id parent.wzName
+                    [ foundations
+                    [ opinions
+                    [ contents
+            var newitems = []
+            foreach child in parent.items
+                
+                if child.wzElement == "fullname"
+                    set authorObj.fullname = child.wzName 
+                elif child.wzElement == "born"
+                    set authorObj.born = createEvent(child)
+                elif child.wzElement == "died"
+                    set authorObj.died = createEvent(child)
+                elif !fillContents(child, authorObj, resultObj)
+                elif child.wzElement == "text"
+                    _ authorObj.contents.push
+                        {
+                            @ line child.wzName
+                elif ['field', 'approach', 'theory', 'concept'].indexOf(child.wzElement) > -1
+                    var concept
+                        _ getOrCreateConcept
+                            @ resultObj
+                            @ child.wzElement
+                            @ child.wzName
+                    if concept
+                        _ fillConcept(child, resultObj, concept)
+                        _ concept.founders.push
+                            @ parent.wzName
+                        _ authorObj.foundations.push
+                            {
+                                @ kind child.wzElement
+                                @ id child.wzName
+
+                else
+                    _ newitems.push
+                        @ child
+            _ resultObj.authors.push
+                @ authorObj
+            foreach child in newitems
+                _ doitem
+                    @ child
+                    @ resultObj
+
+    set functors.authorsgroup
+        function
+            param parent
+            param resultObj
+            var authorsGroupObj
+                {
+                    @ id parent.wzName
+            var newitems = []
+            foreach child in parent.items
+                if child.wzElement == "fullname"
+                    set authorsGroupObj.fullname = child.wzName 
+                elif child.wzElement == "born"
+                elif child.wzElement == "died"
+                else
+                    _ newitems.push
+                        @ child
+            _ resultObj.authorsGroups.push
+                @ authorsGroupObj
+            foreach child in newitems
+                _ doitem
+                    @ child
+                    @ resultObj

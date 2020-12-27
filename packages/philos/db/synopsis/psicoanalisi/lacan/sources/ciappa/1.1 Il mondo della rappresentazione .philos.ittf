@@ -1,0 +1,55 @@
+$group
+
+    $$ 1.1 IL MONDO DELLA RAPPRESENTAZIONE
+    quote
+        + L’uomo nasce in un bagno di linguaggio.
+            \b Questo bagno di linguaggio determina l’uomo già prima della nascita.
+        article lacan.piccolo-discorso-a-l-ortf
+        comment 
+            + questa la soglia verso cui Lacan spinge la riflessione sul soggetto
+
+    concept lacan.altro-grande
+        title Altro
+        + il luogo della parola
+        + il soggetto dipende dalle leggi del linguaggio
+            \b ovvero dalla dimensione dell’Altro come luogo della parola. 
+
+    concept lacan.soggetto
+        + sintesi tra le due “anime ” della cultura filosofica fine 1800/inizio 1900;
+            \b soggettivistica (Hegel, Kojéve, Heidegger, Sarte) e
+            \b strutturalista (Saussure, Jakobson, Levy-Strauss, Althusser)
+        + Il “ritorno a Freud” come progetto inaugurale
+            \b del pensiero lacanianao nasce dall’esigenza di mediare
+            \b tra l’istanza del soggetto, da cui proviene la dottrina freudiana, 
+            \b e quella della struttura che lo eccede
+            \b in quanto programmaticamente irriducibile al soggetto. 
+        r-concept lacan.il-discorso-dell-altro
+            + Lacan mette in questione nella nozione di soggetto, 
+                \b la dimensione del rapporto uomo e linguaggio.
+        concept sovversione-del-soggetto
+            r-concept lacan.altro-grande
+                + In questo senso la nozione di inconscio scoperta da Freud
+                    \b non è altro che l’idea stessa di sovversione del soggetto.
+
+    concept lacan.parola
+        + Le parole dunque ci precedono. Siamo alla mercè dell’Altro. 
+            \b Allorché madre e padre desiderano un figlio, 
+            \b intorno alla figura di colui che verrà al mondo si istaurano discorsi;
+            \b quando questi discorsi assumono il carattere imperativo di un “che sia”, 
+            \b l’azione del significante è già preparata. 
+        + Dai suoi primi giorni di vita, l’infans è alla dipendenze dell’altro, 
+            \b il suo grido deve essere interpretato, 
+            \b le sue intenzioni incontrando la voce dell’altro, dei genitori, diventano le loro parole. 
+        + È interpretando il grido come una domanda che il bambino viene introdotto nel linguaggio.
+        + La funzione della parola è costitutiva, condizionale sull’essere umano. 
+
+    concept lacan.il-discorso-dell-altro
+        + l’umanità stessa dell’uomo si struttura 
+            \b a partire dalla preesistenza di un discorso, di una sonorità significante 
+            \b che per Lacan è non tanto strumento di espressione o medium della comunicazione, 
+            \b ma discorso dell’Altro, trama simbolica entro cui si viene al mondo.
+        + s’incide nella carne dell’uomo questo "avan-detto" che ricopre il suo nome proprio
+            \b ma senza determinismo, escludendo che una tale dimensione parlante 
+            \b preluda ad un soggetto schiavo del linguaggio, assoggettato a un parlato
+
+

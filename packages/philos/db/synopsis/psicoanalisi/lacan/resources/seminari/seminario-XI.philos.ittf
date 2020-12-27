@@ -1,0 +1,30 @@
+$group
+
+    book lacan.seminario-XI
+        author Lacan
+        title Seminario XI. I quattro concetti fondamentali della psicoanalisi.
+        edition Torino: Einaudi, 2003
+        back-cover
+            + I quattro concetti fondamentali della psicoanalisi, seminario pronunciato da Lacan nel 1964, 
+                \b segna una svolta fondamentale nel suo insegnamento e rispetto alla causa analitica. 
+                \b È infatti il momento della rottura con l’Associazione internazionale freudiana 
+                \b e della fondazione della sua Scuola, l’École freudienne de Paris. 
+                \b Tuttavia la svolta è anche rispetto al suo insegnamento. 
+                \b Fino allora ogni seminario era stato costruito come un commento attorno a un testo di Freud. 
+                \b A partire da ora invece Lacan riprende la scoperta freudiana rielaborandola in un insegnamento inedito. 
+                \b In questo seminario egli riprenderà i fondamenti della psicoanalisi in quattro concetti chiave: 
+                \b l’inconscio, la ripetizione, il transfert e la pulsione. 
+                \b L’inconscio: Lacan lo rivitalizza introducendovi il concetto di soggetto 
+                \b che non è l’Ich freudiano ma il soggetto del desiderio inconscio. 
+                \b La ripetizione: essa non si riduce al fatto che l’inconscio dice sempre le stesse cose, 
+                \b ma introduce l’articolazione tra i significanti. 
+                \b È proprio dalla combinazione tra il soggetto e il sapere che Lacan presenta il transfert: 
+                \b non già ripetizione, ma emergenza del soggetto supposto sapere e dell’amore a esso connesso. 
+                \b Infine la pulsione, in cui anche quando la meta non è raggiunta 
+                \b si realizza nel tragitto un godimento. 
+                \b Ed è cosí che il soggetto dell’inconscio, 
+                \b nonostante la sofferenza provocata dal sintomo, trova sempre modo di godere. 
+                \b I quattro concetti fondamentali della psicoanalisi sono in fondo, secondo Lacan, 
+                \b quattro modi di dire l’inconscio.
+                \b Nuova edizione italiana a cura di Antonio Di Ciaccia, 
+                \b completamente riveduta e con uno scritto di Jacques-Alain Miller.        

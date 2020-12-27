@@ -1,0 +1,108 @@
+$group
+
+    namespace lacan
+
+        concept grafo-del-desiderio
+
+            concept circolo-del-discorso
+                alias circuito del discorso razionale
+                + Nel grafo è rappresentato dai punti: A ß ß’ γ.
+                + Questo circuito rappresenta il circuito del discorso, 
+                    \b del discorso razionale, altrimenti designato da Lacan come il circolo del discorso. 
+                    \b Tale discorso, che non è nient’altro che il discorso corrente, il discorso comune, 
+                    \b è costituito da dei semantemi, da degli elementi significativi. 
+                    \b Nel circolo del discorso si trova dunque determinato l’utilizzo dei significanti, 
+                    \b ossia ciò che, nell’impiego di un tale discorso, costituisce i punti fissi determinati dal codice.
+
+                r-concept lacan.codice
+                    + A causa delle prescrizioni imposte dal codice, 
+                        \b il circolo del discorso è un livello d’articolazione della parola 
+                        \b in cui le possibilità di creazione del senso si rivelano molto ridotte, 
+                        \b nella misura in cui il senso è in qualche modo fissato dal codice. 
+                        \b Di conseguenza, il circolo del discorso è un luogo di discorso relativamente vuoto, 
+                        \b un luogo di parola vuota, vale a dire il luogo del discorso concreto del parlessere 
+                        \b che si sforza di farsi intendere.
+                
+
+                concept luogo-del-codice-A
+                    title luogo del codice (A)
+                    alias tesoro dei significanti
+                    alias compagno del linguaggio
+                    quote
+                        + [..] il punto A, che è il punto in cui si trovano fissati i diversi usi dei significanti, 
+                            \b è il luogo del codice. 
+                            \b Come tale, il punto A è il luogo del referente simbolico, 
+                            \b ciò a cui si riferisce il discorso in quanto presenta una propensione intersoggettiva 
+                            \b che lo distingue per l’appunto dal discorso delirante, 
+                            \b che non è sotteso da questo garante (rèpondant) simbolico. 
+                            \b Il luogo del codice appare così come il luogo del Grande Altro 
+                            \b che Lacan designa, per questa ragione, 
+                            \b a un tempo come il “tesoro dei significanti” e il “compagno del linguaggio”.
+                        article dor.grafo_del_desiderio
+
+
+                concept luogo-del-messaggio-γ
+                    title luogo del messaggio (γ)
+                    + Il secondo punto d’intersezione, dove termina il circuito, 
+                        \b è il luogo d’incontro della catena significante 
+                        \b in cui si costituirà il senso a partire dal codice. 
+                        \b È dunque il luogo del messaggio.
+                        \b Il messaggio è una sequenza di segnali, di simboli 
+                        \b che corrispondono a delle regole di combinazione rigorosamente determinate da un codice. 
+                        \b La significazione del messaggio non può essere colta se non in funzione del codice 
+                        \b poiché, in definitiva, percepire la significazione di un messaggio 
+                        \b è sempre decodificare la forma di un messaggio inizialmente codificato.                        
+
+                concept luogo-dell-oggetto-metonimico-ß’
+                    + È il luogo in cui Lacan situa l’oggetto metonimico, 
+                        \b l’oggetto che è sempre metonimicamente delegato al posto dell’oggetto del desiderio.
+
+                concept luogo-di-colui-che-parla-ß
+                    + Al punto ß abbiamo l’ “Io” (Je), cioè il posto, nel discorso, di colui che parla.                         
+
+                concept grande-circuito-A-γ
+                    + Poiché il luogo del punto γ è il luogo del messaggio, 
+                        \b è anche il luogo dove qualcosa della verità di colui che parla 
+                        \b è più atto a prodursi nella forma di una parola piena. 
+                        \b Però, osserva Lacan, la maggior parte del tempo
+                        \b nessuna verità si produce nel luogo del messaggio, 
+                        \b poiché il discorso non attraversa veramente la catena significante. 
+                        \b Il discorso passa al di qua, per il corto-circuito di questa catena, 
+                        \b il circuito del macina parole da ß a ß’.
+
+                        $*
+                        D’altronde, la parola autentica di un soggetto (la parola piena) 
+                        può prodursi nel luogo del messaggio solo perché 
+                        una catena di significanti si dispone sotto la garanzia di un codice che ne regola l’uso. 
+                        Di conseguenza, ogni soggetto 
+                        che impegna il suo discorso nel corto-circuito del “macina parole” 
+                        dà ad intendere necessariamente ben più di quello che intende dire.
+                        Questo sovrappiù di senso risulterà da un’elaborazione significante da
+                        reperire nella parte superiore del dispositivo 
+                        che, per quanto sia stata messa fuori circuito, è tuttavia implicitamente presente                        
+
+                        Possiamo mettere in evidenza il meccanismo costitutivo di questa
+                        creazione di senso esaminando il funzionamento d’insieme del dispositivo a
+                        partire da una formazione dell’inconscio. 
+
+                        In effetti, se l’articolazione del linguaggio è atta a creare del senso, 
+                        essa vi perviene solo sulla base dei processi metaforici e metonimici. 
+                        Questi due processi restano per l’appunto, come abbiamo visto, i meccanismi di elezione delle produzioni inconsce.
+                        *$
+
+                concept circuito-del-macina-parole-ß-ß’
+                    + Il circuito, che è simbolizzato sul grafo dal segmento ß ß’, 
+                        \b impedisce assolutamente che un discorso possa dire qualcosa della verità, 
+                        \b poiché esso gira a vuoto e si riduce a ripetere incessantemente un ronzio. 
+                        \b Attraverso questo circuito, il parlessere dà il suo meglio 
+                        \b per sfinirsi nel registro della parola vuota del moulin à paroles, 
+                        \b il “macina parole” (Lacan) 
+                        \b che ci riporta a livello della pura e semplice testimonianza 
+                        \b della nostra condizione di animali parlanti:
+                    quote
+                        + È il discorso comune, fatto di parole che non dicono niente,
+                            \b grazie al quale ci si assicura che non si ha a che fare con quel che l’uomo è al naturale, 
+                            \b vale a dire una bestia feroce.       
+                        book lacan.seminario-V
+
+

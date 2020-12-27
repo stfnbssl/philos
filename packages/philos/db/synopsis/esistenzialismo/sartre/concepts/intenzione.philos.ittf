@@ -1,0 +1,8 @@
+$group
+
+    namespace sartre
+
+        concept intenzione
+            + L’intenzione, se non si concretizza, è il nulla 
+                \b e conta solo ciò che si è stati 
+                \b e non ciò che si è creduto essere o pensato di essere.

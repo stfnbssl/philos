@@ -1,0 +1,14 @@
+$group
+
+    namespace freud
+
+        concept proiezione
+            quote
+                + quegli eccitamenti interni che provocano un eccessivo aumento del dispiacere 
+                    \b sono trattati in un modo particolare: 
+                    \b si instaura la propensione a considerarli come se non agissero dall’interno, ma dall’esterno, 
+                    \b al fine di poter usare contro di essi gli stessi mezzi di difesa 
+                    \b con cui il sistema si protegge contro gli stimoli esterni. 
+                    \b È questa l’origine della proiezione, 
+                    \b che è destinata a svolgere una funzione così importante nell’etiologia dei processi patologici.
+                kindle-page 5663

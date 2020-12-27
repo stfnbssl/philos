@@ -1,0 +1,8 @@
+$group
+
+    namespace desaussure
+
+        concept catena-parlata
+            + È una doppia catena: catena dei concetti e catena delle immagini acustiche, 
+                \b così che ad ogni delimitazione introdotta nella catena delle immagini acustiche, 
+                \b corrisponderebbe una delimitazione susseguente nella catena dei concetti.

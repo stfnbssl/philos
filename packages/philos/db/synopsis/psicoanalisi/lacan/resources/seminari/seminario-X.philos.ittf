@@ -1,0 +1,45 @@
+$group
+
+    book lacan.seminario-X
+        author Lacan
+        title Seminario. Libro X. L'angoscia.
+        written 1962-1963
+        edition Torino: Einaudi, 2007
+        index
+            + Introduzione alla struttura dell'angoscia. 
+            + Revisione dello statuto dell'oggetto. 
+            + L'angoscia tra godimento e desiderio. 
+            + Le cinque forme dell'oggetto a piccolo. 
+            + Note.
+        back-cover
+            + Lacan accentua la positività dell’angoscia, 
+                \b poiché per lui essa è la via privilegiata per accedere al reale. 
+                \b Il che vuol dire che l’angoscia è la via che porta al di là del significante, 
+                \b è la via privilegiata per cogliere quel «resto» che egli chiama oggetto a. 
+                \b Oggetto essenziale, poiché non è l’oggetto desiderato, ma è l’oggetto 
+                \b che, invece, causa il desiderio. 
+                \b Si passa cosí, tramite l’angoscia, dal campo dell’oggetto docile al significante, 
+                \b come sono tutti gli oggetti che sembrano corrispondere al desiderio, 
+                \b a quest’oggetto «altro», che è all’origine del desiderio. 
+                \b Oggetto le cui manifestazioni erano già state delineate da Freud 
+                \b nell’oggetto orale e in quello anale, 
+                \b e che Lacan a sua volta completa con lo sguardo e la voce, 
+                \b e infine precisando la natura del fallo, 
+                \b oggetto di cui l’uomo viene a mancare e di cui la donna non sa che fare, 
+                \b lei che è invece sempre presa dal desiderio dell’Altro. 
+                \b In questo seminario si delinea cosí una nuova lettura della sessualità, 
+                \b di quella maschile e di quella femminile, 
+                \b e del fatto che niente angoscia di piú l’uomo di una donna che desideri 
+                \b e niente angoscia di piú una donna di un vero desiderio dell’uomo. 
+                \b Per l’uomo, perché il suo fantasma è quello di una donna puro oggetto permanente 
+                \b che godrebbe nel farsi oggetto del godimento dell’uomo. 
+                \b Per la donna, perché il suo fantasma è quello di un uomo che, 
+                \b non mancando di nulla come Don Giovanni, 
+                \b non la costringerebbe a supplire alla sua mancanza.
+
+        review
+            author Licitra
+            title Lezioni sull'angoscia
+            url http://psicolicitra.it/wp-content/uploads/2015/02/lezioni_sull_angoscia.pdf
+
+                

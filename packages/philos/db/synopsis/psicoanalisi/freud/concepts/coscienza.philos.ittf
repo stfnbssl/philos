@@ -1,0 +1,21 @@
+$group
+
+    namespace freud
+
+        concept coscienza
+            quote
+                + Abbiamo detto che la coscienza costituisce la superficie dell’apparato psichico; 
+                    \b l’abbiamo cioè attribuita, in quanto funzione, 
+                    \b a un sistema spazialmente collocato al primo posto, 
+                    \b se si procede dal mondo esterno. 
+                    \b Spazialmente non solo in senso funzionale, del resto, 
+                    \b ma questa volta anche nel senso della dissezione anatomica.
+                kindle-page 5960
+
+            quote
+                + [..] soltanto quanto è già stato una volta percezione c può diventare cosciente;
+                    \b e, se si escludono i sentimenti, 
+                    \b ciò che dall’interno vuol diventare cosciente, 
+                    \b deve cercare di trasformarsi in percezioni provenienti dall’esterno. 
+                    \b Questo è possibile mediante le tracce mnestiche.
+                kindle-page 5961-5962

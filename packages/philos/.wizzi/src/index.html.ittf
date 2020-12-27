@@ -1,0 +1,38 @@
+html
+    $
+        var page = {
+            id: 'home',
+            section: 'demo',
+            title: 'Philos',
+            description: 'Directory filosofica',
+            author: site.Params.author,
+        };
+        var color = site.Styles.palette.dark_1
+        var assetsURL = site.assetsURL;
+    
+    layouts/demo(&page)
+
+        $append styles
+            @style 
+                css
+                    < body
+                        background ${color.foreSofter}
+                    . wrapper
+                        padding 30px 150px
+                        background-color ${color.foreSofter}
+                        color ${color.backStrong}
+        
+        . wrapper
+            h1 &nbsp;
+            h1 Philos
+
+            div
+                img
+                    src ${assetsURL}/img/nice.jpg
+                    width 200px
+                    height 150px
+                span Usate il menù di navigazione in alto a destra.
+                    style vertical-align: top; display: inline-block; padding: 10px; font-size: 1.3rem;
+
+
+

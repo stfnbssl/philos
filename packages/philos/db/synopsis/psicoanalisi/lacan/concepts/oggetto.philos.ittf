@@ -1,0 +1,27 @@
+$group
+
+    namespace lacan
+
+        concept oggetto
+            + Per ogni soggetto che viene al mondo
+                \b a essere fondamentale
+                \b non è l’oggetto ma la sua mancanza, 
+                \b elaborata nelle sue diverse modalità – castrazione, frustrazione, privazione 
+                \b – e secondo i diversi registri – immaginario, simbolico, reale.
+                
+            + Il seminario IV, sulla relazione oggettuale, è, 
+                \b in realtà, un seminario sulla relazione 
+                \b che il soggetto ha con la mancanza di oggetto.
+
+            + È il significante la verità dell’oggetto.
+
+        concept oggetto-fobico
+            + L'oggetto fobico è un significante; non è un oggetto della realtà.
+            + È un oggetto suscita timore. 
+            
+        concept oggetto-feticcio
+            + L'oggetto feticcio è un significante; non è un oggetto della realtà.
+            + È un oggetto che diventa condizione necessaria per suscitare il desiderio. 
+
+        concept mancanza-a-oggetto
+            alias mancanza-di-oggetto

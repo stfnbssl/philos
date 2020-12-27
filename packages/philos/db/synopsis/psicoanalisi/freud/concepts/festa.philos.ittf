@@ -1,0 +1,20 @@
+$group
+
+    namespace freud
+
+        concept festa
+            quote
+                + Riguardo a tutte le rinunce e limitazioni che vengono imposte all’Io, 
+                    \b la trasgressione periodica dei divieti è la regola, 
+                    \b com’è dimostrato dall’istituzione delle feste, 
+                    \b le quali in origine non sono altro che eccessi prescritti dalla legge 
+                    \b che infatti devono a tale effetto liberatorio il loro carattere gioioso. 
+                    \b Sotto quest’aspetto essenziale i Saturnali dei Romani 
+                    \b e il nostro odierno carnevale coincidono con le feste dei primitivi, 
+                    \b che sogliono sfociare in sfrenatezze d’ogni sorta 
+                    \b cui s’accompagna la trasgressione dei comandamenti altrimenti più sacri. 
+                    \b L’ideale dell’Io include d’altronde tutte le limitazioni cui l’Io deve conformarsi, 
+                    \b e per questa ragione l’abrogazione dell’ideale dovrebbe essere una festa grandiosa per l’Io, 
+                    \b il quale avrebbe di nuovo la possibilità di essere soddisfatto di se medesimo.
+                article freud.psicologia-delle-masse-e-analisi-dell-io
+                kindle-loc 80604-80610

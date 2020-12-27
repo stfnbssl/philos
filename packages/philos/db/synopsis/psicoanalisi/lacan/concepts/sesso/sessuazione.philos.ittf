@@ -1,0 +1,12 @@
+$group
+
+    namespace lacan.sesso
+        
+        concept sessuazione
+            + La S. è un processo complesso 
+                \b che consiste nella soggettivazione della propria anatomia.
+
+            concept primo-tempo
+            concept secondo-tempo
+            concept terzo-tempo
+

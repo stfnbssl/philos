@@ -1,0 +1,69 @@
+$group
+    author Duhem
+        name Pierre Duhem
+        born
+            date 1861
+            place
+        died
+            date 1916
+            place
+        approach
+        no-approach
+        concept fatto teorico
+            + è il gruppo di dati matematici per mezzo del quale un fatto concreto è rimpiazzato nei ragionamenti e nei calcoli 
+                \b dal teorico. Nel fatto teorico tutto è determinato in maniera netta e precisa
+        concept fatto pratico
+            + è sempre in qualche misura impreciso e vago, la sua simbolizzazione per mezzo del fatto teorico è sempre 
+                \b approssimativa. Da ciò segue che un’infinità di differenti fatti teorici può essere presa come traduzione 
+                \b dello stesso fatto pratico, purché tutti rimangano compresi entro i limiti di errore ammessi
+
+    Pierre Duhem distingue tra fatto teorico e fatto pratico. Il fatto teorico è il gruppo di dati matematici per mezzo del 
+        quale un fatto concreto è rimpiazzato nei ragionamenti e nei calcoli dal teorico. Nel fatto tutto è determinato 
+        in maniera netta e precisa, mentre il fatto concreto è sempre in qualche misura impreciso e vago, la sua simbolizzazione 
+        per mezzo del fatto teorico è sempre approssimativa. Da ciò segue che un’infinità di differenti fatti teorici può essere 
+        presa come traduzione dello stesso fatto pratico, purché tutti rimangano compresi entro i limiti di errore ammessi. 
+        (es.: se i nostri strumenti di misura ci consentono un’approssimazione di + 1 cm., lo stesso corpo lungo circa 
+        un metro  - unico fatto pratico – può essere rimpiazzato da un’infinità di numeri che ne esprimono la lunghezza, 
+        ovvero tutti i numeri compresi fra 99 cm. e 101 cm; due numeri differenti per un matematico (es.: 99,9 e 100,1) 
+        sono indistinguibili per il fisico. 
+        
+        La fisica non gode della stessa certezza e precisione della matematica; ogni 
+        proposizione della fisica è sempre approssimativa. D’altra parte la traduzione di un fatto concreto in un fatto teorico 
+        è indispensabile per ogni esperimento di fisica. La sperimentazione non è mai nuda osservazione, ma sempre traduzione 
+        del fatto concreto in un simbolo, cioè interpretazione dell’esperienza.
+
+Ogni esperimento, anche il più semplice, non è mai passiva registrazione, ma richiede sempre l’intervento del soggetto che 
+    traduca l’esperienza in un certo schema teorico. Duhem ritiene, inoltre, che, mentre le astrazioni del senso comune sono naturali, 
+    spontanee, corrispondenti a ben determinati oggetti della realtà, le astrazioni scientifiche, i termini e le proposizioni con 
+    cui noi traduciamo le esperienze in schemi mentali, sono costruiti facendo ricorso ad un insieme di altre nozioni, cioè a 
+    tutta una teoria fisica.
+
+Ora la teoria fisica è un tutto organico, ovvero non si può spezzare in parti da mettere alla prova una per una. Noi non mettiamo 
+mai alla prova un’ipotesi isolata perché ogni termine impiegato ha un significato solo in connessione con un’infinità di altri termini; 
+quindi una singola ipotesi è inscindibilmente connessa con una moltitudine di altre ipotesi. (olismo)
+Nell’impostazione di Duhem non è possibile disporre di un esperimento cruciale che ci fornisca una refutazione definitiva di una 
+qualsiasi ipotesi, per cui rimane sempre aperta, a livello logico, la possibilità di salvarla aggiustando la teoria in qualche 
+altro punto. Ciò ci pone di fronte al seguente problema: che cosa dirigerà la nostra scelta tra il mantenimento a tutti i costi 
+di un principio ed il suo abbandono, se una stringente necessità logica non c’è? 
+
+Secondo Duhem la logica da sola non basta a far progredire la scienza sperimentale; l’esperienza lascia al ricercatore una grande 
+libertà di scelta; quindi, affinché il ricercatore non rimanga paralizzato occorre l’intervento di un’altra funzione intellettuale, 
+ovvero l’intervento del buon senso che venga in aiuto del fisico. Il buon senso è quella funzione dell’intelletto che non ci forza 
+a fare certe scelte con necessità assoluta, caratteristica tipica dei ragionamenti logici, ma ci fornisce motivazioni plausibili, 
+anche se non imperiose, ci suggerisce, non ci costringe. Inoltre, Duhem, che fu anche un grande storico della scienza, ritiene 
+che: “La scienza, nella sua marcia progressiva, non conosce mai bruschi cambiamenti; ella cresce, ma per gradi…” Questo continuismo 
+storico, però, è stato negli anni successivi sottoposto a dura critica sia da parte degli storici che degli epistemologi, sotto 
+la spinta delle rivoluzioni novecentesche (relatività e quanti) la cui novità appariva inconciliabile con la posizione di Duhem, 
+il quale, inoltre, riteneva che il piano che sembra sottendere lo sviluppo progressivo della scienza rimandi ad un 
+ordinatore (dimostrando così l’esistenza di Dio, il quale come in Cartesio diventa garanzia che un corretto uso del buon senso ci 
+possa portare alla conquista completa della verità.)
+
+Allorquando le conseguenze dedotte da una certa teoria non si accordano con i risultati sperimentali, si aprono due strade 
+per uscire dalle difficoltà: tentare di mantenere fermi alcuni principi della teoria, modificando altre parti di essa (cosa 
+sempre permessa dal punto di vista logico), oppure abbandonare completamente le vecchie idee e provare a costruire una teoria 
+su basi interamente nuove. E’ il buon senso che spinge in una direzione o nell’altra, ma tanto l’una quanto l’altra sono 
+razionalmente giustificate. Nel caso in cui entrambi i tentativi riescano, cioè si riesca a rendere conto delle leggi sperimentali 
+sia partendo dai vecchi principi, sia dai nuovi, sarà ancora il buon senso a farci scegliere fra un atteggiamento conservatore 
+e un atteggiamento rivoluzionario. In Duhem operano contemporaneamente vari criteri di scelta, tutti valutabili dal buon senso 
+suffragato dalla logica: semplicità, eleganza, solidità, fecondità, naturalezza (non artificiosità) collegamento il più stretto 
+possibile con la fisica precedente.

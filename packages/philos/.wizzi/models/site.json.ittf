@@ -1,0 +1,26 @@
+{
+    $
+        var baseURL = "http://127.0.0.1:5500/philos";
+        // var baseURL = "https://stfnbssl.github.io/philos";
+
+    baseURL "${baseURL}"
+    assetsURL "${baseURL}/assets"
+    languageCode "it-it"
+
+    { Params
+        name "PhilosResources"
+        description "Risorse varie per progetto Philos"
+        author "Stefano Bassoli"
+        email "stfn.bssl@gmail.com"
+        phone "---"
+        address "---"
+        year 2019
+        logoText "by Stefano & co"
+
+    { Features
+        features()
+    
+    { Styles
+        styles()
+    
+    { Data

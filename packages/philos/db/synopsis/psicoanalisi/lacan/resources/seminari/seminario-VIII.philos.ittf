@@ -1,0 +1,33 @@
+$group
+
+    book lacan.seminario-VIII
+        author Lacan
+        title Seminario. Libro VIII. Il transfert.
+        written 1960-1961
+        edition Torino: Einaudi, 2008
+        index
+            + Introduzione.
+            + La leva dell'amore. 
+            + Un commento del Simposio di Platone. 
+            + L'oggetto del desiderio e la dialettica della castrazione. 
+            + Il mito di Edipo, oggi. Un commento della trilogia dei Coûfontaine di Paul Claudel. 
+            + I grande e a piccolo. 
+            + Avvertenza.        
+        back-cover
+            + Il transfert è vero amore? Sí. 
+                \b Eppure la situazione che mette in relazione l’analizzante e l’analista è la piú falsa che ci sia. 
+                \b Freud, scoprendo la potenza del transfert, 
+                \b ha tuttavia deciso di servire l’amore che gli è connesso, 
+                \b di servirlo per servirsene. 
+                \b A quale scopo? Per un unico scopo: affinché l’analizzante si schiuda alla dimensione del desiderio.
+                \b Per illustrare ciò Lacan si appoggia al Simposio di Platone, 
+                \b offrendone un commento inedito e puntuale. 
+                \b Socrate è la prima figura dell’analista: è il desiderante a oltranza 
+                \b ma è anche colui che si sottrae quando si tratta di mostrarsi nella posizione del desiderato. 
+                \b E infatti, pur racchiudendo per Alcibiade l’oggetto agalmatico, 
+                \b Socrate afferma perentoriamente di non essere niente.
+                \b In questo seminario Lacan delinea quella funzione di motore della cura analitica 
+                \b che egli chiama il desiderio dell’analista. 
+                \b Riprendendo infine il rapporto tra tragedia e desiderio inconscio, 
+                \b illustra come questo si delinei nell’arco di tre generazioni 
+                \b dando voce ai personaggi della trilogia dei Coûfontaine di Paul Claudel.        

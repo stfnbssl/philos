@@ -1,0 +1,20 @@
+$group
+
+    namespace sartre
+
+        concept vita
+
+            + La vita secondo Sartre non è nulla prima di essere vissuta 
+                \b e il suo valore è il senso che le viene dato. 
+                \b Il nichilismo tipico dell’epoca viene preso, accettato, fatto proprio e trasformato nel suo opposto: 
+                \b se non c’è un senso a priori non significa che dobbiamo adagiarci nella sua assenza, 
+                \b ma dobbiamo crearlo noi stessi, progettare la nostra esistenza nella totale libertà. 
+                \b L’esistenzialista è libero, non condizionato da valori prestabiliti: 
+                \b si deve impegnare a sottoporre a indagine critica i propri valori, 
+                \b i quali, per farsi reali, devono esprimersi in azioni. 
+                \b Per l’esistenzialista infatti esiste solo ciò che si fa, 
+                \b esiste l’azione, non l’intenzione o i presupposti, 
+                \b dunque la verità non è vera se non è vissuta. 
+                \b L’intenzione, se non si concretizza, è il nulla 
+                \b e conta solo ciò che si è stati 
+                \b e non ciò che si è creduto essere o pensato di essere.

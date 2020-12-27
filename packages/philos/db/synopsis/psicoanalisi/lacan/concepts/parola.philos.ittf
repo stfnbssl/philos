@@ -1,0 +1,30 @@
+$group
+
+    namespace lacan
+
+        concept parola
+            
+            + Le parole dunque ci precedono. 
+                \b Siamo alla mercè dell’Altro. 
+                \b Allorché madre e padre desiderano un figlio, 
+                \b intorno alla figura di colui che verrà al mondo si istaurano discorsi;
+                \b quando questi discorsi assumono il carattere imperativo di un “che sia”, 
+                \b l’azione del significante è già preparata. 
+            
+            + Dai suoi primi giorni di vita, l’infans è alla dipendenze dell’altro, 
+                \b il suo grido deve essere interpretato, 
+                \b le sue intenzioni incontrando la voce dell’altro, dei genitori, diventano le loro parole. 
+            
+            + È interpretando il grido come una domanda che il bambino viene introdotto nel linguaggio.
+            
+            + La funzione della parola è costitutiva, condizionale sull’essere umano. 
+
+        concept parola-piena
+            
+            quote
+                + La parola piena sarebbe quella parola 
+                    \b capace di mostrare l’illusione su cui il discorso del soggetto fonda a sua insaputa il suo stesso sapere. 
+                    \b È la parola che non dice qualcosa, non un oggetto, non un io, 
+                    \b ma la parola che (non) dice nulla, 
+                    \b che apre il soggetto al Tu sei questo! della sua inconsistenza.
+                book ciappa.linguaggio-e-fantasma

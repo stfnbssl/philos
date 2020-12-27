@@ -1,0 +1,12 @@
+$group
+
+    namespace sartre
+
+        concept mondo
+
+            quote
+                + Recuperando interamente l'eredità fenomenologica, 
+                    \b il mondo è oggetto posizionale di coscienza, 
+                    \b la coscienza è sempre coscienza intenzionale di alcunché 
+                    \b (la distinzione metafisica di soggetto-oggetto è ancora un residuo gnoseologistico della tradizione).
+                article anonimo.esistere-per-niente-la-fatticita-in-sartre

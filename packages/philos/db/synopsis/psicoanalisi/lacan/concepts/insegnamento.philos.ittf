@@ -1,0 +1,9 @@
+$group
+
+    namespace lacan
+
+        concept insegnamento
+            quote
+                + Un insegnamento degno di questo nome non si può arrestare che sul proprio movimento
+                page 492
+                article lacan.l-istanza-della-lettera-dell-inconscio

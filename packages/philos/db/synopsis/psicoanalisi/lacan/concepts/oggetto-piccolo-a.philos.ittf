@@ -1,0 +1,128 @@
+$group
+
+    namespace lacan
+
+        concept oggetto-a
+            title oggetto a
+            alias a piccola
+            alias oggetto perduto del desiderio
+            
+            + è l’oggetto perduto del desiderio, 
+                \b l’immagine non rappresentabile della mancanza 
+                \b a cui purtuttavia si anela incessantemente
+
+            + è l'oggetto-causa del desiderio – in realtà un buco, un’assenza produttiva;
+                \b causa perché spinta al ritrovamento dell'oggetto perduto
+
+            + L’oggetto è "reale" e in quanto "reale" è incomprensibile.
+            
+            + L’oggetto a, in quanto perduto, luogo vuoto, 
+                \b è una béance, una faglia, 
+                \b che il soggetto si sforza di otturare per tutta la vita, 
+                quote
+                    + servendosi di oggetti a immaginari 
+                        \b che la particolarità della propria storia 
+                        \b (e precisamente l’incontro con i significanti che la caratterizzano 
+                        \b e gli oggetti del fantasma degli Altri concreti) 
+                        \b induce a privilegiare
+                    book chemama-vandermesch.dizionario-di-psicoanalisi
+                    page 120
+            
+            + Il giusto posto dell'oggetto piccolo a è il campo dell'Altro;
+                \b Nella psicosi l'oggetto piccolo a non è al suo posto.
+
+            r-concept lacan.separazione
+                + Nel Seminario XI la funzione dell’oggetto a è quella 
+                    \b che consente la separazione del soggetto, 
+                    \b cioè il suo non essere più legato senza margini di gioco 
+                    \b ai significanti della sua alienazione.
+
+            r-concept lacan.fantasma
+                + L’oggetto a del fantasma 
+                    \b è un oggetto irrimediabilmente perduto 
+                    \b ed è la causa del desiderio. 
+                    \b È solo nella misura in cui è un oggetto perduto 
+                    \b che diventa oggetto causa del desiderio. 
+                    \b Il fantasma non è altro che uno schema inconscio singolare, soggettivo, non universale 
+                    \b presente in ciascuno di noi 
+                    \b che permette a ciascuno di noi di ritrovare l’oggetto perduto, 
+                    \b l’oggetto che causa il desiderio 
+                book recalcati.desiderio-godimento-e-soggettivazione
+                    
+                + Vi sono alcune parti del proprio corpo 
+                    \b che si prestano in modo particolare all’operazione logica del distacco 
+                    \b che traspone il suo oggetto nell’immaginario: 
+                    \b lo sguardo, la voce, il seno e le feci. 
+                
+                quote
+                    + Sebbene il numero degli oggetti a reali sia limitato, 
+                        \b si può avere un numero di oggetti a otturatori immaginari pressoché infinito. […] 
+                        \b L’oggetto del fantasma si distingue 
+                        \b dall’oggetto del bisogno e dall’oggetto della pulsione. 
+                        \b Si consideri l’esempio paradigmatico del seno 
+                        \b (oggetto immaginario o reale del fantasma), 
+                        \b il latte materno (oggetto del bisogno), 
+                        \b il piacere della bocca (oggetto della pulsione) 
+                    book chemama-vandermesch.dizionario-di-psicoanalisi
+                    page 121 
+                    
+                + Allora il fantasma, nella sua operazione 
+                    \b di mediazione, accesso e protezione dal reale, 
+                    \b compie in aggiunta la funzione fondamentale 
+                    \b di fissare un oggetto per la pulsione, 
+                    \b che strutturalmente non possiede un oggetto predeterminato. 
+                
+                + La pulsione, diversamente dall’istinto 
+                    \b che sa in quale oggetto deve soddisfarsi per necessità, 
+                    \b non ha scritto nel suo programma in che oggetto deve soddisfarsi. 
+                    
+                quote
+                    + La pulsione non suppone nessun rapporto d’oggetto, 
+                        \b è pura domanda di soddisfazione 
+                        \b in un circuito di andata e ritorno 
+                        \b sul soggetto stesso, 
+                        \b un circuito di godimento autoerotico per struttura 
+                    article bassols.fantasma-e-reale-nella-clinica-lacaniana
+                
+                quote
+                    + la vera relazione d’oggetto si trova a livello del fantasma […] 
+                        \b non si colloca a livello della pulsione […] 
+                        \b che ha lo statuto di una domanda 
+                        \b e di una domanda più imperativa nella misura in cui è inconscia […] 
+                        \b La relazione con l’oggetto non si colloca a livello della pulsione, 
+                        \b ma del desiderio e questo per la mediazione del fantasma
+                    article miller.presentazione-del-seminario-VI
+                        
+                quote
+                    + il fantasma eclissa la pulsione,
+                        \b allo stesso modo in cui la percezione della realtà 
+                        \b eclissa il reale impossibile da rappresentare
+                    article bassols.fantasma-e-reale-nella-clinica-lacaniana
+
+                quote
+                    + Il fantasma media, attraverso una costruzione simbolico-immaginaria, 
+                        \b il confine labile tra il piacere ed il godimento, 
+                        \b una liminalità critica dove il principio di piacere 
+                        \b è sempre a rischio di collassare su se stesso per diventare godimento, 
+                        \b ovvero quell’esperienza paradossale più simile ad un dolore irrinunciabile. 
+                    article bassols.fantasma-e-reale-nella-clinica-lacaniana
+
+                quote
+                    + Diciamo che il fantasma, nel suo uso fondamentale, 
+                        \b è ciò grazie a cui il soggetto si regge 
+                        \b al livello del proprio desiderio evanescente, 
+                        \b evanescente perché la stessa soddisfazione della domanda 
+                        \b gli sottrae il suo oggetto 
+                    article lacan.la-direzione-della-cura
+                        
+                quote
+                    + In altri termini il fantasma dà il piacere proprio al desiderio.
+                        \b Torniamo a dire che desiderio non è soggetto, 
+                        \b non essendo indicabile in alcun dove in un significante della domanda quale che sia, 
+                        \b perché non è articolabile in essa benché sia da essa articolato.
+                    quote
+                        + La dimensione del desiderio apre il soggetto a un movimento di trascendenza, 
+                            \b alla ricerca di una soddisfazione che rimanda sempre ad altro,
+                            \b il desiderio è un dire che non si lascia condensare in nessun detto.
+                        book terminio.misurare-l-inconscio
+                    article lacan.kant-con-sade
