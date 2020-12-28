@@ -208,7 +208,7 @@ executeGenerateModules([
 function executeGenerateModules(modules, callback) {
     async.mapSeries(modules, (module, callback) => {
         var ittfDocumentUri = path.join(__dirname, module + '.philos.ittf');
-        var outputPath = path.join(__dirname, '..', '..', '..', 'json', module + '.philos');
+        var outputPath = path.join(__dirname, '..', '..', '..', 'docs', 'json', module + '.philos');
         loadWizziModel(ittfDocumentUri, {}, function(err, model) {
             if (err) {
                 return callback(err);

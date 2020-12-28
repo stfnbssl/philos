@@ -44,6 +44,7 @@ v07/plugin/examples/withMonoRepoWizziFactory()
                         @ '..'
                         @ '..'
                         @ '..'
+                        @ 'docs'
                         @ 'json'
                         @ module + '.philos'
                 

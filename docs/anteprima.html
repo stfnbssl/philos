@@ -14,7 +14,7 @@
     <script src="https://unpkg.com/@material-ui/core/umd/material-ui.development.js"></script>
     <script src="https://unpkg.com/babel-standalone@latest/babel.min.js"></script>
     <script src="https://unpkg.com/react-router-dom/umd/react-router-dom.min.js"></script>
-    <script src="../assets/js/classnames/classnames.js"></script>
+    <script src="./assets/js/classnames/classnames.js"></script>
     <script type="text/babel">
         function loadJSON(jsonpath, callback) {
             var xobj = new XMLHttpRequest();
@@ -38,7 +38,7 @@
             return 0;
         }
     </script>
-    <script src="../json//first.philos.extended.jsonvar.js"></script>
+    <script src="./json//first.philos.extended.jsonvar.js"></script>
     <script type="text/babel">
         console.log("MaterialUI", MaterialUI);
         const ReactRouterDOM = window.ReactRouterDOM;
@@ -874,7 +874,7 @@
                 }
                 else {
                     var that = this;
-                    loadJSON("../json/first.philos.extended.json", function(response) {
+                    loadJSON("./json/first.philos.extended.json", function(response) {
                         // Do Something with the response e.g.
                         var jsonresponse = JSON.parse(response);
                         // log 'from did mount', jsonresponse

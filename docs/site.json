@@ -1,7 +1,7 @@
 {
-    "baseURL": "..",
-    "assetsURL": "../assets",
-    "jsonURL": "../json",
+    "baseURL": ".",
+    "assetsURL": "./assets",
+    "jsonURL": "./json",
     "languageCode": "it-it",
     "Params": {
         "name": "PhilosResources",
