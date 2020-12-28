@@ -42,6 +42,8 @@ v07/plugin/examples/withMonoRepoWizziFactory()
                     _ path.join
                         @ __dirname
                         @ '..'
+                        @ '..'
+                        @ '..'
                         @ 'json'
                         @ module + '.philos'
                 

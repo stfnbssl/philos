@@ -4,7 +4,7 @@ wfjob philos
     var ittf_models_folder     = path.join(__dirname, 'models');
     var ittf_docs_folder       = path.join(__dirname, 'docs');
     var ittf_db_folder         = path.join(__dirname, 'db');
-    var dest_docs_folder       = path.join(__dirname, '..', 'docs');
+    var dest_docs_folder       = path.join(__dirname, '..', '..', '..', 'docs');
     var dest_db_folder         = path.join(__dirname, '..', 'db');
   
   model site 
