@@ -1,6 +1,6 @@
 $group
 
-    namespace freud
+    namespace freud.progetto
 
         concept azione-specifica
             + La sospensione dello stimolo [endogeno, poi detta pulsione] 

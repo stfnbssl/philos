@@ -1,6 +1,6 @@
 $group
 
-    namespace freud
+    namespace freud.progetto
 
         concept funzione-secondaria
             + Con la crescente complessità dell'interno dell'organismo

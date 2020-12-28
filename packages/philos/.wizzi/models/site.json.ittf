@@ -1,10 +1,12 @@
 {
     $
-        var baseURL = "http://127.0.0.1:5500/philos";
+        var baseURL = "..";
+        // var baseURL = "http://127.0.0.1:5500/philos";
         // var baseURL = "https://stfnbssl.github.io/philos";
 
     baseURL "${baseURL}"
     assetsURL "${baseURL}/assets"
+    jsonURL "${baseURL}/json"
     languageCode "it-it"
 
     { Params

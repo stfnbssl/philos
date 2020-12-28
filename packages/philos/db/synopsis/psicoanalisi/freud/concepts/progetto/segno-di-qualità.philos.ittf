@@ -1,6 +1,6 @@
 $group
 
-    namespace freud
+    namespace freud.progetto
 
         concept segno-di-qualità
             + Il segno di qualità è una informazione che si produce in ψ

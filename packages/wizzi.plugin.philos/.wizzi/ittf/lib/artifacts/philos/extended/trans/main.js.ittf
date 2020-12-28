@@ -22,16 +22,15 @@ module
                     [ concepts
                     [ theories
                     [ books
-                    [ chapters
                     [ articles
-                    [ webpages
-                    [ thesis
+                    [ relations
                     { current
             foreach item in model.items
                 _ doitem
                     @ item
                     @ resultObj
             delete resultObj.current
+            delete resultObj.ns
             foreach obj in resultObj.fields
                 _ clearConcept(obj)
             foreach obj in resultObj.approaches

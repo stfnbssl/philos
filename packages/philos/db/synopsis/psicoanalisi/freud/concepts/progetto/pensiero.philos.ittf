@@ -1,6 +1,6 @@
 $group
 
-    namespace freud
+    namespace freud.progetto
 
         concept pensiero
             alias processo di pensiero

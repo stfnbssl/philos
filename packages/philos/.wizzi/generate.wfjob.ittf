@@ -2,8 +2,10 @@ wfjob philos
 
   $
     var ittf_models_folder     = path.join(__dirname, 'models');
-    var ittf_src_folder        = path.join(__dirname, 'src');
-    var dest_folder            = path.join(__dirname, '..', 'app');
+    var ittf_docs_folder       = path.join(__dirname, 'docs');
+    var ittf_db_folder         = path.join(__dirname, 'db');
+    var dest_docs_folder       = path.join(__dirname, '..', 'docs');
+    var dest_db_folder         = path.join(__dirname, '..', 'db');
   
   model site 
     schema json
@@ -19,8 +21,8 @@ wfjob philos
             model-ref site
                 export-name site
 
-  line src
-		cwd-folder ${ittf_src_folder}
+  line docs
+		cwd-folder ${ittf_docs_folder}
 
 		artifact html documents
 			src ./**/*.html.ittf
@@ -46,7 +48,20 @@ wfjob philos
             model-ref site
                 export-name site
 
+  line db
+		cwd-folder ${ittf_db_folder}
+        dest-folder ${dest_db_folder}
+
+		artifact javascript modules
+			src ./**/*.js.ittf
+			schema js
+			generator js/module
+			extension js
+            model-ref site
+                export-name site
+
   production
-		dest-folder ${dest_folder}
+		dest-folder ${dest_docs_folder}
 		line-ref models
-        line-ref src
+        line-ref docs
+        line-ref db

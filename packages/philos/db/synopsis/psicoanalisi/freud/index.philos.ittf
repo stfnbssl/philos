@@ -1,0 +1,4 @@
+$group
+
+    $include concepts/index
+    $include resources/index

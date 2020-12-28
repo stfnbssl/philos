@@ -1,6 +1,6 @@
 $group
 
-    namespace freud
+    namespace freud.progetto
 
         concept qualità
             + La coscienza ci dà ciò che noi chiamiamo qualità:

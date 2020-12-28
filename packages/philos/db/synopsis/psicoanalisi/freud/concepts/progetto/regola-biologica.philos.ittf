@@ -1,6 +1,6 @@
 $group
 
-    namespace freud
+    namespace freud.progetto
 
         concept regola-biologica
             + Per regola biologica si intende una norma a salvaguardia della sopravvivenza,

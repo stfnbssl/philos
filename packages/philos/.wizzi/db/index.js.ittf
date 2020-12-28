@@ -7,6 +7,9 @@ v07/plugin/examples/withMonoRepoWizziFactory()
             _ path.resolve
                 @ __dirname
                 @ '..'
+                @ '..'
+                @ 'wizzi.plugin.philos'
+                @ 'dist'
 
     _ executeGenerateModules
         [
@@ -33,14 +36,13 @@ v07/plugin/examples/withMonoRepoWizziFactory()
                 var ittfDocumentUri
                     _ path.join
                         @ __dirname
-                        @ 'ittf'
                         @ module + '.philos.ittf'
                 
                 var outputPath
                     _ path.join
                         @ __dirname
                         @ '..'
-                        @ '..'
+                        @ 'json'
                         @ module + '.philos'
                 
                 $*
@@ -75,5 +77,11 @@ v07/plugin/examples/withMonoRepoWizziFactory()
                                         @ model
                                         @ null
                                         @ 4
+
+                                const replacer = new RegExp("'", 'g')
+                                
+                                _ file.write
+                                    @ outputPath + '.extended.jsonvar.js'
+                                    @ "var jsonData = JSON.parse('" + stringify(model,null).replace(replacer,"\\'") + "');"
                                 r_cb()
             @ callback                

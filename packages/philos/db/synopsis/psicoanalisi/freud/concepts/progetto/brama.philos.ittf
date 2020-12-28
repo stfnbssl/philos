@@ -1,6 +1,6 @@
 $group
 
-    namespace freud
+    namespace freud.progetto
 
         concept brama
             + La brama comporta uno stato di tensione nell'Io,

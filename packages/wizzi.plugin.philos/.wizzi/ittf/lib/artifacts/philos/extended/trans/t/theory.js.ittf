@@ -4,7 +4,7 @@ $group
         function
             param parent
             param resultObj
-            var theoryObj = createConcept(parent.wzName, "theory")
+            var theoryObj = createConcept(parent.wzName, resultObj, "theory")
             var newitems = fillConcept(parent, resultObj, theoryObj)
             _ resultObj.theories.push
                 @ theoryObj

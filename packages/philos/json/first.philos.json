@@ -1,0 +1,604 @@
+{
+    "wzElement": "philos",
+    "wzName": "first",
+    "items": [
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud.progetto",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "affetto",
+                    "items": [
+                        {
+                            "wzElement": "alias",
+                            "wzTag": "alias",
+                            "wzName": "stato di affetto",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "Residuo [assieme al desiderio] dell'esperienza del dolore o del soddisfacimento.",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "Aumenta la tensione di Qἠ in ψ, mediante una improvvisa emissione.",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "Combinazione tra determinate sensazioni della serie piacere-dispiacere e le corrispondenti innervazioni di scarica e la loro percezione.",
+                            "items": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud.progetto",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "associazione-verbale",
+                    "items": [
+                        {
+                            "wzElement": "quote",
+                            "wzTag": "quote",
+                            "wzName": "",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Questa consiste nel collegamento dei neuroni ψ con neuroni che servono alle rappresentazioni sonore e sono intimamente associati con le immagini verbali motorie (le parole parlate). Queste associazioni hanno il vantaggio sopra le altre di possedere due ulteriori caratteristiche: sono circoscritte (cioè in piccolo numero) ed esclusive (differenti l'una dall'altra). L’eccitamento procede in ogni caso dall’immagine sonora verso l’immagine verbale e di qui alla scarica. Quindi, se le immagini mnestiche sono costituite in modo tale che una corrente parziale può passare da loro alle immagini sonore e alle immagini verbali motorie, allora l’investimento dell’immagine mnestica si accompagna con l’informazione della scarica, informazione che è un segno di qualità e allo stesso tempo un segno di coscienza del ricordo. Ora, se l’Io preinveste queste immagini verbali come ha già preinvestito le immagini della scarica, esso crea per sé stesso il meccanismo capace di dirigere l’investimento ψ verso i ricordi che emergono durante il flusso di Qἠ. Questo è il pensiero cosciente, osservante.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "kindleloc",
+                                    "wzTag": "kindle-loc",
+                                    "wzName": "12506-12516",
+                                    "items": []
+                                }
+                            ]
+                        },
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "[..] le A.V. pongono i processi di pensiero sullo stesso livello dei processi percettivi, conferendo loro una realtà, e rendendo possibile il loro ricordo.",
+                            "items": [
+                                {
+                                    "wzElement": "bax",
+                                    "wzTag": "bax",
+                                    "wzName": "per la associazione con la scarica motoria?",
+                                    "items": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud.progetto",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "attenzione",
+                    "items": [
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "L'attenzione consiste nello stabilire una situazione psichica di attesa anche per certe percezioni che non coincidono in parte con gli investimenti di desiderio.",
+                            "items": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "affetto",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Affetto",
+                            "items": [
+                                {
+                                    "wzElement": "de",
+                                    "wzTag": "de",
+                                    "wzName": "Affekt",
+                                    "items": []
+                                }
+                            ]
+                        },
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "Termine ripreso nella psicanalisi dalla terminologia psicologica tedesca. Esso indica qualsiasi stato affettivo penoso o gradevole,vago o qualificato, sotto forma di scarica massiccia o di tonalità generale. Secondo Freud, ogni pulsione si esprime come affetto e come rappresentazione. L'affetto è l'espressione qualitativa soggettiva della quantità di energia pulsionale e delle sue variazioni.",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "concept",
+                            "wzTag": "concept",
+                            "wzName": "importo",
+                            "items": [
+                                {
+                                    "wzElement": "title",
+                                    "wzTag": "title",
+                                    "wzName": "importo d'affetto",
+                                    "items": [
+                                        {
+                                            "wzElement": "de",
+                                            "wzTag": "de",
+                                            "wzName": "Affektbetrag",
+                                            "items": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "wzElement": "alias",
+                                    "wzTag": "alias",
+                                    "wzName": "forza pulsionale",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "alias",
+                                    "wzTag": "alias",
+                                    "wzName": "spinta della pulsione",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "alias",
+                                    "wzTag": "alias",
+                                    "wzName": "libido (quando è in causa la sola pulsione sessuale)",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "fattore quantitativo postulato come sostrato dell'affetto vissuto soggettivamente, per designare ciò che è invariante nelle diverse modificazioni di quest'ultimo: spostamento, distacco dalla rappresentasione, trasformazioni qualitative.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "il termine Affektbetrag è uno di quelli con cui viene espressa l'ipotesi economica di Freud.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "quote",
+                                    "wzTag": "quote",
+                                    "wzName": "",
+                                    "items": [
+                                        {
+                                            "wzElement": "text",
+                                            "wzTag": "+",
+                                            "wzName": "Nelle funzioni psichiche, occorre differenziare qualcosa (importo d'affetto, somma di eccitazioni) che possieda tutte le proprietà di una quantità anche se non siamo in grado di misurarla; qualcosa che possa essere aumentata, diminuita, spostata, scaricata, e si disponga sulle tracce mnestiche delle rappresentazioni un po' come una carica elettrica sulla superficie dei corpi.",
+                                            "items": []
+                                        },
+                                        {
+                                            "wzElement": "book",
+                                            "wzTag": "book",
+                                            "wzName": "freud.neuro-psicosi-da-difesa",
+                                            "items": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "wzElement": "relatedconcept",
+                                    "wzTag": "r-concept",
+                                    "wzName": "freud.affetto",
+                                    "items": [
+                                        {
+                                            "wzElement": "text",
+                                            "wzTag": "+",
+                                            "wzName": "l'affetto è in Freud la controparte qualitativa della quantità di importo d'affetto",
+                                            "items": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "wzElement": "relatedconcept",
+                                    "wzTag": "r-concept",
+                                    "wzName": "freud.rimozione",
+                                    "items": [
+                                        {
+                                            "wzElement": "quote",
+                                            "wzTag": "quote",
+                                            "wzName": "",
+                                            "items": [
+                                                {
+                                                    "wzElement": "text",
+                                                    "wzTag": "+",
+                                                    "wzName": "[..] la liquidazione dell’ammontare affettivo, che costituisce il vero e proprio compito della rimozione [..]",
+                                                    "items": []
+                                                },
+                                                {
+                                                    "wzElement": "kindleloc",
+                                                    "wzTag": "kindle-loc",
+                                                    "wzName": "65273",
+                                                    "items": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "wzElement": "concept",
+                            "wzTag": "concept",
+                            "wzName": "bloccato",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "L'origine del sintomo isterico è cercata in un evento traumatico a cui non ha potuto corrispondere una scarica adeguata (affetto bloccato).",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Solo se la rievocazione del ricordo provoca la reviviscenza dell'affetto che gli era legato all'origine, la reminiscenza acquista la sua efficacia terapeutica.",
+                                    "items": []
+                                }
+                            ]
+                        },
+                        {
+                            "wzElement": "concept",
+                            "wzTag": "concept",
+                            "wzName": "destino",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "L'affetto non è necessariamente legato alla rappresentazione; la loro separazione (affetto senza rappresentazione, rappresentazione senza affetto) assegna a ciascuno di essi un destino diverso.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Freud indica diversi possibili destini dell'affetto.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "concept",
+                                    "wzTag": "concept",
+                                    "wzName": "conversione",
+                                    "items": [
+                                        {
+                                            "wzElement": "text",
+                                            "wzTag": "+",
+                                            "wzName": "La libido (importo d'affetto di pulsione sessuale) distaccata dalla rappresentazione rimossa (durante il processo della rimozione) è trasformata in energia di innervazione producendo sintomi somatici motori (es. paralisi) o sensori (es. anestesie).",
+                                            "items": []
+                                        },
+                                        {
+                                            "wzElement": "text",
+                                            "wzTag": "+",
+                                            "wzName": "la conversione dell'affetto produce quindi \"isteria di conversione\"",
+                                            "items": []
+                                        },
+                                        {
+                                            "wzElement": "text",
+                                            "wzTag": "+",
+                                            "wzName": "nei sintomi corporei parlano le rappresentazioni rimosse deformate dalla \"condensazione\" e dallo \"spostamento\"",
+                                            "items": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "wzElement": "concept",
+                                    "wzTag": "concept",
+                                    "wzName": "spostamento",
+                                    "items": [
+                                        {
+                                            "wzElement": "text",
+                                            "wzTag": "+",
+                                            "wzName": "l'affetto viene conservato e può spostarsi su un'altra rappresentazione",
+                                            "items": []
+                                        },
+                                        {
+                                            "wzElement": "text",
+                                            "wzTag": "+",
+                                            "wzName": "lo spostamento dell'affetto produce \"nevrosi ossessiva\"",
+                                            "items": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "wzElement": "concept",
+                                    "wzTag": "concept",
+                                    "wzName": "trasformazione",
+                                    "items": [
+                                        {
+                                            "wzElement": "text",
+                                            "wzTag": "+",
+                                            "wzName": "la trasformazione dell'affetto produce \"nevrosi d'angoscia\", \"melanconia\"",
+                                            "items": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "wzElement": "concept",
+                                    "wzTag": "concept",
+                                    "wzName": "repressione",
+                                    "items": [
+                                        {
+                                            "wzElement": "text",
+                                            "wzTag": "+",
+                                            "wzName": "non è una rimozione, non si può parlare di affetto inconscio",
+                                            "items": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "amnesia-infantile",
+                    "items": [
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "Al pari dell'amnesia isterica, l'amnesia infantile può essere in linea di principio eliminata: essa non è una soppressione o una assenza di fissazione di ricordi, bensì l'effetto di una rimozione. Freud vede nell'amnesia infantile la condizione delle rimozioni successive, in particolare dell'amnesia isterica.",
+                            "items": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "book",
+            "wzTag": "book",
+            "wzName": "freud.l-interpretazione-dei-sogni",
+            "items": [
+                {
+                    "wzElement": "title",
+                    "wzTag": "title",
+                    "wzName": "L'interpretazione dei sogni",
+                    "items": []
+                },
+                {
+                    "wzElement": "author",
+                    "wzTag": "author",
+                    "wzName": "Freud",
+                    "items": []
+                },
+                {
+                    "wzElement": "edition",
+                    "wzTag": "edition",
+                    "wzName": "1900, Bollati Boringhieri",
+                    "items": []
+                },
+                {
+                    "wzElement": "title",
+                    "wzTag": "title",
+                    "wzName": "L’interpretazione dei sogni",
+                    "items": []
+                }
+            ]
+        },
+        {
+            "wzElement": "book",
+            "wzTag": "book",
+            "wzName": "freud.opere-complete",
+            "items": [
+                {
+                    "wzElement": "author",
+                    "wzTag": "author",
+                    "wzName": "Freud",
+                    "items": []
+                },
+                {
+                    "wzElement": "title",
+                    "wzTag": "title",
+                    "wzName": "Opere complete",
+                    "items": []
+                },
+                {
+                    "wzElement": "edition",
+                    "wzTag": "edition",
+                    "wzName": "Bollati Boringhieri. Kindle Edition.",
+                    "items": []
+                }
+            ]
+        },
+        {
+            "wzElement": "article",
+            "wzTag": "article",
+            "wzName": "freud.al-di-la-del-principio-del-piacere",
+            "items": [
+                {
+                    "wzElement": "title",
+                    "wzTag": "title",
+                    "wzName": "Al di la del principio di piacere",
+                    "items": []
+                },
+                {
+                    "wzElement": "author",
+                    "wzTag": "author",
+                    "wzName": "Freud",
+                    "items": []
+                },
+                {
+                    "wzElement": "book",
+                    "wzTag": "book",
+                    "wzName": "freud.opere-IX",
+                    "items": []
+                }
+            ]
+        },
+        {
+            "wzElement": "article",
+            "wzTag": "article",
+            "wzName": "freud.psicologia-delle-masse-e-analisi-dell-io",
+            "items": [
+                {
+                    "wzElement": "title",
+                    "wzTag": "title",
+                    "wzName": "Psicologia delle masse e analisi dell'Io",
+                    "items": []
+                },
+                {
+                    "wzElement": "author",
+                    "wzTag": "author",
+                    "wzName": "Freud",
+                    "items": []
+                },
+                {
+                    "wzElement": "book",
+                    "wzTag": "book",
+                    "wzName": "freud.opere-IX",
+                    "items": []
+                }
+            ]
+        },
+        {
+            "wzElement": "article",
+            "wzTag": "article",
+            "wzName": "freud.la-morale-sessuale-civile-e-il-nervosismo-moderno",
+            "items": [
+                {
+                    "wzElement": "title",
+                    "wzTag": "title",
+                    "wzName": "La morale sessuale “civile” e il nervosismo moderno",
+                    "items": []
+                },
+                {
+                    "wzElement": "author",
+                    "wzTag": "author",
+                    "wzName": "Freud",
+                    "items": []
+                },
+                {
+                    "wzElement": "book",
+                    "wzTag": "book",
+                    "wzName": "freud.opere-V",
+                    "items": []
+                }
+            ]
+        },
+        {
+            "wzElement": "article",
+            "wzTag": "article",
+            "wzName": "freud.l-inconscio",
+            "items": [
+                {
+                    "wzElement": "title",
+                    "wzTag": "title",
+                    "wzName": "L'Inconscio",
+                    "items": []
+                },
+                {
+                    "wzElement": "author",
+                    "wzTag": "author",
+                    "wzName": "Freud",
+                    "items": []
+                },
+                {
+                    "wzElement": "book",
+                    "wzTag": "book",
+                    "wzName": "freud.opere-VIII",
+                    "items": []
+                }
+            ]
+        },
+        {
+            "wzElement": "book",
+            "wzTag": "book",
+            "wzName": "freud.opere-VIII",
+            "items": [
+                {
+                    "wzElement": "author",
+                    "wzTag": "author",
+                    "wzName": "Freud",
+                    "items": []
+                },
+                {
+                    "wzElement": "edition",
+                    "wzTag": "edition",
+                    "wzName": "1976, Bollati Boringhieri",
+                    "items": []
+                },
+                {
+                    "wzElement": "title",
+                    "wzTag": "title",
+                    "wzName": "Le opere. Volume VIII. Introduzione alla psicanalisi e altri scritti.",
+                    "items": []
+                }
+            ]
+        },
+        {
+            "wzElement": "book",
+            "wzTag": "book",
+            "wzName": "freud.opere-IX",
+            "items": [
+                {
+                    "wzElement": "author",
+                    "wzTag": "author",
+                    "wzName": "Freud",
+                    "items": []
+                },
+                {
+                    "wzElement": "edition",
+                    "wzTag": "edition",
+                    "wzName": "1976, Bollati Boringhieri",
+                    "items": []
+                },
+                {
+                    "wzElement": "title",
+                    "wzTag": "title",
+                    "wzName": "Le opere. Volume IX. L'Io e l'Es e altri scritti.",
+                    "items": []
+                }
+            ]
+        },
+        {
+            "wzElement": "article",
+            "wzTag": "article",
+            "wzName": "pagliardini.l-oggetto-sguardo-nell-insegnamento-di-lacan",
+            "items": [
+                {
+                    "wzElement": "author",
+                    "wzTag": "author",
+                    "wzName": "Pagliardini",
+                    "items": []
+                },
+                {
+                    "wzElement": "url",
+                    "wzTag": "url",
+                    "wzName": "file:///C:/Users/Stefano%20Bassoli/Downloads/4535-Articolo-16180-1-10-20141224.pdf",
+                    "items": []
+                }
+            ]
+        }
+    ]
+}

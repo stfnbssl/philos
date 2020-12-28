@@ -24,6 +24,33 @@ $group
             _ currentObj.contents.push
                 {
                     @ comment parent.toJson()
+        elif parent.wzElement == 'concept' && currentObj.kind == 'concept'
+            var savens = resultObj.ns
+            set resultObj.ns = currentObj.id
+            _ functors.concept        
+                @ parent
+                @ resultObj
+            set resultObj.ns = savens
+            _ currentObj.contents.push
+                {
+                    @ concept currentObj.id + '.' + parent.wzName
+        elif parent.wzElement == 'relatedconcept'
+            var rconceptObj
+                {
+                    @ kind 'rconcept'
+                    @ id parent.wzName
+                    [ contents
+            foreach child in parent.items
+                if !fillContents(child, rconceptObj, resultObj)
+                else
+                    $$ TODO error
+            _ currentObj.contents.push
+                @ rconceptObj
+            _ resultObj.relations.push
+                {
+                    @ kind 'rconcept'
+                    @ from currentObj.id
+                    @ to parent.wzName
         else
             return true
 
@@ -33,7 +60,7 @@ $group
         param resultObj
         var quoteObj
             {
-                @ author null
+                @ author (resultObj.ns_author || 'global')
                 [ lines
         foreach child in parent.items
             if child.wzElement == 'text'
@@ -49,14 +76,18 @@ $group
                         set quoteObj.unknown = item.wzElement
             elif child.wzElement == 'page'
                 set quoteObj.page = child.wzName
+            elif child.wzElement == 'kindleloc'
+                set quoteObj.kindleloc = child.wzName
+            elif child.wzElement == 'kindlepage'
+                set quoteObj.kindlepage = child.wzName
             elif child.wzElement == 'book'
                 set quoteObj.book = child.wzName
                 _ functors.book
                     @ child
                     @ resultObj
-            elif child.wzElement == 'chapter'
-                set quoteObj.chapter = child.wzName
-                _ functors.chapter
+            elif child.wzElement == 'article'
+                set quoteObj.article = child.wzName
+                _ functors.article
                     @ child
                     @ resultObj
             elif child.wzElement == 'comment'
@@ -67,5 +98,3 @@ $group
             else
                 set quoteObj.unknown = child.wzElement
         return quoteObj
-
-

@@ -17,8 +17,27 @@ $group
                     set bookObj.title = child.wzName 
                 elif child.wzElement == "edition"
                     set bookObj.edition = child.wzName
+                elif child.wzElement == "written"
+                    set bookObj.written = child.wzName
+                elif child.wzElement == "index"
+                    set bookObj.index = []
+                    foreach c2 in child.items
+                        if c2.wzElement == "text"
+                            _ bookObj.index.push
+                                @ c2.wzName
+                elif child.wzElement == "backcover"
+                    var backcoverObj
+                        {
+                            [ contents
+                    foreach c2 in child.items
+                        _ fillContents(c2, backcoverObj)                    
+                    set bookObj.backcover = backcoverObj
                 elif child.wzElement == "author"
                     _ bookObj.authors.push(child.wzName)
+                elif child.wzElement == "source"
+                    _ functors.source
+                        @ child
+                        @ bookObj
                 elif !fillContents(child, bookObj)
                 else
                     _ newitems.push
@@ -31,11 +50,11 @@ $group
                     @ resultObj
             return bookObj
 
-    set functors.chapter
+    set functors.article
         function
             param parent
             param resultObj
-            var chapterObj
+            var articleObj
                 {
                     @ id parent.wzName
                     @ title null
@@ -45,26 +64,87 @@ $group
             var newitems = []
             foreach child in parent.items
                 if child.wzElement == "title"
-                    set chapterObj.title = child.wzName 
+                    set articleObj.title = child.wzName 
                 elif child.wzElement == "edition"
-                    set chapterObj.edition = child.wzName
+                    set articleObj.edition = child.wzName
                 elif child.wzElement == "author"
-                    _ chapterObj.authors.push(child.wzName)
+                    _ articleObj.authors.push(child.wzName)
                 elif child.wzElement == "book"
-                    set chapterObj.book = child.wzName
+                    set articleObj.book = child.wzName
                     _ functors.book
                         @ child
                         @ resultObj
                 elif child.wzElement == 'page'
-                    set chapterObj.page = child.wzName
-                elif !fillContents(child, chapterObj)
+                    set articleObj.page = child.wzName
+                elif child.wzElement == 'kindle-page'
+                    set articleObj.kindlepage = child.wzName
+                elif child.wzElement == 'kindle-loc'
+                    set articleObj.kindleloc = child.wzName
+                elif !fillContents(child, articleObj)
                 else
                     _ newitems.push
                         @ child
-            _ resultObj.chapters.push
-                @ chapterObj
+            _ resultObj.articles.push
+                @ articleObj
             foreach child in newitems
                 _ doitem
                     @ child
                     @ resultObj
-            return chapterObj
+            return articleObj
+
+    set functors.source
+        function
+            param parent
+            param resultObj
+            var sourceObj
+                {
+                    @ id parent.wzName
+                    [ contents
+            foreach child in parent.items
+                if child.wzElement == "title"
+                    set sourceObj.title = child.wzName 
+                elif child.wzElement == "url"
+                    set sourceObj.url = child.wzName
+            set resultObj.source = sourceObj
+
+    set functors.title
+        function
+            param field
+            param parentObj
+            var titleObj
+                {
+                    @ text null
+                    [ langs
+            set titleObj.text = field.wzName
+            foreach child in field.items
+                if ['en','de','fr','sp'].indexOf(child.wzElement) > -1
+                    _ titleObj.langs.push
+                        {
+                            @ lang child.wzElement
+                            @ text child.wzName
+            if titleObj.langs.length == 0
+                delete titleObj.langs
+            set parentObj.title = titleObj       
+
+    set functors.alias
+        function
+            param field
+            param parentObj
+            if !parentObj || !parentObj.aliases
+                log 'wrong alias position', field.wzName
+                return
+            var aliasObj
+                {
+                    @ text null
+                    [ langs
+            set aliasObj.text = field.wzName
+            foreach child in field.items
+                if ['en','de','fr','sp'].indexOf(child.wzElement) > -1
+                    _ aliasObj.langs.push
+                        {
+                            @ lang child.wzElement
+                            @ text child.wzName
+            if aliasObj.langs.length == 0
+                delete aliasObj.langs
+            _ parentObj.aliases.push
+                @ aliasObj

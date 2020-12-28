@@ -1,6 +1,6 @@
 $group
 
-    namespace freud
+    namespace freud.progetto
 
         concept modificazione-interna
             + La modificazione interna è l'unico mezzo di scarica del neonato,

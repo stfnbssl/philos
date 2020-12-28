@@ -31,6 +31,11 @@ wfschema philos
     e to : item
     e extends : item
     e exports : item
+    e bax : item
+    e de : item
+    e en : item
+    e sp : item
+    e fr : item
 
 	philos/author()
     philos/school()

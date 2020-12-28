@@ -1,6 +1,6 @@
 $group
 
-    namespace freud
+    namespace freud.progetto
 
         concept volontà
             + La volontà è il derivato delle pulsioni.

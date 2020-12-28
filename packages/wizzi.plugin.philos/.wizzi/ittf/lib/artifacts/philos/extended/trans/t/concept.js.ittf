@@ -1,10 +1,28 @@
 $group
 
+    set functors.namespace
+        function
+            param parent
+            param resultObj
+            set resultObj.ns = parent.wzName
+            log 'functors.namespace'
+            foreach child in parent.items
+                if child.wzElement == "author"
+                    set resultObj.ns_author = child.wzName
+                else
+                    _ doitem
+                        @ child
+                        @ resultObj
+            set resultObj.ns = 'global'
+            set resultObj.ns_author = 'global'
+
     set functors.concept
         function
             param parent
             param resultObj
-            var conceptObj = createConcept(parent.wzName, "concept")
+            log 'functors.concept'
+            var conceptObj = createConcept(parent.wzName, resultObj, "concept")
+            set conceptObj.ns = resultObj.ns
             var newitems = fillConcept(parent, resultObj, conceptObj)
             _ resultObj.concepts.push
                 @ conceptObj
@@ -49,6 +67,7 @@ $group
         set conceptObj
             _ createConcept
                 @ id
+                @ resultObj
                 @ kind
         if kind == 'field'
             _ resultObj.fields.push
@@ -65,12 +84,18 @@ $group
         return conceptObj
 
     function createConcept
-        param id
+        param name
+        param resultObj
         param kind
+        log 'createConcept', resultObj.ns, (resultObj.ns || 'global') 
         return
             {
                 @ kind kind
-                @ id id
+                @ ns (resultObj.ns || 'global')
+                @ author (resultObj.ns_author || 'global')
+                @ name name
+                @ id (resultObj.ns || 'global') + '.' + name
+                [ aliases
                 [ founders
                 [ contributors
                 [ contributiontos
@@ -80,6 +105,8 @@ $group
 
     function clearConcept
         param conceptObj
+        if conceptObj.aliases.length == 0
+            delete conceptObj.aliases
         if conceptObj.founders.length == 0
             delete conceptObj.founders
         if conceptObj.contributors.length == 0
@@ -109,6 +136,14 @@ $group
                     @ child.wzName
                     @ conceptObj.kind
                     @ conceptObj.id
+            elif child.wzElement == "title"
+                _ functors.title
+                    @ child
+                    @ conceptObj
+            elif child.wzElement == 'alias'
+                _ functors.alias
+                    @ child
+                    @ conceptObj
             elif child.wzElement == "contributionto"
                 $$ _ conceptObj.contributiontos.push
                 $$     @ child.toJson()

@@ -1,7 +1,7 @@
 {
-    "name": "wizzi-plugin-philos",
+    "name": "wizzi.plugin.philos",
     "version": "0.0.1",
-    "description": "Wizzi plugin package for Philosophy applications",
+    "description": "Wizzi plugin package for database of philosophical items",
     "author": {
         "name": "Stefano Bassoli",
         "email": "stfn.bssl@gmail.com"
@@ -10,12 +10,12 @@
     "licenses": [
         {
             "type": "MIT",
-            "url": "https://github.com/stfnbssl/wizzi-plugin-philos/tree/master/license.txt"
+            "url": "https://github.com/stfnbssl/wizzi.plugin.philos/tree/master/license.txt"
         }
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/stfnbssl/wizzi-plugin-philos/tree/master"
+        "url": "https://github.com/stfnbssl/wizzi.plugin.philos/tree/master"
     },
     "engines": {
         "node": ">=0.10.28",

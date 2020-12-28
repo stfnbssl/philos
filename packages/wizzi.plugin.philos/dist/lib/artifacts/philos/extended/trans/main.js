@@ -40,16 +40,10 @@ md.trans = function(model, ctx, callback) {
             books: [
                 
             ], 
-            chapters: [
-                
-            ], 
             articles: [
                 
             ], 
-            webpages: [
-                
-            ], 
-            thesis: [
+            relations: [
                 
             ], 
             current: {
@@ -62,6 +56,7 @@ md.trans = function(model, ctx, callback) {
             doitem(item, resultObj);
         }
         delete resultObj.current
+        delete resultObj.ns
         var i, i_items=resultObj.fields, i_len=resultObj.fields.length, obj;
         for (i=0; i<i_len; i++) {
             obj = resultObj.fields[i];
@@ -192,8 +187,26 @@ functors.comment = function(parent, resultObj) {
     }
     return commentObj;
 };
+functors.namespace = function(parent, resultObj) {
+    resultObj.ns = parent.wzName;
+    console.log('functors.namespace');
+    var i, i_items=parent.items, i_len=parent.items.length, child;
+    for (i=0; i<i_len; i++) {
+        child = parent.items[i];
+        if (child.wzElement == "author") {
+            resultObj.ns_author = child.wzName;
+        }
+        else {
+            doitem(child, resultObj);
+        }
+    }
+    resultObj.ns = 'global';
+    resultObj.ns_author = 'global';
+};
 functors.concept = function(parent, resultObj) {
-    var conceptObj = createConcept(parent.wzName, "concept");
+    console.log('functors.concept');
+    var conceptObj = createConcept(parent.wzName, resultObj, "concept");
+    conceptObj.ns = resultObj.ns;
     var newitems = fillConcept(parent, resultObj, conceptObj);
     resultObj.concepts.push(conceptObj);
     var i, i_items=newitems, i_len=newitems.length, child;
@@ -246,7 +259,7 @@ function getOrCreateConcept(resultObj, kind, id) {
     if (conceptObj) {
         return conceptObj;
     }
-    conceptObj = createConcept(id, kind);
+    conceptObj = createConcept(id, resultObj, kind);
     if (kind == 'field') {
         resultObj.fields.push(conceptObj);
     }
@@ -261,10 +274,17 @@ function getOrCreateConcept(resultObj, kind, id) {
     }
     return conceptObj;
 }
-function createConcept(id, kind) {
+function createConcept(name, resultObj, kind) {
+    console.log('createConcept', resultObj.ns, (resultObj.ns || 'global'));
     return {
             kind: kind, 
-            id: id, 
+            ns: (resultObj.ns || 'global'), 
+            author: (resultObj.ns_author || 'global'), 
+            name: name, 
+            id: (resultObj.ns || 'global') + '.' + name, 
+            aliases: [
+                
+            ], 
             founders: [
                 
             ], 
@@ -286,6 +306,9 @@ function createConcept(id, kind) {
         };
 }
 function clearConcept(conceptObj) {
+    if (conceptObj.aliases.length == 0) {
+        delete conceptObj.aliases
+    }
     if (conceptObj.founders.length == 0) {
         delete conceptObj.founders
     }
@@ -317,6 +340,12 @@ function fillConcept(parent, resultObj, conceptObj) {
         else if (child.wzElement == "author") {
             conceptObj.founders.push(child.wzName);
             addFounded(resultObj, child.wzName, conceptObj.kind, conceptObj.id);
+        }
+        else if (child.wzElement == "title") {
+            functors.title(child, conceptObj);
+        }
+        else if (child.wzElement == 'alias') {
+            functors.alias(child, conceptObj);
         }
         else if (child.wzElement == "contributionto") {
             addContribution(child, conceptObj);
@@ -375,13 +404,45 @@ function fillContents(parent, currentObj, resultObj) {
             comment: parent.toJson()
         });
     }
+    else if (parent.wzElement == 'concept' && currentObj.kind == 'concept') {
+        var savens = resultObj.ns;
+        resultObj.ns = currentObj.id;
+        functors.concept(parent, resultObj);
+        resultObj.ns = savens;
+        currentObj.contents.push({
+            concept: currentObj.id + '.' + parent.wzName
+        });
+    }
+    else if (parent.wzElement == 'relatedconcept') {
+        var rconceptObj = {
+            kind: 'rconcept', 
+            id: parent.wzName, 
+            contents: [
+                
+            ]
+        };
+        var i, i_items=parent.items, i_len=parent.items.length, child;
+        for (i=0; i<i_len; i++) {
+            child = parent.items[i];
+            if (!fillContents(child, rconceptObj, resultObj)) {
+            }
+            else {
+            }
+        }
+        currentObj.contents.push(rconceptObj);
+        resultObj.relations.push({
+            kind: 'rconcept', 
+            from: currentObj.id, 
+            to: parent.wzName
+        });
+    }
     else {
         return true;
     }
 }
 function fillQuote(parent, currentObj, resultObj) {
     var quoteObj = {
-        author: null, 
+        author: (resultObj.ns_author || 'global'), 
         lines: [
             
         ]
@@ -408,13 +469,19 @@ function fillQuote(parent, currentObj, resultObj) {
         else if (child.wzElement == 'page') {
             quoteObj.page = child.wzName;
         }
+        else if (child.wzElement == 'kindleloc') {
+            quoteObj.kindleloc = child.wzName;
+        }
+        else if (child.wzElement == 'kindlepage') {
+            quoteObj.kindlepage = child.wzName;
+        }
         else if (child.wzElement == 'book') {
             quoteObj.book = child.wzName;
             functors.book(child, resultObj);
         }
-        else if (child.wzElement == 'chapter') {
-            quoteObj.chapter = child.wzName;
-            functors.chapter(child, resultObj);
+        else if (child.wzElement == 'article') {
+            quoteObj.article = child.wzName;
+            functors.article(child, resultObj);
         }
         else if (child.wzElement == 'comment') {
             quoteObj.comment = functors.comment(child, resultObj);
@@ -459,7 +526,7 @@ function assertFieldObj(fieldId, kind, resultObj) {
     resultObj[kind+'s'].push(fieldObj);
 }
 functors.approach = function(parent, resultObj) {
-    var approachObj = createConcept(parent.wzName, "approach");
+    var approachObj = createConcept(parent.wzName, resultObj, "approach");
     var newitems = fillConcept(parent, resultObj, approachObj);
     resultObj.approaches.push(approachObj);
     var i, i_items=newitems, i_len=newitems.length, child;
@@ -492,8 +559,37 @@ functors.book = function(parent, resultObj) {
         else if (child.wzElement == "edition") {
             bookObj.edition = child.wzName;
         }
+        else if (child.wzElement == "written") {
+            bookObj.written = child.wzName;
+        }
+        else if (child.wzElement == "index") {
+            bookObj.index = [];
+            var j, j_items=child.items, j_len=child.items.length, c2;
+            for (j=0; j<j_len; j++) {
+                c2 = child.items[j];
+                if (c2.wzElement == "text") {
+                    bookObj.index.push(c2.wzName);
+                }
+            }
+        }
+        else if (child.wzElement == "backcover") {
+            var backcoverObj = {
+                contents: [
+                    
+                ]
+            };
+            var j, j_items=child.items, j_len=child.items.length, c2;
+            for (j=0; j<j_len; j++) {
+                c2 = child.items[j];
+                fillContents(c2, backcoverObj);
+            }
+            bookObj.backcover = backcoverObj;
+        }
         else if (child.wzElement == "author") {
             bookObj.authors.push(child.wzName);
+        }
+        else if (child.wzElement == "source") {
+            functors.source(child, bookObj);
         }
         else if (!fillContents(child, bookObj)) {
         }
@@ -509,8 +605,8 @@ functors.book = function(parent, resultObj) {
     }
     return bookObj;
 };
-functors.chapter = function(parent, resultObj) {
-    var chapterObj = {
+functors.article = function(parent, resultObj) {
+    var articleObj = {
         id: parent.wzName, 
         title: null, 
         authors: [
@@ -528,34 +624,109 @@ functors.chapter = function(parent, resultObj) {
     for (i=0; i<i_len; i++) {
         child = parent.items[i];
         if (child.wzElement == "title") {
-            chapterObj.title = child.wzName;
+            articleObj.title = child.wzName;
         }
         else if (child.wzElement == "edition") {
-            chapterObj.edition = child.wzName;
+            articleObj.edition = child.wzName;
         }
         else if (child.wzElement == "author") {
-            chapterObj.authors.push(child.wzName);
+            articleObj.authors.push(child.wzName);
         }
         else if (child.wzElement == "book") {
-            chapterObj.book = child.wzName;
+            articleObj.book = child.wzName;
             functors.book(child, resultObj);
         }
         else if (child.wzElement == 'page') {
-            chapterObj.page = child.wzName;
+            articleObj.page = child.wzName;
         }
-        else if (!fillContents(child, chapterObj)) {
+        else if (child.wzElement == 'kindle-page') {
+            articleObj.kindlepage = child.wzName;
+        }
+        else if (child.wzElement == 'kindle-loc') {
+            articleObj.kindleloc = child.wzName;
+        }
+        else if (!fillContents(child, articleObj)) {
         }
         else {
             newitems.push(child);
         }
     }
-    resultObj.chapters.push(chapterObj);
+    resultObj.articles.push(articleObj);
     var i, i_items=newitems, i_len=newitems.length, child;
     for (i=0; i<i_len; i++) {
         child = newitems[i];
         doitem(child, resultObj);
     }
-    return chapterObj;
+    return articleObj;
+};
+functors.source = function(parent, resultObj) {
+    var sourceObj = {
+        id: parent.wzName, 
+        contents: [
+            
+        ]
+    };
+    var i, i_items=parent.items, i_len=parent.items.length, child;
+    for (i=0; i<i_len; i++) {
+        child = parent.items[i];
+        if (child.wzElement == "title") {
+            sourceObj.title = child.wzName;
+        }
+        else if (child.wzElement == "url") {
+            sourceObj.url = child.wzName;
+        }
+    }
+    resultObj.source = sourceObj;
+};
+functors.title = function(field, parentObj) {
+    var titleObj = {
+        text: null, 
+        langs: [
+            
+        ]
+    };
+    titleObj.text = field.wzName;
+    var i, i_items=field.items, i_len=field.items.length, child;
+    for (i=0; i<i_len; i++) {
+        child = field.items[i];
+        if (['en','de','fr','sp'].indexOf(child.wzElement) > -1) {
+            titleObj.langs.push({
+                lang: child.wzElement, 
+                text: child.wzName
+            });
+        }
+    }
+    if (titleObj.langs.length == 0) {
+        delete titleObj.langs
+    }
+    parentObj.title = titleObj;
+};
+functors.alias = function(field, parentObj) {
+    if (!parentObj || !parentObj.aliases) {
+        console.log('wrong alias position', field.wzName);
+        return ;
+    }
+    var aliasObj = {
+        text: null, 
+        langs: [
+            
+        ]
+    };
+    aliasObj.text = field.wzName;
+    var i, i_items=field.items, i_len=field.items.length, child;
+    for (i=0; i<i_len; i++) {
+        child = field.items[i];
+        if (['en','de','fr','sp'].indexOf(child.wzElement) > -1) {
+            aliasObj.langs.push({
+                lang: child.wzElement, 
+                text: child.wzName
+            });
+        }
+    }
+    if (aliasObj.langs.length == 0) {
+        delete aliasObj.langs
+    }
+    parentObj.aliases.push(aliasObj);
 };
 /**
      params

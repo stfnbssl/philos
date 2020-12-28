@@ -1,6 +1,6 @@
-# wizzi-plugin-philos
+# wizzi.plugin.philos
 
-Wizzi plugin package for Philosophy applications
+Wizzi plugin package for database of philosophical items
 
 ## Features
 ### Implemented Wizzi models
@@ -15,7 +15,7 @@ Wizzi plugin package for Philosophy applications
 </tr>
 <tr>
 <td>
-<a href https://github.com/stfnbssl/wizzi-plugin-philos/tree/master/.wizzi/ittf/lib/wizzi/schemas/philos.wfschema.ittf>philos</a><td></td>
+<a href https://github.com/stfnbssl/wizzi.plugin.philos/tree/master/.wizzi/ittf/lib/wizzi/schemas/philos.wfschema.ittf>philos</a><td></td>
 <td>
 no<td>
 
@@ -45,7 +45,7 @@ no<td>
 <p>You can find a few samples in the /examples folder, but you can find more in the <a href="https://github.com/wizzifactory/wizzi/tree/master/packages/wizzi-demo/.wizzi/ittf/examples/advanced/plugins">demo package</a>.</p>
 
 ## Source and generation
-wizzi-plugin-philos is generated using the Wizzi factory ver 0.7
+wizzi.plugin.philos is generated using the Wizzi factory ver 0.7
 
 ## The Wizzi Factory
 

@@ -1,0 +1,5 @@
+$group
+
+    $include progetto/index
+    $include affetto
+    $include amnesia-infantile

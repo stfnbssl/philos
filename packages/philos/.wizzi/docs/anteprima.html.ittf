@@ -2,6 +2,7 @@ layouts/muiPage( theme )
 
   $append bodyscripts
     scripts/loadjson()
+    js ${site.jsonURL}//first.philos.extended.jsonvar.js
 
   $append imports
     const drawerWidth = 240
@@ -104,19 +105,26 @@ layouts/muiPage( theme )
               @ selectedView name
 
   did-mount
-    var that = this
-    _ loadJSON
-        @ "first.philos.extended.json"
-        function
-            param response 
-            # Do Something with the response e.g.
-            var jsonresponse = JSON.parse(response)
-            # log 'from did mount', jsonresponse
-            _ that.setState
-                {
-                    @ jsonData jsonresponse
-                    @ isLoading false
-                    @ error null
+    if false
+        _ this.setState
+            {
+                @ jsonData jsonData
+                @ isLoading false
+                @ error null
+    else
+        var that = this
+        _ loadJSON
+            @ "${site.jsonURL}/first.philos.extended.json"
+            function
+                param response 
+                # Do Something with the response e.g.
+                var jsonresponse = JSON.parse(response)
+                # log 'from did mount', jsonresponse
+                _ that.setState
+                    {
+                        @ jsonData jsonresponse
+                        @ isLoading false
+                        @ error null
 
   render
     prop classes

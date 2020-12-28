@@ -3,7 +3,8 @@ $group
     namespace bax
 
         concept linguaggio
-            + Il linguaggio è un grumo di struggimenti corporei che
+            + Ad uno sguardo disincantato il linguaggio appare come 
+                \b un grumo di struggimenti corporei che
                 \b coalesce attorno a immagini acustiche, grafiche o tattili,
                 \b che assumono ruoli nella forma di regole sintattiche,
                 \b e si organizzano in forma di testo,

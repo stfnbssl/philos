@@ -1,2 +1,6 @@
 philos first
-    $include first/index
+    $$ $include first/index
+    $$ $include synopsis/psicoanalisi/lacan/resources/seminari/seminario-I
+    $$ $include synopsis/psicoanalisi/lacan/resources/index
+    $include synopsis/psicoanalisi/freud/index
+    $$ $include test/index

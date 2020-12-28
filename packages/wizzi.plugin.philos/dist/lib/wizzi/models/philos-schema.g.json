@@ -138,6 +138,36 @@
           ]
         },
         {
+          "name": "bax",
+          "tags": [
+            "bax"
+          ]
+        },
+        {
+          "name": "de",
+          "tags": [
+            "de"
+          ]
+        },
+        {
+          "name": "en",
+          "tags": [
+            "en"
+          ]
+        },
+        {
+          "name": "sp",
+          "tags": [
+            "sp"
+          ]
+        },
+        {
+          "name": "fr",
+          "tags": [
+            "fr"
+          ]
+        },
+        {
           "name": "author",
           "tags": [
             "author"
@@ -294,9 +324,21 @@
           ]
         },
         {
+          "name": "namespace",
+          "tags": [
+            "namespace"
+          ]
+        },
+        {
           "name": "concept",
           "tags": [
             "concept"
+          ]
+        },
+        {
+          "name": "relatedconcept",
+          "tags": [
+            "r-concept"
           ]
         },
         {
@@ -336,6 +378,18 @@
           ]
         },
         {
+          "name": "kindleloc",
+          "tags": [
+            "kindle-loc"
+          ]
+        },
+        {
+          "name": "kindlepage",
+          "tags": [
+            "kindle-page"
+          ]
+        },
+        {
           "name": "title",
           "tags": [
             "title"
@@ -345,6 +399,12 @@
           "name": "editor",
           "tags": [
             "editor"
+          ]
+        },
+        {
+          "name": "written",
+          "tags": [
+            "written"
           ]
         },
         {
@@ -366,27 +426,21 @@
           ]
         },
         {
-          "name": "chapter",
+          "name": "backcover",
           "tags": [
-            "chapter"
+            "back-cover"
+          ]
+        },
+        {
+          "name": "index",
+          "tags": [
+            "index"
           ]
         },
         {
           "name": "article",
           "tags": [
             "article"
-          ]
-        },
-        {
-          "name": "webpage",
-          "tags": [
-            "webpage"
-          ]
-        },
-        {
-          "name": "thesi",
-          "tags": [
-            "thesi"
           ]
         },
         {
@@ -1038,6 +1092,201 @@
       "isRoot": false,
       "tags": [
         "exports"
+      ],
+      "flags": "",
+      "attributes": [
+        {
+          "name": "value",
+          "type": "string",
+          "tags": [
+            "value"
+          ],
+          "flags": "",
+          "inheritedFrom": "item",
+          "restricts": [],
+          "comments": []
+        }
+      ],
+      "relations": [
+        {
+          "name": "item",
+          "role": "items",
+          "tags": [
+            "item"
+          ],
+          "cardinality": "one-to-many",
+          "flags": "",
+          "inheritedFrom": "item",
+          "comments": []
+        }
+      ],
+      "derived": [],
+      "restricts": [],
+      "methods": [],
+      "comments": []
+    },
+    {
+      "name": "bax",
+      "super": "item",
+      "isRoot": false,
+      "tags": [
+        "bax"
+      ],
+      "flags": "",
+      "attributes": [
+        {
+          "name": "value",
+          "type": "string",
+          "tags": [
+            "value"
+          ],
+          "flags": "",
+          "inheritedFrom": "item",
+          "restricts": [],
+          "comments": []
+        }
+      ],
+      "relations": [
+        {
+          "name": "item",
+          "role": "items",
+          "tags": [
+            "item"
+          ],
+          "cardinality": "one-to-many",
+          "flags": "",
+          "inheritedFrom": "item",
+          "comments": []
+        }
+      ],
+      "derived": [],
+      "restricts": [],
+      "methods": [],
+      "comments": []
+    },
+    {
+      "name": "de",
+      "super": "item",
+      "isRoot": false,
+      "tags": [
+        "de"
+      ],
+      "flags": "",
+      "attributes": [
+        {
+          "name": "value",
+          "type": "string",
+          "tags": [
+            "value"
+          ],
+          "flags": "",
+          "inheritedFrom": "item",
+          "restricts": [],
+          "comments": []
+        }
+      ],
+      "relations": [
+        {
+          "name": "item",
+          "role": "items",
+          "tags": [
+            "item"
+          ],
+          "cardinality": "one-to-many",
+          "flags": "",
+          "inheritedFrom": "item",
+          "comments": []
+        }
+      ],
+      "derived": [],
+      "restricts": [],
+      "methods": [],
+      "comments": []
+    },
+    {
+      "name": "en",
+      "super": "item",
+      "isRoot": false,
+      "tags": [
+        "en"
+      ],
+      "flags": "",
+      "attributes": [
+        {
+          "name": "value",
+          "type": "string",
+          "tags": [
+            "value"
+          ],
+          "flags": "",
+          "inheritedFrom": "item",
+          "restricts": [],
+          "comments": []
+        }
+      ],
+      "relations": [
+        {
+          "name": "item",
+          "role": "items",
+          "tags": [
+            "item"
+          ],
+          "cardinality": "one-to-many",
+          "flags": "",
+          "inheritedFrom": "item",
+          "comments": []
+        }
+      ],
+      "derived": [],
+      "restricts": [],
+      "methods": [],
+      "comments": []
+    },
+    {
+      "name": "sp",
+      "super": "item",
+      "isRoot": false,
+      "tags": [
+        "sp"
+      ],
+      "flags": "",
+      "attributes": [
+        {
+          "name": "value",
+          "type": "string",
+          "tags": [
+            "value"
+          ],
+          "flags": "",
+          "inheritedFrom": "item",
+          "restricts": [],
+          "comments": []
+        }
+      ],
+      "relations": [
+        {
+          "name": "item",
+          "role": "items",
+          "tags": [
+            "item"
+          ],
+          "cardinality": "one-to-many",
+          "flags": "",
+          "inheritedFrom": "item",
+          "comments": []
+        }
+      ],
+      "derived": [],
+      "restricts": [],
+      "methods": [],
+      "comments": []
+    },
+    {
+      "name": "fr",
+      "super": "item",
+      "isRoot": false,
+      "tags": [
+        "fr"
       ],
       "flags": "",
       "attributes": [
@@ -2086,11 +2335,89 @@
       "comments": []
     },
     {
+      "name": "namespace",
+      "super": "item",
+      "isRoot": false,
+      "tags": [
+        "namespace"
+      ],
+      "flags": "",
+      "attributes": [
+        {
+          "name": "value",
+          "type": "string",
+          "tags": [
+            "value"
+          ],
+          "flags": "",
+          "inheritedFrom": "item",
+          "restricts": [],
+          "comments": []
+        }
+      ],
+      "relations": [
+        {
+          "name": "item",
+          "role": "items",
+          "tags": [
+            "item"
+          ],
+          "cardinality": "one-to-many",
+          "flags": "",
+          "inheritedFrom": "item",
+          "comments": []
+        }
+      ],
+      "derived": [],
+      "restricts": [],
+      "methods": [],
+      "comments": []
+    },
+    {
       "name": "concept",
       "super": "item",
       "isRoot": false,
       "tags": [
         "concept"
+      ],
+      "flags": "",
+      "attributes": [
+        {
+          "name": "value",
+          "type": "string",
+          "tags": [
+            "value"
+          ],
+          "flags": "",
+          "inheritedFrom": "item",
+          "restricts": [],
+          "comments": []
+        }
+      ],
+      "relations": [
+        {
+          "name": "item",
+          "role": "items",
+          "tags": [
+            "item"
+          ],
+          "cardinality": "one-to-many",
+          "flags": "",
+          "inheritedFrom": "item",
+          "comments": []
+        }
+      ],
+      "derived": [],
+      "restricts": [],
+      "methods": [],
+      "comments": []
+    },
+    {
+      "name": "relatedconcept",
+      "super": "item",
+      "isRoot": false,
+      "tags": [
+        "r-concept"
       ],
       "flags": "",
       "attributes": [
@@ -2359,6 +2686,84 @@
       "comments": []
     },
     {
+      "name": "kindleloc",
+      "super": "item",
+      "isRoot": false,
+      "tags": [
+        "kindle-loc"
+      ],
+      "flags": "",
+      "attributes": [
+        {
+          "name": "value",
+          "type": "string",
+          "tags": [
+            "value"
+          ],
+          "flags": "",
+          "inheritedFrom": "item",
+          "restricts": [],
+          "comments": []
+        }
+      ],
+      "relations": [
+        {
+          "name": "item",
+          "role": "items",
+          "tags": [
+            "item"
+          ],
+          "cardinality": "one-to-many",
+          "flags": "",
+          "inheritedFrom": "item",
+          "comments": []
+        }
+      ],
+      "derived": [],
+      "restricts": [],
+      "methods": [],
+      "comments": []
+    },
+    {
+      "name": "kindlepage",
+      "super": "item",
+      "isRoot": false,
+      "tags": [
+        "kindle-page"
+      ],
+      "flags": "",
+      "attributes": [
+        {
+          "name": "value",
+          "type": "string",
+          "tags": [
+            "value"
+          ],
+          "flags": "",
+          "inheritedFrom": "item",
+          "restricts": [],
+          "comments": []
+        }
+      ],
+      "relations": [
+        {
+          "name": "item",
+          "role": "items",
+          "tags": [
+            "item"
+          ],
+          "cardinality": "one-to-many",
+          "flags": "",
+          "inheritedFrom": "item",
+          "comments": []
+        }
+      ],
+      "derived": [],
+      "restricts": [],
+      "methods": [],
+      "comments": []
+    },
+    {
       "name": "title",
       "super": "item",
       "isRoot": false,
@@ -2414,6 +2819,45 @@
       "isRoot": false,
       "tags": [
         "editor"
+      ],
+      "flags": "",
+      "attributes": [
+        {
+          "name": "value",
+          "type": "string",
+          "tags": [
+            "value"
+          ],
+          "flags": "",
+          "inheritedFrom": "item",
+          "restricts": [],
+          "comments": []
+        }
+      ],
+      "relations": [
+        {
+          "name": "item",
+          "role": "items",
+          "tags": [
+            "item"
+          ],
+          "cardinality": "one-to-many",
+          "flags": "",
+          "inheritedFrom": "item",
+          "comments": []
+        }
+      ],
+      "derived": [],
+      "restricts": [],
+      "methods": [],
+      "comments": []
+    },
+    {
+      "name": "written",
+      "super": "item",
+      "isRoot": false,
+      "tags": [
+        "written"
       ],
       "flags": "",
       "attributes": [
@@ -2576,11 +3020,50 @@
       "comments": []
     },
     {
-      "name": "chapter",
+      "name": "backcover",
       "super": "item",
       "isRoot": false,
       "tags": [
-        "chapter"
+        "back-cover"
+      ],
+      "flags": "",
+      "attributes": [
+        {
+          "name": "value",
+          "type": "string",
+          "tags": [
+            "value"
+          ],
+          "flags": "",
+          "inheritedFrom": "item",
+          "restricts": [],
+          "comments": []
+        }
+      ],
+      "relations": [
+        {
+          "name": "item",
+          "role": "items",
+          "tags": [
+            "item"
+          ],
+          "cardinality": "one-to-many",
+          "flags": "",
+          "inheritedFrom": "item",
+          "comments": []
+        }
+      ],
+      "derived": [],
+      "restricts": [],
+      "methods": [],
+      "comments": []
+    },
+    {
+      "name": "index",
+      "super": "item",
+      "isRoot": false,
+      "tags": [
+        "index"
       ],
       "flags": "",
       "attributes": [
@@ -2620,84 +3103,6 @@
       "isRoot": false,
       "tags": [
         "article"
-      ],
-      "flags": "",
-      "attributes": [
-        {
-          "name": "value",
-          "type": "string",
-          "tags": [
-            "value"
-          ],
-          "flags": "",
-          "inheritedFrom": "item",
-          "restricts": [],
-          "comments": []
-        }
-      ],
-      "relations": [
-        {
-          "name": "item",
-          "role": "items",
-          "tags": [
-            "item"
-          ],
-          "cardinality": "one-to-many",
-          "flags": "",
-          "inheritedFrom": "item",
-          "comments": []
-        }
-      ],
-      "derived": [],
-      "restricts": [],
-      "methods": [],
-      "comments": []
-    },
-    {
-      "name": "webpage",
-      "super": "item",
-      "isRoot": false,
-      "tags": [
-        "webpage"
-      ],
-      "flags": "",
-      "attributes": [
-        {
-          "name": "value",
-          "type": "string",
-          "tags": [
-            "value"
-          ],
-          "flags": "",
-          "inheritedFrom": "item",
-          "restricts": [],
-          "comments": []
-        }
-      ],
-      "relations": [
-        {
-          "name": "item",
-          "role": "items",
-          "tags": [
-            "item"
-          ],
-          "cardinality": "one-to-many",
-          "flags": "",
-          "inheritedFrom": "item",
-          "comments": []
-        }
-      ],
-      "derived": [],
-      "restricts": [],
-      "methods": [],
-      "comments": []
-    },
-    {
-      "name": "thesi",
-      "super": "item",
-      "isRoot": false,
-      "tags": [
-        "thesi"
       ],
       "flags": "",
       "attributes": [

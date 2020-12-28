@@ -1,6 +1,6 @@
 $group
 
-    namespace freud
+    namespace freud.progetto
 
         concept terminazione-nervosa
             + I neuroni φ non terminano in modo libero alla periferia,

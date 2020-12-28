@@ -1,6 +1,6 @@
 $group
 
-    namespace freud
+    namespace freud.progetto
 
         concept esame-di-realtà
             + Sia l’investimento di desiderio, sia la liberazione di dispiacere, 

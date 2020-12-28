@@ -1,0 +1,23 @@
+$group
+    
+    namespace bax
+        author Bax
+
+        concept alpha
+            title Alpha
+
+            + begin text alpha is ..
+
+            concept one
+                title Alpha One
+
+            quote
+                + quote between one and two
+
+            concept two
+                title Alpha Two
+
+            + end text alpha is
+
+    concept beta
+

@@ -1,5 +1,5 @@
 $group
 
-    namespace freud
+    namespace freud.progetto
 
         concept quantità-di-stimolo

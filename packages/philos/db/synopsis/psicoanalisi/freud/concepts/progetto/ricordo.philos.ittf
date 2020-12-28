@@ -1,6 +1,6 @@
 $group
 
-    namespace freud
+    namespace freud.progetto
 
         concept ricordo
             + Un ricordo quando investito può sviluppare piacere o dispiacere.

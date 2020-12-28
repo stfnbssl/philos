@@ -1,6 +1,7 @@
 {
-    "baseURL": "http://127.0.0.1:5500/philos",
-    "assetsURL": "http://127.0.0.1:5500/philos/assets",
+    "baseURL": "..",
+    "assetsURL": "../assets",
+    "jsonURL": "../json",
     "languageCode": "it-it",
     "Params": {
         "name": "PhilosResources",

@@ -1,6 +1,6 @@
 $group
 
-    namespace freud
+    namespace freud.progetto
 
         concept periodo
             + A rigore, né i “processi” del mondo esterno, né gli “stimoli” che, 

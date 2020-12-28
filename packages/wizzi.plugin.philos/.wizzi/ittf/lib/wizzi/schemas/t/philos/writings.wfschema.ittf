@@ -2,18 +2,23 @@ $group
     e text : item
         tag +
     e page : item
+    e kindleloc : item
+        tag kindle-loc
+    e kindlepage : item
+        tag kindle-page
     e title : item
         a original
     e editor : item
+    e written : item
     e coeditor : item
         tag co-editor
     e edition : item
         a year
     e book : item
-    e chapter : item
+    e backcover : item
+        tag back-cover
+    e index : item
     e article : item
-    e webpage : item
-    e thesi : item
     e letter : item
     e phrase : item
     e review : item
