@@ -3,5 +3,6 @@ $group
     namespace freud.progetto
 
         concept principio-inerzia
-            alias principio inerzia neuronica
+            title Principio d'inerzia
+            alias Principio di inerzia neuronica
             + Prima formulazione del principio di costanza (1920).

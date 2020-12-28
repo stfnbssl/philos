@@ -3,5 +3,7 @@ $group
     namespace freud.progetto
 
         concept segno-di-scarica
+            title Segno di scarica
 
         concept segno-di-scarica-verbale
+            title Segno di scarica verbale

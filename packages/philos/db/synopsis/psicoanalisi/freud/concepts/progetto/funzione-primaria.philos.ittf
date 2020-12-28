@@ -3,6 +3,8 @@ $group
     namespace freud.progetto
 
         concept funzione-primaria
+            title Funzione primaria
+            
             + Un sistema nervoso primario si serve della Qἠ acquisita
                 \b per rimetterla lungo la via che lo collega ai meccanismi muscolari
                 \b mantenendosi in tal modo privo di stimoli.

@@ -236,7 +236,7 @@
             return  (
                     <div>
                         <h2>
-                        Fields
+                        Campi
                         </h2>
                     
                         <Paper style={{maxHeight: 370, overflow: 'auto'}}>
@@ -287,7 +287,7 @@
             return  (
                     <div>
                         <h2>
-                        Schools
+                        Scuole
                         </h2>
                     
                         <Paper style={{maxHeight: 370, overflow: 'auto'}}>
@@ -338,7 +338,7 @@
             return  (
                     <div>
                         <h2>
-                        Concepts
+                        Teorie
                         </h2>
                     
                         <Paper style={{maxHeight: 370, overflow: 'auto'}}>
@@ -384,63 +384,140 @@
                 )
             ;
         }
-        function ConceptList(props) {
-            var {jsonData} = props;
+        class ConceptList extends React.Component {
+            state = {
+                status: 'list', 
+                selectedItem: null
+            };
+            handleConceptOpen = (ev, conceptItem) => {
+                console.log('handleConceptOpen.id', conceptItem.id);
+                console.log('handleConceptOpen.ev', ev);
+                this.setState({
+                    status: 'concept', 
+                    selectedItem: conceptItem
+                });
+            }
+            handleConceptClose = () => {
+                this.setState({
+                    status: 'list', 
+                    selectedItem: null
+                });
+            }
+            getConcept = (id) => {
+                jsonData.concepts.find((item) => {
+                    return item.id == id;
+                });
+            }
+            render() {
+                const {
+                    jsonData
+                } = this.props;
+                const {
+                    status, 
+                    selectedItem
+                } = this.state;
+                return  (
+                        <div>
+                        {
+                            status == 'list' &&  (
+                                <div>
+                                    <h2>
+                                    Concetti
+                                    </h2>
+                                
+                                    <Paper style={{maxHeight: '90%', overflow: 'auto'}}>
+                                    {
+                                        jsonData.concepts.sort(compareById).map((item) => {
+                                            return  (
+                                                    <ConceptListItem key={item.id} item={item} onClick={this.handleConceptOpen}>
+                                                    </ConceptListItem>
+                                                )
+                                            ;
+                                        })
+                                    }</Paper>
+                                
+                                </div>
+                            )
+                            
+                        }{
+                            status == 'concept' &&  (
+                                <div>
+                                    <button onClick={() =>
+                                        this.handleConceptClose()}>
+                                    {'<--'}
+                                    </button>
+                                
+                                    <h3>
+                                    Concetto
+                                    </h3>
+                                
+                                    <Concept item={selectedItem}>
+                                    </Concept>
+                                
+                                </div>
+                            )
+                            
+                        }</div>
+                    )
+                ;
+            }
+        }
+        function ConceptListItem(props) {
+            var {item, onClick} = props;
+            var {id, name, title} = item;
+            title = (title || name);
             return  (
-                    <div>
-                        <h2>
-                        Concepts
-                        </h2>
-                    
-                        <Paper style={{maxHeight: 370, overflow: 'auto'}}>
-                            <Table>
-                            {
-                                jsonData.concepts.sort(compareById).map(function(item) {
-                                    return  (
-                                            <TableRow button key={item.id}>
-                                                <TableCell>
-                                                    <h3>
-                                                    {item.id}
-                                                    </h3>
-                                                
-                                                    <ContentText item={item}>
-                                                    </ContentText>
-                                                
-                                                </TableCell>
-                                            
-                                            </TableRow>
-                                        )
-                                    ;
-                                })
-                            }</Table>
-                        
-                        </Paper>
-                    
+                    <div onClick={(event) =>
+                        onClick(event, item)}>
+                    {id}
                     </div>
                 )
             ;
         }
         function Concept(props) {
             var {item} = props;
+            var {id, name, title} = item;
+            title = (title || name);
             return  (
                     <div>
-                        <h3>
-                        {item.id}
-                        </h3>
+                        <h1>
+                        {title.text}
+                        </h1>
                     
-                        <ContentText item={item}>
+                        <h5>
+                        id: {id}
+                        </h5>
+                    
+                    {
+                        item.aliases && item.aliases.length > 0 &&  (
+                            <Aliases item={item}>
+                            </Aliases>
+                        )
+                        
+                    }<ContentText item={item}>
                         </ContentText>
                     
                     </div>
                 )
             ;
         }
+        function Aliases(props) {
+            var {item} = props;
+            return item.aliases.map((item) => {
+                    return  (
+                            <h5>
+                            alias {item.text}
+                            </h5>
+                        )
+                    ;
+                });
+        }
         function AuthorList(props) {
             var {jsonData} = props;
             return  (
                     <div>
                         <h2>
-                        Authors
+                        Autori
                         </h2>
                     
                         <Paper style={{maxHeight: 370, overflow: 'auto'}}>
@@ -539,7 +616,7 @@
             return  (
                     <div>
                         <h2>
-                        Groups
+                        Gruppi
                         </h2>
                     
                         <Paper style={{maxHeight: 370, overflow: 'auto'}}>
@@ -590,7 +667,7 @@
             return  (
                     <div>
                         <h2>
-                        Places
+                        Luoghi
                         </h2>
                     
                         <Paper style={{maxHeight: 370, overflow: 'auto'}}>
@@ -641,7 +718,7 @@
             return  (
                     <div>
                         <h2>
-                        Publications
+                        Testi
                         </h2>
                     
                         <Paper style={{maxHeight: 370, overflow: 'auto'}}>
@@ -821,6 +898,7 @@
                     open, 
                     selectedView
                 } = this.state;
+                const dbTitle = 'Freud';
                 return  (
                         <div className={classes.root}>
                             <CssBaseline>
@@ -837,7 +915,7 @@
                                     </IconButton>
                                 
                                     <Typography variant="h6" color="inherit" noWrap>
-                                    Persistent drawer</Typography>
+                                    {dbTitle}</Typography>
                                 
                                 </Toolbar>
                             
@@ -847,6 +925,10 @@
                                 paper: classes.drawerPaper
                             }}>
                                 <div className={classes.drawerHeader}>
+                                    <span>
+                                    Concept Db
+                                    </span>
+                                
                                     <IconButton onClick={this.handleDrawerClose}>
                                     {
                                         theme.direction === 'ltr' ?  (
@@ -868,14 +950,8 @@
                                 <List>
                                 {
                                     [
-                                        'Fields', 
-                                        'Schools', 
-                                        'Theories/Laws', 
-                                        'Concepts', 
-                                        'Authors', 
-                                        'Groups', 
-                                        'Places', 
-                                        'Publications'
+                                        'Panoramica', 
+                                        'Schema'
                                     ].map((text, index) =>  (
                                             <ListItem button key={text} onClick={(event) =>
                                                 this.handleSelectView(event, text)}>
@@ -906,9 +982,14 @@
                                 <List>
                                 {
                                     [
-                                        'Synopsis', 
-                                        'Schema', 
-                                        'Overview'
+                                        'Campi', 
+                                        'Scuole', 
+                                        'Teorie', 
+                                        'Concetti', 
+                                        'Autori', 
+                                        'Gruppi', 
+                                        'Luoghi', 
+                                        'Testi'
                                     ].map((text, index) =>  (
                                             <ListItem button key={text} onClick={(event) =>
                                                 this.handleSelectView(event, text)}>
@@ -941,61 +1022,64 @@
                                 <div className={classes.drawerHeader}>
                                 </div>
                             
-                                <h2>
-                                {selectedView}
-                                </h2>
-                            
                             {
-                                selectedView == 'Synopsis' &&  (
+                                selectedView == 'Panoramica' &&  (
                                     <p>
-                                    synopsis
+                                    Panoramica
                                     </p>
                                 )
                                 
                             }{
-                                selectedView == 'Fields' && isLoading == false &&  (
+                                selectedView == 'Schema' &&  (
+                                    <p>
+                                    Schema
+                                    </p>
+                                )
+                                
+                            }{
+                                selectedView == 'Campi' && isLoading == false &&  (
                                     <FieldList jsonData={jsonData}>
                                     </FieldList>
                                 )
                                 
                             }{
-                                selectedView == 'Schools' && isLoading == false &&  (
+                                selectedView == 'Scuole' && isLoading == false &&  (
                                     <SchoolList jsonData={jsonData}>
                                     </SchoolList>
                                 )
                                 
                             }{
-                                selectedView == 'Theories/Laws' && isLoading == false &&  (
+                                selectedView == 'Teorie' && isLoading == false &&  (
                                     <TheoryList jsonData={jsonData}>
                                     </TheoryList>
                                 )
                                 
                             }{
-                                selectedView == 'Concepts' && isLoading == false &&  (
+                                selectedView == 'Concetti' && isLoading == false &&  (
                                     <ConceptList jsonData={jsonData}>
                                     </ConceptList>
                                 )
                                 
                             }{
-                                selectedView == 'Authors' && isLoading == false &&  (
+                                selectedView == 'Autori' && isLoading == false &&  (
                                     <AuthorList jsonData={jsonData}>
                                     </AuthorList>
                                 )
                                 
                             }{
-                                selectedView == 'Groups' && isLoading == false &&  (
+                                selectedView == 'Gruppi' && isLoading == false &&  (
                                     <GroupList jsonData={jsonData}>
                                     </GroupList>
                                 )
                                 
                             }{
-                                selectedView == 'Places' && isLoading == false &&  (
+                                selectedView == 'Luoghi' && isLoading == false &&  (
                                     <PlaceList jsonData={jsonData}>
                                     </PlaceList>
                                 )
                                 
                             }{
-                                selectedView == 'Publications' && isLoading == false &&  (
+                                selectedView == 'Testi' && isLoading == false &&  (
                                     <PublicationList jsonData={jsonData}>
                                     </PublicationList>
                                 )

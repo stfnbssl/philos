@@ -1,5 +1,10 @@
 $group
 
+    book forrester.il-linguaggio-e-le-origini-della-psicoanalisi
+        author Forrester
+        title Il linguaggio e le origini della psicoanalisi
+        edition Il Mulino, Bologna, 1984
+
     book freud.l-interpretazione-dei-sogni
         title L'interpretazione dei sogni
         author Freud
@@ -44,3 +49,8 @@ $group
     article pagliardini.l-oggetto-sguardo-nell-insegnamento-di-lacan
         author Pagliardini
         url file:///C:/Users/Stefano%20Bassoli/Downloads/4535-Articolo-16180-1-10-20141224.pdf
+
+    article scalzone-1-gennaio-1896-una-lettera-di-Freud-a-Fliess
+        author Scalzone
+        title 1 Gennaio 1896: una lettera di Freud a Fliess
+        url http://www.psychomedia.it/pm/indther/psan/scalz1.htm        

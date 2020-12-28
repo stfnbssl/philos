@@ -1,34 +1,110 @@
 $group
 
-    function ConceptList
-        param props
-        var {jsonData} = props
-        return
-            div
-                < h2 Concepts
-                < Paper
-                    @ style {{maxHeight: 370, overflow: 'auto'}}
-                    < Table 
-                        {
-                            _ jsonData.concepts.sort(compareById).map
-                                function
-                                    param item
-                                    return
-                                        < TableRow 
-                                            @ button
-                                            @ key {item.id}
-                                            < TableCell
-                                                h3 {item.id}
-                                                < ContentText
-                                                    @ item {item}
+    react ConceptList
+        
+        state
+            @ status 'list'
+            @ selectedItem null
 
+        => handleConceptOpen
+            param ev
+            param conceptItem
+            log 'handleConceptOpen.id', conceptItem.id
+            log 'handleConceptOpen.ev', ev
+            _ this.setState
+                { 
+                    @ status 'concept'
+                    @ selectedItem conceptItem
+
+        => handleConceptClose
+            _ this.setState
+                { 
+                    @ status 'list'
+                    @ selectedItem null
+
+        => getConcept
+            param id
+            _ jsonData.concepts.find
+                =>
+                    param item
+                    return item.id == id
+
+        render
+            prop jsonData
+            const 
+                { 
+                    @ status
+                    @ selectedItem
+                = this.state
+
+            return
+                div
+                    {
+                        &&
+                            + status == 'list'
+                            div
+                                < h2 Concetti
+                                < Paper
+                                    @ style {{maxHeight: '90%', overflow: 'auto'}}
+                                    {
+                                        _ jsonData.concepts.sort(compareById).map
+                                            =>
+                                                param item
+                                                return
+                                                    < ConceptListItem
+                                                        @ key {item.id}
+                                                        @ item {item}
+                                                        @ onClick {this.handleConceptOpen}
+
+                    {
+                        &&
+                            + status == 'concept'
+                            div
+                                button {'<--'}
+                                    @ onClick
+                                        =>
+                                            _ this.handleConceptClose()
+                                < h3 Concetto
+                                < Concept
+                                    @ item {selectedItem}
     
+    function ConceptListItem
+        param props
+        var {item, onClick} = props
+        var {id, name, title} = item
+        set title = (title || name)
+        return
+            < div {id}
+                @ onClick
+                    =>
+                        param event
+                        _ onClick(event, item)
+
     function Concept
         param props
         var {item} = props
+        var {id, name, title} = item
+        set title = (title || name)
         return
             < div 
-                < h3 {item.id}
+                < h1 {title.text}
+                < h5 id: {id}
+                {
+                    &&
+                        + item.aliases && item.aliases.length > 0
+                        < Aliases
+                            @ item {item}
                 < ContentText
-                    @ item {item}
-        
+                    @ item {item}     
+
+    function Aliases
+        param props
+        var {item} = props
+        return
+            _ item.aliases.map
+                =>
+                    param item
+                    return
+                        < h5 alias {item.text}
+
+

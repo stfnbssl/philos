@@ -3,6 +3,7 @@ $group
     namespace freud.progetto
 
         concept stimoli-endogeni
+            title Stimoli endogeni
             
             r-concept freud.pulsione
                 + Gli stimoli endogeni del progetto sono le

@@ -3,6 +3,7 @@ $group
     namespace freud.progetto
 
         concept segno-di-realtà
+            title Segno di realtà
 
             + Con tutta probabilità sono i neuroni ω che forniscono questo segno: il segno di realtà. 
                 \b In ogni percezione esterna avviene un eccitamento qualitativo in ω, 

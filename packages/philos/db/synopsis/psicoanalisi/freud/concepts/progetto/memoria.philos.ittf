@@ -3,8 +3,9 @@ $group
     namespace freud.progetto
 
         concept memoria
+            title Memoria
             
-            r-concept freud.facilitazione
+            r-concept freud.progetto.facilitazione
                 + La memoria è costituita dalle differenze di tutte le facilitazioni tra i neuroni,
                     \b che sono la descrizione di tutte le influenze 
                     \b esercitate su ψ dal mondo esterno e interno.

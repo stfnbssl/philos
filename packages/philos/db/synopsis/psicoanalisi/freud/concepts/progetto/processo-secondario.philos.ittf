@@ -3,7 +3,9 @@ $group
     namespace freud.progetto
 
         concept processo-secondario
-            alias processo psichico secondario
+            title Processo secondario
+            alias Processo psichico secondario
+            
             + D’altra parte quei processi 
                 \b che sono resi possibili solo da una buona carica dell’Io 
                 \b e che funzionano da moderatori del processo primario, 

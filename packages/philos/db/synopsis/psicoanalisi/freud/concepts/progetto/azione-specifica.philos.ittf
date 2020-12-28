@@ -3,6 +3,8 @@ $group
     namespace freud.progetto
 
         concept azione-specifica
+            title Azione specifica
+            
             + La sospensione dello stimolo [endogeno, poi detta pulsione] 
                 \b può essere operata solo mediante un intervento 
                 \b che temporaneamente interrompa l’emissione di Qἠ all’interno del corpo; 

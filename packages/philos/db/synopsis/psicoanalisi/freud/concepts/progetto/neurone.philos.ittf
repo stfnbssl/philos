@@ -3,6 +3,7 @@ $group
     namespace freud.progetto
 
         concept neurone
+            title Neurone
             
             + Cellula di cui è composto il sistema nervoso;
                 \b ha linee di conduzione che ricevono l'eccitamento 

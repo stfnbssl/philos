@@ -3,6 +3,7 @@ $group
     namespace freud.progetto
 
         concept facilitazione
+            title Facilitazione
 
             + Si può supporre che la capacità di conduzione di Qἠ attraverso le barriere di contatto [sinapsi]
                 \b potrebbe differenziarsi poiché il processo di conduzione stesso crea una maggior
@@ -17,6 +18,7 @@ $group
                 \b sia dal numero delle ripetizioni del processo.
 
         concept facilitazione-di-pensiero
+            title Facilitazione di pensiero
 
             + Della facilitazione di pensiero resta il risultato e non il ricordo.
             

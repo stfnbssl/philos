@@ -3,8 +3,9 @@ $group
     namespace freud.progetto
 
         concept neuroni-ψ
-            alias neuroni impermeabili
-            alias sistema ψ
+            title Neuroni ψ
+            alias Neuroni impermeabili
+            alias Sistema ψ
             
             r-concept freud.progetto.barriera-di-contatto
                 + I neuroni ψ offrono resistenza,

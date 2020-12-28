@@ -3,3 +3,44 @@ $group
     $include affetto
     $include associazione-verbale
     $include attenzione
+    $include attesa
+    $include azione-specifica
+    $include barriera
+    $include brama
+    $include coazione
+    $include desiderio
+    $include dolore
+    $include esame-di-realtà
+    $include facilitazione
+    $include funzione-primaria
+    $include funzione-secondaria
+    $include immagine
+    $include investimento
+    $include io
+    $include meccanismo-psichico
+    $include memoria
+    $include modificazione-interna
+    $include neurone
+    $include neuroni-secretori
+    $include neuroni-φ
+    $include neuroni-ψ
+    $include neuroni-ω
+    $include parola
+    $include pensiero
+    $include periodo
+    $include principio-inerzia
+    $include processo-primario
+    $include processo-secondario
+    $include qualità
+    $include quantità-di-stimolo
+    $include rappresentazione-sovraintensa
+    $include regola-biologica
+    $include ricordo
+    $include segno-di-qualità
+    $include segno-di-realtà
+    $include segno-di-scarica
+    $include sistema-nervoso
+    $include stimoli-endogeni
+    $include terminazione-nervosa
+    $include traccia
+    $include volontà

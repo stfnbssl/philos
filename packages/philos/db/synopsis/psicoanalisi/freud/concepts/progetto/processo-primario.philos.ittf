@@ -3,7 +3,8 @@ $group
     namespace freud.progetto
 
         concept processo-primario
-            alias processo psichico secondario
+            title Processo primario
+            alias Processo psichico secondario
             + L’investimento di desiderio portato fino all’allucinazione
                 \b e lo sviluppo pieno del dispiacere, 
                 \b che reca con sé l’esaurirsi completo della difesa, 

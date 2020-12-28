@@ -3,6 +3,7 @@ $group
     namespace freud.progetto
 
         concept coazione-isterica
+            title Coazione isterica
             quote
                 + La coazione isterica è quindi: 
                     \b 1) incomprensibile; 
@@ -12,6 +13,7 @@ $group
                 kindle-page 887
 
         concept coazione-nevrotica-semplice
+            title Coazione nevrotica semplice
             quote
                 + può essere contrapposta a quella isterica. 
                     \b Per esempio: un uomo che è caduto da una carrozza ha corso pericolo, 

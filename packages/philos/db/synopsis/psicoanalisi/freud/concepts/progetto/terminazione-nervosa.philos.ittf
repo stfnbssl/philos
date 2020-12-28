@@ -3,6 +3,8 @@ $group
     namespace freud.progetto
 
         concept terminazione-nervosa
+            title Terminazione nervosa
+            
             + I neuroni φ non terminano in modo libero alla periferia,
                 \b ma entro strutture cellulari che ricevono gli stimoli esogeni in loro vece.
                 \b Queste strutture possono avere lo scopo di smorzare le Q dello stimolo esterno,

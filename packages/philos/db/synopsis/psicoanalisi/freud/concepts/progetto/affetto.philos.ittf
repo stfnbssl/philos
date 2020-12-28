@@ -3,6 +3,7 @@ $group
     namespace freud.progetto
 
         concept affetto
+            title Affetto
             alias stato di affetto
             + Residuo [assieme al desiderio] dell'esperienza del dolore o del soddisfacimento.
             + Aumenta la tensione di Qἠ in ψ,

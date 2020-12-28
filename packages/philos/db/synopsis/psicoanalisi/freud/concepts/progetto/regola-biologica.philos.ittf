@@ -3,14 +3,18 @@ $group
     namespace freud.progetto
 
         concept regola-biologica
+            title Regola biologica
             + Per regola biologica si intende una norma a salvaguardia della sopravvivenza,
                 \b che deve essere rispettata per non compromettere la vita.
 
         concept regola-biologica-della-difesa-primaria
-            alias prima regola biologica
+            title Regola biologica della difesa primaria
+            alias Prima regola biologica
         
         concept regola-biologica-della-attenzione
-            alias seconda regola biologica
+            title Regola biologica dell'attenzione
+            alias Seconda regola biologica
+            
             quote
                 + Se appare un segno di realtà,
                     \b l'investimento percettivo che già è simultaneamente presente

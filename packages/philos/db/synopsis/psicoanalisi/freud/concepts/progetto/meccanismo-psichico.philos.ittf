@@ -3,8 +3,10 @@ $group
     namespace freud.progetto
 
         concept meccanismo-psichico
+            title Meccanismo psichico
 
             concept molla
+                title Molla
                 + La molla del meccanismo psichico consiste nel fatto
                     \b che il sistema ψ è esposto senza difese alle Q
                     \b che salgono dai canali endogeni di eccitamento,

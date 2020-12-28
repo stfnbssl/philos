@@ -3,6 +3,8 @@ $group
     namespace freud.progetto
 
         concept attenzione
+            title Attenzione
+            
             + L'attenzione consiste nello stabilire una situazione psichica di attesa
                 \b anche per certe percezioni 
                 \b che non coincidono in parte con gli investimenti di desiderio.

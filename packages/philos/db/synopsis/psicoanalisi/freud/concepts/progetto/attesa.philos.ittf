@@ -3,5 +3,6 @@ $group
     namespace freud.progetto
 
         concept attesa
+            title Attesa
             alias stato di attesa
             + Tutto il pensiero si è sviluppato dallo stato di attesa.

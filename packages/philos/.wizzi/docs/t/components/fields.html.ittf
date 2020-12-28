@@ -5,7 +5,7 @@ $group
         var {jsonData} = props
         return
             div
-                < h2 Fields
+                < h2 Campi
                 < Paper
                     @ style {{maxHeight: 370, overflow: 'auto'}}
                     < Table 

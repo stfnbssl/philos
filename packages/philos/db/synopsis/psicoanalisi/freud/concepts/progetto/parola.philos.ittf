@@ -3,6 +3,8 @@ $group
     namespace freud.progetto
 
         concept parola
+            title Parola
+            
             + L'innervazione della parola è originariamente una via di scarica per ψ,
                 \b come una specie di valvola di sicurezza 
                 \b avente lo scopo di regolare le oscillazioni di Qἠ.

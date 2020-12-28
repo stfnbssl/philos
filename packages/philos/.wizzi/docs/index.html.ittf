@@ -3,14 +3,14 @@ html
         var page = {
             id: 'home',
             section: 'demo',
-            title: 'Philos',
-            description: 'Directory filosofica',
+            title: 'ConceptDb',
+            description: 'Database di elementi filosofici',
             author: site.Params.author,
         };
         var color = site.Styles.palette.dark_1
         var assetsURL = site.assetsURL;
     
-    layouts/demo(&page)
+    layouts/basic(&page)
 
         $append styles
             @style 
@@ -21,6 +21,15 @@ html
                         padding 30px 150px
                         background-color ${color.foreSofter}
                         color ${color.backStrong}
+
+        $append navigate
+            li 
+                a 
+                    href ./anteprima.html
+                    title Visualizzazione messaggi per verifica impatto
+                    target _top
+                    span Anteprima
+
         
         . wrapper
             h1 &nbsp;

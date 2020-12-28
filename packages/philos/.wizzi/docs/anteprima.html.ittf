@@ -137,6 +137,7 @@ layouts/muiPage( theme )
             @ open
             @ selectedView
         = this.state
+    const dbTitle = 'Freud'
     return 
         div 
             @ className {classes.root}
@@ -161,7 +162,7 @@ layouts/muiPage( theme )
                         @ variant "h6"
                         @ color "inherit"
                         @ noWrap
-                        + Persistent drawer
+                        + {dbTitle}
             < Drawer 
                 @ className {classes.drawer}
                 @ variant "persistent"
@@ -172,6 +173,7 @@ layouts/muiPage( theme )
                         @ paper classes.drawerPaper
                 div 
                     @ className {classes.drawerHeader}
+                    span Concept Db
                     < IconButton 
                         @ onClick {this.handleDrawerClose}
                         { 
@@ -182,18 +184,13 @@ layouts/muiPage( theme )
                                 else
                                     < Icon 
                                       + chevron_right
+
                 < Divider 
                 < List 
                     { 
                         [ 
-                            @ 'Fields'
-                            @ 'Schools'
-                            @ 'Theories/Laws'
-                            @ 'Concepts'
-                            @ 'Authors'
-                            @ 'Groups'
-                            @ 'Places'
-                            @ 'Publications'
+                            @ 'Panoramica'
+                            @ 'Schema'
                             ._ map
                                 => 
                                     param text
@@ -216,13 +213,19 @@ layouts/muiPage( theme )
                                                           + mail
                                         < ListItemText 
                                             @ primary {text}
+
                 < Divider 
                 < List 
                     { 
                         [ 
-                            @ 'Synopsis'
-                            @ 'Schema'
-                            @ 'Overview'
+                            @ 'Campi'
+                            @ 'Scuole'
+                            @ 'Teorie'
+                            @ 'Concetti'
+                            @ 'Autori'
+                            @ 'Gruppi'
+                            @ 'Luoghi'
+                            @ 'Testi'
                             ._ map
                                 => 
                                     param text
@@ -253,48 +256,51 @@ layouts/muiPage( theme )
                             @ [classes.contentShift] open
                 div 
                     @ className {classes.drawerHeader}
-                h2 {selectedView}
                 {
                     && 
-                        + selectedView == 'Synopsis'
-                        p synopsis
+                        + selectedView == 'Panoramica'
+                        p Panoramica
+                {
+                    && 
+                        + selectedView == 'Schema'
+                        p Schema
                 {
                     &&
-                        + selectedView == 'Fields' && isLoading == false
+                        + selectedView == 'Campi' && isLoading == false
                         < FieldList
                             @ jsonData {jsonData}
                 {
                     &&
-                        + selectedView == 'Schools' && isLoading == false
+                        + selectedView == 'Scuole' && isLoading == false
                         < SchoolList
                             @ jsonData {jsonData}
                 {
                     &&
-                        + selectedView == 'Theories/Laws' && isLoading == false
+                        + selectedView == 'Teorie' && isLoading == false
                         < TheoryList
                             @ jsonData {jsonData}
                 {
                     &&
-                        + selectedView == 'Concepts' && isLoading == false
+                        + selectedView == 'Concetti' && isLoading == false
                         < ConceptList
                             @ jsonData {jsonData}
                 {
                     &&
-                        + selectedView == 'Authors' && isLoading == false
+                        + selectedView == 'Autori' && isLoading == false
                         < AuthorList
                             @ jsonData {jsonData}
                 {
                     &&
-                        + selectedView == 'Groups' && isLoading == false
+                        + selectedView == 'Gruppi' && isLoading == false
                         < GroupList
                             @ jsonData {jsonData}
                 {
                     &&
-                        + selectedView == 'Places' && isLoading == false
+                        + selectedView == 'Luoghi' && isLoading == false
                         < PlaceList
                             @ jsonData {jsonData}
                 {
                     &&
-                        + selectedView == 'Publications' && isLoading == false
+                        + selectedView == 'Testi' && isLoading == false
                         < PublicationList
                             @ jsonData {jsonData}

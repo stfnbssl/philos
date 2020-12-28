@@ -13,6 +13,12 @@
                     "wzName": "affetto",
                     "items": [
                         {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Affetto",
+                            "items": []
+                        },
+                        {
                             "wzElement": "alias",
                             "wzTag": "alias",
                             "wzName": "stato di affetto",
@@ -50,6 +56,12 @@
                     "wzTag": "concept",
                     "wzName": "associazione-verbale",
                     "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Associazione verbale",
+                            "items": []
+                        },
                         {
                             "wzElement": "quote",
                             "wzTag": "quote",
@@ -97,9 +109,1914 @@
                     "wzName": "attenzione",
                     "items": [
                         {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Attenzione",
+                            "items": []
+                        },
+                        {
                             "wzElement": "text",
                             "wzTag": "+",
                             "wzName": "L'attenzione consiste nello stabilire una situazione psichica di attesa anche per certe percezioni che non coincidono in parte con gli investimenti di desiderio.",
+                            "items": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud.progetto",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "attesa",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Attesa",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "alias",
+                            "wzTag": "alias",
+                            "wzName": "stato di attesa",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "Tutto il pensiero si è sviluppato dallo stato di attesa.",
+                            "items": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud.progetto",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "azione-specifica",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Azione specifica",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "La sospensione dello stimolo [endogeno, poi detta pulsione] può essere operata solo mediante un intervento che temporaneamente interrompa l’emissione di Qἠ all’interno del corpo; e questo intervento richiede un’alterazione nel mondo esterno (rifornimento di cibo, prossimità dell’oggetto sessuale), la quale, come azione specifica, può seguire solo determinate vie. L’organismo umano è, dapprima, incapace di produrre tale azione specifica. Essa viene attuata mediante un aiuto esterno, quando un individuo maturo viene indotto a fare attenzione alle condizioni del bambino mediante una scarica [del bambino] lungo la via della modificazione interna.",
+                            "items": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud.progetto",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "barriera",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Barriera",
+                            "items": []
+                        }
+                    ]
+                },
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "barriera-contro-immagini-motorie",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Barriera contro immagini motorie",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "Barriera che impedisce la scarica motoria.",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "Quando non c'era [nei primi mesi di vita], il discarico motorio si verificava simultaneamente con il desiderio, l'atteso piacere veniva regolarmente a mancare, e la continua emissione di stimoli endogeni finiva per generare dispiacere.",
+                            "items": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud.progetto",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "brama",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Brama",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "La brama comporta uno stato di tensione nell'Io, e di conseguenza è investita la rappresentazione dell'oggetto amato (rappresentazione di desiderio).",
+                            "items": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud.progetto",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "coazione-isterica",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Coazione isterica",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "quote",
+                            "wzTag": "quote",
+                            "wzName": "",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "La coazione isterica è quindi: 1) incomprensibile; 2) insolubile attraverso il processo del pensiero; e 3) incongrua nella sua struttura.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "book",
+                                    "wzTag": "book",
+                                    "wzName": "freud.opere-complete",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "kindlepage",
+                                    "wzTag": "kindle-page",
+                                    "wzName": "887",
+                                    "items": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "coazione-nevrotica-semplice",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Coazione nevrotica semplice",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "quote",
+                            "wzTag": "quote",
+                            "wzName": "",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "può essere contrapposta a quella isterica. Per esempio: un uomo che è caduto da una carrozza ha corso pericolo, e in seguito può diventargli impossibile usare questo mezzo di locomozione. Tale coazione è: 1) comprensibile, e infatti ne conosciamo l’origine; 2) insolubile attraverso il processo del pensiero; e 3) congruente, poiché l’associazione con il pericolo giustifica il legame tra viaggiare in carrozza e paura.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Si sarebbe inclini a considerare la coazione nevrotica come niente affatto patologica, se [..] una coazione di questo genere persiste solo per un breve tempo [..] Quindi il persistere di una coazione è patologico e indica una nevrosi semplice.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "book",
+                                    "wzTag": "book",
+                                    "wzName": "freud.opere-complete",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "kindlepage",
+                                    "wzTag": "kindle-page",
+                                    "wzName": "887",
+                                    "items": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud.progetto",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "desiderio",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Desiderio",
+                            "items": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud.progetto",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "dolore",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Dolore",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "Il dolore sarebbe provocato dal fallimento nel sistema di schermature dell'intensità delle cariche Qἠ, che dalle terminazioni nervose raggiungono il sistema dei neuroni ψ.",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "Il sistema ψ è protetto dal fatto di non essere in contatto diretto con il mondo esterno e dal fatto che le grandi Q esterne sono trattenute dai neuroni φ, ma i neuroni ψ sono permeabili al dolore quando sono investiti da Q di ordine elevato.",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "Il dolore passa per tutte le vie di scarica, come se fosse passato un fulmine, e lascia dietro di sé facilitazioni permanenti che possono arrivare a trasformare neuroni ψ in neuroni φ.",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "Il sistema nervoso ha una netta tendenza alla fuga dal dolore, che conferma la sua tendenza primaria contro un aumento di Qἠ, e quindi la tendenza a scaricare Qἠ.",
+                            "items": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud.progetto",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "esame-di-realtà",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Esame di realtà",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "Sia l’investimento di desiderio, sia la liberazione di dispiacere, quando c’è un nuovo investimento del ricordo relativo, possono essere biologicamente dannosi. Questo accade per l’investimento di desiderio ogni volta che supera un certo limite e quindi incoraggia alla scarica; e accade per la liberazione di dispiacere almeno ogni volta che l’investimento dell’immagine mnestica ostile sorge da ψ stesso (per associazione) e non dal mondo esterno. Quindi, anche qui ciò che occorre è un segno che permetta di distinguere una percezione da un ricordo (o rappresentazione).",
+                            "items": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud.progetto",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "facilitazione",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Facilitazione",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "Si può supporre che la capacità di conduzione di Qἠ attraverso le barriere di contatto [sinapsi] potrebbe differenziarsi poiché il processo di conduzione stesso crea una maggior facilità di conduzione per i passaggi successivi.",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "La facilitazione potrebbe consistere in un assorbimento di Qἠ attraverso la barriera di contatto. Forse solo un quoziente di Qἠ rimane come facilitazione dopo il passaggio del flusso.",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "L'entità della facilitazione dipende sia dalla grandezza di Qἠ sia dal numero delle ripetizioni del processo.",
+                            "items": []
+                        }
+                    ]
+                },
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "facilitazione-di-pensiero",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Facilitazione di pensiero",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "Della facilitazione di pensiero resta il risultato e non il ricordo.",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "relatedconcept",
+                            "wzTag": "r-concept",
+                            "wzName": "freud.segno-di-scarica-verbale",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "I segni di scarica verbale pongono i processi di pensiero sullo stesso livello dei processi percettivi, conferendo loro una realtà, e rendendo possibile il loro ricordo.",
+                                    "items": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud.progetto",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "funzione-primaria",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Funzione primaria",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "Un sistema nervoso primario si serve della Qἠ acquisita per rimetterla lungo la via che lo collega ai meccanismi muscolari mantenendosi in tal modo privo di stimoli.",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "La bipartizione dei neuroni in motori e sensori è un ordinamento che ha per scopo di annullare la ricezione di Qἠ mediante una trasmissione.",
+                            "items": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud.progetto",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "funzione-secondaria",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Funzione secondaria",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "Con la crescente complessità dell'interno dell'organismo il sistema nervoso riceve stimoli endogeni dall'elemento somatico stesso: fame, respirazione, sessualità. L'organismo non può fuggirli, come uno stimolo esterno, e l'unico modo per farli cessare è produrre nel mondo esterno le circostanze adeguate, ad esempio il nutrimento, con una azione detta specifica.",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "L'organismo impara a mantenere una scorta di Qἠ per le esigenze di una azione specifica, continua comunque a cercare di mantenere il più basso possibile il livello di Qἠ.",
+                            "items": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud.progetto",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "immagine-motoria",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Immagine motoria",
+                            "items": []
+                        }
+                    ]
+                },
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "immagine-mnestica",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Immagine mnestica",
+                            "items": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud.progetto",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "investimento",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Investimento",
+                            "items": [
+                                {
+                                    "wzElement": "de",
+                                    "wzTag": "de",
+                                    "wzName": "Besetzung",
+                                    "items": []
+                                }
+                            ]
+                        },
+                        {
+                            "wzElement": "alias",
+                            "wzTag": "alias",
+                            "wzName": "Carica",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "È una certa Qἠ con cui un neurone viene eccitato.",
+                            "items": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud.progetto",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "io",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Io",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "In ψ si è andata formando un’organizzazione, la cui presenza disturba decorsi che si sono prodotti per la prima volta in un particolare modo [cioè: o con soddisfacimento o con dolore]. Questa organizzazione si chiama l’Io, e può facilmente essere descritta se pensiamo che la ricezione, costantemente ripetuta, di Qἠ endogene in certi neuroni (del nucleo), e il conseguente effetto facilitante, produrranno un gruppo di neuroni dotati di una carica costante, corrispondente quindi al veicolo di scorta necessario alla funzione secondaria. L’Io deve quindi essere definito come la totalità delle cariche ψ in un dato momento, ove una porzione stabile può essere distinta da un’altra soggetta a mutarsi [vedi oltre par. 16]. È facile vedere che le facilitazioni tra i neuroni ψ fanno parte del dominio dell’Io, in quanto rappresentano la possibilità di indicargli l’ammontare dei suoi cambiamenti nei momenti successivi.",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "L'Io è formato da un gruppo di neuroni con carica costante.",
+                            "items": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud.progetto",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "meccanismo-psichico",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Meccanismo psichico",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "concept",
+                            "wzTag": "concept",
+                            "wzName": "molla",
+                            "items": [
+                                {
+                                    "wzElement": "title",
+                                    "wzTag": "title",
+                                    "wzName": "Molla",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "La molla del meccanismo psichico consiste nel fatto che il sistema ψ è esposto senza difese alle Q che salgono dai canali endogeni di eccitamento, direttamente dal corpi ai neuroni.",
+                                    "items": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud.progetto",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "memoria",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Memoria",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "relatedconcept",
+                            "wzTag": "r-concept",
+                            "wzName": "freud.progetto.facilitazione",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "La memoria è costituita dalle differenze di tutte le facilitazioni tra i neuroni, che sono la descrizione di tutte le influenze esercitate su ψ dal mondo esterno e interno.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Anche l'Io investe i neuroni ψ e suscita flussi che devono certamente lasciare tracce sotto forma di facilitazioni.",
+                                    "items": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud.progetto",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "modificazione-interna",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Modificazione interna",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "La modificazione interna è l'unico mezzo di scarica del neonato, fino al ritrovamento dell’azione specifica. È espressione di emozioni, grida, innervazioni vascolari. Richiamando l'aiuto esterno di un adulto soccorritore tale via di scarica acquista la funzione secondaria estremamente importante dell’intendersi, e l’impotenza iniziale degli esseri umani è la fonte originaria di tutte le motivazioni morali.",
+                            "items": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud.progetto",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "neurone",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Neurone",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "Cellula di cui è composto il sistema nervoso; ha linee di conduzione che ricevono l'eccitamento attraverso prosecuzioni delle cellule ramificate, o dendriti, e lo rimettono lungo il cilindrasse, o assone.",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "Il principio di inerzia trova la sua espressione nell'ipotesi di una corrente [una carica quantitativa Qἠ] che si diriga dai dendriti al cilindrasse.",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "relatedconcept",
+                            "wzTag": "r-concept",
+                            "wzName": "freud.progetto.barriera-di-contatto",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "La sostanza interposta tra neuroni, che sono tutti separati e distinti, fa da punto di contatto e da barriera tra neuroni, consentendo di trattenere la carica.",
+                                    "items": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud.progetto",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "neuroni-secretori",
+                    "items": [
+                        {
+                            "wzElement": "alias",
+                            "wzTag": "alias",
+                            "wzName": "Neuroni secretori",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "alias",
+                            "wzTag": "alias",
+                            "wzName": "Neuroni chiave",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "Come esistono neuroni motori, che quando vengono riempiti fino a un certo livello, conducono le Qἠ nei muscoli e ivi le scaricano, così devono esservi neuroni secretori, i quali, quando vengono eccitati, generano all'interno del corpo qualcosa che agisce come uno stimolo alle vie endogene di conduzione che portano a ψ, e quindi influenzano la produzione di Qἠ endogene, e con ciò non scaricano Qἠ ma le introducono per via indiretta.",
+                            "items": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud.progetto",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "neuroni-φ",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Neuroni φ",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "alias",
+                            "wzTag": "alias",
+                            "wzName": "Neuroni permeabili",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "alias",
+                            "wzTag": "alias",
+                            "wzName": "Neuroni percettivi",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "alias",
+                            "wzTag": "alias",
+                            "wzName": "Sistema φ",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "I neuroni φ non offrono resistenza e non trattengono nulla della carica Qἠ, da cui sono eccitati, come se non avessero barriere di contatto.",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "Sono i neuroni che soddisfano alla funzione della percezione, essendo sempre pronti a ricevere nuove impressioni.",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "relatedconcept",
+                            "wzTag": "r-concept",
+                            "wzName": "freud.processo.facilitazione",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Probabilmente i neuroni φ erano inizialmente neuroni ψ, ma essendo neuroni percettivi, più esposti a forti cariche di Qἠ, hanno raggiunto il grado di facilitazione massimo e sono diventati completamente permeabili.",
+                                    "items": []
+                                }
+                            ]
+                        },
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "I neuroni-φ ricevono cariche dal mondo esterno.",
+                            "items": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud.progetto",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "neuroni-ψ",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Neuroni ψ",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "alias",
+                            "wzTag": "alias",
+                            "wzName": "Neuroni impermeabili",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "alias",
+                            "wzTag": "alias",
+                            "wzName": "Sistema ψ",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "relatedconcept",
+                            "wzTag": "r-concept",
+                            "wzName": "freud.progetto.barriera-di-contatto",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "I neuroni ψ offrono resistenza, le loro barriere di contatto consentono solo un passaggio difficile o parziale di Qἠ.",
+                                    "items": []
+                                }
+                            ]
+                        },
+                        {
+                            "wzElement": "relatedconcept",
+                            "wzTag": "r-concept",
+                            "wzName": "freud.progetto.memoria",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "I neuroni ψ possono trovarsi in condizioni modificate dopo il passaggio della carica e soddisfano quindi alla funzione della memoria e dei processi psichici in genere.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Ogni neurone ψ deve avere parecchie vie di collegamento con altri neuroni, cioé varie barriere di contatto; da ciò dipende la possibilità di scelta, che è determinata dalla facilitazione, che essendo una modificazione permanente attua la memoria della via di conduzione della carica Qἠ.",
+                                    "items": []
+                                }
+                            ]
+                        },
+                        {
+                            "wzElement": "relatedconcept",
+                            "wzTag": "r-concept",
+                            "wzName": "freud.progetto.facilitazione",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Le alterazioni che possono subire i neuroni-ψ consistono nell'agevolare il passaggio della carica rendendoli più simili ai neuroni φ.",
+                                    "items": []
+                                }
+                            ]
+                        },
+                        {
+                            "wzElement": "concept",
+                            "wzTag": "concept",
+                            "wzName": "del-pallio",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Neurone ψ che sono investiti da neuroni φ.",
+                                    "items": []
+                                }
+                            ]
+                        },
+                        {
+                            "wzElement": "concept",
+                            "wzTag": "concept",
+                            "wzName": "nucleari",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Neuroni ψ che sono investiti dalle vie endogene di conduzione.",
+                                    "items": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud.progetto",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "neuroni-ω",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "Title",
+                            "wzName": "Neuroni ω",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "alias",
+                            "wzTag": "alias",
+                            "wzName": "Neuroni della coscienza",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "alias",
+                            "wzTag": "alias",
+                            "wzName": "Sistema ω",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "Una percezione (carica in ψ avente origine in φ) eccita la coscienza di una qualità in ω.",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "La scarica di un eccitamento in ω, come ogni scarica, fornisce a ψ una informazione, un segno di qualità in questo caso.",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "relatedconcept",
+                            "wzTag": "r-concept",
+                            "wzName": "freud.progetto.qualità",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "I neuroni ω vengono eccitati assieme agli altri durante la percezione e non durante la riproduzione [o ricordo]; i loro stati di eccitamento determinano le qualità, sono sensazioni coscienti.",
+                                    "items": []
+                                }
+                            ]
+                        },
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "La carica Qἠ che da ψ eccita ω è presumibilmente molto bassa, quasi a zero; ma non zero poiché anche i neuroni ω tendono alla scarica.",
+                            "items": []
+                        }
+                    ]
+                },
+                {
+                    "wzElement": "quote",
+                    "wzTag": "quote",
+                    "wzName": "",
+                    "items": [
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "Nella lettera del 1 gennaio 1896 Freud, rispetto al precedente schema di funzionamento mentale, sposta i neuroni ω e li situa tra i neuroni φ e quelli ψ e specifica che",
+                            "items": [
+                                {
+                                    "wzElement": "quote",
+                                    "wzTag": "quote",
+                                    "wzName": "",
+                                    "items": [
+                                        {
+                                            "wzElement": "text",
+                                            "wzTag": "+",
+                                            "wzName": "ω non trasferisce a ψ né quantità né qualità, ma semplicemente eccita ψ, cioè indica la direzione che deve essere presa dall’energia psichica libera.",
+                                            "items": []
+                                        },
+                                        {
+                                            "wzElement": "author",
+                                            "wzTag": "author",
+                                            "wzName": "Freud",
+                                            "items": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "wzElement": "article",
+                            "wzTag": "article",
+                            "wzName": "scalzone-1-gennaio-1896-una-lettera-di-Freud-a-Fliess",
+                            "items": []
+                        }
+                    ]
+                },
+                {
+                    "wzElement": "quote",
+                    "wzTag": "quote",
+                    "wzName": "",
+                    "items": [
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "Possiamo notare allora che ω, e cioè i neuroni collegati alla coscienza, si collocano ora in una posizione più centrale nello schema, come a formare un cardine; è questo un segno della maggiore centralità data alla coscienza nella nuova concezione del funzionamento psichico.",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "article",
+                            "wzTag": "article",
+                            "wzName": "scalzone-1-gennaio-1896-una-lettera-di-Freud-a-Fliess",
+                            "items": []
+                        }
+                    ]
+                },
+                {
+                    "wzElement": "quote",
+                    "wzTag": "quote",
+                    "wzName": "",
+                    "items": [
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "Il modello rese più chiare le due diverse “coscienze” del Progetto. In esso, la coscienza consisteva nell’eccitazione di ω da parte di ψ più un’indicazione di qualità (sia da φ attraverso ψ, sia da ψ attraverso le associazioni del linguaggio).",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "Nel nuovo modello, la coscienza percettiva [proveniente da stimoli esterni] consisteva nel trasferimento di una piccola Q (quantità di energia) da φ a ω e nel trasferimento della qualità da φ a ω, mentre la “coscienza secondaria artificiale” [proveniente da stimoli interni] sorgeva dal “lato opposto” di ω: l’eccitazione di ω da parte di ψ più un’indicazione di qualità proveniente dalle associazioni del linguaggio.",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "book",
+                            "wzTag": "book",
+                            "wzName": "forrester.il-linguaggio-e-le-origini-della-psicoanalisi",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "page",
+                            "wzTag": "page",
+                            "wzName": "89-90",
+                            "items": []
+                        }
+                    ]
+                },
+                {
+                    "wzElement": "quote",
+                    "wzTag": "quote",
+                    "wzName": "",
+                    "items": [
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "Inoltre, il fatto che in qualche modo questi neuroni * non hanno più a che fare con le quantità e le qualità li sgancia da un coinvolgimento diretto per ciò che attiene al compito di rendere coscienti i processi * inconsci.",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "Come ci fa notare Green, in questo modo Freud disunisce attività psichica e attività conscia alla quale necessita la qualità soggettiva (Green 1973, p. 43).",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "Questi processi * acquisteranno solo “una coscienza secondaria, artificiale” attraverso l’associazione verbale.",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "I neuroni * allora, e così la coscienza, vengono sempre più sganciati dall’aspetto energetico diventando in tal modo sempre più un processo “psichico” con l’entrata in scena del linguaggio.",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "Freud successivamente preciserà che la rappresentazione cosciente è composta dalla rappresentazione inconscia di cosa più la rappresentazione di parola.",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "article",
+                            "wzTag": "article",
+                            "wzName": "scalzone-1-gennaio-1896-una-lettera-di-Freud-a-Fliess",
+                            "items": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud.progetto",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "parola",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Parola",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "L'innervazione della parola è originariamente una via di scarica per ψ, come una specie di valvola di sicurezza avente lo scopo di regolare le oscillazioni di Qἠ.",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "relatedconcept",
+                            "wzTag": "r-concept",
+                            "wzName": "freud.progetto.modificazione-interna",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "L'innervazione della parola è un tratto del canale che porta alla modificazione interna, unico mezzo di scarica fino al ritrovamento dell'azione specifica.",
+                                    "items": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud.progetto",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "pensiero",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Pensiero",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "alias",
+                            "wzTag": "alias",
+                            "wzName": "Processo di pensiero",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "[..] delle facilitazioni prodotte dal pensiero resta solo il risultato e non un ricordo.",
+                            "items": []
+                        }
+                    ]
+                },
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "pensiero-cosciente-osservante",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Pensiero cosciente osservante",
+                            "items": []
+                        }
+                    ]
+                },
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "pensiero-conoscitivo",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Pensiero conoscitivo",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "alias",
+                            "wzTag": "alias",
+                            "wzName": "Pensiero giudicante",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "Cerca di identificarsi con una carica somatica.",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "Opera in anticipo rispetto al pensiero riproduttivo, fornendo a quest'ultimo facilitazioni già pronte per l'ulteriore itinerario associativo.",
+                            "items": []
+                        }
+                    ]
+                },
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "pensiero-pratico",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Pensiero pratico",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "È lo scopo finale di tutti processi di pensiero.",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "Tutti i pensieri hanno origine dal pensiero pratico.",
+                            "items": []
+                        }
+                    ]
+                },
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "pensiero-riproduttivo",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Pensiero riproduttivo",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "alias",
+                            "wzTag": "alias",
+                            "wzName": "Pensiero mnemonico",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "Cerca di identificarsi con una propria carica psichica (una propria esperienza vissuta).",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "È in parte incluso nel pensiero pratico ma non si esaurisce in esso.",
+                            "items": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud.progetto",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "periodo",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Periodo",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "A rigore, né i “processi” del mondo esterno, né gli “stimoli” che, passando attraverso gli apparati nervosi terminali, raggiungono φ, né le cariche in φ o ψ hanno una qualità, ma solo una caratteristica qualitativa (il periodo) che diventa qualità quando raggiunge ω.",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "kindleloc",
+                            "wzTag": "kindle-loc",
+                            "wzName": "105368-105370",
+                            "items": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud.progetto",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "principio-inerzia",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Principio d'inerzia",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "alias",
+                            "wzTag": "alias",
+                            "wzName": "Principio di inerzia neuronica",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "Prima formulazione del principio di costanza (1920).",
+                            "items": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud.progetto",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "processo-primario",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Processo primario",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "alias",
+                            "wzTag": "alias",
+                            "wzName": "Processo psichico secondario",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "L’investimento di desiderio portato fino all’allucinazione e lo sviluppo pieno del dispiacere, che reca con sé l’esaurirsi completo della difesa, si possono definire come processo psichico primario.",
+                            "items": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud.progetto",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "processo-secondario",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Processo secondario",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "alias",
+                            "wzTag": "alias",
+                            "wzName": "Processo psichico secondario",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "D’altra parte quei processi che sono resi possibili solo da una buona carica dell’Io e che funzionano da moderatori del processo primario, possono essere definiti come processi psichici secondari. Come si vede, condizione indispensabile di questi ultimi è una corretta utilizzazione dei “segni di realtà”, e questa è possibile solo quando esiste inibizione da parte dell’Io.",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "La lotta tra le facilitazioni fisse e gli investimenti mutevoli è caratteristica del processo secondario del pensiero riproduttivo, in contrasto con la successione primaria delle associazioni.",
+                            "items": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud.progetto",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "qualità",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "qualità",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "La coscienza ci dà ciò che noi chiamiamo qualità: sensazioni differenti in grandi varietà di modi, la cui differenza dipende dal mondo esterno.",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "Da dove proviene la qualità? Non dal mondo esterno che ha solo masse in movimento, non dal sistema φ [percezione] che è alla base e non ai piani superiori del sistema nervoso, non dal sistema ψ che differisce da φ per il ricordo [le facilitazioni], ma i ricordi sono differenze di quantità [nelle facilitazioni] e non hanno qualità.",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "relatedconcept",
+                            "wzTag": "r-concept",
+                            "wzName": "neuroni-ω",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Per spiegare l'origine della qualità dobbiamo ipotizzare un tipo di neuroni [ω] che vengono eccitati assieme agli altri durante la percezione e non durante la riproduzione [o ricordo], i cui stati di eccitamento determinano le qualità, sono sensazioni coscienti.",
+                                    "items": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud.progetto",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "quantità-di-stimolo",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Quantità di stimolo",
+                            "items": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud.progetto",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "rappresentazione-sovraintensa",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Rappresentazione sovraintensa",
+                            "items": [
+                                {
+                                    "wzElement": "de",
+                                    "wzTag": "de",
+                                    "wzName": "überstark",
+                                    "items": []
+                                }
+                            ]
+                        },
+                        {
+                            "wzElement": "quote",
+                            "wzTag": "quote",
+                            "wzName": "",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Una rappresentazione può, ad esempio, entrare nella coscienza con particolare frequenza, senza che il corso [degli eventi] la giustifichi; o può accadere che il risveglio di tale rappresentazione si accompagni a conseguenze psichiche che non si riesce a comprendere. L’emergere della rappresentazione sovraintensa ha risultati che non possono né venire soppressi né essere capiti: liberazione di affetto, innervazioni motorie, impedimenti. Il soggetto stesso non è per nulla ignaro della stranezza della situazione.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "kindlepage",
+                                    "wzTag": "kindle-page",
+                                    "wzName": "886-887",
+                                    "items": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud.progetto",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "regola-biologica",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Regola biologica",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "Per regola biologica si intende una norma a salvaguardia della sopravvivenza, che deve essere rispettata per non compromettere la vita.",
+                            "items": []
+                        }
+                    ]
+                },
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "regola-biologica-della-difesa-primaria",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Regola biologica della difesa primaria",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "alias",
+                            "wzTag": "alias",
+                            "wzName": "Prima regola biologica",
+                            "items": []
+                        }
+                    ]
+                },
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "regola-biologica-della-attenzione",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Regola biologica dell'attenzione",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "alias",
+                            "wzTag": "alias",
+                            "wzName": "Seconda regola biologica",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "quote",
+                            "wzTag": "quote",
+                            "wzName": "",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Se appare un segno di realtà, l'investimento percettivo che già è simultaneamente presente deve essere sovraccaricato.",
+                                    "items": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud.progetto",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "ricordo",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Ricordo",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "Un ricordo quando investito può sviluppare piacere o dispiacere.",
+                            "items": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud.progetto",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "segno-di-qualità",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Segno di qualità",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "Il segno di qualità è una informazione che si produce in ψ a seguito di una percezione reale (non allucinata). Una percezione reale produce una carica in ψ avente origine in φ, la quale eccita la coscienza di una qualità in ω, la cui scarica in ψ è il segno di qualità.",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "I segni di qualità assicurano e fissano il decorso [associativo] ma non sono assolutamente indispensabili ad esso.",
+                            "items": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud.progetto",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "segno-di-realtà",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Segno di realtà",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "Con tutta probabilità sono i neuroni ω che forniscono questo segno: il segno di realtà. In ogni percezione esterna avviene un eccitamento qualitativo in ω, ma questo, in un primo tempo, è senza importanza per ψ. Dobbiamo quindi aggiungere che l’eccitamento ω conduce a una scarica ω e che un’informazione di quest’ultima (come di ogni altra scarica) raggiunge ψ. L’informazione della scarica proveniente da ω costituisce quindi per ψ il segno di qualità o di realtà.",
+                            "items": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud.progetto",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "segno-di-scarica",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Segno di scarica",
+                            "items": []
+                        }
+                    ]
+                },
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "segno-di-scarica-verbale",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Segno di scarica verbale",
+                            "items": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud.progetto",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "sistema-nervoso",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Sistema nervoso",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "concept",
+                            "wzTag": "concept",
+                            "wzName": "struttura",
+                            "items": [
+                                {
+                                    "wzElement": "title",
+                                    "wzTag": "title",
+                                    "wzName": "Struttura del sistema nervoso",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Il sistema nervoso tende a strutturarsi per trattenere quantità sempre maggiori di Qἠ.",
+                                    "items": []
+                                }
+                            ]
+                        },
+                        {
+                            "wzElement": "concept",
+                            "wzTag": "concept",
+                            "wzName": "funzione",
+                            "items": [
+                                {
+                                    "wzElement": "title",
+                                    "wzTag": "title",
+                                    "wzName": "Funzione del sistema nervoso",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "La funzione del sistema nervoso è di scaricare Qἠ.",
+                                    "items": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud.progetto",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "stimoli-endogeni",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Stimoli endogeni",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "relatedconcept",
+                            "wzTag": "r-concept",
+                            "wzName": "freud.pulsione",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Gli stimoli endogeni del progetto sono le prime precisazioni del concetto di pulsione.",
+                                    "items": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud.progetto",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "terminazione-nervosa",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Terminazione nervosa",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "I neuroni φ non terminano in modo libero alla periferia, ma entro strutture cellulari che ricevono gli stimoli esogeni in loro vece. Queste strutture possono avere lo scopo di smorzare le Q dello stimolo esterno, svolgendo la funzione di schermi di Q, portando Q a livello di intensità intercellulare.",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "I neuroni ψ hanno terminazioni di tipo libero; uno schermo di Q sembra inutile qui, dove lo stimolo è già in partenza ridotto a livelli intercellulari.",
+                            "items": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud.progetto",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "traccia",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Traccia",
+                            "items": []
+                        }
+                    ]
+                },
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "traccia-di-realtà",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Traccia di realtà",
+                            "items": []
+                        }
+                    ]
+                },
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "traccia-di-processo",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Traccia di pensiero",
+                            "items": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud.progetto",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "volontà",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Volontà",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "La volontà è il derivato delle pulsioni.",
                             "items": []
                         }
                     ]
@@ -378,6 +2295,31 @@
         {
             "wzElement": "book",
             "wzTag": "book",
+            "wzName": "forrester.il-linguaggio-e-le-origini-della-psicoanalisi",
+            "items": [
+                {
+                    "wzElement": "author",
+                    "wzTag": "author",
+                    "wzName": "Forrester",
+                    "items": []
+                },
+                {
+                    "wzElement": "title",
+                    "wzTag": "title",
+                    "wzName": "Il linguaggio e le origini della psicoanalisi",
+                    "items": []
+                },
+                {
+                    "wzElement": "edition",
+                    "wzTag": "edition",
+                    "wzName": "Il Mulino, Bologna, 1984",
+                    "items": []
+                }
+            ]
+        },
+        {
+            "wzElement": "book",
+            "wzTag": "book",
             "wzName": "freud.l-interpretazione-dei-sogni",
             "items": [
                 {
@@ -596,6 +2538,31 @@
                     "wzElement": "url",
                     "wzTag": "url",
                     "wzName": "file:///C:/Users/Stefano%20Bassoli/Downloads/4535-Articolo-16180-1-10-20141224.pdf",
+                    "items": []
+                }
+            ]
+        },
+        {
+            "wzElement": "article",
+            "wzTag": "article",
+            "wzName": "scalzone-1-gennaio-1896-una-lettera-di-Freud-a-Fliess",
+            "items": [
+                {
+                    "wzElement": "author",
+                    "wzTag": "author",
+                    "wzName": "Scalzone",
+                    "items": []
+                },
+                {
+                    "wzElement": "title",
+                    "wzTag": "title",
+                    "wzName": "1 Gennaio 1896: una lettera di Freud a Fliess",
+                    "items": []
+                },
+                {
+                    "wzElement": "url",
+                    "wzTag": "url",
+                    "wzName": "http://www.psychomedia.it/pm/indther/psan/scalz1.htm",
                     "items": []
                 }
             ]

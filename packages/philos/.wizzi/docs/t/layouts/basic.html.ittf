@@ -1,0 +1,63 @@
+$group
+    $params &page
+    $
+        var baseURL = site.baseURL;
+        var assetsURL = site.assetsURL;
+    lang ${ site.LanguageCode ? site.LanguageCode : 'en-US' }
+    head 
+        meta 
+            charset UTF-8
+        meta 
+            name viewport
+            content width=device-width, initial-scale=1.0
+        @title ${page.title}
+        link 
+            rel stylesheet
+            href https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i
+            type text/css
+            media all
+        link 
+            rel stylesheet
+            href ${assetsURL}/css/normalize.css
+        link 
+            rel stylesheet
+            href ${assetsURL}/css/fontello.css
+        link 
+            rel stylesheet
+            href ${assetsURL}/css/style.css
+        $hook styles
+    
+    body 
+        header 
+            id header
+            
+            . logo
+                h2 &nbsp;${site.Params.logoText}
+            
+            $if false
+                . logo
+                    a 
+                        href ${baseUrl}/
+                        img 
+                            src ${assetsURL}/img/logo.png
+                            title Back to Homepage
+            
+            . navigate
+                ul 
+                    $hook navigate
+        
+        $hook
+        
+        js ${assetsURL}/js/jquery-3.1.0.min.js
+        js ${assetsURL}/js/custom.js
+        
+        $if site.Features.useGoogleTagmanager
+            js https://www.googletagmanager.com/gtag/js?id=${site.Features.googleTagmanager.trackerId}
+            script 
+                module
+                    kind react
+                    set window.dataLayer = window.dataLayer || []
+                    function gtag
+                        _ dataLayer.push(arguments)
+                    _ gtag('js', new Date())
+                    _ gtag('config', '${site.Features.googleTagmanager.trackerId}')

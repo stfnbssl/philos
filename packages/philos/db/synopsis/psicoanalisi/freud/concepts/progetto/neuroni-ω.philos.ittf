@@ -3,8 +3,9 @@ $group
     namespace freud.progetto
 
         concept neuroni-ω
-            alias neuroni della coscienza
-            alias sistema ω
+            Title Neuroni ω
+            alias Neuroni della coscienza
+            alias Sistema ω
 
             + Una percezione (carica in ψ avente origine in φ)
                 \b  eccita la coscienza di una qualità in ω.
@@ -21,40 +22,59 @@ $group
             + La carica Qἠ che da ψ eccita ω è presumibilmente molto bassa, quasi a zero;
                 \b ma non zero poiché anche i neuroni ω tendono alla scarica.
 
+        quote
+            + Nella lettera del 1 gennaio 1896 Freud, 
+                \b rispetto al precedente schema di funzionamento mentale, 
+                \b sposta i neuroni ω e li situa tra i neuroni φ e quelli ψ 
+                \b e specifica che
+                quote
+                    + ω non trasferisce a ψ né quantità né qualità, 
+                        \b ma semplicemente eccita ψ, 
+                        \b cioè indica la direzione che deve essere presa dall’energia psichica libera.
+                    author Freud
+            article scalzone-1-gennaio-1896-una-lettera-di-Freud-a-Fliess
+        
+        quote
+            + Possiamo notare allora che ω, e cioè i neuroni collegati alla coscienza, 
+                \b si collocano ora in una posizione più centrale nello schema, 
+                \b come a formare un cardine; 
+                \b è questo un segno della maggiore centralità data alla coscienza 
+                \b nella nuova concezione del funzionamento psichico.
+            article scalzone-1-gennaio-1896-una-lettera-di-Freud-a-Fliess
+        
+        quote
+            + Il modello rese più chiare le due diverse “coscienze” del Progetto. 
+                \b In esso, la coscienza consisteva nell’eccitazione di ω da parte di ψ 
+                \b più un’indicazione di qualità (sia da φ attraverso ψ, sia da ψ attraverso le associazioni del linguaggio). 
+            + Nel nuovo modello, la coscienza percettiva [proveniente da stimoli esterni] 
+                \b consisteva nel trasferimento di una piccola Q (quantità di energia) da φ a ω 
+                \b e nel trasferimento della qualità da φ a ω, 
+                \b mentre la “coscienza secondaria artificiale” [proveniente da stimoli interni] 
+                \b sorgeva dal “lato opposto” di ω: 
+                \b l’eccitazione di ω da parte di ψ 
+                \b più un’indicazione di qualità proveniente dalle associazioni del linguaggio.
+            book forrester.il-linguaggio-e-le-origini-della-psicoanalisi
+            page 89-90
 
-        Nella lettera del 1 gennaio 1896 Freud, 
-        rispetto al precedente schema di funzionamento mentale, 
-        sposta dunque i neuroni ω e li situa tra i neuroni φ e quelli ψ 
-        e specifica che ora: “ω non trasferisce a ψ né quantità né qualità, 
-        ma semplicemente eccita ψ, cioè indica la direzione che deve essere presa dall’energia psichica libera”.
-        Possiamo notare allora che ω, e cioè i neuroni collegati alla coscienza, 
-        si collocano ora in una posizione più centrale nello schema, 
-        come a formare un cardine; 
-        è questo un segno della maggiore centralità data alla coscienza 
-        nella nuova concezione del funzionamento psichico.
-        Forrester sottolinea come: “Il modello rese più chiare le due diverse “coscienze” del Progetto. 
-        In esso, la coscienza consisteva nell’eccitazione di ω da parte di ψ 
-        più un’indicazione di qualità (sia da φ attraverso ψ, sia da ψ attraverso le associazioni del linguaggio). 
-        
-        Nel nuovo modello, la coscienza percettiva [proveniente da stimoli esterni] 
-        consisteva nel trasferimento di una piccola Q (quantità di energia) da φ a ω 
-        e nel trasferimento della qualità da φ a ω, 
-        mentre la “coscienza secondaria artificiale” [proveniente da stimoli interni] 
-        sorgeva dal “lato opposto” di ω: 
-        l’eccitazione di ω da parte di ψ 
-        più un’indicazione di qualità proveniente dalle associazioni del linguaggio.” (Forrester 1980, pp. 89-90 ).
-        
-        Inoltre, il fatto che in qualche modo questi neuroni * 
-        non hanno più a che fare con le quantità e le qualità 
-        li sgancia da un coinvolgimento diretto 
-        per ciò che attiene al compito di rendere coscienti i processi * inconsci. 
-        Come ci fa notare Green, in questo modo Freud disunisce attività psichica e attività conscia 
-        alla quale necessita la qualità soggettiva (Green 1973, p. 43). 
-        
-        Questi processi * acquisteranno solo “una coscienza secondaria, 
-        artificiale” attraverso l’associazione verbale. 
-        I neuroni * allora, e così la coscienza, vengono sempre più sganciati dall’aspetto energetico 
-        diventando in tal modo sempre più un processo “psichico” con l’entrata in scena del linguaggio. 
-        
-        Freud successivamente preciserà che la rappresentazione cosciente 
-        è composta dalla rappresentazione inconscia di cosa più la rappresentazione di parola.
+        quote
+            + Inoltre, il fatto che in qualche modo questi neuroni * 
+                \b non hanno più a che fare con le quantità e le qualità 
+                \b li sgancia da un coinvolgimento diretto 
+                \b per ciò che attiene al compito di rendere coscienti i processi * inconsci. 
+            
+            + Come ci fa notare Green, 
+                \b in questo modo Freud disunisce attività psichica e attività conscia 
+                \b alla quale necessita la qualità soggettiva (Green 1973, p. 43). 
+            
+            + Questi processi * acquisteranno solo “una coscienza secondaria, 
+                \b artificiale” attraverso l’associazione verbale. 
+            
+            + I neuroni * allora, e così la coscienza, vengono sempre più sganciati dall’aspetto energetico 
+                \b diventando in tal modo sempre più un processo “psichico” con l’entrata in scena del linguaggio. 
+            
+            + Freud successivamente preciserà che 
+                \b la rappresentazione cosciente è composta 
+                \b dalla rappresentazione inconscia di cosa 
+                \b più la rappresentazione di parola.
+            
+            article scalzone-1-gennaio-1896-una-lettera-di-Freud-a-Fliess

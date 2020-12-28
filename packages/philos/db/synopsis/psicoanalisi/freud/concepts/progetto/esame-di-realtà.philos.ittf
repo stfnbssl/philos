@@ -3,6 +3,8 @@ $group
     namespace freud.progetto
 
         concept esame-di-realtà
+            title Esame di realtà
+            
             + Sia l’investimento di desiderio, sia la liberazione di dispiacere, 
                 \b quando c’è un nuovo investimento del ricordo relativo, possono essere biologicamente dannosi. 
                 \b Questo accade per l’investimento di desiderio ogni volta che supera un certo limite 

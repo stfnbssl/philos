@@ -3,6 +3,7 @@ $group
     namespace freud.progetto
 
         concept associazione-verbale
+            title Associazione verbale
             quote
                 + Questa consiste nel collegamento dei neuroni ψ con neuroni 
                     \b che servono alle rappresentazioni sonore 

@@ -16,8 +16,8 @@
         email "stfn.bssl@gmail.com"
         phone "---"
         address "---"
-        year 2019
-        logoText "by Stefano & co"
+        year 2020
+        logoText "by Stefano"
 
     { Features
         features()

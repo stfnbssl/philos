@@ -3,6 +3,8 @@ $group
     namespace freud.progetto
 
         concept qualità
+            title qualità
+            
             + La coscienza ci dà ciò che noi chiamiamo qualità:
                 \b sensazioni differenti in grandi varietà di modi,
                 \b la cui differenza dipende dal mondo esterno.

@@ -3,6 +3,7 @@ $group
     namespace freud.progetto
 
         concept dolore
+            title Dolore
 
             + Il dolore sarebbe provocato dal fallimento nel
                 \b sistema di schermature dell'intensità delle cariche Qἠ,

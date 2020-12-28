@@ -3,24 +3,29 @@ $group
     namespace freud.progetto
 
         concept pensiero
-            alias processo di pensiero
+            title Pensiero
+            alias Processo di pensiero
             + [..] delle facilitazioni prodotte dal pensiero resta solo il risultato e non un ricordo.
 
         concept pensiero-cosciente-osservante
+            title Pensiero cosciente osservante
 
         concept pensiero-conoscitivo
-            alias pensiero giudicante
+            title Pensiero conoscitivo
+            alias Pensiero giudicante
             + Cerca di identificarsi con una carica somatica.
             + Opera in anticipo rispetto al pensiero riproduttivo,
                 \b fornendo a quest'ultimo facilitazioni già pronte
                 \b per l'ulteriore itinerario associativo.
 
         concept pensiero-pratico
+            title Pensiero pratico
             + È lo scopo finale di tutti processi di pensiero.
             + Tutti i pensieri hanno origine dal pensiero pratico.
 
         concept pensiero-riproduttivo
-            alias pensiero mnemonico
+            title Pensiero riproduttivo
+            alias Pensiero mnemonico
             + Cerca di identificarsi con una propria carica psichica
                 \b (una propria esperienza vissuta).
             + È in parte incluso nel pensiero pratico ma non si esaurisce in esso.

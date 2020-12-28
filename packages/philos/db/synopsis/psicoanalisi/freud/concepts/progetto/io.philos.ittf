@@ -3,7 +3,9 @@ $group
     namespace freud.progetto
 
         concept io
-            + in ψ si è andata formando un’organizzazione, 
+            title Io
+            
+            + In ψ si è andata formando un’organizzazione, 
                 \b la cui presenza disturba decorsi che si sono prodotti per la prima volta in un particolare modo 
                 \b [cioè: o con soddisfacimento o con dolore]. 
                 \b Questa organizzazione si chiama l’Io, 

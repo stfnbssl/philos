@@ -3,6 +3,8 @@ $group
     namespace freud.progetto
 
         concept modificazione-interna
+            title Modificazione interna
+            
             + La modificazione interna è l'unico mezzo di scarica del neonato,
                 \b fino al ritrovamento dell’azione specifica.
                 \b È espressione di emozioni, grida, innervazioni vascolari.

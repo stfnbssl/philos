@@ -3,6 +3,8 @@ $group
     namespace freud.progetto
 
         concept funzione-secondaria
+            title Funzione secondaria
+            
             + Con la crescente complessità dell'interno dell'organismo
                 \b il sistema nervoso riceve stimoli endogeni dall'elemento somatico stesso:
                 \b fame, respirazione, sessualità.

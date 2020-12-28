@@ -3,10 +3,13 @@ $group
     namespace freud.progetto
 
         concept sistema-nervoso
+            title Sistema nervoso
 
             concept struttura
+                title Struttura del sistema nervoso
                 + Il sistema nervoso tende a strutturarsi 
                     \b per trattenere quantità sempre maggiori di Qἠ.
 
             concept funzione
+                title Funzione del sistema nervoso
                 + La funzione del sistema nervoso è di scaricare Qἠ.

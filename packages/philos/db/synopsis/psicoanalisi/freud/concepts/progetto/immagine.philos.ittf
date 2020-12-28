@@ -3,5 +3,7 @@ $group
     namespace freud.progetto
 
         concept immagine-motoria
+            title Immagine motoria
 
         concept immagine-mnestica
+            title Immagine mnestica

@@ -3,8 +3,8 @@ $group
     namespace freud.progetto
 
         concept investimento
-            title investimento
+            title Investimento
                 de Besetzung
-            alias carica
+            alias Carica
             + È una certa Qἠ con cui un neurone viene eccitato.
 
