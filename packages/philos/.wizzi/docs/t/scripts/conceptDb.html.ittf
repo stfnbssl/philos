@@ -16,6 +16,7 @@ $group
                 param id
                 param dbParam
                 var db = dbParam || gJsonData
+                log 'dbGetAuthor', id, db.authors.join()
                 return
                     _ dbGetById
                         @ db.authors

@@ -117,12 +117,10 @@ functors.author = function(parent, resultObj) {
         else if (child.wzElement == "died") {
             authorObj.died = createEvent(child);
         }
-        else if (!fillContents(child, authorObj, resultObj)) {
+        else if (child.wzElement == "avatar") {
+            authorObj.avatar = child.wzName;
         }
-        else if (child.wzElement == "text") {
-            authorObj.contents.push({
-                line: child.wzName
-            });
+        else if (!fillContents(child, authorObj, resultObj)) {
         }
         else if (['field', 'approach', 'theory', 'concept'].indexOf(child.wzElement) > -1) {
             var concept = getOrCreateConcept(resultObj, child.wzElement, child.wzName);
@@ -658,7 +656,7 @@ functors.book = function(parent, resultObj) {
 };
 functors.article = function(parent, resultObj) {
     var articleObj = {
-        id: parent.wzName, 
+        id: (resultObj.ns || 'global') + '.' + parent.wzName, 
         title: null, 
         authors: [
             
@@ -670,6 +668,9 @@ functors.article = function(parent, resultObj) {
             
         ]
     };
+    if (resultObj.ns_author) {
+        articleObj.authors.push(resultObj.ns_author);
+    }
     var newitems = [];
     var i, i_items=parent.items, i_len=parent.items.length, child;
     for (i=0; i<i_len; i++) {

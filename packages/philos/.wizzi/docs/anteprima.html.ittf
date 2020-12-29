@@ -1,5 +1,8 @@
 layouts/muiPage( theme )
 
+  $append headstyles
+    $include styles/authors
+
   $append bodyscripts
     scripts/loadjson()
     scripts/conceptDb()
@@ -9,6 +12,7 @@ layouts/muiPage( theme )
     const drawerWidth = 240
 
   $append components
+    components/commons()
     components/content()
     components/fields()
     components/schools()

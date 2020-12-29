@@ -19,11 +19,9 @@ $group
                     set authorObj.born = createEvent(child)
                 elif child.wzElement == "died"
                     set authorObj.died = createEvent(child)
+                elif child.wzElement == "avatar"
+                    set authorObj.avatar = child.wzName 
                 elif !fillContents(child, authorObj, resultObj)
-                elif child.wzElement == "text"
-                    _ authorObj.contents.push
-                        {
-                            @ line child.wzName
                 elif ['field', 'approach', 'theory', 'concept'].indexOf(child.wzElement) > -1
                     var concept
                         _ getOrCreateConcept

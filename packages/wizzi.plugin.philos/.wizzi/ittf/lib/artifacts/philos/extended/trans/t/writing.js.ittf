@@ -71,11 +71,14 @@ $group
             param resultObj
             var articleObj
                 {
-                    @ id parent.wzName
+                    @ id (resultObj.ns || 'global') + '.' + parent.wzName
                     @ title null
                     [ authors
                     [ reviews
                     [ contents
+            if resultObj.ns_author
+                _ articleObj.authors.push
+                    @ resultObj.ns_author
             var newitems = []
             foreach child in parent.items
                 if child.wzElement == "title"

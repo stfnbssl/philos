@@ -52,6 +52,12 @@
                     ]
                 },
                 {
+                    "wzElement": "avatar",
+                    "wzTag": "avatar",
+                    "wzName": "https://upload.wikimedia.org/wikipedia/commons/1/12/Sigmund_Freud_LIFE.jpg",
+                    "items": []
+                },
+                {
                     "wzElement": "text",
                     "wzTag": "+",
                     "wzName": "Sigismund Schlomo Freud, noto come Sigmund Freud, IPA: è stato un neurologo, psicoanalista e filosofo austriaco, fondatore della psicoanalisi, sicuramente la più famosa tra le correnti teoriche e pratiche della psicologia.",
@@ -109,6 +115,12 @@
                     ]
                 },
                 {
+                    "wzElement": "avatar",
+                    "wzTag": "avatar",
+                    "wzName": "https://www.people.hps.cam.ac.uk/index/resolveuid/ad23c18ccad3474583a9a5c4b418e9b4",
+                    "items": []
+                },
+                {
                     "wzElement": "text",
                     "wzTag": "+",
                     "wzName": "John Forrester era uno storico e filosofo britannico della scienza e della medicina. I suoi interessi principali riguardavano la storia delle scienze umane, in particolare la psicoanalisi e la psichiatria.",
@@ -164,6 +176,12 @@
                             "items": []
                         }
                     ]
+                },
+                {
+                    "wzElement": "avatar",
+                    "wzTag": "avatar",
+                    "wzName": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+                    "items": []
                 },
                 {
                     "wzElement": "text",

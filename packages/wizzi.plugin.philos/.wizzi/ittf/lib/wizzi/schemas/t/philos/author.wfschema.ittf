@@ -10,6 +10,7 @@ $group
     e place : item
     e born : item
     e died : item
+    e avatar : item
     e influenced : item
     e influencedby : item
         tag influenced-by

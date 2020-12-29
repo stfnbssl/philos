@@ -15,6 +15,10 @@ html
       link 
           rel stylesheet
           href https://fonts.googleapis.com/icon?family=Material+Icons
+      @style
+        . root
+          @ padding 10px    
+        $hook headstyles
   body 
       # root
       js https://unpkg.com/react@latest/umd/react.development.js

@@ -82,11 +82,12 @@ $group
                         &&
                             + status == 'book'
                             div
-                                button {'<--'}
-                                    @ onClick
+                                < DetailBar
+                                    @ title {selectedItem.title}
+                                    @ id {selectedItem.id}
+                                    @ onClick 
                                         =>
                                             _ this.handleBookClose()
-                                < h3 Book
                                 < Book
                                     @ item {selectedItem}
                                     @ jsonData {jsonData}
@@ -95,11 +96,12 @@ $group
                         &&
                             + status == 'article'
                             div
-                                button {'<--'}
-                                    @ onClick
+                                < DetailBar
+                                    @ title {selectedItem.title}
+                                    @ id {selectedItem.id}
+                                    @ onClick 
                                         =>
                                             _ this.handleArticleClose()
-                                < h3 Article
                                 < Article
                                     @ item {selectedItem}
                                     @ jsonData {jsonData}
@@ -111,30 +113,48 @@ $group
         set title = (title || name)
         return
             < div
-                h4 {title}
-                div id: {id}
                 @ onClick
                     =>
                         param event
                         _ onClick(event, item)
+                div {title}
+                    @ className "li-title"
+                div id: {id}
+                    @ className "li-id"
+                div
+                    @ className "li-clear"
 
     function Article
         param props
-        var {item} = props
-        if item.contents && item.contents.length > 0
-            return
-                < div 
-                    < h3 {item.id}
-                    < div {item.author + ', ' + item.title + ',' + item.edition}
-                    {
-                        _ item.contents.map
-                            =>
-                                param token
-                                if token.line
-                                    return 
-                                        < p {token.line}
-        else
-            return null
+        var {item, jsonData} = props
+
+        var bookObj
+            _ dbGetBook                            
+                @ item.book
+                @ jsonData
+
+        return
+            < div 
+                < PublicationAuthors
+                    @ item {item}
+                    @ jsonData {jsonData}
+                div {item.edition}
+                {
+                    &&
+                        + bookObj
+                        div
+                            span in {bookObj.title}
+                < ContentText
+                    @ item {item}
+                {
+                    &&
+                        + item.url
+                        div
+                            @ className "web-link"
+                            a {item.url}
+                                href {item.url}
+                                target _blank
+                                rel noopener noreferrer 
 
     function BookListItem
         param props
@@ -143,27 +163,45 @@ $group
         set title = (title || name)
         return
             < div
-                h4 {title}
-                div id: {id}
                 @ onClick
                     =>
                         param event
                         _ onClick(event, item)
+                div {title}
+                    @ className "li-title"
+                div id: {id}
+                    @ className "li-id"
+                div
+                    @ className "li-clear"
 
     function Book
         param props
-        var {item} = props
-        if item.contents && item.contents.length > 0
-            return
-                < div 
-                    < h3 {item.id}
-                    < div {item.author + ', ' + item.title + ',' + item.edition}
-                    {
-                        _ item.contents.map
-                            =>
-                                param token
-                                if token.line
-                                    return 
-                                        < p {token.line}
-        else
-            return null            
+        var {item, jsonData} = props
+        return
+            < div 
+                < PublicationAuthors
+                    @ item {item}
+                    @ jsonData {jsonData}
+                div {item.edition}
+                < ContentText
+                    @ item {item}
+
+    function PublicationAuthors
+        param props
+        var {item, jsonData} = props
+        return
+            div 
+                {
+                    _ item.authors.map
+                        =>
+                            param token
+                            param i
+                            var authObj
+                                _ dbGetAuthor                            
+                                    @ token
+                                    @ jsonData
+                            var text = (i > 0 ? ', ' : '') + token
+                            if authObj
+                                set text = (i > 0 ? ', ' : '') + authObj.fullname
+                            return
+                                span {text}

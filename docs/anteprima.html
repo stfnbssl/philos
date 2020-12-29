@@ -6,6 +6,76 @@
     <meta name="viewport" content="minimum-scale=1, initial-scale=1, width=device-width, shrink-to-fit=no" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
+    <style>
+        .root {
+            padding: 10px;
+        }
+        .a-img-list {
+            width: 30px;
+            height: 34px;
+        }
+        .a-img-box-list {
+            padding: 10px;
+            float: left;
+            border-right: 1px solid gray;
+        }
+        .a-left-list {
+            padding: 10px;
+            float: left;
+        }
+        .a-d-img {
+            padding: 10px;
+            float: left;
+        }
+        .a-d-born {
+            padding: 10px;
+            float: left;
+        }
+        .a-d-born-label {
+            padding: 10px;
+            font-weight: bold;
+            font-size: small;
+        }
+        .a-d-born-text {
+            padding: 10px;
+            float: left;
+        }
+        .li-title {
+            padding: 10px;
+            float: left;
+            font-weight: bold;
+            cursor: pointer;
+        }
+        .li-id {
+            padding: 10px;
+            float: right;
+            font-size: 9px;
+        }
+        .li-clear {
+            clear: both;
+        }
+        .bar-arrow-left {
+            padding: 15px 0px;
+            float: left;
+            cursor: pointer;
+        }
+        .bar-arrow-left-img {
+            width: 30px;
+            height: 20px;
+        }
+        .bar-title {
+            padding: 10px;
+            float: left;
+            font-size: x-large;
+            font-weight: bold;
+        }
+        .bar-id {
+            padding: 10px;
+            float: right;
+            font-size: 9px;
+        }
+        
+    </style>
 </head>
 <body>
     <div id="root"></div>
@@ -46,6 +116,7 @@
         }
         function dbGetAuthor(id, dbParam) {
             var db = dbParam || gJsonData;
+            console.log('dbGetAuthor', id, db.authors.join());
             return dbGetById(db.authors, id);
         }
         function dbGetConcept(id, dbParam) {
@@ -201,6 +272,30 @@
                 useNextVariants: true
             }
         });
+        function DetailBar(props) {
+            var {title, id, onClick} = props;
+            return  (
+                    <div className="bar">
+                        <div className="bar-arrow-left" onClick={onClick}>
+                            <img src={'./assets/img/arrow-left.png'} className="bar-arrow-left-img">
+                            </img>
+                        
+                        </div>
+                    
+                        <div className="bar-title">
+                        {title}</div>
+                    
+                        <div className="bar-id">
+                        id: {id}
+                        </div>
+                    
+                        <div className="li-clear">
+                        </div>
+                    
+                    </div>
+                )
+            ;
+        }
         function Quote(props) {
             var {item, jsonData} = props;
             var articleObj = null;
@@ -463,11 +558,6 @@
                     selectedItem: null
                 });
             }
-            getConcept = (id) => {
-                jsonData.concepts.find((item) => {
-                    return item.id == id;
-                });
-            }
             render() {
                 const {
                     jsonData
@@ -502,14 +592,9 @@
                         }{
                             status == 'concept' &&  (
                                 <div>
-                                    <button onClick={() =>
+                                    <DetailBar title={(selectedItem.title && selectedItem.title.text) || selectedItem.id} id={selectedItem.id} onClick={() =>
                                         this.handleConceptClose()}>
-                                    {'<--'}
-                                    </button>
-                                
-                                    <h3>
-                                    Concetto
-                                    </h3>
+                                    </DetailBar>
                                 
                                     <Concept item={selectedItem} jsonData={jsonData}>
                                     </Concept>
@@ -572,33 +657,104 @@
                     ;
                 });
         }
-        function AuthorList(props) {
-            var {jsonData} = props;
-            return  (
-                    <div>
-                        <h2>
-                        Autori
-                        </h2>
-                    
-                        <Paper style={{maxHeight: '90%', maxWidth:800, overflow: 'auto'}}>
-                            <Table>
+        class AuthorList extends React.Component {
+            state = {
+                status: 'list', 
+                selectedItem: null
+            };
+            handleAuthorOpen = (ev, authorItem) => {
+                console.log('handleAuthorOpen.id', authorItem.id);
+                console.log('handleAuthorOpen.ev', ev);
+                this.setState({
+                    status: 'author', 
+                    selectedItem: authorItem
+                });
+            }
+            handleAuthorClose = () => {
+                this.setState({
+                    status: 'list', 
+                    selectedItem: null
+                });
+            }
+            render() {
+                const {
+                    classes,
+                    jsonData
+                } = this.props;
+                const {
+                    status, 
+                    selectedItem
+                } = this.state;
+                return  (
+                        <div>
+                            <Paper style={{maxHeight: '90%', maxWidth:800, padding:10, overflow: 'auto'}}>
                             {
-                                jsonData.authors.sort(compareById).map(function(item) {
-                                    return  (
-                                            <TableRow button key={item.id}>
-                                                <TableCell>
-                                                    <Author item={item}>
-                                                    </Author>
-                                                
-                                                </TableCell>
-                                            
-                                            </TableRow>
-                                        )
-                                    ;
-                                })
-                            }</Table>
+                                status == 'list' &&  (
+                                    <div>
+                                        <h2>
+                                        Autori
+                                        </h2>
+                                    
+                                    {
+                                        jsonData.authors.sort(compareById).map((item) => {
+                                            return  (
+                                                    <AuthorListItem key={item.id} item={item} classes={classes} onClick={this.handleAuthorOpen}>
+                                                    </AuthorListItem>
+                                                )
+                                            ;
+                                        })
+                                    }</div>
+                                )
+                                
+                            }{
+                                status == 'author' &&  (
+                                    <div>
+                                        <DetailBar title={selectedItem.fullname} id={selectedItem.id} onClick={() =>
+                                            this.handleAuthorClose()}>
+                                        </DetailBar>
+                                    
+                                        <Author item={selectedItem} jsonData={jsonData}>
+                                        </Author>
+                                    
+                                    </div>
+                                )
+                                
+                            }</Paper>
                         
-                        </Paper>
+                        </div>
+                    )
+                ;
+            }
+        }
+        function AuthorListItem(props) {
+            var {item, onClick, classes} = props;
+            var {id, name, title} = item;
+            title = (title || name);
+            return  (
+                    <div onClick={(event) =>
+                        onClick(event, item)}>
+                        <div className="a-img-box-list">
+                            <img src={item.avatar} className="a-img-list">
+                            </img>
+                        
+                        </div>
+                    
+                        <div className="li-title">
+                            <span>
+                            {item.fullname}
+                            </span>
+                        
+                        </div>
+                    
+                        <div className="li-id">
+                            <div>
+                            id: {item.id}
+                            </div>
+                        
+                        </div>
+                    
+                        <div className="li-clear">
+                        </div>
                     
                     </div>
                 )
@@ -608,63 +764,80 @@
             var {item} = props;
             return  (
                     <div>
-                        <h3>
-                        {item.id}
-                        </h3>
-                    
                         <div>
-                        {item.fullname}
+                            <div className="a-d-img">
+                                <img src={item.avatar} height={160} width={140}>
+                                </img>
+                            
+                            </div>
+                        
+                            <div className="a-d-born">
+                            {
+                                item.born ?  (
+                                        <div>
+                                            <div className="li-clear">
+                                            </div>
+                                        
+                                            <div className="a-d-born-label">
+                                            Nascita
+                                            </div>
+                                        
+                                            <div className="a-d-born-text">
+                                                <span>
+                                                {item.born.date}
+                                                </span>
+                                            
+                                                <span>
+                                                ,&nbsp;
+                                                </span>
+                                            
+                                                <span>
+                                                {item.born.place}
+                                                </span>
+                                            
+                                            </div>
+                                        
+                                        </div>
+                                    )
+                                 : null
+                                
+                            }{
+                                item.died ?  (
+                                        <div>
+                                            <div className="li-clear">
+                                            </div>
+                                        
+                                            <div className="a-d-born-label">
+                                            Morte
+                                            </div>
+                                        
+                                            <div className="a-d-born-text">
+                                                <span>
+                                                {item.died.date}
+                                                </span>
+                                            
+                                                <span>
+                                                ,&nbsp;
+                                                </span>
+                                            
+                                                <span>
+                                                {item.died.place}
+                                                </span>
+                                            
+                                            </div>
+                                        
+                                        </div>
+                                    )
+                                 : null
+                                
+                            }</div>
+                        
+                            <div className="li-clear">
+                            </div>
+                        
                         </div>
                     
-                    {
-                        item.born ?  (
-                                <div>
-                                Nascita
-                                    <span>
-                                    :&nbsp;
-                                    </span>
-                                
-                                    <span>
-                                    {item.born.date}
-                                    </span>
-                                
-                                    <span>
-                                    ,&nbsp;
-                                    </span>
-                                
-                                    <span>
-                                    {item.born.place}
-                                    </span>
-                                
-                                </div>
-                            )
-                         : null
-                        
-                    }{
-                        item.died ?  (
-                                <div>
-                                Morte
-                                    <span>
-                                    :&nbsp;
-                                    </span>
-                                
-                                    <span>
-                                    {item.died.date}
-                                    </span>
-                                
-                                    <span>
-                                    ,&nbsp;
-                                    </span>
-                                
-                                    <span>
-                                    {item.died.place}
-                                    </span>
-                                
-                                </div>
-                            )
-                         : null
-                        
-                    }<ContentText item={item}>
+                        <ContentText item={item}>
                         </ContentText>
                     
                     </div>
@@ -859,14 +1032,9 @@
                         }{
                             status == 'book' &&  (
                                 <div>
-                                    <button onClick={() =>
+                                    <DetailBar title={selectedItem.title} id={selectedItem.id} onClick={() =>
                                         this.handleBookClose()}>
-                                    {'<--'}
-                                    </button>
-                                
-                                    <h3>
-                                    Book
-                                    </h3>
+                                    </DetailBar>
                                 
                                     <Book item={selectedItem} jsonData={jsonData}>
                                     </Book>
@@ -877,14 +1045,9 @@
                         }{
                             status == 'article' &&  (
                                 <div>
-                                    <button onClick={() =>
+                                    <DetailBar title={selectedItem.title} id={selectedItem.id} onClick={() =>
                                         this.handleArticleClose()}>
-                                    {'<--'}
-                                    </button>
-                                
-                                    <h3>
-                                    Article
-                                    </h3>
+                                    </DetailBar>
                                 
                                     <Article item={selectedItem} jsonData={jsonData}>
                                     </Article>
@@ -904,12 +1067,15 @@
             return  (
                     <div onClick={(event) =>
                         onClick(event, item)}>
-                        <h4>
+                        <div className="li-title">
                         {title}
-                        </h4>
+                        </div>
                     
-                        <div>
+                        <div className="li-id">
                         id: {id}
+                        </div>
+                    
+                        <div className="li-clear">
                         </div>
                     
                     </div>
@@ -917,36 +1083,43 @@
             ;
         }
         function Article(props) {
-            var {item} = props;
-            if (item.contents && item.contents.length > 0) {
-                return  (
+            var {item, jsonData} = props;
+            var bookObj = dbGetBook(item.book, jsonData);
+            return  (
+                    <div>
+                        <PublicationAuthors item={item} jsonData={jsonData}>
+                        </PublicationAuthors>
+                    
                         <div>
-                            <h3>
-                            {item.id}
-                            </h3>
-                        
+                        {item.edition}
+                        </div>
+                    
+                    {
+                        bookObj &&  (
                             <div>
-                            {item.author + ', ' + item.title + ',' + item.edition}
+                                <span>
+                                in {bookObj.title}
+                                </span>
+                            
                             </div>
+                        )
                         
-                        {
-                            item.contents.map((token) => {
-                                if (token.line) {
-                                    return  (
-                                            <p>
-                                            {token.line}
-                                            </p>
-                                        )
-                                    ;
-                                }
-                            })
-                        }</div>
-                    )
-                ;
-            }
-            else {
-                return null;
-            }
+                    }<ContentText item={item}>
+                        </ContentText>
+                    
+                    {
+                        item.url &&  (
+                            <div className="web-link">
+                                <a href={item.url} target="_blank" rel="noopener noreferrer">
+                                {item.url}
+                                </a>
+                            
+                            </div>
+                        )
+                        
+                    }</div>
+                )
+            ;
         }
         function BookListItem(props) {
             var {item, onClick} = props;
@@ -955,12 +1128,15 @@
             return  (
                     <div onClick={(event) =>
                         onClick(event, item)}>
-                        <h4>
+                        <div className="li-title">
                         {title}
-                        </h4>
+                        </div>
                     
-                        <div>
+                        <div className="li-id">
                         id: {id}
+                        </div>
+                    
+                        <div className="li-clear">
                         </div>
                     
                     </div>
@@ -968,36 +1144,44 @@
             ;
         }
         function Book(props) {
-            var {item} = props;
-            if (item.contents && item.contents.length > 0) {
-                return  (
+            var {item, jsonData} = props;
+            return  (
+                    <div>
+                        <PublicationAuthors item={item} jsonData={jsonData}>
+                        </PublicationAuthors>
+                    
                         <div>
-                            <h3>
-                            {item.id}
-                            </h3>
-                        
-                            <div>
-                            {item.author + ', ' + item.title + ',' + item.edition}
-                            </div>
-                        
-                        {
-                            item.contents.map((token) => {
-                                if (token.line) {
-                                    return  (
-                                            <p>
-                                            {token.line}
-                                            </p>
-                                        )
-                                    ;
-                                }
-                            })
-                        }</div>
-                    )
-                ;
-            }
-            else {
-                return null;
-            }
+                        {item.edition}
+                        </div>
+                    
+                        <ContentText item={item}>
+                        </ContentText>
+                    
+                    </div>
+                )
+            ;
+        }
+        function PublicationAuthors(props) {
+            var {item, jsonData} = props;
+            return  (
+                    <div>
+                    {
+                        item.authors.map((token, i) => {
+                            var authObj = dbGetAuthor(token, jsonData);
+                            var text = (i > 0 ? ', ' : '') + token;
+                            if (authObj) {
+                                text = (i > 0 ? ', ' : '') + authObj.fullname;
+                            }
+                            return  (
+                                    <span>
+                                    {text}
+                                    </span>
+                                )
+                            ;
+                        })
+                    }</div>
+                )
+            ;
         }
         const styles = theme => (
             {

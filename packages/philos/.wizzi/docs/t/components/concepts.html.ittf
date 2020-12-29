@@ -22,13 +22,6 @@ $group
                     @ status 'list'
                     @ selectedItem null
 
-        => getConcept
-            param id
-            _ jsonData.concepts.find
-                =>
-                    param item
-                    return item.id == id
-
         render
             prop jsonData
             const 
@@ -60,11 +53,12 @@ $group
                         &&
                             + status == 'concept'
                             div
-                                button {'<--'}
-                                    @ onClick
+                                < DetailBar
+                                    @ title {(selectedItem.title && selectedItem.title.text) || selectedItem.id}
+                                    @ id {selectedItem.id}
+                                    @ onClick 
                                         =>
                                             _ this.handleConceptClose()
-                                < h3 Concetto
                                 < Concept
                                     @ item {selectedItem}
                                     @ jsonData {jsonData}

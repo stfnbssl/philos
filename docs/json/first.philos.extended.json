@@ -17,7 +17,8 @@
             "died": {
                 "date": "23/11/1939",
                 "place": "Hampstead, Londra, Regno Unito"
-            }
+            },
+            "avatar": "https://upload.wikimedia.org/wikipedia/commons/1/12/Sigmund_Freud_LIFE.jpg"
         },
         {
             "id": "Forrester",
@@ -36,7 +37,8 @@
             "died": {
                 "date": "24/11/2015",
                 "place": "Unknown"
-            }
+            },
+            "avatar": "https://www.people.hps.cam.ac.uk/index/resolveuid/ad23c18ccad3474583a9a5c4b418e9b4"
         },
         {
             "id": "Scalzone",
@@ -55,7 +57,8 @@
             "died": {
                 "date": "Unknown",
                 "place": "Unknown"
-            }
+            },
+            "avatar": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg"
         }
     ],
     "authorsGroups": [],
@@ -3904,41 +3907,51 @@
     ],
     "articles": [
         {
-            "id": "al-di-la-del-principio-del-piacere",
+            "id": "freud.al-di-la-del-principio-del-piacere",
             "title": "Al di la del principio di piacere",
-            "authors": [],
+            "authors": [
+                "Freud"
+            ],
             "reviews": [],
             "contents": [],
             "book": "freud.opere-IX"
         },
         {
-            "id": "psicologia-delle-masse-e-analisi-dell-io",
+            "id": "freud.psicologia-delle-masse-e-analisi-dell-io",
             "title": "Psicologia delle masse e analisi dell'Io",
-            "authors": [],
+            "authors": [
+                "Freud"
+            ],
             "reviews": [],
             "contents": [],
             "book": "freud.opere-IX"
         },
         {
-            "id": "la-morale-sessuale-civile-e-il-nervosismo-moderno",
+            "id": "freud.la-morale-sessuale-civile-e-il-nervosismo-moderno",
             "title": "La morale sessuale “civile” e il nervosismo moderno",
-            "authors": [],
+            "authors": [
+                "Freud"
+            ],
             "reviews": [],
             "contents": [],
             "book": "freud.opere-V"
         },
         {
-            "id": "l-inconscio",
+            "id": "freud.l-inconscio",
             "title": "L'Inconscio",
-            "authors": [],
+            "authors": [
+                "Freud"
+            ],
             "reviews": [],
             "contents": [],
             "book": "freud.opere-VIII"
         },
         {
-            "id": "1-gennaio-1896-una-lettera-di-Freud-a-Fliess",
+            "id": "scalzone.1-gennaio-1896-una-lettera-di-Freud-a-Fliess",
             "title": "1 Gennaio 1896: una lettera di Freud a Fliess",
-            "authors": [],
+            "authors": [
+                "Scalzone"
+            ],
             "reviews": [],
             "contents": [],
             "url": "http://www.psychomedia.it/pm/indther/psan/scalz1.htm"

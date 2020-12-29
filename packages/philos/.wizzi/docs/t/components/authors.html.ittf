@@ -1,54 +1,141 @@
 $group
 
-    function AuthorList
+    react AuthorList
+        
+        state
+            @ status 'list'
+            @ selectedItem null
+
+        => handleAuthorOpen
+            param ev
+            param authorItem
+            log 'handleAuthorOpen.id', authorItem.id
+            log 'handleAuthorOpen.ev', ev
+            _ this.setState
+                { 
+                    @ status 'author'
+                    @ selectedItem authorItem
+
+        => handleAuthorClose
+            _ this.setState
+                { 
+                    @ status 'list'
+                    @ selectedItem null
+
+        render
+            prop classes
+            prop jsonData
+            const 
+                { 
+                    @ status
+                    @ selectedItem
+                = this.state
+
+            return
+                div
+                    < Paper
+                        @ style {{maxHeight: '90%', maxWidth:800, padding:10, overflow: 'auto'}}
+                        {
+                            &&
+                                + status == 'list'
+                                div
+                                    < h2 Autori
+                                    {
+                                        _ jsonData.authors.sort(compareById).map
+                                            =>
+                                                param item
+                                                return
+                                                    < AuthorListItem
+                                                        @ key {item.id}
+                                                        @ item {item}
+                                                        @ classes {classes}
+                                                        @ onClick {this.handleAuthorOpen}
+
+                        {
+                            &&
+                                + status == 'author'
+                                div
+                                    < DetailBar
+                                        @ title {selectedItem.fullname}
+                                        @ id {selectedItem.id}
+                                        @ onClick
+                                            =>
+                                                _ this.handleAuthorClose()
+                                    < Author
+                                        @ item {selectedItem}
+                                        @ jsonData {jsonData}
+    
+    function AuthorListItem
         param props
-        var {jsonData} = props
+        var {item, onClick, classes} = props
+        var {id, name, title} = item
+        set title = (title || name)
         return
             div
-                < h2 Autori
-                < Paper
-                    @ style {{maxHeight: '90%', maxWidth:800, overflow: 'auto'}}
-                    < Table 
-                        {
-                            _ jsonData.authors.sort(compareById).map
-                                function
-                                    param item
-                                    return
-                                        < TableRow 
-                                            @ button
-                                            @ key {item.id}
-                                            < TableCell
-                                                < Author
-                                                    @ item {item}
+                @ onClick
+                    =>
+                        param event
+                        _ onClick(event, item)
+                div
+                    @ className "a-img-box-list"
+                    img
+                        @ src {item.avatar}
+                        @ className "a-img-list"
+                div
+                    @ className "li-title"
+                    span {item.fullname}
+                div
+                    @ className "li-id"
+                    div id: {item.id}
+                div 
+                    @ className "li-clear"
 
-    
     function Author
         param props
         var {item} = props
         return
-            < div 
-                < h3 {item.id}
-                div {item.fullname}
-                {
-                    iif item.born
-                        then
-                            div Nascita
-                                span :&nbsp;
-                                span {item.born.date}
-                                span ,&nbsp;
-                                span {item.born.place}
-                        else
-                            + null
-                {
-                    iif item.died
-                        then
-                            div Morte
-                                span :&nbsp;
-                                span {item.died.date}
-                                span ,&nbsp;
-                                span {item.died.place}
-                        else
-                            + null
+            div 
+                div
+                    div
+                        @ className "a-d-img"
+                        img
+                            @ src {item.avatar}
+                            @ height {160}
+                            @ width {140}
+                    div
+                        @ className "a-d-born"
+                        {
+                            iif item.born
+                                then
+                                    div
+                                        div
+                                            @ className "li-clear"
+                                        div Nascita
+                                            @ className "a-d-born-label"
+                                        div
+                                            @ className "a-d-born-text"
+                                            span {item.born.date}
+                                            span ,&nbsp;
+                                            span {item.born.place}
+                                else
+                                    + null
+                        {
+                            iif item.died
+                                then
+                                    div
+                                        div
+                                            @ className "li-clear"
+                                        div Morte
+                                            @ className "a-d-born-label"
+                                        div
+                                            @ className "a-d-born-text"
+                                            span {item.died.date}
+                                            span ,&nbsp;
+                                            span {item.died.place}
+                                else
+                                    + null
+                    div
+                        @ className "li-clear"
                 < ContentText
                     @ item {item}
         

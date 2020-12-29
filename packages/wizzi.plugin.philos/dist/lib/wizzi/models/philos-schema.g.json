@@ -228,6 +228,12 @@
           ]
         },
         {
+          "name": "avatar",
+          "tags": [
+            "avatar"
+          ]
+        },
+        {
           "name": "influenced",
           "tags": [
             "influenced"
@@ -1701,6 +1707,45 @@
       "isRoot": false,
       "tags": [
         "died"
+      ],
+      "flags": "",
+      "attributes": [
+        {
+          "name": "value",
+          "type": "string",
+          "tags": [
+            "value"
+          ],
+          "flags": "",
+          "inheritedFrom": "item",
+          "restricts": [],
+          "comments": []
+        }
+      ],
+      "relations": [
+        {
+          "name": "item",
+          "role": "items",
+          "tags": [
+            "item"
+          ],
+          "cardinality": "one-to-many",
+          "flags": "",
+          "inheritedFrom": "item",
+          "comments": []
+        }
+      ],
+      "derived": [],
+      "restricts": [],
+      "methods": [],
+      "comments": []
+    },
+    {
+      "name": "avatar",
+      "super": "item",
+      "isRoot": false,
+      "tags": [
+        "avatar"
       ],
       "flags": "",
       "attributes": [
