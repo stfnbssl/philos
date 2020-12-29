@@ -36,6 +36,7 @@ wfschema philos
     e en : item
     e sp : item
     e fr : item
+    e it : item
 
 	philos/author()
     philos/school()

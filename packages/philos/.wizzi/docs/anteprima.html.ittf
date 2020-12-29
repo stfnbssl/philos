@@ -2,7 +2,8 @@ layouts/muiPage( theme )
 
   $append bodyscripts
     scripts/loadjson()
-    js ${site.jsonURL}//first.philos.extended.jsonvar.js
+    scripts/conceptDb()
+    $$ js ${site.jsonURL}//first.philos.extended.jsonvar.js
 
   $append imports
     const drawerWidth = 240

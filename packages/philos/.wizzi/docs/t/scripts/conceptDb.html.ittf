@@ -1,0 +1,50 @@
+$group
+
+    script
+        type text/babel
+        module
+            function dbGetById
+                param coll
+                param id
+                return
+                    _ coll.find
+                        =>
+                            param item
+                            return item.id == id
+
+            function dbGetAuthor
+                param id
+                param dbParam
+                var db = dbParam || gJsonData
+                return
+                    _ dbGetById
+                        @ db.authors
+                        @ id
+
+            function dbGetConcept
+                param id
+                param dbParam
+                var db = dbParam || gJsonData
+                return
+                    _ dbGetById
+                        @ db.concepts
+                        @ id
+
+            function dbGetArticle
+                param id
+                param dbParam
+                var db = dbParam || gJsonData
+                return
+                    _ dbGetById
+                        @ db.articles
+                        @ id
+
+            function dbGetBook
+                param id
+                param dbParam
+                var db = dbParam || gJsonData
+                return
+                    _ dbGetById
+                        @ db.books
+                        @ id
+                

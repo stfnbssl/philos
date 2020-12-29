@@ -1,26 +1,155 @@
 $group
 
-    function PublicationList
+    react PublicationList
+        
+        state
+            @ status 'list'
+            @ selectedItem null
+
+        => handleArticleOpen
+            param ev
+            param articleItem
+            log 'handleArticleOpen.id', articleItem.id
+            log 'handleArticleOpen.ev', ev
+            _ this.setState
+                { 
+                    @ status 'article'
+                    @ selectedItem articleItem
+
+        => handleArticleClose
+            _ this.setState
+                { 
+                    @ status 'list'
+                    @ selectedItem null
+
+        => handleBookOpen
+            param ev
+            param bookItem
+            log 'handleBookOpen.id', bookItem.id
+            log 'handleBookOpen.ev', ev
+            _ this.setState
+                { 
+                    @ status 'book'
+                    @ selectedItem bookItem
+
+        => handleBookClose
+            _ this.setState
+                { 
+                    @ status 'list'
+                    @ selectedItem null
+
+        render
+            prop jsonData
+            const 
+                { 
+                    @ status
+                    @ selectedItem
+                = this.state
+
+            log 'status', status
+
+            return
+                div
+                    {
+                        &&
+                            + status == 'list'
+                            div
+                                < Paper
+                                    @ style {{maxHeight: '90%', maxWidth:800, padding:10, overflow: 'auto'}}
+                                    < h2 Articoli
+                                    {
+                                        _ jsonData.articles.sort(compareById).map
+                                            =>
+                                                param item
+                                                return
+                                                    div
+                                                        @ key {item.id}
+                                                        < ArticleListItem
+                                                            @ item {item}
+                                                            @ onClick {this.handleArticleOpen}
+                                    < h2 Libri
+                                    {
+                                        _ jsonData.books.sort(compareById).map
+                                            =>
+                                                param item
+                                                return
+                                                    div
+                                                        @ key {item.id}
+                                                        < BookListItem
+                                                            @ item {item}
+                                                            @ onClick {this.handleBookOpen}
+                    {
+                        &&
+                            + status == 'book'
+                            div
+                                button {'<--'}
+                                    @ onClick
+                                        =>
+                                            _ this.handleBookClose()
+                                < h3 Book
+                                < Book
+                                    @ item {selectedItem}
+                                    @ jsonData {jsonData}
+
+                    {
+                        &&
+                            + status == 'article'
+                            div
+                                button {'<--'}
+                                    @ onClick
+                                        =>
+                                            _ this.handleArticleClose()
+                                < h3 Article
+                                < Article
+                                    @ item {selectedItem}
+                                    @ jsonData {jsonData}
+
+    function ArticleListItem
         param props
-        var {jsonData} = props
+        var {item, onClick} = props
+        var {id, name, title} = item
+        set title = (title || name)
         return
-            div
-                < h2 Testi
-                < Paper
-                    @ style {{maxHeight: 370, overflow: 'auto'}}
-                    < Table 
-                        {
-                            _ jsonData.books.sort(compareById).map
-                                function
-                                    param item
-                                    return
-                                        < TableRow 
-                                            @ button
-                                            @ key {item.id}
-                                            < TableCell
-                                                < Book
-                                                    @ item {item}
-    
+            < div
+                h4 {title}
+                div id: {id}
+                @ onClick
+                    =>
+                        param event
+                        _ onClick(event, item)
+
+    function Article
+        param props
+        var {item} = props
+        if item.contents && item.contents.length > 0
+            return
+                < div 
+                    < h3 {item.id}
+                    < div {item.author + ', ' + item.title + ',' + item.edition}
+                    {
+                        _ item.contents.map
+                            =>
+                                param token
+                                if token.line
+                                    return 
+                                        < p {token.line}
+        else
+            return null
+
+    function BookListItem
+        param props
+        var {item, onClick} = props
+        var {id, name, title} = item
+        set title = (title || name)
+        return
+            < div
+                h4 {title}
+                div id: {id}
+                @ onClick
+                    =>
+                        param event
+                        _ onClick(event, item)
+
     function Book
         param props
         var {item} = props
@@ -31,10 +160,10 @@ $group
                     < div {item.author + ', ' + item.title + ',' + item.edition}
                     {
                         _ item.contents.map
-                            function
+                            =>
                                 param token
                                 if token.line
                                     return 
                                         < p {token.line}
         else
-            return null
+            return null            

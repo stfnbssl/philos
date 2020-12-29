@@ -1,0 +1,9 @@
+$group
+
+    namespace scalzone
+        author Scalzone
+
+        article 1-gennaio-1896-una-lettera-di-Freud-a-Fliess
+            title 1 Gennaio 1896: una lettera di Freud a Fliess
+            url http://www.psychomedia.it/pm/indther/psan/scalz1.htm        
+

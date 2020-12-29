@@ -1,4 +1,9 @@
 $group
 
+    $include ../../authors/freud
+    $include ../../authors/forrester
+    $include ../../authors/scalzone
+    $include ../../biblio/freud
+    $include ../../biblio/forrester
+    $include ../../biblio/scalzone
     $include concepts/index
-    $include resources/index

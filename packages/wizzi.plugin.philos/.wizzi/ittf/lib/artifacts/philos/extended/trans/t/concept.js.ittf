@@ -101,6 +101,7 @@ $group
                 [ contributiontos
                 [ forerunnersof
                 [ relatedtos
+                [ periods
                 [ contents
 
     function clearConcept
@@ -117,6 +118,8 @@ $group
             delete conceptObj.forerunnersof
         if conceptObj.relatedtos.length == 0
             delete conceptObj.relatedtos
+        if conceptObj.periods.length == 0
+            delete conceptObj.periods
         if conceptObj.contents.length == 0
             delete conceptObj.contents
 
@@ -144,6 +147,11 @@ $group
                 _ functors.alias
                     @ child
                     @ conceptObj
+            elif child.wzElement == 'period'
+                _ functors.period
+                    @ child
+                    @ conceptObj
+                    @ resultObj
             elif child.wzElement == "contributionto"
                 $$ _ conceptObj.contributiontos.push
                 $$     @ child.toJson()

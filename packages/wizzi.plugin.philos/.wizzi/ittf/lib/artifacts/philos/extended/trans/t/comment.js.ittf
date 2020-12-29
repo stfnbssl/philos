@@ -6,8 +6,8 @@ $group
             param resultObj
             var commentObj
                 {
-                    @ author
-                    [ lines
+                    @ author null
+                    [ contents
             foreach child in parent.items
                 if !fillContents(child, commentObj, resultObj)
             return commentObj

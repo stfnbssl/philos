@@ -174,8 +174,8 @@ functors.authorsgroup = function(parent, resultObj) {
 };
 functors.comment = function(parent, resultObj) {
     var commentObj = {
-        author, 
-        lines: [
+        author: null, 
+        contents: [
             
         ]
     };
@@ -300,6 +300,9 @@ function createConcept(name, resultObj, kind) {
             relatedtos: [
                 
             ], 
+            periods: [
+                
+            ], 
             contents: [
                 
             ]
@@ -324,6 +327,9 @@ function clearConcept(conceptObj) {
     if (conceptObj.relatedtos.length == 0) {
         delete conceptObj.relatedtos
     }
+    if (conceptObj.periods.length == 0) {
+        delete conceptObj.periods
+    }
     if (conceptObj.contents.length == 0) {
         delete conceptObj.contents
     }
@@ -346,6 +352,9 @@ function fillConcept(parent, resultObj, conceptObj) {
         }
         else if (child.wzElement == 'alias') {
             functors.alias(child, conceptObj);
+        }
+        else if (child.wzElement == 'period') {
+            functors.period(child, conceptObj, resultObj);
         }
         else if (child.wzElement == "contributionto") {
             addContribution(child, conceptObj);
@@ -383,6 +392,15 @@ function fillExtendsExports(parent, currentObj, resultObj) {
         return true;
     }
 }
+functors.contents = function(parent, parentObj, resultObj) {
+    var i, i_items=parent.items, i_len=parent.items.length, child;
+    for (i=0; i<i_len; i++) {
+        child = parent.items[i];
+        if (!fillContents(child, parentObj, resultObj)) {
+            // functors.contents is called when contents only are expected
+        }
+    }
+};
 function fillContents(parent, currentObj, resultObj) {
     if (!currentObj.contents) {
         console.log(currentObj.kind);
@@ -401,7 +419,12 @@ function fillContents(parent, currentObj, resultObj) {
     }
     else if (parent.wzElement == 'comment') {
         currentObj.contents.push({
-            comment: parent.toJson()
+            comment: functors.comment(parent, resultObj)
+        });
+    }
+    else if (parent.wzElement == 'example') {
+        currentObj.contents.push({
+            example: functors.comment(parent, resultObj)
         });
     }
     else if (parent.wzElement == 'concept' && currentObj.kind == 'concept') {
@@ -477,11 +500,9 @@ function fillQuote(parent, currentObj, resultObj) {
         }
         else if (child.wzElement == 'book') {
             quoteObj.book = child.wzName;
-            functors.book(child, resultObj);
         }
         else if (child.wzElement == 'article') {
             quoteObj.article = child.wzName;
-            functors.article(child, resultObj);
         }
         else if (child.wzElement == 'comment') {
             quoteObj.comment = functors.comment(child, resultObj);
@@ -492,6 +513,15 @@ function fillQuote(parent, currentObj, resultObj) {
     }
     return quoteObj;
 }
+functors.period = function(field, parentObj, resultObj) {
+    var periodObj = {
+        title: field.wzName, 
+        contents: [
+            
+        ]
+    };
+    functors.contents(field, periodObj, resultObj);
+};
 functors.field = function(parent, resultObj) {
     var fieldObj = createConcept(parent.wzName, "field");
     var newitems = fillConcept(parent, resultObj, fieldObj);
@@ -537,7 +567,7 @@ functors.approach = function(parent, resultObj) {
 };
 functors.book = function(parent, resultObj) {
     var bookObj = {
-        id: parent.wzName, 
+        id: (resultObj.ns || 'global') + '.' + parent.wzName, 
         title: null, 
         authors: [
             
@@ -545,10 +575,16 @@ functors.book = function(parent, resultObj) {
         reviews: [
             
         ], 
+        buys: [
+            
+        ], 
         contents: [
             
         ]
     };
+    if (resultObj.ns_author) {
+        bookObj.authors.push(resultObj.ns_author);
+    }
     var newitems = [];
     var i, i_items=parent.items, i_len=parent.items.length, child;
     for (i=0; i<i_len; i++) {
@@ -591,11 +627,26 @@ functors.book = function(parent, resultObj) {
         else if (child.wzElement == "source") {
             functors.source(child, bookObj);
         }
+        else if (child.wzElement == "buy") {
+            bookObj.buys.push({
+                seller: child.seller, 
+                url: child.url
+            });
+        }
         else if (!fillContents(child, bookObj)) {
         }
         else {
             newitems.push(child);
         }
+    }
+    if (bookObj.reviews.length == 0) {
+        delete bookObj.reviews
+    }
+    if (bookObj.contents.length == 0) {
+        delete bookObj.contents
+    }
+    if (bookObj.buys.length == 0) {
+        delete bookObj.buys
     }
     resultObj.books.push(bookObj);
     var i, i_items=newitems, i_len=newitems.length, child;
@@ -632,9 +683,11 @@ functors.article = function(parent, resultObj) {
         else if (child.wzElement == "author") {
             articleObj.authors.push(child.wzName);
         }
+        else if (child.wzElement == "url") {
+            articleObj.url = child.wzName;
+        }
         else if (child.wzElement == "book") {
             articleObj.book = child.wzName;
-            functors.book(child, resultObj);
         }
         else if (child.wzElement == 'page') {
             articleObj.page = child.wzName;
@@ -644,6 +697,9 @@ functors.article = function(parent, resultObj) {
         }
         else if (child.wzElement == 'kindle-loc') {
             articleObj.kindleloc = child.wzName;
+        }
+        else if (child.wzElement == "source") {
+            functors.source(child, bookObj);
         }
         else if (!fillContents(child, articleObj)) {
         }
@@ -689,12 +745,7 @@ functors.title = function(field, parentObj) {
     var i, i_items=field.items, i_len=field.items.length, child;
     for (i=0; i<i_len; i++) {
         child = field.items[i];
-        if (['en','de','fr','sp'].indexOf(child.wzElement) > -1) {
-            titleObj.langs.push({
-                lang: child.wzElement, 
-                text: child.wzName
-            });
-        }
+        functors.language(child, titleObj);
     }
     if (titleObj.langs.length == 0) {
         delete titleObj.langs
@@ -716,17 +767,28 @@ functors.alias = function(field, parentObj) {
     var i, i_items=field.items, i_len=field.items.length, child;
     for (i=0; i<i_len; i++) {
         child = field.items[i];
-        if (['en','de','fr','sp'].indexOf(child.wzElement) > -1) {
-            aliasObj.langs.push({
-                lang: child.wzElement, 
-                text: child.wzName
-            });
-        }
+        functors.language(child, aliasObj);
     }
     if (aliasObj.langs.length == 0) {
         delete aliasObj.langs
     }
     parentObj.aliases.push(aliasObj);
+};
+functors.language = function(field, parentObj) {
+    if (['en','de','fr','sp'].indexOf(field.wzElement) > -1) {
+        var langObj = {
+            lang: field.wzElement, 
+            text: field.wzName
+        };
+        var i, i_items=field.items, i_len=field.items.length, child;
+        for (i=0; i<i_len; i++) {
+            child = field.items[i];
+            if (child.wzElement == 'it') {
+                langObj.it = child.wzName;
+            }
+        }
+        parentObj.langs.push(langObj);
+    }
 };
 /**
      params

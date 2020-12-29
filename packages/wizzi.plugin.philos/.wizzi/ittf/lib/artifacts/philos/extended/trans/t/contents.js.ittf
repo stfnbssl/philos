@@ -1,5 +1,15 @@
 $group
 
+    set functors.contents
+        function
+            param parent
+            param parentObj
+            param resultObj
+            foreach child in parent.items
+                if !fillContents(child, parentObj, resultObj)
+                    # functors.contents is called when contents only are expected
+                    $$ TODO error
+
     function fillContents
         param parent
         param currentObj
@@ -23,7 +33,17 @@ $group
         elif parent.wzElement == 'comment'
             _ currentObj.contents.push
                 {
-                    @ comment parent.toJson()
+                    @ comment
+                        _ functors.comment
+                            @ parent
+                            @ resultObj
+        elif parent.wzElement == 'example'
+            _ currentObj.contents.push
+                {
+                    @ example
+                        _ functors.comment
+                            @ parent
+                            @ resultObj
         elif parent.wzElement == 'concept' && currentObj.kind == 'concept'
             var savens = resultObj.ns
             set resultObj.ns = currentObj.id
@@ -82,14 +102,8 @@ $group
                 set quoteObj.kindlepage = child.wzName
             elif child.wzElement == 'book'
                 set quoteObj.book = child.wzName
-                _ functors.book
-                    @ child
-                    @ resultObj
             elif child.wzElement == 'article'
                 set quoteObj.article = child.wzName
-                _ functors.article
-                    @ child
-                    @ resultObj
             elif child.wzElement == 'comment'
                 set quoteObj.comment
                     _ functors.comment
@@ -98,3 +112,17 @@ $group
             else
                 set quoteObj.unknown = child.wzElement
         return quoteObj
+
+    set functors.period
+        function
+            param field
+            param parentObj
+            param resultObj
+            var periodObj
+                {
+                    @ title field.wzName
+                    [ contents
+            _ functors.contents
+                @ field
+                @ periodObj
+                @ resultObj

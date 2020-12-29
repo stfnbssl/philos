@@ -6,11 +6,15 @@ $group
             param resultObj
             var bookObj
                 {
-                    @ id parent.wzName
+                    @ id (resultObj.ns || 'global') + '.' + parent.wzName
                     @ title null
                     [ authors
                     [ reviews
+                    [ buys
                     [ contents
+            if resultObj.ns_author
+                _ bookObj.authors.push
+                    @ resultObj.ns_author
             var newitems = []
             foreach child in parent.items
                 if child.wzElement == "title"
@@ -38,10 +42,21 @@ $group
                     _ functors.source
                         @ child
                         @ bookObj
+                elif child.wzElement == "buy"
+                    _ bookObj.buys.push
+                        {
+                            @ seller child.seller
+                            @ url child.url
                 elif !fillContents(child, bookObj)
                 else
                     _ newitems.push
                         @ child
+            if bookObj.reviews.length == 0
+                delete bookObj.reviews
+            if bookObj.contents.length == 0
+                delete bookObj.contents
+            if bookObj.buys.length == 0
+                delete bookObj.buys
             _ resultObj.books.push
                 @ bookObj
             foreach child in newitems
@@ -69,17 +84,20 @@ $group
                     set articleObj.edition = child.wzName
                 elif child.wzElement == "author"
                     _ articleObj.authors.push(child.wzName)
+                elif child.wzElement == "url"
+                    set articleObj.url = child.wzName
                 elif child.wzElement == "book"
                     set articleObj.book = child.wzName
-                    _ functors.book
-                        @ child
-                        @ resultObj
                 elif child.wzElement == 'page'
                     set articleObj.page = child.wzName
                 elif child.wzElement == 'kindle-page'
                     set articleObj.kindlepage = child.wzName
                 elif child.wzElement == 'kindle-loc'
                     set articleObj.kindleloc = child.wzName
+                elif child.wzElement == "source"
+                    _ functors.source
+                        @ child
+                        @ bookObj
                 elif !fillContents(child, articleObj)
                 else
                     _ newitems.push
@@ -117,11 +135,9 @@ $group
                     [ langs
             set titleObj.text = field.wzName
             foreach child in field.items
-                if ['en','de','fr','sp'].indexOf(child.wzElement) > -1
-                    _ titleObj.langs.push
-                        {
-                            @ lang child.wzElement
-                            @ text child.wzName
+                _ functors.language
+                    @ child
+                    @ titleObj
             if titleObj.langs.length == 0
                 delete titleObj.langs
             set parentObj.title = titleObj       
@@ -139,12 +155,25 @@ $group
                     [ langs
             set aliasObj.text = field.wzName
             foreach child in field.items
-                if ['en','de','fr','sp'].indexOf(child.wzElement) > -1
-                    _ aliasObj.langs.push
-                        {
-                            @ lang child.wzElement
-                            @ text child.wzName
+                _ functors.language
+                    @ child
+                    @ aliasObj
             if aliasObj.langs.length == 0
                 delete aliasObj.langs
             _ parentObj.aliases.push
                 @ aliasObj
+
+    set functors.language
+        function
+            param field
+            param parentObj
+            if ['en','de','fr','sp'].indexOf(field.wzElement) > -1
+                var langObj
+                    {
+                        @ lang field.wzElement
+                        @ text field.wzName
+                foreach child in field.items
+                    if child.wzElement == 'it'
+                        set langObj.it = child.wzName
+                _ parentObj.langs.push
+                    @ langObj

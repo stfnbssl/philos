@@ -2,20 +2,41 @@ $group
 
     function Quote
         param props
-        var {item} = props
+        var {item, jsonData} = props
+        var articleObj = null
+        if item.article
+            set articleObj = dbGetArticle(item.article, jsonData)
         return
             blockquote
                 {
                     _ item.lines.map
                         function
                             param token
+                            param i
                             return 
                                 < p {token}
+                                    @ key {i}
                 div {item.author}
+                < QuoteArticle
+                    @ articleObj {articleObj || item.article}
+
+    function QuoteArticle
+        param props
+        var {articleObj} = props
+        if !articleObj
+            return null
+        if !articleObj.title
+            return 
+                div unknown article: {articleObj.id}
+        return
+            div
+                span articleObj.authorName
+                span , &nbsp;
+                span articleObj.title
 
     function ContentText
         param props
-        var {item} = props
+        var {item, jsonData} = props
         if item.contents && item.contents.length > 0
             return
                 < div
@@ -23,13 +44,17 @@ $group
                         _ item.contents.map
                             function
                                 param token
+                                param i
                                 if token.line
                                     return 
                                         < p {token.line}
+                                            @ key {i}
                                 elif token.quote
                                     return 
                                         < Quote
+                                            @ key {i}
                                             @ item {token.quote}
+                                            @ jsonData {jsonData}
 
         else
             return null

@@ -1,0 +1,39 @@
+$group
+
+    namespace freud
+        author Freud
+
+        book l-interpretazione-dei-sogni
+            title L'interpretazione dei sogni
+            edition 1900, Bollati Boringhieri
+            title L’interpretazione dei sogni
+
+        book opere-complete-kindle
+            title Opere complete kindle
+            edition Bollati Boringhieri. Kindle Edition.
+        
+        article al-di-la-del-principio-del-piacere
+            title Al di la del principio di piacere
+            book freud.opere-IX
+
+        article psicologia-delle-masse-e-analisi-dell-io
+            title Psicologia delle masse e analisi dell'Io
+            book freud.opere-IX
+
+        article la-morale-sessuale-civile-e-il-nervosismo-moderno
+            title La morale sessuale “civile” e il nervosismo moderno
+            book freud.opere-V
+
+        article l-inconscio
+            title L'Inconscio
+            book freud.opere-VIII
+
+        book opere-VIII
+            title Le opere. Volume VIII. Introduzione alla psicanalisi e altri scritti.
+            edition 1976, Bollati Boringhieri
+
+        book opere-IX
+            title Le opere. Volume IX. L'Io e l'Es e altri scritti.
+            edition 1976, Bollati Boringhieri
+            
+

@@ -1,0 +1,14 @@
+$group
+    
+    author Scalzone
+        fullname Franco Scalzone
+        born
+            date Unknown
+            place Napoli, Italia
+        died
+            date Unknown
+            place Unknown
+        + Franco Scalzone, laureato in medicina e chirurgia, 
+            \b specializzato in psichiatria presso l’Università "La Sapienza" di Roma, 
+            \b ha operato in diverse strutture psichiatriche del Servizio Sanitario Nazionale. 
+            \b È membro associato della SPI (Società Psicoanalitica Italiana).

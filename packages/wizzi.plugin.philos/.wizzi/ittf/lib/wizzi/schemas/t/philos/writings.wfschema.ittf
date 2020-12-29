@@ -27,3 +27,7 @@ $group
     e quote : item
     e glossary : item
     e comment : item
+    e etimo : item
+    e buy : item
+        a seller
+        a url

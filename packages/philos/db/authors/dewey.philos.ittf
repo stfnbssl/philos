@@ -1,6 +1,6 @@
 $group
     author Dewey
-        name John Dewey
+        fullname John Dewey
         born
             date 20/10/1859
             place Burlington, Vermont, Stati Uniti

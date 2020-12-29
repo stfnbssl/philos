@@ -7,7 +7,7 @@ $group
             div
                 < h2 Autori
                 < Paper
-                    @ style {{maxHeight: 370, overflow: 'auto'}}
+                    @ style {{maxHeight: '90%', maxWidth:800, overflow: 'auto'}}
                     < Table 
                         {
                             _ jsonData.authors.sort(compareById).map

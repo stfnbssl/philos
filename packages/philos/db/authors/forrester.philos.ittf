@@ -1,0 +1,13 @@
+$group
+    
+    author Forrester
+        fullname John Forrester
+        born
+            date 25/8/1949
+            place Londra, Regno Unito
+        died
+            date 24/11/2015
+            place Unknown
+        + John Forrester era uno storico e filosofo britannico della scienza e della medicina. 
+            \b I suoi interessi principali riguardavano la storia delle scienze umane, 
+            \b in particolare la psicoanalisi e la psichiatria. 

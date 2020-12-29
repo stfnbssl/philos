@@ -3,9 +3,9 @@ $group
     e concept : item
     e relatedconcept : item
         tag r-concept
+    e see : item
     e lemma : item
     e idea : item
     e againstconcept : item
         tag against-concept
-    e relatedto : item
-        tag related-to
+    e example : item

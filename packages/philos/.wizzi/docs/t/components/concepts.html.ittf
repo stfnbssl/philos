@@ -45,7 +45,7 @@ $group
                             div
                                 < h2 Concetti
                                 < Paper
-                                    @ style {{maxHeight: '90%', overflow: 'auto'}}
+                                    @ style {{maxHeight: '90%', maxWidth:800, padding:10, overflow: 'auto'}}
                                     {
                                         _ jsonData.concepts.sort(compareById).map
                                             =>
@@ -67,6 +67,7 @@ $group
                                 < h3 Concetto
                                 < Concept
                                     @ item {selectedItem}
+                                    @ jsonData {jsonData}
     
     function ConceptListItem
         param props
@@ -82,7 +83,7 @@ $group
 
     function Concept
         param props
-        var {item} = props
+        var {item, jsonData} = props
         var {id, name, title} = item
         set title = (title || name)
         return
@@ -95,7 +96,8 @@ $group
                         < Aliases
                             @ item {item}
                 < ContentText
-                    @ item {item}     
+                    @ item {item}  
+                    @ jsonData {jsonData}   
 
     function Aliases
         param props

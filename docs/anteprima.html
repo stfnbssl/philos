@@ -38,7 +38,29 @@
             return 0;
         }
     </script>
-    <script src="./json//first.philos.extended.jsonvar.js"></script>
+    <script type="text/babel">
+        function dbGetById(coll, id) {
+            return coll.find((item) => {
+                    return item.id == id;
+                });
+        }
+        function dbGetAuthor(id, dbParam) {
+            var db = dbParam || gJsonData;
+            return dbGetById(db.authors, id);
+        }
+        function dbGetConcept(id, dbParam) {
+            var db = dbParam || gJsonData;
+            return dbGetById(db.concepts, id);
+        }
+        function dbGetArticle(id, dbParam) {
+            var db = dbParam || gJsonData;
+            return dbGetById(db.articles, id);
+        }
+        function dbGetBook(id, dbParam) {
+            var db = dbParam || gJsonData;
+            return dbGetById(db.books, id);
+        }
+    </script>
     <script type="text/babel">
         console.log("MaterialUI", MaterialUI);
         const ReactRouterDOM = window.ReactRouterDOM;
@@ -180,13 +202,17 @@
             }
         });
         function Quote(props) {
-            var {item} = props;
+            var {item, jsonData} = props;
+            var articleObj = null;
+            if (item.article) {
+                articleObj = dbGetArticle(item.article, jsonData);
+            }
             return  (
                     <blockquote>
                     {
-                        item.lines.map(function(token) {
+                        item.lines.map(function(token, i) {
                             return  (
-                                    <p>
+                                    <p key={i}>
                                     {token}
                                     </p>
                                 )
@@ -196,20 +222,54 @@
                         {item.author}
                         </div>
                     
+                        <QuoteArticle articleObj={articleObj || item.article}>
+                        </QuoteArticle>
+                    
                     </blockquote>
                 )
             ;
         }
+        function QuoteArticle(props) {
+            var {articleObj} = props;
+            if (!articleObj) {
+                return null;
+            }
+            if (!articleObj.title) {
+                return  (
+                        <div>
+                        unknown article: {articleObj.id}
+                        </div>
+                    )
+                ;
+            }
+            return  (
+                    <div>
+                        <span>
+                        articleObj.authorName
+                        </span>
+                    
+                        <span>
+                        , &nbsp;
+                        </span>
+                    
+                        <span>
+                        articleObj.title
+                        </span>
+                    
+                    </div>
+                )
+            ;
+        }
         function ContentText(props) {
-            var {item} = props;
+            var {item, jsonData} = props;
             if (item.contents && item.contents.length > 0) {
                 return  (
                         <div>
                         {
-                            item.contents.map(function(token) {
+                            item.contents.map(function(token, i) {
                                 if (token.line) {
                                     return  (
-                                            <p>
+                                            <p key={i}>
                                             {token.line}
                                             </p>
                                         )
@@ -217,7 +277,7 @@
                                 }
                                 else if (token.quote) {
                                     return  (
-                                            <Quote item={token.quote}>
+                                            <Quote key={i} item={token.quote} jsonData={jsonData}>
                                             </Quote>
                                         )
                                     ;
@@ -425,7 +485,7 @@
                                     Concetti
                                     </h2>
                                 
-                                    <Paper style={{maxHeight: '90%', overflow: 'auto'}}>
+                                    <Paper style={{maxHeight: '90%', maxWidth:800, padding:10, overflow: 'auto'}}>
                                     {
                                         jsonData.concepts.sort(compareById).map((item) => {
                                             return  (
@@ -451,7 +511,7 @@
                                     Concetto
                                     </h3>
                                 
-                                    <Concept item={selectedItem}>
+                                    <Concept item={selectedItem} jsonData={jsonData}>
                                     </Concept>
                                 
                                 </div>
@@ -475,7 +535,7 @@
             ;
         }
         function Concept(props) {
-            var {item} = props;
+            var {item, jsonData} = props;
             var {id, name, title} = item;
             title = (title || name);
             return  (
@@ -494,7 +554,7 @@
                             </Aliases>
                         )
                         
-                    }<ContentText item={item}>
+                    }<ContentText item={item} jsonData={jsonData}>
                         </ContentText>
                     
                     </div>
@@ -520,7 +580,7 @@
                         Autori
                         </h2>
                     
-                        <Paper style={{maxHeight: 370, overflow: 'auto'}}>
+                        <Paper style={{maxHeight: '90%', maxWidth:800, overflow: 'auto'}}>
                             <Table>
                             {
                                 jsonData.authors.sort(compareById).map(function(item) {
@@ -713,33 +773,195 @@
                 )
             ;
         }
-        function PublicationList(props) {
-            var {jsonData} = props;
+        class PublicationList extends React.Component {
+            state = {
+                status: 'list', 
+                selectedItem: null
+            };
+            handleArticleOpen = (ev, articleItem) => {
+                console.log('handleArticleOpen.id', articleItem.id);
+                console.log('handleArticleOpen.ev', ev);
+                this.setState({
+                    status: 'article', 
+                    selectedItem: articleItem
+                });
+            }
+            handleArticleClose = () => {
+                this.setState({
+                    status: 'list', 
+                    selectedItem: null
+                });
+            }
+            handleBookOpen = (ev, bookItem) => {
+                console.log('handleBookOpen.id', bookItem.id);
+                console.log('handleBookOpen.ev', ev);
+                this.setState({
+                    status: 'book', 
+                    selectedItem: bookItem
+                });
+            }
+            handleBookClose = () => {
+                this.setState({
+                    status: 'list', 
+                    selectedItem: null
+                });
+            }
+            render() {
+                const {
+                    jsonData
+                } = this.props;
+                const {
+                    status, 
+                    selectedItem
+                } = this.state;
+                console.log('status', status);
+                return  (
+                        <div>
+                        {
+                            status == 'list' &&  (
+                                <div>
+                                    <Paper style={{maxHeight: '90%', maxWidth:800, padding:10, overflow: 'auto'}}>
+                                        <h2>
+                                        Articoli
+                                        </h2>
+                                    
+                                    {
+                                        jsonData.articles.sort(compareById).map((item) => {
+                                            return  (
+                                                    <div key={item.id}>
+                                                        <ArticleListItem item={item} onClick={this.handleArticleOpen}>
+                                                        </ArticleListItem>
+                                                    
+                                                    </div>
+                                                )
+                                            ;
+                                        })
+                                    }<h2>
+                                        Libri
+                                        </h2>
+                                    
+                                    {
+                                        jsonData.books.sort(compareById).map((item) => {
+                                            return  (
+                                                    <div key={item.id}>
+                                                        <BookListItem item={item} onClick={this.handleBookOpen}>
+                                                        </BookListItem>
+                                                    
+                                                    </div>
+                                                )
+                                            ;
+                                        })
+                                    }</Paper>
+                                
+                                </div>
+                            )
+                            
+                        }{
+                            status == 'book' &&  (
+                                <div>
+                                    <button onClick={() =>
+                                        this.handleBookClose()}>
+                                    {'<--'}
+                                    </button>
+                                
+                                    <h3>
+                                    Book
+                                    </h3>
+                                
+                                    <Book item={selectedItem} jsonData={jsonData}>
+                                    </Book>
+                                
+                                </div>
+                            )
+                            
+                        }{
+                            status == 'article' &&  (
+                                <div>
+                                    <button onClick={() =>
+                                        this.handleArticleClose()}>
+                                    {'<--'}
+                                    </button>
+                                
+                                    <h3>
+                                    Article
+                                    </h3>
+                                
+                                    <Article item={selectedItem} jsonData={jsonData}>
+                                    </Article>
+                                
+                                </div>
+                            )
+                            
+                        }</div>
+                    )
+                ;
+            }
+        }
+        function ArticleListItem(props) {
+            var {item, onClick} = props;
+            var {id, name, title} = item;
+            title = (title || name);
             return  (
-                    <div>
-                        <h2>
-                        Testi
-                        </h2>
+                    <div onClick={(event) =>
+                        onClick(event, item)}>
+                        <h4>
+                        {title}
+                        </h4>
                     
-                        <Paper style={{maxHeight: 370, overflow: 'auto'}}>
-                            <Table>
-                            {
-                                jsonData.books.sort(compareById).map(function(item) {
+                        <div>
+                        id: {id}
+                        </div>
+                    
+                    </div>
+                )
+            ;
+        }
+        function Article(props) {
+            var {item} = props;
+            if (item.contents && item.contents.length > 0) {
+                return  (
+                        <div>
+                            <h3>
+                            {item.id}
+                            </h3>
+                        
+                            <div>
+                            {item.author + ', ' + item.title + ',' + item.edition}
+                            </div>
+                        
+                        {
+                            item.contents.map((token) => {
+                                if (token.line) {
                                     return  (
-                                            <TableRow button key={item.id}>
-                                                <TableCell>
-                                                    <Book item={item}>
-                                                    </Book>
-                                                
-                                                </TableCell>
-                                            
-                                            </TableRow>
+                                            <p>
+                                            {token.line}
+                                            </p>
                                         )
                                     ;
-                                })
-                            }</Table>
-                        
-                        </Paper>
+                                }
+                            })
+                        }</div>
+                    )
+                ;
+            }
+            else {
+                return null;
+            }
+        }
+        function BookListItem(props) {
+            var {item, onClick} = props;
+            var {id, name, title} = item;
+            title = (title || name);
+            return  (
+                    <div onClick={(event) =>
+                        onClick(event, item)}>
+                        <h4>
+                        {title}
+                        </h4>
+                    
+                        <div>
+                        id: {id}
+                        </div>
                     
                     </div>
                 )
@@ -759,7 +981,7 @@
                             </div>
                         
                         {
-                            item.contents.map(function(token) {
+                            item.contents.map((token) => {
                                 if (token.line) {
                                     return  (
                                             <p>

@@ -55,10 +55,10 @@ $group
             r-concept freud.difese-secondarie
                 + Le difese secondarie Freud non le chiama mai rimozioni secondarie
             
-            r-theory freud.isteria
+            r-concept freud.isteria
                 + La rimozione svolge un ruolo prevalente nell'isteria
         
-            r-theory freud.nevrosi-ossessiva
+            r-concept freud.nevrosi-ossessiva
                 + La rimozione è parte di un processo più ampio nella nevrosi ossessiva
 
             concept freud.rimozione.fasi
@@ -88,27 +88,26 @@ $group
                     + è costituita dal ritorno del rimosso
                         \b sotto forma di sintomi, sogni, atti mancati, ecc..
 
-            r-theory freud.punto-di-vista-topico
-                r-theory freud.prima-topica
+            r-concept freud.punto-di-vista-topico
+                r-concept freud.prima-topica
                     + sebbene la rimozione sia descritta nella prima teoria dell'apparato psichico 
                         \b come mantenimento fuori della coscienza, 
                         \b non per questo Freud assimila l'istanza rimovente alla coscienza. 
                         \b È la censura che ne fornisce il modello. 
-                r-theory freud.seconda-topica
+                r-concept freud.seconda-topica
                     + Nella seconda topica, 
                         \b la rimozione è considerata un'operazione difensiva dell'Io (parzialmente inconscio).
 
-            r-theory freud.punto-di-vista-economico
+            r-concept freud.punto-di-vista-economico
                 + la rimozione suppone un gioco complesso di disinvestimenti, reinvestimenti e controinvestimenti 
                     \b riguardanti i rappresentanti della pulsione
             
-            r-theory freud.punto-di-vista-dinamico
+            r-concept freud.punto-di-vista-dinamico
                 + il problema principale è quello dei motivi della rimozione: 
                     \b come avviene che una pulsione 
                     \b il cui soddisfacimento genera per definizione piacere
                     \b possa suscitare un dispiacere tale 
                     \b da provocare l'operazione della rimozione?
-                see
-                    concept freud.difesa
+                see freud.difesa
 
 

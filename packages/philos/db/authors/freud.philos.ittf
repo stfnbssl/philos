@@ -1,0 +1,13 @@
+$group
+    author Freud
+        fullname Sigmund Freud
+        born
+            date 6/5/1856 
+            place Příbor, Repubblica Ceca
+        died
+            date 23/11/1939
+            place Hampstead, Londra, Regno Unito
+        + Sigismund Schlomo Freud, noto come Sigmund Freud, IPA: 
+            \b è stato un neurologo, psicoanalista e filosofo austriaco, 
+            \b fondatore della psicoanalisi, 
+            \b sicuramente la più famosa tra le correnti teoriche e pratiche della psicologia. 

@@ -9,7 +9,7 @@ $group
                     de Vorstellungsrepräsentanz
                         alias Vorstellungsrepräsentant
                     en ideational representative
-                etimology
+                etimo
                     + Repräsentanz è un termine tedesco di origine latina che va inteso come «delegazione». 
                     + Vorstellung è un termine filosofico il cui equivalente italiano tradizionale è rappresentazione.
                     + Vorstellungsrepräsentanz significa quindi rappresentanza data da una rappresentazione, 
@@ -28,29 +28,32 @@ $group
                 nella teoria più completa che Freud ha dato della rimozione.
                 
                 Ricordiamo brevemente che la pulsione, essendo somatica, 
-                rimane fuori dall'azione diretta di una azione psichica di rimozione nell'inconscio. 
-                Quest'ultima può riguardare soltanto rappresenstanti psichici della pulsione; 
-                strettamente parlando, solo i rappresentanti ideativi. 
-                Infatti Freud distingue due elementi nel rappresentante psichico della pulsione, 
-                la rappresentazione e l'affetto, 
-                e nota che ciascuno incontra un destino diverso: 
-                solo il primo elemento (il rappresentante ideativo) passa tale e quale nel sistema inconscio 
-                (su questa distinzione, vedi : Rappresentante psichico; Affetto; Rimozione).
+                    rimane fuori dall'azione diretta di una azione psichica di rimozione nell'inconscio. 
+                    Quest'ultima può riguardare soltanto rappresenstanti psichici della pulsione; 
+                    strettamente parlando, solo i rappresentanti ideativi. 
+                    Infatti Freud distingue due elementi nel rappresentante psichico della pulsione, 
+                    la rappresentazione e l'affetto, 
+                    e nota che ciascuno incontra un destino diverso: 
+                    solo il primo elemento (il rappresentante ideativo) passa tale e quale nel sistema inconscio 
+                    (su questa distinzione, vedi : Rappresentante psichico; Affetto; Rimozione).
                 
                 Che cosa bisogna intendere per rappresentante ideativo? 
-                Freud ha poco esplicitato questo concetto. 
-                Sul termine di rappresentante e sulla relazione di delegazione che esso suppone tra la pulsione e se stesso, 
-                rinviamo il lettore alla voce: Rappresentante psichico. 
+                    Freud ha poco esplicitato questo concetto. 
+                    Sul termine di rappresentante e sulla relazione di delegazione 
+                    che esso suppone tra la pulsione e se stesso, 
+                    rinviamo il lettore alla voce: Rappresentante psichico. 
                 Sul termine di rappresentazione, 
-                che designa l'elemento ideativo in opposizione all'elemento affettivo, 
-                rinviamo alle voci: Rappresentazione (Vorstellung); Rappresentazione di cosa (Sachvorstellung o Dingvorstellung): Rappresentazione di parola (Wortvorstellung).
+                    che designa l'elemento ideativo in opposizione all'elemento affettivo, 
+                    rinviamo alle voci: Rappresentazione (Vorstellung); 
+                    Rappresentazione di cosa (Sachvorstellung o Dingvorstellung): 
+                    Rappresentazione di parola (Wortvorstellung).
                 
                 Nella teoria del sistema inconscio che egli espone nel suo articolo del 1915, 
-                Freud vede nei rappresentanti ideativi non solo i contenuti dell'Inc, 
-                ma ciò che ne è costitutivo. 
+                    Freud vede nei rappresentanti ideativi non solo i contenuti dell'Inc, 
+                    ma ciò che ne è costitutivo. 
                 
                 Infatti, è con un unico atto - la rimozione originaria - che 
-                la pulsione si fissa a un rappresentante e che l'inconscio si costituisce: 
+                    la pulsione si fissa a un rappresentante e che l'inconscio si costituisce: 
                 
                 quote
                     + Abbiamo motivo [...] di ammettere una rimozione originaria, 
@@ -96,10 +99,10 @@ $group
                     \b i quali comprendono due elementi: il rappresentante ideativo e l'importo d'affetto.
 
             concept della-pulsione
-                title rappresentante della pulsion
+                title Rappresentante della pulsione
                     de Triebreprisentant
-                + designa gli elementi o i processi in cui la pulsione trova la sua espressione psichica
-                + a volte è sinonimo di rappresentante ideativo";
+                + Designa gli elementi o i processi in cui la pulsione trova la sua espressione psichica.
+                + A volte è sinonimo di "rappresentante ideativo";
                     \b nella descrizione delle fasi della rimozione 
                     \b viene esaminata soltanto la sorte del rappresentante ideativo 
                     \b finché non viene preso in considerazione un altro elemento della rappresentanza psichica: 
@@ -109,7 +112,7 @@ $group
                             \b questa si è staccata dalla rappresentazione e ha trovato un'espressione adeguata
                             \b alla sua quantità in processi che ci diventano sensibili come affetti.
                         book freud.la-rimozione
-                + Freud non usa il termine di rappresentante affettivo 
+                + Freud non usa il termine di rappresentante affettivo.
                 + A rigore si potrebbe quindi sostenere che la pulsione è rappresentata 
                     \b dall'affetto solo al livello del sistema Prec-C o dell'Io.
 
