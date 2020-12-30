@@ -23,25 +23,16 @@ html
                         color ${color.backStrong}
 
         $append navigate
-            li 
-                a 
-                    href ./anteprima.html
-                    title Visualizzazione messaggi per verifica impatto
-                    target _top
-                    span Anteprima
-
         
         . wrapper
             h1 &nbsp;
             h1 Philos
-
             div
-                img
-                    src ${assetsURL}/img/nice.jpg
-                    width 200px
-                    height 150px
-                span Usate il menù di navigazione in alto a destra.
-                    style vertical-align: top; display: inline-block; padding: 10px; font-size: 1.3rem;
-
-
-
+                a 
+                    href ./anteprima.html
+                    title Visualizzazione messaggi per verifica impatto
+                    target _top
+                    img
+                        src ${assetsURL}/img/authors/Freud.jpg
+                        width 200px
+                        height 220px
