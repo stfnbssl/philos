@@ -3,20 +3,23 @@ $group
     namespace freud
 
         concept nevrosi
+            title Nevrosi
 
             concept di-traslazione
+                title Nevrosi di traslazione
                 + la libido è traslata su oggetti reali o immaginari. 
                     \b Nel trattamento psicoanalitico si prestano al trandfert
                     \b hanno origine dall'infanzia e fanno parte dalle PSICONEVROSI, 
                     \b dove i sintomi sono espressione simbolica e sovradeterminatan di un conflitto
 
             concept psico
-                title psiconevrosi
+                title Psiconevrosi
                 + ha causa sessuale, in un disordine in epoca passata
                 + la fonte di eccitazione, il fattore precipitante del disturbo
                     \b si trova nel campo psichico
 
                 concept isteria-di-conversione
+                    title Isteria di conversione
                     + La libido sprigionata dal materiale patogeno, 
                         \b a causa della rimozione viene convertita, 
                         \b cioè viene sottratta alla sfera psichica per riapparire in un’innervazione somatica, 
@@ -24,12 +27,14 @@ $group
                         \b Il punto di fissazione della libido è nella fase edipica (fallica ma anche orale).
 
                 concept isteria-d-angoscia
-                    alias nevrosi fobica
+                    title Isteria d'angoscia
+                    alias Nevrosi fobica
                     + La libido sprigionata dal materiale patogeno, 
                         \b a causa della rimozione viene liberata sotto forma di angoscia. 
                         \b Il punto di fissazione della libido è nella fase edipica (fallica ma anche orale).                
 
                 concept nevrosi-ossessiva
+                    title Nevrosi ossessiva
                     + Si manifesta con sintomi coatti.
                         \b La causa è sempre la difesa dalle pretese libidiche dell’Edipo 
                         \b ma c’è una regressione alle fissazioni verificatesi nella fase anale. 
@@ -37,7 +42,7 @@ $group
                         \b che porta a formazioni reattive.
 
             concept attuale
-                title nevrosi attuale
+                title Nevrosi attuale
                 + ha causa sessuale, in un disordine della vita sessuale attuale
                 + la fonte di eccitazione, il fattore precipitante del disturbo,
                     \b si trova nel campo somatico,
@@ -46,18 +51,22 @@ $group
                     \b tipo spostamento, condensazione, ecc..
 
                 concept nevrastenia
+                    title Nevrastenia
                     + il fattore precipitante del disturbo è 
                         \b un alleviamento inadeguato dell'eccitazione sessuale
                         \b ad esempio la masturbazione
                 
                 concept nevrosi-d-angoscia
+                    title Nevrosi d'angoscia
                     + il fattore precipitante del disturbo è 
                         \b la mancanza di scarica dell'eccitazione sessuale
                         \b ad esempio l'astinenza sessuale
                 
                 concept ipocondria
+                    title Ipocondria
 
             concept scatenamento
+                title Scatenamento della nevrosi
                 quote
                     + L’effetto della frustrazione consiste in primo luogo nel rendere efficaci i fattori predisponenti, 
                         \b e sino a quel momento inoperanti. 

@@ -26,9 +26,11 @@ $group
                     \b rendendoli più simili ai neuroni φ.
 
             concept del-pallio
+                title Neuroni del pallio
                 + Neurone ψ che sono investiti da neuroni φ.
 
             concept nucleari
+                title Neuroni nucleari
                 + Neuroni ψ che sono investiti dalle vie endogene di conduzione.
 
 

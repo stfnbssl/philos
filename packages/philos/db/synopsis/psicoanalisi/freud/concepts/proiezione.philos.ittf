@@ -3,6 +3,8 @@ $group
     namespace freud
 
         concept proiezione
+            title Proiezione
+            
             quote
                 + quegli eccitamenti interni che provocano un eccessivo aumento del dispiacere 
                     \b sono trattati in un modo particolare: 

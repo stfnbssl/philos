@@ -3,6 +3,8 @@ $group
     namespace freud
 
         concept attenzione
+            title Attenzione
+            
             quote
                 + Viene istituita una funzione particolare per esplorare periodicamente la realtà esterna, 
                     \b così che i dati di questa siano già noti quando si produca un incontenibile bisogno interiore, 

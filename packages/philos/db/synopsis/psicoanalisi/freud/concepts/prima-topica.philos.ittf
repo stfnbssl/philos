@@ -3,8 +3,10 @@ $group
     namespace freud
 
         concept prima-topica
+            title Prima topica
 
             concept inconscio
+                title Inconscio (prima topica)
                 quote
                     + Come possiamo arrivare a conoscere l'inconscio? 
                         \b Naturalmente lo conosciamo soltanto in una forma conscia 
@@ -15,5 +17,7 @@ $group
                         page 49
 
             concept preconscio
+                title Preconscio (prima topica)
             
             concept coscienza
+                title Coscienza (prima topica)

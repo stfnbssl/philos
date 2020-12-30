@@ -3,6 +3,8 @@ $group
     namespace freud
 
         concept fantasticare
+            title Fantasticare
+            
             quote
                 + Con l’introduzione del principio di realtà si è differenziata una specie di attività di pensiero che, 
                     \b serbatasi libera dall’esame di realtà, 

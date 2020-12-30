@@ -32,13 +32,13 @@ $group
 
             return
                 div
-                    {
-                        &&
-                            + status == 'list'
-                            div
-                                < h2 Concetti
-                                < Paper
-                                    @ style {{maxHeight: '90%', maxWidth:800, padding:10, overflow: 'auto'}}
+                    < Paper
+                        @ style {{maxHeight: '90%', maxWidth:800, padding:10, overflow: 'auto'}}
+                        {
+                            &&
+                                + status == 'list'
+                                div
+                                    < h2 Concetti
                                     {
                                         _ jsonData.concepts.sort(compareById).map
                                             =>
@@ -49,31 +49,38 @@ $group
                                                         @ item {item}
                                                         @ onClick {this.handleConceptOpen}
 
-                    {
-                        &&
-                            + status == 'concept'
-                            div
-                                < DetailBar
-                                    @ title {(selectedItem.title && selectedItem.title.text) || selectedItem.id}
-                                    @ id {selectedItem.id}
-                                    @ onClick 
-                                        =>
-                                            _ this.handleConceptClose()
-                                < Concept
-                                    @ item {selectedItem}
-                                    @ jsonData {jsonData}
+                        {
+                            &&
+                                + status == 'concept'
+                                div
+                                    < DetailBar
+                                        @ title {(selectedItem.title && selectedItem.title.text) || selectedItem.id}
+                                        @ id {selectedItem.id}
+                                        @ onClick 
+                                            =>
+                                                _ this.handleConceptClose()
+                                    < Concept
+                                        @ item {selectedItem}
+                                        @ jsonData {jsonData}
     
     function ConceptListItem
         param props
         var {item, onClick} = props
         var {id, name, title} = item
-        set title = (title || name)
+        set title = title && title.text ? title.text : name
         return
-            < div {id}
+            div
                 @ onClick
                     =>
                         param event
                         _ onClick(event, item)
+                
+                div {title}
+                    @ className "li-c-title"
+                div id: {id}
+                    @ className "li-c-id"
+                div
+                    @ className "li-clear"
 
     function Concept
         param props
@@ -82,8 +89,6 @@ $group
         set title = (title || name)
         return
             < div 
-                < h1 {title.text}
-                < h5 id: {id}
                 {
                     &&
                         + item.aliases && item.aliases.length > 0
@@ -91,7 +96,7 @@ $group
                             @ item {item}
                 < ContentText
                     @ item {item}  
-                    @ jsonData {jsonData}   
+                    @ jsonData {jsonData} 
 
     function Aliases
         param props

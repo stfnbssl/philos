@@ -3,6 +3,8 @@ $group
     namespace freud
 
         concept perturbante
+            title Perturbante
+            
             quote
                 + lo studio della categoria del perturbante si inserisce
                     \b all’interno della riflessione sulla rimozione e permette a Freud di

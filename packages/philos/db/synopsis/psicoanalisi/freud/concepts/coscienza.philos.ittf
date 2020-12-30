@@ -3,6 +3,8 @@ $group
     namespace freud
 
         concept coscienza
+            title Coscienza
+            
             quote
                 + Abbiamo detto che la coscienza costituisce la superficie dell’apparato psichico; 
                     \b l’abbiamo cioè attribuita, in quanto funzione, 

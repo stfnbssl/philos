@@ -60,6 +60,12 @@
           ]
         },
         {
+          "name": "synonim",
+          "tags": [
+            "synonim"
+          ]
+        },
+        {
           "name": "date",
           "tags": [
             "date"
@@ -390,6 +396,12 @@
           ]
         },
         {
+          "name": "li",
+          "tags": [
+            "li"
+          ]
+        },
+        {
           "name": "page",
           "tags": [
             "page"
@@ -615,6 +627,45 @@
       "isRoot": false,
       "tags": [
         "alias"
+      ],
+      "flags": "",
+      "attributes": [
+        {
+          "name": "value",
+          "type": "string",
+          "tags": [
+            "value"
+          ],
+          "flags": "",
+          "inheritedFrom": "item",
+          "restricts": [],
+          "comments": []
+        }
+      ],
+      "relations": [
+        {
+          "name": "item",
+          "role": "items",
+          "tags": [
+            "item"
+          ],
+          "cardinality": "one-to-many",
+          "flags": "",
+          "inheritedFrom": "item",
+          "comments": []
+        }
+      ],
+      "derived": [],
+      "restricts": [],
+      "methods": [],
+      "comments": []
+    },
+    {
+      "name": "synonim",
+      "super": "item",
+      "isRoot": false,
+      "tags": [
+        "synonim"
       ],
       "flags": "",
       "attributes": [
@@ -2760,6 +2811,45 @@
       "isRoot": false,
       "tags": [
         "+"
+      ],
+      "flags": "",
+      "attributes": [
+        {
+          "name": "value",
+          "type": "string",
+          "tags": [
+            "value"
+          ],
+          "flags": "",
+          "inheritedFrom": "item",
+          "restricts": [],
+          "comments": []
+        }
+      ],
+      "relations": [
+        {
+          "name": "item",
+          "role": "items",
+          "tags": [
+            "item"
+          ],
+          "cardinality": "one-to-many",
+          "flags": "",
+          "inheritedFrom": "item",
+          "comments": []
+        }
+      ],
+      "derived": [],
+      "restricts": [],
+      "methods": [],
+      "comments": []
+    },
+    {
+      "name": "li",
+      "super": "item",
+      "isRoot": false,
+      "tags": [
+        "li"
       ],
       "flags": "",
       "attributes": [

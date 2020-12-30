@@ -3,6 +3,7 @@ $group
     namespace freud
 
         concept angoscia
+            title Angoscia
 
             quote
                 + A ciò si aggiunga che l’angoscia è il diretto contrario del desiderio, 
@@ -59,10 +60,9 @@ $group
                     \b e l’angoscia del Super-io nella nevrosi ossessiva.
                 kindle-page 6431-6432
 
-
             concept morale
-                title angoscia morale
-                alias angoscia sociale
+                title Angoscia morale
+                alias Angoscia sociale
                 quote
                     + L’angoscia di evirazione si evolve in angoscia morale, in angoscia sociale. 
                         \b Non è più così facile, ora, stabilire che cosa l’angoscia tema. 
@@ -75,7 +75,7 @@ $group
                     kindle-page 6428
 
             concept di-morte
-                title angoscia di morte
+                title Angoscia di morte
                 alias angoscia delle forze del destino
                 quote
                     + Ultima metamorfosi di tale angoscia di fronte al Super-io 
@@ -84,6 +84,7 @@ $group
                     kindle-page 6428
 
             concept di-evirazione
+                title Angoscia di evirazione
                 quote
                     + Anche la successiva trasformazione dell’angoscia, 
                         \b l’angoscia di evirazione che compare nella fase fallica, 
@@ -92,7 +93,9 @@ $group
                     kindle-page 6427
 
             concept reale
-                alias angoscia per l'oggetto
+                title Angoscia reale
+                alias Angoscia per l'oggetto
 
             concept nevrotica
-                alias angoscia per la libido
+                title Angoscia nevrotica
+                alias Angoscia per la libido

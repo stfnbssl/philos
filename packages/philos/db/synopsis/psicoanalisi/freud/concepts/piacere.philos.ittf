@@ -3,3 +3,4 @@ $group
     namespace freud
 
         concept piacere
+            title Piacere

@@ -2,7 +2,8 @@ $group
 
     namespace freud
 
-        concept Io
+        concept io
+            title Io
             
             r-concept freud.seconda-topica
                 quote
@@ -10,6 +11,7 @@ $group
                         \b di cui è soltanto una parte che ha subito una particolare modificazione.
                     kindle-page 5983
 
-        concept parte-inconscia-io
+            concept parte-inconscia
+                title Parte inconscia dell'Io
 
 

@@ -3,6 +3,7 @@ $group
     namespace freud
 
         concept libido
+            title Libido
             + La libido è espressione dinamica, quantitativa, della pulsione sessuale nella vita psichica.
             quote
                 + Chiamiamo così – considerandola una grandezza quantitativa, anche se per ora non misurabile – 

@@ -3,3 +3,4 @@ $group
     namespace freud
 
         concept appoggio
+            title Appoggio

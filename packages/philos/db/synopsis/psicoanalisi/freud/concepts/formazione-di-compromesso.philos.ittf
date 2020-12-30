@@ -3,6 +3,7 @@ $group
     namespace freud
 
         concept formazione-di-compromesso
+            title Formazione di compromesso
             quote
                 + [..] ma ciò che come rappresentazione e affetto ossessivi si fa cosciente, 
                     \b sostituendo per la vita cosciente il ricordo patogeno, 

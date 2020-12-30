@@ -3,6 +3,8 @@ $group
     namespace freud
 
         concept amnesia-infantile
+            title Amnesia infantile
+            
             + Al pari dell'amnesia isterica, 
                 \b l'amnesia infantile può essere in linea di principio eliminata: 
                 \b essa non è una soppressione o una assenza di fissazione di ricordi, 

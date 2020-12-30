@@ -13,11 +13,11 @@ $group
                 \b della quantità di energia pulsionale e delle sue variazioni.
 
             concept importo
-                title importo d'affetto
+                title Importo d'affetto
                     de Affektbetrag
-                alias forza pulsionale
-                alias spinta della pulsione
-                alias libido (quando è in causa la sola pulsione sessuale)
+                alias Forza pulsionale
+                alias Spinta della pulsione
+                alias Libido (quando è in causa la sola pulsione sessuale)
                 + fattore quantitativo postulato come sostrato dell'affetto vissuto soggettivamente, 
                     \b per designare ciò che è invariante nelle diverse modificazioni di quest'ultimo: 
                     \b spostamento, distacco dalla rappresentasione, trasformazioni qualitative.
@@ -43,6 +43,7 @@ $group
                         kindle-loc 65273 
 
             concept bloccato
+                title Affetto bloccato
                 + L'origine del sintomo isterico è cercata in un evento traumatico 
                     \b a cui non ha potuto corrispondere una scarica adeguata (affetto bloccato).
                 + Solo se la rievocazione del ricordo provoca la reviviscenza dell'affetto 
@@ -50,12 +51,14 @@ $group
                     \b la reminiscenza acquista la sua efficacia terapeutica.
 
             concept destino
+                title Destino dell'affetto
                 + L'affetto non è necessariamente legato alla rappresentazione; 
                     \b la loro separazione (affetto senza rappresentazione, rappresentazione senza affetto) 
                     \b assegna a ciascuno di essi un destino diverso. 
                 + Freud indica diversi possibili destini dell'affetto.
                 
                 concept conversione
+                    title Conversione (destino dell'affetto)
                     + La libido (importo d'affetto di pulsione sessuale) 
                         \b distaccata dalla rappresentazione rimossa (durante il processo della rimozione)
                         \b è trasformata in energia di innervazione
@@ -65,11 +68,14 @@ $group
                         \b deformate dalla "condensazione" e dallo "spostamento"
                 
                 concept spostamento
+                    title Spostamento (destino dell'affetto)
                     + l'affetto viene conservato e può spostarsi su un'altra rappresentazione
                     + lo spostamento dell'affetto produce "nevrosi ossessiva"
                 
                 concept trasformazione
+                    title Trasformazione (destino dell'affetto)
                     + la trasformazione dell'affetto produce "nevrosi d'angoscia", "melanconia"
                 
                 concept repressione
+                    title Repressione (destino dell'affetto)
                     + non è una rimozione, non si può parlare di affetto inconscio

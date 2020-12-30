@@ -3,6 +3,8 @@ $group
     namespace freud
 
         concept reazione-terapeutica-negativa 
+            title Reazione terapeutica negativa
+            
             quote
                 + [..] non solo queste persone non sopportano alcuna lode o apprezzamento, 
                     \b ma reagiscono ai progressi della cura in modo rovesciato. 

@@ -18,6 +18,7 @@ wfschema philos
 
     e fullname : item
     e alias : item
+    e synonim : item
     e date : item
     e year : item
     e period : item

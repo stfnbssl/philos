@@ -37,6 +37,16 @@ $group
     . li-clear
         @ clear both
 
+    . li-c-title
+        @ padding 4px
+        @ float left
+        @ font-weight bold
+        @ cursor pointer
+    . li-c-id
+        @ padding 4px
+        @ float right
+        @ font-size 9px
+
     . bar
 
     . bar-arrow-left

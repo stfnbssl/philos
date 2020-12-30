@@ -3,4 +3,5 @@ $group
     namespace freud
 
         concept lavoro-onirico
-            + utilizza il modo di essere del sistema inconscio ma è svolto dall'Io
+            title Lavoro onirico
+            + Utilizza il modo di essere del sistema inconscio ma è svolto dall'Io.

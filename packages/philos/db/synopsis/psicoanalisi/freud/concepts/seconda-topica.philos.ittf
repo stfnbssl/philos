@@ -3,7 +3,8 @@ $group
     namespace freud
 
         concept seconda-topica
-            alias concezione-tripartita
+            title Seconda topica
+            alias Concezione tripartita
             + Es, Io, Super-Io
 
             concept es

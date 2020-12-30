@@ -360,6 +360,9 @@ function fillConcept(parent, resultObj, conceptObj) {
         else if (child.wzElement == "relatedto") {
             addRelated(child, conceptObj);
         }
+        else if (child.wzElement == "synonim") {
+            conceptObj.synonim = child.wzName;
+        }
         else {
             newitems.push(child);
         }

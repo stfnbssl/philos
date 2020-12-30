@@ -3,6 +3,8 @@ $group
     namespace freud
 
         concept atto-psichico
+            title Atto psichico
+            
             quote
                 + Nella prima fase l’atto è inconscio e appartiene al sistema Inc; 
                     \b se dopo averlo controllato la censura lo respinge, gli è vietato di passare alla seconda fase; 

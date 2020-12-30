@@ -3,7 +3,7 @@ $group
     namespace freud
 
         concept eccitazione
-            title eccitazione
+            title Eccitazione
                 de Reis
             
             r-concept freud.principio-di-costanza
@@ -11,3 +11,4 @@ $group
                     \b in ottemperanza al principio di costanza
         
             concept esterna
+                title Eccitazione esterna

@@ -3,4 +3,5 @@ $group
     namespace freud
 
         concept nevrosi-traumatica
+            title Nevrosi traumatica
 

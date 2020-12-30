@@ -3,8 +3,10 @@ $group
     namespace freud
 
         concept energia
-            title energia mentale
+            title Energia mentale
 
             concept legata
+                title Energia legata
 
-            concept mobile     
+            concept mobile
+                title Energia mobile

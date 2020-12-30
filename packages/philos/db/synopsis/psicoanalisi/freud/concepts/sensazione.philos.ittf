@@ -3,6 +3,8 @@ $group
     namespace freud
 
         concept sensazione
+            title Sensazione
+            
             quote
                 + La percezione interna fornisce sensazioni relative a processi appartenenti ai più svariati, 
                     \b e certamente anche ai più profondi strati dell’apparato psichico. 

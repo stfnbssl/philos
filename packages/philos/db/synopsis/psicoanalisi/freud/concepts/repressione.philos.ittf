@@ -3,6 +3,8 @@ $group
     namespace freud
 
         concept repressione
+            title Repressione
+
             + La repressione si oppone, soprattutto dal punto di vista topico, alla rimozione, 
                 \b nella quale l'istanza rimovente (l'Io), l'operazione e il suo risultato sono inconsci. 
                 \b La repressione sarebbe invece un meccanismo conscio che opera 

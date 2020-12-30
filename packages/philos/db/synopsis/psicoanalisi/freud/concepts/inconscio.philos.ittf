@@ -3,6 +3,7 @@ $group
     namespace freud
 
         concept inconscio
+            title Inconscio
 
             quote
                 + L’inconscio è l’infantile: è quella parte della personalità che a quell’epoca si è separata, 
@@ -31,19 +32,19 @@ $group
                 kindle-page 8292
 
             concept non-rimosso
-                theory freud.prima-topica
-                    + Inconscio, Preconscio, Coscienza
-                    concept freud.prima-topica.inconscio
-                        + è la vera realtà psichica
-                        + ha cinque caratteristiche:
-                            \b 1) condensazione; 
-                            \b 2) spostamento; 
-                            \b 3) assenza di contraddizione mutua tra la presentazione dei differenti impulsi, 
+                title Inconscio non rimosso
+                r-concept freud.prima-topica.inconscio
+                    + è la vera realtà psichica
+                    + ha cinque caratteristiche:
+                        li condensazione; 
+                        li spostamento; 
+                        li assenza di contraddizione mutua tra la presentazione dei differenti impulsi, 
                             \b quindi assenza di negazione;
-                            \b 4) assenza di tempo;
-                            \b 5) sostituzione della realtà esterna con quella psichica;
+                        li assenza di tempo;
+                        li sostituzione della realtà esterna con quella psichica;
 
             concept assenza-di-contraddizione-mutua-tra-la-presentazione-dei-differenti-impulsi
+                title Assenza di mutua contraddizione tra la presentazione dei differenti impulsi
                 quote
                     + Quando due impulsi di desiderio, 
                         \b i cui scopi non possono non apparirci incompatibili, 
@@ -52,8 +53,10 @@ $group
                     book freud.l-inconscio
             
             concept condensazione
+                title Condensazione
             
             concept spostamento
+                title Spostamento
                 quote
                     author Blanco
                     + [..] è alla base della proiezione, della sublimazione, 
@@ -65,10 +68,13 @@ $group
                         \b solo per quanto riguarda le circostanze in cui lo spostamento ha luogo
                     book blanco.l-inconscio-come-insiemi-infiniti
             
-            concept assenza-di-tempo
+            concept assenza-del-tempo
+                title Assenza del tempo
             
             concept sostituzione-della-realtà-esterna-con-quella-psichica
+                title Sostituzione della realtà esterna con quella psichica
+
                 + In psichiatria, specialmente in relazione alla schizofrenia, 
                     \b questa caratteristica è talvolta chiamata "interpretazione letterale della metafora"
-                bax
-                    + Ha a che fare con il double-bind di Bateson?
+                    bax
+                        + Ha a che fare con il double-bind di Bateson?

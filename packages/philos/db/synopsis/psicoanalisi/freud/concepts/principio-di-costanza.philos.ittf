@@ -3,3 +3,4 @@ $group
     namespace freud
 
         concept principio-di-costanza
+            title Principio di costanza

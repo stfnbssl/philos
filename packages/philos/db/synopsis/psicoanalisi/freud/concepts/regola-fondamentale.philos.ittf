@@ -3,7 +3,9 @@ $group
     namespace freud
 
         concept regola-fondamentale 
-            alias regola psicoanalitica fondamentale 
+            title Regola fondamentale
+            alias Regola psicoanalitica fondamentale 
+            
             quote
-                + secondo la quale ognuno deve comunicare senza sottoporre a critica tutto ciò che gli viene in mente
+                + Secondo la quale ognuno deve comunicare senza sottoporre a critica tutto ciò che gli viene in mente.
                 kindle-page 3821

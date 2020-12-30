@@ -3,6 +3,7 @@ $group
     namespace freud
 
         concept desiderio
+            title Desiderio
 
             quote
                 + [..] un’accumulazione di eccitamento – 

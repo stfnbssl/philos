@@ -3,9 +3,9 @@ $group
     namespace freud
 
         concept coazione-a-ripetere
-            title coazione a ripetere
+            title Coazione a ripetere
                 de Wiederholungswang
-                alias automatismo di ripetizione
+            alias Automatismo di ripetizione
 
             quote
                 + Ma qual è la relazione che esiste fra la coazione a ripetere 

@@ -3,6 +3,7 @@ $group
     namespace freud
 
         concept sovradeterminazione
+            title Sovradeterminazione
 
             + la condizione di ciò che è determinato da una pluralità di fattori, 
                 \b come alcuni fenomeni dell’inconscio, 

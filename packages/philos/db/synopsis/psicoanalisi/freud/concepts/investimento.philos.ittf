@@ -3,8 +3,9 @@ $group
     namespace freud
 
         concept investimento
-            alias carica
-            alias energia
+            title Investimento
+            alias Carica
+            alias Energia
             + Quantità di energia che un neurone ha ricevuto
                 \b e di cui tenderà a liberarsi.
 

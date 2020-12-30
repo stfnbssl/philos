@@ -3,8 +3,10 @@ $group
     namespace freud
 
         concept rappresentazione
+            title Rappresentazione
 
             concept verbale
+                title Rappresentazione verbale
                 quote
                     + La funzione delle rappresentazioni verbali diventa ora perfettamente chiara. 
                         \b Per mezzo loro i processi interni di pensiero si trasformano in percezioni. 

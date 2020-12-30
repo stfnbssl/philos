@@ -3,6 +3,8 @@ $group
     namespace freud
 
         concept educazione
+            title Educazione
+            
             quote
                 + L’educazione può senz’altro esser descritta come un incitamento a superare il principio di piacere, 
                     \b e a sostituirlo col principio di realtà; 

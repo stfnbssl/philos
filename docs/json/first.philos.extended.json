@@ -551,9 +551,6 @@
             "id": "freud.progetto.neuroni-secretori",
             "aliases": [
                 {
-                    "text": "Neuroni secretori"
-                },
-                {
                     "text": "Neuroni chiave"
                 }
             ],
@@ -561,7 +558,10 @@
                 {
                     "line": "Come esistono neuroni motori, che quando vengono riempiti fino a un certo livello, conducono le Qἠ nei muscoli e ivi le scaricano, così devono esservi neuroni secretori, i quali, quando vengono eccitati, generano all'interno del corpo qualcosa che agisce come uno stimolo alle vie endogene di conduzione che portano a ψ, e quindi influenzano la produzione di Qἠ endogene, e con ciò non scaricano Qἠ ma le introducono per via indiretta."
                 }
-            ]
+            ],
+            "title": {
+                "text": "Neuroni secretori"
+            }
         },
         {
             "kind": "concept",
@@ -614,7 +614,10 @@
                 {
                     "line": "Neurone ψ che sono investiti da neuroni φ."
                 }
-            ]
+            ],
+            "title": {
+                "text": "Neuroni del pallio"
+            }
         },
         {
             "kind": "concept",
@@ -626,7 +629,10 @@
                 {
                     "line": "Neuroni ψ che sono investiti dalle vie endogene di conduzione."
                 }
-            ]
+            ],
+            "title": {
+                "text": "Neuroni nucleari"
+            }
         },
         {
             "kind": "concept",
@@ -942,7 +948,7 @@
                 }
             ],
             "title": {
-                "text": "qualità"
+                "text": "Qualità"
             }
         },
         {
@@ -1245,13 +1251,13 @@
             "id": "freud.affetto.importo",
             "aliases": [
                 {
-                    "text": "forza pulsionale"
+                    "text": "Forza pulsionale"
                 },
                 {
-                    "text": "spinta della pulsione"
+                    "text": "Spinta della pulsione"
                 },
                 {
-                    "text": "libido (quando è in causa la sola pulsione sessuale)"
+                    "text": "Libido (quando è in causa la sola pulsione sessuale)"
                 }
             ],
             "contents": [
@@ -1296,7 +1302,7 @@
                 }
             ],
             "title": {
-                "text": "importo d'affetto",
+                "text": "Importo d'affetto",
                 "langs": [
                     {
                         "lang": "de",
@@ -1318,7 +1324,10 @@
                 {
                     "line": "Solo se la rievocazione del ricordo provoca la reviviscenza dell'affetto che gli era legato all'origine, la reminiscenza acquista la sua efficacia terapeutica."
                 }
-            ]
+            ],
+            "title": {
+                "text": "Affetto bloccato"
+            }
         },
         {
             "kind": "concept",
@@ -1336,7 +1345,10 @@
                 {
                     "line": "nei sintomi corporei parlano le rappresentazioni rimosse deformate dalla \"condensazione\" e dallo \"spostamento\""
                 }
-            ]
+            ],
+            "title": {
+                "text": "Conversione (destino dell'affetto)"
+            }
         },
         {
             "kind": "concept",
@@ -1351,7 +1363,10 @@
                 {
                     "line": "lo spostamento dell'affetto produce \"nevrosi ossessiva\""
                 }
-            ]
+            ],
+            "title": {
+                "text": "Spostamento (destino dell'affetto)"
+            }
         },
         {
             "kind": "concept",
@@ -1363,7 +1378,10 @@
                 {
                     "line": "la trasformazione dell'affetto produce \"nevrosi d'angoscia\", \"melanconia\""
                 }
-            ]
+            ],
+            "title": {
+                "text": "Trasformazione (destino dell'affetto)"
+            }
         },
         {
             "kind": "concept",
@@ -1375,7 +1393,10 @@
                 {
                     "line": "non è una rimozione, non si può parlare di affetto inconscio"
                 }
-            ]
+            ],
+            "title": {
+                "text": "Repressione (destino dell'affetto)"
+            }
         },
         {
             "kind": "concept",
@@ -1402,7 +1423,10 @@
                 {
                     "concept": "freud.affetto.destino.repressione"
                 }
-            ]
+            ],
+            "title": {
+                "text": "Destino dell'affetto"
+            }
         },
         {
             "kind": "concept",
@@ -1444,7 +1468,10 @@
                 {
                     "line": "Al pari dell'amnesia isterica, l'amnesia infantile può essere in linea di principio eliminata: essa non è una soppressione o una assenza di fissazione di ricordi, bensì l'effetto di una rimozione. Freud vede nell'amnesia infantile la condizione delle rimozioni successive, in particolare dell'amnesia isterica."
                 }
-            ]
+            ],
+            "title": {
+                "text": "Amnesia infantile"
+            }
         },
         {
             "kind": "concept",
@@ -1454,7 +1481,7 @@
             "id": "freud.angoscia.morale",
             "aliases": [
                 {
-                    "text": "angoscia sociale"
+                    "text": "Angoscia sociale"
                 }
             ],
             "contents": [
@@ -1469,7 +1496,7 @@
                 }
             ],
             "title": {
-                "text": "angoscia morale"
+                "text": "Angoscia morale"
             }
         },
         {
@@ -1495,7 +1522,7 @@
                 }
             ],
             "title": {
-                "text": "angoscia di morte"
+                "text": "Angoscia di morte"
             }
         },
         {
@@ -1514,7 +1541,10 @@
                         "kindlepage": "6427"
                     }
                 }
-            ]
+            ],
+            "title": {
+                "text": "Angoscia di evirazione"
+            }
         },
         {
             "kind": "concept",
@@ -1524,9 +1554,12 @@
             "id": "freud.angoscia.reale",
             "aliases": [
                 {
-                    "text": "angoscia per l'oggetto"
+                    "text": "Angoscia per l'oggetto"
                 }
-            ]
+            ],
+            "title": {
+                "text": "Angoscia reale"
+            }
         },
         {
             "kind": "concept",
@@ -1536,9 +1569,12 @@
             "id": "freud.angoscia.nevrotica",
             "aliases": [
                 {
-                    "text": "angoscia per la libido"
+                    "text": "Angoscia per la libido"
                 }
-            ]
+            ],
+            "title": {
+                "text": "Angoscia nevrotica"
+            }
         },
         {
             "kind": "concept",
@@ -1616,7 +1652,10 @@
                 {
                     "concept": "freud.angoscia.nevrotica"
                 }
-            ]
+            ],
+            "title": {
+                "text": "Angoscia"
+            }
         },
         {
             "kind": "concept",
@@ -1642,27 +1681,55 @@
                         ],
                         "kindleloc": "65478-65479"
                     }
+                },
+                {
+                    "kind": "rconcept",
+                    "id": "freud.traccia-mnestica",
+                    "contents": [
+                        {
+                            "line": "Lo scopo di Freud è di collocare la memoria secondo una \"topica\"."
+                        }
+                    ]
                 }
-            ]
+            ],
+            "title": {
+                "text": "Topica psicologica"
+            }
         },
         {
             "kind": "concept",
             "ns": "freud.apparato",
             "author": "global",
             "name": "dinamica",
-            "id": "freud.apparato.dinamica"
+            "id": "freud.apparato.dinamica",
+            "aliases": [
+                {
+                    "text": "Modo dinamico"
+                }
+            ],
+            "contents": [
+                {
+                    "line": "Freud descrisse i modi di essere con l'espressione \"agenzie costruttrici di pensiero\" e anche in termini di energia"
+                }
+            ],
+            "title": {
+                "text": "Dinamica psichica"
+            }
         },
         {
             "kind": "concept",
             "ns": "freud.apparato",
             "author": "global",
-            "name": "modo-dinamico",
-            "id": "freud.apparato.modo-dinamico",
+            "name": "economia",
+            "id": "freud.apparato.economia",
             "contents": [
                 {
-                    "line": "Freud descrisse i modi di essere con l'espressione \"agenzie costruttrici di pensiero\" e anche in termini di energia"
+                    "line": "Lo scopo di Freud è di fornire una spiegazione del funzionamento dell'apparato psichico in termini economici (investimenti/disinvestimenti)."
                 }
-            ]
+            ],
+            "title": {
+                "text": "Economia psichica"
+            }
         },
         {
             "kind": "concept",
@@ -1674,7 +1741,10 @@
                 {
                     "line": "Si riferisce a uno schema essenzialmente topico dello psichismo, in cui quest'ultimo è concepito come una serie di dispositivi attraversati dalle eccitazioni, allo stesso modo in cui la luce passa attraverso i diversi sistemi di un apparato ottico."
                 }
-            ]
+            ],
+            "title": {
+                "text": "Sistema psichico"
+            }
         },
         {
             "kind": "concept",
@@ -1696,14 +1766,26 @@
                         ]
                     }
                 }
-            ]
+            ],
+            "title": {
+                "text": "Istanza",
+                "langs": [
+                    {
+                        "lang": "de",
+                        "text": "Instanz"
+                    }
+                ]
+            }
         },
         {
             "kind": "concept",
             "ns": "freud",
             "author": "global",
             "name": "appoggio",
-            "id": "freud.appoggio"
+            "id": "freud.appoggio",
+            "title": {
+                "text": "Appoggio"
+            }
         },
         {
             "kind": "concept",
@@ -1721,7 +1803,10 @@
                         "kindleloc": "65164-65172"
                     }
                 }
-            ]
+            ],
+            "title": {
+                "text": "Associazione libera"
+            }
         },
         {
             "kind": "concept",
@@ -1740,7 +1825,10 @@
                         "article": "freud.precisazione-sui-due-principi-dell-accadere-psichico"
                     }
                 }
-            ]
+            ],
+            "title": {
+                "text": "Attenzione"
+            }
         },
         {
             "kind": "concept",
@@ -1758,7 +1846,10 @@
                         "kindlepage": "4664-4665"
                     }
                 }
-            ]
+            ],
+            "title": {
+                "text": "Atto psichico"
+            }
         },
         {
             "kind": "concept",
@@ -1770,7 +1861,10 @@
                 {
                     "line": "Per Freud l’autoerotismo è uno stadio antecedente al narcisismo; il narcisismo - ovvero l’investimento libidico dell’Io, di quell’ Io che è al contempo la fonte di tutta la libido che può essere trasfusa - può essere assottigliato fino all’estremo, a causa di un sovrainvestimento eccessivo dell’oggetto, senza però intaccare l’autoerotismo, ovvero la quota libidica che rimane strenuamente abbarbicata a questo punctum (il fallo) di origine della libido."
                 }
-            ]
+            ],
+            "title": {
+                "text": "Autoerotismo"
+            }
         },
         {
             "kind": "concept",
@@ -1782,7 +1876,10 @@
                 {
                     "line": "Azione richiesta nella realtà per scaricare l'eccitazione di uno stimolo endogeno (pulsione) quale fame, sete, sessualità."
                 }
-            ]
+            ],
+            "title": {
+                "text": "Azione specifica"
+            }
         },
         {
             "kind": "concept",
@@ -1790,6 +1887,11 @@
             "author": "global",
             "name": "coazione-a-ripetere",
             "id": "freud.coazione-a-ripetere",
+            "aliases": [
+                {
+                    "text": "Automatismo di ripetizione"
+                }
+            ],
             "contents": [
                 {
                     "quote": {
@@ -1802,7 +1904,7 @@
                 }
             ],
             "title": {
-                "text": "coazione a ripetere",
+                "text": "Coazione a ripetere",
                 "langs": [
                     {
                         "lang": "de",
@@ -1836,7 +1938,10 @@
                         "kindlepage": "5961-5962"
                     }
                 }
-            ]
+            ],
+            "title": {
+                "text": "Coscienza"
+            }
         },
         {
             "kind": "concept",
@@ -1888,7 +1993,10 @@
                         }
                     ]
                 }
-            ]
+            ],
+            "title": {
+                "text": "Desiderio"
+            }
         },
         {
             "kind": "concept",
@@ -1897,7 +2005,7 @@
             "name": "dell-io",
             "id": "freud.difesa.dell-io",
             "title": {
-                "text": "difesa dell'Io"
+                "text": "Difesa dell'Io"
             }
         },
         {
@@ -1907,17 +2015,17 @@
             "name": "meccanismo-di",
             "id": "freud.difesa.meccanismo-di",
             "title": {
-                "text": "meccanismo di difesa"
+                "text": "Meccanismo di difesa"
             }
         },
         {
             "kind": "concept",
             "ns": "freud.difesa",
             "author": "global",
-            "name": "lotta-di",
-            "id": "freud.difesa.lotta-di",
+            "name": "Lotta-di",
+            "id": "freud.difesa.Lotta-di",
             "title": {
-                "text": "lotta di difesa"
+                "text": "Lotta di difesa"
             }
         },
         {
@@ -1936,7 +2044,10 @@
                         }
                     ]
                 }
-            ]
+            ],
+            "title": {
+                "text": "Difesa secondaria"
+            }
         },
         {
             "kind": "concept",
@@ -1945,15 +2056,8 @@
             "name": "inconscia-dell-io",
             "id": "freud.difesa.inconscia-dell-io",
             "title": {
-                "text": "difesa inconscia dell'io"
+                "text": "Difesa inconscia dell'io"
             }
-        },
-        {
-            "kind": "concept",
-            "ns": "freud.difesa",
-            "author": "global",
-            "name": "freud.difesa",
-            "id": "freud.difesa.freud.difesa"
         },
         {
             "kind": "concept",
@@ -1978,32 +2082,38 @@
                     "concept": "freud.difesa.meccanismo-di"
                 },
                 {
-                    "concept": "freud.difesa.lotta-di"
+                    "concept": "freud.difesa.Lotta-di"
                 },
                 {
                     "concept": "freud.difesa.secondaria"
                 },
                 {
                     "concept": "freud.difesa.inconscia-dell-io"
-                },
-                {
-                    "concept": "freud.difesa.freud.difesa"
                 }
-            ]
+            ],
+            "title": {
+                "text": "Difesa"
+            }
         },
         {
             "kind": "concept",
             "ns": "freud",
             "author": "global",
             "name": "dispiacere",
-            "id": "freud.dispiacere"
+            "id": "freud.dispiacere",
+            "title": {
+                "text": "Dispiacere"
+            }
         },
         {
             "kind": "concept",
             "ns": "freud.eccitazione",
             "author": "global",
             "name": "esterna",
-            "id": "freud.eccitazione.esterna"
+            "id": "freud.eccitazione.esterna",
+            "title": {
+                "text": "Eccitazione esterna"
+            }
         },
         {
             "kind": "concept",
@@ -2026,7 +2136,7 @@
                 }
             ],
             "title": {
-                "text": "eccitazione",
+                "text": "Eccitazione",
                 "langs": [
                     {
                         "lang": "de",
@@ -2052,7 +2162,10 @@
                         "article": "freud.precisazione-sui-due-principi-dell-accadere-psichico"
                     }
                 }
-            ]
+            ],
+            "title": {
+                "text": "Educazione"
+            }
         },
         {
             "kind": "concept",
@@ -2062,10 +2175,7 @@
             "id": "freud.effetto-retroattivo",
             "aliases": [
                 {
-                    "text": "risignificazione a posteriori"
-                },
-                {
-                    "text": "Nachträglicheit"
+                    "text": "Risignificazione a posteriori"
                 }
             ],
             "contents": [
@@ -2077,16 +2187,16 @@
                         "author": null,
                         "contents": [
                             {
-                                "line": "esempio classico è quello di una molestia sessuale subita da un bambino, che prende il suo significato di seduzione e violenza solo anni dopo l’evento reale."
+                                "line": "Esempio classico è quello di una molestia sessuale subita da un bambino, che prende il suo significato di seduzione e violenza solo anni dopo l’evento reale."
                             },
                             {
-                                "line": "altro caso è quello di un trauma precoce – per es., la morte di una persona cara – verificatosi in epoca preverbale, che assume un senso memorizzabile solo in seguito a un nuovo evento attuale minore, per es. una separazione, il quale – grazie alla raggiunta maturità psichica e all’elaborazione del momento attuale – si carica di tutto il dolore di un lutto a suo tempo non vissuto."
+                                "line": "Altro caso è quello di un trauma precoce – per es., la morte di una persona cara – verificatosi in epoca preverbale, che assume un senso memorizzabile solo in seguito a un nuovo evento attuale minore, per es. una separazione, il quale – grazie alla raggiunta maturità psichica e all’elaborazione del momento attuale – si carica di tutto il dolore di un lutto a suo tempo non vissuto."
                             }
                         ]
                     }
                 },
                 {
-                    "line": "così il passato determina il presente, ma a sua volta il presente può determinare il passato, corredandolo di rappresentazioni e costituendolo di significato."
+                    "line": "Così il passato determina il presente, ma a sua volta il presente può determinare il passato, corredandolo di rappresentazioni e costituendolo di significato."
                 },
                 {
                     "kind": "rconcept",
@@ -2099,7 +2209,13 @@
                 }
             ],
             "title": {
-                "text": "effetto retroattivo"
+                "text": "Effetto retroattivo",
+                "langs": [
+                    {
+                        "lang": "de",
+                        "text": "Nachträglicheit"
+                    }
+                ]
             }
         },
         {
@@ -2107,14 +2223,20 @@
             "ns": "freud.energia",
             "author": "global",
             "name": "legata",
-            "id": "freud.energia.legata"
+            "id": "freud.energia.legata",
+            "title": {
+                "text": "Energia legata"
+            }
         },
         {
             "kind": "concept",
             "ns": "freud.energia",
             "author": "global",
             "name": "mobile",
-            "id": "freud.energia.mobile"
+            "id": "freud.energia.mobile",
+            "title": {
+                "text": "Energia mobile"
+            }
         },
         {
             "kind": "concept",
@@ -2131,15 +2253,15 @@
                 }
             ],
             "title": {
-                "text": "energia mentale"
+                "text": "Energia mentale"
             }
         },
         {
             "kind": "concept",
             "ns": "freud",
             "author": "global",
-            "name": "Eros",
-            "id": "freud.Eros",
+            "name": "eros",
+            "id": "freud.eros",
             "contents": [
                 {
                     "quote": {
@@ -2151,7 +2273,10 @@
                         "article": "freud.al-di-la-del-principio-del-piacere"
                     }
                 }
-            ]
+            ],
+            "title": {
+                "text": "Eros"
+            }
         },
         {
             "kind": "concept",
@@ -2170,7 +2295,10 @@
                         "article": "freud.precisazione-sui-due-principi-dell-accadere-psichico"
                     }
                 }
-            ]
+            ],
+            "title": {
+                "text": "Fantasticare"
+            }
         },
         {
             "kind": "concept",
@@ -2189,7 +2317,10 @@
                         "kindleloc": "80604-80610"
                     }
                 }
-            ]
+            ],
+            "title": {
+                "text": "Festa"
+            }
         },
         {
             "kind": "concept",
@@ -2228,7 +2359,10 @@
                     "id": "freud.ricordo-di-copertura",
                     "contents": []
                 }
-            ]
+            ],
+            "title": {
+                "text": "Formazione di compromesso"
+            }
         },
         {
             "kind": "concept",
@@ -2238,16 +2372,36 @@
             "id": "freud.formazione-reattiva",
             "contents": [
                 {
-                    "line": "nel caso della rimozione i contenuti psichici possono avere apparenza del tutto opposta al rimosso"
+                    "line": "Nel caso della rimozione i contenuti psichici possono avere apparenza del tutto opposta al rimosso."
                 }
-            ]
+            ],
+            "title": {
+                "text": "Formazione reattiva"
+            }
         },
         {
             "kind": "concept",
             "ns": "freud.inconscio",
             "author": "global",
             "name": "non-rimosso",
-            "id": "freud.inconscio.non-rimosso"
+            "id": "freud.inconscio.non-rimosso",
+            "contents": [
+                {
+                    "kind": "rconcept",
+                    "id": "freud.prima-topica.inconscio",
+                    "contents": [
+                        {
+                            "line": "è la vera realtà psichica"
+                        },
+                        {
+                            "line": "ha cinque caratteristiche:"
+                        }
+                    ]
+                }
+            ],
+            "title": {
+                "text": "Inconscio non rimosso"
+            }
         },
         {
             "kind": "concept",
@@ -2265,14 +2419,20 @@
                         "book": "freud.l-inconscio"
                     }
                 }
-            ]
+            ],
+            "title": {
+                "text": "Assenza di mutua contraddizione tra la presentazione dei differenti impulsi"
+            }
         },
         {
             "kind": "concept",
             "ns": "freud.inconscio",
             "author": "global",
             "name": "condensazione",
-            "id": "freud.inconscio.condensazione"
+            "id": "freud.inconscio.condensazione",
+            "title": {
+                "text": "Condensazione"
+            }
         },
         {
             "kind": "concept",
@@ -2290,14 +2450,20 @@
                         "book": "blanco.l-inconscio-come-insiemi-infiniti"
                     }
                 }
-            ]
+            ],
+            "title": {
+                "text": "Spostamento"
+            }
         },
         {
             "kind": "concept",
             "ns": "freud.inconscio",
             "author": "global",
-            "name": "assenza-di-tempo",
-            "id": "freud.inconscio.assenza-di-tempo"
+            "name": "assenza-del-tempo",
+            "id": "freud.inconscio.assenza-del-tempo",
+            "title": {
+                "text": "Assenza del tempo"
+            }
         },
         {
             "kind": "concept",
@@ -2309,7 +2475,10 @@
                 {
                     "line": "In psichiatria, specialmente in relazione alla schizofrenia, questa caratteristica è talvolta chiamata \"interpretazione letterale della metafora\""
                 }
-            ]
+            ],
+            "title": {
+                "text": "Sostituzione della realtà esterna con quella psichica"
+            }
         },
         {
             "kind": "concept",
@@ -2359,12 +2528,15 @@
                     "concept": "freud.inconscio.spostamento"
                 },
                 {
-                    "concept": "freud.inconscio.assenza-di-tempo"
+                    "concept": "freud.inconscio.assenza-del-tempo"
                 },
                 {
                     "concept": "freud.inconscio.sostituzione-della-realtà-esterna-con-quella-psichica"
                 }
-            ]
+            ],
+            "title": {
+                "text": "Inconscio"
+            }
         },
         {
             "kind": "concept",
@@ -2427,10 +2599,10 @@
             "id": "freud.investimento",
             "aliases": [
                 {
-                    "text": "carica"
+                    "text": "Carica"
                 },
                 {
-                    "text": "energia"
+                    "text": "Energia"
                 }
             ],
             "contents": [
@@ -2461,14 +2633,27 @@
                 {
                     "concept": "freud.investimento.quiescente"
                 }
-            ]
+            ],
+            "title": {
+                "text": "Investimento"
+            }
+        },
+        {
+            "kind": "concept",
+            "ns": "freud.io",
+            "author": "global",
+            "name": "parte-inconscia",
+            "id": "freud.io.parte-inconscia",
+            "title": {
+                "text": "Parte inconscia dell'Io"
+            }
         },
         {
             "kind": "concept",
             "ns": "freud",
             "author": "global",
-            "name": "Io",
-            "id": "freud.Io",
+            "name": "io",
+            "id": "freud.io",
             "contents": [
                 {
                     "kind": "rconcept",
@@ -2484,15 +2669,14 @@
                             }
                         }
                     ]
+                },
+                {
+                    "concept": "freud.io.parte-inconscia"
                 }
-            ]
-        },
-        {
-            "kind": "concept",
-            "ns": "freud",
-            "author": "global",
-            "name": "parte-inconscia-io",
-            "id": "freud.parte-inconscia-io"
+            ],
+            "title": {
+                "text": "Io"
+            }
         },
         {
             "kind": "concept",
@@ -2506,7 +2690,10 @@
                     "id": "freud.meccanismo-di-difesa",
                     "contents": []
                 }
-            ]
+            ],
+            "title": {
+                "text": "Isteria"
+            }
         },
         {
             "kind": "concept",
@@ -2516,11 +2703,11 @@
             "id": "freud.istinto",
             "contents": [
                 {
-                    "line": "un comportamento animale fissato dall'eredità, caratteristico della specie, preformato nel suo svolgimento e adattato al suo oggetto."
+                    "line": "Un comportamento animale fissato dall'eredità, caratteristico della specie, preformato nel suo svolgimento e adattato al suo oggetto."
                 }
             ],
             "title": {
-                "text": "istinto",
+                "text": "Istinto",
                 "langs": [
                     {
                         "lang": "de",
@@ -2537,9 +2724,12 @@
             "id": "freud.lavoro-onirico",
             "contents": [
                 {
-                    "line": "utilizza il modo di essere del sistema inconscio ma è svolto dall'Io"
+                    "line": "Utilizza il modo di essere del sistema inconscio ma è svolto dall'Io."
                 }
-            ]
+            ],
+            "title": {
+                "text": "Lavoro onirico"
+            }
         },
         {
             "kind": "concept",
@@ -2569,7 +2759,10 @@
                         "unknown": "bax"
                     }
                 }
-            ]
+            ],
+            "title": {
+                "text": "Libido"
+            }
         },
         {
             "kind": "concept",
@@ -2587,7 +2780,10 @@
                         "kindleloc": "65595-65597"
                     }
                 }
-            ]
+            ],
+            "title": {
+                "text": "Metapsicologia"
+            }
         },
         {
             "kind": "concept",
@@ -2604,7 +2800,10 @@
                         ]
                     }
                 }
-            ]
+            ],
+            "title": {
+                "text": "Motilità"
+            }
         },
         {
             "kind": "concept",
@@ -2627,14 +2826,20 @@
                     "id": "freud.meccanismo-di-difesa",
                     "contents": []
                 }
-            ]
+            ],
+            "title": {
+                "text": "Nevrosi ossessiva"
+            }
         },
         {
             "kind": "concept",
             "ns": "freud",
             "author": "global",
             "name": "nevrosi-traumatica",
-            "id": "freud.nevrosi-traumatica"
+            "id": "freud.nevrosi-traumatica",
+            "title": {
+                "text": "Nevrosi traumatica"
+            }
         },
         {
             "kind": "concept",
@@ -2646,7 +2851,10 @@
                 {
                     "line": "la libido è traslata su oggetti reali o immaginari. Nel trattamento psicoanalitico si prestano al trandfert hanno origine dall'infanzia e fanno parte dalle PSICONEVROSI, dove i sintomi sono espressione simbolica e sovradeterminatan di un conflitto"
                 }
-            ]
+            ],
+            "title": {
+                "text": "Nevrosi di traslazione"
+            }
         },
         {
             "kind": "concept",
@@ -2658,7 +2866,10 @@
                 {
                     "line": "La libido sprigionata dal materiale patogeno, a causa della rimozione viene convertita, cioè viene sottratta alla sfera psichica per riapparire in un’innervazione somatica, scegliendo un certo organo in funzione di un simbolismo inconscio. Il punto di fissazione della libido è nella fase edipica (fallica ma anche orale)."
                 }
-            ]
+            ],
+            "title": {
+                "text": "Isteria di conversione"
+            }
         },
         {
             "kind": "concept",
@@ -2668,14 +2879,17 @@
             "id": "freud.nevrosi.psico.isteria-d-angoscia",
             "aliases": [
                 {
-                    "text": "nevrosi fobica"
+                    "text": "Nevrosi fobica"
                 }
             ],
             "contents": [
                 {
                     "line": "La libido sprigionata dal materiale patogeno, a causa della rimozione viene liberata sotto forma di angoscia. Il punto di fissazione della libido è nella fase edipica (fallica ma anche orale)."
                 }
-            ]
+            ],
+            "title": {
+                "text": "Isteria d'angoscia"
+            }
         },
         {
             "kind": "concept",
@@ -2687,7 +2901,10 @@
                 {
                     "line": "Si manifesta con sintomi coatti. La causa è sempre la difesa dalle pretese libidiche dell’Edipo ma c’è una regressione alle fissazioni verificatesi nella fase anale. C’è ambivalenza; c’è tensione tra l’Io e un Super-Io crudele (relazione sadomasochistica) che porta a formazioni reattive."
                 }
-            ]
+            ],
+            "title": {
+                "text": "Nevrosi ossessiva"
+            }
         },
         {
             "kind": "concept",
@@ -2713,7 +2930,7 @@
                 }
             ],
             "title": {
-                "text": "psiconevrosi"
+                "text": "Psiconevrosi"
             }
         },
         {
@@ -2726,7 +2943,10 @@
                 {
                     "line": "il fattore precipitante del disturbo è un alleviamento inadeguato dell'eccitazione sessuale ad esempio la masturbazione"
                 }
-            ]
+            ],
+            "title": {
+                "text": "Nevrastenia"
+            }
         },
         {
             "kind": "concept",
@@ -2738,14 +2958,20 @@
                 {
                     "line": "il fattore precipitante del disturbo è la mancanza di scarica dell'eccitazione sessuale ad esempio l'astinenza sessuale"
                 }
-            ]
+            ],
+            "title": {
+                "text": "Nevrosi d'angoscia"
+            }
         },
         {
             "kind": "concept",
             "ns": "freud.nevrosi.attuale",
             "author": "global",
             "name": "ipocondria",
-            "id": "freud.nevrosi.attuale.ipocondria"
+            "id": "freud.nevrosi.attuale.ipocondria",
+            "title": {
+                "text": "Ipocondria"
+            }
         },
         {
             "kind": "concept",
@@ -2774,7 +3000,7 @@
                 }
             ],
             "title": {
-                "text": "nevrosi attuale"
+                "text": "Nevrosi attuale"
             }
         },
         {
@@ -2793,7 +3019,10 @@
                         "kindlepage": "3839-3840"
                     }
                 }
-            ]
+            ],
+            "title": {
+                "text": "Scatenamento della nevrosi"
+            }
         },
         {
             "kind": "concept",
@@ -2814,14 +3043,20 @@
                 {
                     "concept": "freud.nevrosi.scatenamento"
                 }
-            ]
+            ],
+            "title": {
+                "text": "Nevrosi"
+            }
         },
         {
             "kind": "concept",
             "ns": "freud",
             "author": "global",
             "name": "percezione",
-            "id": "freud.percezione"
+            "id": "freud.percezione",
+            "title": {
+                "text": "Percezione"
+            }
         },
         {
             "kind": "concept",
@@ -2839,14 +3074,20 @@
                         "article": "pagliardini.l-oggetto-sguardo-nell-insegnamento-di-lacan"
                     }
                 }
-            ]
+            ],
+            "title": {
+                "text": "Perturbante"
+            }
         },
         {
             "kind": "concept",
             "ns": "freud",
             "author": "global",
             "name": "piacere",
-            "id": "freud.piacere"
+            "id": "freud.piacere",
+            "title": {
+                "text": "Piacere"
+            }
         },
         {
             "kind": "concept",
@@ -2864,21 +3105,30 @@
                         "book": "freud.l-inconscio"
                     }
                 }
-            ]
+            ],
+            "title": {
+                "text": "Inconscio (prima topica)"
+            }
         },
         {
             "kind": "concept",
             "ns": "freud.prima-topica",
             "author": "global",
             "name": "preconscio",
-            "id": "freud.prima-topica.preconscio"
+            "id": "freud.prima-topica.preconscio",
+            "title": {
+                "text": "Preconscio (prima topica)"
+            }
         },
         {
             "kind": "concept",
             "ns": "freud.prima-topica",
             "author": "global",
             "name": "coscienza",
-            "id": "freud.prima-topica.coscienza"
+            "id": "freud.prima-topica.coscienza",
+            "title": {
+                "text": "Coscienza (prima topica)"
+            }
         },
         {
             "kind": "concept",
@@ -2896,28 +3146,40 @@
                 {
                     "concept": "freud.prima-topica.coscienza"
                 }
-            ]
+            ],
+            "title": {
+                "text": "Prima topica"
+            }
         },
         {
             "kind": "concept",
             "ns": "freud",
             "author": "global",
             "name": "principio-di-costanza",
-            "id": "freud.principio-di-costanza"
+            "id": "freud.principio-di-costanza",
+            "title": {
+                "text": "Principio di costanza"
+            }
         },
         {
             "kind": "concept",
             "ns": "freud",
             "author": "global",
             "name": "principio-di-piacere",
-            "id": "freud.principio-di-piacere"
+            "id": "freud.principio-di-piacere",
+            "title": {
+                "text": "Principio di piacere"
+            }
         },
         {
             "kind": "concept",
             "ns": "freud",
             "author": "global",
             "name": "principio-di-realtà",
-            "id": "freud.principio-di-realtà"
+            "id": "freud.principio-di-realtà",
+            "title": {
+                "text": "Principio di realtà"
+            }
         },
         {
             "kind": "concept",
@@ -2935,7 +3197,10 @@
                         "kindlepage": "5663"
                     }
                 }
-            ]
+            ],
+            "title": {
+                "text": "Proiezione"
+            }
         },
         {
             "kind": "concept",
@@ -2949,37 +3214,20 @@
                     "id": "freud.meccanismo-di-difesa",
                     "contents": []
                 }
-            ]
-        },
-        {
-            "kind": "concept",
-            "ns": "global",
-            "author": "global",
-            "name": "freud.pulsione-io",
-            "id": "global.freud.pulsione-io",
+            ],
             "title": {
-                "text": "pulsione dell'io"
+                "text": "Psicosi"
             }
         },
         {
             "kind": "concept",
-            "ns": "global",
-            "author": "global",
-            "name": "freud.pulsione-sessuale",
-            "id": "global.freud.pulsione-sessuale",
-            "title": {
-                "text": "pulsione sessuale"
-            }
-        },
-        {
-            "kind": "concept",
-            "ns": "global.freud.pulsione",
+            "ns": "freud.pulsione",
             "author": "global",
             "name": "fonte",
-            "id": "global.freud.pulsione.fonte",
+            "id": "freud.pulsione.fonte",
             "contents": [
                 {
-                    "line": "fonte somatica"
+                    "line": "Fonte somatica"
                 },
                 {
                     "kind": "rconcept",
@@ -2992,90 +3240,106 @@
                 }
             ],
             "title": {
-                "text": "fonte della pulsione"
+                "text": "Fonte della pulsione"
             }
         },
         {
             "kind": "concept",
-            "ns": "global.freud.pulsione",
+            "ns": "freud.pulsione",
             "author": "global",
             "name": "spinta",
-            "id": "global.freud.pulsione.spinta",
+            "id": "freud.pulsione.spinta",
             "contents": [
                 {
                     "line": "L'ultimo elemento che Freud introduce a proposito della nozione di pulsione è quello di spinta concepita come un fattore quantitativo economico, una «esigenza di lavoro imposta all'apparato psichico»."
                 }
             ],
             "title": {
-                "text": "spinta della pulsione"
+                "text": "Spinta della pulsione"
             }
         },
         {
             "kind": "concept",
-            "ns": "global.freud.pulsione",
+            "ns": "freud.pulsione",
             "author": "global",
             "name": "meta",
-            "id": "global.freud.pulsione.meta",
+            "id": "freud.pulsione.meta",
             "contents": [
                 {
                     "line": "le mete siano molteplici, parcellari {see freud.pulsione-parziale}, e strettamente dipendenti da fonti somatiche;"
                 }
             ],
             "title": {
-                "text": "meta della pulsione"
+                "text": "Meta della pulsione"
             }
         },
         {
             "kind": "concept",
-            "ns": "global.freud.pulsione",
+            "ns": "freud.pulsione",
             "author": "global",
             "name": "oggetto",
-            "id": "global.freud.pulsione.oggetto",
+            "id": "freud.pulsione.oggetto",
             "contents": [
                 {
                     "line": "l'oggetto è variabile, contingente, e viene scelto nella sua forma definitiva solo in funzione delle vicissitudini della storia del soggetto."
                 }
             ],
             "title": {
-                "text": "oggetto della pulsione"
+                "text": "Oggetto della pulsione"
             }
         },
         {
             "kind": "concept",
-            "ns": "global.freud.pulsione",
+            "ns": "freud.pulsione",
+            "author": "global",
+            "name": "dell-io",
+            "id": "freud.pulsione.dell-io",
+            "aliases": [
+                {
+                    "text": "Pulsione di autoconservazione"
+                }
+            ],
+            "title": {
+                "text": "Pulsione dell'io"
+            }
+        },
+        {
+            "kind": "concept",
+            "ns": "freud.pulsione",
+            "author": "global",
+            "name": "sessuale",
+            "id": "freud.pulsione.sessuale",
+            "title": {
+                "text": "Pulsione sessuale"
+            }
+        },
+        {
+            "kind": "concept",
+            "ns": "freud.pulsione",
             "author": "global",
             "name": "di-vita",
-            "id": "global.freud.pulsione.di-vita",
-            "aliases": [
-                {
-                    "text": "pulsione sessuale"
-                }
-            ],
+            "id": "freud.pulsione.di-vita",
             "title": {
-                "text": "pulsione di vita"
-            }
+                "text": "Pulsione di vita"
+            },
+            "synonim": "freud.pulsione.sessuale"
         },
         {
             "kind": "concept",
-            "ns": "global.freud.pulsione",
+            "ns": "freud.pulsione",
             "author": "global",
             "name": "di-morte",
-            "id": "global.freud.pulsione.di-morte",
-            "aliases": [
-                {
-                    "text": "pulsione dell'io"
-                }
-            ],
+            "id": "freud.pulsione.di-morte",
             "title": {
-                "text": "pulsione di morte"
+                "text": "Pulsione di morte"
             }
         },
         {
             "kind": "concept",
-            "ns": "global",
+            "ns": "freud",
             "author": "global",
-            "name": "freud.pulsione",
-            "id": "global.freud.pulsione",
+            "name": "pulsione",
+            "id": "freud.pulsione",
             "contents": [
                 {
                     "line": "Processo dinamico consistente in una spinta (carica energetica, fattore di motricità) che fa tendere l'organismo verso una meta."
@@ -3195,24 +3459,40 @@
                     ]
                 },
                 {
-                    "concept": "global.freud.pulsione.fonte"
+                    "concept": "freud.pulsione.fonte"
                 },
                 {
-                    "concept": "global.freud.pulsione.spinta"
+                    "concept": "freud.pulsione.spinta"
                 },
                 {
-                    "concept": "global.freud.pulsione.meta"
+                    "concept": "freud.pulsione.meta"
                 },
                 {
-                    "concept": "global.freud.pulsione.oggetto"
+                    "concept": "freud.pulsione.oggetto"
                 },
                 {
-                    "concept": "global.freud.pulsione.di-vita"
+                    "concept": "freud.pulsione.dell-io"
                 },
                 {
-                    "concept": "global.freud.pulsione.di-morte"
+                    "concept": "freud.pulsione.sessuale"
+                },
+                {
+                    "concept": "freud.pulsione.di-vita"
+                },
+                {
+                    "concept": "freud.pulsione.di-morte"
                 }
-            ]
+            ],
+            "title": {
+                "text": "Pulsione",
+                "langs": [
+                    {
+                        "lang": "de",
+                        "text": "Trieb",
+                        "it": "spinta"
+                    }
+                ]
+            }
         },
         {
             "kind": "concept",
@@ -3230,7 +3510,10 @@
                         "kindlepage": "5965"
                     }
                 }
-            ]
+            ],
+            "title": {
+                "text": "Rappresentazione verbale"
+            }
         },
         {
             "kind": "concept",
@@ -3242,7 +3525,10 @@
                 {
                     "concept": "freud.rappresentazione.verbale"
                 }
-            ]
+            ],
+            "title": {
+                "text": "Rappresentazione"
+            }
         },
         {
             "kind": "concept",
@@ -3260,7 +3546,10 @@
                         "kindlepage": "5994-5995"
                     }
                 }
-            ]
+            ],
+            "title": {
+                "text": "Reazione terapeutica negativa"
+            }
         },
         {
             "kind": "concept",
@@ -3270,7 +3559,7 @@
             "id": "freud.regola-fondamentale",
             "aliases": [
                 {
-                    "text": "regola psicoanalitica fondamentale"
+                    "text": "Regola psicoanalitica fondamentale"
                 }
             ],
             "contents": [
@@ -3278,12 +3567,15 @@
                     "quote": {
                         "author": "global",
                         "lines": [
-                            "secondo la quale ognuno deve comunicare senza sottoporre a critica tutto ciò che gli viene in mente"
+                            "Secondo la quale ognuno deve comunicare senza sottoporre a critica tutto ciò che gli viene in mente."
                         ],
                         "kindlepage": "3821"
                     }
                 }
-            ]
+            ],
+            "title": {
+                "text": "Regola fondamentale"
+            }
         },
         {
             "kind": "concept",
@@ -3325,7 +3617,10 @@
                         }
                     ]
                 }
-            ]
+            ],
+            "title": {
+                "text": "Repressione"
+            }
         },
         {
             "kind": "concept",
@@ -3335,9 +3630,12 @@
             "id": "freud.resistenza",
             "contents": [
                 {
-                    "line": "una delle ragioni principali che hanno portato Freud ad introdurre il concetto di narcisismo nel suo celebre saggio del 1914"
+                    "line": "Una delle ragioni principali che hanno portato Freud ad introdurre il concetto di narcisismo nel suo celebre saggio del 1914."
                 }
-            ]
+            ],
+            "title": {
+                "text": "Resistenza"
+            }
         },
         {
             "kind": "concept",
@@ -3347,16 +3645,19 @@
             "id": "freud.nucleo-patogeno",
             "contents": [
                 {
-                    "line": "da Freud inizialmente identificato con un evento traumatico poi con il «fantasma»"
+                    "line": "Da Freud inizialmente identificato con un evento traumatico poi con il «fantasma»."
                 }
-            ]
+            ],
+            "title": {
+                "text": "Nucleo patogeno"
+            }
         },
         {
             "kind": "concept",
-            "ns": "freud.rimozione.freud.rimozione.fasi",
+            "ns": "freud.rimozione.fasi",
             "author": "global",
-            "name": "freud.rimozione.fase-1",
-            "id": "freud.rimozione.freud.rimozione.fasi.freud.rimozione.fase-1",
+            "name": "fase-1",
+            "id": "freud.rimozione.fasi.fase-1",
             "contents": [
                 {
                     "kind": "rconcept",
@@ -3370,38 +3671,47 @@
                         }
                     ]
                 }
-            ]
+            ],
+            "title": {
+                "text": "Rimozione - Fasi - Fase 1"
+            }
         },
         {
             "kind": "concept",
-            "ns": "freud.rimozione.freud.rimozione.fasi",
+            "ns": "freud.rimozione.fasi",
             "author": "global",
-            "name": "freud.rimozione.fase-2",
-            "id": "freud.rimozione.freud.rimozione.fasi.freud.rimozione.fase-2",
+            "name": "fase-2",
+            "id": "freud.rimozione.fasi.fase-2",
             "contents": [
                 {
                     "line": "La rimozione propriamente detta (eigentliche Verdrängung) o rimozione posteriore (Nachdrängen) è un processo duplice, che unisce a questa attrazione una repulsione (Abstossung) da parte di una istanza superiore."
                 }
-            ]
+            ],
+            "title": {
+                "text": "Rimozione - Fasi - Fase 2"
+            }
         },
         {
             "kind": "concept",
-            "ns": "freud.rimozione.freud.rimozione.fasi",
+            "ns": "freud.rimozione.fasi",
             "author": "global",
-            "name": "freud.rimozione.fase-3",
-            "id": "freud.rimozione.freud.rimozione.fasi.freud.rimozione.fase-3",
+            "name": "fase-3",
+            "id": "freud.rimozione.fasi.fase-3",
             "contents": [
                 {
                     "line": "è costituita dal ritorno del rimosso sotto forma di sintomi, sogni, atti mancati, ecc.."
                 }
-            ]
+            ],
+            "title": {
+                "text": "Rimozione - Fasi - Fase 3"
+            }
         },
         {
             "kind": "concept",
             "ns": "freud.rimozione",
             "author": "global",
-            "name": "freud.rimozione.fasi",
-            "id": "freud.rimozione.freud.rimozione.fasi",
+            "name": "fasi",
+            "id": "freud.rimozione.fasi",
             "contents": [
                 {
                     "kind": "rconcept",
@@ -3413,15 +3723,18 @@
                     ]
                 },
                 {
-                    "concept": "freud.rimozione.freud.rimozione.fasi.freud.rimozione.fase-1"
+                    "concept": "freud.rimozione.fasi.fase-1"
                 },
                 {
-                    "concept": "freud.rimozione.freud.rimozione.fasi.freud.rimozione.fase-2"
+                    "concept": "freud.rimozione.fasi.fase-2"
                 },
                 {
-                    "concept": "freud.rimozione.freud.rimozione.fasi.freud.rimozione.fase-3"
+                    "concept": "freud.rimozione.fasi.fase-3"
                 }
-            ]
+            ],
+            "title": {
+                "text": "Rimozione - Fasi"
+            }
         },
         {
             "kind": "concept",
@@ -3537,7 +3850,7 @@
                     ]
                 },
                 {
-                    "concept": "freud.rimozione.freud.rimozione.fasi"
+                    "concept": "freud.rimozione.fasi"
                 },
                 {
                     "kind": "rconcept",
@@ -3581,14 +3894,20 @@
                         }
                     ]
                 }
-            ]
+            ],
+            "title": {
+                "text": "Rimozione"
+            }
         },
         {
             "kind": "concept",
             "ns": "freud",
             "author": "global",
             "name": "scena-primaria",
-            "id": "freud.scena-primaria"
+            "id": "freud.scena-primaria",
+            "title": {
+                "text": "Scena primaria"
+            }
         },
         {
             "kind": "concept",
@@ -3685,7 +4004,7 @@
             "id": "freud.seconda-topica",
             "aliases": [
                 {
-                    "text": "concezione-tripartita"
+                    "text": "Concezione tripartita"
                 }
             ],
             "contents": [
@@ -3704,7 +4023,10 @@
                 {
                     "concept": "freud.seconda-topica.super-io"
                 }
-            ]
+            ],
+            "title": {
+                "text": "Seconda topica"
+            }
         },
         {
             "kind": "concept",
@@ -3722,7 +4044,10 @@
                         "kindlepage": "5963"
                     }
                 }
-            ]
+            ],
+            "title": {
+                "text": "Sensazione"
+            }
         },
         {
             "kind": "concept",
@@ -3731,7 +4056,7 @@
             "name": "sistema-Inc",
             "id": "freud.sistema-Inc",
             "title": {
-                "text": "sistema Inc"
+                "text": "Sistema Inc"
             }
         },
         {
@@ -3740,6 +4065,11 @@
             "author": "global",
             "name": "sistema-P-C",
             "id": "freud.sistema-P-C",
+            "aliases": [
+                {
+                    "text": "Sistema Percezione-Coscienza"
+                }
+            ],
             "contents": [
                 {
                     "quote": {
@@ -3750,7 +4080,10 @@
                         "kindlepage": "5657"
                     }
                 }
-            ]
+            ],
+            "title": {
+                "text": "Sistema P-C"
+            }
         },
         {
             "kind": "concept",
@@ -3759,7 +4092,7 @@
             "name": "sistema-Prec",
             "id": "freud.sistema-Prec",
             "title": {
-                "text": "sistema Prec"
+                "text": "Sistema Prec"
             }
         },
         {
@@ -3772,7 +4105,10 @@
                 {
                     "line": "la condizione di ciò che è determinato da una pluralità di fattori, come alcuni fenomeni dell’inconscio, in particolare i sogni (ma anche i lapsus, gli atti mancati ecc.) nei quali, a causa della condensazione, un’immagine manifesta si compone di più contenuti latenti che l’interpretazione corretta deve cercare di ricostruire."
                 }
-            ]
+            ],
+            "title": {
+                "text": "Sovradeterminazione"
+            }
         },
         {
             "kind": "concept",
@@ -3790,7 +4126,10 @@
                         "kindlepage": "5970"
                     }
                 }
-            ]
+            ],
+            "title": {
+                "text": "Super Io"
+            }
         },
         {
             "kind": "concept",
@@ -3817,7 +4156,10 @@
                 {
                     "line": "per Freud gli eventi dei primi anni non vengono ricordati non per un difetto di fissazione, ma a causa della rimozione. In linea di principio, tutti i ricordi vengono trascritti, ma la loro rievocazione dipende dal modo in cui sono investiti, disinvestiti, controinvestiti. Questa concezione si basa sulla distinzione, messa in luce dall'esperienza clinica, tra la rappresentazione e l'importo d'affetto."
                 }
-            ]
+            ],
+            "title": {
+                "text": "Traccia mnestica"
+            }
         },
         {
             "kind": "concept",
@@ -3830,12 +4172,15 @@
                     "quote": {
                         "author": "global",
                         "lines": [
-                            "una tale elaborazione psichica anormale di una successione di pensieri normale si verifica solo quando quest’ultima si è fatta traslazione di un desiderio inconscio, che deriva dal materiale infantile e si trova in stato di rimozione."
+                            "[..] una tale elaborazione psichica anormale di una successione di pensieri normale si verifica solo quando quest’ultima si è fatta traslazione di un desiderio inconscio, che deriva dal materiale infantile e si trova in stato di rimozione."
                         ],
                         "book": "freud.l-interpretazione-dei-sogni"
                     }
                 }
-            ]
+            ],
+            "title": {
+                "text": "Traslazione"
+            }
         },
         {
             "kind": "concept",
@@ -3853,7 +4198,10 @@
                         "kindlepage": "5664"
                     }
                 }
-            ]
+            ],
+            "title": {
+                "text": "Trauma"
+            }
         }
     ],
     "theories": [],
@@ -4025,6 +4373,11 @@
         },
         {
             "kind": "rconcept",
+            "from": "freud.apparato.topica",
+            "to": "freud.traccia-mnestica"
+        },
+        {
+            "kind": "rconcept",
             "from": "freud.desiderio",
             "to": "freud.fantasma"
         },
@@ -4075,7 +4428,12 @@
         },
         {
             "kind": "rconcept",
-            "from": "freud.Io",
+            "from": "freud.inconscio.non-rimosso",
+            "to": "freud.prima-topica.inconscio"
+        },
+        {
+            "kind": "rconcept",
+            "from": "freud.io",
             "to": "freud.seconda-topica"
         },
         {
@@ -4095,37 +4453,37 @@
         },
         {
             "kind": "rconcept",
-            "from": "global.freud.pulsione",
+            "from": "freud.pulsione",
             "to": "freud.eccitazione-esterna"
         },
         {
             "kind": "rconcept",
-            "from": "global.freud.pulsione",
+            "from": "freud.pulsione",
             "to": "freud.pulsione-sessuale"
         },
         {
             "kind": "rconcept",
-            "from": "global.freud.pulsione",
+            "from": "freud.pulsione",
             "to": "freud.somatico-o-psichico"
         },
         {
             "kind": "rconcept",
-            "from": "global.freud.pulsione",
+            "from": "freud.pulsione",
             "to": "freud.prima-topica"
         },
         {
             "kind": "rconcept",
-            "from": "global.freud.pulsione",
+            "from": "freud.pulsione",
             "to": "freud.seconda-topica"
         },
         {
             "kind": "rconcept",
-            "from": "global.freud.pulsione",
+            "from": "freud.pulsione",
             "to": "global.istinto"
         },
         {
             "kind": "rconcept",
-            "from": "global.freud.pulsione.fonte",
+            "from": "freud.pulsione.fonte",
             "to": "freud.pulsione-sessuale"
         },
         {
@@ -4185,12 +4543,12 @@
         },
         {
             "kind": "rconcept",
-            "from": "freud.rimozione.freud.rimozione.fasi",
+            "from": "freud.rimozione.fasi",
             "to": "freud.seduzione"
         },
         {
             "kind": "rconcept",
-            "from": "freud.rimozione.freud.rimozione.fasi.freud.rimozione.fase-1",
+            "from": "freud.rimozione.fasi.fase-1",
             "to": "rimozione-originaria"
         },
         {

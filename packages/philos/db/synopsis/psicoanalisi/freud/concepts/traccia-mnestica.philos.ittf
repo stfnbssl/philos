@@ -3,6 +3,8 @@ $group
     namespace freud
 
         concept traccia-mnestica
+            title Traccia mnestica
+            
             + lo scopo di Freud è di collocare la memoria secondo una "topica" 
                 \b e di fornire una spiegazione del suo funzionamento in termini economici (investimenti/disinvestimenti)
             + la memoria non può risiedere nel sistema percezione-coscienza altrimenti esso

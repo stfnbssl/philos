@@ -3,4 +3,4 @@ $group
     namespace freud
 
         concept sistema-Inc
-            title sistema Inc
+            title Sistema Inc

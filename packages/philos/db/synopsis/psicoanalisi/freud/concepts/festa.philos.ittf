@@ -3,6 +3,8 @@ $group
     namespace freud
 
         concept festa
+            title Festa
+            
             quote
                 + Riguardo a tutte le rinunce e limitazioni che vengono imposte all’Io, 
                     \b la trasgressione periodica dei divieti è la regola, 

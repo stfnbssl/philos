@@ -3,6 +3,7 @@ $group
     namespace freud
 
         concept associazione-libera
+            title Associazione libera
             
             quote
                 + [..] non è vero che la rimozione tiene lontane dalla coscienza tutte le propaggini del rimosso originario.

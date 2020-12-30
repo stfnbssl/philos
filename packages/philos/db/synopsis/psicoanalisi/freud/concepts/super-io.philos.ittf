@@ -3,6 +3,8 @@ $group
     namespace freud
 
         concept super-Io
+            title Super Io
+            
             quote
                 + La novità che richiede un chiarimento sta nel fatto 
                     \b che questa parte dell’Io ha un rapporto meno stretto con la coscienza.

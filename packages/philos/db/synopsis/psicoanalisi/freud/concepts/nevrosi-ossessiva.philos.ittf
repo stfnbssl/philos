@@ -3,6 +3,7 @@ $group
     namespace freud
 
         concept nevrosi-ossessiva
+            title Nevrosi ossessiva
 
             quote
                 + Le esperienze sessuali dell’infanzia hanno, nell’etiologia della nevrosi ossessiva, 

@@ -4,6 +4,7 @@ $group
         
         concept rimozione
             parent freud.difesa-dell-io
+            title Rimozione
             
             + Operazione con cui il soggetto 
                 \b cerca di respingere o di mantenere nell'inconscio 
@@ -61,14 +62,16 @@ $group
             r-concept freud.nevrosi-ossessiva
                 + La rimozione è parte di un processo più ampio nella nevrosi ossessiva
 
-            concept freud.rimozione.fasi
+            concept fasi
+                title Rimozione - Fasi
                 r-concept freud.seduzione
                     + Va considerata come un primo tentativo sistematico per spiegare la rimozione, 
                         \b tentativo tanto più interessante in quanto 
                         \b non isola la descrizione del meccanismo 
                         \b dall'oggetto elettivo su cui esso opera, cioè la sessualità.
 
-                concept freud.rimozione.fase-1
+                concept fase-1
+                    title Rimozione - Fasi - Fase 1
                     r-concept rimozione-originaria
                         + La prima fase sarebbe una rimozione originaria; 
                             \b essa non riguarda la pulsione in quanto tale, 
@@ -78,13 +81,15 @@ $group
                         + viene così creato un primo nucleo inconscio 
                             \b funzionante come polo di attrazione 
                             \b nei confronti degli elementi da rimuovere                     
-                concept freud.rimozione.fase-2
+                concept fase-2
+                    title Rimozione - Fasi - Fase 2
                     + La rimozione propriamente detta (eigentliche Verdrängung) 
                         \b o rimozione posteriore (Nachdrängen) 
                         \b è un processo duplice, 
                         \b che unisce a questa attrazione 
                         \b una repulsione (Abstossung) da parte di una istanza superiore.
-                concept freud.rimozione.fase-3
+                concept fase-3
+                    title Rimozione - Fasi - Fase 3
                     + è costituita dal ritorno del rimosso
                         \b sotto forma di sintomi, sogni, atti mancati, ecc..
 
@@ -109,5 +114,3 @@ $group
                     \b possa suscitare un dispiacere tale 
                     \b da provocare l'operazione della rimozione?
                 see freud.difesa
-
-

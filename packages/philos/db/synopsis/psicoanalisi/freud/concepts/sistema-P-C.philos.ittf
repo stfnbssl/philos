@@ -3,6 +3,8 @@ $group
     namespace freud
 
         concept sistema-P-C
+            title Sistema P-C
+            alias Sistema Percezione-Coscienza
             quote
                 + Poiché la coscienza fornisce essenzialmente percezioni di eccitamenti 
                     \b che provengono dal mondo esterno, 

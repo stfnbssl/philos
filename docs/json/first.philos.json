@@ -1262,8 +1262,8 @@
                     "wzName": "neuroni-secretori",
                     "items": [
                         {
-                            "wzElement": "alias",
-                            "wzTag": "alias",
+                            "wzElement": "title",
+                            "wzTag": "title",
                             "wzName": "Neuroni secretori",
                             "items": []
                         },
@@ -1431,6 +1431,12 @@
                             "wzName": "del-pallio",
                             "items": [
                                 {
+                                    "wzElement": "title",
+                                    "wzTag": "title",
+                                    "wzName": "Neuroni del pallio",
+                                    "items": []
+                                },
+                                {
                                     "wzElement": "text",
                                     "wzTag": "+",
                                     "wzName": "Neurone ψ che sono investiti da neuroni φ.",
@@ -1443,6 +1449,12 @@
                             "wzTag": "concept",
                             "wzName": "nucleari",
                             "items": [
+                                {
+                                    "wzElement": "title",
+                                    "wzTag": "title",
+                                    "wzName": "Neuroni nucleari",
+                                    "items": []
+                                },
                                 {
                                     "wzElement": "text",
                                     "wzTag": "+",
@@ -1968,7 +1980,7 @@
                         {
                             "wzElement": "title",
                             "wzTag": "title",
-                            "wzName": "qualità",
+                            "wzName": "Qualità",
                             "items": []
                         },
                         {
@@ -2492,7 +2504,7 @@
                                 {
                                     "wzElement": "title",
                                     "wzTag": "title",
-                                    "wzName": "importo d'affetto",
+                                    "wzName": "Importo d'affetto",
                                     "items": [
                                         {
                                             "wzElement": "de",
@@ -2505,19 +2517,19 @@
                                 {
                                     "wzElement": "alias",
                                     "wzTag": "alias",
-                                    "wzName": "forza pulsionale",
+                                    "wzName": "Forza pulsionale",
                                     "items": []
                                 },
                                 {
                                     "wzElement": "alias",
                                     "wzTag": "alias",
-                                    "wzName": "spinta della pulsione",
+                                    "wzName": "Spinta della pulsione",
                                     "items": []
                                 },
                                 {
                                     "wzElement": "alias",
                                     "wzTag": "alias",
-                                    "wzName": "libido (quando è in causa la sola pulsione sessuale)",
+                                    "wzName": "Libido (quando è in causa la sola pulsione sessuale)",
                                     "items": []
                                 },
                                 {
@@ -2598,6 +2610,12 @@
                             "wzName": "bloccato",
                             "items": [
                                 {
+                                    "wzElement": "title",
+                                    "wzTag": "title",
+                                    "wzName": "Affetto bloccato",
+                                    "items": []
+                                },
+                                {
                                     "wzElement": "text",
                                     "wzTag": "+",
                                     "wzName": "L'origine del sintomo isterico è cercata in un evento traumatico a cui non ha potuto corrispondere una scarica adeguata (affetto bloccato).",
@@ -2617,6 +2635,12 @@
                             "wzName": "destino",
                             "items": [
                                 {
+                                    "wzElement": "title",
+                                    "wzTag": "title",
+                                    "wzName": "Destino dell'affetto",
+                                    "items": []
+                                },
+                                {
                                     "wzElement": "text",
                                     "wzTag": "+",
                                     "wzName": "L'affetto non è necessariamente legato alla rappresentazione; la loro separazione (affetto senza rappresentazione, rappresentazione senza affetto) assegna a ciascuno di essi un destino diverso.",
@@ -2633,6 +2657,12 @@
                                     "wzTag": "concept",
                                     "wzName": "conversione",
                                     "items": [
+                                        {
+                                            "wzElement": "title",
+                                            "wzTag": "title",
+                                            "wzName": "Conversione (destino dell'affetto)",
+                                            "items": []
+                                        },
                                         {
                                             "wzElement": "text",
                                             "wzTag": "+",
@@ -2659,6 +2689,12 @@
                                     "wzName": "spostamento",
                                     "items": [
                                         {
+                                            "wzElement": "title",
+                                            "wzTag": "title",
+                                            "wzName": "Spostamento (destino dell'affetto)",
+                                            "items": []
+                                        },
+                                        {
                                             "wzElement": "text",
                                             "wzTag": "+",
                                             "wzName": "l'affetto viene conservato e può spostarsi su un'altra rappresentazione",
@@ -2678,6 +2714,12 @@
                                     "wzName": "trasformazione",
                                     "items": [
                                         {
+                                            "wzElement": "title",
+                                            "wzTag": "title",
+                                            "wzName": "Trasformazione (destino dell'affetto)",
+                                            "items": []
+                                        },
+                                        {
                                             "wzElement": "text",
                                             "wzTag": "+",
                                             "wzName": "la trasformazione dell'affetto produce \"nevrosi d'angoscia\", \"melanconia\"",
@@ -2690,6 +2732,12 @@
                                     "wzTag": "concept",
                                     "wzName": "repressione",
                                     "items": [
+                                        {
+                                            "wzElement": "title",
+                                            "wzTag": "title",
+                                            "wzName": "Repressione (destino dell'affetto)",
+                                            "items": []
+                                        },
                                         {
                                             "wzElement": "text",
                                             "wzTag": "+",
@@ -2715,6 +2763,12 @@
                     "wzName": "amnesia-infantile",
                     "items": [
                         {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Amnesia infantile",
+                            "items": []
+                        },
+                        {
                             "wzElement": "text",
                             "wzTag": "+",
                             "wzName": "Al pari dell'amnesia isterica, l'amnesia infantile può essere in linea di principio eliminata: essa non è una soppressione o una assenza di fissazione di ricordi, bensì l'effetto di una rimozione. Freud vede nell'amnesia infantile la condizione delle rimozioni successive, in particolare dell'amnesia isterica.",
@@ -2734,6 +2788,12 @@
                     "wzTag": "concept",
                     "wzName": "angoscia",
                     "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Angoscia",
+                            "items": []
+                        },
                         {
                             "wzElement": "quote",
                             "wzTag": "quote",
@@ -2856,13 +2916,13 @@
                                 {
                                     "wzElement": "title",
                                     "wzTag": "title",
-                                    "wzName": "angoscia morale",
+                                    "wzName": "Angoscia morale",
                                     "items": []
                                 },
                                 {
                                     "wzElement": "alias",
                                     "wzTag": "alias",
-                                    "wzName": "angoscia sociale",
+                                    "wzName": "Angoscia sociale",
                                     "items": []
                                 },
                                 {
@@ -2894,7 +2954,7 @@
                                 {
                                     "wzElement": "title",
                                     "wzTag": "title",
-                                    "wzName": "angoscia di morte",
+                                    "wzName": "Angoscia di morte",
                                     "items": []
                                 },
                                 {
@@ -2930,6 +2990,12 @@
                             "wzName": "di-evirazione",
                             "items": [
                                 {
+                                    "wzElement": "title",
+                                    "wzTag": "title",
+                                    "wzName": "Angoscia di evirazione",
+                                    "items": []
+                                },
+                                {
                                     "wzElement": "quote",
                                     "wzTag": "quote",
                                     "wzName": "",
@@ -2956,9 +3022,15 @@
                             "wzName": "reale",
                             "items": [
                                 {
+                                    "wzElement": "title",
+                                    "wzTag": "title",
+                                    "wzName": "Angoscia reale",
+                                    "items": []
+                                },
+                                {
                                     "wzElement": "alias",
                                     "wzTag": "alias",
-                                    "wzName": "angoscia per l'oggetto",
+                                    "wzName": "Angoscia per l'oggetto",
                                     "items": []
                                 }
                             ]
@@ -2969,9 +3041,15 @@
                             "wzName": "nevrotica",
                             "items": [
                                 {
+                                    "wzElement": "title",
+                                    "wzTag": "title",
+                                    "wzName": "Angoscia nevrotica",
+                                    "items": []
+                                },
+                                {
                                     "wzElement": "alias",
                                     "wzTag": "alias",
-                                    "wzName": "angoscia per la libido",
+                                    "wzName": "Angoscia per la libido",
                                     "items": []
                                 }
                             ]
@@ -2990,6 +3068,12 @@
                     "wzTag": "concept",
                     "wzName": "topica",
                     "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Topica psicologica",
+                            "items": []
+                        },
                         {
                             "wzElement": "quote",
                             "wzTag": "quote",
@@ -3027,6 +3111,25 @@
                                     "items": []
                                 }
                             ]
+                        },
+                        {
+                            "wzElement": "relatedconcept",
+                            "wzTag": "r-concept",
+                            "wzName": "freud.traccia-mnestica",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Lo scopo di Freud è di collocare la memoria secondo una \"topica\".",
+                                    "items": []
+                                }
+                            ]
+                        },
+                        {
+                            "wzElement": "see",
+                            "wzTag": "see",
+                            "wzName": "freud.metapsicologia",
+                            "items": []
                         }
                     ]
                 },
@@ -3034,13 +3137,19 @@
                     "wzElement": "concept",
                     "wzTag": "concept",
                     "wzName": "dinamica",
-                    "items": []
-                },
-                {
-                    "wzElement": "concept",
-                    "wzTag": "concept",
-                    "wzName": "modo-dinamico",
                     "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Dinamica psichica",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "alias",
+                            "wzTag": "alias",
+                            "wzName": "Modo dinamico",
+                            "items": []
+                        },
                         {
                             "wzElement": "text",
                             "wzTag": "+",
@@ -3060,6 +3169,37 @@
                                     ]
                                 }
                             ]
+                        },
+                        {
+                            "wzElement": "see",
+                            "wzTag": "see",
+                            "wzName": "freud.metapsicologia",
+                            "items": []
+                        }
+                    ]
+                },
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "economia",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Economia psichica",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "Lo scopo di Freud è di fornire una spiegazione del funzionamento dell'apparato psichico in termini economici (investimenti/disinvestimenti).",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "see",
+                            "wzTag": "see",
+                            "wzName": "freud.metapsicologia",
+                            "items": []
                         }
                     ]
                 },
@@ -3068,6 +3208,12 @@
                     "wzTag": "concept",
                     "wzName": "sistema",
                     "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Sistema psichico",
+                            "items": []
+                        },
                         {
                             "wzElement": "text",
                             "wzTag": "+",
@@ -3082,10 +3228,17 @@
                     "wzName": "istanza",
                     "items": [
                         {
-                            "wzElement": "de",
-                            "wzTag": "de",
-                            "wzName": "Instanz",
-                            "items": []
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Istanza",
+                            "items": [
+                                {
+                                    "wzElement": "de",
+                                    "wzTag": "de",
+                                    "wzName": "Instanz",
+                                    "items": []
+                                }
+                            ]
                         },
                         {
                             "wzElement": "text",
@@ -3138,7 +3291,14 @@
                     "wzElement": "concept",
                     "wzTag": "concept",
                     "wzName": "appoggio",
-                    "items": []
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Appoggio",
+                            "items": []
+                        }
+                    ]
                 }
             ]
         },
@@ -3152,6 +3312,12 @@
                     "wzTag": "concept",
                     "wzName": "associazione-libera",
                     "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Associazione libera",
+                            "items": []
+                        },
                         {
                             "wzElement": "quote",
                             "wzTag": "quote",
@@ -3185,6 +3351,12 @@
                     "wzTag": "concept",
                     "wzName": "attenzione",
                     "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Attenzione",
+                            "items": []
+                        },
                         {
                             "wzElement": "quote",
                             "wzTag": "quote",
@@ -3225,6 +3397,12 @@
                     "wzName": "atto-psichico",
                     "items": [
                         {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Atto psichico",
+                            "items": []
+                        },
+                        {
                             "wzElement": "quote",
                             "wzTag": "quote",
                             "wzName": "",
@@ -3258,6 +3436,12 @@
                     "wzName": "autoerotismo",
                     "items": [
                         {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Autoerotismo",
+                            "items": []
+                        },
+                        {
                             "wzElement": "text",
                             "wzTag": "+",
                             "wzName": "Per Freud l’autoerotismo è uno stadio antecedente al narcisismo; il narcisismo - ovvero l’investimento libidico dell’Io, di quell’ Io che è al contempo la fonte di tutta la libido che può essere trasfusa - può essere assottigliato fino all’estremo, a causa di un sovrainvestimento eccessivo dell’oggetto, senza però intaccare l’autoerotismo, ovvero la quota libidica che rimane strenuamente abbarbicata a questo punctum (il fallo) di origine della libido.",
@@ -3277,6 +3461,12 @@
                     "wzTag": "concept",
                     "wzName": "azione-specifica",
                     "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Azione specifica",
+                            "items": []
+                        },
                         {
                             "wzElement": "text",
                             "wzTag": "+",
@@ -3300,21 +3490,21 @@
                         {
                             "wzElement": "title",
                             "wzTag": "title",
-                            "wzName": "coazione a ripetere",
+                            "wzName": "Coazione a ripetere",
                             "items": [
                                 {
                                     "wzElement": "de",
                                     "wzTag": "de",
                                     "wzName": "Wiederholungswang",
                                     "items": []
-                                },
-                                {
-                                    "wzElement": "alias",
-                                    "wzTag": "alias",
-                                    "wzName": "automatismo di ripetizione",
-                                    "items": []
                                 }
                             ]
+                        },
+                        {
+                            "wzElement": "alias",
+                            "wzTag": "alias",
+                            "wzName": "Automatismo di ripetizione",
+                            "items": []
                         },
                         {
                             "wzElement": "quote",
@@ -3349,6 +3539,12 @@
                     "wzTag": "concept",
                     "wzName": "coscienza",
                     "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Coscienza",
+                            "items": []
+                        },
                         {
                             "wzElement": "quote",
                             "wzTag": "quote",
@@ -3401,6 +3597,12 @@
                     "wzTag": "concept",
                     "wzName": "desiderio",
                     "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Desiderio",
+                            "items": []
+                        },
                         {
                             "wzElement": "quote",
                             "wzTag": "quote",
@@ -3504,6 +3706,12 @@
                     "wzName": "difesa",
                     "items": [
                         {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Difesa",
+                            "items": []
+                        },
+                        {
                             "wzElement": "relatedconcept",
                             "wzTag": "r-concept",
                             "wzName": "freud.rimozione",
@@ -3524,7 +3732,7 @@
                                 {
                                     "wzElement": "title",
                                     "wzTag": "title",
-                                    "wzName": "difesa dell'Io",
+                                    "wzName": "Difesa dell'Io",
                                     "items": []
                                 }
                             ]
@@ -3537,7 +3745,7 @@
                                 {
                                     "wzElement": "title",
                                     "wzTag": "title",
-                                    "wzName": "meccanismo di difesa",
+                                    "wzName": "Meccanismo di difesa",
                                     "items": []
                                 }
                             ]
@@ -3545,12 +3753,12 @@
                         {
                             "wzElement": "concept",
                             "wzTag": "concept",
-                            "wzName": "lotta-di",
+                            "wzName": "Lotta-di",
                             "items": [
                                 {
                                     "wzElement": "title",
                                     "wzTag": "title",
-                                    "wzName": "lotta di difesa",
+                                    "wzName": "Lotta di difesa",
                                     "items": []
                                 }
                             ]
@@ -3560,6 +3768,12 @@
                             "wzTag": "concept",
                             "wzName": "secondaria",
                             "items": [
+                                {
+                                    "wzElement": "title",
+                                    "wzTag": "title",
+                                    "wzName": "Difesa secondaria",
+                                    "items": []
+                                },
                                 {
                                     "wzElement": "relatedconcept",
                                     "wzTag": "r-concept",
@@ -3583,16 +3797,10 @@
                                 {
                                     "wzElement": "title",
                                     "wzTag": "title",
-                                    "wzName": "difesa inconscia dell'io",
+                                    "wzName": "Difesa inconscia dell'io",
                                     "items": []
                                 }
                             ]
-                        },
-                        {
-                            "wzElement": "concept",
-                            "wzTag": "concept",
-                            "wzName": "freud.difesa",
-                            "items": []
                         }
                     ]
                 }
@@ -3607,7 +3815,14 @@
                     "wzElement": "concept",
                     "wzTag": "concept",
                     "wzName": "dispiacere",
-                    "items": []
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Dispiacere",
+                            "items": []
+                        }
+                    ]
                 }
             ]
         },
@@ -3624,7 +3839,7 @@
                         {
                             "wzElement": "title",
                             "wzTag": "title",
-                            "wzName": "eccitazione",
+                            "wzName": "Eccitazione",
                             "items": [
                                 {
                                     "wzElement": "de",
@@ -3651,7 +3866,14 @@
                             "wzElement": "concept",
                             "wzTag": "concept",
                             "wzName": "esterna",
-                            "items": []
+                            "items": [
+                                {
+                                    "wzElement": "title",
+                                    "wzTag": "title",
+                                    "wzName": "Eccitazione esterna",
+                                    "items": []
+                                }
+                            ]
                         }
                     ]
                 }
@@ -3667,6 +3889,12 @@
                     "wzTag": "concept",
                     "wzName": "educazione",
                     "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Educazione",
+                            "items": []
+                        },
                         {
                             "wzElement": "quote",
                             "wzTag": "quote",
@@ -3709,19 +3937,20 @@
                         {
                             "wzElement": "title",
                             "wzTag": "title",
-                            "wzName": "effetto retroattivo",
-                            "items": []
+                            "wzName": "Effetto retroattivo",
+                            "items": [
+                                {
+                                    "wzElement": "de",
+                                    "wzTag": "de",
+                                    "wzName": "Nachträglicheit",
+                                    "items": []
+                                }
+                            ]
                         },
                         {
                             "wzElement": "alias",
                             "wzTag": "alias",
-                            "wzName": "risignificazione a posteriori",
-                            "items": []
-                        },
-                        {
-                            "wzElement": "alias",
-                            "wzTag": "alias",
-                            "wzName": "Nachträglicheit",
+                            "wzName": "Risignificazione a posteriori",
                             "items": []
                         },
                         {
@@ -3738,13 +3967,13 @@
                                 {
                                     "wzElement": "text",
                                     "wzTag": "+",
-                                    "wzName": "esempio classico è quello di una molestia sessuale subita da un bambino, che prende il suo significato di seduzione e violenza solo anni dopo l’evento reale.",
+                                    "wzName": "Esempio classico è quello di una molestia sessuale subita da un bambino, che prende il suo significato di seduzione e violenza solo anni dopo l’evento reale.",
                                     "items": []
                                 },
                                 {
                                     "wzElement": "text",
                                     "wzTag": "+",
-                                    "wzName": "altro caso è quello di un trauma precoce – per es., la morte di una persona cara – verificatosi in epoca preverbale, che assume un senso memorizzabile solo in seguito a un nuovo evento attuale minore, per es. una separazione, il quale – grazie alla raggiunta maturità psichica e all’elaborazione del momento attuale – si carica di tutto il dolore di un lutto a suo tempo non vissuto.",
+                                    "wzName": "Altro caso è quello di un trauma precoce – per es., la morte di una persona cara – verificatosi in epoca preverbale, che assume un senso memorizzabile solo in seguito a un nuovo evento attuale minore, per es. una separazione, il quale – grazie alla raggiunta maturità psichica e all’elaborazione del momento attuale – si carica di tutto il dolore di un lutto a suo tempo non vissuto.",
                                     "items": []
                                 }
                             ]
@@ -3752,7 +3981,7 @@
                         {
                             "wzElement": "text",
                             "wzTag": "+",
-                            "wzName": "così il passato determina il presente, ma a sua volta il presente può determinare il passato, corredandolo di rappresentazioni e costituendolo di significato.",
+                            "wzName": "Così il passato determina il presente, ma a sua volta il presente può determinare il passato, corredandolo di rappresentazioni e costituendolo di significato.",
                             "items": []
                         },
                         {
@@ -3785,20 +4014,34 @@
                         {
                             "wzElement": "title",
                             "wzTag": "title",
-                            "wzName": "energia mentale",
+                            "wzName": "Energia mentale",
                             "items": []
                         },
                         {
                             "wzElement": "concept",
                             "wzTag": "concept",
                             "wzName": "legata",
-                            "items": []
+                            "items": [
+                                {
+                                    "wzElement": "title",
+                                    "wzTag": "title",
+                                    "wzName": "Energia legata",
+                                    "items": []
+                                }
+                            ]
                         },
                         {
                             "wzElement": "concept",
                             "wzTag": "concept",
                             "wzName": "mobile",
-                            "items": []
+                            "items": [
+                                {
+                                    "wzElement": "title",
+                                    "wzTag": "title",
+                                    "wzName": "Energia mobile",
+                                    "items": []
+                                }
+                            ]
                         }
                     ]
                 }
@@ -3812,8 +4055,14 @@
                 {
                     "wzElement": "concept",
                     "wzTag": "concept",
-                    "wzName": "Eros",
+                    "wzName": "eros",
                     "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Eros",
+                            "items": []
+                        },
                         {
                             "wzElement": "quote",
                             "wzTag": "quote",
@@ -3854,6 +4103,12 @@
                     "wzName": "fantasticare",
                     "items": [
                         {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Fantasticare",
+                            "items": []
+                        },
+                        {
                             "wzElement": "quote",
                             "wzTag": "quote",
                             "wzName": "",
@@ -3893,6 +4148,12 @@
                     "wzName": "festa",
                     "items": [
                         {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Festa",
+                            "items": []
+                        },
+                        {
                             "wzElement": "quote",
                             "wzTag": "quote",
                             "wzName": "",
@@ -3931,6 +4192,12 @@
                     "wzTag": "concept",
                     "wzName": "formazione-di-compromesso",
                     "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Formazione di compromesso",
+                            "items": []
+                        },
                         {
                             "wzElement": "quote",
                             "wzTag": "quote",
@@ -3995,9 +4262,15 @@
                     "wzName": "formazione-reattiva",
                     "items": [
                         {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Formazione reattiva",
+                            "items": []
+                        },
+                        {
                             "wzElement": "text",
                             "wzTag": "+",
-                            "wzName": "nel caso della rimozione i contenuti psichici possono avere apparenza del tutto opposta al rimosso",
+                            "wzName": "Nel caso della rimozione i contenuti psichici possono avere apparenza del tutto opposta al rimosso.",
                             "items": []
                         }
                     ]
@@ -4014,6 +4287,12 @@
                     "wzTag": "concept",
                     "wzName": "inconscio",
                     "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Inconscio",
+                            "items": []
+                        },
                         {
                             "wzElement": "quote",
                             "wzTag": "quote",
@@ -4083,31 +4362,55 @@
                             "wzName": "non-rimosso",
                             "items": [
                                 {
-                                    "wzElement": "theory",
-                                    "wzTag": "theory",
-                                    "wzName": "freud.prima-topica",
+                                    "wzElement": "title",
+                                    "wzTag": "title",
+                                    "wzName": "Inconscio non rimosso",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "relatedconcept",
+                                    "wzTag": "r-concept",
+                                    "wzName": "freud.prima-topica.inconscio",
                                     "items": [
                                         {
                                             "wzElement": "text",
                                             "wzTag": "+",
-                                            "wzName": "Inconscio, Preconscio, Coscienza",
+                                            "wzName": "è la vera realtà psichica",
                                             "items": []
                                         },
                                         {
-                                            "wzElement": "concept",
-                                            "wzTag": "concept",
-                                            "wzName": "freud.prima-topica.inconscio",
+                                            "wzElement": "text",
+                                            "wzTag": "+",
+                                            "wzName": "ha cinque caratteristiche:",
                                             "items": [
                                                 {
-                                                    "wzElement": "text",
-                                                    "wzTag": "+",
-                                                    "wzName": "è la vera realtà psichica",
+                                                    "wzElement": "li",
+                                                    "wzTag": "li",
+                                                    "wzName": "condensazione;",
                                                     "items": []
                                                 },
                                                 {
-                                                    "wzElement": "text",
-                                                    "wzTag": "+",
-                                                    "wzName": "ha cinque caratteristiche: 1) condensazione; 2) spostamento; 3) assenza di contraddizione mutua tra la presentazione dei differenti impulsi, quindi assenza di negazione; 4) assenza di tempo; 5) sostituzione della realtà esterna con quella psichica;",
+                                                    "wzElement": "li",
+                                                    "wzTag": "li",
+                                                    "wzName": "spostamento;",
+                                                    "items": []
+                                                },
+                                                {
+                                                    "wzElement": "li",
+                                                    "wzTag": "li",
+                                                    "wzName": "assenza di contraddizione mutua tra la presentazione dei differenti impulsi, quindi assenza di negazione;",
+                                                    "items": []
+                                                },
+                                                {
+                                                    "wzElement": "li",
+                                                    "wzTag": "li",
+                                                    "wzName": "assenza di tempo;",
+                                                    "items": []
+                                                },
+                                                {
+                                                    "wzElement": "li",
+                                                    "wzTag": "li",
+                                                    "wzName": "sostituzione della realtà esterna con quella psichica;",
                                                     "items": []
                                                 }
                                             ]
@@ -4121,6 +4424,12 @@
                             "wzTag": "concept",
                             "wzName": "assenza-di-contraddizione-mutua-tra-la-presentazione-dei-differenti-impulsi",
                             "items": [
+                                {
+                                    "wzElement": "title",
+                                    "wzTag": "title",
+                                    "wzName": "Assenza di mutua contraddizione tra la presentazione dei differenti impulsi",
+                                    "items": []
+                                },
                                 {
                                     "wzElement": "quote",
                                     "wzTag": "quote",
@@ -4146,13 +4455,26 @@
                             "wzElement": "concept",
                             "wzTag": "concept",
                             "wzName": "condensazione",
-                            "items": []
+                            "items": [
+                                {
+                                    "wzElement": "title",
+                                    "wzTag": "title",
+                                    "wzName": "Condensazione",
+                                    "items": []
+                                }
+                            ]
                         },
                         {
                             "wzElement": "concept",
                             "wzTag": "concept",
                             "wzName": "spostamento",
                             "items": [
+                                {
+                                    "wzElement": "title",
+                                    "wzTag": "title",
+                                    "wzName": "Spostamento",
+                                    "items": []
+                                },
                                 {
                                     "wzElement": "quote",
                                     "wzTag": "quote",
@@ -4183,8 +4505,15 @@
                         {
                             "wzElement": "concept",
                             "wzTag": "concept",
-                            "wzName": "assenza-di-tempo",
-                            "items": []
+                            "wzName": "assenza-del-tempo",
+                            "items": [
+                                {
+                                    "wzElement": "title",
+                                    "wzTag": "title",
+                                    "wzName": "Assenza del tempo",
+                                    "items": []
+                                }
+                            ]
                         },
                         {
                             "wzElement": "concept",
@@ -4192,21 +4521,28 @@
                             "wzName": "sostituzione-della-realtà-esterna-con-quella-psichica",
                             "items": [
                                 {
-                                    "wzElement": "text",
-                                    "wzTag": "+",
-                                    "wzName": "In psichiatria, specialmente in relazione alla schizofrenia, questa caratteristica è talvolta chiamata \"interpretazione letterale della metafora\"",
+                                    "wzElement": "title",
+                                    "wzTag": "title",
+                                    "wzName": "Sostituzione della realtà esterna con quella psichica",
                                     "items": []
                                 },
                                 {
-                                    "wzElement": "bax",
-                                    "wzTag": "bax",
-                                    "wzName": "",
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "In psichiatria, specialmente in relazione alla schizofrenia, questa caratteristica è talvolta chiamata \"interpretazione letterale della metafora\"",
                                     "items": [
                                         {
-                                            "wzElement": "text",
-                                            "wzTag": "+",
-                                            "wzName": "Ha a che fare con il double-bind di Bateson?",
-                                            "items": []
+                                            "wzElement": "bax",
+                                            "wzTag": "bax",
+                                            "wzName": "",
+                                            "items": [
+                                                {
+                                                    "wzElement": "text",
+                                                    "wzTag": "+",
+                                                    "wzName": "Ha a che fare con il double-bind di Bateson?",
+                                                    "items": []
+                                                }
+                                            ]
                                         }
                                     ]
                                 }
@@ -4227,15 +4563,21 @@
                     "wzName": "investimento",
                     "items": [
                         {
-                            "wzElement": "alias",
-                            "wzTag": "alias",
-                            "wzName": "carica",
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Investimento",
                             "items": []
                         },
                         {
                             "wzElement": "alias",
                             "wzTag": "alias",
-                            "wzName": "energia",
+                            "wzName": "Carica",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "alias",
+                            "wzTag": "alias",
+                            "wzName": "Energia",
                             "items": []
                         },
                         {
@@ -4375,8 +4717,14 @@
                 {
                     "wzElement": "concept",
                     "wzTag": "concept",
-                    "wzName": "Io",
+                    "wzName": "io",
                     "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Io",
+                            "items": []
+                        },
                         {
                             "wzElement": "relatedconcept",
                             "wzTag": "r-concept",
@@ -4402,14 +4750,21 @@
                                     ]
                                 }
                             ]
+                        },
+                        {
+                            "wzElement": "concept",
+                            "wzTag": "concept",
+                            "wzName": "parte-inconscia",
+                            "items": [
+                                {
+                                    "wzElement": "title",
+                                    "wzTag": "title",
+                                    "wzName": "Parte inconscia dell'Io",
+                                    "items": []
+                                }
+                            ]
                         }
                     ]
-                },
-                {
-                    "wzElement": "concept",
-                    "wzTag": "concept",
-                    "wzName": "parte-inconscia-io",
-                    "items": []
                 }
             ]
         },
@@ -4423,6 +4778,12 @@
                     "wzTag": "concept",
                     "wzName": "isteria",
                     "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Isteria",
+                            "items": []
+                        },
                         {
                             "wzElement": "relatedconcept",
                             "wzTag": "r-concept",
@@ -4460,7 +4821,7 @@
                         {
                             "wzElement": "title",
                             "wzTag": "title",
-                            "wzName": "istinto",
+                            "wzName": "Istinto",
                             "items": [
                                 {
                                     "wzElement": "de",
@@ -4473,7 +4834,7 @@
                         {
                             "wzElement": "text",
                             "wzTag": "+",
-                            "wzName": "un comportamento animale fissato dall'eredità, caratteristico della specie, preformato nel suo svolgimento e adattato al suo oggetto.",
+                            "wzName": "Un comportamento animale fissato dall'eredità, caratteristico della specie, preformato nel suo svolgimento e adattato al suo oggetto.",
                             "items": []
                         }
                     ]
@@ -4491,9 +4852,15 @@
                     "wzName": "lavoro-onirico",
                     "items": [
                         {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Lavoro onirico",
+                            "items": []
+                        },
+                        {
                             "wzElement": "text",
                             "wzTag": "+",
-                            "wzName": "utilizza il modo di essere del sistema inconscio ma è svolto dall'Io",
+                            "wzName": "Utilizza il modo di essere del sistema inconscio ma è svolto dall'Io.",
                             "items": []
                         }
                     ]
@@ -4510,6 +4877,12 @@
                     "wzTag": "concept",
                     "wzName": "libido",
                     "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Libido",
+                            "items": []
+                        },
                         {
                             "wzElement": "text",
                             "wzTag": "+",
@@ -4576,6 +4949,12 @@
                     "wzName": "metapsicologia",
                     "items": [
                         {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Metapsicologia",
+                            "items": []
+                        },
+                        {
                             "wzElement": "quote",
                             "wzTag": "quote",
                             "wzName": "",
@@ -4609,6 +4988,12 @@
                     "wzName": "motilità",
                     "items": [
                         {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Motilità",
+                            "items": []
+                        },
+                        {
                             "wzElement": "quote",
                             "wzTag": "quote",
                             "wzName": "",
@@ -4635,6 +5020,12 @@
                     "wzTag": "concept",
                     "wzName": "nevrosi-ossessiva",
                     "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Nevrosi ossessiva",
+                            "items": []
+                        },
                         {
                             "wzElement": "quote",
                             "wzTag": "quote",
@@ -4687,7 +5078,14 @@
                     "wzElement": "concept",
                     "wzTag": "concept",
                     "wzName": "nevrosi-traumatica",
-                    "items": []
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Nevrosi traumatica",
+                            "items": []
+                        }
+                    ]
                 }
             ]
         },
@@ -4702,10 +5100,22 @@
                     "wzName": "nevrosi",
                     "items": [
                         {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Nevrosi",
+                            "items": []
+                        },
+                        {
                             "wzElement": "concept",
                             "wzTag": "concept",
                             "wzName": "di-traslazione",
                             "items": [
+                                {
+                                    "wzElement": "title",
+                                    "wzTag": "title",
+                                    "wzName": "Nevrosi di traslazione",
+                                    "items": []
+                                },
                                 {
                                     "wzElement": "text",
                                     "wzTag": "+",
@@ -4722,7 +5132,7 @@
                                 {
                                     "wzElement": "title",
                                     "wzTag": "title",
-                                    "wzName": "psiconevrosi",
+                                    "wzName": "Psiconevrosi",
                                     "items": []
                                 },
                                 {
@@ -4743,6 +5153,12 @@
                                     "wzName": "isteria-di-conversione",
                                     "items": [
                                         {
+                                            "wzElement": "title",
+                                            "wzTag": "title",
+                                            "wzName": "Isteria di conversione",
+                                            "items": []
+                                        },
+                                        {
                                             "wzElement": "text",
                                             "wzTag": "+",
                                             "wzName": "La libido sprigionata dal materiale patogeno, a causa della rimozione viene convertita, cioè viene sottratta alla sfera psichica per riapparire in un’innervazione somatica, scegliendo un certo organo in funzione di un simbolismo inconscio. Il punto di fissazione della libido è nella fase edipica (fallica ma anche orale).",
@@ -4756,9 +5172,15 @@
                                     "wzName": "isteria-d-angoscia",
                                     "items": [
                                         {
+                                            "wzElement": "title",
+                                            "wzTag": "title",
+                                            "wzName": "Isteria d'angoscia",
+                                            "items": []
+                                        },
+                                        {
                                             "wzElement": "alias",
                                             "wzTag": "alias",
-                                            "wzName": "nevrosi fobica",
+                                            "wzName": "Nevrosi fobica",
                                             "items": []
                                         },
                                         {
@@ -4774,6 +5196,12 @@
                                     "wzTag": "concept",
                                     "wzName": "nevrosi-ossessiva",
                                     "items": [
+                                        {
+                                            "wzElement": "title",
+                                            "wzTag": "title",
+                                            "wzName": "Nevrosi ossessiva",
+                                            "items": []
+                                        },
                                         {
                                             "wzElement": "text",
                                             "wzTag": "+",
@@ -4792,7 +5220,7 @@
                                 {
                                     "wzElement": "title",
                                     "wzTag": "title",
-                                    "wzName": "nevrosi attuale",
+                                    "wzName": "Nevrosi attuale",
                                     "items": []
                                 },
                                 {
@@ -4819,6 +5247,12 @@
                                     "wzName": "nevrastenia",
                                     "items": [
                                         {
+                                            "wzElement": "title",
+                                            "wzTag": "title",
+                                            "wzName": "Nevrastenia",
+                                            "items": []
+                                        },
+                                        {
                                             "wzElement": "text",
                                             "wzTag": "+",
                                             "wzName": "il fattore precipitante del disturbo è un alleviamento inadeguato dell'eccitazione sessuale ad esempio la masturbazione",
@@ -4832,6 +5266,12 @@
                                     "wzName": "nevrosi-d-angoscia",
                                     "items": [
                                         {
+                                            "wzElement": "title",
+                                            "wzTag": "title",
+                                            "wzName": "Nevrosi d'angoscia",
+                                            "items": []
+                                        },
+                                        {
                                             "wzElement": "text",
                                             "wzTag": "+",
                                             "wzName": "il fattore precipitante del disturbo è la mancanza di scarica dell'eccitazione sessuale ad esempio l'astinenza sessuale",
@@ -4843,7 +5283,14 @@
                                     "wzElement": "concept",
                                     "wzTag": "concept",
                                     "wzName": "ipocondria",
-                                    "items": []
+                                    "items": [
+                                        {
+                                            "wzElement": "title",
+                                            "wzTag": "title",
+                                            "wzName": "Ipocondria",
+                                            "items": []
+                                        }
+                                    ]
                                 }
                             ]
                         },
@@ -4852,6 +5299,12 @@
                             "wzTag": "concept",
                             "wzName": "scatenamento",
                             "items": [
+                                {
+                                    "wzElement": "title",
+                                    "wzTag": "title",
+                                    "wzName": "Scatenamento della nevrosi",
+                                    "items": []
+                                },
                                 {
                                     "wzElement": "quote",
                                     "wzTag": "quote",
@@ -4886,7 +5339,14 @@
                     "wzElement": "concept",
                     "wzTag": "concept",
                     "wzName": "percezione",
-                    "items": []
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Percezione",
+                            "items": []
+                        }
+                    ]
                 }
             ]
         },
@@ -4900,6 +5360,12 @@
                     "wzTag": "concept",
                     "wzName": "perturbante",
                     "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Perturbante",
+                            "items": []
+                        },
                         {
                             "wzElement": "quote",
                             "wzTag": "quote",
@@ -4932,7 +5398,14 @@
                     "wzElement": "concept",
                     "wzTag": "concept",
                     "wzName": "piacere",
-                    "items": []
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Piacere",
+                            "items": []
+                        }
+                    ]
                 }
             ]
         },
@@ -4947,10 +5420,22 @@
                     "wzName": "prima-topica",
                     "items": [
                         {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Prima topica",
+                            "items": []
+                        },
+                        {
                             "wzElement": "concept",
                             "wzTag": "concept",
                             "wzName": "inconscio",
                             "items": [
+                                {
+                                    "wzElement": "title",
+                                    "wzTag": "title",
+                                    "wzName": "Inconscio (prima topica)",
+                                    "items": []
+                                },
                                 {
                                     "wzElement": "quote",
                                     "wzTag": "quote",
@@ -4983,13 +5468,27 @@
                             "wzElement": "concept",
                             "wzTag": "concept",
                             "wzName": "preconscio",
-                            "items": []
+                            "items": [
+                                {
+                                    "wzElement": "title",
+                                    "wzTag": "title",
+                                    "wzName": "Preconscio (prima topica)",
+                                    "items": []
+                                }
+                            ]
                         },
                         {
                             "wzElement": "concept",
                             "wzTag": "concept",
                             "wzName": "coscienza",
-                            "items": []
+                            "items": [
+                                {
+                                    "wzElement": "title",
+                                    "wzTag": "title",
+                                    "wzName": "Coscienza (prima topica)",
+                                    "items": []
+                                }
+                            ]
                         }
                     ]
                 }
@@ -5004,7 +5503,14 @@
                     "wzElement": "concept",
                     "wzTag": "concept",
                     "wzName": "principio-di-costanza",
-                    "items": []
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Principio di costanza",
+                            "items": []
+                        }
+                    ]
                 }
             ]
         },
@@ -5017,7 +5523,14 @@
                     "wzElement": "concept",
                     "wzTag": "concept",
                     "wzName": "principio-di-piacere",
-                    "items": []
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Principio di piacere",
+                            "items": []
+                        }
+                    ]
                 }
             ]
         },
@@ -5030,7 +5543,14 @@
                     "wzElement": "concept",
                     "wzTag": "concept",
                     "wzName": "principio-di-realtà",
-                    "items": []
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Principio di realtà",
+                            "items": []
+                        }
+                    ]
                 }
             ]
         },
@@ -5044,6 +5564,12 @@
                     "wzTag": "concept",
                     "wzName": "proiezione",
                     "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Proiezione",
+                            "items": []
+                        },
                         {
                             "wzElement": "quote",
                             "wzTag": "quote",
@@ -5078,6 +5604,12 @@
                     "wzName": "psicosi",
                     "items": [
                         {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Psicosi",
+                            "items": []
+                        },
+                        {
                             "wzElement": "relatedconcept",
                             "wzTag": "r-concept",
                             "wzName": "freud.meccanismo-di-difesa",
@@ -5102,326 +5634,84 @@
             ]
         },
         {
-            "wzElement": "concept",
-            "wzTag": "concept",
-            "wzName": "freud.pulsione-io",
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud",
             "items": [
-                {
-                    "wzElement": "title",
-                    "wzTag": "title",
-                    "wzName": "pulsione dell'io",
-                    "items": [
-                        {
-                            "wzElement": "alias",
-                            "wzTag": "alias",
-                            "wzName": "pulsione di autoconservazione",
-                            "items": []
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "wzElement": "concept",
-            "wzTag": "concept",
-            "wzName": "freud.pulsione-sessuale",
-            "items": [
-                {
-                    "wzElement": "title",
-                    "wzTag": "title",
-                    "wzName": "pulsione sessuale",
-                    "items": []
-                }
-            ]
-        },
-        {
-            "wzElement": "concept",
-            "wzTag": "concept",
-            "wzName": "freud.pulsione",
-            "items": [
-                {
-                    "wzElement": "de",
-                    "wzTag": "de",
-                    "wzName": "Trieb",
-                    "items": [
-                        {
-                            "wzElement": "it",
-                            "wzTag": "it",
-                            "wzName": "spinta",
-                            "items": []
-                        }
-                    ]
-                },
-                {
-                    "wzElement": "text",
-                    "wzTag": "+",
-                    "wzName": "Processo dinamico consistente in una spinta (carica energetica, fattore di motricità) che fa tendere l'organismo verso una meta.",
-                    "items": []
-                },
-                {
-                    "wzElement": "text",
-                    "wzTag": "+",
-                    "wzName": "Secondo Freud, una pulsione ha la sua fonte in una eccitazione somatica (stato di tensione); la sua meta è di sopprimere lo stato di tensione che regna nella fonte pulsionale; la pulsione può raggiungere la sua meta nell'oggetto o grazie a esso.",
-                    "items": []
-                },
-                {
-                    "wzElement": "text",
-                    "wzTag": "+",
-                    "wzName": "L'accento è messo non tanto su una finalità precisa quanto su un orientamento generale e sottolinea il carattere irreprimibile della spinta anziché la fissità della meta e dell'oggetto.",
-                    "items": []
-                },
-                {
-                    "wzElement": "quote",
-                    "wzTag": "quote",
-                    "wzName": "",
-                    "items": [
-                        {
-                            "wzElement": "text",
-                            "wzTag": "+",
-                            "wzName": "Una pulsione non può mai diventare oggetto della coscienza, solo l’idea che la rappresenta lo può.",
-                            "items": []
-                        },
-                        {
-                            "wzElement": "kindlepage",
-                            "wzTag": "kindle-page",
-                            "wzName": "4669",
-                            "items": []
-                        }
-                    ]
-                },
-                {
-                    "wzElement": "relatedconcept",
-                    "wzTag": "r-concept",
-                    "wzName": "freud.eccitazione-esterna",
-                    "items": [
-                        {
-                            "wzElement": "text",
-                            "wzTag": "+",
-                            "wzName": "Accanto alle eccitazioni esterne che il soggetto può fuggire o da cui può proteggersi, esistono fonti interne che apportano costantemente un afflusso di eccitazioni al quale l'organismo non può sfuggire e che costituisce la molla del funzionamento dell'apparato psichico.",
-                            "items": []
-                        }
-                    ]
-                },
-                {
-                    "wzElement": "relatedconcept",
-                    "wzTag": "r-concept",
-                    "wzName": "freud.pulsione-sessuale",
-                    "items": [
-                        {
-                            "wzElement": "text",
-                            "wzTag": "+",
-                            "wzName": "La nozione freudiana della pulsione sorge nella descrizione della sessualità umana, basandosi soprattutto sullo studio delle perversioni e delle modalità della sessualità infantile, demolisce la concezione detta popolare che attribuisce alla pulsione sessuale una meta e un oggetto specifici e la localizza nelle eccitazioni e nel funzionamento dell'apparato genitale.",
-                            "items": []
-                        }
-                    ]
-                },
-                {
-                    "wzElement": "period",
-                    "wzTag": "period",
-                    "wzName": "1905",
-                    "items": [
-                        {
-                            "wzElement": "book",
-                            "wzTag": "book",
-                            "wzName": "freud.tre-saggi-sulla-teoria-sessuale",
-                            "items": []
-                        }
-                    ]
-                },
-                {
-                    "wzElement": "period",
-                    "wzTag": "period",
-                    "wzName": "1915",
-                    "items": [
-                        {
-                            "wzElement": "text",
-                            "wzTag": "+",
-                            "wzName": "Freud raggruppa questi quattro elementi: spinta, fonte, oggetto, meta; e dà una definizione generale della pulsione",
-                            "items": []
-                        },
-                        {
-                            "wzElement": "book",
-                            "wzTag": "book",
-                            "wzName": "freud.pulsioni-e-loro-destino",
-                            "items": [
-                                {
-                                    "wzElement": "de",
-                                    "wzTag": "de",
-                                    "wzName": "Triebe und Triebschicksale",
-                                    "items": []
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "wzElement": "relatedconcept",
-                    "wzTag": "r-concept",
-                    "wzName": "freud.somatico-o-psichico",
-                    "items": [
-                        {
-                            "wzElement": "text",
-                            "wzTag": "+",
-                            "wzName": "Come collocare la forza della pulsione che attacca l'organismo dall'interno e lo spinge a compiere talune azioni capaci di provocare una scarica di eccitazione? Si tratta di una forza somatica o di una energia psichica? La questione, posta da Freud, riceve risposte diverse in quanto la pulsione è definita come un concetto-limite tra lo psichismo e il somatico. Essa è legata per Freud al concetto di rappresentante, con cui egli intende una specie di delegazione inviata dal somatico nello psichismo.",
-                            "items": []
-                        },
-                        {
-                            "wzElement": "see",
-                            "wzTag": "see",
-                            "wzName": "freud.rappresentante-psichico",
-                            "items": []
-                        }
-                    ]
-                },
-                {
-                    "wzElement": "relatedconcept",
-                    "wzTag": "r-concept",
-                    "wzName": "freud.prima-topica",
-                    "items": [
-                        {
-                            "wzElement": "text",
-                            "wzTag": "+",
-                            "wzName": "la teoria delle pulsioni in Freud rimane sempre dualista",
-                            "items": []
-                        },
-                        {
-                            "wzElement": "text",
-                            "wzTag": "+",
-                            "wzName": "il primo dualismo proposto è quello tra pulsioni sessuali e pulsioni dell'Io o di autoconservazione; queste ultime pulsioni corrispondono per Freud ai grandi bisogni o alle grandi funzioni indispensabili alla conservazione dell'individuo, di cui il modello è costituito dalla fame e dalla funzione di alimentazione.",
-                            "items": []
-                        },
-                        {
-                            "wzElement": "text",
-                            "wzTag": "+",
-                            "wzName": "Questo dualismo è presente, secondo Freud, già alle origini della sessualità in quanto la pulsione sessuale si distacca dalle funzioni di autoconservazione su cui prima si appoggiava {see freud.appoggio}; egli cerca di spiegare il conflitto psichico mostrando che l'Io trova nella pulsione di autoconservazione l'essenziale dell'energia necessaria alla difesa contro la sessualità.",
-                            "items": []
-                        }
-                    ]
-                },
-                {
-                    "wzElement": "relatedconcept",
-                    "wzTag": "r-concept",
-                    "wzName": "freud.seconda-topica",
-                    "items": [
-                        {
-                            "wzElement": "text",
-                            "wzTag": "+",
-                            "wzName": "Il dualismo pulsionale introdotto in Al di là del principio di piacere contrappone le pulsioni di vita alle pulsioni di morte e modifica la funzione e la collocazione delle pulsioni nel conflitto topico.",
-                            "items": []
-                        },
-                        {
-                            "wzElement": "text",
-                            "wzTag": "+",
-                            "wzName": "Il conflitto topico (tra l'istanza difensiva e l'istanza rimossa) non corrisponde più al conflitto pulsionale, in quanto l'Es è concepito come serbatoio pulsionale includente i due tipi di pulsioni. L'energia utilizzata dall'Io* è presa da questo fondo comune, specie sotto forma di energia desessualizzata e sublimata",
-                            "items": []
-                        },
-                        {
-                            "wzElement": "quote",
-                            "wzTag": "quote",
-                            "wzName": "",
-                            "items": [
-                                {
-                                    "wzElement": "text",
-                                    "wzTag": "+",
-                                    "wzName": "Noi diamo il nome di pulsioni alle forze che postuliamo dietro le tensioni generatrici di bisogni dell'Es",
-                                    "items": []
-                                },
-                                {
-                                    "wzElement": "book",
-                                    "wzTag": "book",
-                                    "wzName": "freud.Abriss der Psychoanalyse",
-                                    "items": []
-                                },
-                                {
-                                    "wzElement": "page",
-                                    "wzTag": "page",
-                                    "wzName": "264",
-                                    "items": []
-                                },
-                                {
-                                    "wzElement": "comment",
-                                    "wzTag": "comment",
-                                    "wzName": "",
-                                    "items": [
-                                        {
-                                            "wzElement": "text",
-                                            "wzTag": "+",
-                                            "wzName": "I due grandi tipi di pulsioni (di vita e di morte), in quest'ultima teoria, sono postulati non tanto come motivazioni concrete del funzionamento stesso dell'organismo quanto come principi fondamentali che regolano in ultima analisi l'attività di esso",
-                                            "items": []
-                                        }
-                                    ]
-                                }
-                            ]
-                        },
-                        {
-                            "wzElement": "quote",
-                            "wzTag": "quote",
-                            "wzName": "",
-                            "items": [
-                                {
-                                    "wzElement": "text",
-                                    "wzTag": "+",
-                                    "wzName": "La teoria delle pulsioni è per così dire la nostra mitologia. Le pulsioni sono esseri mitici, grandiosi nella loro indeterminazione.",
-                                    "items": []
-                                },
-                                {
-                                    "wzElement": "book",
-                                    "wzTag": "book",
-                                    "wzName": "freud.Neue Folge der Vorlesungen zur Einführung in die Psychoanalyse",
-                                    "items": []
-                                },
-                                {
-                                    "wzElement": "page",
-                                    "wzTag": "page",
-                                    "wzName": "95",
-                                    "items": []
-                                },
-                                {
-                                    "wzElement": "comment",
-                                    "wzTag": "comment",
-                                    "wzName": "",
-                                    "items": [
-                                        {
-                                            "wzElement": "text",
-                                            "wzTag": "+",
-                                            "wzName": "famoso testo indicativo del cambiamento di accento di Freud verso le pulsioni negli ultimo anni",
-                                            "items": []
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "wzElement": "relatedconcept",
-                    "wzTag": "r-concept",
-                    "wzName": "global.istinto",
-                    "items": [
-                        {
-                            "wzElement": "text",
-                            "wzTag": "+",
-                            "wzName": "La nozione freudiana della pulsione porta a una disintegrazione del concetto classico di istinto, e ciò in due direzioni opposte. Da un lato, il concetto di pulsione parziale sottolinea l'idea che la pulsione sessuale esiste anzitutto allo stato polimorfo e tende principalmente alla soppressione della tensione al livello della fonte somatica, e che essa si lega nella storia dell'individuo a rappresentanti che specificano l'oggetto e il modo di soddisfacimento: la spinta interna dapprima indeterminata subirà un destino che la marcherà con tratti altamente individualizzati. Ma d'altro lato Freud, lungi dal postulare, come sono inclini a fare i teorici dell'istinto, dietro ogni tipo di attività una forza biologica corrispondente, fa rientrare l'insieme delle manifestazioni pulsionali in una sola grande opposizione fondamentale, che è ripresa dalla tradizione mitica: opposizione tra Fame e Amore, poi tra Amore e Discordia.",
-                            "items": []
-                        }
-                    ]
-                },
                 {
                     "wzElement": "concept",
                     "wzTag": "concept",
-                    "wzName": "fonte",
+                    "wzName": "pulsione",
                     "items": [
                         {
                             "wzElement": "title",
                             "wzTag": "title",
-                            "wzName": "fonte della pulsione",
+                            "wzName": "Pulsione",
+                            "items": [
+                                {
+                                    "wzElement": "de",
+                                    "wzTag": "de",
+                                    "wzName": "Trieb",
+                                    "items": [
+                                        {
+                                            "wzElement": "it",
+                                            "wzTag": "it",
+                                            "wzName": "spinta",
+                                            "items": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "Processo dinamico consistente in una spinta (carica energetica, fattore di motricità) che fa tendere l'organismo verso una meta.",
                             "items": []
                         },
                         {
                             "wzElement": "text",
                             "wzTag": "+",
-                            "wzName": "fonte somatica",
+                            "wzName": "Secondo Freud, una pulsione ha la sua fonte in una eccitazione somatica (stato di tensione); la sua meta è di sopprimere lo stato di tensione che regna nella fonte pulsionale; la pulsione può raggiungere la sua meta nell'oggetto o grazie a esso.",
                             "items": []
+                        },
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "L'accento è messo non tanto su una finalità precisa quanto su un orientamento generale e sottolinea il carattere irreprimibile della spinta anziché la fissità della meta e dell'oggetto.",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "quote",
+                            "wzTag": "quote",
+                            "wzName": "",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Una pulsione non può mai diventare oggetto della coscienza, solo l’idea che la rappresenta lo può.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "kindlepage",
+                                    "wzTag": "kindle-page",
+                                    "wzName": "4669",
+                                    "items": []
+                                }
+                            ]
+                        },
+                        {
+                            "wzElement": "relatedconcept",
+                            "wzTag": "r-concept",
+                            "wzName": "freud.eccitazione-esterna",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Accanto alle eccitazioni esterne che il soggetto può fuggire o da cui può proteggersi, esistono fonti interne che apportano costantemente un afflusso di eccitazioni al quale l'organismo non può sfuggire e che costituisce la molla del funzionamento dell'apparato psichico.",
+                                    "items": []
+                                }
+                            ]
                         },
                         {
                             "wzElement": "relatedconcept",
@@ -5431,105 +5721,354 @@
                                 {
                                     "wzElement": "text",
                                     "wzTag": "+",
-                                    "wzName": "le fonti somatiche della pulsione sessuale sono molteplici e capaci di assumere e di conservare per il soggetto una funzione prevalente (zona erogena), in quanto le pulsioni parziali si subordinano alla zona genitale e si integrano nel compimento del coito solo al termine di un'evoluzione complessa, che la maturazione biologica non basta a garantire.",
+                                    "wzName": "La nozione freudiana della pulsione sorge nella descrizione della sessualità umana, basandosi soprattutto sullo studio delle perversioni e delle modalità della sessualità infantile, demolisce la concezione detta popolare che attribuisce alla pulsione sessuale una meta e un oggetto specifici e la localizza nelle eccitazioni e nel funzionamento dell'apparato genitale.",
                                     "items": []
                                 }
                             ]
-                        }
-                    ]
-                },
-                {
-                    "wzElement": "concept",
-                    "wzTag": "concept",
-                    "wzName": "spinta",
-                    "items": [
-                        {
-                            "wzElement": "title",
-                            "wzTag": "title",
-                            "wzName": "spinta della pulsione",
-                            "items": []
                         },
                         {
-                            "wzElement": "text",
-                            "wzTag": "+",
-                            "wzName": "L'ultimo elemento che Freud introduce a proposito della nozione di pulsione è quello di spinta concepita come un fattore quantitativo economico, una «esigenza di lavoro imposta all'apparato psichico».",
-                            "items": []
-                        }
-                    ]
-                },
-                {
-                    "wzElement": "concept",
-                    "wzTag": "concept",
-                    "wzName": "meta",
-                    "items": [
-                        {
-                            "wzElement": "title",
-                            "wzTag": "title",
-                            "wzName": "meta della pulsione",
-                            "items": []
+                            "wzElement": "period",
+                            "wzTag": "period",
+                            "wzName": "1905",
+                            "items": [
+                                {
+                                    "wzElement": "book",
+                                    "wzTag": "book",
+                                    "wzName": "freud.tre-saggi-sulla-teoria-sessuale",
+                                    "items": []
+                                }
+                            ]
                         },
                         {
-                            "wzElement": "text",
-                            "wzTag": "+",
-                            "wzName": "le mete siano molteplici, parcellari {see freud.pulsione-parziale}, e strettamente dipendenti da fonti somatiche;",
-                            "items": []
-                        }
-                    ]
-                },
-                {
-                    "wzElement": "concept",
-                    "wzTag": "concept",
-                    "wzName": "oggetto",
-                    "items": [
-                        {
-                            "wzElement": "title",
-                            "wzTag": "title",
-                            "wzName": "oggetto della pulsione",
-                            "items": []
+                            "wzElement": "period",
+                            "wzTag": "period",
+                            "wzName": "1915",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Freud raggruppa questi quattro elementi: spinta, fonte, oggetto, meta; e dà una definizione generale della pulsione",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "book",
+                                    "wzTag": "book",
+                                    "wzName": "freud.pulsioni-e-loro-destino",
+                                    "items": [
+                                        {
+                                            "wzElement": "de",
+                                            "wzTag": "de",
+                                            "wzName": "Triebe und Triebschicksale",
+                                            "items": []
+                                        }
+                                    ]
+                                }
+                            ]
                         },
                         {
-                            "wzElement": "text",
-                            "wzTag": "+",
-                            "wzName": "l'oggetto è variabile, contingente, e viene scelto nella sua forma definitiva solo in funzione delle vicissitudini della storia del soggetto.",
-                            "items": []
-                        }
-                    ]
-                },
-                {
-                    "wzElement": "concept",
-                    "wzTag": "concept",
-                    "wzName": "di-vita",
-                    "items": [
-                        {
-                            "wzElement": "title",
-                            "wzTag": "title",
-                            "wzName": "pulsione di vita",
-                            "items": []
+                            "wzElement": "relatedconcept",
+                            "wzTag": "r-concept",
+                            "wzName": "freud.somatico-o-psichico",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Come collocare la forza della pulsione che attacca l'organismo dall'interno e lo spinge a compiere talune azioni capaci di provocare una scarica di eccitazione? Si tratta di una forza somatica o di una energia psichica? La questione, posta da Freud, riceve risposte diverse in quanto la pulsione è definita come un concetto-limite tra lo psichismo e il somatico. Essa è legata per Freud al concetto di rappresentante, con cui egli intende una specie di delegazione inviata dal somatico nello psichismo.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "see",
+                                    "wzTag": "see",
+                                    "wzName": "freud.rappresentante-psichico",
+                                    "items": []
+                                }
+                            ]
                         },
                         {
-                            "wzElement": "alias",
-                            "wzTag": "alias",
-                            "wzName": "pulsione sessuale",
-                            "items": []
-                        }
-                    ]
-                },
-                {
-                    "wzElement": "concept",
-                    "wzTag": "concept",
-                    "wzName": "di-morte",
-                    "items": [
-                        {
-                            "wzElement": "title",
-                            "wzTag": "title",
-                            "wzName": "pulsione di morte",
-                            "items": []
+                            "wzElement": "relatedconcept",
+                            "wzTag": "r-concept",
+                            "wzName": "freud.prima-topica",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "la teoria delle pulsioni in Freud rimane sempre dualista",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "il primo dualismo proposto è quello tra pulsioni sessuali e pulsioni dell'Io o di autoconservazione; queste ultime pulsioni corrispondono per Freud ai grandi bisogni o alle grandi funzioni indispensabili alla conservazione dell'individuo, di cui il modello è costituito dalla fame e dalla funzione di alimentazione.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Questo dualismo è presente, secondo Freud, già alle origini della sessualità in quanto la pulsione sessuale si distacca dalle funzioni di autoconservazione su cui prima si appoggiava {see freud.appoggio}; egli cerca di spiegare il conflitto psichico mostrando che l'Io trova nella pulsione di autoconservazione l'essenziale dell'energia necessaria alla difesa contro la sessualità.",
+                                    "items": []
+                                }
+                            ]
                         },
                         {
-                            "wzElement": "alias",
-                            "wzTag": "alias",
-                            "wzName": "pulsione dell'io",
-                            "items": []
+                            "wzElement": "relatedconcept",
+                            "wzTag": "r-concept",
+                            "wzName": "freud.seconda-topica",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Il dualismo pulsionale introdotto in Al di là del principio di piacere contrappone le pulsioni di vita alle pulsioni di morte e modifica la funzione e la collocazione delle pulsioni nel conflitto topico.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Il conflitto topico (tra l'istanza difensiva e l'istanza rimossa) non corrisponde più al conflitto pulsionale, in quanto l'Es è concepito come serbatoio pulsionale includente i due tipi di pulsioni. L'energia utilizzata dall'Io* è presa da questo fondo comune, specie sotto forma di energia desessualizzata e sublimata",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "quote",
+                                    "wzTag": "quote",
+                                    "wzName": "",
+                                    "items": [
+                                        {
+                                            "wzElement": "text",
+                                            "wzTag": "+",
+                                            "wzName": "Noi diamo il nome di pulsioni alle forze che postuliamo dietro le tensioni generatrici di bisogni dell'Es",
+                                            "items": []
+                                        },
+                                        {
+                                            "wzElement": "book",
+                                            "wzTag": "book",
+                                            "wzName": "freud.Abriss der Psychoanalyse",
+                                            "items": []
+                                        },
+                                        {
+                                            "wzElement": "page",
+                                            "wzTag": "page",
+                                            "wzName": "264",
+                                            "items": []
+                                        },
+                                        {
+                                            "wzElement": "comment",
+                                            "wzTag": "comment",
+                                            "wzName": "",
+                                            "items": [
+                                                {
+                                                    "wzElement": "text",
+                                                    "wzTag": "+",
+                                                    "wzName": "I due grandi tipi di pulsioni (di vita e di morte), in quest'ultima teoria, sono postulati non tanto come motivazioni concrete del funzionamento stesso dell'organismo quanto come principi fondamentali che regolano in ultima analisi l'attività di esso",
+                                                    "items": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "wzElement": "quote",
+                                    "wzTag": "quote",
+                                    "wzName": "",
+                                    "items": [
+                                        {
+                                            "wzElement": "text",
+                                            "wzTag": "+",
+                                            "wzName": "La teoria delle pulsioni è per così dire la nostra mitologia. Le pulsioni sono esseri mitici, grandiosi nella loro indeterminazione.",
+                                            "items": []
+                                        },
+                                        {
+                                            "wzElement": "book",
+                                            "wzTag": "book",
+                                            "wzName": "freud.Neue Folge der Vorlesungen zur Einführung in die Psychoanalyse",
+                                            "items": []
+                                        },
+                                        {
+                                            "wzElement": "page",
+                                            "wzTag": "page",
+                                            "wzName": "95",
+                                            "items": []
+                                        },
+                                        {
+                                            "wzElement": "comment",
+                                            "wzTag": "comment",
+                                            "wzName": "",
+                                            "items": [
+                                                {
+                                                    "wzElement": "text",
+                                                    "wzTag": "+",
+                                                    "wzName": "famoso testo indicativo del cambiamento di accento di Freud verso le pulsioni negli ultimo anni",
+                                                    "items": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "wzElement": "relatedconcept",
+                            "wzTag": "r-concept",
+                            "wzName": "global.istinto",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "La nozione freudiana della pulsione porta a una disintegrazione del concetto classico di istinto, e ciò in due direzioni opposte. Da un lato, il concetto di pulsione parziale sottolinea l'idea che la pulsione sessuale esiste anzitutto allo stato polimorfo e tende principalmente alla soppressione della tensione al livello della fonte somatica, e che essa si lega nella storia dell'individuo a rappresentanti che specificano l'oggetto e il modo di soddisfacimento: la spinta interna dapprima indeterminata subirà un destino che la marcherà con tratti altamente individualizzati. Ma d'altro lato Freud, lungi dal postulare, come sono inclini a fare i teorici dell'istinto, dietro ogni tipo di attività una forza biologica corrispondente, fa rientrare l'insieme delle manifestazioni pulsionali in una sola grande opposizione fondamentale, che è ripresa dalla tradizione mitica: opposizione tra Fame e Amore, poi tra Amore e Discordia.",
+                                    "items": []
+                                }
+                            ]
+                        },
+                        {
+                            "wzElement": "concept",
+                            "wzTag": "concept",
+                            "wzName": "fonte",
+                            "items": [
+                                {
+                                    "wzElement": "title",
+                                    "wzTag": "title",
+                                    "wzName": "Fonte della pulsione",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Fonte somatica",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "relatedconcept",
+                                    "wzTag": "r-concept",
+                                    "wzName": "freud.pulsione-sessuale",
+                                    "items": [
+                                        {
+                                            "wzElement": "text",
+                                            "wzTag": "+",
+                                            "wzName": "le fonti somatiche della pulsione sessuale sono molteplici e capaci di assumere e di conservare per il soggetto una funzione prevalente (zona erogena), in quanto le pulsioni parziali si subordinano alla zona genitale e si integrano nel compimento del coito solo al termine di un'evoluzione complessa, che la maturazione biologica non basta a garantire.",
+                                            "items": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "wzElement": "concept",
+                            "wzTag": "concept",
+                            "wzName": "spinta",
+                            "items": [
+                                {
+                                    "wzElement": "title",
+                                    "wzTag": "title",
+                                    "wzName": "Spinta della pulsione",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "L'ultimo elemento che Freud introduce a proposito della nozione di pulsione è quello di spinta concepita come un fattore quantitativo economico, una «esigenza di lavoro imposta all'apparato psichico».",
+                                    "items": []
+                                }
+                            ]
+                        },
+                        {
+                            "wzElement": "concept",
+                            "wzTag": "concept",
+                            "wzName": "meta",
+                            "items": [
+                                {
+                                    "wzElement": "title",
+                                    "wzTag": "title",
+                                    "wzName": "Meta della pulsione",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "le mete siano molteplici, parcellari {see freud.pulsione-parziale}, e strettamente dipendenti da fonti somatiche;",
+                                    "items": []
+                                }
+                            ]
+                        },
+                        {
+                            "wzElement": "concept",
+                            "wzTag": "concept",
+                            "wzName": "oggetto",
+                            "items": [
+                                {
+                                    "wzElement": "title",
+                                    "wzTag": "title",
+                                    "wzName": "Oggetto della pulsione",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "l'oggetto è variabile, contingente, e viene scelto nella sua forma definitiva solo in funzione delle vicissitudini della storia del soggetto.",
+                                    "items": []
+                                }
+                            ]
+                        },
+                        {
+                            "wzElement": "concept",
+                            "wzTag": "concept",
+                            "wzName": "dell-io",
+                            "items": [
+                                {
+                                    "wzElement": "title",
+                                    "wzTag": "title",
+                                    "wzName": "Pulsione dell'io",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "alias",
+                                    "wzTag": "alias",
+                                    "wzName": "Pulsione di autoconservazione",
+                                    "items": []
+                                }
+                            ]
+                        },
+                        {
+                            "wzElement": "concept",
+                            "wzTag": "concept",
+                            "wzName": "sessuale",
+                            "items": [
+                                {
+                                    "wzElement": "title",
+                                    "wzTag": "title",
+                                    "wzName": "Pulsione sessuale",
+                                    "items": []
+                                }
+                            ]
+                        },
+                        {
+                            "wzElement": "concept",
+                            "wzTag": "concept",
+                            "wzName": "di-vita",
+                            "items": [
+                                {
+                                    "wzElement": "title",
+                                    "wzTag": "title",
+                                    "wzName": "Pulsione di vita",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "synonim",
+                                    "wzTag": "synonim",
+                                    "wzName": "freud.pulsione.sessuale",
+                                    "items": []
+                                }
+                            ]
+                        },
+                        {
+                            "wzElement": "concept",
+                            "wzTag": "concept",
+                            "wzName": "di-morte",
+                            "items": [
+                                {
+                                    "wzElement": "title",
+                                    "wzTag": "title",
+                                    "wzName": "Pulsione di morte",
+                                    "items": []
+                                }
+                            ]
                         }
                     ]
                 }
@@ -5546,10 +6085,22 @@
                     "wzName": "rappresentazione",
                     "items": [
                         {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Rappresentazione",
+                            "items": []
+                        },
+                        {
                             "wzElement": "concept",
                             "wzTag": "concept",
                             "wzName": "verbale",
                             "items": [
+                                {
+                                    "wzElement": "title",
+                                    "wzTag": "title",
+                                    "wzName": "Rappresentazione verbale",
+                                    "items": []
+                                },
                                 {
                                     "wzElement": "quote",
                                     "wzTag": "quote",
@@ -5586,6 +6137,12 @@
                     "wzName": "reazione-terapeutica-negativa",
                     "items": [
                         {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Reazione terapeutica negativa",
+                            "items": []
+                        },
+                        {
                             "wzElement": "quote",
                             "wzTag": "quote",
                             "wzName": "",
@@ -5619,9 +6176,15 @@
                     "wzName": "regola-fondamentale",
                     "items": [
                         {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Regola fondamentale",
+                            "items": []
+                        },
+                        {
                             "wzElement": "alias",
                             "wzTag": "alias",
-                            "wzName": "regola psicoanalitica fondamentale",
+                            "wzName": "Regola psicoanalitica fondamentale",
                             "items": []
                         },
                         {
@@ -5632,7 +6195,7 @@
                                 {
                                     "wzElement": "text",
                                     "wzTag": "+",
-                                    "wzName": "secondo la quale ognuno deve comunicare senza sottoporre a critica tutto ciò che gli viene in mente",
+                                    "wzName": "Secondo la quale ognuno deve comunicare senza sottoporre a critica tutto ciò che gli viene in mente.",
                                     "items": []
                                 },
                                 {
@@ -5657,6 +6220,12 @@
                     "wzTag": "concept",
                     "wzName": "repressione",
                     "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Repressione",
+                            "items": []
+                        },
                         {
                             "wzElement": "text",
                             "wzTag": "+",
@@ -5735,9 +6304,15 @@
                     "wzName": "resistenza",
                     "items": [
                         {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Resistenza",
+                            "items": []
+                        },
+                        {
                             "wzElement": "text",
                             "wzTag": "+",
-                            "wzName": "una delle ragioni principali che hanno portato Freud ad introdurre il concetto di narcisismo nel suo celebre saggio del 1914",
+                            "wzName": "Una delle ragioni principali che hanno portato Freud ad introdurre il concetto di narcisismo nel suo celebre saggio del 1914.",
                             "items": []
                         }
                     ]
@@ -5748,9 +6323,15 @@
                     "wzName": "nucleo-patogeno",
                     "items": [
                         {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Nucleo patogeno",
+                            "items": []
+                        },
+                        {
                             "wzElement": "text",
                             "wzTag": "+",
-                            "wzName": "da Freud inizialmente identificato con un evento traumatico poi con il «fantasma»",
+                            "wzName": "Da Freud inizialmente identificato con un evento traumatico poi con il «fantasma».",
                             "items": []
                         }
                     ]
@@ -5771,6 +6352,12 @@
                             "wzElement": "parent",
                             "wzTag": "parent",
                             "wzName": "freud.difesa-dell-io",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Rimozione",
                             "items": []
                         },
                         {
@@ -5955,8 +6542,14 @@
                         {
                             "wzElement": "concept",
                             "wzTag": "concept",
-                            "wzName": "freud.rimozione.fasi",
+                            "wzName": "fasi",
                             "items": [
+                                {
+                                    "wzElement": "title",
+                                    "wzTag": "title",
+                                    "wzName": "Rimozione - Fasi",
+                                    "items": []
+                                },
                                 {
                                     "wzElement": "relatedconcept",
                                     "wzTag": "r-concept",
@@ -5973,8 +6566,14 @@
                                 {
                                     "wzElement": "concept",
                                     "wzTag": "concept",
-                                    "wzName": "freud.rimozione.fase-1",
+                                    "wzName": "fase-1",
                                     "items": [
+                                        {
+                                            "wzElement": "title",
+                                            "wzTag": "title",
+                                            "wzName": "Rimozione - Fasi - Fase 1",
+                                            "items": []
+                                        },
                                         {
                                             "wzElement": "relatedconcept",
                                             "wzTag": "r-concept",
@@ -5999,8 +6598,14 @@
                                 {
                                     "wzElement": "concept",
                                     "wzTag": "concept",
-                                    "wzName": "freud.rimozione.fase-2",
+                                    "wzName": "fase-2",
                                     "items": [
+                                        {
+                                            "wzElement": "title",
+                                            "wzTag": "title",
+                                            "wzName": "Rimozione - Fasi - Fase 2",
+                                            "items": []
+                                        },
                                         {
                                             "wzElement": "text",
                                             "wzTag": "+",
@@ -6012,8 +6617,14 @@
                                 {
                                     "wzElement": "concept",
                                     "wzTag": "concept",
-                                    "wzName": "freud.rimozione.fase-3",
+                                    "wzName": "fase-3",
                                     "items": [
+                                        {
+                                            "wzElement": "title",
+                                            "wzTag": "title",
+                                            "wzName": "Rimozione - Fasi - Fase 3",
+                                            "items": []
+                                        },
                                         {
                                             "wzElement": "text",
                                             "wzTag": "+",
@@ -6102,7 +6713,14 @@
                     "wzElement": "concept",
                     "wzTag": "concept",
                     "wzName": "scena-primaria",
-                    "items": []
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Scena primaria",
+                            "items": []
+                        }
+                    ]
                 }
             ]
         },
@@ -6117,9 +6735,15 @@
                     "wzName": "seconda-topica",
                     "items": [
                         {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Seconda topica",
+                            "items": []
+                        },
+                        {
                             "wzElement": "alias",
                             "wzTag": "alias",
-                            "wzName": "concezione-tripartita",
+                            "wzName": "Concezione tripartita",
                             "items": []
                         },
                         {
@@ -6289,6 +6913,12 @@
                     "wzName": "sensazione",
                     "items": [
                         {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Sensazione",
+                            "items": []
+                        },
+                        {
                             "wzElement": "quote",
                             "wzTag": "quote",
                             "wzName": "",
@@ -6324,7 +6954,7 @@
                         {
                             "wzElement": "title",
                             "wzTag": "title",
-                            "wzName": "sistema Inc",
+                            "wzName": "Sistema Inc",
                             "items": []
                         }
                     ]
@@ -6341,6 +6971,18 @@
                     "wzTag": "concept",
                     "wzName": "sistema-P-C",
                     "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Sistema P-C",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "alias",
+                            "wzTag": "alias",
+                            "wzName": "Sistema Percezione-Coscienza",
+                            "items": []
+                        },
                         {
                             "wzElement": "quote",
                             "wzTag": "quote",
@@ -6377,7 +7019,7 @@
                         {
                             "wzElement": "title",
                             "wzTag": "title",
-                            "wzName": "sistema Prec",
+                            "wzName": "Sistema Prec",
                             "items": []
                         }
                     ]
@@ -6394,6 +7036,12 @@
                     "wzTag": "concept",
                     "wzName": "sovradeterminazione",
                     "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Sovradeterminazione",
+                            "items": []
+                        },
                         {
                             "wzElement": "text",
                             "wzTag": "+",
@@ -6414,6 +7062,12 @@
                     "wzTag": "concept",
                     "wzName": "super-Io",
                     "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Super Io",
+                            "items": []
+                        },
                         {
                             "wzElement": "quote",
                             "wzTag": "quote",
@@ -6447,6 +7101,12 @@
                     "wzTag": "concept",
                     "wzName": "traccia-mnestica",
                     "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Traccia mnestica",
+                            "items": []
+                        },
                         {
                             "wzElement": "text",
                             "wzTag": "+",
@@ -6532,6 +7192,12 @@
                     "wzName": "traslazione",
                     "items": [
                         {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Traslazione",
+                            "items": []
+                        },
+                        {
                             "wzElement": "quote",
                             "wzTag": "quote",
                             "wzName": "",
@@ -6539,7 +7205,7 @@
                                 {
                                     "wzElement": "text",
                                     "wzTag": "+",
-                                    "wzName": "una tale elaborazione psichica anormale di una successione di pensieri normale si verifica solo quando quest’ultima si è fatta traslazione di un desiderio inconscio, che deriva dal materiale infantile e si trova in stato di rimozione.",
+                                    "wzName": "[..] una tale elaborazione psichica anormale di una successione di pensieri normale si verifica solo quando quest’ultima si è fatta traslazione di un desiderio inconscio, che deriva dal materiale infantile e si trova in stato di rimozione.",
                                     "items": []
                                 },
                                 {
@@ -6564,6 +7230,12 @@
                     "wzTag": "concept",
                     "wzName": "trauma",
                     "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Trauma",
+                            "items": []
+                        },
                         {
                             "wzElement": "quote",
                             "wzTag": "quote",

@@ -3,6 +3,7 @@ $group
     namespace freud
 
         concept trauma
+            title Trauma
             quote
                 + Chiamiamo “traumatici” quegli eccitamenti che provengono dall’esterno 
                     \b e sono abbastanza forti da spezzare lo scudo protettivo. 

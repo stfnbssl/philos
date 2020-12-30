@@ -3,6 +3,7 @@ $group
     namespace freud
 
         concept metapsicologia
+            title Metapsicologia
             
             quote
                 + Propongo che, se riusciamo a descrivere un processo psichico 

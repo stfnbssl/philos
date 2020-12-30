@@ -3,9 +3,9 @@ $group
     namespace freud
 
         concept effetto-retroattivo
-            title effetto retroattivo
-            alias risignificazione a posteriori
-            alias Nachträglicheit
+            title Effetto retroattivo
+                de Nachträglicheit
+            alias Risignificazione a posteriori
             
             + indica la tendenza dell’apparato psichico a 
                 \b ridefinire a posteriori il significato di eventi passati, 
@@ -13,10 +13,10 @@ $group
                 \b di conferire loro un senso adeguato. 
             
             example
-                + esempio classico è quello di una molestia sessuale subita da un bambino, 
+                + Esempio classico è quello di una molestia sessuale subita da un bambino, 
                     \b che prende il suo significato di seduzione e violenza 
                     \b solo anni dopo l’evento reale. 
-                + altro caso è quello di un trauma precoce 
+                + Altro caso è quello di un trauma precoce 
                     \b – per es., la morte di una persona cara – 
                     \b verificatosi in epoca preverbale, 
                     \b che assume un senso memorizzabile solo in seguito a 
@@ -25,7 +25,7 @@ $group
                     \b all’elaborazione del momento attuale – 
                     \b si carica di tutto il dolore di un lutto a suo tempo non vissuto. 
             
-            + così il passato determina il presente, 
+            + Così il passato determina il presente, 
                 \b ma a sua volta il presente può determinare il passato, 
                 \b corredandolo di rappresentazioni e costituendolo di significato. 
             

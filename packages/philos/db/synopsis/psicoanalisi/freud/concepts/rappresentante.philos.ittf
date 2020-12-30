@@ -3,9 +3,10 @@ $group
     namespace freud
 
         concept rappresentante
+            title Rappresentante
         
             concept ideativo
-                title rappresentante ideativo
+                title Rappresentante ideativo
                     de Vorstellungsrepräsentanz
                         alias Vorstellungsrepräsentant
                     en ideational representative
@@ -81,7 +82,7 @@ $group
                     un mezzo per chiarire la natura della rappresentanza ideativa.
 
             concept psichico
-                title rappresentante psichico
+                title Rappresentante psichico
                     de psychische Repräsentanz
                 + Termine utilizzato da Freud per designare, 
                     \b nel quadro della sua teoria della pulsione, 

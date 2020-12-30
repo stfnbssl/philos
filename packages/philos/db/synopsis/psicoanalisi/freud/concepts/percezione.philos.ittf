@@ -3,3 +3,4 @@ $group
     namespace freud
 
         concept percezione
+            title Percezione

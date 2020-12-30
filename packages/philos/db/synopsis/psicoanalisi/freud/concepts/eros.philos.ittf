@@ -2,7 +2,9 @@ $group
 
     namespace freud
 
-        concept Eros
+        concept eros
+            title Eros
+            
             quote
                 + Con l’ipotesi della libido narcisistica e l’estensione del concetto di libido alla singola cellula, 
                     \b la pulsione sessuale si è trasformata nell’Eros 

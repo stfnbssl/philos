@@ -3,23 +3,23 @@ $group
     namespace freud
 
         concept difesa
+            title Difesa
             r-concept freud.rimozione
                 + la teoria della difesa (da un contenuto psichico penoso) sostiene la rimozione
 
             concept dell-io
-                title difesa dell'Io
+                title Difesa dell'Io
             
             concept meccanismo-di
-                title meccanismo di difesa
+                title Meccanismo di difesa
 
-            concept lotta-di
-                title lotta di difesa
+            concept Lotta-di
+                title Lotta di difesa
 
             concept secondaria
+                title Difesa secondaria
                 r-concept freud.sintomo
                     + difesa contro il sintomo stesso
 
             concept inconscia-dell-io
-                title difesa inconscia dell'io
-
-            concept freud.difesa
+                title Difesa inconscia dell'io

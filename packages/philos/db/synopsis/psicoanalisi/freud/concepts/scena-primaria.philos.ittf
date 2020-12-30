@@ -3,3 +3,4 @@ $group
     namespace freud
 
         concept scena-primaria
+            title Scena primaria

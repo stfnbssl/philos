@@ -54,6 +54,17 @@
         .li-clear {
             clear: both;
         }
+        .li-c-title {
+            padding: 4px;
+            float: left;
+            font-weight: bold;
+            cursor: pointer;
+        }
+        .li-c-id {
+            padding: 4px;
+            float: right;
+            font-size: 9px;
+        }
         .bar-arrow-left {
             padding: 15px 0px;
             float: left;
@@ -568,14 +579,14 @@
                 } = this.state;
                 return  (
                         <div>
-                        {
-                            status == 'list' &&  (
-                                <div>
-                                    <h2>
-                                    Concetti
-                                    </h2>
-                                
-                                    <Paper style={{maxHeight: '90%', maxWidth:800, padding:10, overflow: 'auto'}}>
+                            <Paper style={{maxHeight: '90%', maxWidth:800, padding:10, overflow: 'auto'}}>
+                            {
+                                status == 'list' &&  (
+                                    <div>
+                                        <h2>
+                                        Concetti
+                                        </h2>
+                                    
                                     {
                                         jsonData.concepts.sort(compareById).map((item) => {
                                             return  (
@@ -584,25 +595,25 @@
                                                 )
                                             ;
                                         })
-                                    }</Paper>
+                                    }</div>
+                                )
                                 
-                                </div>
-                            )
-                            
-                        }{
-                            status == 'concept' &&  (
-                                <div>
-                                    <DetailBar title={(selectedItem.title && selectedItem.title.text) || selectedItem.id} id={selectedItem.id} onClick={() =>
-                                        this.handleConceptClose()}>
-                                    </DetailBar>
+                            }{
+                                status == 'concept' &&  (
+                                    <div>
+                                        <DetailBar title={(selectedItem.title && selectedItem.title.text) || selectedItem.id} id={selectedItem.id} onClick={() =>
+                                            this.handleConceptClose()}>
+                                        </DetailBar>
+                                    
+                                        <Concept item={selectedItem} jsonData={jsonData}>
+                                        </Concept>
+                                    
+                                    </div>
+                                )
                                 
-                                    <Concept item={selectedItem} jsonData={jsonData}>
-                                    </Concept>
-                                
-                                </div>
-                            )
-                            
-                        }</div>
+                            }</Paper>
+                        
+                        </div>
                     )
                 ;
             }
@@ -610,11 +621,21 @@
         function ConceptListItem(props) {
             var {item, onClick} = props;
             var {id, name, title} = item;
-            title = (title || name);
+            title = title && title.text ? title.text : name;
             return  (
                     <div onClick={(event) =>
                         onClick(event, item)}>
-                    {id}
+                        <div className="li-c-title">
+                        {title}
+                        </div>
+                    
+                        <div className="li-c-id">
+                        id: {id}
+                        </div>
+                    
+                        <div className="li-clear">
+                        </div>
+                    
                     </div>
                 )
             ;
@@ -625,14 +646,6 @@
             title = (title || name);
             return  (
                     <div>
-                        <h1>
-                        {title.text}
-                        </h1>
-                    
-                        <h5>
-                        id: {id}
-                        </h5>
-                    
                     {
                         item.aliases && item.aliases.length > 0 &&  (
                             <Aliases item={item}>
