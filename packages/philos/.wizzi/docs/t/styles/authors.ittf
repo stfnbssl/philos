@@ -1,5 +1,11 @@
 $group
 
+    . paper
+        @ max-height 90%
+        @ max-width 800px
+        @ padding 40px
+        @ overflow auto
+
     . a-img-list
         @ width 30px
         @ height 34px
@@ -48,6 +54,7 @@ $group
         @ font-size 9px
 
     . bar
+        @ margin-bottom 20px
 
     . bar-arrow-left
         @ padding 15px 0px
@@ -68,3 +75,35 @@ $group
         @ padding 10px
         @ float right
         @ font-size 9px
+
+    . rc-box
+        @ border-left 1px solid gray
+        @ margin 0.5em 1em
+    
+    . rc-ref
+        @ font-style italic
+        @ font-size 0.75em
+        @ padding-left 10px
+    
+    . rc-ref-pointer
+        @ font-style italic
+        @ font-size 0.75em
+        @ padding-left 10px
+        @ cursor pointer
+
+    . rc-content
+        @ padding-left 20px
+
+    . alias-box
+    . alias-label
+        @ float left
+        @ font-weight bold
+        @ padding-right 10px
+    . alias-text-box
+        @ float left
+        @ border-left 1px solid gray
+        @ padding-left 10px
+    . alias-text
+        @ font-style italic
+        @ font-size 0.75em
+

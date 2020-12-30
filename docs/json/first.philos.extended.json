@@ -18,7 +18,7 @@
                 "date": "23/11/1939",
                 "place": "Hampstead, Londra, Regno Unito"
             },
-            "avatar": "https://upload.wikimedia.org/wikipedia/commons/1/12/Sigmund_Freud_LIFE.jpg"
+            "avatar": "./assets/img/authors/Freud.jpg"
         },
         {
             "id": "Forrester",
@@ -38,7 +38,7 @@
                 "date": "24/11/2015",
                 "place": "Unknown"
             },
-            "avatar": "https://www.people.hps.cam.ac.uk/index/resolveuid/ad23c18ccad3474583a9a5c4b418e9b4"
+            "avatar": "./assets/img/authors/Forrester.jpg"
         },
         {
             "id": "Scalzone",
@@ -58,7 +58,7 @@
                 "date": "Unknown",
                 "place": "Unknown"
             },
-            "avatar": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg"
+            "avatar": "./assets/img/authors/No_image_available.svg"
         }
     ],
     "authorsGroups": [],
@@ -104,7 +104,8 @@
                         "lines": [
                             "Questa consiste nel collegamento dei neuroni ψ con neuroni che servono alle rappresentazioni sonore e sono intimamente associati con le immagini verbali motorie (le parole parlate). Queste associazioni hanno il vantaggio sopra le altre di possedere due ulteriori caratteristiche: sono circoscritte (cioè in piccolo numero) ed esclusive (differenti l'una dall'altra). L’eccitamento procede in ogni caso dall’immagine sonora verso l’immagine verbale e di qui alla scarica. Quindi, se le immagini mnestiche sono costituite in modo tale che una corrente parziale può passare da loro alle immagini sonore e alle immagini verbali motorie, allora l’investimento dell’immagine mnestica si accompagna con l’informazione della scarica, informazione che è un segno di qualità e allo stesso tempo un segno di coscienza del ricordo. Ora, se l’Io preinveste queste immagini verbali come ha già preinvestito le immagini della scarica, esso crea per sé stesso il meccanismo capace di dirigere l’investimento ψ verso i ricordi che emergono durante il flusso di Qἠ. Questo è il pensiero cosciente, osservante."
                         ],
-                        "kindleloc": "12506-12516"
+                        "kindleloc": "12506-12516",
+                        "book": "freud.opere-complete-kindle"
                     }
                 },
                 {
@@ -221,7 +222,7 @@
                         "lines": [
                             "La coazione isterica è quindi: 1) incomprensibile; 2) insolubile attraverso il processo del pensiero; e 3) incongrua nella sua struttura."
                         ],
-                        "book": "freud.opere-complete",
+                        "book": "freud.opere-complete-kindle",
                         "kindlepage": "887"
                     }
                 }
@@ -244,8 +245,8 @@
                             "può essere contrapposta a quella isterica. Per esempio: un uomo che è caduto da una carrozza ha corso pericolo, e in seguito può diventargli impossibile usare questo mezzo di locomozione. Tale coazione è: 1) comprensibile, e infatti ne conosciamo l’origine; 2) insolubile attraverso il processo del pensiero; e 3) congruente, poiché l’associazione con il pericolo giustifica il legame tra viaggiare in carrozza e paura.",
                             "Si sarebbe inclini a considerare la coazione nevrotica come niente affatto patologica, se [..] una coazione di questo genere persiste solo per un breve tempo [..] Quindi il persistere di una coazione è patologico e indica una nevrosi semplice."
                         ],
-                        "book": "freud.opere-complete",
-                        "kindlepage": "887"
+                        "kindlepage": "887",
+                        "book": "freud.opere-complete-kindle"
                     }
                 }
             ],
@@ -616,7 +617,7 @@
                 }
             ],
             "title": {
-                "text": "Neuroni del pallio"
+                "text": "Neuroni ψ del pallio"
             }
         },
         {
@@ -631,7 +632,7 @@
                 }
             ],
             "title": {
-                "text": "Neuroni nucleari"
+                "text": "Neuroni ψ nucleari"
             }
         },
         {
@@ -974,7 +975,8 @@
                         "lines": [
                             "Una rappresentazione può, ad esempio, entrare nella coscienza con particolare frequenza, senza che il corso [degli eventi] la giustifichi; o può accadere che il risveglio di tale rappresentazione si accompagni a conseguenze psichiche che non si riesce a comprendere. L’emergere della rappresentazione sovraintensa ha risultati che non possono né venire soppressi né essere capiti: liberazione di affetto, innervazioni motorie, impedimenti. Il soggetto stesso non è per nulla ignaro della stranezza della situazione."
                         ],
-                        "kindlepage": "886-887"
+                        "kindlepage": "886-887",
+                        "book": "freud.opere-complete-kindle"
                     }
                 }
             ],
@@ -1295,7 +1297,8 @@
                                 "lines": [
                                     "[..] la liquidazione dell’ammontare affettivo, che costituisce il vero e proprio compito della rimozione [..]"
                                 ],
-                                "kindleloc": "65273"
+                                "kindleloc": "65273",
+                                "book": "freud.opere-complete-kindle"
                             }
                         }
                     ]
@@ -1491,7 +1494,8 @@
                         "lines": [
                             "L’angoscia di evirazione si evolve in angoscia morale, in angoscia sociale. Non è più così facile, ora, stabilire che cosa l’angoscia tema. La formula “separazione, esclusione dall’orda” riguarda solo quella parte tardiva del Super-io che si è sviluppata appoggiandosi ai modelli sociali, e non il nucleo del Super-io che corrisponde all’istanza parentale introiettata. Espresso più in generale, ciò che l’Io considera come un pericolo e a cui risponde col segnale d’angoscia è l’ira, è la punizione del Super-io, la perdita dell’amore da parte di questo."
                         ],
-                        "kindlepage": "6428"
+                        "kindlepage": "6428",
+                        "book": "freud.opere-complete-kindle"
                     }
                 }
             ],
@@ -1517,7 +1521,8 @@
                         "lines": [
                             "Ultima metamorfosi di tale angoscia di fronte al Super-io mi è sembrata l’angoscia di fronte alla morte (o di fronte alla vita), l’angoscia di fronte alla proiezione del Super-io nelle forze del destino"
                         ],
-                        "kindlepage": "6428"
+                        "kindlepage": "6428",
+                        "book": "freud.opere-complete-kindle"
                     }
                 }
             ],
@@ -1538,7 +1543,8 @@
                         "lines": [
                             "Anche la successiva trasformazione dell’angoscia, l’angoscia di evirazione che compare nella fase fallica, è un’angoscia di distacco ed è legata alla stessa condizione. Il pericolo è qui una separazione dal genitale."
                         ],
-                        "kindlepage": "6427"
+                        "kindlepage": "6427",
+                        "book": "freud.opere-complete-kindle"
                     }
                 }
             ],
@@ -1589,7 +1595,8 @@
                         "lines": [
                             "A ciò si aggiunga che l’angoscia è il diretto contrario del desiderio, che i contrari si trovano particolarmente vicini tra loro nell’associazione e, come abbiamo visto, coincidono nell’inconscio;"
                         ],
-                        "kindlepage": "p. 5062"
+                        "kindlepage": "p. 5062",
+                        "book": "freud.opere-complete-kindle"
                     }
                 },
                 {
@@ -1598,7 +1605,8 @@
                         "lines": [
                             "L’angoscia è dunque, in primo luogo, un qualche cosa che si sente. Noi la chiamiamo uno stato affettivo, benché non sappiamo neppure che cosa sia un affetto. Come sensazione, essa ha – nel modo più palese – carattere spiacevole, ma ciò non esaurisce le sue qualità; non possiamo chiamare angoscia ogni dispiacere. [..] noi avvertiamo nell’angoscia determinate sensazioni corporee, che si riferiscono a organi ben precisi [..] [.. mettiamo in evidenza] le sensazioni, più frequenti e distinte, che interessano gli organi respiratori e il cuore. Esse testimoniano che innervazioni motorie, e quindi processi di scarica, prendono parte al meccanismo generale dell’angoscia."
                         ],
-                        "kindlepage": "6419"
+                        "kindlepage": "6419",
+                        "book": "freud.opere-complete-kindle"
                     }
                 },
                 {
@@ -1607,7 +1615,8 @@
                         "lines": [
                             "L’angoscia si presenta dunque come la reazione alla mancanza dell’oggetto, e, per analogia, ci viene in mente che anche l’angoscia di evirazione ha come contenuto la separazione da un oggetto altamente stimato, e che l’angoscia più primitiva (l’“angoscia primaria” della nascita) ebbe luogo con la separazione dalla madre."
                         ],
-                        "kindlepage": "6425"
+                        "kindlepage": "6425",
+                        "book": "freud.opere-complete-kindle"
                     }
                 },
                 {
@@ -1616,7 +1625,8 @@
                         "lines": [
                             "L’angoscia è uno stato affettivo che naturalmente soltanto l’Io può percepire. L’Es non può avere angoscia come l’Io: non è un’organizzazione, non può giudicare situazioni di pericolo."
                         ],
-                        "kindlepage": "6429"
+                        "kindlepage": "6429",
+                        "book": "freud.opere-complete-kindle"
                     }
                 },
                 {
@@ -1625,7 +1635,8 @@
                         "lines": [
                             "Noi distinguiamo qui di bel nuovo, e con buon fondamento, i due casi: [1] il primo, che nell’Es avvenga qualcosa che attivi una delle situazioni di pericolo per l’Io, inducendo quest’ultimo a dare il segnale d’angoscia per evitare il pericolo; [2] l’altro, che sorga nell’Es una situazione analoga al trauma della nascita, per cui esso automaticamente addiviene alla reazione d’angoscia. I due casi vengono ravvicinati se si osserva che [2] il secondo corrisponde alla prima e originaria situazione di pericolo, [1] il primo invece a una delle condizioni d’angoscia derivate in seguito da quella. Oppure, con riferimento alle affezioni vere e proprie che ne provengono: [2] che il secondo caso si verifica nell’etiologia delle nevrosi attuali, [1] mentre il primo rimane caratteristico per l’etiologia delle psiconevrosi."
                         ],
-                        "kindlepage": "6429-6430"
+                        "kindlepage": "6429-6430",
+                        "book": "freud.opere-complete-kindle"
                     }
                 },
                 {
@@ -1634,7 +1645,8 @@
                         "lines": [
                             "vien fatto di supporre che la condizione angosciosa della perdita d’amore abbia nell’isteria una parte simile a quella che la minaccia d’evirazione ha nelle fobie, e l’angoscia del Super-io nella nevrosi ossessiva."
                         ],
-                        "kindlepage": "6431-6432"
+                        "kindlepage": "6431-6432",
+                        "book": "freud.opere-complete-kindle"
                     }
                 },
                 {
@@ -1670,7 +1682,8 @@
                         "lines": [
                             "[..] ora essa [la psicoanalisi] intende occuparsi altresì della topica psicologica, indicando, per un qualsivoglia atto psichico, entro quale sistema o fra quali sistemi si svolga. A causa di questo suo sforzo le è stato conferito il nome di “psicologia del profondo”."
                         ],
-                        "kindleloc": "65456-65458"
+                        "kindleloc": "65456-65458",
+                        "book": "freud.opere-complete-kindle"
                     }
                 },
                 {
@@ -1679,7 +1692,8 @@
                         "lines": [
                             "Per il momento la nostra topica psichica non ha niente da spartire con l’anatomia; non si riferisce a località anatomiche, bensì a regioni dell’apparato psichico, a prescindere dalle parti dell’organismo in cui dette regioni possano esser situate."
                         ],
-                        "kindleloc": "65478-65479"
+                        "kindleloc": "65478-65479",
+                        "book": "freud.opere-complete-kindle"
                     }
                 },
                 {
@@ -1800,7 +1814,8 @@
                         "lines": [
                             "[..] non è vero che la rimozione tiene lontane dalla coscienza tutte le propaggini del rimosso originario. Quando queste si sono allontanate a sufficienza dalla rappresentanza rimossa, vuoi assumendo determinate deformazioni, vuoi per il numero degli elementi intermedi interpolati, l’accesso alla coscienza è per esse senz’altro libero. È cioè come se la resistenza che la coscienza oppone a tali propaggini fosse una funzione [inversa] della loro lontananza dal rimosso originario. Nell’esercizio della tecnica psicoanalitica noi sollecitiamo ininterrottamente il paziente a produrre quelle propaggini del rimosso che, per la loro lontananza o la loro deformazione, riescono a oltrepassare la censura della coscienza. Altro infatti non sono le associazioni libere che noi pretendiamo dal paziente quando lo invitiamo a rinunciare ad ogni rappresentazione finalizzata cosciente e ad ogni atteggiamento critico; è a partire da queste associazioni che noi riproduciamo una traduzione cosciente della rappresentanza rimossa."
                         ],
-                        "kindleloc": "65164-65172"
+                        "kindleloc": "65164-65172",
+                        "book": "freud.opere-complete-kindle"
                     }
                 }
             ],
@@ -1843,7 +1858,8 @@
                         "lines": [
                             "Nella prima fase l’atto è inconscio e appartiene al sistema Inc; se dopo averlo controllato la censura lo respinge, gli è vietato di passare alla seconda fase; si chiama allora “rimosso”, ed è costretto a restare inconscio. Se invece supera questo controllo, entra nella seconda fase e viene a far parte del secondo sistema, che abbiamo deciso di chiamare sistema C. Ma il fatto di appartenere a questo secondo sistema non è ancora sufficiente per determinare in modo univoco il suo rapporto con la coscienza. L’atto psichico non è ancora cosciente, ma capace di diventare cosciente (per usare l’espressione di Josef Breuer), e cioè, a patto che intervengano certe condizioni, può diventare oggetto della coscienza senza incontrare particolari resistenze. Con riguardo a questa capacità di coscienza, diamo al sistema C anche la denominazione di “preconscio”. Se dovesse risultare che anche il farsi cosciente da parte del preconscio è condizionato da una certa censura, dovremmo scindere più nettamente fra loro i sistemi Prec e C Per ora basti la costatazione che il sistema Prec condivide le proprietà del sistema C, e che la rigida censura esercita il suo ufficio nel punto di transizione dall’Inc al Prec (o C)."
                         ],
-                        "kindlepage": "4664-4665"
+                        "kindlepage": "4664-4665",
+                        "book": "freud.opere-complete-kindle"
                     }
                 }
             ],
@@ -1926,7 +1942,8 @@
                         "lines": [
                             "Abbiamo detto che la coscienza costituisce la superficie dell’apparato psichico; l’abbiamo cioè attribuita, in quanto funzione, a un sistema spazialmente collocato al primo posto, se si procede dal mondo esterno. Spazialmente non solo in senso funzionale, del resto, ma questa volta anche nel senso della dissezione anatomica."
                         ],
-                        "kindlepage": "5960"
+                        "kindlepage": "5960",
+                        "book": "freud.opere-complete-kindle"
                     }
                 },
                 {
@@ -1935,7 +1952,8 @@
                         "lines": [
                             "[..] soltanto quanto è già stato una volta percezione c può diventare cosciente; e, se si escludono i sentimenti, ciò che dall’interno vuol diventare cosciente, deve cercare di trasformarsi in percezioni provenienti dall’esterno. Questo è possibile mediante le tracce mnestiche."
                         ],
-                        "kindlepage": "5961-5962"
+                        "kindlepage": "5961-5962",
+                        "book": "freud.opere-complete-kindle"
                     }
                 }
             ],
@@ -2503,7 +2521,8 @@
                         "lines": [
                             "Nell’inconscio gli investimenti possono essere facilmente trasferiti in modo completo, spostati, condensati; tale trattamento, se fosse applicato a un materiale preconscio, potrebbe dare solo risultati difettosi; e ciò determina anche le note peculiarità del sogno manifesto una volta che i residui preconsci del giorno precedente siano stati elaborati secondo le leggi dell’inconscio."
                         ],
-                        "kindlepage": "5670-5671"
+                        "kindlepage": "5670-5671",
+                        "book": "freud.opere-complete-kindle"
                     }
                 },
                 {
@@ -2512,7 +2531,8 @@
                         "lines": [
                             "[Su questo problema degli usi differenti del termine “inconscio”, problema che tocca un punto teorico fondamentale, Freud si sofferma più volte in questa prima serie di lezioni; vedi nelle lezioni 7, 12, 13, 14, 19 e 27, in OSF, vol. 8. Ma egli non giungerà a chiarirlo completamente che negli anni seguenti, nello scritto L’Io e l’Es cit. La nuova soluzione verrà spiegata nella seconda serie di lezioni: vedi Introduzione alla psicoanalisi (nuova serie di lezioni) cit., lezione 31.]"
                         ],
-                        "kindlepage": "8292"
+                        "kindlepage": "8292",
+                        "book": "freud.opere-complete-kindle"
                     }
                 },
                 {
@@ -2583,7 +2603,8 @@
                         "lines": [
                             "Nel corso di questa trasformazione [da energia libera a legata] non si può tener conto dello sviluppo del dispiacere, ma non per questo il principio di piacere è sospeso. Al contrario, la trasformazione avviene al servizio del principio di piacere; il legamento è un atto preparatorio che introduce e assicura il dominio del principio di piacere."
                         ],
-                        "kindlepage": "5703"
+                        "kindlepage": "5703",
+                        "book": "freud.opere-complete-kindle"
                     }
                 }
             ],
@@ -2615,7 +2636,8 @@
                         "lines": [
                             "le rappresentazioni sono investimenti – sostanzialmente di tracce mnestiche –, mentre gli affetti e i sentimenti corrispondono a processi di scarica, le cui manifestazioni ultime vengono percepite come sensazioni [interiori]."
                         ],
-                        "kindlepage": "4671"
+                        "kindlepage": "4671",
+                        "book": "freud.opere-complete-kindle"
                     }
                 },
                 {
@@ -2624,7 +2646,8 @@
                         "lines": [
                             "le dotazioni di energia si presentano sotto due forme, talché bisogna distinguere fra due tipi di investimento dei sistemi psichici (o dei loro elementi): un investimento liberamente fluttuante che tende alla scarica, e un investimento quiescente. Possiamo forse supporre che il processo mediante il quale l’energia che affluisce nell’apparato psichico viene “legata” consista in un passaggio dallo stato liberamente fluttuante allo stato quiescente."
                         ],
-                        "kindlepage": "5665-5666"
+                        "kindlepage": "5665-5666",
+                        "book": "freud.opere-complete-kindle"
                     }
                 },
                 {
@@ -2665,7 +2688,8 @@
                                 "lines": [
                                     "Tuttavia anche l’Io soggiace all’azione delle pulsioni come l’Es, di cui è soltanto una parte che ha subito una particolare modificazione."
                                 ],
-                                "kindlepage": "5983"
+                                "kindlepage": "5983",
+                                "book": "freud.opere-complete-kindle"
                             }
                         }
                     ]
@@ -2747,7 +2771,8 @@
                         "lines": [
                             "Chiamiamo così – considerandola una grandezza quantitativa, anche se per ora non misurabile – l’energia delle pulsioni attinenti a tutto ciò che può esser compendiato nella parola “amore”."
                         ],
-                        "kindleloc": "79959-79960"
+                        "kindleloc": "79959-79960",
+                        "book": "freud.opere-complete-kindle"
                     }
                 },
                 {
@@ -2818,7 +2843,8 @@
                         "lines": [
                             "Le esperienze sessuali dell’infanzia hanno, nell’etiologia della nevrosi ossessiva, lo stesso significato che nell’isteria, con la differenza però che qui non si tratta più di passività sessuale, bensì di aggressioni compiute traendone piacere e di partecipazione ad atti sessuali dalla quale si sia tratto piacere, cioè di attività sessuale. Questa differenza delle circostanze etiologiche è connessa con il fatto che nella nevrosi ossessiva appare preferito il sesso maschile. Del resto, in tutti i miei casi di nevrosi ossessiva ho trovato un substrato di sintomi isterici che potevano essere ricondotti a un episodio di passività sessuale precedente l’azione piacevole. Ritengo che questa coincidenza si verifichi regolarmente, e che un’aggressione sessuale precoce presupponga sempre un’esperienza precedente di seduzione subìta."
                         ],
-                        "kindlepage": "964-965"
+                        "kindlepage": "964-965",
+                        "book": "freud.opere-complete-kindle"
                     }
                 },
                 {
@@ -3016,7 +3042,8 @@
                         "lines": [
                             "L’effetto della frustrazione consiste in primo luogo nel rendere efficaci i fattori predisponenti, e sino a quel momento inoperanti. Là dove questi sono presenti in un’organizzazione sufficientemente robusta, sussiste il pericolo che la libido venga “introvertita”. La libido si distacca dalla realtà, che ha perduto valore per l’individuo, a causa dell’ostinata frustrazione che da essa gli deriva, e si rivolge alla vita fantastica nella quale crea nuove formazioni di desiderio e ravviva le tracce di formazioni precedenti, di cui si è perso il ricordo. Per l’intimo rapporto tra l’attività fantastica e il materiale infantile, rimosso e divenuto inconscio, presente in ogni individuo, e grazie alla posizione eccezionale concessa alla vita fantastica rispetto all’esame di realtà, la libido può ora spostarsi sempre più indietro, e sulla via della regressione scoprire piste infantili e perseguire mete ad esse confacenti. Quando queste aspirazioni, incompatibili con lo stato attuale dell’individuo, hanno raggiunto una sufficiente energia, si giunge necessariamente a un conflitto fra esse e l’altra parte della personalità, che è rimasta in relazione con la vita reale. Questo conflitto viene risolto mediante formazioni sintomatiche e si conclude col manifestarsi della malattia."
                         ],
-                        "kindlepage": "3839-3840"
+                        "kindlepage": "3839-3840",
+                        "book": "freud.opere-complete-kindle"
                     }
                 }
             ],
@@ -3194,7 +3221,8 @@
                         "lines": [
                             "quegli eccitamenti interni che provocano un eccessivo aumento del dispiacere sono trattati in un modo particolare: si instaura la propensione a considerarli come se non agissero dall’interno, ma dall’esterno, al fine di poter usare contro di essi gli stessi mezzi di difesa con cui il sistema si protegge contro gli stimoli esterni. È questa l’origine della proiezione, che è destinata a svolgere una funzione così importante nell’etiologia dei processi patologici."
                         ],
-                        "kindlepage": "5663"
+                        "kindlepage": "5663",
+                        "book": "freud.opere-complete-kindle"
                     }
                 }
             ],
@@ -3356,7 +3384,8 @@
                         "lines": [
                             "Una pulsione non può mai diventare oggetto della coscienza, solo l’idea che la rappresenta lo può."
                         ],
-                        "kindlepage": "4669"
+                        "kindlepage": "4669",
+                        "book": "freud.opere-complete-kindle"
                     }
                 },
                 {
@@ -3507,7 +3536,8 @@
                         "lines": [
                             "La funzione delle rappresentazioni verbali diventa ora perfettamente chiara. Per mezzo loro i processi interni di pensiero si trasformano in percezioni. È come se dovesse essere dimostrata la tesi che ogni sapere proviene dalla percezione esterna. Quando si verifica un sovrainvestimento dell’attività di pensiero, i pensieri vengono effettivamente percepiti come provenienti dall’esterno, e perciò considerati veri."
                         ],
-                        "kindlepage": "5965"
+                        "kindlepage": "5965",
+                        "book": "freud.opere-complete-kindle"
                     }
                 }
             ],
@@ -3543,7 +3573,8 @@
                         "lines": [
                             "[..] non solo queste persone non sopportano alcuna lode o apprezzamento, ma reagiscono ai progressi della cura in modo rovesciato. Ogni soluzione parziale da cui dovrebbe risultare, come in effetti risulta con altri, un miglioramento o una temporanea remissione dei sintomi, suscita in costoro un momentaneo rafforzamento della sofferenza: peggiorano durante il trattamento invece di migliorare. Essi manifestano la cosiddetta “reazione terapeutica negativa”."
                         ],
-                        "kindlepage": "5994-5995"
+                        "kindlepage": "5994-5995",
+                        "book": "freud.opere-complete-kindle"
                     }
                 }
             ],
@@ -4041,7 +4072,8 @@
                         "lines": [
                             "La percezione interna fornisce sensazioni relative a processi appartenenti ai più svariati, e certamente anche ai più profondi strati dell’apparato psichico. [..] Queste sensazioni sono più primordiali, più elementari delle sensazioni provenienti dall’esterno, e possono prodursi anche in stati di coscienza crepuscolare."
                         ],
-                        "kindlepage": "5963"
+                        "kindlepage": "5963",
+                        "book": "freud.opere-complete-kindle"
                     }
                 }
             ],
@@ -4077,7 +4109,8 @@
                         "lines": [
                             "Poiché la coscienza fornisce essenzialmente percezioni di eccitamenti che provengono dal mondo esterno, nonché sensazioni di piacere e dispiacere che possono solo derivare dall’interno dell’apparato psichico, si può assegnare al sistema P-C una collocazione spaziale. Esso dovrà trovarsi al confine tra l’esterno e l’interno, essere rivolto al mondo esterno e includere gli altri sistemi psichici."
                         ],
-                        "kindlepage": "5657"
+                        "kindlepage": "5657",
+                        "book": "freud.opere-complete-kindle"
                     }
                 }
             ],
@@ -4123,7 +4156,8 @@
                         "lines": [
                             "La novità che richiede un chiarimento sta nel fatto che questa parte dell’Io ha un rapporto meno stretto con la coscienza."
                         ],
-                        "kindlepage": "5970"
+                        "kindlepage": "5970",
+                        "book": "freud.opere-complete-kindle"
                     }
                 }
             ],
@@ -4195,7 +4229,8 @@
                         "lines": [
                             "Chiamiamo “traumatici” quegli eccitamenti che provengono dall’esterno e sono abbastanza forti da spezzare lo scudo protettivo. Penso che il concetto di trauma implichi quest’idea di una breccia inferta nella barriera protettiva che di norma respinge efficacemente gli stimoli dannosi. Un evento come il trauma esterno provocherà certamente un enorme disturbo nell’economia energetica dell’organismo, e mobiliterà tutti i possibili mezzi di difesa. Nello stesso tempo, il principio di piacere in un primo momento è messo fuori combattimento. Non è più possibile evitare che l’apparato psichico sia sommerso da grandi masse di stimoli; sorge invece un altro compito, quello di padroneggiare lo stimolo, di “legare” psichicamente le masse di stimoli che hanno fatto irruzione nell’apparato psichico, in modo da potersene poi sbarazzare."
                         ],
-                        "kindlepage": "5664"
+                        "kindlepage": "5664",
+                        "book": "freud.opere-complete-kindle"
                     }
                 }
             ],
@@ -4251,6 +4286,13 @@
                 }
             ],
             "edition": "Il Mulino, Bologna, 1984"
+        },
+        {
+            "id": "freud.progetto.freud.opere-complete-kindle",
+            "title": null,
+            "authors": [
+                "global"
+            ]
         }
     ],
     "articles": [

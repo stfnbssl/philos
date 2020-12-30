@@ -1,311 +1,367 @@
 layouts/muiPage( theme )
 
-  $append headstyles
-    $include styles/authors
+    $append headstyles
+        $include styles/authors
+        $include styles/blockquotes
 
-  $append bodyscripts
-    scripts/loadjson()
-    scripts/conceptDb()
-    $$ js ${site.jsonURL}//first.philos.extended.jsonvar.js
+    $append bodyscripts
+        scripts/loadjson()
+        scripts/conceptDb()
+        $$ js ${site.jsonURL}//first.philos.extended.jsonvar.js
 
-  $append imports
-    const drawerWidth = 240
+    $append imports
+        const drawerWidth = 240
 
-  $append components
-    components/commons()
-    components/content()
-    components/fields()
-    components/schools()
-    components/theories()
-    components/concepts()
-    components/authors()
-    components/groups()
-    components/places()
-    components/pubblications()
+    $append components
+        components/commons()
+        components/content()
+        components/fields()
+        components/schools()
+        components/theories()
+        components/concepts()
+        components/authors()
+        components/groups()
+        components/places()
+        components/pubblications()
 
-  $append styles
-    { root
-        @ display 'flex'
-    { appBar
-        @ transition
-            _ theme.transitions.create
-                [ 
+    $append styles
+        { root
+            @ display 'flex'
+        { appBar
+            @ transition
+                _ theme.transitions.create
+                    [ 
+                        @ 'margin'
+                        @ 'width'
+                    { 
+                        @ easing theme.transitions.easing.sharp
+                        @ duration theme.transitions.duration.leavingScreen
+        { appBarShift
+            @ width
+                `lit 
+                    + calc(100% - \b
+                    @ drawerWidth
+                    + px)
+            @ marginLeft drawerWidth
+            @ transition
+                _ theme.transitions.create
+                    [ 
+                        @ 'margin'
+                        @ 'width'
+                    { 
+                        @ easing theme.transitions.easing.easeOut
+                        @ duration theme.transitions.duration.enteringScreen
+        { menuButton
+            @ marginLeft 12
+            @ marginRight 20
+        { hide
+            @ display 'none'
+        { drawer
+            @ width drawerWidth
+            @ flexShrink 0
+        { drawerPaper
+            @ width drawerWidth
+        { drawerHeader
+            @ display 'flex'
+            @ alignItems 'center'
+            @ padding '0 8px'
+            @ ...theme.mixins.toolbar
+            @ justifyContent 'flex-end'
+        { title
+            @ flexGrow 1
+        { db
+            @ padding '0 20px'
+        { content
+            @ flexGrow 1
+            @ padding theme.spacing.unit * 3
+            @ transition
+                _ theme.transitions.create
                     @ 'margin'
-                    @ 'width'
-                { 
-                    @ easing theme.transitions.easing.sharp
-                    @ duration theme.transitions.duration.leavingScreen
-    { appBarShift
-        @ width
-            `lit 
-                + calc(100% - \b
-                @ drawerWidth
-                + px)
-        @ marginLeft drawerWidth
-        @ transition
-            _ theme.transitions.create
-                [ 
+                    { 
+                        @ easing theme.transitions.easing.sharp
+                        @ duration theme.transitions.duration.leavingScreen
+            @ marginLeft -drawerWidth
+        { contentShift
+            @ transition
+                _ theme.transitions.create
                     @ 'margin'
-                    @ 'width'
-                { 
-                    @ easing theme.transitions.easing.easeOut
-                    @ duration theme.transitions.duration.enteringScreen
-    { menuButton
-        @ marginLeft 12
-        @ marginRight 20
-    { hide
-        @ display 'none'
-    { drawer
-        @ width drawerWidth
-        @ flexShrink 0
-    { drawerPaper
-        @ width drawerWidth
-    { drawerHeader
-        @ display 'flex'
-        @ alignItems 'center'
-        @ padding '0 8px'
-        @ ...theme.mixins.toolbar
-        @ justifyContent 'flex-end'
-    { content
-        @ flexGrow 1
-        @ padding theme.spacing.unit * 3
-        @ transition
-            _ theme.transitions.create
-                @ 'margin'
-                { 
-                    @ easing theme.transitions.easing.sharp
-                    @ duration theme.transitions.duration.leavingScreen
-        @ marginLeft -drawerWidth
-    { contentShift
-        @ transition
-            _ theme.transitions.create
-                @ 'margin'
-                { 
-                    @ easing theme.transitions.easing.easeOut
-                    @ duration theme.transitions.duration.enteringScreen
-        @ marginLeft 0
+                    { 
+                        @ easing theme.transitions.easing.easeOut
+                        @ duration theme.transitions.duration.enteringScreen
+            @ marginLeft 0
+        { philos
+            @ fontSize '2em'
+            @ fontWeight '700'
 
-  $append state
-    @ isLoading true
-    @ jsonData {}
-    @ error null
-    @ open false
-    @ selectedView 'Synopsis'
+    $append state
+        @ isLoading true
+        @ jsonData {}
+        @ error null
+        @ open false
+        @ selectedView 'Synopsis'
+        @ selectedTitle ''
+        @ showArrowBack false
+        @ onArrowBack null
 
-  => handleDrawerOpen
-      _ this.setState
-          { 
-              @ open true
-  
-  => handleDrawerClose
-      _ this.setState
-          { 
-              @ open false
-
-  => handleSelectView
-      param event
-      param name
-      _ this.setState
-          { 
-              @ selectedView name
-
-  did-mount
-    if false
+    => handleDrawerOpen
         _ this.setState
-            {
-                @ jsonData jsonData
-                @ isLoading false
-                @ error null
-    else
-        var that = this
-        _ loadJSON
-            @ "${site.jsonURL}/first.philos.extended.json"
-            function
-                param response 
-                # Do Something with the response e.g.
-                var jsonresponse = JSON.parse(response)
-                # log 'from did mount', jsonresponse
-                _ that.setState
+            { 
+                @ open true
+  
+    => handleDrawerClose
+        _ this.setState
+            { 
+                @ open false
+
+    => handleSelectView
+        param event
+        param name
+        _ this.setState
+            { 
+                @ selectedView name
+
+    => handleChangeCurrent
+        param current
+        param onArrowBack
+        _ this.setState
+            =>
+                param prevState
+                return
                     {
-                        @ jsonData jsonresponse
-                        @ isLoading false
-                        @ error null
+                        @ ...prevState
+                        @ showArrowBack current.depth > 0
+                        @ selectedTitle current.title
+                        @ onArrowBack onArrowBack
 
-  render
-    prop classes
-    prop theme
-    const 
-        { 
-            @ isLoading
-            @ jsonData
-            @ error
-            @ open
-            @ selectedView
-        = this.state
-    const dbTitle = 'Freud'
-    return 
-        div 
-            @ className {classes.root}
-            < CssBaseline 
-            < AppBar 
-                @ position "fixed"
-                @ className
-                    _ classNames
-                        @ classes.appBar
-                        { 
-                            @ [classes.appBarShift] open
-                < Toolbar 
-                    @ disableGutters {!open}
-                    < IconButton 
-                        @ color "inherit"
-                        @ aria-label "Open drawer"
-                        @ onClick {this.handleDrawerOpen}
-                        @ className {classNames(classes.menuButton, open && classes.hide)}
-                        < Icon 
-                          + menu
-                    < Typography 
-                        @ variant "h6"
-                        @ color "inherit"
-                        @ noWrap
-                        + {dbTitle}
-            < Drawer 
-                @ className {classes.drawer}
-                @ variant "persistent"
-                @ anchor "left"
-                @ open {open}
-                @ classes
-                    { 
-                        @ paper classes.drawerPaper
-                div 
-                    @ className {classes.drawerHeader}
-                    span Concept Db
-                    < IconButton 
-                        @ onClick {this.handleDrawerClose}
-                        { 
-                            iif theme.direction === 'ltr'
-                                then
+    => handleArrowBack
+        if this.state.onArrowBack 
+            _ this.state.onArrowBack
+
+    did-mount
+    
+        if false
+            _ this.setState
+                {
+                    @ jsonData jsonData
+                    @ isLoading false
+                    @ error null
+        else
+            _ loadJSON
+                @ "${site.jsonURL}/first.philos.extended.json"
+                =>
+                    param response 
+                    var jsonresponse = JSON.parse(response)
+                    # log 'from did mount', jsonresponse
+                    _ this.setState
+                        =>
+                            param prevState
+                            return
+                                {
+                                    @ ...prevState
+                                    @ jsonData jsonresponse
+                                    @ isLoading false
+                                    @ error null
+
+    render
+        prop classes
+        prop theme
+        const 
+            { 
+                @ isLoading
+                @ jsonData
+                @ error
+                @ open
+                @ selectedView
+                @ selectedTitle
+                @ showArrowBack
+            = this.state
+        const dbTitle = 'Freud'
+        return 
+            div 
+                @ className {classes.root}
+                < CssBaseline 
+                < AppBar 
+                    @ position "fixed"
+                    @ className
+                        _ classNames
+                            @ classes.appBar
+                            { 
+                                @ [classes.appBarShift] open
+                    < Toolbar 
+                        @ disableGutters {!open}
+                        < IconButton 
+                            @ color "inherit"
+                            @ aria-label "Open drawer"
+                            @ onClick {this.handleDrawerOpen}
+                            @ className {classNames(classes.menuButton, open && classes.hide)}
+                            < Icon 
+                                + menu
+                        {
+                            &&
+                                + showArrowBack
+                                < IconButton 
+                                    @ color "inherit"
+                                    @ aria-label "Go back"
+                                    @ onClick {this.handleArrowBack}
+                                    @ className {classNames(classes.menuButton)}
                                     < Icon 
-                                      + chevron_left
-                                else
-                                    < Icon 
-                                      + chevron_right
-
-                < Divider 
-                < List 
-                    { 
-                        [ 
-                            @ 'Panoramica'
-                            @ 'Schema'
-                            ._ map
-                                => 
-                                    param text
-                                    param index
-                                    < ListItem 
-                                        @ button
-                                        @ key {text}
-                                        @ onClick
-                                            =>
-                                                param event
-                                                _ this.handleSelectView(event, text)
-                                        < ListItemIcon 
-                                            { 
-                                                iif index % 2 === 0
-                                                    then
-                                                        < Icon 
-                                                          + inbox
-                                                    else
-                                                        < Icon 
-                                                          + mail
-                                        < ListItemText 
-                                            @ primary {text}
-
-                < Divider 
-                < List 
-                    { 
-                        [ 
-                            @ 'Campi'
-                            @ 'Scuole'
-                            @ 'Teorie'
-                            @ 'Concetti'
-                            @ 'Autori'
-                            @ 'Gruppi'
-                            @ 'Luoghi'
-                            @ 'Testi'
-                            ._ map
-                                => 
-                                    param text
-                                    param index
-                                    < ListItem 
-                                        @ button
-                                        @ key {text}
-                                        @ onClick
-                                            =>
-                                                param event
-                                                _ this.handleSelectView(event, text)
-                                        < ListItemIcon 
-                                            { 
-                                                iif index % 2 === 0
-                                                    then
-                                                        < Icon 
-                                                          + inbox
-                                                    else
-                                                        < Icon 
-                                                          + mail
-                                        < ListItemText 
-                                            @ primary {text}
-            main
-                @ className
-                    _ classNames
-                        @ classes.content
+                                        + arrow_back
+                        < Typography
+                            @ variant "h6"
+                            @ color "inherit"
+                            @ noWrap
+                            @ edge "end"
+                            @ className {classes.title}
+                            + {selectedTitle}
+                        < Typography 
+                            @ variant "h6"
+                            @ color "inherit"
+                            @ noWrap
+                            @ edge "end"
+                            @ className {classes.db}
+                            + {dbTitle} DB
+                < Drawer 
+                    @ className {classes.drawer}
+                    @ variant "persistent"
+                    @ anchor "left"
+                    @ open {open}
+                    @ classes
                         { 
-                            @ [classes.contentShift] open
-                div 
-                    @ className {classes.drawerHeader}
-                {
-                    && 
-                        + selectedView == 'Panoramica'
-                        p Panoramica
-                {
-                    && 
-                        + selectedView == 'Schema'
-                        p Schema
-                {
-                    &&
-                        + selectedView == 'Campi' && isLoading == false
-                        < FieldList
-                            @ jsonData {jsonData}
-                {
-                    &&
-                        + selectedView == 'Scuole' && isLoading == false
-                        < SchoolList
-                            @ jsonData {jsonData}
-                {
-                    &&
-                        + selectedView == 'Teorie' && isLoading == false
-                        < TheoryList
-                            @ jsonData {jsonData}
-                {
-                    &&
-                        + selectedView == 'Concetti' && isLoading == false
-                        < ConceptList
-                            @ jsonData {jsonData}
-                {
-                    &&
-                        + selectedView == 'Autori' && isLoading == false
-                        < AuthorList
-                            @ jsonData {jsonData}
-                {
-                    &&
-                        + selectedView == 'Gruppi' && isLoading == false
-                        < GroupList
-                            @ jsonData {jsonData}
-                {
-                    &&
-                        + selectedView == 'Luoghi' && isLoading == false
-                        < PlaceList
-                            @ jsonData {jsonData}
-                {
-                    &&
-                        + selectedView == 'Testi' && isLoading == false
-                        < PublicationList
-                            @ jsonData {jsonData}
+                            @ paper classes.drawerPaper
+                    div 
+                        @ className {classes.drawerHeader}
+                        span PHILOS
+                            @ className {classes.philos}
+                        < IconButton 
+                            @ onClick {this.handleDrawerClose}
+                            { 
+                                iif theme.direction === 'ltr'
+                                    then
+                                        < Icon 
+                                            + chevron_left
+                                    else
+                                        < Icon 
+                                            + chevron_right
+
+                    < Divider 
+                    < List 
+                        { 
+                            [ 
+                                @ 'Panoramica'
+                                @ 'Schema'
+                                ._ map
+                                    => 
+                                        param text
+                                        param index
+                                        < ListItem 
+                                            @ button
+                                            @ key {text}
+                                            @ disabled {[].indexOf(text) < 0}
+                                            @ onClick
+                                                =>
+                                                    param event
+                                                    _ this.handleSelectView(event, text)
+                                            < ListItemIcon 
+                                                { 
+                                                    iif index % 2 === 0
+                                                        then
+                                                            < Icon 
+                                                                + inbox
+                                                        else
+                                                            < Icon 
+                                                                + mail
+                                            < ListItemText 
+                                                @ primary {text}
+
+                    < Divider 
+                    < List 
+                        { 
+                            [ 
+                                @ 'Campi'
+                                @ 'Scuole'
+                                @ 'Teorie'
+                                @ 'Concetti'
+                                @ 'Autori'
+                                @ 'Gruppi'
+                                @ 'Luoghi'
+                                @ 'Testi'
+                                ._ map
+                                    => 
+                                        param text
+                                        param index
+                                        < ListItem 
+                                            @ button
+                                            @ key {text}
+                                            @ disabled {['Concetti', 'Autori', 'Testi'].indexOf(text) < 0}
+                                            @ onClick
+                                                =>
+                                                    param event
+                                                    _ this.handleSelectView(event, text)
+                                            < ListItemIcon 
+                                                { 
+                                                    iif index % 2 === 0
+                                                        then
+                                                            < Icon 
+                                                                + inbox
+                                                        else
+                                                            < Icon 
+                                                                + mail
+                                            < ListItemText 
+                                                @ primary {text}
+                main
+                    @ className
+                        _ classNames
+                            @ classes.content
+                            { 
+                                @ [classes.contentShift] open
+                    div 
+                        @ className {classes.drawerHeader}
+                    {
+                        && 
+                            + selectedView == 'Panoramica'
+                            p Panoramica
+                    {
+                        && 
+                            + selectedView == 'Schema'
+                            p Schema
+                    {
+                        &&
+                            + selectedView == 'Campi' && isLoading == false
+                            < FieldList
+                                @ jsonData {jsonData}
+                    {
+                        &&
+                            + selectedView == 'Scuole' && isLoading == false
+                            < SchoolList
+                                @ jsonData {jsonData}
+                    {
+                        &&
+                            + selectedView == 'Teorie' && isLoading == false
+                            < TheoryList
+                                @ jsonData {jsonData}
+                    {
+                        &&
+                            + selectedView == 'Concetti' && isLoading == false
+                            < ConceptList
+                                @ jsonData {jsonData}
+                                @ onChangeCurrent {this.handleChangeCurrent}
+                    {
+                        &&
+                            + selectedView == 'Autori' && isLoading == false
+                            < AuthorList
+                                @ jsonData {jsonData}
+                    {
+                        &&
+                            + selectedView == 'Gruppi' && isLoading == false
+                            < GroupList
+                                @ jsonData {jsonData}
+                    {
+                        &&
+                            + selectedView == 'Luoghi' && isLoading == false
+                            < PlaceList
+                                @ jsonData {jsonData}
+                    {
+                        &&
+                            + selectedView == 'Testi' && isLoading == false
+                            < PublicationList
+                                @ jsonData {jsonData}

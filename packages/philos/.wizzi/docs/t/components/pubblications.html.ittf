@@ -85,6 +85,7 @@ $group
                                 < DetailBar
                                     @ title {selectedItem.title}
                                     @ id {selectedItem.id}
+                                    @ showFullBar {true}
                                     @ onClick 
                                         =>
                                             _ this.handleBookClose()
@@ -99,6 +100,7 @@ $group
                                 < DetailBar
                                     @ title {selectedItem.title}
                                     @ id {selectedItem.id}
+                                    @ showFullBar {true}
                                     @ onClick 
                                         =>
                                             _ this.handleArticleClose()
@@ -205,3 +207,4 @@ $group
                                 set text = (i > 0 ? ', ' : '') + authObj.fullname
                             return
                                 span {text}
+                                    @ key {i}

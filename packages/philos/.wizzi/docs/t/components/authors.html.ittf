@@ -58,6 +58,7 @@ $group
                                     < DetailBar
                                         @ title {selectedItem.fullname}
                                         @ id {selectedItem.id}
+                                        @ showFullBar {true}
                                         @ onClick
                                             =>
                                                 _ this.handleAuthorClose()

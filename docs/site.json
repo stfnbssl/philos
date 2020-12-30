@@ -58,6 +58,10 @@
     },
     "Styles": {
         "palette": {
+            "blockquote": {
+                "background": "#fff",
+                "color": "#00CC8F"
+            },
             "dark_1": {
                 "backStrong": "#463A30",
                 "backMedium": "#827769",

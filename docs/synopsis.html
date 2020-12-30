@@ -6,6 +6,7 @@
     <meta name="viewport" content="minimum-scale=1, initial-scale=1, width=device-width, shrink-to-fit=no" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/4.4.1/css/ionicons.min.css" />
     <style>
         .root {
             padding: 10px;
@@ -192,9 +193,16 @@
         }
         function Quote(props) {
             var {item, jsonData} = props;
-            var articleObj = null;
-            if (item.article) {
-                articleObj = dbGetArticle(item.article, jsonData);
+            var page = null;
+            // log 'Quote', item
+            if (item.page) {
+                page = 'pag. ' + item.page;
+            }
+            else if (item.kindlepage) {
+                page = 'kindle pag. ' + item.kindlepage;
+            }
+            else if (item.kindleloc) {
+                page = 'kindle loc. ' + item.kindleloc;
             }
             return  (
                     <blockquote>
@@ -207,50 +215,130 @@
                                 )
                             ;
                         })
-                    }<div>
-                        {item.author}
-                        </div>
-                    
-                        <QuoteArticle articleObj={articleObj || item.article}>
-                        </QuoteArticle>
+                    }<cite>
+                        {
+                            item.article && item.article.length > 0 &&  (
+                                <QuoteArticle id={item.article} page={page} jsonData={jsonData}>
+                                </QuoteArticle>
+                            )
+                            
+                        }{
+                            item.book && item.book.length > 0 &&  (
+                                <QuoteBook id={item.book} page={page} jsonData={jsonData}>
+                                </QuoteBook>
+                            )
+                            
+                        }</cite>
                     
                     </blockquote>
                 )
             ;
         }
         function QuoteArticle(props) {
-            var {articleObj} = props;
-            if (!articleObj) {
-                return null;
+            var {id, page, jsonData} = props;
+            var title = id, author = null;
+            // log 'QuoteArticle', id, page
+            var articleObj = dbGetArticle(id, jsonData);
+            // log 'QuoteArticle.articleObj', articleObj
+            if (articleObj) {
+                var authorsObj = dbGetAuthors(articleObj.authors, jsonData);
+                title = articleObj.title || articleObj.url || articleObj.id;
+                // log 'QuoteArticle.title', title
+                if (authorsObj.length > 0) {
+                    author = authorsObj[0].fullname;
+                }
+                else {
+                    if (authorsObj.book) {
+                        var bookObj = dbGetBook(authorsObj.book, jsonData);
+                        if (bookObj) {
+                            var authorsObj = dbGetAuthors(bookObj.authors, jsonData);
+                            if (authorsObj.length > 0) {
+                                author = authorsObj[0].fullname;
+                            }
+                        }
+                    }
+                    else {
+                        author = 'missing author';
+                    }
+                }
             }
-            if (!articleObj.title) {
-                return  (
-                        <div>
-                        unknown article: {articleObj.id}
-                        </div>
-                    )
-                ;
+            else {
+                title = 'missing article: '+ title;
+                author = 'missing author';
             }
             return  (
                     <div>
-                        <span>
-                        articleObj.authorName
-                        </span>
+                    {author}, {title} {page && ','} {page}
+                    </div>
+                )
+            ;
+        }
+        function QuoteBook(props) {
+            var {id, page, jsonData} = props;
+            var title = id, author = null;
+            var bookObj = dbGetBook(id, jsonData);
+            // log 'QuoteBook', id, page
+            if (bookObj) {
+                // log 'QuoteBook.bookObj.authors', bookObj.authors
+                var authorsObj = dbGetAuthors(bookObj.authors, jsonData);
+                // log 'QuoteBook.authorsObj', authorsObj
+                title = bookObj.title || bookObj.url || bookObj.id;
+                if (authorsObj.length > 0) {
+                    author = authorsObj[0].fullname;
+                }
+                else {
+                    author = 'missing author';
+                }
+            }
+            else {
+                title = title + ' missing article';
+                author = 'missing author';
+            }
+            return  (
+                    <div>
+                    {author}, {title} {page && ','} {page}
+                    </div>
+                )
+            ;
+        }
+        function RConcept(props) {
+            var {item, jsonData, handleOpen} = props;
+            var {id} = item;
+            var conceptObj = dbGetConcept(id, jsonData);
+            // log 'RConcept.conceptObj', id, conceptObj
+            var conceptTitle = conceptObj ? dbExtractTitleText(conceptObj.title) : 'missing concept: ' + id;
+            return  (
+                    <div className="rc-box">
+                        <div>
+                            <div className={conceptObj ? 'rc-ref-pointer' : 'rc-ref'} onClick={(ev) => {
+                                if (conceptObj) {
+                                    handleOpen(ev, conceptObj);
+                                }
+                            }}>
+                                <span>
+                                Si veda &nbsp;
+                                </span>
+                            
+                                <span>
+                                {conceptTitle}
+                                </span>
+                            
+                            </div>
+                        
+                        </div>
                     
-                        <span>
-                        , &nbsp;
-                        </span>
-                    
-                        <span>
-                        articleObj.title
-                        </span>
+                        <div className="rc-content">
+                            <ContentText item={item} jsonData={jsonData}>
+                            </ContentText>
+                        
+                        </div>
                     
                     </div>
                 )
             ;
         }
         function ContentText(props) {
-            var {item, jsonData} = props;
+            var {item, jsonData, handleOpen} = props;
             if (item.contents && item.contents.length > 0) {
                 return  (
                         <div>
@@ -268,6 +356,13 @@
                                     return  (
                                             <Quote key={i} item={token.quote} jsonData={jsonData}>
                                             </Quote>
+                                        )
+                                    ;
+                                }
+                                else if (token.kind == "rconcept") {
+                                    return  (
+                                            <RConcept key={i} item={token} handleOpen={handleOpen} jsonData={jsonData}>
+                                            </RConcept>
                                         )
                                     ;
                                 }
@@ -332,7 +427,7 @@
                             }{
                                 status == 'author' &&  (
                                     <div>
-                                        <DetailBar title={selectedItem.fullname} id={selectedItem.id} onClick={() =>
+                                        <DetailBar title={selectedItem.fullname} id={selectedItem.id} showFullBar={true} onClick={() =>
                                             this.handleAuthorClose()}>
                                         </DetailBar>
                                     
@@ -553,7 +648,7 @@
                         }{
                             status == 'book' &&  (
                                 <div>
-                                    <DetailBar title={selectedItem.title} id={selectedItem.id} onClick={() =>
+                                    <DetailBar title={selectedItem.title} id={selectedItem.id} showFullBar={true} onClick={() =>
                                         this.handleBookClose()}>
                                     </DetailBar>
                                 
@@ -566,7 +661,7 @@
                         }{
                             status == 'article' &&  (
                                 <div>
-                                    <DetailBar title={selectedItem.title} id={selectedItem.id} onClick={() =>
+                                    <DetailBar title={selectedItem.title} id={selectedItem.id} showFullBar={true} onClick={() =>
                                         this.handleArticleClose()}>
                                     </DetailBar>
                                 
@@ -694,7 +789,7 @@
                                 text = (i > 0 ? ', ' : '') + authObj.fullname;
                             }
                             return  (
-                                    <span>
+                                    <span key={i}>
                                     {text}
                                     </span>
                                 )

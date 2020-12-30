@@ -54,7 +54,7 @@
                 {
                     "wzElement": "avatar",
                     "wzTag": "avatar",
-                    "wzName": "https://upload.wikimedia.org/wikipedia/commons/1/12/Sigmund_Freud_LIFE.jpg",
+                    "wzName": "./assets/img/authors/Freud.jpg",
                     "items": []
                 },
                 {
@@ -117,7 +117,7 @@
                 {
                     "wzElement": "avatar",
                     "wzTag": "avatar",
-                    "wzName": "https://www.people.hps.cam.ac.uk/index/resolveuid/ad23c18ccad3474583a9a5c4b418e9b4",
+                    "wzName": "./assets/img/authors/Forrester.jpg",
                     "items": []
                 },
                 {
@@ -180,7 +180,7 @@
                 {
                     "wzElement": "avatar",
                     "wzTag": "avatar",
-                    "wzName": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+                    "wzName": "./assets/img/authors/No_image_available.svg",
                     "items": []
                 },
                 {
@@ -510,6 +510,12 @@
                                     "wzTag": "kindle-loc",
                                     "wzName": "12506-12516",
                                     "items": []
+                                },
+                                {
+                                    "wzElement": "book",
+                                    "wzTag": "book",
+                                    "wzName": "freud.opere-complete-kindle",
+                                    "items": []
                                 }
                             ]
                         },
@@ -715,7 +721,7 @@
                                 {
                                     "wzElement": "book",
                                     "wzTag": "book",
-                                    "wzName": "freud.opere-complete",
+                                    "wzName": "freud.opere-complete-kindle",
                                     "items": []
                                 },
                                 {
@@ -757,15 +763,15 @@
                                     "items": []
                                 },
                                 {
-                                    "wzElement": "book",
-                                    "wzTag": "book",
-                                    "wzName": "freud.opere-complete",
-                                    "items": []
-                                },
-                                {
                                     "wzElement": "kindlepage",
                                     "wzTag": "kindle-page",
                                     "wzName": "887",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "book",
+                                    "wzTag": "book",
+                                    "wzName": "freud.opere-complete-kindle",
                                     "items": []
                                 }
                             ]
@@ -1433,7 +1439,7 @@
                                 {
                                     "wzElement": "title",
                                     "wzTag": "title",
-                                    "wzName": "Neuroni del pallio",
+                                    "wzName": "Neuroni ψ del pallio",
                                     "items": []
                                 },
                                 {
@@ -1452,7 +1458,7 @@
                                 {
                                     "wzElement": "title",
                                     "wzTag": "title",
-                                    "wzName": "Neuroni nucleari",
+                                    "wzName": "Neuroni ψ nucleari",
                                     "items": []
                                 },
                                 {
@@ -1860,6 +1866,12 @@
                             "wzTag": "kindle-loc",
                             "wzName": "105368-105370",
                             "items": []
+                        },
+                        {
+                            "wzElement": "book",
+                            "wzTag": "book",
+                            "wzName": "freud.opere-complete-kindle",
+                            "items": []
                         }
                     ]
                 }
@@ -2070,6 +2082,12 @@
                                     "wzElement": "kindlepage",
                                     "wzTag": "kindle-page",
                                     "wzName": "886-887",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "book",
+                                    "wzTag": "book",
+                                    "wzName": "freud.opere-complete-kindle",
                                     "items": []
                                 }
                             ]
@@ -2597,6 +2615,12 @@
                                                     "wzTag": "kindle-loc",
                                                     "wzName": "65273",
                                                     "items": []
+                                                },
+                                                {
+                                                    "wzElement": "book",
+                                                    "wzTag": "book",
+                                                    "wzName": "freud.opere-complete-kindle",
+                                                    "items": []
                                                 }
                                             ]
                                         }
@@ -2810,6 +2834,12 @@
                                     "wzTag": "kindle-page",
                                     "wzName": "p. 5062",
                                     "items": []
+                                },
+                                {
+                                    "wzElement": "book",
+                                    "wzTag": "book",
+                                    "wzName": "freud.opere-complete-kindle",
+                                    "items": []
                                 }
                             ]
                         },
@@ -2828,6 +2858,12 @@
                                     "wzElement": "kindlepage",
                                     "wzTag": "kindle-page",
                                     "wzName": "6419",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "book",
+                                    "wzTag": "book",
+                                    "wzName": "freud.opere-complete-kindle",
                                     "items": []
                                 }
                             ]
@@ -2848,6 +2884,12 @@
                                     "wzTag": "kindle-page",
                                     "wzName": "6425",
                                     "items": []
+                                },
+                                {
+                                    "wzElement": "book",
+                                    "wzTag": "book",
+                                    "wzName": "freud.opere-complete-kindle",
+                                    "items": []
                                 }
                             ]
                         },
@@ -2866,6 +2908,12 @@
                                     "wzElement": "kindlepage",
                                     "wzTag": "kindle-page",
                                     "wzName": "6429",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "book",
+                                    "wzTag": "book",
+                                    "wzName": "freud.opere-complete-kindle",
                                     "items": []
                                 }
                             ]
@@ -2886,6 +2934,12 @@
                                     "wzTag": "kindle-page",
                                     "wzName": "6429-6430",
                                     "items": []
+                                },
+                                {
+                                    "wzElement": "book",
+                                    "wzTag": "book",
+                                    "wzName": "freud.opere-complete-kindle",
+                                    "items": []
                                 }
                             ]
                         },
@@ -2904,6 +2958,12 @@
                                     "wzElement": "kindlepage",
                                     "wzTag": "kindle-page",
                                     "wzName": "6431-6432",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "book",
+                                    "wzTag": "book",
+                                    "wzName": "freud.opere-complete-kindle",
                                     "items": []
                                 }
                             ]
@@ -2940,6 +3000,12 @@
                                             "wzElement": "kindlepage",
                                             "wzTag": "kindle-page",
                                             "wzName": "6428",
+                                            "items": []
+                                        },
+                                        {
+                                            "wzElement": "book",
+                                            "wzTag": "book",
+                                            "wzName": "freud.opere-complete-kindle",
                                             "items": []
                                         }
                                     ]
@@ -2979,6 +3045,12 @@
                                             "wzTag": "kindle-page",
                                             "wzName": "6428",
                                             "items": []
+                                        },
+                                        {
+                                            "wzElement": "book",
+                                            "wzTag": "book",
+                                            "wzName": "freud.opere-complete-kindle",
+                                            "items": []
                                         }
                                     ]
                                 }
@@ -3010,6 +3082,12 @@
                                             "wzElement": "kindlepage",
                                             "wzTag": "kindle-page",
                                             "wzName": "6427",
+                                            "items": []
+                                        },
+                                        {
+                                            "wzElement": "book",
+                                            "wzTag": "book",
+                                            "wzName": "freud.opere-complete-kindle",
                                             "items": []
                                         }
                                     ]
@@ -3090,6 +3168,12 @@
                                     "wzTag": "kindle-loc",
                                     "wzName": "65456-65458",
                                     "items": []
+                                },
+                                {
+                                    "wzElement": "book",
+                                    "wzTag": "book",
+                                    "wzName": "freud.opere-complete-kindle",
+                                    "items": []
                                 }
                             ]
                         },
@@ -3108,6 +3192,12 @@
                                     "wzElement": "kindleloc",
                                     "wzTag": "kindle-loc",
                                     "wzName": "65478-65479",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "book",
+                                    "wzTag": "book",
+                                    "wzName": "freud.opere-complete-kindle",
                                     "items": []
                                 }
                             ]
@@ -3334,6 +3424,12 @@
                                     "wzTag": "kindle-loc",
                                     "wzName": "65164-65172",
                                     "items": []
+                                },
+                                {
+                                    "wzElement": "book",
+                                    "wzTag": "book",
+                                    "wzName": "freud.opere-complete-kindle",
+                                    "items": []
                                 }
                             ]
                         }
@@ -3417,6 +3513,12 @@
                                     "wzElement": "kindlepage",
                                     "wzTag": "kindle-page",
                                     "wzName": "4664-4665",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "book",
+                                    "wzTag": "book",
+                                    "wzName": "freud.opere-complete-kindle",
                                     "items": []
                                 }
                             ]
@@ -3561,6 +3663,12 @@
                                     "wzTag": "kindle-page",
                                     "wzName": "5960",
                                     "items": []
+                                },
+                                {
+                                    "wzElement": "book",
+                                    "wzTag": "book",
+                                    "wzName": "freud.opere-complete-kindle",
+                                    "items": []
                                 }
                             ]
                         },
@@ -3579,6 +3687,12 @@
                                     "wzElement": "kindlepage",
                                     "wzTag": "kindle-page",
                                     "wzName": "5961-5962",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "book",
+                                    "wzTag": "book",
+                                    "wzName": "freud.opere-complete-kindle",
                                     "items": []
                                 }
                             ]
@@ -4334,6 +4448,12 @@
                                     "wzTag": "kindle-page",
                                     "wzName": "5670-5671",
                                     "items": []
+                                },
+                                {
+                                    "wzElement": "book",
+                                    "wzTag": "book",
+                                    "wzName": "freud.opere-complete-kindle",
+                                    "items": []
                                 }
                             ]
                         },
@@ -4352,6 +4472,12 @@
                                     "wzElement": "kindlepage",
                                     "wzTag": "kindle-page",
                                     "wzName": "8292",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "book",
+                                    "wzTag": "book",
+                                    "wzName": "freud.opere-complete-kindle",
                                     "items": []
                                 }
                             ]
@@ -4602,6 +4728,12 @@
                                     "wzTag": "kindle-page",
                                     "wzName": "4671",
                                     "items": []
+                                },
+                                {
+                                    "wzElement": "book",
+                                    "wzTag": "book",
+                                    "wzName": "freud.opere-complete-kindle",
+                                    "items": []
                                 }
                             ]
                         },
@@ -4620,6 +4752,12 @@
                                     "wzElement": "kindlepage",
                                     "wzTag": "kindle-page",
                                     "wzName": "5665-5666",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "book",
+                                    "wzTag": "book",
+                                    "wzName": "freud.opere-complete-kindle",
                                     "items": []
                                 }
                             ]
@@ -4700,6 +4838,12 @@
                                             "wzTag": "kindle-page",
                                             "wzName": "5703",
                                             "items": []
+                                        },
+                                        {
+                                            "wzElement": "book",
+                                            "wzTag": "book",
+                                            "wzName": "freud.opere-complete-kindle",
+                                            "items": []
                                         }
                                     ]
                                 }
@@ -4745,6 +4889,12 @@
                                             "wzElement": "kindlepage",
                                             "wzTag": "kindle-page",
                                             "wzName": "5983",
+                                            "items": []
+                                        },
+                                        {
+                                            "wzElement": "book",
+                                            "wzTag": "book",
+                                            "wzName": "freud.opere-complete-kindle",
                                             "items": []
                                         }
                                     ]
@@ -4905,6 +5055,12 @@
                                     "wzTag": "kindle-loc",
                                     "wzName": "79959-79960",
                                     "items": []
+                                },
+                                {
+                                    "wzElement": "book",
+                                    "wzTag": "book",
+                                    "wzName": "freud.opere-complete-kindle",
+                                    "items": []
                                 }
                             ]
                         },
@@ -5041,6 +5197,12 @@
                                     "wzElement": "kindlepage",
                                     "wzTag": "kindle-page",
                                     "wzName": "964-965",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "book",
+                                    "wzTag": "book",
+                                    "wzName": "freud.opere-complete-kindle",
                                     "items": []
                                 }
                             ]
@@ -5321,6 +5483,12 @@
                                             "wzTag": "kindle-page",
                                             "wzName": "3839-3840",
                                             "items": []
+                                        },
+                                        {
+                                            "wzElement": "book",
+                                            "wzTag": "book",
+                                            "wzName": "freud.opere-complete-kindle",
+                                            "items": []
                                         }
                                     ]
                                 }
@@ -5586,6 +5754,12 @@
                                     "wzTag": "kindle-page",
                                     "wzName": "5663",
                                     "items": []
+                                },
+                                {
+                                    "wzElement": "book",
+                                    "wzTag": "book",
+                                    "wzName": "freud.opere-complete-kindle",
+                                    "items": []
                                 }
                             ]
                         }
@@ -5696,6 +5870,12 @@
                                     "wzElement": "kindlepage",
                                     "wzTag": "kindle-page",
                                     "wzName": "4669",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "book",
+                                    "wzTag": "book",
+                                    "wzName": "freud.opere-complete-kindle",
                                     "items": []
                                 }
                             ]
@@ -6117,6 +6297,12 @@
                                             "wzTag": "kindle-page",
                                             "wzName": "5965",
                                             "items": []
+                                        },
+                                        {
+                                            "wzElement": "book",
+                                            "wzTag": "book",
+                                            "wzName": "freud.opere-complete-kindle",
+                                            "items": []
                                         }
                                     ]
                                 }
@@ -6157,6 +6343,12 @@
                                     "wzElement": "kindlepage",
                                     "wzTag": "kindle-page",
                                     "wzName": "5994-5995",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "book",
+                                    "wzTag": "book",
+                                    "wzName": "freud.opere-complete-kindle",
                                     "items": []
                                 }
                             ]
@@ -6934,6 +7126,12 @@
                                     "wzTag": "kindle-page",
                                     "wzName": "5963",
                                     "items": []
+                                },
+                                {
+                                    "wzElement": "book",
+                                    "wzTag": "book",
+                                    "wzName": "freud.opere-complete-kindle",
+                                    "items": []
                                 }
                             ]
                         }
@@ -6998,6 +7196,12 @@
                                     "wzElement": "kindlepage",
                                     "wzTag": "kindle-page",
                                     "wzName": "5657",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "book",
+                                    "wzTag": "book",
+                                    "wzName": "freud.opere-complete-kindle",
                                     "items": []
                                 }
                             ]
@@ -7083,6 +7287,12 @@
                                     "wzElement": "kindlepage",
                                     "wzTag": "kindle-page",
                                     "wzName": "5970",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "book",
+                                    "wzTag": "book",
+                                    "wzName": "freud.opere-complete-kindle",
                                     "items": []
                                 }
                             ]
@@ -7251,6 +7461,12 @@
                                     "wzElement": "kindlepage",
                                     "wzTag": "kindle-page",
                                     "wzName": "5664",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "book",
+                                    "wzTag": "book",
+                                    "wzName": "freud.opere-complete-kindle",
                                     "items": []
                                 }
                             ]

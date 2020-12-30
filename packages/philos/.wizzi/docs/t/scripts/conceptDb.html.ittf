@@ -16,7 +16,7 @@ $group
                 param id
                 param dbParam
                 var db = dbParam || gJsonData
-                log 'dbGetAuthor', id, db.authors.join()
+                log 'dbGetAuthor', id
                 return
                     _ dbGetById
                         @ db.authors
@@ -48,4 +48,27 @@ $group
                     _ dbGetById
                         @ db.books
                         @ id
-                
+
+            function dbGetAuthors
+                param authorIdColl
+                param dbParam
+                var db = dbParam || gJsonData
+                var authorObjColl = []
+                foreach item in authorIdColl
+                    var aObj = dbGetAuthor(item, dbParam)
+                    if !aObj
+                        set aObj
+                            {
+                                @ id item.id
+                                @ fullname 'missing author info'
+                    _ authorObjColl.push
+                        @ aObj
+                return authorObjColl
+
+            function dbExtractTitleText
+                param title
+                param defaultValue
+                if !title
+                    return defaultValue
+                return title.text || defaultValue
+

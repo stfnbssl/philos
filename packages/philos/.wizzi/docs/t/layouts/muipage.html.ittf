@@ -15,6 +15,9 @@ html
       link 
           rel stylesheet
           href https://fonts.googleapis.com/icon?family=Material+Icons
+      link 
+          rel stylesheet
+          href https://cdnjs.cloudflare.com/ajax/libs/ionicons/4.4.1/css/ionicons.min.css
       @style
         . root
           @ padding 10px    

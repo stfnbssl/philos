@@ -7,7 +7,7 @@ $group
         died
             date 23/11/1939
             place Hampstead, Londra, Regno Unito
-        avatar https://upload.wikimedia.org/wikipedia/commons/1/12/Sigmund_Freud_LIFE.jpg
+        avatar ./assets/img/authors/Freud.jpg
         + Sigismund Schlomo Freud, noto come Sigmund Freud, IPA: 
             \b è stato un neurologo, psicoanalista e filosofo austriaco, 
             \b fondatore della psicoanalisi, 

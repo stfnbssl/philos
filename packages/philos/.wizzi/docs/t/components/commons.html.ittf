@@ -2,19 +2,25 @@ $group
 
     function DetailBar
         param props
-        var {title, id, onClick} = props
+        var {title, id, showFullBar, onClick} = props
         return
             div 
                 @ className "bar"
-                div
-                    @ className "bar-arrow-left"
-                    @ onClick {onClick}
-                    img
-                        @ src {'${site.assetsURL}/img/arrow-left.png'}
-                        @ className "bar-arrow-left-img"
-                div
-                    @ className "bar-title"
-                    + {title}
+                {
+                    &&
+                        + showFullBar
+                        div
+                            @ className "bar-arrow-left"
+                            @ onClick {onClick}
+                            img
+                                @ src {'${site.assetsURL}/img/arrow-left.png'}
+                                @ className "bar-arrow-left-img"
+                {
+                    &&
+                        + showFullBar
+                        div
+                            @ className "bar-title"
+                            + {title}
                 div id: {id}
                     @ className "bar-id"
                 div 

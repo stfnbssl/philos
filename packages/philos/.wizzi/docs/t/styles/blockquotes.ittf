@@ -1,0 +1,47 @@
+$group
+
+    $$ https://codepen.io/johnfinkdesign/pen/gRvEGq
+    
+    < blockquote
+        @ border-left 3px solid ${site.Styles.palette.blockquote.color} 
+        @ color #1a1a1a
+        $$ @ font-family Georgia, Times, "Times New Roman", serif
+        $$ @ font-size 1.25em
+        @ font-style italic
+        $$ @ line-height 1.8em
+        $$ @ margin 1.1em -4em
+        @ padding 1em 2em
+        @ position relative
+        @ transition .2s border ease-in-out
+        @ z-index 0
+
+    < blockquote:before
+        @ content ""
+        @ position absolute
+        @ top 50%
+        @ left -4px
+        @ height 2em
+        @ background-color ${site.Styles.palette.blockquote.background}
+        @ width 5px
+        @ margin-top -1em
+
+    < blockquote:after
+        @ content "\f35f"
+        @ position absolute
+        @ top 50%
+        @ left -0.5em
+        @ color $color
+        @ font-family "Ionicons"
+        @ font-style normal
+        @ line-height 1em
+        @ text-align center
+        @ text-indent -2px
+        @ width 1em
+        @ margin-top -0.5em
+        @ transition .2s all ease-in-out, .4s transform ease-in-out
+  
+    < cite
+        @ display block
+        @ font-size 0.75em
+        @ line-height 1.8em
+        @ margin-top 1em  

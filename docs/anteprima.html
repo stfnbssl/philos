@@ -6,9 +6,16 @@
     <meta name="viewport" content="minimum-scale=1, initial-scale=1, width=device-width, shrink-to-fit=no" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/4.4.1/css/ionicons.min.css" />
     <style>
         .root {
             padding: 10px;
+        }
+        .paper {
+            max-height: 90%;
+            max-width: 800px;
+            padding: 40px;
+            overflow: auto;
         }
         .a-img-list {
             width: 30px;
@@ -65,6 +72,9 @@
             float: right;
             font-size: 9px;
         }
+        .bar {
+            margin-bottom: 20px;
+        }
         .bar-arrow-left {
             padding: 15px 0px;
             float: left;
@@ -84,6 +94,84 @@
             padding: 10px;
             float: right;
             font-size: 9px;
+        }
+        .rc-box {
+            border-left: 1px solid gray;
+            margin: 0.5em 1em;
+        }
+        .rc-ref {
+            font-style: italic;
+            font-size: 0.75em;
+            padding-left: 10px;
+        }
+        .rc-ref-pointer {
+            font-style: italic;
+            font-size: 0.75em;
+            padding-left: 10px;
+            cursor: pointer;
+        }
+        .rc-content {
+            padding-left: 20px;
+        }
+        .alias-label {
+            float: left;
+            font-weight: bold;
+            padding-right: 10px;
+        }
+        .alias-text-box {
+            float: left;
+            border-left: 1px solid gray;
+            padding-left: 10px;
+        }
+        .alias-text {
+            font-style: italic;
+            font-size: 0.75em;
+        }
+        blockquote {
+            border-left: 3px solid #00CC8F;
+            color: #1a1a1a;
+            font-style: italic;
+            padding: 1em 2em;
+            position: relative;
+            -webkit-transition: .2s border ease-in-out;
+            -moz-transition: .2s border ease-in-out;
+            -o-transition: .2s border ease-in-out;
+            transition: .2s border ease-in-out;
+            z-index: 0;
+        }
+        blockquote:before {
+            content: "";
+            position: absolute;
+            top: 50%;
+            left: -4px;
+            height: 2em;
+            background-color: #fff;
+            width: 5px;
+            margin-top: -1em;
+        }
+        blockquote:after {
+            content: "\f35f";
+            position: absolute;
+            top: 50%;
+            left: -0.5em;
+            color: $color;
+            font-family: "Ionicons";
+            font-style: normal;
+            line-height: 1em;
+            text-align: center;
+            text-indent: -2px;
+            width: 1em;
+            margin-top: -0.5em;
+            -webkit-transition: .2s all ease-in-out, .4s transform ease-in-out;
+            -moz-transition: .2s all ease-in-out, .4s transform ease-in-out;
+            -o-transition: .2s all ease-in-out, .4s transform ease-in-out;
+            transition: .2s all ease-in-out, .4s transform ease-in-out;
+        }
+        cite {
+            display: block;
+            font-size: 0.75em;
+            line-height: 1.8em;
+            margin-top: 1em;
         }
         
     </style>
@@ -127,7 +215,7 @@
         }
         function dbGetAuthor(id, dbParam) {
             var db = dbParam || gJsonData;
-            console.log('dbGetAuthor', id, db.authors.join());
+            console.log('dbGetAuthor', id);
             return dbGetById(db.authors, id);
         }
         function dbGetConcept(id, dbParam) {
@@ -141,6 +229,29 @@
         function dbGetBook(id, dbParam) {
             var db = dbParam || gJsonData;
             return dbGetById(db.books, id);
+        }
+        function dbGetAuthors(authorIdColl, dbParam) {
+            var db = dbParam || gJsonData;
+            var authorObjColl = [];
+            var i, i_items=authorIdColl, i_len=authorIdColl.length, item;
+            for (i=0; i<i_len; i++) {
+                item = authorIdColl[i];
+                var aObj = dbGetAuthor(item, dbParam);
+                if (!aObj) {
+                    aObj = {
+                        id: item.id, 
+                        fullname: 'missing author info'
+                    };
+                }
+                authorObjColl.push(aObj);
+            }
+            return authorObjColl;
+        }
+        function dbExtractTitleText(title, defaultValue) {
+            if (!title) {
+                return defaultValue;
+            }
+            return title.text || defaultValue;
         }
     </script>
     <script type="text/babel">
@@ -284,19 +395,25 @@
             }
         });
         function DetailBar(props) {
-            var {title, id, onClick} = props;
+            var {title, id, showFullBar, onClick} = props;
             return  (
                     <div className="bar">
-                        <div className="bar-arrow-left" onClick={onClick}>
-                            <img src={'./assets/img/arrow-left.png'} className="bar-arrow-left-img">
-                            </img>
+                    {
+                        showFullBar &&  (
+                            <div className="bar-arrow-left" onClick={onClick}>
+                                <img src={'./assets/img/arrow-left.png'} className="bar-arrow-left-img">
+                                </img>
+                            
+                            </div>
+                        )
                         
-                        </div>
-                    
-                        <div className="bar-title">
-                        {title}</div>
-                    
-                        <div className="bar-id">
+                    }{
+                        showFullBar &&  (
+                            <div className="bar-title">
+                            {title}</div>
+                        )
+                        
+                    }<div className="bar-id">
                         id: {id}
                         </div>
                     
@@ -309,9 +426,16 @@
         }
         function Quote(props) {
             var {item, jsonData} = props;
-            var articleObj = null;
-            if (item.article) {
-                articleObj = dbGetArticle(item.article, jsonData);
+            var page = null;
+            // log 'Quote', item
+            if (item.page) {
+                page = 'pag. ' + item.page;
+            }
+            else if (item.kindlepage) {
+                page = 'kindle pag. ' + item.kindlepage;
+            }
+            else if (item.kindleloc) {
+                page = 'kindle loc. ' + item.kindleloc;
             }
             return  (
                     <blockquote>
@@ -324,50 +448,130 @@
                                 )
                             ;
                         })
-                    }<div>
-                        {item.author}
-                        </div>
-                    
-                        <QuoteArticle articleObj={articleObj || item.article}>
-                        </QuoteArticle>
+                    }<cite>
+                        {
+                            item.article && item.article.length > 0 &&  (
+                                <QuoteArticle id={item.article} page={page} jsonData={jsonData}>
+                                </QuoteArticle>
+                            )
+                            
+                        }{
+                            item.book && item.book.length > 0 &&  (
+                                <QuoteBook id={item.book} page={page} jsonData={jsonData}>
+                                </QuoteBook>
+                            )
+                            
+                        }</cite>
                     
                     </blockquote>
                 )
             ;
         }
         function QuoteArticle(props) {
-            var {articleObj} = props;
-            if (!articleObj) {
-                return null;
+            var {id, page, jsonData} = props;
+            var title = id, author = null;
+            // log 'QuoteArticle', id, page
+            var articleObj = dbGetArticle(id, jsonData);
+            // log 'QuoteArticle.articleObj', articleObj
+            if (articleObj) {
+                var authorsObj = dbGetAuthors(articleObj.authors, jsonData);
+                title = articleObj.title || articleObj.url || articleObj.id;
+                // log 'QuoteArticle.title', title
+                if (authorsObj.length > 0) {
+                    author = authorsObj[0].fullname;
+                }
+                else {
+                    if (authorsObj.book) {
+                        var bookObj = dbGetBook(authorsObj.book, jsonData);
+                        if (bookObj) {
+                            var authorsObj = dbGetAuthors(bookObj.authors, jsonData);
+                            if (authorsObj.length > 0) {
+                                author = authorsObj[0].fullname;
+                            }
+                        }
+                    }
+                    else {
+                        author = 'missing author';
+                    }
+                }
             }
-            if (!articleObj.title) {
-                return  (
-                        <div>
-                        unknown article: {articleObj.id}
-                        </div>
-                    )
-                ;
+            else {
+                title = 'missing article: '+ title;
+                author = 'missing author';
             }
             return  (
                     <div>
-                        <span>
-                        articleObj.authorName
-                        </span>
+                    {author}, {title} {page && ','} {page}
+                    </div>
+                )
+            ;
+        }
+        function QuoteBook(props) {
+            var {id, page, jsonData} = props;
+            var title = id, author = null;
+            var bookObj = dbGetBook(id, jsonData);
+            // log 'QuoteBook', id, page
+            if (bookObj) {
+                // log 'QuoteBook.bookObj.authors', bookObj.authors
+                var authorsObj = dbGetAuthors(bookObj.authors, jsonData);
+                // log 'QuoteBook.authorsObj', authorsObj
+                title = bookObj.title || bookObj.url || bookObj.id;
+                if (authorsObj.length > 0) {
+                    author = authorsObj[0].fullname;
+                }
+                else {
+                    author = 'missing author';
+                }
+            }
+            else {
+                title = title + ' missing article';
+                author = 'missing author';
+            }
+            return  (
+                    <div>
+                    {author}, {title} {page && ','} {page}
+                    </div>
+                )
+            ;
+        }
+        function RConcept(props) {
+            var {item, jsonData, handleOpen} = props;
+            var {id} = item;
+            var conceptObj = dbGetConcept(id, jsonData);
+            // log 'RConcept.conceptObj', id, conceptObj
+            var conceptTitle = conceptObj ? dbExtractTitleText(conceptObj.title) : 'missing concept: ' + id;
+            return  (
+                    <div className="rc-box">
+                        <div>
+                            <div className={conceptObj ? 'rc-ref-pointer' : 'rc-ref'} onClick={(ev) => {
+                                if (conceptObj) {
+                                    handleOpen(ev, conceptObj);
+                                }
+                            }}>
+                                <span>
+                                Si veda &nbsp;
+                                </span>
+                            
+                                <span>
+                                {conceptTitle}
+                                </span>
+                            
+                            </div>
+                        
+                        </div>
                     
-                        <span>
-                        , &nbsp;
-                        </span>
-                    
-                        <span>
-                        articleObj.title
-                        </span>
+                        <div className="rc-content">
+                            <ContentText item={item} jsonData={jsonData}>
+                            </ContentText>
+                        
+                        </div>
                     
                     </div>
                 )
             ;
         }
         function ContentText(props) {
-            var {item, jsonData} = props;
+            var {item, jsonData, handleOpen} = props;
             if (item.contents && item.contents.length > 0) {
                 return  (
                         <div>
@@ -385,6 +589,13 @@
                                     return  (
                                             <Quote key={i} item={token.quote} jsonData={jsonData}>
                                             </Quote>
+                                        )
+                                    ;
+                                }
+                                else if (token.kind == "rconcept") {
+                                    return  (
+                                            <RConcept key={i} item={token} handleOpen={handleOpen} jsonData={jsonData}>
+                                            </RConcept>
                                         )
                                     ;
                                 }
@@ -553,40 +764,114 @@
         class ConceptList extends React.Component {
             state = {
                 status: 'list', 
-                selectedItem: null
+                selectedItem: null, 
+                scrollTop: 0, 
+                scrollingElement: null, 
+                justRenderedList: false, 
+                forms: [
+                    
+                ], 
+                current: {
+                    status: 'list', 
+                    selectedItem: null, 
+                    scrollTop: 0, 
+                    scrollingElement: null, 
+                    justRenderedList: false, 
+                    depth: 0, 
+                    title: 'Concetti'
+                }
             };
+            componentDidMount() {
+                window.addEventListener('scroll', this.handlePaperScroll);
+                this.props.onChangeCurrent(this.state.current, this.handleConceptClose);
+            }
+            componentDidUpdate(prevProps, prevState) {
+                if (this.state.current.justRenderedList) {
+                    if (this.state.current.scrollingElement) {
+                        this.state.current.scrollingElement.scrollTo(0, this.state.current.scrollTop);
+                        this.setState((prevState) => {
+                            return {
+                                    ...prevState, 
+                                    current: {
+                                        ...prevState.current, 
+                                        justRenderedList: false
+                                    }
+                                };
+                        });
+                    }
+                }
+            }
+            componentWillUnmount() {
+                window.removeEventListener('scroll', this.handlePaperScroll);
+            }
+            handlePaperScroll = (ev) => {
+                if (this.state.current.status == 'list') {
+                    if (ev.target.scrollingElement) {
+                        this.setState((prevState) => {
+                            return {
+                                    ...prevState, 
+                                    current: {
+                                        ...prevState.current, 
+                                        scrollTop: event.target.scrollingElement.scrollTop, 
+                                        scrollingElement: event.target.scrollingElement
+                                    }
+                                };
+                        });
+                    }
+                }
+            }
             handleConceptOpen = (ev, conceptItem) => {
-                console.log('handleConceptOpen.id', conceptItem.id);
-                console.log('handleConceptOpen.ev', ev);
-                this.setState({
-                    status: 'concept', 
-                    selectedItem: conceptItem
+                // log 'handleConceptOpen.id', conceptItem.id
+                // log 'handleConceptOpen.ev', ev
+                this.setState((prevState) => {
+                    console.log('handleConceptOpen');
+                    prevState.forms.push(prevState.current);
+                    var current = {
+                        ...prevState.current, 
+                        status: 'concept', 
+                        selectedItem: conceptItem, 
+                        depth: prevState.forms.length, 
+                        title: (conceptItem.title && conceptItem.title.text) || conceptItem.id
+                    };
+                    this.props.onChangeCurrent(current, this.handleConceptClose);
+                    console.log('onChangeCurrent called');
+                    return {
+                            ...prevState, 
+                            current: current
+                        };
                 });
             }
             handleConceptClose = () => {
-                this.setState({
-                    status: 'list', 
-                    selectedItem: null
+                this.setState((prevState) => {
+                    var current = prevState.forms.pop();
+                    if (current.status == 'list') {
+                        current.justRenderedList = true;
+                        current.depth = prevState.forms.length;
+                        current.title = 'Concetti';
+                    }
+                    this.props.onChangeCurrent(current, this.handleConceptClose);
+                    return {
+                            ...prevState, 
+                            current: current
+                        };
                 });
             }
             render() {
                 const {
-                    jsonData
+                    jsonData,
+                    onChangeCurrent
                 } = this.props;
                 const {
                     status, 
                     selectedItem
-                } = this.state;
+                } = this.state.current;
+                console.log('ConceptList: status,selectedItem', status, selectedItem);
                 return  (
                         <div>
-                            <Paper style={{maxHeight: '90%', maxWidth:800, padding:10, overflow: 'auto'}}>
+                            <Paper className="paper">
                             {
                                 status == 'list' &&  (
                                     <div>
-                                        <h2>
-                                        Concetti
-                                        </h2>
-                                    
                                     {
                                         jsonData.concepts.sort(compareById).map((item) => {
                                             return  (
@@ -601,11 +886,11 @@
                             }{
                                 status == 'concept' &&  (
                                     <div>
-                                        <DetailBar title={(selectedItem.title && selectedItem.title.text) || selectedItem.id} id={selectedItem.id} onClick={() =>
+                                        <DetailBar title={(selectedItem.title && selectedItem.title.text) || selectedItem.id} id={selectedItem.id} showFullBar={false} onClick={() =>
                                             this.handleConceptClose()}>
                                         </DetailBar>
                                     
-                                        <Concept item={selectedItem} jsonData={jsonData}>
+                                        <Concept item={selectedItem} jsonData={jsonData} handleOpen={this.handleConceptOpen}>
                                         </Concept>
                                     
                                     </div>
@@ -641,7 +926,7 @@
             ;
         }
         function Concept(props) {
-            var {item, jsonData} = props;
+            var {item, handleOpen, jsonData} = props;
             var {id, name, title} = item;
             title = (title || name);
             return  (
@@ -652,7 +937,7 @@
                             </Aliases>
                         )
                         
-                    }<ContentText item={item} jsonData={jsonData}>
+                    }<ContentText item={item} jsonData={jsonData} handleOpen={handleOpen}>
                         </ContentText>
                     
                     </div>
@@ -661,14 +946,30 @@
         }
         function Aliases(props) {
             var {item} = props;
-            return item.aliases.map((item) => {
-                    return  (
-                            <h5>
-                            alias {item.text}
-                            </h5>
-                        )
-                    ;
-                });
+            return  (
+                    <div className="alias-box">
+                        <div className="alias-label">
+                        alias
+                        </div>
+                    
+                        <div className="alias-text-box">
+                        {
+                            item.aliases.map((item, i) => {
+                                return  (
+                                        <div className="alias-text" key={i}>
+                                        {item.text}
+                                        </div>
+                                    )
+                                ;
+                            })
+                        }</div>
+                    
+                        <div className="li-clear">
+                        </div>
+                    
+                    </div>
+                )
+            ;
         }
         class AuthorList extends React.Component {
             state = {
@@ -722,7 +1023,7 @@
                             }{
                                 status == 'author' &&  (
                                     <div>
-                                        <DetailBar title={selectedItem.fullname} id={selectedItem.id} onClick={() =>
+                                        <DetailBar title={selectedItem.fullname} id={selectedItem.id} showFullBar={true} onClick={() =>
                                             this.handleAuthorClose()}>
                                         </DetailBar>
                                     
@@ -1045,7 +1346,7 @@
                         }{
                             status == 'book' &&  (
                                 <div>
-                                    <DetailBar title={selectedItem.title} id={selectedItem.id} onClick={() =>
+                                    <DetailBar title={selectedItem.title} id={selectedItem.id} showFullBar={true} onClick={() =>
                                         this.handleBookClose()}>
                                     </DetailBar>
                                 
@@ -1058,7 +1359,7 @@
                         }{
                             status == 'article' &&  (
                                 <div>
-                                    <DetailBar title={selectedItem.title} id={selectedItem.id} onClick={() =>
+                                    <DetailBar title={selectedItem.title} id={selectedItem.id} showFullBar={true} onClick={() =>
                                         this.handleArticleClose()}>
                                     </DetailBar>
                                 
@@ -1186,7 +1487,7 @@
                                 text = (i > 0 ? ', ' : '') + authObj.fullname;
                             }
                             return  (
-                                    <span>
+                                    <span key={i}>
                                     {text}
                                     </span>
                                 )
@@ -1242,6 +1543,12 @@
                     ...theme.mixins.toolbar, 
                     justifyContent: 'flex-end'
                 }, 
+                title: {
+                    flexGrow: 1
+                }, 
+                db: {
+                    padding: '0 20px'
+                }, 
                 content: {
                     flexGrow: 1, 
                     padding: theme.spacing.unit * 3, 
@@ -1257,6 +1564,10 @@
                         duration: theme.transitions.duration.enteringScreen
                     }), 
                     marginLeft: 0
+                }, 
+                philos: {
+                    fontSize: '2em', 
+                    fontWeight: '700'
                 }
             });
         
@@ -1266,7 +1577,10 @@
                 jsonData: {}, 
                 error: null, 
                 open: false, 
-                selectedView: 'Synopsis'
+                selectedView: 'Synopsis', 
+                selectedTitle: '', 
+                showArrowBack: false, 
+                onArrowBack: null
             };
             handleDrawerOpen = () => {
                 this.setState({
@@ -1283,6 +1597,21 @@
                     selectedView: name
                 });
             }
+            handleChangeCurrent = (current, onArrowBack) => {
+                this.setState((prevState) => {
+                    return {
+                            ...prevState, 
+                            showArrowBack: current.depth > 0, 
+                            selectedTitle: current.title, 
+                            onArrowBack: onArrowBack
+                        };
+                });
+            }
+            handleArrowBack = () => {
+                if (this.state.onArrowBack) {
+                    this.state.onArrowBack();
+                }
+            }
             componentDidMount() {
                 if (false) {
                     this.setState({
@@ -1292,15 +1621,16 @@
                     });
                 }
                 else {
-                    var that = this;
-                    loadJSON("./json/first.philos.extended.json", function(response) {
-                        // Do Something with the response e.g.
+                    loadJSON("./json/first.philos.extended.json", (response) => {
                         var jsonresponse = JSON.parse(response);
                         // log 'from did mount', jsonresponse
-                        that.setState({
-                            jsonData: jsonresponse, 
-                            isLoading: false, 
-                            error: null
+                        this.setState((prevState) => {
+                            return {
+                                    ...prevState, 
+                                    jsonData: jsonresponse, 
+                                    isLoading: false, 
+                                    error: null
+                                };
                         });
                     });
                 }
@@ -1315,7 +1645,9 @@
                     jsonData, 
                     error, 
                     open, 
-                    selectedView
+                    selectedView, 
+                    selectedTitle, 
+                    showArrowBack
                 } = this.state;
                 const dbTitle = 'Freud';
                 return  (
@@ -1333,8 +1665,20 @@
                                     
                                     </IconButton>
                                 
-                                    <Typography variant="h6" color="inherit" noWrap>
-                                    {dbTitle}</Typography>
+                                {
+                                    showArrowBack &&  (
+                                        <IconButton color="inherit" aria-label="Go back" onClick={this.handleArrowBack} className={classNames(classes.menuButton)}>
+                                            <Icon>
+                                            arrow_back</Icon>
+                                        
+                                        </IconButton>
+                                    )
+                                    
+                                }<Typography variant="h6" color="inherit" noWrap edge="end" className={classes.title}>
+                                    {selectedTitle}</Typography>
+                                
+                                    <Typography variant="h6" color="inherit" noWrap edge="end" className={classes.db}>
+                                    {dbTitle} DB</Typography>
                                 
                                 </Toolbar>
                             
@@ -1344,8 +1688,8 @@
                                 paper: classes.drawerPaper
                             }}>
                                 <div className={classes.drawerHeader}>
-                                    <span>
-                                    Concept Db
+                                    <span className={classes.philos}>
+                                    PHILOS
                                     </span>
                                 
                                     <IconButton onClick={this.handleDrawerClose}>
@@ -1372,7 +1716,7 @@
                                         'Panoramica', 
                                         'Schema'
                                     ].map((text, index) =>  (
-                                            <ListItem button key={text} onClick={(event) =>
+                                            <ListItem button key={text} disabled={[].indexOf(text) < 0} onClick={(event) =>
                                                 this.handleSelectView(event, text)}>
                                                 <ListItemIcon>
                                                 {
@@ -1410,7 +1754,7 @@
                                         'Luoghi', 
                                         'Testi'
                                     ].map((text, index) =>  (
-                                            <ListItem button key={text} onClick={(event) =>
+                                            <ListItem button key={text} disabled={['Concetti', 'Autori', 'Testi'].indexOf(text) < 0} onClick={(event) =>
                                                 this.handleSelectView(event, text)}>
                                                 <ListItemIcon>
                                                 {
@@ -1475,7 +1819,7 @@
                                 
                             }{
                                 selectedView == 'Concetti' && isLoading == false &&  (
-                                    <ConceptList jsonData={jsonData}>
+                                    <ConceptList jsonData={jsonData} onChangeCurrent={this.handleChangeCurrent}>
                                     </ConceptList>
                                 )
                                 

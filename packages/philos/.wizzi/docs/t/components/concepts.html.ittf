@@ -5,40 +5,115 @@ $group
         state
             @ status 'list'
             @ selectedItem null
+            @ scrollTop 0
+            @ scrollingElement null
+            @ justRenderedList false
+            [ forms
+            { current
+                @ status 'list'
+                @ selectedItem null
+                @ scrollTop 0
+                @ scrollingElement null
+                @ justRenderedList false
+                @ depth 0
+                @ title 'Concetti'
+
+        did-mount
+            _ window.addEventListener('scroll', this.handlePaperScroll)  
+            _ this.props.onChangeCurrent(this.state.current, this.handleConceptClose);
+
+        did-update
+            if this.state.current.justRenderedList
+                if this.state.current.scrollingElement
+                    _ this.state.current.scrollingElement.scrollTo(0, this.state.current.scrollTop)
+                    _ this.setState
+                        =>
+                            param prevState
+                            return
+                                {
+                                    @ ...prevState
+                                    { current
+                                        @ ...prevState.current
+                                        @ justRenderedList false
+
+        will-unmount
+            _ window.removeEventListener('scroll', this.handlePaperScroll)  
+
+        => handlePaperScroll
+            param ev
+            if this.state.current.status == 'list'
+                if ev.target.scrollingElement
+                    _ this.setState
+                        =>
+                            param prevState
+                            return
+                                {
+                                    @ ...prevState
+                                    { current
+                                        @ ...prevState.current
+                                        @ scrollTop event.target.scrollingElement.scrollTop
+                                        @ scrollingElement event.target.scrollingElement
 
         => handleConceptOpen
             param ev
             param conceptItem
-            log 'handleConceptOpen.id', conceptItem.id
-            log 'handleConceptOpen.ev', ev
+            # log 'handleConceptOpen.id', conceptItem.id
+            # log 'handleConceptOpen.ev', ev
             _ this.setState
-                { 
-                    @ status 'concept'
-                    @ selectedItem conceptItem
+                =>
+                    param prevState
+                    log 'handleConceptOpen'
+                    _ prevState.forms.push
+                        @ prevState.current
+                    var current
+                        {
+                            @ ...prevState.current
+                            @ status 'concept'
+                            @ selectedItem conceptItem
+                            @ depth prevState.forms.length
+                            @ title (conceptItem.title && conceptItem.title.text) || conceptItem.id
+                    _ this.props.onChangeCurrent(current, this.handleConceptClose)
+                    log 'onChangeCurrent called'
+                    return
+                        {
+                            @ ...prevState
+                            @ current current
 
         => handleConceptClose
             _ this.setState
-                { 
-                    @ status 'list'
-                    @ selectedItem null
-
+                =>
+                    param prevState
+                    var current = prevState.forms.pop()
+                    if current.status == 'list'
+                        set current.justRenderedList = true
+                        set current.depth = prevState.forms.length
+                        set current.title = 'Concetti'
+                    _ this.props.onChangeCurrent(current, this.handleConceptClose)
+                    return
+                        {
+                            @ ...prevState
+                            @ current current
+            
         render
             prop jsonData
+            prop onChangeCurrent
             const 
                 { 
                     @ status
                     @ selectedItem
-                = this.state
+                = this.state.current
+
+            log 'ConceptList: status,selectedItem', status, selectedItem
 
             return
                 div
                     < Paper
-                        @ style {{maxHeight: '90%', maxWidth:800, padding:10, overflow: 'auto'}}
+                        @ className paper
                         {
                             &&
                                 + status == 'list'
                                 div
-                                    < h2 Concetti
+                                    $$ < h2 Concetti
                                     {
                                         _ jsonData.concepts.sort(compareById).map
                                             =>
@@ -56,12 +131,14 @@ $group
                                     < DetailBar
                                         @ title {(selectedItem.title && selectedItem.title.text) || selectedItem.id}
                                         @ id {selectedItem.id}
+                                        @ showFullBar {false}
                                         @ onClick 
                                             =>
                                                 _ this.handleConceptClose()
                                     < Concept
                                         @ item {selectedItem}
                                         @ jsonData {jsonData}
+                                        @ handleOpen {this.handleConceptOpen}
     
     function ConceptListItem
         param props
@@ -84,7 +161,7 @@ $group
 
     function Concept
         param props
-        var {item, jsonData} = props
+        var {item, handleOpen, jsonData} = props
         var {id, name, title} = item
         set title = (title || name)
         return
@@ -97,15 +174,28 @@ $group
                 < ContentText
                     @ item {item}  
                     @ jsonData {jsonData} 
+                    @ handleOpen {handleOpen}
 
     function Aliases
         param props
         var {item} = props
         return
-            _ item.aliases.map
-                =>
-                    param item
-                    return
-                        < h5 alias {item.text}
+            div
+                @ className alias-box
+                div alias
+                    @ className alias-label
+                div
+                    @ className alias-text-box
+                    {
+                        _ item.aliases.map
+                            =>
+                                param item
+                                param i
+                                return
+                                    div {item.text}
+                                        @ className alias-text
+                                        @ key {i}
+                div
+                    @ className li-clear
 
 

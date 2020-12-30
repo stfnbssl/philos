@@ -3,9 +3,14 @@ $group
     function Quote
         param props
         var {item, jsonData} = props
-        var articleObj = null
-        if item.article
-            set articleObj = dbGetArticle(item.article, jsonData)
+        var page = null
+        # log 'Quote', item
+        if item.page
+            set page = 'pag. ' + item.page
+        elif item.kindlepage
+            set page = 'kindle pag. ' + item.kindlepage
+        elif item.kindleloc
+            set page = 'kindle loc. ' + item.kindleloc
         return
             blockquote
                 {
@@ -16,27 +21,101 @@ $group
                             return 
                                 < p {token}
                                     @ key {i}
-                div {item.author}
-                < QuoteArticle
-                    @ articleObj {articleObj || item.article}
+                cite
+                    {
+                        &&
+                            + item.article && item.article.length > 0
+                            < QuoteArticle
+                                @ id {item.article}
+                                @ page {page}
+                                @ jsonData {jsonData}
+                    {
+                        &&
+                            + item.book && item.book.length > 0
+                            < QuoteBook
+                                @ id {item.book}
+                                @ page {page}
+                                @ jsonData {jsonData}
 
     function QuoteArticle
         param props
-        var {articleObj} = props
-        if !articleObj
-            return null
-        if !articleObj.title
-            return 
-                div unknown article: {articleObj.id}
+        var {id, page, jsonData} = props
+        var title = id, author = null
+        # log 'QuoteArticle', id, page
+        var articleObj = dbGetArticle(id, jsonData)
+        # log 'QuoteArticle.articleObj', articleObj
+        if articleObj
+            var authorsObj = dbGetAuthors(articleObj.authors, jsonData)
+            set title = articleObj.title || articleObj.url || articleObj.id
+            # log 'QuoteArticle.title', title
+            if authorsObj.length > 0
+                set author = authorsObj[0].fullname
+            else
+                if authorsObj.book
+                    var bookObj = dbGetBook(authorsObj.book, jsonData)
+                    if bookObj
+                        var authorsObj = dbGetAuthors(bookObj.authors, jsonData)
+                        if authorsObj.length > 0
+                            set author = authorsObj[0].fullname
+                else
+                    set author = 'missing author'
+        else
+            set title = 'missing article: '+ title
+            set author = 'missing author'
         return
-            div
-                span articleObj.authorName
-                span , &nbsp;
-                span articleObj.title
+            div {author}, {title} {page && ','} {page}
+
+    function QuoteBook
+        param props
+        var {id, page, jsonData} = props
+        var title = id, author = null
+        var bookObj = dbGetBook(id, jsonData)
+        # log 'QuoteBook', id, page
+        if bookObj
+            # log 'QuoteBook.bookObj.authors', bookObj.authors
+            var authorsObj = dbGetAuthors(bookObj.authors, jsonData)
+            # log 'QuoteBook.authorsObj', authorsObj
+            set title = bookObj.title || bookObj.url || bookObj.id
+            if authorsObj.length > 0
+                set author = authorsObj[0].fullname
+            else
+                set author = 'missing author'
+        else
+            set title = title + ' missing article'
+            set author = 'missing author'
+        return
+            div {author}, {title} {page && ','} {page}
+
+    function RConcept
+        param props
+        var {item, jsonData, handleOpen} = props
+        var {id} = item
+        var conceptObj = dbGetConcept(id, jsonData)
+        # log 'RConcept.conceptObj', id, conceptObj
+        var conceptTitle = conceptObj ? dbExtractTitleText(conceptObj.title) : 'missing concept: ' + id
+        return
+            div 
+                @ className rc-box
+                div
+                    div
+                        @ className {conceptObj ? 'rc-ref-pointer' : 'rc-ref'}
+                        @ onClick
+                            =>
+                                param ev
+                                if conceptObj
+                                    _ handleOpen(ev, conceptObj)
+                        span Si veda &nbsp;
+                        span {conceptTitle}
+                        
+                div
+                    @ className rc-content
+                    < ContentText
+                        @ item {item}
+                        @ jsonData {jsonData} 
 
     function ContentText
         param props
-        var {item, jsonData} = props
+        var {item, jsonData, handleOpen} = props
         if item.contents && item.contents.length > 0
             return
                 < div
@@ -54,6 +133,13 @@ $group
                                         < Quote
                                             @ key {i}
                                             @ item {token.quote}
+                                            @ jsonData {jsonData}
+                                elif token.kind == "rconcept"
+                                    return 
+                                        < RConcept
+                                            @ key {i}
+                                            @ item {token}
+                                            @ handleOpen {handleOpen}
                                             @ jsonData {jsonData}
 
         else
