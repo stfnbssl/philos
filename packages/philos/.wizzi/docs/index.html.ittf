@@ -26,11 +26,11 @@ html
         
         . wrapper
             h1 &nbsp;
-            h1 Philos
+            h1 Freud DB
             div
                 a 
                     href ./anteprima.html
-                    title Visualizzazione messaggi per verifica impatto
+                    title Freud concepts DB
                     target _top
                     img
                         src ${assetsURL}/img/authors/Freud.jpg
