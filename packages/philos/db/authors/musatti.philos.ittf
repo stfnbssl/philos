@@ -1,0 +1,13 @@
+$group
+    
+    author Musatti
+        fullname Cesare Musatti
+        born
+            date 21/9/1897
+            place Milano, Italia
+        died
+            date 21/3/1989
+            place Milano, Italia
+        avatar ./assets/img/authors/Musatti.jpg
+        + Cesare Luigi Eugenio Musatti è stato uno psicologo, psicoanalista e filosofo italiano, 
+            \b tra i primi che posero le basi della psicoanalisi, in Italia.

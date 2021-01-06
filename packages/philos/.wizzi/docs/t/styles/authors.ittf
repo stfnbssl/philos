@@ -107,3 +107,11 @@ $group
         @ font-style italic
         @ font-size 0.75em
 
+    . abstract-title
+        @ margin-top 30px
+        @ font-weight bold
+        @ font-size 0.75em
+    . abstract-box
+        @ width 50%
+        @ padding 40px
+

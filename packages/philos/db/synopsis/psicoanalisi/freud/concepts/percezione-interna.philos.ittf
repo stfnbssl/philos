@@ -1,0 +1,15 @@
+$group
+
+    namespace freud
+
+        concept percezione-interna
+            title Percezione interna
+
+            quote
+                + Tutto ciò che può divenire oggetto della nostra percezione interna è virtuale, 
+                    \b come l’immagine nel telescopio data dal passaggio dei raggi luminosi. 
+                    \b Ma i sistemi – che di per sé non sono affatto psichici e non diventano mai accessibili alla nostra percezione psichica – 
+                    \b siamo autorizzati a considerarli alla stregua delle lenti del telescopio, che proiettano l’immagine. 
+                    \b Insistendo in questo paragone, la censura tra due sistemi corrisponderebbe 
+                    \b alla rifrazione dei raggi, nel passaggio in un nuovo mezzo.
+                    e-page 1836

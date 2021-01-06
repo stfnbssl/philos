@@ -1,0 +1,20 @@
+$group
+
+    namespace freud
+
+        concept ambivalenza
+            quote
+                + È un trionfo della formazione sintomatica riuscire a mescolare la proibizione con il soddisfacimento, 
+                    \b a far sì che il comando o il divieto originariamente difensivi 
+                    \b assumano anche il significato di un soddisfacimento, 
+                    \b processo in cui vengono sovente utilizzate vie di collegamento quanto mai artificiose. 
+                    \b [..] Nei casi estremi si arriva al risultato che la maggior parte dei sintomi del paziente hanno acquisito, 
+                    \b in più del loro significato originario, anche quello del suo diretto opposto: 
+                    \b prova, questa, della forza dell’ambivalenza, la quale, non sappiamo perché, 
+                    \b svolge nella nevrosi ossessiva una parte così importante. 
+                    \b Nei casi più grezzi il sintomo è bifasico, ossia, 
+                    \b a un’azione che esegue un determinato ordine, 
+                    \b ne segue immediatamente un’altra che sospende o annulla la prima, 
+                    \b quando non arrivi addirittura a compiere l’opposto.
+                article freud.inibizione-sintomo-e-angoscia
+                e-page 6396

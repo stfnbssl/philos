@@ -1,0 +1,25 @@
+$group
+
+    namespace freud
+
+        concept il-rendere-non-avvenuto
+            title Il rendere non avvenuto
+
+            + Freud definisce "il rendere non avvenuto" una tecnica formatrice del sintomo.
+
+            quote
+                + [il rendere non avvenuto ..] è una specie di magia negativa, 
+                    \b che vuole, attraverso un simbolismo motorio, “soffiar via” 
+                    \b non già le conseguenze di un avvenimento (impressione, esperienza vissuta), 
+                    \b ma l’avvenimento stesso. 
+                    \b Con la scelta dell’espressione “soffiar via” è direttamente indicata la parte che 
+                    \b questa tecnica svolge non soltanto nella nevrosi, ma anche nelle azioni magiche, 
+                    \b negli usi popolari e nel cerimoniale religioso. 
+                    \b Nella nevrosi ossessiva incontriamo il “rendere non avvenuto” anzitutto nei sintomi bifasici,
+                    \b in cui la seconda azione revoca la prima, quasi che nulla fosse accaduto, 
+                    \b mentre in realtà entrambe le azioni si sono verificate. 
+                    \b Il cerimoniale nevrotico-ossessivo trova, nell’intento del rendere non avvenuto, la sua seconda radice. 
+                    \b La prima è la prevenzione, la misura intesa a garantire che una certa cosa non accada, non si ripeta. 
+                    \b La differenza è facile da cogliere: le misure prudenziali sono razionali, 
+                    \b le “revoche” mediante il “render non avvenuto” sono di natura irrazionale, magica.
+                e-page 6404-6405

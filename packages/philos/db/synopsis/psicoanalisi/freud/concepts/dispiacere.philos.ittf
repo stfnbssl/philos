@@ -3,4 +3,5 @@ $group
     namespace freud
 
         concept dispiacere
-            title Dispiacere
+            title Dispiacere (non appagamento)
+                de Unlust

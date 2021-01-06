@@ -1,0 +1,11 @@
+$group
+
+    namespace freud
+
+        concept innervazione
+            title Innervazione
+
+            quote
+                + [..] non è la struttura psichica che ci appare elemento mobile, bensì la sua innervazione.
+                e-page 1836
+                article freud.l-interpretazione-dei-sogni-kindle

@@ -62,8 +62,8 @@
                                     "items": []
                                 },
                                 {
-                                    "wzElement": "kindleloc",
-                                    "wzTag": "kindle-loc",
+                                    "wzElement": "eloc",
+                                    "wzTag": "e-loc",
                                     "wzName": "12506-12516",
                                     "items": []
                                 }
@@ -232,8 +232,8 @@
                                                     "items": []
                                                 },
                                                 {
-                                                    "wzElement": "kindleloc",
-                                                    "wzTag": "kindle-loc",
+                                                    "wzElement": "eloc",
+                                                    "wzTag": "e-loc",
                                                     "wzName": "65273",
                                                     "items": []
                                                 }

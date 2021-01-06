@@ -1,0 +1,173 @@
+$group
+
+    namespace freud
+
+        concept topica
+        
+            concept seconda
+                title Seconda topica
+                alias Concezione tripartita
+                + Es, Io, Super-Io
+
+                concept preconscio
+                    title Preconscio
+                    
+                    quote
+                        + Diciamo preconscio ciò che è latente, 
+                            \b e cioè inconscio, solo dal punto di vista descrittivo 
+                            \b e non in senso dinamico [senza una forza che respinga il contenuto dalla coscienza];
+                        article freud.l-io-e-l-es
+                        e-page 5956
+                    
+                    r-concept freud.rappresentazione-verbale
+                        
+                        quote
+                            + [..] che la vera differenza fra una rappresentazione (o pensiero) inc 
+                                \b e una rappresentazione prec 
+                                \b consista nel fatto che la prima si produce in relazione a qualche materiale che rimane ignoto, 
+                                \b mentre nella seconda (la prec) interviene in aggiunta un collegamento con rappresentazioni verbali.
+                            article freud.l-io-e-l-es
+                            e-page 5961
+
+                concept io-inconscio
+                    title Parte inconscia dell'Io
+                    alias Inc dell'Io
+                    
+                    + Una parte dell'Io che appartiene all'Inc.
+                    
+                    quote
+                        + Abbiamo trovato nell’Io stesso qualche cosa, anch’esso inconscio, 
+                            \b che si comporta precisamente alla maniera del rimosso, 
+                            \b e cioè qualche cosa che esercita potenti effetti senza divenire in quanto tale cosciente, 
+                            \b e che necessita, per esser reso cosciente, di un particolare lavoro.
+                        article freud.l-io-e-l-es
+                        e-page 5958
+
+                    quote
+                        + E questo Inc dell’Io non è latente nel senso del Prec, 
+                            \b giacché se così fosse non dovrebbe poter diventare attivo senza farsi c, 
+                            \b né il suo farsi tale dovrebbe dar luogo a difficoltà così grandi.
+                        article freud.l-io-e-l-es
+                        e-page 5959
+
+                concept inconscio-non-rimosso
+                    title Inconscio non rimosso
+                    + inconscio "primitivo e irrazionale"
+                    
+                    quote
+                        + [..] dobbiamo attribuire a questo tipo di inconscio non rimosso (primitivo e irrazionale) 
+                            \b tutte le caratteristiche che Freud ha in precedenza descritto 
+                            \b come processo primario o come caratteristiche del sistema inconscio 
+                        book blanco.l-inconscio-come-insiemi-infiniti
+                        page 88
+                    
+                    quote
+                        + [..] nel lavoro "L'inconscio", 1915, dove non parla ancora dell'inconscio non rimosso 
+                            \b ma certamente lo implica e comunica l'idea della rimozione come 
+                            \b ritorno allo stato primitivo (non rimosso) attraverso il diniego 
+                            \b (precedentemente aveva parlato di ritiro di investimenti) degli investimenti di parole
+                        book blanco.l-inconscio-come-insiemi-infiniti
+                        page 89
+
+                concept coscienza
+                    title Coscienza
+                    alias c
+
+                    quote
+                        + [..] la coscienza costituisce la superficie dell’apparato psichico; 
+                            \b l’abbiamo cioè attribuita, in quanto funzione, 
+                            \b a un sistema spazialmente collocato al primo posto, 
+                            \b se si procede dal mondo esterno. 
+                            \b Spazialmente non solo in senso funzionale, del resto, 
+                            \b ma questa volta anche nel senso della dissezione anatomica.
+                        article freud.l-io-e-l-es
+                        e-page 5960
+
+                concept es
+                    title L'Es
+
+                    quote
+                        + Un individuo è dunque per noi un Es psichico, ignoto e inconscio, 
+                            \b sul quale poggia nello strato superiore l’Io, 
+                            \b sviluppatosi dal sistema P come da un nucleo. 
+                            \b Sforzandoci di fornirne una rappresentazione grafica, 
+                            \b aggiungeremo che l’Io non avviluppa interamente l’Es, 
+                            \b ma solo quel tanto che basta a far sì che il sistema P formi la sua superficie [dell’Io], 
+                            \b e cioè più o meno come il disco germinale poggia sull’uovo.
+                            \b L’Io non è nettamente separato dall’Es,
+                            \b ma sconfina verso il basso fino a confluire con esso.
+                        article freud.l-io-e-l-es
+                        e-page 5966
+                    
+                    quote
+                        + [..] siamo in grado di attribuire all’Es 
+                            \b altre caratteristiche oltre a quella di essere inconscio e 
+                            \b che è possibile che parti dell'Io e del Super-io siano inconsce 
+                            \b senza condividere i caratteri primitivi e irrazionali dell'Es
+
+                concept io
+                    title L'Io
+
+                    quote
+                        + Propongo [..] di chiamare “l’Io” quell’entità che scaturisce dal sistema P 
+                            \b e comincia col diventare prec; 
+                            \b e di seguire Groddeck, chiamando “l’Es” quell’altra parte della psiche 
+                            \b nella quale l’Io si continua e che si comporta in maniera inc. 
+                        article freud.l-io-e-l-es
+                        e-page 5965-5966
+
+                    quote
+                        + [..] le percezioni hanno per l’Io lo stesso significato che le pulsioni hanno per l’Es.
+                        article freud.l-io-e-l-es
+                        e-page 5983
+                    
+                    quote
+                        + [..] vi sono persone nelle quali l’autocritica e la coscienza morale sono inconsce, 
+                            \b [..] la nuova esperienza che ci costringe [..] a parlare di un “senso di colpa inconscio”, 
+                            \b costituisce qualcosa di ancor più imbarazzante e ci propone un nuovo enigma, [..]
+                            \b dobbiamo dunque dichiarare che non soltanto le cose più profonde, 
+                            \b ma anche quelle che per l’Io sono le più elevate, 
+                            \b possono essere inconsce. 
+                            \b E in questo modo è come se ci venisse data la dimostrazione 
+                            \b di quanto abbiamo prima asserito a proposito dell’Io cosciente: 
+                            \b che esso è prima di ogni altra cosa un Io-corpo.
+                        article freud.l-io-e-l-es
+                        e-page 5969
+
+                    quote
+                        + [..] l'inconscio non rimosso dell'Io è l'aspetto rimovente dell'Io
+                        book blanco.l-inconscio-come-insiemi-infiniti
+                        page 93
+
+                    quote
+                        + Nel caso della rimozione assume un’importanza decisiva il fatto che 
+                            \b l’Io è una organizzazione, mentre l’Es non lo è; 
+                            \b l’Io è di fatto la porzione organizzata dell’Es.
+                        article freud.inibizione-sintomo-e-angoscia
+                        e-page 6377
+
+                concept super-io
+                    title Il Super-Io
+
+                    quote
+                        + [..] l’Io si forma in gran parte mediante identificazioni, 
+                            \b le quali prendono il posto di investimenti che l’Es ha abbandonato; 
+                            \b fra queste identificazioni le prime assumono l’aspetto di una particolare istanza che, 
+                            \b all’interno dell’Io, si contrappone come Super-io all’Io stesso; 
+                            \b in seguito l’Io, che nel frattempo si è rafforzato, 
+                            \b può far fronte con maggiore efficacia agli influssi che provengono da tali identificazioni. 
+                            \b La particolare posizione del Super-io nell’Io, o rispetto all’Io, 
+                            \b è dovuta a un fattore che va considerato sotto due aspetti: 
+                            \b in primo luogo il Super-io è la prima identificazione che si è compiuta, 
+                            \b e ciò mentre l’Io era ancora debole; 
+                            \b in secondo luogo esso è l’erede del complesso edipico, 
+                            \b e ha perciò introdotto nell’Io oggetti di importanza incomparabile. 
+                            \b In certo qual modo il Super-io sta alle successive alterazioni dell’Io 
+                            \b come la primitiva fase sessuale dell’infanzia 
+                            \b sta alla successiva vita sessuale dopo la pubertà. 
+                            \b Benché rimanga accessibile a tutte le influenze successive,
+                            \b il Super-io serba per tutta la vita il carattere 
+                            \b che gli proviene dalla sua origine dal complesso paterno, 
+                            \b ossia la capacità di contrapporsi all’Io e di dominarlo.
+                        article freud.l-io-e-l-es
+                        e-page 5993

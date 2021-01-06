@@ -1,0 +1,12 @@
+$group
+
+    namespace freud
+
+        concept psicoanalisi
+            title Psicoanalisi
+
+            quote
+                + La psicoanalisi è uno strumento inteso a rendere possibile 
+                    \b la conquista progressiva dell’Es da parte dell’Io.
+                article freud.l-io-e-l-es
+                e-page 6002

@@ -1,0 +1,40 @@
+$group
+
+    namespace freud
+
+        concept l-isolare
+            title L'isolare
+
+            + Freud definisce "l'isolare" una tecnica formatrice del sintomo.
+
+            quote
+                + [l'isolare ..] è una tecnica [di difesa] che appartiene peculiarmente alla nevrosi ossessiva. 
+                    \b Si riferisce anch’essa alla sfera motoria, e consiste in ciò, 
+                    \b che dopo un evento sgradito, o meglio, dopo una particolare attività, 
+                    \b significativa nel senso della nevrosi, 
+                    \b viene introdotta una pausa durante la quale nulla può più verificarsi, 
+                    \b nessuna percezione viene accolta e nessuna azione viene eseguita. 
+                    \b [..] l’esperienza non viene dimenticata, ma viene invece spogliata del suo affetto, 
+                    \b mentre le sue relazioni associative sono represse o interrotte, 
+                    \b cosicché essa sta come isolata e non viene neppure riprodotta nel corso dell’attività del pensiero. 
+                    \b L’effetto di questo isolamento è uguale a quello della rimozione accompagnata da amnesia.
+                article freud.inibizione-sintomo-e-angoscia
+                e-page 6406
+
+            quote
+                + Viene avvertito come elemento di massimo disturbo ciò che in origine stava connesso 
+                    \b e che fu poi staccato e separato nel progresso evolutivo, 
+                    \b per esempio le espressioni dell’ambivalenza del complesso paterno nel rapporto con Dio, 
+                    \b o gli impulsi degli organi escretori negli eccitamenti erotici.
+                article freud.inibizione-sintomo-e-angoscia
+                e-page 6406-6407
+
+            r-concept freud.associazione-libera
+                quote
+                    + L’Io deve dunque compiere normalmente un grande lavoro d’isolamento 
+                        \b al fine di dirigere il corso del pensiero, 
+                        \b e noi sappiamo che nell’esercizio della tecnica analitica 
+                        \b dobbiamo educare l’Io a rinunziare temporaneamente a questa funzione, 
+                        \b altrimenti perfettamente giustificata.
+                    article freud.inibizione-sintomo-e-angoscia
+                    e-page 6407

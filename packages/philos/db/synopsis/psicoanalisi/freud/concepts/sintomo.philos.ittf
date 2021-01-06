@@ -1,0 +1,12 @@
+$group
+
+    namespace freud
+
+        concept sintomo
+            title Sintomo
+            
+            quote
+                + Il sintomo sarebbe segno e sostituto di un soddisfacimento pulsionale che è mancato, 
+                    \b sarebbe un risultato del processo di rimozione.
+                article freud.inibizione-sintomo-e-angoscia
+                e-page 6370

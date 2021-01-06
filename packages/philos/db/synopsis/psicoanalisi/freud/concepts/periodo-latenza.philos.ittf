@@ -1,0 +1,23 @@
+$group
+
+    namespace freud
+
+        concept periodo-latenza
+            title Periodo di latenza
+            alias Epoca di latenza
+
+            quote
+                + Durante l’epoca di latenza il compito principale sembra essere
+                    \b l’attività difensiva contro la tentazione dell’onanismo.
+                    \b Questa lotta produce una serie di sintomi, 
+                    \b che ritornano in modo tipico nelle persone più diverse, 
+                    \b e che, nell’insieme, rivestono il carattere di un cerimoniale.
+                    \b [..] Questi sintomi mostrano già i tratti 
+                    \b che vengono fatalmente in primo piano se la malattia [nevrosi ossessiva] peggiora: 
+                    \b il collegarsi a procedure – che in seguito dovranno essere eseguite quasi automaticamente – 
+                    \b che attengono al coricarsi, al lavarsi, al vestirsi, al camminare; 
+                    \b la tendenza alla ripetizione e alla perdita di tempo. 
+                    \b Il perché di tutto questo non si capisce ancora; 
+                    \b ma la sublimazione di fattori erotico-anali vi svolge palesemente una parte.
+                article freud.inibizione-sintomo-e-angoscia
+                e-page 6400

@@ -1,0 +1,15 @@
+$group
+
+    namespace freud
+
+        concept telepatia
+            title Telepatia
+            
+            quote
+                + Vi si aggiungevano i contrasti interni esistenti negli ambienti psicoanalitici:
+                    \b [..] sia, infine, per la stessa tesi di una trasmissione extrasensoriale del pensiero,
+                    \b dapprima timidamente e con grande cautela prospettata da Freud, 
+                    \b ma alla fine – sia pure in via soltanto ipotetica – ribadita, 
+                    \b contro il parere di molti altri analisti.
+                article musatti.introduzione-opere-freud-vol-XI
+                e-page 6819-6820

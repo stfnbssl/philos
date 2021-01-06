@@ -1,0 +1,10 @@
+$group
+
+    namespace musatti
+        author Musatti
+
+        article musatti.introduzione-opere-freud-vol-XI
+            title Introduzione al volume XI delle opere di Freud
+            book freud.opere-XI
+            e-book opere-complete-kindle
+

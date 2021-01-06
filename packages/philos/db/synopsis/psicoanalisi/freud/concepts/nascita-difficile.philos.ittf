@@ -1,0 +1,14 @@
+$group
+
+    namespace freud
+
+        concept nascita-difficile
+            title Nascita difficile
+            
+            quote
+                + Non vi sono ricerche valevoli intese a stabilire se una nascita difficile e laboriosa 
+                    \b coincida in modo inoppugnabile con lo sviluppo di una nevrosi, 
+                    \b o perlomeno se i bambini nati in questo modo mostrino i fenomeni dell’ansietà infantile 
+                    \b più a lungo o con più forza di altri.
+                article freud.inibizione-sintomo-e-angoscia
+                e-page 5970  

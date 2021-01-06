@@ -19,14 +19,20 @@ $group
                 + La sua essenza consiste soltanto nel fatto di allontanare 
                     \b e di mantenere a distanza dal cosciente.
                 book freud.la-rimozione
-            
-            + Non agisce né sulla pulsione (14 a), 
+
+           
+            + Non agisce né sulla pulsione, 
                 \b che, in quanto è organica, sfugge all'alternativa conscio-inconscio, 
                 \b né sull'affetto. 
                 \b Quest'ultimo può subire diverse trasformazioni corrispondentemente alla rimozione, 
-                \b ma non può diventare inconscio stricto sensu
-                see 
-                    concept freud.repressione 
+                \b ma non può diventare inconscio stricto sensu.
+                see-concept freud.repressione 
+
+            quote
+                + Abbiamo detto che la rimozione procede dall’Io. 
+                    \b Potremmo essere più precisi e sostenere che procede dalla considerazione che l’Io ha di sé.
+                article freud.introduzione-al-narcisismo
+                e-page 4425
             
             r-concept freud.rappresentante-ideativo
                 + La rimozione agisce solo sui rappresentanti ideativi (idea, immagine, ecc.) della pulsione,
@@ -36,11 +42,11 @@ $group
                 + La rimozione è un processo psichico universale in quanto sarebbe all'origine 
                     \b della costituzione dell'inconscio come campo separato dal resto dello psichismo.
                 + Almeno fino alla formulazione del concetto di difese inconsce dell'Io
-                    \b rimozione è per Freud sinonimo di inconscio
+                    \b rimozione è per Freud sinonimo di inconscio.
             
             r-concept freud.dinamismo-psichico
                 + La rimozione è una operazione dinamica, 
-                    \b implica il mantenimento di un controinvestimento (la resistenza?)
+                    \b implica il mantenimento di un controinvestimento (la resistenza?, la censura?)
                     \b altrimenti può essere bloccata (venir meno?)
                 r-concept freud.ritorno-del-rimosso
                 r-concept freud.formazione-di-compromesso
@@ -54,13 +60,13 @@ $group
                     \b una forma di difesa dell'Io con una sua specificità.
             
             r-concept freud.difese-secondarie
-                + Le difese secondarie Freud non le chiama mai rimozioni secondarie
+                + Le difese secondarie Freud non le chiama mai rimozioni secondarie.
             
             r-concept freud.isteria
-                + La rimozione svolge un ruolo prevalente nell'isteria
+                + La rimozione svolge un ruolo prevalente nell'isteria.
         
             r-concept freud.nevrosi-ossessiva
-                + La rimozione è parte di un processo più ampio nella nevrosi ossessiva
+                + La rimozione è parte di un processo più ampio nella nevrosi ossessiva.
 
             concept fasi
                 title Rimozione - Fasi
@@ -113,4 +119,4 @@ $group
                     \b il cui soddisfacimento genera per definizione piacere
                     \b possa suscitare un dispiacere tale 
                     \b da provocare l'operazione della rimozione?
-                see freud.difesa
+                see-concept freud.difesa

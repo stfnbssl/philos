@@ -1,0 +1,6 @@
+$group
+
+    $include contenuto-onirico-manifesto
+    $include pensiero-onirico-latente
+    $include residuo-diurno
+    $include sogno

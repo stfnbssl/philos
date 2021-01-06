@@ -21,7 +21,7 @@ $group
             quote
                 + Una pulsione non può mai diventare oggetto della coscienza, 
                     \b solo l’idea che la rappresenta lo può.
-                kindle-page 4669
+                e-page 4669
                 book freud.opere-complete-kindle
             
             r-concept freud.eccitazione-esterna
@@ -58,7 +58,7 @@ $group
                     \b Essa è legata per Freud al concetto di rappresentante, 
                     \b con cui egli intende una specie di delegazione 
                     \b inviata dal somatico nello psichismo. 
-                see freud.rappresentante-psichico
+                see-concept freud.rappresentante-psichico
 
             r-concept freud.prima-topica
                 + la teoria delle pulsioni in Freud rimane sempre dualista
@@ -68,7 +68,7 @@ $group
                     \b di cui il modello è costituito dalla fame e dalla funzione di alimentazione.
                 + Questo dualismo è presente, secondo Freud, già alle origini della sessualità 
                     \b in quanto la pulsione sessuale si distacca dalle funzioni di autoconservazione 
-                    \b su cui prima si appoggiava {see freud.appoggio}; 
+                    \b su cui prima si appoggiava {see-concept freud.appoggio}; 
                     \b egli cerca di spiegare il conflitto psichico mostrando che l'Io 
                     \b trova nella pulsione di autoconservazione l'essenziale dell'energia necessaria 
                     \b alla difesa contro la sessualità.
@@ -139,7 +139,7 @@ $group
             
             concept meta
                 title Meta della pulsione
-                + le mete siano molteplici, parcellari {see freud.pulsione-parziale}, 
+                + le mete siano molteplici, parcellari {see-concept freud.pulsione-parziale}, 
                     \b e strettamente dipendenti da fonti somatiche; 
             
             concept oggetto
@@ -154,6 +154,20 @@ $group
             
             concept sessuale
                 title Pulsione sessuale
+                alias Eros
+
+                quote
+                    + [La pulsione sessuale] è di gran lunga la più appariscente e la più facile da individuare. 
+                        \b Essa comprende non soltanto la vera e propria pulsione sessuale disinibita, 
+                        \b nonché i moti pulsionali inibiti nella meta e sublimati che da questa derivano, 
+                        \b ma anche la pulsione di autoconservazione, che va attribuita all’Io, 
+                        \b e che all’inizio del lavoro analitico avevamo, sulla base di buoni motivi, 
+                        \b contrapposto alle pulsioni sessuali oggettuali.
+                        \b [..] l’Eros persegue invece il fine di complicare la vita, 
+                        \b allo scopo naturalmente di conservarla, 
+                        \b aggregando in unità sempre più vaste le particelle disperse della sostanza vivente.
+                    article freud.l-io-e-l-es
+                    e-page 5983-5984
 
             concept di-vita
                 title Pulsione di vita
@@ -161,3 +175,23 @@ $group
             
             concept di-morte
                 title Pulsione di morte
+                quote
+                    + Sulla base di considerazioni teoriche a cui la biologia ha fornito un supporto, 
+                        \b abbiamo formulato l’ipotesi di una pulsione di morte, 
+                        \b a cui compete il compito di ricondurre il vivente organico nello stato privo di vita; 
+                    article freud.l-io-e-l-es
+                    e-page 5984
+
+            concept di-vita-e-morte
+                title Le due pulsioni (vita e morte)
+                alias Dualismo pulsionale
+                
+                quote
+                    + Entrambe le pulsioni agiscono in modo conservativo, 
+                        \b nel senso più rigoroso di questo termine, 
+                        \b poiché mirano al ripristino di uno stato turbato dall’apparire della vita. 
+                        \b L’apparizione della vita sarebbe dunque la causa della continuazione della vita 
+                        \b e al tempo stesso dell’aspirazione alla morte; 
+                        \b e la vita stessa sarebbe una lotta e un compromesso fra queste due tendenze.
+                    article freud.l-io-e-l-es
+                    e-page 5984

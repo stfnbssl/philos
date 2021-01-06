@@ -3,7 +3,8 @@ $group
     e concept : item
     e relatedconcept : item
         tag r-concept
-    e see : item
+    e seeconcept : item
+        tag see-concept
     e lemma : item
     e idea : item
     e againstconcept : item

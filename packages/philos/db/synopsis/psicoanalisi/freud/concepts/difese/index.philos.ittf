@@ -1,0 +1,4 @@
+$group
+
+    $include il-rendere-non-avvenuto
+    $include l-isolare

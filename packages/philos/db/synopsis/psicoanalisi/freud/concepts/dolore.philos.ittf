@@ -1,0 +1,7 @@
+$group
+
+    namespace freud
+
+        concept dolore
+            title Dolore
+                de Schmerz

@@ -1,0 +1,7 @@
+$group
+
+    namespace freud
+
+        concept metodo-analitico
+            title Metodo analitico
+            

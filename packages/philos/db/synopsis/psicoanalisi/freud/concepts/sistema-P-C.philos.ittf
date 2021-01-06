@@ -2,7 +2,7 @@ $group
 
     namespace freud
 
-        concept sistema-P-C
+        concept sistema-p-c
             title Sistema P-C
             alias Sistema Percezione-Coscienza
             quote
@@ -13,5 +13,5 @@ $group
                     \b si può assegnare al sistema P-C una collocazione spaziale. 
                     \b Esso dovrà trovarsi al confine tra l’esterno e l’interno, 
                     \b essere rivolto al mondo esterno e includere gli altri sistemi psichici.
-                kindle-page 5657
+                e-page 5657
                 book freud.opere-complete-kindle

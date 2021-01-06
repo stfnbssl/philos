@@ -6,10 +6,17 @@ $group
             title Angoscia
 
             quote
+                + Nell’uomo e negli animali superiori sembra che l’atto della nascita, 
+                    \b in quanto prima esperienza individuale di angoscia, 
+                    \b abbia conferito aspetti caratteristici all’espressione dell’affetto d’angoscia in genere.
+                article freud.inibizione-sintomo-e-angoscia
+                e-page 6373
+
+            quote
                 + A ciò si aggiunga che l’angoscia è il diretto contrario del desiderio, 
                     \b che i contrari si trovano particolarmente vicini tra loro nell’associazione e, 
                     \b come abbiamo visto, coincidono nell’inconscio;
-                kindle-page p. 5062
+                e-page p. 5062
                 book freud.opere-complete-kindle
             
             quote
@@ -24,7 +31,7 @@ $group
                     \b che interessano gli organi respiratori e il cuore.
                     \b Esse testimoniano che innervazioni motorie, e quindi processi di scarica, 
                     \b prendono parte al meccanismo generale dell’angoscia.
-                kindle-page 6419
+                e-page 6419
                 book freud.opere-complete-kindle
 
             quote
@@ -33,14 +40,14 @@ $group
                     \b ha come contenuto la separazione da un oggetto altamente stimato, 
                     \b e che l’angoscia più primitiva (l’“angoscia primaria” della nascita) 
                     \b ebbe luogo con la separazione dalla madre.
-                kindle-page 6425
+                e-page 6425
                 book freud.opere-complete-kindle
 
             quote
                 + L’angoscia è uno stato affettivo che naturalmente soltanto l’Io può percepire. 
                     \b L’Es non può avere angoscia come l’Io: 
                     \b non è un’organizzazione, non può giudicare situazioni di pericolo.
-                kindle-page 6429
+                e-page 6429
                 book freud.opere-complete-kindle
 
             quote
@@ -55,7 +62,7 @@ $group
                     \b Oppure, con riferimento alle affezioni vere e proprie che ne provengono: 
                     \b [2] che il secondo caso si verifica nell’etiologia delle nevrosi attuali, 
                     \b [1] mentre il primo rimane caratteristico per l’etiologia delle psiconevrosi.
-                kindle-page 6429-6430
+                e-page 6429-6430
                 book freud.opere-complete-kindle
 
             quote
@@ -63,7 +70,7 @@ $group
                     \b abbia nell’isteria una parte simile 
                     \b a quella che la minaccia d’evirazione ha nelle fobie, 
                     \b e l’angoscia del Super-io nella nevrosi ossessiva.
-                kindle-page 6431-6432
+                e-page 6431-6432
                 book freud.opere-complete-kindle
 
             concept morale
@@ -78,17 +85,28 @@ $group
                         \b Espresso più in generale, ciò che l’Io considera come un pericolo 
                         \b e a cui risponde col segnale d’angoscia è l’ira, è la punizione del Super-io, 
                         \b la perdita dell’amore da parte di questo.
-                    kindle-page 6428
+                    e-page 6428
                     book freud.opere-complete-kindle
 
             concept di-morte
                 title Angoscia di morte
-                alias angoscia delle forze del destino
+                alias Angoscia delle forze del destino
+
+                quote
+                    + L’angoscia di morte nella melanconia ammette soltanto la seguente spiegazione: 
+                        \b l’Io rinuncia a se stesso, giacché, invece che amato, si sente odiato e perseguitato dal Super-io.
+                        \b Vivere è dunque per l’Io equivalente a essere amato, a essere amato dal Super-io, 
+                        \b che anche qui compare in veste di rappresentante dell’Es. 
+                        \b Il Super-io svolge la stessa funzione protettiva e salvatrice 
+                        \b che anticamente ha svolto il padre e in seguito la Provvidenza o il destino.
+                    article freud.l-io-e-l-es
+                    e-page 6005
+                
                 quote
                     + Ultima metamorfosi di tale angoscia di fronte al Super-io 
                         \b mi è sembrata l’angoscia di fronte alla morte (o di fronte alla vita), 
                         \b l’angoscia di fronte alla proiezione del Super-io nelle forze del destino
-                    kindle-page 6428
+                    e-page 6428
                     book freud.opere-complete-kindle
 
             concept di-evirazione
@@ -98,8 +116,18 @@ $group
                         \b l’angoscia di evirazione che compare nella fase fallica, 
                         \b è un’angoscia di distacco ed è legata alla stessa condizione. 
                         \b Il pericolo è qui una separazione dal genitale.
-                    kindle-page 6427
+                    e-page 6427
                     book freud.opere-complete-kindle
+
+                r-concept freud.super-io
+                    quote
+                        + Eppure, se ci domandiamo che cosa l’Io tema da parte del Super-io, 
+                            \b ci s’impone l’idea che la punizione del Super-io 
+                            \b sia una continuazione di quella dell’evirazione. 
+                            \b Come il Super-io è il padre divenuto impersonale, 
+                            \b così l’angoscia dell’evirazione minacciata dal padre 
+                            \b si è trasformata in un’indeterminata angoscia sociale o angoscia morale.
+                        e-page 6415
 
             concept reale
                 title Angoscia reale

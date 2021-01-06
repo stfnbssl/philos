@@ -3,21 +3,29 @@ $group
         tag +
     e li : item
     e page : item
-    e kindleloc : item
-        tag kindle-loc
-    e kindlepage : item
-        tag kindle-page
+    e ereader : item
+        tag e-reader
+    e eloc : item
+        tag e-loc
+    e epage : item
+        tag e-page
     e title : item
         a original
     e editor : item
     e written : item
+    e datepub : item
+        tag date-pub
     e coeditor : item
         tag co-editor
     e edition : item
         a year
     e book : item
+    e ebook : item
+        tag e-book
     e backcover : item
         tag back-cover
+    e textabstract : item
+        tag abstract
     e index : item
     e article : item
     e letter : item

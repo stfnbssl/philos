@@ -7,10 +7,10 @@ $group
         # log 'Quote', item
         if item.page
             set page = 'pag. ' + item.page
-        elif item.kindlepage
-            set page = 'kindle pag. ' + item.kindlepage
-        elif item.kindleloc
-            set page = 'kindle loc. ' + item.kindleloc
+        elif item.epage
+            set page = 'kindle pag. ' + item.epage
+        elif item.eloc
+            set page = 'kindle loc. ' + item.eloc
         return
             blockquote
                 {

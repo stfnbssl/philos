@@ -1,0 +1,5 @@
+$group
+
+    $include nevrosi
+    $include nevrosi-ossessiva
+    $include nevrosi-traumatica

@@ -1,0 +1,36 @@
+$group
+
+    namespace freud
+
+        concept delirio
+            title Delirio
+
+            r-concept freud.verità-storica
+                
+                quote
+                    + [..] la follia non ha soltanto un metodo (come già il poeta le riconosceva), 
+                        \b ma contiene altresì un brano di verità storica; 
+                        \b e ci vien fatto di supporre che il modo ossessivo con cui si crede ai deliri 
+                        \b derivi la sua forza proprio da questa fonte infantile.
+                    article freud.costruzioni-dell-analisi
+                    e-page 7443
+
+                quote
+                    + Si rinuncerebbe al vano tentativo di persuadere il paziente che 
+                        \b il suo delirio è assurdo e contraddice la realtà; 
+                        \b anzi, nel riconoscimento del nucleo di verità del delirio stesso 
+                        \b si troverebbe il terreno comune sul quale il lavoro terapeutico potrebbe svilupparsi. 
+                        \b Questo lavoro consisterebbe nel liberare il brano di verità storica 
+                        \b dalle sue deformazioni e dai suoi agganci con la realtà del presente e 
+                        \b nel riportarlo al luogo del passato cui propriamente appartiene.
+                    article freud.costruzioni-dell-analisi
+                    e-page 7443-7444
+                    see-concept freud.lavoro-analitico
+
+                quote
+                    + Come la nostra costruzione solo in tanto è efficace 
+                        \b in quanto restituisce un brano dell’esistenza andato perduto, 
+                        \b così anche il delirio deve la propria forza di convinzione 
+                        \b alla parte di verità storica che ha inserito al posto della realtà ripudiata.
+                    article freud.costruzioni-dell-analisi
+                    e-page 7444

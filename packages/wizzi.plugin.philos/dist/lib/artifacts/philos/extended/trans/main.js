@@ -493,11 +493,11 @@ function fillQuote(parent, currentObj, resultObj) {
         else if (child.wzElement == 'page') {
             quoteObj.page = child.wzName;
         }
-        else if (child.wzElement == 'kindleloc') {
-            quoteObj.kindleloc = child.wzName;
+        else if (child.wzElement == 'eloc') {
+            quoteObj.eloc = child.wzName;
         }
-        else if (child.wzElement == 'kindlepage') {
-            quoteObj.kindlepage = child.wzName;
+        else if (child.wzElement == 'epage') {
+            quoteObj.epage = child.wzName;
         }
         else if (child.wzElement == 'book') {
             quoteObj.book = child.wzName;
@@ -593,6 +593,9 @@ functors.book = function(parent, resultObj) {
         if (child.wzElement == "title") {
             bookObj.title = child.wzName;
         }
+        else if (child.wzElement == "datepub") {
+            bookObj.datepub = child.wzName;
+        }
         else if (child.wzElement == "edition") {
             bookObj.edition = child.wzName;
         }
@@ -618,7 +621,7 @@ functors.book = function(parent, resultObj) {
             var j, j_items=child.items, j_len=child.items.length, c2;
             for (j=0; j<j_len; j++) {
                 c2 = child.items[j];
-                fillContents(c2, backcoverObj);
+                fillContents(c2, backcoverObj, resultObj);
             }
             bookObj.backcover = backcoverObj;
         }
@@ -628,13 +631,19 @@ functors.book = function(parent, resultObj) {
         else if (child.wzElement == "source") {
             functors.source(child, bookObj);
         }
+        else if (child.wzElement == "textabstract") {
+            functors.abstract(child, bookObj, resultObj);
+        }
+        else if (child.wzElement == "ereader") {
+            bookObj.ereader = child.wzName;
+        }
         else if (child.wzElement == "buy") {
             bookObj.buys.push({
                 seller: child.seller, 
                 url: child.url
             });
         }
-        else if (!fillContents(child, bookObj)) {
+        else if (!fillContents(child, bookObj, resultObj)) {
         }
         else {
             newitems.push(child);
@@ -681,6 +690,9 @@ functors.article = function(parent, resultObj) {
         if (child.wzElement == "title") {
             articleObj.title = child.wzName;
         }
+        else if (child.wzElement == "datepub") {
+            articleObj.datepub = child.wzName;
+        }
         else if (child.wzElement == "edition") {
             articleObj.edition = child.wzName;
         }
@@ -696,16 +708,19 @@ functors.article = function(parent, resultObj) {
         else if (child.wzElement == 'page') {
             articleObj.page = child.wzName;
         }
-        else if (child.wzElement == 'kindle-page') {
-            articleObj.kindlepage = child.wzName;
+        else if (child.wzElement == 'e-page') {
+            articleObj.epage = child.wzName;
         }
-        else if (child.wzElement == 'kindle-loc') {
-            articleObj.kindleloc = child.wzName;
+        else if (child.wzElement == 'e-loc') {
+            articleObj.eloc = child.wzName;
         }
         else if (child.wzElement == "source") {
             functors.source(child, bookObj);
         }
-        else if (!fillContents(child, articleObj)) {
+        else if (child.wzElement == "textabstract") {
+            functors.abstract(child, articleObj, resultObj);
+        }
+        else if (!fillContents(child, articleObj, resultObj)) {
         }
         else {
             newitems.push(child);
@@ -718,6 +733,28 @@ functors.article = function(parent, resultObj) {
         doitem(child, resultObj);
     }
     return articleObj;
+};
+functors.abstract = function(field, parentObj, resultObj) {
+    var abstractObj = {
+        contents: [
+            
+        ]
+    };
+    var i, i_items=field.items, i_len=field.items.length, child;
+    for (i=0; i<i_len; i++) {
+        child = field.items[i];
+        if (child.wzElement == "epage") {
+            abstractObj.epage = child.wzName;
+        }
+        else if (child.wzElement == "eloc") {
+            abstractObj.eloc = child.wzName;
+        }
+        else if (!fillContents(child, abstractObj, resultObj)) {
+        }
+        else {
+        }
+    }
+    parentObj.abstract = abstractObj;
 };
 functors.source = function(parent, resultObj) {
     var sourceObj = {

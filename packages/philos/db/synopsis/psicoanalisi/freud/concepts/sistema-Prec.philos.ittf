@@ -2,5 +2,22 @@ $group
 
     namespace freud
 
-        concept sistema-Prec
+        concept sistema-prec
             title Sistema Prec
+
+            quote
+                + Vi sono dunque due tipi di inconscio, 
+                    \b che negli psicologi non troviamo ancora distinti. 
+                    \b [..] l’altro viene da noi chiamato Prec, 
+                    \b perché i suoi eccitamenti, sia pur sottostando, è vero, a certe regole 
+                    \b – forse soltanto superando una nuova censura, 
+                    \b ma senza tener conto del sistema Inc – 
+                    \b possono giungere alla coscienza.
+                e-page 1840
+                article freud.l-interpretazione-dei-sogni
+
+            quote
+                + il sistema Prec sta come uno schermo tra il sistema Inc e la coscienza;
+                e-page 1840
+                article freud.l-interpretazione-dei-sogni
+

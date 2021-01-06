@@ -96,10 +96,10 @@ $group
                         set quoteObj.unknown = item.wzElement
             elif child.wzElement == 'page'
                 set quoteObj.page = child.wzName
-            elif child.wzElement == 'kindleloc'
-                set quoteObj.kindleloc = child.wzName
-            elif child.wzElement == 'kindlepage'
-                set quoteObj.kindlepage = child.wzName
+            elif child.wzElement == 'eloc'
+                set quoteObj.eloc = child.wzName
+            elif child.wzElement == 'epage'
+                set quoteObj.epage = child.wzName
             elif child.wzElement == 'book'
                 set quoteObj.book = child.wzName
             elif child.wzElement == 'article'

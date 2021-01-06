@@ -1,0 +1,26 @@
+$group
+
+    namespace freud
+
+        concept spinta-ascensionale-rimosso
+            title Spinta ascensionale del rimosso
+                de Auftrieb
+                
+                quote
+                    + La “spinta ascensionale” del rimosso, resa attiva dalla comunicazione della costruzione, 
+                        \b aveva inteso portare alla coscienza determinate importanti tracce mnestiche; 
+                        \b ma una resistenza era riuscita se non proprio ad arrestare questo movimento, 
+                        \b quanto meno a spostarlo su oggetti adiacenti e di secondaria importanza.
+                    article freud.costruzioni-dell-analisi
+                    e-page 7442
+
+                r-concept freud.delirio
+                    quote
+                        + Ma il processo dinamico non potrebbe consistere piuttosto nel fatto che 
+                            \b il distacco dalla realtà viene sfruttato dalla spinta ascensionale del rimosso 
+                            \b per imporre il contenuto di quest’ultimo alla coscienza, 
+                            \b mentre le resistenze evocate da tale processo e 
+                            \b la tendenza all’appagamento di desiderio potrebbero dividersi la responsabilità 
+                            \b della deformazione e dello spostamento di ciò che ritorna alla memoria?
+                        article freud.costruzioni-dell-analisi
+                        e-page 7443

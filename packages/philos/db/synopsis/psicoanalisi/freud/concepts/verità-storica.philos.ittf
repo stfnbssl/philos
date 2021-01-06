@@ -1,0 +1,7 @@
+$group
+
+    namespace freud
+
+        concept verità-storica
+            title Verità storica
+            see-concept freud.verità-materiale

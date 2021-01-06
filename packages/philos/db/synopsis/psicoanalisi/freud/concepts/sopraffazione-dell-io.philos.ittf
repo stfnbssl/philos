@@ -1,0 +1,14 @@
+$group
+
+    namespace freud
+
+        concept sopraffazione-dell-io
+            title Sopraffazione dell'Io
+                de Überwältigung das Ich
+            
+            quote
+                + Ciò che l’Io propriamente teme dai pericoli esterni o 
+                    \b dal pericolo rappresentato dalla libido nell’Es, non è determinabile; 
+                    \b sappiamo che si tratta del timore di venir sopraffatto o annientato, 
+                    \b ma la cosa non è intelligibile sotto il profilo analitico.
+                e-page 6004

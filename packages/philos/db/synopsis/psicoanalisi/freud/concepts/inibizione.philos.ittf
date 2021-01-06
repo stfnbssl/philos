@@ -1,0 +1,14 @@
+$group
+
+    namespace freud
+
+        concept inibizione
+            title Inibizione
+
+            quote
+                + L’inibizione ha un particolare rapporto con la funzione, 
+                    \b e non significa necessariamente un che di patologico: 
+                    \b una normale limitazione di una funzione può anche essere chiamata 
+                    \b inibizione della stessa.
+                article freud.inibizione-sintomo-e-angoscia
+                e-page 6364

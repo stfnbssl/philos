@@ -1,0 +1,15 @@
+$group
+
+    namespace freud
+
+        concept residuo-mnestico
+            title Residuo mnestico
+
+            concept acustico
+                title Residuo mnestico acustico
+
+            concept ottico
+                title Residuo mnestico ottico
+
+            concept tattile
+                title Residuo mnestico tattile

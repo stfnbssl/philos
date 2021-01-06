@@ -2,27 +2,32 @@ $group
 
     namespace freud
 
-        concept freud.sogno
+        concept sogno
+            title Sogno
 
             + I sintomi nevrotici sono i parenti prossimi del sogno.
 
             quote
                 + Il sogno è, in breve, una delle vie indirette per aggirare la rimozione
                 book freud.opere-complete
-                kindle-page 2236
+                e-page 2236
 
             concept infantile
+                title Sogno infantile
                 + È l'aperto appagamento di un desiderio ammesso.
 
             concept deformato
+                title Sogno deformato
                 + È l'appagamento camuffato di un desiderio rimosso.
 
             concept d-angoscia
+                title Sogno d'angoscia
                 + È l'aperto appagamento di un desiderio rimosso.
+                
                 quote
                     + Comunemente il sogno d’angoscia è anche un sogno di risveglio; 
                         \b noi siamo soliti interrompere il sonno prima 
                         \b che il desiderio rimosso che è nel sogno 
                         \b abbia imposto il suo pieno appagamento contro la censura.
                     book freud.opere-complete
-                    kindle-page 5059
+                    e-page 5059

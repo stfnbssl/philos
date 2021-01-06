@@ -148,6 +148,7 @@ $group
                             span in {bookObj.title}
                 < ContentText
                     @ item {item}
+                    @ jsonData {jsonData} 
                 {
                     &&
                         + item.url
@@ -157,6 +158,18 @@ $group
                                 href {item.url}
                                 target _blank
                                 rel noopener noreferrer 
+
+                {
+                    &&
+                        + item.abstract
+                        < Paper
+                            @ className "abstract-box"
+                            div abstract
+                                @ className "abstract-title"
+                            div
+                                < ContentText
+                                    @ item {item.abstract}
+                                    @ jsonData {jsonData} 
 
     function BookListItem
         param props
@@ -187,6 +200,7 @@ $group
                 div {item.edition}
                 < ContentText
                     @ item {item}
+                    @ jsonData {jsonData} 
 
     function PublicationAuthors
         param props

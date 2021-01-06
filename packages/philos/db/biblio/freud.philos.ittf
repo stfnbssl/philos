@@ -3,30 +3,132 @@ $group
     namespace freud
         author Freud
 
+        article minuta-k
+            title Minuta K. Le nevrosi da difesa (Favola di Natale)
+            date-pub 1985/12/25
+            book freud.opere-II
+            e-book opere-complete-kindle
+            abstract
+                + Nella Minuta K (Natale 1895), che contiene nel complesso gli elementi dell’articolo Nuove osservazioni sulle neuropsicosi da difesa (spedita all’editore il 5 febbraio successivo), è esposto quel principio del ritorno del rimosso a cui Freud in tutta la sua opera successiva fa assai spesso riferimento.
+                e-page 597-598
+
+        article nuove-osservazioni-sulle-neuropsicosi-da-difesa
+            title Nuove osservazioni sulle neuropsicosi da difesa
+            date-pub 1986/02/05
+            book freud.opere-II
+            e-book opere-complete-kindle
+            abstract
+                + Esso rappresenta la più compiuta esposizione di quella teoria del trauma sessuale specifico, per l’isteria e per la nevrosi ossessiva, che presentatasi a Freud nell’ottobre del 1895 mentre era impegnato a scrivere il Progetto di una psicologia, era stata esposta concisamente nella Minuta teorica K (Natale 1895) e nel precedente articolo. In modo particolare sono illustrate le varie fasi del meccanismo di produzione della nevrosi ossessiva, sotto forma di rappresentazioni ossessive (Zwangsvorstellungen), di affetti ossessivi (Zwangsaffekte) e di azioni ossessive (Zwangshandlungen). Notevole è la interpretazione dei sintomi come formazioni di compromesso tra fattori rimossi e fattori rimoventi, formazioni dovute a un ritorno del rimosso (concetto questo accennato nella Minuta teorica K), interpretazione che rimarrà valida per Freud anche dopo abbandonata la tesi del trauma sessuale specifico. Nel terzo paragrafo di questo articolo è esposto un caso, indicato come caso di paranoia cronica (denominazione che tuttavia Freud, ripubblicando il lavoro nelle Gesammelte Schriften, rettificò in demenza paranoide). Freud si sforza di riportare questo caso a un’etiologia simile a quella delle nevrosi ossessive (pratiche di esibizionismo reciproco, ripetute per un lungo periodo nell’infanzia tra la paziente e un fratello) utilizzando il concetto della difesa e della proiezione psichica (vedi la Minuta teorica H del 24 gennaio 1895 e la già citata Minuta teorica K). Nel presente lavoro Freud usa per la prima volta il termine psicoanalisi (Psychoanalyse) in lingua tedesca. Riportando nelle Gesammelte Schriften questo articolo (che in quella raccolta precede l’articolo in francese L’ereditarietà e l’etiologia delle nevrosi) Freud dichiara in una nota (qui riprodotta come nota 332), che la teoria del trauma sessuale specifico deve considerarsi errata, in quanto fondata sulla mancata distinzione tra fantasie dei nevrotici e ricordi veri. La scoperta che i ricordi di esperienze sessuali infantili, raccontati durante l’analisi da soggetti affetti da isteria o da nevrosi ossessiva, possono essere fantasie successivamente costruite e proiettate come ricordi nella prima infanzia, fu fatta da Freud in modo drammatico nel corso della propria autoanalisi. Si conosce il momento preciso di questa scoperta da una lettera a Fliess del 21 settembre 1897 (vedi a questo proposito la Introduzione al vol. 3 della presente edizione).
+                e-page 957-958
+
+        article al-di-la-del-principio-del-piacere
+            title Al di la del principio di piacere
+            book freud.opere-IX
+            e-book opere-complete-kindle
+
+        article freud.carattere-ed-erotismo-anale            
+            title Carattere ed erotismo anale            
+            book opere-V
+            e-book opere-complete-kindle
+
+        article costruzioni-dell-analisi
+            title Costruzioni dell'analisi
+            book opere-XI
+            e-book opere-complete-kindle
+
+        article freud.introduzione-al-narcisismo
+            title Introduzione al narcisismo
+            book opere-VII
+            e-book opere-complete-kindle
+
+        article freud.inibizione-sintomo-e-angoscia
+            title Inibizione, sintomo e angoscia
+            date-pub 1926/02/01
+            book opere-X
+            e-book opere-complete-kindle
+            abstract 
+                + Si tratta di un lavoro che, malgrado alcune imperfezioni formali derivanti dalla massa di problemi affrontati in una esposizione relativamente breve e riassuntiva, fornisce un contributo fondamentale alla dottrina psicoanalitica. 
+                + Dopo la profonda trasformazione operatasi nel suo pensiero nei primi anni ’20 (soprattutto in L’Io e l’Es del 1922), Freud sentì il bisogno di rivedere i problemi della psicogenesi delle manifestazioni nevrotiche in base a tali nuovi punti di vista teorici. E s’interessò soprattutto al problema dell’angoscia e delle fobie. 
+                + All’inizio della sua attività scientifica, Freud aveva fondato la concezione delle psiconevrosi sulla nozione di difesa (Abwehr). Più tardi la forma tipica della difesa nevrotica gli era apparsa la rimozione (Verdrängung), come espulsione della coscienza nell’inconscio. La tecnica stessa della psicoanalisi, ribadita in modo specifico in Nuovi consigli sulla tecnica della psicoanalisi: 2. Ricordare, ripetere e rielaborare (1914), appariva come lotta contro la rimozione, anche se la semplice rievocazione della situazione traumatica non risultava per sé stessa sufficiente a produrre automaticamente la guarigione. 
+                + Già in altre opere, dedicate soprattutto alle nevrosi ossessive, era apparso a Freud che oltre alla rimozione, altri meccanismi sostenessero la nevrosi. Nella presente opera Freud osserva che questi altri meccanismi non possono essere considerati semplici manifestazioni accessorie. Essi svolgono un’azione di difesa dall’angoscia che equivale, per importanza, all’azione svolta dalla rimozione nell’isteria. È perciò conveniente riprendere l’originario concetto di difesa, e considerare la rimozione come uno dei tanti meccanismi di difesa, accanto al quale vanno indicati tutti i procedimenti messi in atto dall’Io contro l’angoscia, come le tecniche dell’“ isolare” e del “rendere non avvenuto” tipiche delle nevrosi ossessive. 
+                + Appare così in germe lo studio generale dei meccanismi di difesa dell’Io, che verrà condotto sistematicamente da Anna Freud. 
+                + Ma alla base della nevrosi rimaneva l’angoscia, l’angoscia che è collegata all’attesa di un pericolo indeterminato, e che diventa paura (Furcht) quando si collega a un oggetto avvertito come pericolo. Ma va detto che non sempre Freud è coerente con tale distinzione terminologica e spesso usa il termine Angst riferito a un oggetto ben preciso che il soggetto reputa pericoloso. Per questo nella traduzione italiana tale termine è reso ora con angoscia, ora con paura o timore. 
+                + La vecchia teoria, enunciata da Freud, secondo cui l’angoscia altro non sarebbe che libido convertita, viene qui, se non decisamente rifiutata, svuotata del suo originario significato. Essa rimane vera, dice Freud qui nel cap. 2, se ci si limita a una descrizione dei fenomeni, non se di essi si vuol dare una rappresentazione metapsicologica. È invece ripresa la distinzione fra l’angoscia quale segnale di pericolo, e l’angoscia quale reazione al pericolo stesso. 
+                + Freud affronta anche il problema dei rapporti fra angoscia e trauma della nascita. Mentre conviene che le prime manifestazioni fisiche dell’angoscia possano sorgere in occasione della nascita, rifiuta e confuta la dottrina di Otto Rank, che attribuisce al trauma della nascita un significato psicologico fondamentale per la produzione della nevrosi. 
+                + Le difficoltà incontrate da Freud nell’affrontare secondo la nuova concezione metapsicologica i problemi dell’angoscia e dei sintomi nevrotici è rivelata, nella presente opera, anche dalla necessità da lui avvertita di aggiungere allo scritto una sorta di appendice (il cap. 11), anzi di più appendici raggruppate in quel capitolo, nelle quali vengono ripresi, per meglio chiarirli, i problemi già precedentemente trattati. 
+                + Quest’opera è stata portata a conoscenza del pubblico italiano nella traduzione di Emilio Servadio, in un volumetto a sé: S. Freud, Inibizione, sintomo e angoscia (Einaudi, Torino 1951). Della prefazione di Servadio riportiamo qui l’ultima pagina: 
+                quote
+                    + “Sebbene, come si è visto, alquanto oscillante, non priva di punti oscuri e ricca di quesiti non risolti, l’esposizione freudiana dell’angoscia è tuttavia estremamente stimolante e tale da indurre a sempre nuove e utili riflessioni. Forse il luogo d’incontro che potrebbe conciliare le varie e diverse vedute qui ricordate, va cercato nel fondamentale e precoce stabilirsi di una ‘dialettica’ interiore in seno all’apparato psichico umano. I vari aspetti fenomenologici di questa dialettica si possono ravvisare sia in taluni momenti salienti della progressiva individualizzazione rispetto al mondo esterno, – nascita, divezzamento –; sia, e a nostro avviso con molto maggiore importanza per la formazione dell’individualità psichica, nelle precoci ‘divisioni interne’ per cui l’uno o l’altro oggetto o istanza interiore assume una sorta di autonomia rispetto ad altri oggetti e istanze. Dalla fase di ‘non distinzione’, propria alla vita fetale, l’individuo passa, con la nascita, dapprima a una nuova situazione, puramente subiettiva, di non distinzione (l’‘ Io egocosmico’ di Federn), e subito dopo, già nei primi mesi dell’esistenza, a situazioni di ‘distinzione’ sia esterna che interna. A tale sorte dell’essere, alla tensione che si stabilisce tra la situazione di fatto e la tendenza a un ritorno all’indistinto, alla contraddizione immanente tra il desiderio dell’uno e la necessità del molteplice, è probabilmente da ricondurre l’origine di ogni angoscia umana. L’angoscia del neonato che non fa più tutt’uno con la madre, quella dell’infante separato dalla mammella materna, quella del bambino che teme la perdita della figura protettrice, quella del fanciullo – o dell’adulto nevrotico – insicuro, quella dell’Io di fronte alle ‘forze straniere’ dell’Es o all’‘ oggetto temibile’ interno (Super-io o suo precursore) – tutti questi tipi di angoscia hanno un aspetto comune: il fatto che l’individuo, per vivere, deve ‘distinguere’ – dentro e fuori di sé; mentre rimane in lui l’attrazione regressiva verso l’indistinto, quell’attrazione perigliosa che Freud ha descritto nelle prime pagine del Disagio della civiltà (1929), il ‘sentimento oceanico’ per cui si vorrebbe – contro le forze che spingono all’obiettivazione – far tutt’uno col mondo e con le cose (vedi cap. 1, in OSF, vol. 10). L’angoscia è il prezzo di questa rinunzia: prezzo eccessivo e antieconomico nel nevrotico, giusto prezzo per chi accetta di vivere e di operare.”
+                e-page 6360-6363
+
+        article la-morale-sessuale-civile-e-il-nervosismo-moderno
+            title La morale sessuale “civile” e il nervosismo moderno
+            book freud.opere-V
+            e-book opere-complete-kindle
+
+        article l-inconscio
+            title L'Inconscio
+            book freud.opere-VIII
+            e-book opere-complete-kindle
+
+        article l-interpretazione-dei-sogni
+            title L'interpretazione dei sogni
+            book freud.opere-III
+            e-book opere-complete-kindle
+
+        article l-io-e-l-es
+            title L'Io e l'Es
+            book freud.opere-IX
+            e-book opere-complete-kindle
+
+
+        article precisazione-sui-due-principi-dell-accadere-psichico
+            title Precisazione sui due principi dell'accadere psichico
+            book opere-complete-kindle
+            e-book opere-complete-kindle
+
+        article psicologia-delle-masse-e-analisi-dell-io
+            title Psicologia delle masse e analisi dell'Io
+            book freud.opere-IX
+            e-book opere-complete-kindle
+
+        article qualche-parola-sull'inconscio
+            title Qualche parola sull'inconscio
+            book freud.opere-IX
+            e-book opere-complete-kindle
+
         book l-interpretazione-dei-sogni
             title L'interpretazione dei sogni
             edition 1900, Bollati Boringhieri
             title L’interpretazione dei sogni
 
-        book opere-complete-kindle
-            title Opere complete kindle
-            edition Bollati Boringhieri. Kindle Edition.
-        
-        article al-di-la-del-principio-del-piacere
-            title Al di la del principio di piacere
-            book freud.opere-IX
+        book opere-I
+            title Le opere. Volume I. Studi sull'isteria e altri scritti.
+            edition 1976, Bollati Boringhieri
 
-        article psicologia-delle-masse-e-analisi-dell-io
-            title Psicologia delle masse e analisi dell'Io
-            book freud.opere-IX
+        book opere-II
+            title Le opere. Volume II. Il progetto di una psicologia e altri scritti.
+            edition 1976, Bollati Boringhieri
 
-        article la-morale-sessuale-civile-e-il-nervosismo-moderno
-            title La morale sessuale “civile” e il nervosismo moderno
-            book freud.opere-V
+        book opere-III
+            title Le opere. Volume III. L'interpretazione dei sogni.
+            edition 1976, Bollati Boringhieri
 
-        article l-inconscio
-            title L'Inconscio
-            book freud.opere-VIII
+        book opere-IV
+            title Le opere. Volume IV. Tre saggi sulla teoria sessuale e altri scritti.
+            edition 1976, Bollati Boringhieri
+
+        book opere-V
+            title Le opere. Volume V. Il motto di spirito e altri scritti.
+            edition 1976, Bollati Boringhieri
+
+        book opere-VI
+            title Le opere. Volume VI. Casi clinici e altri scritti.
+            edition 1976, Bollati Boringhieri
+
+        book opere-VII
+            title Le opere. Volume VII. Totem e tabù e altri scritti.
+            edition 1976, Bollati Boringhieri
 
         book opere-VIII
             title Le opere. Volume VIII. Introduzione alla psicanalisi e altri scritti.
@@ -35,5 +137,17 @@ $group
         book opere-IX
             title Le opere. Volume IX. L'Io e l'Es e altri scritti.
             edition 1976, Bollati Boringhieri
-            
+
+        book opere-X
+            title Le opere. Volume X. Inibizione, sintomo e angoscia e altri scritti
+            edition 1976, Bollati Boringhieri
+
+        book opere-XI
+            title Le opere. Volume XI. L'uomo Mosé e la religione monoteistica e altri scritti
+            edition 1976, Bollati Boringhieri
+
+        e-book opere-complete-kindle
+            e-reader kindle
+            title Opere complete (kindle)
+            edition Bollati Boringhieri. Kindle Edition.          
 

@@ -1,0 +1,17 @@
+$group
+
+    namespace freud
+
+        concept lavoro-analitico
+            title Lavoro analitico
+            quote
+                + L’intento del lavoro analitico è notoriamente quello di far sì che 
+                    \b il paziente rinunci alle rimozioni – nel più ampio senso intese – 
+                    \b che risalgono al suo antico sviluppo e 
+                    \b le sostituisca con reazioni tali da poter corrispondere a uno stato di maturità psichica. 
+                    \b A tal fine egli deve ripristinare il ricordo di determinati episodi, 
+                    \b nonché dei moti affettivi da essi suscitati, 
+                    \b che al momento risultano in lui dimenticati. 
+                e-page 7431
+                article freud.costruzioni-dell-analisi
+

@@ -4,11 +4,16 @@ $group
 
         concept sensazione
             title Sensazione
+                de Sinneswahrnehmungen
+
+        concept sensazione-interna
+            title Sensazione interna
+                de Empfindungen
             
             quote
                 + La percezione interna fornisce sensazioni relative a processi appartenenti ai più svariati, 
                     \b e certamente anche ai più profondi strati dell’apparato psichico. 
                     \b [..] Queste sensazioni sono più primordiali, più elementari delle sensazioni provenienti dall’esterno, 
                     \b e possono prodursi anche in stati di coscienza crepuscolare.
-                kindle-page 5963
+                e-page 5963
                 book freud.opere-complete-kindle

@@ -1,0 +1,12 @@
+$group
+
+    namespace freud
+
+        concept diavolo
+            title Diavolo
+
+            quote
+                + [..] e certamente il diavolo non è altro che la personificazione 
+                    \b della vita pulsionale inconscia rimossa.
+                article freud.carattere-ed-erotismo-anale
+                e-page 2994

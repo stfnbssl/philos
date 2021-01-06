@@ -1,0 +1,17 @@
+$group
+
+    namespace freud
+
+        concept costruzione-analitica
+            title Costruzione analitica
+
+            quote
+                + Se nelle esposizioni della tecnica analitica si sente parlare così poco delle “costruzioni”, 
+                    \b ciò dipende dal fatto che in loro vece si parla delle “interpretazioni” e dei loro effetti. 
+                    \b Ma io penso che “costruzione” sia la definizione di gran lunga più appropriata. 
+                    \b L’“ interpretazione” si riferisce a ciò che si intraprende con un singolo elemento del materiale: 
+                    \b un’idea improvvisa, un atto mancato e così via. 
+                    \b Una “costruzione” si dà invece quando si presenta all’analizzato 
+                    \b un brano della sua storia passata e dimenticata [..]
+                article freud.costruzioni-dell-analisi
+                e-page 7435

@@ -4,9 +4,33 @@ $group
 
         concept traslazione
             title Traslazione
+            
             quote
-                + [..] una tale elaborazione psichica anormale di una successione di pensieri normale 
+                + [..] una tale elaborazione psichica anormale [nel sintomo isterico come nel sogno] 
+                    \b di una successione di pensieri normale 
                     \b si verifica solo quando quest’ultima si è fatta traslazione di un desiderio inconscio, 
                     \b che deriva dal materiale infantile e si trova in stato di rimozione.
-                book freud.l-interpretazione-dei-sogni
+                article freud.l-interpretazione-dei-sogni
+                e-page 1822
 
+            quote
+                + Abbiamo sperimentato che il rapporto di traslazione 
+                    \b che si istituisce nei confronti dell’analista 
+                    \b è particolarmente idoneo a promuovere il ritorno 
+                    \b di relazioni affettive di tal fatta [ripetizioni degli affetti relativi al rimosso].
+                article freud.costruzioni-dell-analisi
+                e-page 7431
+
+            quote
+                + L’analista deve scoprire, o per essere più esatti costruire 
+                    \b il materiale dimenticato a partire dalle tracce 
+                    \b che quest'ultimo ha lasciato dietro di sé. 
+                    \b [..] Il suo lavoro di costruzione o, se si preferisce, di ricostruzione, 
+                    \b rivela un’ampia concordanza con quello dell’archeologo che 
+                    \b dissotterra una città distrutta e sepolta o un antico edificio.
+                comment
+                    + Freud abbandona il termine "interpretazione" 
+                        \b a favore del termine "ricostruzione archeologica"
+                        \b per definire il lavoro analitico.
+                article freud.costruzioni-dell-analisi
+                e-page 7432

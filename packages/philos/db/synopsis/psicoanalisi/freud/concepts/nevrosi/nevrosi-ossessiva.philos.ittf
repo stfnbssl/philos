@@ -1,0 +1,70 @@
+$group
+
+    namespace freud
+
+        concept nevrosi-ossessiva
+            title Nevrosi ossessiva
+
+            r-concept freud.sintomo
+                quote
+                    + I sintomi della nevrosi ossessiva sono in genere di due specie, e manifestano opposte tendenze.
+                        \b Sono divieti, misure prudenziali, espiazioni – tendenze dunque di natura negativa – 
+                        \b ovvero invece soddisfacimenti sostitutivi, assai spesso camuffati in forme simboliche.
+                    article freud.inibizione-sintomo-e-angoscia
+                    e-page 6396
+
+            quote
+                + La situazione di partenza della nevrosi ossessiva non è certo diversa da quella dell’isteria: 
+                    \b è la necessaria difesa dalle pretese libidiche del complesso edipico. 
+                    \b Sembra anche che si trovi in ogni nevrosi ossessiva un substrato di sintomi isterici 
+                    \b formatisi assai precocemente. 
+                    \b Poi, però, la configurazione sintomatica muta in modo decisivo per effetto di un fattore costituzionale. 
+                    \b L’organizzazione genitale della libido si dimostra debole e troppo poco resistente. 
+                    \b Quando l’Io comincia la sua lotta difensiva, 
+                    \b il primo risultato che cerca di raggiungere è che l’organizzazione genitale (della fase fallica) 
+                    \b venga respinta totalmente o parzialmente verso lo stadio anteriore sadico-anale. 
+                    \b Questo fatto della regressione resta determinante per tutto ciò che segue.
+                article freud.inibizione-sintomo-e-angoscia
+                e-page 6397
+
+            quote
+                + Le esperienze sessuali dell’infanzia hanno, nell’etiologia della nevrosi ossessiva, 
+                    \b lo stesso significato che nell’isteria, 
+                    \b con la differenza però che qui non si tratta più di passività sessuale, 
+                    \b bensì di aggressioni compiute traendone piacere 
+                    \b e di partecipazione ad atti sessuali dalla quale si sia tratto piacere, cioè di attività sessuale. 
+                    \b Questa differenza delle circostanze etiologiche 
+                    \b è connessa con il fatto che nella nevrosi ossessiva appare preferito il sesso maschile.
+                    \b Del resto, in tutti i miei casi di nevrosi ossessiva 
+                    \b ho trovato un substrato di sintomi isterici 
+                    \b che potevano essere ricondotti a un episodio di passività sessuale precedente l’azione piacevole. 
+                    \b Ritengo che questa coincidenza si verifichi regolarmente, 
+                    \b e che un’aggressione sessuale precoce presupponga sempre 
+                    \b un’esperienza precedente di seduzione subìta.
+                article freud.nuove-osservazioni-sulle-neuropsicosi-da-difesa
+                e-page 964-965
+
+            quote
+                + Essa [l'osservazione analitica] mostra piuttosto che quando insorge la crisi 
+                    \b che porta alla nevrosi ossessiva lo stadio fallico è già raggiunto. 
+                    \b Anche l’età in cui insorge questa nevrosi è più tarda che nel caso dell’isteria 
+                    \b (la fanciullezza, dopo che si è già instaurata l’epoca di latenza); 
+                    \b e in un caso di sviluppo molto tardivo di questa affezione, che ho avuto occasione di studiare, 
+                    \b risultò chiaramente che una vera e propria degradazione della vita genitale, 
+                    \b sino allora intatta, aveva creato la condizione per la regressione 
+                    \b e per l’inizio della nevrosi ossessiva.
+                article freud.inibizione-sintomo-e-angoscia
+                e-page 6397-6398
+
+            r-concept freud.successo-terapeutico
+                quote
+                    + La cura delle nevrosi ossessive può avere successo 
+                        \b se noi annulliamo tutte le sostituzioni e le trasformazioni di affetto che hanno avuto luogo, 
+                        \b finché l’autoaccusa primaria e l’esperienza alla quale essa appartiene 
+                        \b possano essere liberate e collocate di fronte all’Io cosciente per un nuovo giudizio.
+                    article freud.minuta-k
+                    e-page 657
+            
+            r-concept freud.meccanismo-di-difesa
+                period 1984-86
+                    + la trasposizione o lo spostamento dell'affetto

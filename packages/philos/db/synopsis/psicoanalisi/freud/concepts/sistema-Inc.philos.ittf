@@ -2,5 +2,23 @@ $group
 
     namespace freud
 
-        concept sistema-Inc
+        concept sistema-inc
             title Sistema Inc
+
+            r-concept freud.modo-di-rappresentazione-dinamico
+                quote
+                    + Quando dunque diciamo che un pensiero inconscio tende alla traduzione nel preconscio 
+                        \b per poi penetrare nella coscienza, 
+                        \b non intendiamo dire che debba formarsi un secondo pensiero situato in un altro punto, 
+                        \b una trascrizione per così dire, 
+                        \b accanto alla quale continua a sussistere l’originale; 
+                        \b e anche per la penetrazione nella coscienza, 
+                        \b intendiamo escludere accuratamente qualsiasi idea di cambiamento di luogo.
+                        \b [..] un’immagine che sembra corrispondere meglio alla situazione reale, vale a dire: 
+                        \b un investimento energetico viene trasferito su un determinato dispositivo o ne viene ritirato, 
+                        \b di modo che la struttura psichica viene a trovarsi sotto il dominio di un’istanza o ne viene distolta. 
+                        \b Qui sostituiamo di nuovo a un modo di rappresentazione topico un modo di rappresentazione dinamico;
+                        \b non è la struttura psichica che ci appare elemento mobile, bensì la sua innervazione.
+                    e-page 1835-1836
+                    article freud.l-interpretazione-dei-sogni-kindle
+

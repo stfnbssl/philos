@@ -1,0 +1,9 @@
+$group
+
+    namespace freud
+
+        concept essere-superiore
+            title Essere superiore
+                de Höheres Wesen
+            
+            + Protofigura parentale dalla cui introiezione Freud fa derivare l’ideale dell’Io.

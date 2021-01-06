@@ -1,0 +1,14 @@
+$group
+
+    namespace freud
+
+        concept identificazione
+            title Identificazione
+
+            quote
+                + Quando l’Io assume i tratti dell’oggetto, 
+                    \b si autoimpone per così dire all’Es come oggetto d’amore 
+                    \b e cerca di risarcirlo della perdita subita dicendogli: 
+                    \b “Vedi, puoi amare anche me, che sono così simile all’oggetto.”
+                article freud.l-io-e-l-es
+                e-page 5972

@@ -7,16 +7,20 @@ $group
 
             concept di-traslazione
                 title Nevrosi di traslazione
-                + la libido è traslata su oggetti reali o immaginari. 
-                    \b Nel trattamento psicoanalitico si prestano al trandfert
+                + La libido è traslata su oggetti reali o immaginari. 
+                    \b Nel trattamento psicoanalitico si prestano al transfert
                     \b hanno origine dall'infanzia e fanno parte dalle PSICONEVROSI, 
-                    \b dove i sintomi sono espressione simbolica e sovradeterminatan di un conflitto
+                    \b dove i sintomi sono espressione simbolica e sovradeterminatan di un conflitto.
 
+            concept di-traslazione-pura
+                title Nevrosi di traslazione pura
+                + Le nevrosi di traslazione pure sono l'isteria e la nevrosi ossessiva.
+            
             concept psico
                 title Psiconevrosi
-                + ha causa sessuale, in un disordine in epoca passata
-                + la fonte di eccitazione, il fattore precipitante del disturbo
-                    \b si trova nel campo psichico
+                + La psiconevrosi ha causa sessuale, in un disordine in epoca passata.
+                + La fonte di eccitazione, il fattore precipitante del disturbo
+                    \b si trova nel campo psichico.
 
                 concept isteria-di-conversione
                     title Isteria di conversione
@@ -43,24 +47,25 @@ $group
 
             concept attuale
                 title Nevrosi attuale
-                + ha causa sessuale, in un disordine della vita sessuale attuale
-                + la fonte di eccitazione, il fattore precipitante del disturbo,
+                + Una nevrosi attuale ha causa sessuale, in un disordine della vita sessuale attuale.
+                + La fonte di eccitazione, il fattore precipitante del disturbo,
                     \b si trova nel campo somatico,
-                    \b ad esempio la trasformazione diretta dell'eccitazione in angoscia 
-                + mancano le mediazioni psichiche che si trovano nelle psiconevrosi,
+                    \b ad esempio la trasformazione diretta dell'eccitazione in angoscia.
+                + Mancano le mediazioni psichiche che si trovano nelle psiconevrosi,
                     \b tipo spostamento, condensazione, ecc..
 
                 concept nevrastenia
                     title Nevrastenia
-                    + il fattore precipitante del disturbo è 
+                    + Il fattore precipitante della nevrastenia è 
                         \b un alleviamento inadeguato dell'eccitazione sessuale
-                        \b ad esempio la masturbazione
+                        \b ad esempio la masturbazione.
                 
                 concept nevrosi-d-angoscia
                     title Nevrosi d'angoscia
-                    + il fattore precipitante del disturbo è 
+                    + Il fattore precipitante della nevrosi d'angoscia è 
                         \b la mancanza di scarica dell'eccitazione sessuale
-                        \b ad esempio l'astinenza sessuale
+                        \b ad esempio l'astinenza sessuale.
+                    + Sulla nevrosi di angoscia si struttura l'isteria.
                 
                 concept ipocondria
                     title Ipocondria
@@ -88,5 +93,5 @@ $group
                         \b che è rimasta in relazione con la vita reale. 
                         \b Questo conflitto viene risolto mediante formazioni sintomatiche 
                         \b e si conclude col manifestarsi della malattia.
-                    kindle-page 3839-3840
+                    e-page 3839-3840
                     book freud.opere-complete-kindle

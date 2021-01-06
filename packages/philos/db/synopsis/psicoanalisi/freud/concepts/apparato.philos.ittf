@@ -11,7 +11,7 @@ $group
                     \b entro quale sistema o fra quali sistemi si svolga.
                     \b A causa di questo suo sforzo 
                     \b le è stato conferito il nome di “psicologia del profondo”.
-                kindle-loc 65456-65458
+                e-loc 65456-65458
                 book freud.opere-complete-kindle
             
             quote
@@ -19,17 +19,17 @@ $group
                     \b non si riferisce a località anatomiche, 
                     \b bensì a regioni dell’apparato psichico, 
                     \b a prescindere dalle parti dell’organismo in cui dette regioni possano esser situate.
-                kindle-loc 65478-65479
+                e-loc 65478-65479
                 book freud.opere-complete-kindle
             
             r-concept freud.traccia-mnestica
                 + Lo scopo di Freud è di collocare la memoria secondo una "topica".
 
-            see freud.metapsicologia
+            see-concept freud.metapsicologia
 
-        concept dinamica
-            title Dinamica psichica
-            alias Modo dinamico
+        concept modo-di-rappresentazione-dinamico
+            title Modo di rappresentazione dinamico
+            alias Dinamica psichica
 
             + Freud descrisse i modi di essere con l'espressione
                 \b "agenzie costruttrici di pensiero"
@@ -37,7 +37,7 @@ $group
                 quote
                     + sostituire un ... modo di rappresentare le cose con uno dinamico
 
-            see freud.metapsicologia
+            see-concept freud.metapsicologia
 
         concept economia
             title Economia psichica
@@ -45,7 +45,7 @@ $group
             + Lo scopo di Freud è di fornire una spiegazione del funzionamento dell'apparato psichico
                 \b in termini economici (investimenti/disinvestimenti).
             
-            see freud.metapsicologia
+            see-concept freud.metapsicologia
 
         concept sistema
             title Sistema psichico

@@ -1,0 +1,10 @@
+$group
+
+    namespace freud
+
+        concept metodo-catartico
+            title Metodo catartico
+
+            + (Il metodo di Brauer, basato sull'ipnosi)
+            see freud.metodo-analitico
+            

@@ -127,6 +127,15 @@
             font-style: italic;
             font-size: 0.75em;
         }
+        .abstract-title {
+            margin-top: 30px;
+            font-weight: bold;
+            font-size: 0.75em;
+        }
+        .abstract-box {
+            width: 50%;
+            padding: 40px;
+        }
         blockquote {
             border-left: 3px solid #00CC8F;
             color: #1a1a1a;
@@ -431,11 +440,11 @@
             if (item.page) {
                 page = 'pag. ' + item.page;
             }
-            else if (item.kindlepage) {
-                page = 'kindle pag. ' + item.kindlepage;
+            else if (item.epage) {
+                page = 'kindle pag. ' + item.epage;
             }
-            else if (item.kindleloc) {
-                page = 'kindle loc. ' + item.kindleloc;
+            else if (item.eloc) {
+                page = 'kindle loc. ' + item.eloc;
             }
             return  (
                     <blockquote>
@@ -1418,7 +1427,7 @@
                             </div>
                         )
                         
-                    }<ContentText item={item}>
+                    }<ContentText item={item} jsonData={jsonData}>
                         </ContentText>
                     
                     {
@@ -1429,6 +1438,22 @@
                                 </a>
                             
                             </div>
+                        )
+                        
+                    }{
+                        item.abstract &&  (
+                            <Paper className="abstract-box">
+                                <div className="abstract-title">
+                                abstract
+                                </div>
+                            
+                                <div>
+                                    <ContentText item={item.abstract} jsonData={jsonData}>
+                                    </ContentText>
+                                
+                                </div>
+                            
+                            </Paper>
                         )
                         
                     }</div>
@@ -1468,7 +1493,7 @@
                         {item.edition}
                         </div>
                     
-                        <ContentText item={item}>
+                        <ContentText item={item} jsonData={jsonData}>
                         </ContentText>
                     
                     </div>

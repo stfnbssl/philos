@@ -360,9 +360,9 @@
           ]
         },
         {
-          "name": "see",
+          "name": "seeconcept",
           "tags": [
-            "see"
+            "see-concept"
           ]
         },
         {
@@ -408,15 +408,21 @@
           ]
         },
         {
-          "name": "kindleloc",
+          "name": "ereader",
           "tags": [
-            "kindle-loc"
+            "e-reader"
           ]
         },
         {
-          "name": "kindlepage",
+          "name": "eloc",
           "tags": [
-            "kindle-page"
+            "e-loc"
+          ]
+        },
+        {
+          "name": "epage",
+          "tags": [
+            "e-page"
           ]
         },
         {
@@ -438,6 +444,12 @@
           ]
         },
         {
+          "name": "datepub",
+          "tags": [
+            "date-pub"
+          ]
+        },
+        {
           "name": "coeditor",
           "tags": [
             "co-editor"
@@ -456,9 +468,21 @@
           ]
         },
         {
+          "name": "ebook",
+          "tags": [
+            "e-book"
+          ]
+        },
+        {
           "name": "backcover",
           "tags": [
             "back-cover"
+          ]
+        },
+        {
+          "name": "textabstract",
+          "tags": [
+            "abstract"
           ]
         },
         {
@@ -2611,11 +2635,11 @@
       "comments": []
     },
     {
-      "name": "see",
+      "name": "seeconcept",
       "super": "item",
       "isRoot": false,
       "tags": [
-        "see"
+        "see-concept"
       ],
       "flags": "",
       "attributes": [
@@ -2923,11 +2947,11 @@
       "comments": []
     },
     {
-      "name": "kindleloc",
+      "name": "ereader",
       "super": "item",
       "isRoot": false,
       "tags": [
-        "kindle-loc"
+        "e-reader"
       ],
       "flags": "",
       "attributes": [
@@ -2962,11 +2986,50 @@
       "comments": []
     },
     {
-      "name": "kindlepage",
+      "name": "eloc",
       "super": "item",
       "isRoot": false,
       "tags": [
-        "kindle-page"
+        "e-loc"
+      ],
+      "flags": "",
+      "attributes": [
+        {
+          "name": "value",
+          "type": "string",
+          "tags": [
+            "value"
+          ],
+          "flags": "",
+          "inheritedFrom": "item",
+          "restricts": [],
+          "comments": []
+        }
+      ],
+      "relations": [
+        {
+          "name": "item",
+          "role": "items",
+          "tags": [
+            "item"
+          ],
+          "cardinality": "one-to-many",
+          "flags": "",
+          "inheritedFrom": "item",
+          "comments": []
+        }
+      ],
+      "derived": [],
+      "restricts": [],
+      "methods": [],
+      "comments": []
+    },
+    {
+      "name": "epage",
+      "super": "item",
+      "isRoot": false,
+      "tags": [
+        "e-page"
       ],
       "flags": "",
       "attributes": [
@@ -3129,6 +3192,45 @@
       "comments": []
     },
     {
+      "name": "datepub",
+      "super": "item",
+      "isRoot": false,
+      "tags": [
+        "date-pub"
+      ],
+      "flags": "",
+      "attributes": [
+        {
+          "name": "value",
+          "type": "string",
+          "tags": [
+            "value"
+          ],
+          "flags": "",
+          "inheritedFrom": "item",
+          "restricts": [],
+          "comments": []
+        }
+      ],
+      "relations": [
+        {
+          "name": "item",
+          "role": "items",
+          "tags": [
+            "item"
+          ],
+          "cardinality": "one-to-many",
+          "flags": "",
+          "inheritedFrom": "item",
+          "comments": []
+        }
+      ],
+      "derived": [],
+      "restricts": [],
+      "methods": [],
+      "comments": []
+    },
+    {
       "name": "coeditor",
       "super": "item",
       "isRoot": false,
@@ -3257,11 +3359,89 @@
       "comments": []
     },
     {
+      "name": "ebook",
+      "super": "item",
+      "isRoot": false,
+      "tags": [
+        "e-book"
+      ],
+      "flags": "",
+      "attributes": [
+        {
+          "name": "value",
+          "type": "string",
+          "tags": [
+            "value"
+          ],
+          "flags": "",
+          "inheritedFrom": "item",
+          "restricts": [],
+          "comments": []
+        }
+      ],
+      "relations": [
+        {
+          "name": "item",
+          "role": "items",
+          "tags": [
+            "item"
+          ],
+          "cardinality": "one-to-many",
+          "flags": "",
+          "inheritedFrom": "item",
+          "comments": []
+        }
+      ],
+      "derived": [],
+      "restricts": [],
+      "methods": [],
+      "comments": []
+    },
+    {
       "name": "backcover",
       "super": "item",
       "isRoot": false,
       "tags": [
         "back-cover"
+      ],
+      "flags": "",
+      "attributes": [
+        {
+          "name": "value",
+          "type": "string",
+          "tags": [
+            "value"
+          ],
+          "flags": "",
+          "inheritedFrom": "item",
+          "restricts": [],
+          "comments": []
+        }
+      ],
+      "relations": [
+        {
+          "name": "item",
+          "role": "items",
+          "tags": [
+            "item"
+          ],
+          "cardinality": "one-to-many",
+          "flags": "",
+          "inheritedFrom": "item",
+          "comments": []
+        }
+      ],
+      "derived": [],
+      "restricts": [],
+      "methods": [],
+      "comments": []
+    },
+    {
+      "name": "textabstract",
+      "super": "item",
+      "isRoot": false,
+      "tags": [
+        "abstract"
       ],
       "flags": "",
       "attributes": [

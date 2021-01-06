@@ -1,0 +1,7 @@
+$group
+
+    namespace freud
+
+        concept ideale-dell-io
+            title Ideale dell'io
+                de Ichideal  

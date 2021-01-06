@@ -19,6 +19,8 @@ $group
             foreach child in parent.items
                 if child.wzElement == "title"
                     set bookObj.title = child.wzName 
+                elif child.wzElement == "datepub"
+                    set bookObj.datepub = child.wzName
                 elif child.wzElement == "edition"
                     set bookObj.edition = child.wzName
                 elif child.wzElement == "written"
@@ -34,7 +36,7 @@ $group
                         {
                             [ contents
                     foreach c2 in child.items
-                        _ fillContents(c2, backcoverObj)                    
+                        _ fillContents(c2, backcoverObj, resultObj)                    
                     set bookObj.backcover = backcoverObj
                 elif child.wzElement == "author"
                     _ bookObj.authors.push(child.wzName)
@@ -42,12 +44,19 @@ $group
                     _ functors.source
                         @ child
                         @ bookObj
+                elif child.wzElement == "textabstract"
+                    _ functors.abstract
+                        @ child
+                        @ bookObj
+                        @ resultObj
+                elif child.wzElement == "ereader"
+                    set bookObj.ereader = child.wzName
                 elif child.wzElement == "buy"
                     _ bookObj.buys.push
                         {
                             @ seller child.seller
                             @ url child.url
-                elif !fillContents(child, bookObj)
+                elif !fillContents(child, bookObj, resultObj)
                 else
                     _ newitems.push
                         @ child
@@ -83,6 +92,8 @@ $group
             foreach child in parent.items
                 if child.wzElement == "title"
                     set articleObj.title = child.wzName 
+                elif child.wzElement == "datepub"
+                    set articleObj.datepub = child.wzName
                 elif child.wzElement == "edition"
                     set articleObj.edition = child.wzName
                 elif child.wzElement == "author"
@@ -93,15 +104,20 @@ $group
                     set articleObj.book = child.wzName
                 elif child.wzElement == 'page'
                     set articleObj.page = child.wzName
-                elif child.wzElement == 'kindle-page'
-                    set articleObj.kindlepage = child.wzName
-                elif child.wzElement == 'kindle-loc'
-                    set articleObj.kindleloc = child.wzName
+                elif child.wzElement == 'e-page'
+                    set articleObj.epage = child.wzName
+                elif child.wzElement == 'e-loc'
+                    set articleObj.eloc = child.wzName
                 elif child.wzElement == "source"
                     _ functors.source
                         @ child
                         @ bookObj
-                elif !fillContents(child, articleObj)
+                elif child.wzElement == "textabstract"
+                    _ functors.abstract
+                        @ child
+                        @ articleObj
+                        @ resultObj
+                elif !fillContents(child, articleObj, resultObj)
                 else
                     _ newitems.push
                         @ child
@@ -112,6 +128,24 @@ $group
                     @ child
                     @ resultObj
             return articleObj
+
+    set functors.abstract
+        function
+            param field
+            param parentObj
+            param resultObj
+            var abstractObj
+                {
+                    [ contents
+            foreach child in field.items
+                if child.wzElement == "epage"
+                    set abstractObj.epage = child.wzName 
+                elif child.wzElement == "eloc"
+                    set abstractObj.eloc = child.wzName
+                elif !fillContents(child, abstractObj, resultObj)               
+                else
+                    $$ TODO error
+            set parentObj.abstract = abstractObj
 
     set functors.source
         function
