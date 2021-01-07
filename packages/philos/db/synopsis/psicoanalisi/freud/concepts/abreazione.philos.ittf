@@ -1,0 +1,34 @@
+$group
+
+    namespace freud
+
+        concept abreazione
+            title Abreazione
+
+            quote
+                + L’affievolirsi di un ricordo o dell’affetto che lo accompagna, dipende da parecchi fattori. 
+                    \b È innanzitutto rilevante al riguardo se si sia reagito energicamente o no all’evento impressionante. 
+                    \b Intendiamo qui per reazione tutta la gamma di riflessi volontari e involontari con i quali, 
+                    \b come l’esperienza insegna, gli affetti si scaricano: dal pianto fino all’atto di vendetta. 
+                    \b Se tale reazione avviene in misura sufficiente, una grande parte dell’affetto scompare; 
+                    \b il nostro linguaggio conferma questo fatto di osservazione quotidiana mediante le espressioni 
+                    \b “scaricare il rancore”, “sfogarsi col pianto” e simili.
+                + [..] La reazione della persona colpita dal trauma ha propriamente un effetto “catartico” completo 
+                    \b solo quando è una reazione adeguata, come la vendetta. 
+                    \b Ma nella parola l’uomo trova un surrogato all’azione, 
+                    \b e con l’aiuto della parola l’affetto può essere “abreagito” in misura quasi uguale.
+                article freud.studi-sull-isteria
+                e-page 248-249
+
+            quote
+                + Nell’epoca eroica della psicoanalisi si pensava che 
+                    \b la guarigione coincidesse con la cosiddetta abreazione, 
+                    \b ossia con la scarica emotiva catartica connessa 
+                    \b al recupero del ricordo dell’evento traumatico, 
+                    \b e che la cura consistesse nel favorire il ritorno del rimosso, 
+                    \b nel ridare diritto di cittadinanza nella coscienza 
+                    \b al contenuto ideativo fonte del conflitto. 
+                + Tale semplificazione, più ‘idraulica’ che psicodinamica, 
+                    \b ancora oggi sopravvive nella vulgata psicoanalitica; 
+                    \b ma già Freud sottolineava che 
+                    \b la metafora topografica non basta per rendere ragione della complessità dei processi mnestici. 

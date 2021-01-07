@@ -1,0 +1,7 @@
+$group
+
+    namespace freud.meta
+
+        concept es
+            title Es
+            + Istanza della seconda topica, con Io e Super-Io. 

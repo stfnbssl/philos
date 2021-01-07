@@ -5,12 +5,12 @@
         {
             "wzElement": "author",
             "wzTag": "author",
-            "wzName": "Freud",
+            "wzName": "anepeta",
             "items": [
                 {
                     "wzElement": "fullname",
                     "wzTag": "fullname",
-                    "wzName": "Sigmund Freud",
+                    "wzName": "Luigi Anepeta",
                     "items": []
                 },
                 {
@@ -21,13 +21,13 @@
                         {
                             "wzElement": "date",
                             "wzTag": "date",
-                            "wzName": "6/5/1856",
+                            "wzName": "Unknown",
                             "items": []
                         },
                         {
                             "wzElement": "place",
                             "wzTag": "place",
-                            "wzName": "Příbor, Repubblica Ceca",
+                            "wzName": "Rome, Italia",
                             "items": []
                         }
                     ]
@@ -40,13 +40,13 @@
                         {
                             "wzElement": "date",
                             "wzTag": "date",
-                            "wzName": "23/11/1939",
+                            "wzName": "Unknown",
                             "items": []
                         },
                         {
                             "wzElement": "place",
                             "wzTag": "place",
-                            "wzName": "Hampstead, Londra, Regno Unito",
+                            "wzName": "Unknown",
                             "items": []
                         }
                     ]
@@ -54,13 +54,13 @@
                 {
                     "wzElement": "avatar",
                     "wzTag": "avatar",
-                    "wzName": "./assets/img/authors/Freud.jpg",
+                    "wzName": "./assets/img/authors/Anepeta.jpg",
                     "items": []
                 },
                 {
                     "wzElement": "text",
                     "wzTag": "+",
-                    "wzName": "Sigismund Schlomo Freud, noto come Sigmund Freud, IPA: è stato un neurologo, psicoanalista e filosofo austriaco, fondatore della psicoanalisi, sicuramente la più famosa tra le correnti teoriche e pratiche della psicologia.",
+                    "wzName": "Luigi Anepeta, psichiatra critico, dopo aver partecipato alla lotta contro l'istituzione manicomiale, si è dedicato alla psicoterapia dinamica, alla formazione di operatori e alla ricerca in vari ambiti culturali.",
                     "items": []
                 }
             ]
@@ -124,6 +124,69 @@
                     "wzElement": "text",
                     "wzTag": "+",
                     "wzName": "John Forrester era uno storico e filosofo britannico della scienza e della medicina. I suoi interessi principali riguardavano la storia delle scienze umane, in particolare la psicoanalisi e la psichiatria.",
+                    "items": []
+                }
+            ]
+        },
+        {
+            "wzElement": "author",
+            "wzTag": "author",
+            "wzName": "Freud",
+            "items": [
+                {
+                    "wzElement": "fullname",
+                    "wzTag": "fullname",
+                    "wzName": "Sigmund Freud",
+                    "items": []
+                },
+                {
+                    "wzElement": "born",
+                    "wzTag": "born",
+                    "wzName": "",
+                    "items": [
+                        {
+                            "wzElement": "date",
+                            "wzTag": "date",
+                            "wzName": "6/5/1856",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "place",
+                            "wzTag": "place",
+                            "wzName": "Příbor, Repubblica Ceca",
+                            "items": []
+                        }
+                    ]
+                },
+                {
+                    "wzElement": "died",
+                    "wzTag": "died",
+                    "wzName": "",
+                    "items": [
+                        {
+                            "wzElement": "date",
+                            "wzTag": "date",
+                            "wzName": "23/11/1939",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "place",
+                            "wzTag": "place",
+                            "wzName": "Hampstead, Londra, Regno Unito",
+                            "items": []
+                        }
+                    ]
+                },
+                {
+                    "wzElement": "avatar",
+                    "wzTag": "avatar",
+                    "wzName": "./assets/img/authors/Freud.jpg",
+                    "items": []
+                },
+                {
+                    "wzElement": "text",
+                    "wzTag": "+",
+                    "wzName": "Sigismund Schlomo Freud, noto come Sigmund Freud, IPA: è stato un neurologo, psicoanalista e filosofo austriaco, fondatore della psicoanalisi, sicuramente la più famosa tra le correnti teoriche e pratiche della psicologia.",
                     "items": []
                 }
             ]
@@ -257,6 +320,38 @@
         {
             "wzElement": "namespace",
             "wzTag": "namespace",
+            "wzName": "anepeta",
+            "items": [
+                {
+                    "wzElement": "author",
+                    "wzTag": "author",
+                    "wzName": "Anepeta",
+                    "items": []
+                },
+                {
+                    "wzElement": "article",
+                    "wzTag": "article",
+                    "wzName": "anepeta.metapsicologia",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Metapsicologia",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "url",
+                            "wzTag": "url",
+                            "wzName": "http://www.nilalienum.it/Sezioni/Freud/Materiali%20bibliografici/LP/Metapsicologia.html",
+                            "items": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
             "wzName": "freud",
             "items": [
                 {
@@ -264,6 +359,98 @@
                     "wzTag": "author",
                     "wzName": "Freud",
                     "items": []
+                },
+                {
+                    "wzElement": "article",
+                    "wzTag": "article",
+                    "wzName": "freud.studi-sull-isteria",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Studi sull'isteria. Freud e Breuer.",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "datepub",
+                            "wzTag": "date-pub",
+                            "wzName": "1885/05/01",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "book",
+                            "wzTag": "book",
+                            "wzName": "freud.opere-I",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "ebook",
+                            "wzTag": "e-book",
+                            "wzName": "opere-complete-kindle",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "textabstract",
+                            "wzTag": "abstract",
+                            "wzName": "",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "La collaborazione di Breuer e Freud nasce dalla stretta amicizia fra i due. Josef Breuer (1842-1925), di quindici anni più vecchio, era già un medico affermato quando Freud era ancora uno studente, e fu largo di consigli e di aiuti anche materiali, con una sollecitudine più che fraterna, verso Freud, che dopo il 1880 era divenuto amico di famiglia.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "La signorina Anna O. (Bertha Pappenheim) fu curata da Breuer dal dicembre 1880 al giugno 1882. Freud ebbe notizia del caso di Breuer il 18 novembre 1882 e, benché allora fosse immerso negli studi di istologia del sistema nervoso e gli fossero quindi estranei i problemi di psicopatologia, ne fu molto impressionato.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Quando Freud inizio la sua attività professionale di medico delle malattie nervose, ottenne una borsa di studio per seguire le lezioni di Charcot (4 mesi tra 1885 e 86) ove imparò ad utilizzare l'ipnosi con i propri pazienti.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Gli scarsi successi ottenuti con l’impiego della ipnosi, lo portarono a riprendere in esame con Breuer il caso di Anna O., e a cercare di ricavarne una interpretazione teorica e una tecnica terapeutica per l’isteria (primavera del 1889).",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Tra i due nacquero dissensi nell'interpretazione. Breuer considerava l'isteria la conseguenza di uno stato ipnoide mentre per Freud si trattava di una ritenzione di ricordi conflittuali. Ciò condusse ad una progressiva rottura tra i due.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Nella “Comunicazione preliminare” i due autori risolsero il contrasto ammettendo l’esistenza di entrambe le forme di isteria (da stato ipnoide e da ritenzione). E tale posizione fu in seguito conservata da Breuer.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "L’importante capitolo teorico scritto da Breuer è rimasto nell’ombra nel successivo sviluppo della psicoanalisi. Ma anch’esso è di grande interesse perché sviluppa concetti personali, che Freud ha più tardi accolto nella propria dottrina, come quelli riguardanti la distinzione fra energia libera e legata, e conseguentemente fra sistema primario e secondario dell’operare psichico; sia infine perché, allo scopo di spiegare il processo della conversione organica, affermata da Freud, elabora la importante dottrina degli isolatori nel sistema nervoso, a protezione degli organi vegetativi, e del superamento della barriera costituita da tali isolatori tanto nelle manifestazioni del nervosismo generico che nei sintomi isterici di conversione.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Freud si era riservato il compito di scrivere il capitolo sulla tecnica psicoterapeutica. In realtà questo capitolo conclusivo del libro (marzo 1895) va molto al di là di una descrizione del metodo catartico. È infatti qui esposta una tecnica che nelle linee generali corrisponde ormai a quella che sarà la tecnica analitica. E questo non soltanto perché viene data la dimostrazione che con l’impiego dell’ipnosi non si abbrevia l’opera di ritrovamento di particolari che normalmente sfuggono alla coscienza, ma perché la nuova tecnica viene fondata sulla base di tutta una serie di nuovi concetti e di nuove determinazioni. Viene infatti formulata la regola fondamentale dell’analisi, vengono interpretate le varie reazioni del paziente invitato ad associare come espressioni di resistenze, viene messo in rilievo il comportamento affettivo del paziente verso il medico e la funzione che esso ha per il superamento delle resistenze (con accenni anche alle conseguenze che possono avere i turbamenti nei rapporti fra paziente e medico), viene prospettato il problema della struttura del materiale psichico inconscio, con un primo abbozzo quindi di una teoria dell’inconscio, e a conclusione di tutto lo scritto viene posto come compito della terapia quello di trasformare, attraverso la liquidazione dei falsi nessi, i conflitti inconsci che stanno a base della nevrosi in comuni conflitti della vita, da affrontarsi con i normali mezzi di cui l’uomo consapevole dispone.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Se nella “Comunicazione preliminare”, nei casi clinici e nel capitolo teorico di Breuer ci si trova ancora in uno stadio di preistoria della psicoanalisi, il capitolo conclusivo di Freud riporta un sistema di concetti assai più maturo, che a pieno diritto può ormai essere detto il sistema della psicoanalisi.",
+                                    "items": []
+                                }
+                            ]
+                        }
+                    ]
                 },
                 {
                     "wzElement": "article",
@@ -279,7 +466,7 @@
                         {
                             "wzElement": "datepub",
                             "wzTag": "date-pub",
-                            "wzName": "1985/12/25",
+                            "wzName": "1885/12/25",
                             "items": []
                         },
                         {
@@ -329,7 +516,7 @@
                         {
                             "wzElement": "datepub",
                             "wzTag": "date-pub",
-                            "wzName": "1986/02/05",
+                            "wzName": "1886/02/05",
                             "items": []
                         },
                         {
@@ -368,31 +555,6 @@
                 {
                     "wzElement": "article",
                     "wzTag": "article",
-                    "wzName": "al-di-la-del-principio-del-piacere",
-                    "items": [
-                        {
-                            "wzElement": "title",
-                            "wzTag": "title",
-                            "wzName": "Al di la del principio di piacere",
-                            "items": []
-                        },
-                        {
-                            "wzElement": "book",
-                            "wzTag": "book",
-                            "wzName": "freud.opere-IX",
-                            "items": []
-                        },
-                        {
-                            "wzElement": "ebook",
-                            "wzTag": "e-book",
-                            "wzName": "opere-complete-kindle",
-                            "items": []
-                        }
-                    ]
-                },
-                {
-                    "wzElement": "article",
-                    "wzTag": "article",
                     "wzName": "freud.carattere-ed-erotismo-anale",
                     "items": [
                         {
@@ -402,9 +564,15 @@
                             "items": []
                         },
                         {
+                            "wzElement": "datepub",
+                            "wzTag": "date-pub",
+                            "wzName": "1908/03/01",
+                            "items": []
+                        },
+                        {
                             "wzElement": "book",
                             "wzTag": "book",
-                            "wzName": "opere-V",
+                            "wzName": "freud.opere-V",
                             "items": []
                         },
                         {
@@ -412,24 +580,73 @@
                             "wzTag": "e-book",
                             "wzName": "opere-complete-kindle",
                             "items": []
+                        },
+                        {
+                            "wzElement": "textabstract",
+                            "wzTag": "abstract",
+                            "wzName": "",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "In questo scritto Freud riprendendo il concetto già sviluppato nei Tre saggi sulla teoria sessuale di una fase anale dello sviluppo infantile della libido, e quindi di una erogeneità anale, prospetta la tesi che da quella erogeneità derivino – o per sublimazione, o come formazioni reattive – determinati elementi caratterologici stabili, costituiti: 1) da una tendenza all’ordine e alla esagerata pulizia, 2) da un comportamento parsimonioso, che può giungere all’avarizia, e 3) da una ostinazione che può arrivare alla caparbietà.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Freud aveva messo in connessione il denaro e l’avarizia con gli escrementi fin dal 1897 (vedi la lettera a Fliess del 22 dicembre 1897); e in una lettera a Jung del 27 ottobre 1906 aveva fatto cenno ai tre tratti caratteristici sopra indicati come associati all’analità.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Nel presente breve scritto, che suscitò violente reazioni negative negli ambienti scientifici, la connessione dei detti elementi caratterologici con l’erotismo anale è enunciata più che dimostrata. Freud aveva però presente l’analisi del caso noto come l’uomo dei topi, non ancora pubblicato.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "I rapporti tra erotismo anale e nevrosi ossessiva furono anche analizzati da Freud in La disposizione alla nevrosi ossessiva del 1913.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Un altro assai noto caso clinico, quello dell’uomo dei lupi, la cui relazione fu scritta nel 1914 fornì a Freud materiale per approfondire le osservazioni contenute nel presente lavoro, con lo scritto Trasformazioni pulsionali, particolarmente dell’erotismo anale, del 1915, pubblicato nel 1917.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "epage",
+                                    "wzTag": "e-page",
+                                    "wzName": "2988-2989",
+                                    "items": []
+                                }
+                            ]
                         }
                     ]
                 },
                 {
                     "wzElement": "article",
                     "wzTag": "article",
-                    "wzName": "costruzioni-dell-analisi",
+                    "wzName": "la-morale-sessuale-civile-e-il-nervosismo-moderno",
                     "items": [
                         {
                             "wzElement": "title",
                             "wzTag": "title",
-                            "wzName": "Costruzioni dell'analisi",
+                            "wzName": "La morale sessuale “civile” e il nervosismo moderno",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "datepub",
+                            "wzTag": "date-pub",
+                            "wzName": "1908/04/01",
                             "items": []
                         },
                         {
                             "wzElement": "book",
                             "wzTag": "book",
-                            "wzName": "opere-XI",
+                            "wzName": "freud.opere-V",
                             "items": []
                         },
                         {
@@ -437,6 +654,111 @@
                             "wzTag": "e-book",
                             "wzName": "opere-complete-kindle",
                             "items": []
+                        },
+                        {
+                            "wzElement": "textabstract",
+                            "wzTag": "abstract",
+                            "wzName": "",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Il lavoro è stato ispirato da uno scritto di Christian von Ehrenfels dal titolo Sexualethik (Etica sessuale), pubblicato l’anno prima. Von Ehrenfels era un filosofo, molto legato a Franz Brentano, che alla fine dell’Ottocento e nel primo Novecento acquistò fama per aver pubblicato opere di assai vario argomento, dalla cosmogonia, alla teoria dei valori, a quel saggio Über Gestaltqualitäten (Intorno alle qualità formali) che rimase la base su cui si sviluppò la [.. teoria della Gestalt].",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "L’articolo che ha attratto l’attenzione di Freud si sofferma sull’ipocrisia della morale sessuale del cosiddetto mondo civile, e sui danni che ne derivano. Freud ha ritenuto col presente articolo di completare il punto di vista di von Ehrenfels, illustrando, fra i danni di questa morale sessuale, la diffusione dei disturbi nervosi che ne proverrebbe. [..]",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "[..] L’etica a cui tanto von Ehrenfels quanto Freud si riferiscono è quella che oggi si direbbe “morale borghese”, o anche [..] la morale vittoriana [..]. Freud si riallaccia ai suoi recenti lavori del 1905 sulla sessualità, i Tre saggi sulla teoria sessuale e Le mie opinioni sul ruolo della sessualità nell’etiologia delle nevrosi, per illustrare le componenti parziali della pulsione sessuale e la loro funzione per lo sviluppo delle perversioni e delle nevrosi; precisa pure il concetto di sublimazione, per quanto riguarda la sessualità in generale e le pulsioni parziali, e perviene alla tesi che la civiltà si è affermata e si afferma a prezzo di una repressione esercitata sulle pulsioni sessuali, repressione che a sua volta conduce allo sviluppo delle nevrosi.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Questa tesi (che Freud enuncia, pur rifiutandosi di soppesare se i vantaggi offerti dalla civiltà compensino il danno costituito dalla repressione sessuale e dalle nevrosi) è una tesi di cui si trovano cenni fin dalla Minuta teorica N (1897), dove Freud afferma che la civiltà consiste in una progressiva rinuncia all’incesto, e poi nei Tre saggi sulla teoria sessuale (1905), Riepilogo, dove parla della relazione inversa esistente tra civiltà e libero sviluppo sessuale.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Tale concetto verrà in seguito riaffermato da Freud in Sulla più comune degradazione della vita amorosa (1912), nelle prime pagine di L’avvenire di un’illusione (1927), nell’ultimo paragrafo della nota Perché la guerra? (1932), ma soprattutto in Il disagio della civiltà (1929).",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "epage",
+                                    "wzTag": "e-page",
+                                    "wzName": "2997-2999",
+                                    "items": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "wzElement": "article",
+                    "wzTag": "article",
+                    "wzName": "freud.nota-sull-inconscio-in-psicoanalisi",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Nota sull'inconscio in psicoanalisi",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "datepub",
+                            "wzTag": "date-pub",
+                            "wzName": "1912/09/01",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "book",
+                            "wzTag": "book",
+                            "wzName": "freud.opere-VI",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "ebook",
+                            "wzTag": "e-book",
+                            "wzName": "opere-complete-kindle",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "textabstract",
+                            "wzTag": "abstract",
+                            "wzName": "",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Nel presente scritto è notevole il fatto che alla distinzione fra inconscio in senso descrittivo e in senso dinamico (cioè soggetto alle forze della rimozione) è aggiunto un terzo significato dell’inconscio, quello sistematico: l’inconscio come provincia psichica contrapposta alla Coscienza e al Preconscio.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Nel successivo più ampio lavoro [L'inconscio, 1915] Freud ritorna a una dualità di significati, quella in senso descrittivo e in senso sistematico. Egli riprenderà la triplice distinzione in L’Io e l’Es del 1922 e nell’Introduzione alla psicoanalisi del 1932 (lezione 31). Al tempo di questi ultimi scritti tuttavia era andata assumendo importanza, dal punto di vista sistematico, l’altra e diversa tripartizione, quella delle istanze psichiche costituite dall’Io, dall’Es e dal Super-io.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Un’altra più sottile innovazione è qui presentata per quanto si riferisce alla nozione di inconscio. Rappresentazioni inconsce non sono soltanto quelle che già appartenute alla coscienza ne sono state espulse, ma anche rappresentazioni, o in genere contenuti mentali che non sono mai pervenuti alla coscienza, che cioè si sono formati come contenuti mentali inconsci senza poter varcare la soglia della coscienza, in quanto impediti dalla rimozione. È anzi accennato alla possibilità che tutti i pensieri si generino come pensieri inconsci, e che alcuni soltanto di essi riescano in seguito a imporsi alla coscienza, mentre altri resterebbero stabilmente sotto il dominio della rimozione come contenuti inconsci.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "epage",
+                                    "wzTag": "e-page",
+                                    "wzName": "3868",
+                                    "items": []
+                                }
+                            ]
                         }
                     ]
                 },
@@ -452,6 +774,12 @@
                             "items": []
                         },
                         {
+                            "wzElement": "datepub",
+                            "wzTag": "date-pub",
+                            "wzName": "1914/06/01",
+                            "items": []
+                        },
+                        {
                             "wzElement": "book",
                             "wzTag": "book",
                             "wzName": "opere-VII",
@@ -462,6 +790,135 @@
                             "wzTag": "e-book",
                             "wzName": "opere-complete-kindle",
                             "items": []
+                        },
+                        {
+                            "wzElement": "textabstract",
+                            "wzTag": "abstract",
+                            "wzName": "",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Freud [..] non era soddisfatto del suo lavoro. [..] Il saggio sul narcisismo ha tuttavia una grande importanza teoretica [..]. Esso è diviso in tre paragrafi.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Nel primo Freud si pone il problema del diverso modo con cui avviene un distacco dalla realtà nel nevrotico e nello psicotico (o parafrenico). Nel nevrotico la libido è distolta dagli oggetti reali, ma rimane oggettuale ed è rivolta agli oggetti della fantasia (e a un tale processo si adatta bene l’espressione usata da Jung di introversione della libido); nello psicotico, in ispecie nello schizofrenico, la libido si ritira sull’Io stesso, ripristinando una condizione della prima infanzia, e sviluppando l’onnipotenza del pensiero.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Nel secondo paragrafo Freud esamina le condizioni che producono, anche all’infuori della psicosi, il ritiro della libido dagli oggetti: ad esempio lo stato di malattia, la vecchiaia, o anche il sonno. Egli esamina pure come si producano le sensazioni dell’ipocondria, attraverso la erotizzazione degli organi e l’eccesso di eccitazione locale che ne consegue. Considera anche altre manifestazioni della libido narcisistica, come la scelta oggettuale amorosa del tipo narcisistico (contrapposta alla scelta del tipo per appoggio o [..] del tipo anaclitico). Anche le differenze fra amore maschile e amore femminile, e certe forme di amore materno e paterno, ricevono luce dal concetto di un primitivo narcisismo.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Nel terzo paragrafo la libido narcisistica viene considerata in relazione alla formazione di un ideale dell’Io; e in connessione con questo nuovo concetto vengono considerati i processi di idealizzazione dell’oggetto e di sublimazione delle tendenze. È anche esaminato il rapporto dell’ideale dell’Io con ciò che comunemente è inteso come coscienza morale; con ciò viene anticipata la nozione di una istanza (quella che più tardi nell’Io e l’Es (1922) verrà indicata come Super-io) a cui va anche riferito il delirio di essere osservati di determinati psicotici, e la stessa censura onirica. Un altro concetto qui introdotto è quello di comportamento in sintonia con l’Io, o egosintonico.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "In polemica con Adler, Freud sostiene che la protesta virile di cui lo stesso Adler parla, deriva dal complesso di evirazione, e che d’altra parte essa non è da sola idonea a chiarire il problema della nevrosi; e mentre riconosce la validità del concetto d’inferiorità organica, ne riduce la portata come fattore stimolante dello sviluppo della personalità.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "epage",
+                                    "wzTag": "e-page",
+                                    "wzName": "4397-4398",
+                                    "items": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "wzElement": "article",
+                    "wzTag": "article",
+                    "wzName": "al-di-la-del-principio-del-piacere",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Al di la del principio di piacere",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "datepub",
+                            "wzTag": "date-pub",
+                            "wzName": "1920/12/01",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "book",
+                            "wzTag": "book",
+                            "wzName": "freud.opere-IX",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "ebook",
+                            "wzTag": "e-book",
+                            "wzName": "opere-complete-kindle",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "textabstract",
+                            "wzTag": "abstract",
+                            "wzName": "",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Oltre al principio di piacere, sembra agire nella vita psichica una tendenza alla ripetizione indipendente da esso. Freud esamina questa tendenza in un caso particolare di attività ludica infantile, nelle nevrosi di guerra, nei cosiddetti sogni “traumatici”, e nello stesso comportamento dei pazienti in analisi, che nella traslazione sull’analista, oltre che nei loro sogni, ripetono le situazioni traumatiche della loro infanzia.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Determinata la esistenza di questa “coazione a ripetere”, agente in modo indipendente dal principio di piacere, e “al di là” di esso, Freud si vede costretto ad abbandonare l’esame dei dati concreti della osservazione analitica, per inoltrarsi sul terreno della pura speculazione.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "La seconda parte dell’opera ha appunto un carattere speculativo. Freud ritiene che la sostanza vivente, sorta per una specie di tensione o squilibrio determinatosi nella realtà materiale inerte, sia tutta dominata da una tendenza ad annullare quello squilibrio per raggiungere nuovamente la condizione primitiva della materia inerte. Tuttavia la sostanza vivente tenderebbe a questo per vie prestabilite, e opponendosi a un annullamento immediato. Da tale situazione deriverebbe un alternarsi di impulsi verso la conservazione della vita e di impulsi verso la morte.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Alla luce di questa ipotesi generalissima di carattere biologico, tutta la dottrina delle pulsioni precedentemente sviluppata richiede una revisione.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Freud era partito dalla contrapposizione fra pulsioni sessuali e pulsioni dell’Io. Era però stato costretto ad ampliare il concetto di sessualità. Nella Introduzione al narcisismo (1914), le pulsioni dell’Io e quelle sessuali erano state riunite sotto il concetto di un’unica libido, suscettibile di proiettarsi sugli oggetti o di ritirarsi sull’Io del soggetto. Le componenti sadiche, mai assenti nella vita affettiva, attestavano la presenza di una componente pulsionale distruttiva. Se si ammette l’esistenza di una pulsione di morte, questa può, come la stessa libido, rivolgersi sull’oggetto oppure agire silenziosamente all’interno dello stesso Io.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Il lettore che segua semplicemente il discorso sviluppato in questo scritto può avere l’impressione che Freud, quando nei primi paragrafi affronta il problema della coazione a ripetere, non sia ancora ben consapevole della soluzione che darà alla questione delle pulsioni di morte; è dunque necessario giungere alla fine del libretto per rendersi conto della imponente opera di revisione e di completamento della dottrina delle pulsioni che Freud è venuto effettuando.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Freud era vivamente preoccupato che le radicali innovazioni teoriche contenute in Al di là del principio di piacere (e in particolare l’ipotesi delle pulsioni di morte) potessero essere attribuite a un turbamento affettivo contingente, al lutto per la morte improvvisa della diletta figlia Sophie avvenuta a pochi giorni di distanza (il 25 gennaio 1920) dalla morte del carissimo amico e collaboratore Anton von Freund. Per questo in una lettera del 18 luglio 1920 chiese all’amico Eitingon di essergli testimone che Al di là del principio di piacere era già stato scritto in gran parte quando la figlia Sophie godeva ancora di ottima salute. E quando in effetti il primo biografo di Freud, Fritz Wittels, si dimostrò incline a far risalire la genesi di Al di là del principio di piacere alla depressione dovuta alla morte di Sophie, Freud protestò vivacemente e, date alla mano, gli scrisse che per quanto “verosimile”, tale ipotesi non era “vera”.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "epage",
+                                    "wzTag": "e-page",
+                                    "wzName": "5632-5633",
+                                    "items": []
+                                }
+                            ]
                         }
                     ]
                 },
@@ -579,31 +1036,6 @@
                                     "items": []
                                 }
                             ]
-                        }
-                    ]
-                },
-                {
-                    "wzElement": "article",
-                    "wzTag": "article",
-                    "wzName": "la-morale-sessuale-civile-e-il-nervosismo-moderno",
-                    "items": [
-                        {
-                            "wzElement": "title",
-                            "wzTag": "title",
-                            "wzName": "La morale sessuale “civile” e il nervosismo moderno",
-                            "items": []
-                        },
-                        {
-                            "wzElement": "book",
-                            "wzTag": "book",
-                            "wzName": "freud.opere-V",
-                            "items": []
-                        },
-                        {
-                            "wzElement": "ebook",
-                            "wzTag": "e-book",
-                            "wzName": "opere-complete-kindle",
-                            "items": []
                         }
                     ]
                 },
@@ -747,6 +1179,31 @@
                             "wzElement": "book",
                             "wzTag": "book",
                             "wzName": "freud.opere-IX",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "ebook",
+                            "wzTag": "e-book",
+                            "wzName": "opere-complete-kindle",
+                            "items": []
+                        }
+                    ]
+                },
+                {
+                    "wzElement": "article",
+                    "wzTag": "article",
+                    "wzName": "costruzioni-dell-analisi",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Costruzioni dell'analisi",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "book",
+                            "wzTag": "book",
+                            "wzName": "opere-XI",
                             "items": []
                         },
                         {
@@ -4050,6 +4507,76 @@
                 {
                     "wzElement": "concept",
                     "wzTag": "concept",
+                    "wzName": "abreazione",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Abreazione",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "quote",
+                            "wzTag": "quote",
+                            "wzName": "",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "L’affievolirsi di un ricordo o dell’affetto che lo accompagna, dipende da parecchi fattori. È innanzitutto rilevante al riguardo se si sia reagito energicamente o no all’evento impressionante. Intendiamo qui per reazione tutta la gamma di riflessi volontari e involontari con i quali, come l’esperienza insegna, gli affetti si scaricano: dal pianto fino all’atto di vendetta. Se tale reazione avviene in misura sufficiente, una grande parte dell’affetto scompare; il nostro linguaggio conferma questo fatto di osservazione quotidiana mediante le espressioni “scaricare il rancore”, “sfogarsi col pianto” e simili.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "[..] La reazione della persona colpita dal trauma ha propriamente un effetto “catartico” completo solo quando è una reazione adeguata, come la vendetta. Ma nella parola l’uomo trova un surrogato all’azione, e con l’aiuto della parola l’affetto può essere “abreagito” in misura quasi uguale.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "article",
+                                    "wzTag": "article",
+                                    "wzName": "freud.studi-sull-isteria",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "epage",
+                                    "wzTag": "e-page",
+                                    "wzName": "248-249",
+                                    "items": []
+                                }
+                            ]
+                        },
+                        {
+                            "wzElement": "quote",
+                            "wzTag": "quote",
+                            "wzName": "",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Nell’epoca eroica della psicoanalisi si pensava che la guarigione coincidesse con la cosiddetta abreazione, ossia con la scarica emotiva catartica connessa al recupero del ricordo dell’evento traumatico, e che la cura consistesse nel favorire il ritorno del rimosso, nel ridare diritto di cittadinanza nella coscienza al contenuto ideativo fonte del conflitto.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Tale semplificazione, più ‘idraulica’ che psicodinamica, ancora oggi sopravvive nella vulgata psicoanalitica; ma già Freud sottolineava che la metafora topografica non basta per rendere ragione della complessità dei processi mnestici.",
+                                    "items": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
                     "wzName": "affetto",
                     "items": [
                         {
@@ -4938,10 +5465,29 @@
                             "items": []
                         },
                         {
-                            "wzElement": "text",
-                            "wzTag": "+",
-                            "wzName": "Si riferisce a uno schema essenzialmente topico dello psichismo, in cui quest'ultimo è concepito come una serie di dispositivi attraversati dalle eccitazioni, allo stesso modo in cui la luce passa attraverso i diversi sistemi di un apparato ottico.",
-                            "items": []
+                            "wzElement": "quote",
+                            "wzTag": "quote",
+                            "wzName": "",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Il primo termine introdotto da Freud [per definire l'apparato psichico] fu quello di «sistema». Si riferisce a uno schema essenzialmente topico dello psichismo, in cui quest'ultimo è concepito come una serie di dispositivi attraversati dalle eccitazioni, allo stesso modo in cui la luce passa attraverso i diversi sistemi di un apparato ottico.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "[..] Freud parla di sistemi mnestici, di sistema percezione-coscienza, e non, in questi casi, di istanza. [poiché istanza ha connotato sia topico che dinamico, ad esempio censura e Super-Io sono istanze]",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "article",
+                                    "wzTag": "article",
+                                    "wzName": "anepeta.metapsicologia",
+                                    "items": []
+                                }
+                            ]
                         }
                     ]
                 },
@@ -7359,6 +7905,12 @@
                                     "wzElement": "text",
                                     "wzTag": "+",
                                     "wzName": "Propongo che, se riusciamo a descrivere un processo psichico nei suoi rapporti dinamici, topici ed economici, la nostra esposizione sia chiamata metapsicologica.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "article",
+                                    "wzTag": "article",
+                                    "wzName": "freud.l-inconscio",
                                     "items": []
                                 },
                                 {

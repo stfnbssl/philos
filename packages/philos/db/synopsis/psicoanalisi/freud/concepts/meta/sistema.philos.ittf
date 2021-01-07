@@ -1,0 +1,16 @@
+$group
+
+    namespace freud.meta
+
+        concept sistema
+            title Sistema psichico
+            
+            quote 
+                + Il primo termine introdotto da Freud [per definire l'apparato psichico] fu quello di «sistema». 
+                    \b Si riferisce a uno schema essenzialmente topico dello psichismo, 
+                    \b in cui quest'ultimo è concepito come una serie di dispositivi attraversati dalle eccitazioni, 
+                    \b allo stesso modo in cui la luce passa attraverso i diversi sistemi di un apparato ottico. 
+                + [..] Freud parla di sistemi mnestici, di sistema percezione-coscienza, 
+                    \b e non, in questi casi, di istanza 
+                    \b [poiché istanza ha connotato sia topico che dinamico, ad esempio censura e Super-Io sono istanze].
+                article anepeta.metapsicologia

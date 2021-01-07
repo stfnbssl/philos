@@ -1,6 +1,6 @@
 $group
 
-    namespace freud
+    namespace freud.meta
 
         concept sistema-prec
             title Sistema Prec

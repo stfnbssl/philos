@@ -1,0 +1,16 @@
+$group
+
+    namespace freud.meta
+
+        concept istanza
+            title Istanza
+                de Instanz
+            + Nel quadro di una concezione sia topica che dinamica del l'apparato psichico, 
+                \b una qualsiasi delle diverse sottostrutture. 
+            example
+                + istanza della censura (prima topica), istanza del Super-io (seconda topica).
+            period 1900
+                + Il termine istanza è introdotto ne L'interpretazione dei sogni
+                    \b come sinonimo di sistema ed è usato da Freud fino agli ultimi suoi scritti.
+                + Ne L'interpretazione dei sogni è usato per analogia con i tribunali 
+                    \b o con le autorità che giudicano di ciò che va lasciato passare.

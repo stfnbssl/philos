@@ -1,0 +1,16 @@
+$group
+
+    $include apparato
+    $include coscienza
+    $include inconscio
+    $include es
+    $include io
+    $include istanza
+    $include metapsicologia
+    $include sistema-inc
+    $include sistema-prec
+    $include sistema-p-c
+    $include sistema
+    $include super-io
+    $include topica-prima
+    $include topica-seconda

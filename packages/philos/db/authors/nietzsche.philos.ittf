@@ -1,0 +1,18 @@
+$group
+    
+    author nietzsche
+        fullname Friedrich Nietzsche
+        born
+            date 15/10/1844 
+            place Röcken, Lützen, Germania
+        died
+            date 25/8/1900
+            place Weimar, Germania
+        avatar ./assets/img/authors/Nietzsche.jpg
+        + Filosofo. Nella sua opera convivono una violenta critica distruttiva verso il passato
+            \b (la tradizione filosofica, morale e religiosa dell'Occidente da Socrate in poi)
+            \b e un appassionato appello al futuro, 
+            \b alla creazione di un uomo nuovo capace di affrontare la tragicità della vita 
+            \b senza bisogno di certezze filosofiche o religiose. 
+            \b Le sue idee antidemocratiche e l'esaltazione della volontà di potenza 
+            \b ne favorirono la strumentalizzazione da parte del nazismo.           

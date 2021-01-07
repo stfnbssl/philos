@@ -1,0 +1,10 @@
+$group
+
+    namespace anepeta
+        author Anepeta
+
+        article anepeta.metapsicologia
+            title Metapsicologia
+            url http://www.nilalienum.it/Sezioni/Freud/Materiali%20bibliografici/LP/Metapsicologia.html
+
+

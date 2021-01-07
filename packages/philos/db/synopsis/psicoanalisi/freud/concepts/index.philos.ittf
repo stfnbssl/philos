@@ -1,14 +1,15 @@
 $group
 
     $include difese/index
+    $include meta/index
     $include nevrosi/index
     $include progetto/index
     $include sogno/index
     $include ambivalenza
+    $include abreazione
     $include affetto
     $include amnesia-infantile
     $include angoscia
-    $include apparato
     $include appoggio
     $include associazione-libera
     $include attenzione
@@ -17,7 +18,6 @@ $group
     $include azione-specifica
     $include coazione-a-ripetere
     $include coscienza-morale
-    $include coscienza
     $include costruzione-analitica
     $include delirio
     $include desiderio
@@ -41,13 +41,11 @@ $group
     $include inibizione
     $include innervazione
     $include investimento
-    $include io
     $include isteria
     $include istinto
     $include lavoro-analitico
     $include lavoro-onirico
     $include libido
-    $include metapsicologia
     $include motilità
     $include narcisismo
     $include nascita-difficile
@@ -74,16 +72,11 @@ $group
     $include scena-primaria
     $include sensazione
     $include sintomo
-    $include sistema-Inc
-    $include sistema-P-C
-    $include sistema-Prec
     $include sopraffazione-dell-io
     $include sovradeterminazione
     $include spinta-ascensionale-rimosso
     $include super-io
     $include telepatia
-    $include topica-prima
-    $include topica-seconda
     $include traccia-mnestica
     $include traslazione
     $include trauma

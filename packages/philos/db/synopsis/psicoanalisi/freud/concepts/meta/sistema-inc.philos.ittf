@@ -1,6 +1,6 @@
 $group
 
-    namespace freud
+    namespace freud.meta
 
         concept sistema-inc
             title Sistema Inc
@@ -20,5 +20,5 @@ $group
                         \b Qui sostituiamo di nuovo a un modo di rappresentazione topico un modo di rappresentazione dinamico;
                         \b non è la struttura psichica che ci appare elemento mobile, bensì la sua innervazione.
                     e-page 1835-1836
-                    article freud.l-interpretazione-dei-sogni-kindle
+                    article freud.l-interpretazione-dei-sogni
 

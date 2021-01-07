@@ -1,9 +1,11 @@
 $group
 
-    $include ../../authors/freud
+    $include ../../authors/anepeta
     $include ../../authors/forrester
+    $include ../../authors/freud
     $include ../../authors/musatti
     $include ../../authors/scalzone
+    $include ../../biblio/anepeta
     $include ../../biblio/freud
     $include ../../biblio/forrester
     $include ../../biblio/musatti

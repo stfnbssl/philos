@@ -1,0 +1,39 @@
+$group
+
+    namespace freud.meta
+
+        concept prima-topica
+            title Prima topica
+            alias Prima teoria dell'apparato psichico
+            
+        concept inconscio
+            title Inconscio (prima topica)
+            quote
+                + Come possiamo arrivare a conoscere l'inconscio? 
+                    \b Naturalmente lo conosciamo soltanto in una forma conscia 
+                    \b dopo che ha subito una trasformazione o traduzione in qualcosa di conscio. 
+                    \b Il lavoro psicoanalitico ci fa sperimentare ogni giorno 
+                    \b che una traduzione del genere è possibile.
+                book freud.l-inconscio
+                    page 49
+
+            quote
+                + La concezione dinamica del processo di rimozione 
+                    \b rese tuttavia necessario conferire all’inconscio un significato sistematico, 
+                    \b per modo che l’inconscio fu equiparato col rimosso.
+                article freud.qualche-parola-sull'inconscio
+                e-page 5943
+
+        concept preconscio
+            title Preconscio (prima topica)
+            
+            quote
+                + A ciò che è latente e solo provvisoriamente inconscio fu dato il nome di “preconscio” e, 
+                    \b dal punto di vista sistematico, 
+                    \b gli fu conferita una collocazione assai prossima a ciò che è cosciente.
+                article freud.qualche-parola-sull'inconscio
+                e-page 5943
+            
+        
+        concept coscienza
+            title Coscienza (prima topica)

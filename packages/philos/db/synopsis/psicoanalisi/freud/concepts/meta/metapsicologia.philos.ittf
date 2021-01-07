@@ -1,12 +1,13 @@
 $group
 
-    namespace freud
+    namespace freud.meta
 
         concept metapsicologia
             title Metapsicologia
             
             quote
-                + Propongo che, se riusciamo a descrivere un processo psichico 
+                + Propongo che, se riusciamo a descrivere un processo psichico
                     \b nei suoi rapporti dinamici, topici ed economici, 
                     \b la nostra esposizione sia chiamata metapsicologica.
+                article freud.l-inconscio
                 e-loc 65595-65597

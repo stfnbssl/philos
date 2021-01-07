@@ -1,0 +1,16 @@
+$group
+
+    namespace freud.meta
+
+        concept super-io
+            title Super-Io
+            + Istanza della seconda topica, con Es ed Io.
+
+            quote
+                + Il Super-io del bambino non si forma a immagine dei genitori, 
+                    \b bensì a immagine del loro Super-io; 
+                    \b esso si empie dello stesso contenuto, 
+                    \b diventa il rappresentante della tradizione, 
+                    \b di tutti i giudizi di valore, 
+                    \b che così persistono attraverso le generazioni.
+                article freud.introduzione-alla-psicoanalisi-nuove-lezioni

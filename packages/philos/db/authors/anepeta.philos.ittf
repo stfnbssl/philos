@@ -1,0 +1,14 @@
+$group
+    
+    author anepeta
+        fullname Luigi Anepeta
+        born
+            date Unknown
+            place Rome, Italia
+        died
+            date Unknown
+            place Unknown
+        avatar ./assets/img/authors/Anepeta.jpg
+        + Luigi Anepeta, psichiatra critico, dopo aver partecipato alla lotta contro l'istituzione manicomiale, 
+            \b si è dedicato alla psicoterapia dinamica, 
+            \b alla formazione di operatori e alla ricerca in vari ambiti culturali.
