@@ -1,0 +1,14 @@
+$group
+
+    namespace freud.meta
+
+        concept preconscio
+            title Preconscio (prima topica)
+            
+            quote
+                + A ciò che è latente e solo provvisoriamente inconscio fu dato il nome di “preconscio” e, 
+                    \b dal punto di vista sistematico, 
+                    \b gli fu conferita una collocazione assai prossima a ciò che è cosciente.
+                article freud.qualche-parola-sull'inconscio
+                e-page 5943         
+        

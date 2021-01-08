@@ -1,0 +1,28 @@
+$group
+
+    namespace freud
+
+        concept erotismo
+            title Erotismo
+            alias Investimenti oggettuali libidici
+
+            concept egosintonico
+                + Quando l'investimento amoroso (oggettuale) è in sintonia con l'Io ..
+                quote
+                    + [..] l’atto di amare è considerato alla stregua di ogni altra attività dell’Io. 
+                        \b L’amare di per sé, come anelito e privazione, deprime il sentimento di sé; 
+                        \b l’essere amati, venire ricambiati del proprio amore, 
+                        \b possedere l’oggetto amato lo reinnalza.
+                    article freud.introduzione-al-narcisismo
+                    e-page 4432
+
+            concept non-egosintonico
+                + Quando l'investimento amoroso (oggettuale) non è in sintonia con l'Io, subisce una rimozione.
+                
+                quote
+                    + Se la libido è rimossa, l’investimento amoroso è avvertito come un grave svuotamento dell’Io, 
+                        \b il soddisfacimento amoroso diventa impossibile 
+                        \b e l’Io può tornare ad arricchirsi solo se la libido è ritirata dagli oggetti.
+                    article freud.introduzione-al-narcisismo
+                    e-page 4432
+            

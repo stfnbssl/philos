@@ -1,0 +1,126 @@
+$group
+
+    namespace freud.meta
+
+        concept io-piacere-io-realtà
+            title Opposizione Io-piacere e Io-Realtà
+
+            + L'opposizione tra Io-piacere e Io-realtà è formulata da Freud principalmente in:
+                li 
+                    r-article freud.precisazioni-sui-due-principi-dell-accadere-psichico
+                li 
+                    r-article freud.pulsioni-e-loro-destino
+                li 
+                    r-article freud.la-negazione
+
+            r-article freud.precisazioni-sui-due-principi-dell-accadere-psichico
+            
+                quote
+                    + In Precisazioni sui due principi dell'accadere psichico, 
+                        \b l'opposizione tra Io-piacere e Io-realtà si ricollega a quella esistente tra principio di piacere e principio di realtà. 
+                        \b Per designare l'evoluzione delle pulsioni dell'Io Freud utilizza qui i termini di Lust-Ich e Real-Ich. 
+                        \b Le pulsioni che funzionano dapprima secondo il principio di piacere si sottopongono gradualmente al principio di realtà, 
+                        \b ma tale evoluzione è meno rapida e meno completa per le pulsioni sessuali, 
+                        \b che sono più difficili da «educare» delle pulsioni dell'Io. 
+                    quote
+                        + Come l'Io-piacere non può fare altro che desiderare, 
+                            \b lavorare per ottenere il piacere ed evitare il dispiacere, 
+                            \b così l'Io-realtà non ha altro da fare che tendere verso l'utile e garantirsi contro i danni
+                        article freud.precisazioni-sui-due-principi-dell-accadere-psichico 
+                        e-page 3479
+                    + Va notato che l'Io è qui considerato essenzialmente sotto l'angolo delle pulsioni 
+                        \b che gli forniscono un supporto energetico; 
+                        \b Io-piacere e Io-realtà non sono due forme radicalmente diverse dell'Io, 
+                        \b ma definiscono due modi di funzionamento delle pulsioni dell'Io, 
+                        \b secondo il principio di piacere e secondo il principio di realtà.
+                    article anepeta.metapsicologia
+
+            r-article freud.pulsioni-e-loro-destino
+            
+                quote
+                    + Anche in Pulsioni e loro destino, si ha una prospettiva genetica, 
+                        \b ma l'attenzione non è rivolta alla connessione tra i due principi 
+                        \b né all'evoluzione delle pulsioni dell'Io, 
+                        \b bensì alla genesi dell'opposizione soggetto (Io) - oggetto (mondo esterno) 
+                        \b in quanto essa è correlativa all'opposizione piacere-dispiacere.
+
+                    + In questa prospettiva, Freud distingue due fasi: 
+                        \b la prima, in cui 
+                    
+                    quote
+                        + [il soggetto] coincide con ciò che è piacevole e il mondo esterno con ciò che è indifferente 
+                        article freud.pulsioni-e-loro-destino
+                        e-page 4633
+                    
+                    + la seconda in cui il soggetto si oppone al mondo esterno come il piacere al dispiacere; 
+                        \b nella prima fase il soggetto è denominato Io-realtà, nella seconda Io-piacere. 
+                        \b Come si vede, la successione dei termini segue un ordine opposto rispetto al testo precedente, 
+                        \b ma questi termini, e in particolare quello di Io-realtà, non sono usati nella stessa accezione: 
+                        \b l'opposizione tra Io-realtà e Io-piacere precede qui l'introduzione del principio di realtà 
+                        
+                    quote
+                        + [e il passaggio dall'Io-realtà all'Io-piacere] si compie sotto la supremazia del principio di piacere.
+                        article freud.pulsioni-e-loro-destino
+                        e-page 4634
+
+                    + Questo «Io-realtà dell'inizio» è caratterizzato, per Freud, 
+                        
+                    quote
+                        + [dal fatto] che esso distingue interno ed esterno secondo un buon criterio obiettivo; 
+                        article freud.pulsioni-e-loro-destino
+
+                    + tale proposizione potrebbe essere intesa nel senso che 
+                        \b è senz'altro una posizione obiettiva riferire al soggetto le sensazioni di piacere e di dispiacere 
+                        \b senza farne qualità del mondo esterno, che di per sé è indifferente.
+                        \b Come si costituisce l'Io-piacere? 
+
+                    + Il soggetto, al pari del mondo esterno, si trova scisso in una parte piacevole e una parte spiacevole; 
+                        \b ne risulta una nuova ripartizione, in cui il soggetto coincide con tutto il piacevole 
+                        \b e il mondo con tutto lo spiacevole; 
+                        \b questa ripartizione si compie mediante una introiezione 
+                        \b della parte degli oggetti del mondo esterno che è fonte di piacere 
+                        \b e con la proiezione all'esterno di ciò che è all'interno occasione di dispiacere. 
+
+                    + Questa nuova posizione del soggetto consente di definirlo come «Io-piacere purificato», 
+                        \b in quanto tutto lo spiacevole si trova fuori di esso.
+                        \b Come si vede, in Pulsioni e loro destino il termine di Io-piacere 
+                        \b non significa più soltanto Io retto dal principio di dispiacere-piacere, 
+                        \b bensì Io identificato con il piacevole in opposizione allo spiacevole. 
+                        \b In questa nuova accezione, sono ancora due tappe dell'Io che vengono contrapposte, 
+                        \b ma questa volta esse sono definite in base a una modificazione del suo limite e dei suoi contenuti.
+
+                    article anepeta.metapsicologia
+
+            r-article freud.la-negazione
+            
+                quote
+                    
+                    + In La negazione, Freud utilizza ancora la distinzione tra Io-piacere e Io-realtà, 
+                        \b nella stessa prospettiva del testo precedente: 
+                        \b come si costituisce l'opposizione soggetto-mondo esterno? 
+                        \b L'espressione di «Io-realtà dell'inizio» non e ripresa letteralmente: 
+                        \b tuttavia non pare che Freud abbia rinunciato a questa idea, 
+                        \b giacché sostiene che il soggetto dispone immediatamente di un accesso obiettivo alla realtà: 
+
+                    quote
+                        + All'origine, l'esistenza della rappresentazione è una garanzia della realtà del rappresentato.
+                        article freud.la-negazione
+
+                    + La seconda fase, quella dell'«Io-piacere» è descritta con gli stessi termini che in Pulsioni e loro destino: 
+                    
+                    quote
+                        + L'Io-piacere originario [...] desidera introiettarsi tutto ciò che è buono 
+                            \b e rigettare fuori di sé tutto ciò che è cattivo. 
+                            \b Per esso, il cattivo l'estraneo all'Io, ciò che si trova fuori, sono inizialmente identici.
+                        article freud.la-negazione
+
+                    + L'«Io-realtà definitivo» corrisponderebbe a una terza fase, 
+                        \b quella in cui il soggetto cerca di ritrovare nell'esterno un oggetto reale 
+                        \b corrispondente alla rappresentazione dell'oggetto inizialmente soddisfacente e perduto: 
+                        \b è questa la molla dell'esame di realtà.
+
+                    + Questo passaggio dall'Io-piacere all'Io-realtà dipende, 
+                        \b come nelle Precisazioni sui due principi dell'accadere psichico, 
+                        \b dall'instaurazione del principio di realtà.
+
+                    article anepeta.metapsicologia

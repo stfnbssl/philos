@@ -112,14 +112,14 @@ $group
         param props
         var {item, onClick} = props
         var {id, name, title} = item
-        set title = (title || name)
+        var titleText = dbExtractTitleText(title) || name
         return
             < div
                 @ onClick
                     =>
                         param event
                         _ onClick(event, item)
-                div {title}
+                div {titleText}
                     @ className "li-title"
                 div id: {id}
                     @ className "li-id"
@@ -176,13 +176,14 @@ $group
         var {item, onClick} = props
         var {id, name, title} = item
         set title = (title || name)
+        var titleText = dbExtractTitleText(title) || name
         return
             < div
                 @ onClick
                     =>
                         param event
                         _ onClick(event, item)
-                div {title}
+                div {titleText}
                     @ className "li-title"
                 div id: {id}
                     @ className "li-id"

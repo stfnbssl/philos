@@ -208,12 +208,21 @@
                     <blockquote>
                     {
                         item.lines.map(function(token, i) {
-                            return  (
-                                    <p key={i}>
-                                    {token}
-                                    </p>
-                                )
-                            ;
+                            if (token.quote) {
+                                return  (
+                                        <Quote key={i} item={token.quote} jsonData={jsonData}>
+                                        </Quote>
+                                    )
+                                ;
+                            }
+                            else {
+                                return  (
+                                        <p key={i}>
+                                        {token}
+                                        </p>
+                                    )
+                                ;
+                            }
                         })
                     }<cite>
                         {
@@ -230,7 +239,16 @@
                             
                         }</cite>
                     
-                    </blockquote>
+                    {
+                        item.comment &&  (
+                            <div className="quote-comment-box">
+                                <ContentText item={item.comment} jsonData={jsonData}>
+                                </ContentText>
+                            
+                            </div>
+                        )
+                        
+                    }</blockquote>
                 )
             ;
         }
@@ -242,7 +260,8 @@
             // log 'QuoteArticle.articleObj', articleObj
             if (articleObj) {
                 var authorsObj = dbGetAuthors(articleObj.authors, jsonData);
-                title = articleObj.title || articleObj.url || articleObj.id;
+                var titleText = dbExtractTitleText(articleObj.title);
+                title = titleText || articleObj.url || articleObj.id;
                 // log 'QuoteArticle.title', title
                 if (authorsObj.length > 0) {
                     author = authorsObj[0].fullname;
@@ -282,7 +301,8 @@
                 // log 'QuoteBook.bookObj.authors', bookObj.authors
                 var authorsObj = dbGetAuthors(bookObj.authors, jsonData);
                 // log 'QuoteBook.authorsObj', authorsObj
-                title = bookObj.title || bookObj.url || bookObj.id;
+                var titleText = dbExtractTitleText(bookObj.title);
+                title = titleText || bookObj.url || bookObj.id;
                 if (authorsObj.length > 0) {
                     author = authorsObj[0].fullname;
                 }
@@ -316,11 +336,47 @@
                                 }
                             }}>
                                 <span>
-                                Si veda &nbsp;
+                                Si veda il concetto &nbsp;
                                 </span>
                             
                                 <span>
                                 {conceptTitle}
+                                </span>
+                            
+                            </div>
+                        
+                        </div>
+                    
+                        <div className="rc-content">
+                            <ContentText item={item} jsonData={jsonData}>
+                            </ContentText>
+                        
+                        </div>
+                    
+                    </div>
+                )
+            ;
+        }
+        function RArticle(props) {
+            var {item, jsonData, handleOpen} = props;
+            var {id} = item;
+            var articleObj = dbGetArticle(id, jsonData);
+            console.log('RArticle.articleObj', id, articleObj);
+            var articleTitle = articleObj ? dbExtractTitleText(articleObj.title) : 'missing article: ' + id;
+            return  (
+                    <div className="rc-box">
+                        <div>
+                            <div className={articleObj ? 'rc-ref-pointer' : 'rc-ref'} onClick={(ev) => {
+                                if (articleObj) {
+                                    handleOpen(ev, articleObj);
+                                }
+                            }}>
+                                <span>
+                                Si veda l'articolo &nbsp;
+                                </span>
+                            
+                                <span>
+                                {articleTitle}
                                 </span>
                             
                             </div>
@@ -363,6 +419,13 @@
                                     return  (
                                             <RConcept key={i} item={token} handleOpen={handleOpen} jsonData={jsonData}>
                                             </RConcept>
+                                        )
+                                    ;
+                                }
+                                else if (token.kind == "rarticle") {
+                                    return  (
+                                            <RArticle key={i} item={token} handleOpen={handleOpen} jsonData={jsonData}>
+                                            </RArticle>
                                         )
                                     ;
                                 }
@@ -679,12 +742,12 @@
         function ArticleListItem(props) {
             var {item, onClick} = props;
             var {id, name, title} = item;
-            title = (title || name);
+            var titleText = dbExtractTitleText(title) || name;
             return  (
                     <div onClick={(event) =>
                         onClick(event, item)}>
                         <div className="li-title">
-                        {title}
+                        {titleText}
                         </div>
                     
                         <div className="li-id">
@@ -757,11 +820,12 @@
             var {item, onClick} = props;
             var {id, name, title} = item;
             title = (title || name);
+            var titleText = dbExtractTitleText(title) || name;
             return  (
                     <div onClick={(event) =>
                         onClick(event, item)}>
                         <div className="li-title">
-                        {title}
+                        {titleText}
                         </div>
                     
                         <div className="li-id">

@@ -393,61 +393,61 @@ function fillExtendsExports(parent, currentObj, resultObj) {
         return true;
     }
 }
-functors.contents = function(parent, parentObj, resultObj) {
-    var i, i_items=parent.items, i_len=parent.items.length, child;
+functors.contents = function(node, parentObj, resultObj) {
+    var i, i_items=node.items, i_len=node.items.length, child;
     for (i=0; i<i_len; i++) {
-        child = parent.items[i];
+        child = node.items[i];
         if (!fillContents(child, parentObj, resultObj)) {
             // functors.contents is called when contents only are expected
         }
     }
 };
-function fillContents(parent, currentObj, resultObj) {
+function fillContents(node, currentObj, resultObj) {
     if (!currentObj.contents) {
         console.log(currentObj.kind);
         console.log(currentObj.id);
         return ;
     }
-    if (parent.wzElement == "text") {
+    if (node.wzElement == "text") {
         currentObj.contents.push({
-            line: parent.wzName
+            line: node.wzName
         });
     }
-    else if (parent.wzElement == 'quote') {
+    else if (node.wzElement == 'quote') {
         currentObj.contents.push({
-            quote: fillQuote(parent, currentObj, resultObj)
+            quote: fillQuote(node, currentObj, resultObj)
         });
     }
-    else if (parent.wzElement == 'comment') {
+    else if (node.wzElement == 'comment') {
         currentObj.contents.push({
-            comment: functors.comment(parent, resultObj)
+            comment: functors.comment(node, resultObj)
         });
     }
-    else if (parent.wzElement == 'example') {
+    else if (node.wzElement == 'example') {
         currentObj.contents.push({
-            example: functors.comment(parent, resultObj)
+            example: functors.comment(node, resultObj)
         });
     }
-    else if (parent.wzElement == 'concept' && currentObj.kind == 'concept') {
+    else if (node.wzElement == 'concept' && currentObj.kind == 'concept') {
         var savens = resultObj.ns;
         resultObj.ns = currentObj.id;
-        functors.concept(parent, resultObj);
+        functors.concept(node, resultObj);
         resultObj.ns = savens;
         currentObj.contents.push({
-            concept: currentObj.id + '.' + parent.wzName
+            concept: currentObj.id + '.' + node.wzName
         });
     }
-    else if (parent.wzElement == 'relatedconcept') {
+    else if (node.wzElement == 'relatedconcept') {
         var rconceptObj = {
             kind: 'rconcept', 
-            id: parent.wzName, 
+            id: node.wzName, 
             contents: [
                 
             ]
         };
-        var i, i_items=parent.items, i_len=parent.items.length, child;
+        var i, i_items=node.items, i_len=node.items.length, child;
         for (i=0; i<i_len; i++) {
-            child = parent.items[i];
+            child = node.items[i];
             if (!fillContents(child, rconceptObj, resultObj)) {
             }
             else {
@@ -457,23 +457,46 @@ function fillContents(parent, currentObj, resultObj) {
         resultObj.relations.push({
             kind: 'rconcept', 
             from: currentObj.id, 
-            to: parent.wzName
+            to: node.wzName
+        });
+    }
+    else if (node.wzElement == 'relatedarticle') {
+        var rarticleObj = {
+            kind: 'rarticle', 
+            id: node.wzName, 
+            contents: [
+                
+            ]
+        };
+        var i, i_items=node.items, i_len=node.items.length, child;
+        for (i=0; i<i_len; i++) {
+            child = node.items[i];
+            if (!fillContents(child, rarticleObj, resultObj)) {
+            }
+            else {
+            }
+        }
+        currentObj.contents.push(rarticleObj);
+        resultObj.relations.push({
+            kind: 'rarticle', 
+            from: currentObj.id, 
+            to: node.wzName
         });
     }
     else {
         return true;
     }
 }
-function fillQuote(parent, currentObj, resultObj) {
+function fillQuote(node, currentObj, resultObj) {
     var quoteObj = {
         author: (resultObj.ns_author || 'global'), 
         lines: [
             
         ]
     };
-    var i, i_items=parent.items, i_len=parent.items.length, child;
+    var i, i_items=node.items, i_len=node.items.length, child;
     for (i=0; i<i_len; i++) {
-        child = parent.items[i];
+        child = node.items[i];
         if (child.wzElement == 'text') {
             quoteObj.lines.push(child.wzName);
         }
@@ -507,6 +530,11 @@ function fillQuote(parent, currentObj, resultObj) {
         }
         else if (child.wzElement == 'comment') {
             quoteObj.comment = functors.comment(child, resultObj);
+        }
+        else if (child.wzElement == 'quote') {
+            quoteObj.lines.push({
+                quote: fillQuote(child, currentObj, resultObj)
+            });
         }
         else {
             quoteObj.unknown = child.wzElement;
@@ -591,7 +619,7 @@ functors.book = function(parent, resultObj) {
     for (i=0; i<i_len; i++) {
         child = parent.items[i];
         if (child.wzElement == "title") {
-            bookObj.title = child.wzName;
+            functors.title(child, bookObj);
         }
         else if (child.wzElement == "datepub") {
             bookObj.datepub = child.wzName;
@@ -688,7 +716,7 @@ functors.article = function(parent, resultObj) {
     for (i=0; i<i_len; i++) {
         child = parent.items[i];
         if (child.wzElement == "title") {
-            articleObj.title = child.wzName;
+            functors.title(child, articleObj);
         }
         else if (child.wzElement == "datepub") {
             articleObj.datepub = child.wzName;

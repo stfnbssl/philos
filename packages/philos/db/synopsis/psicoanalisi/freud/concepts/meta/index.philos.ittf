@@ -2,11 +2,15 @@ $group
 
     $include apparato
     $include coscienza
-    $include inconscio
     $include es
+    $include ideale-dell-io
+    $include inconscio
+    $include io-piacere-io-realtà
+    $include io-ideale
     $include io
     $include istanza
     $include metapsicologia
+    $include preconscio
     $include sistema-inc
     $include sistema-prec
     $include sistema-p-c

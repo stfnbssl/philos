@@ -30,14 +30,13 @@ $group
     $include effetto-retroattivo
     $include energia
     $include eros
+    $include erotismo
     $include essere-superiore
     $include fantasticare
     $include festa
     $include formazione-di-compromesso
     $include formazione-reattiva
-    $include ideale-dell-io
     $include identificazione
-    $include inconscio
     $include inibizione
     $include innervazione
     $include investimento
@@ -50,6 +49,7 @@ $group
     $include narcisismo
     $include nascita-difficile
     $include percezione-interna
+    $include percezione-non-idoneità-ad-amare
     $include percezione
     $include periodo-latenza
     $include perturbante
@@ -71,6 +71,7 @@ $group
     $include rimozione
     $include scena-primaria
     $include sensazione
+    $include sentimento-di-sé
     $include sintomo
     $include sopraffazione-dell-io
     $include sovradeterminazione

@@ -20,6 +20,8 @@ $group
     e edition : item
         a year
     e book : item
+    e relatedbook : item
+        tag r-book
     e ebook : item
         tag e-book
     e backcover : item
@@ -28,6 +30,8 @@ $group
         tag abstract
     e index : item
     e article : item
+    e relatedarticle : item
+        tag r-article
     e letter : item
     e phrase : item
     e review : item

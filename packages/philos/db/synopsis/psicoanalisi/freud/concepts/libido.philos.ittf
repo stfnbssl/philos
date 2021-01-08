@@ -5,6 +5,7 @@ $group
         concept libido
             title Libido
             + La libido è espressione dinamica, quantitativa, della pulsione sessuale nella vita psichica.
+            
             quote
                 + Chiamiamo così – considerandola una grandezza quantitativa, anche se per ora non misurabile – 
                     \b l’energia delle pulsioni attinenti a tutto ciò che può esser compendiato nella parola “amore”.
@@ -15,5 +16,65 @@ $group
             quote
                 + In questo caso possiamo sostituire il termine “investimento” con quello di “libido”, 
                     \b poiché, come sappiamo, l’argomento in questione è costituito dai destini di pulsioni sessuali.
-                bax
-                    + quindi quando si parla del destino di una pulsione sessuale un "investimento" lo si chiama "libido"
+                comment
+                    + Quindi, quando si parla del destino di una pulsione sessuale, un "investimento" lo si chiama "libido".
+                
+            concept introversione
+                title Introversione della libido
+                quote
+                    + Anche l’isterico o il nevrotico ossessivo 
+                        \b – in ragione del livello raggiunto dalla sua malattia – 
+                        \b ha abbandonato il rapporto con la realtà. 
+                        \b L’analisi mostra tuttavia che egli non ha assolutamente interrotto 
+                        \b il suo rapporto erotico con le persone e con le cose. 
+                        \b Continua anzi a serbare ben saldo nella fantasia questo rapporto: 
+                        \b ciò significa da una parte che egli ha sostituito o combinato insieme 
+                        \b gli oggetti reali con oggetti immaginari tratti dai suoi ricordi, 
+                        \b e dall’altra che ha rinunciato a intraprendere le attività motorie 
+                        \b atte a raggiungere i suoi obiettivi in relazione a questi oggetti. 
+                        \b L’espressione “introversione della libido” 
+                        \b che Jung usa indiscriminatamente dovrebbe essere fatta valere 
+                        \b per quest’unica situazione libidica.
+                    article freud.introduzione-al-narcisismo
+                    e-page 4401
+
+            concept ritiro
+                title Ritiro della libido dall'oggetto
+                quote
+                    + Le cose stanno diversamente per il parafrenico [lo psicotico]: 
+                        \b sembra che egli abbia effettivamente ritirato la sua libido 
+                        \b da persone e cose del mondo esterno, 
+                        \b senza averle sostituite con altre nella fantasia; 
+                        \b quando ciò accade, il processo sembra secondario 
+                        \b e inscrivibile in un tentativo di guarigione 
+                        \b inteso a ricondurre la libido al suo oggetto.
+                    article freud.introduzione-al-narcisismo
+                    e-page 4401-4402
+
+            concept dell-io
+                title Libido dell'Io
+                alias Libido narcisistica
+
+                quote
+                    + La libido sottratta al mondo esterno è stata diretta sull’Io, 
+                        \b dando origine per conseguenza a un comportamento che possiamo definire narcisistico.
+                    article freud.introduzione-al-narcisismo
+                    e-page 4402
+
+            concept oggettuale
+                title Libido oggettuale
+
+                quote
+                    + Grosso modo, osserviamo anche una contrapposizione tra libido dell’Io e libido oggettuale. 
+                        \b Quanto più si impiega dell’una, tanto più si depaupera l’altra. 
+                        \b Ci sembra che il punto più alto cui perviene la libido oggettuale nel suo sviluppo 
+                        \b si esprima nello stato di innamoramento, 
+                        \b il quale ci si presenta come una rinuncia del soggetto alla propria personalità 
+                        \b in favore di un investimento d’oggetto; 
+                        \b la situazione opposta si può riscontrare nella fantasia (o autopercezione) 
+                        \b della “fine del mondo”, propria dei paranoici.
+                    article freud.introduzione-al-narcisismo
+                    e-page 4403
+                    comment
+                        + Il ritiro completo sull'Io della libido oggettuale svuota il mondo
+                            \b di ogni piacere e il paranoide ne percepisce la fine.

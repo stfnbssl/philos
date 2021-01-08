@@ -18,7 +18,9 @@ $group
             var newitems = []
             foreach child in parent.items
                 if child.wzElement == "title"
-                    set bookObj.title = child.wzName 
+                    _ functors.title
+                        @ child
+                        @ bookObj
                 elif child.wzElement == "datepub"
                     set bookObj.datepub = child.wzName
                 elif child.wzElement == "edition"
@@ -91,7 +93,9 @@ $group
             var newitems = []
             foreach child in parent.items
                 if child.wzElement == "title"
-                    set articleObj.title = child.wzName 
+                    _ functors.title
+                        @ child
+                        @ articleObj
                 elif child.wzElement == "datepub"
                     set articleObj.datepub = child.wzName
                 elif child.wzElement == "edition"

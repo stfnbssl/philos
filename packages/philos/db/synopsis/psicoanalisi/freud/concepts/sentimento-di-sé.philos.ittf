@@ -1,0 +1,15 @@
+$group
+
+    namespace freud
+
+        concept sentimento-di-sé
+            title Sentimento di sé
+
+            quote
+                + Esiste una componente originaria del sentimento di sé, 
+                    \b costituita da quel che sopravvive del narcisismo infantile;
+                    \b un’altra parte deriva dall’onnipotenza 
+                    \b di cui abbiamo per esperienza prove concrete (il raggiungimento dell’ideale); 
+                    \b una terza parte procede dal soddisfacimento della libido oggettuale.
+                article freud.introduzione-al-narcisismo
+                e-page 4433

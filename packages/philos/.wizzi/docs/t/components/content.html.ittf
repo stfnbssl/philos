@@ -18,9 +18,16 @@ $group
                         function
                             param token
                             param i
-                            return 
-                                < p {token}
-                                    @ key {i}
+                            if token.quote
+                                return 
+                                    < Quote
+                                        @ key {i}
+                                        @ item {token.quote}
+                                        @ jsonData {jsonData}
+                            else
+                                return 
+                                    < p {token}
+                                        @ key {i}
                 cite
                     {
                         &&
@@ -36,6 +43,14 @@ $group
                                 @ id {item.book}
                                 @ page {page}
                                 @ jsonData {jsonData}
+                {
+                    &&
+                        + item.comment
+                        div
+                            @ className quote-comment-box
+                            < ContentText
+                                @ item {item.comment}
+                                @ jsonData {jsonData} 
 
     function QuoteArticle
         param props
@@ -46,7 +61,8 @@ $group
         # log 'QuoteArticle.articleObj', articleObj
         if articleObj
             var authorsObj = dbGetAuthors(articleObj.authors, jsonData)
-            set title = articleObj.title || articleObj.url || articleObj.id
+            var titleText = dbExtractTitleText(articleObj.title)
+            set title = titleText || articleObj.url || articleObj.id
             # log 'QuoteArticle.title', title
             if authorsObj.length > 0
                 set author = authorsObj[0].fullname
@@ -75,7 +91,8 @@ $group
             # log 'QuoteBook.bookObj.authors', bookObj.authors
             var authorsObj = dbGetAuthors(bookObj.authors, jsonData)
             # log 'QuoteBook.authorsObj', authorsObj
-            set title = bookObj.title || bookObj.url || bookObj.id
+            var titleText = dbExtractTitleText(bookObj.title)
+            set title = titleText || bookObj.url || bookObj.id
             if authorsObj.length > 0
                 set author = authorsObj[0].fullname
             else
@@ -104,8 +121,35 @@ $group
                                 param ev
                                 if conceptObj
                                     _ handleOpen(ev, conceptObj)
-                        span Si veda &nbsp;
+                        span Si veda il concetto &nbsp;
                         span {conceptTitle}
+                        
+                div
+                    @ className rc-content
+                    < ContentText
+                        @ item {item}
+                        @ jsonData {jsonData} 
+
+    function RArticle
+        param props
+        var {item, jsonData, handleOpen} = props
+        var {id} = item
+        var articleObj = dbGetArticle(id, jsonData)
+        log 'RArticle.articleObj', id, articleObj
+        var articleTitle = articleObj ? dbExtractTitleText(articleObj.title) : 'missing article: ' + id
+        return
+            div 
+                @ className rc-box
+                div
+                    div
+                        @ className {articleObj ? 'rc-ref-pointer' : 'rc-ref'}
+                        @ onClick
+                            =>
+                                param ev
+                                if articleObj
+                                    _ handleOpen(ev, articleObj)
+                        span Si veda l'articolo &nbsp;
+                        span {articleTitle}
                         
                 div
                     @ className rc-content
@@ -137,6 +181,13 @@ $group
                                 elif token.kind == "rconcept"
                                     return 
                                         < RConcept
+                                            @ key {i}
+                                            @ item {token}
+                                            @ handleOpen {handleOpen}
+                                            @ jsonData {jsonData}
+                                elif token.kind == "rarticle"
+                                    return 
+                                        < RArticle
                                             @ key {i}
                                             @ item {token}
                                             @ handleOpen {handleOpen}

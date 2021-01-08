@@ -6,6 +6,22 @@ $group
             title Inconscio
 
             quote
+                + Come possiamo arrivare a conoscere l'inconscio? 
+                    \b Naturalmente lo conosciamo soltanto in una forma conscia 
+                    \b dopo che ha subito una trasformazione o traduzione in qualcosa di conscio. 
+                    \b Il lavoro psicoanalitico ci fa sperimentare ogni giorno 
+                    \b che una traduzione del genere è possibile.
+                book freud.l-inconscio
+                    page 49
+
+            quote
+                + La concezione dinamica del processo di rimozione 
+                    \b rese tuttavia necessario conferire all’inconscio un significato sistematico, 
+                    \b per modo che l’inconscio fu equiparato col rimosso.
+                article freud.qualche-parola-sull'inconscio
+                e-page 5943
+
+            quote
                 + L’inconscio è l’infantile: è quella parte della personalità che a quell’epoca si è separata, 
                     \b non ha seguito l’evoluzione del tutto ed è stata perciò rimossa.
                 e-page 3250

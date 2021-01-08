@@ -1,0 +1,22 @@
+$group
+
+    namespace freud
+
+        concept ideale-dell-io
+            title Ideale dell'io
+                de Ichideal  
+            
+            + L’ideale dell’Io deriva dalla introiezione nell’Io di una protofigura parentale, 
+                \b che Freud indica talora come Höheres Wesen (essere superiore).
+
+            quote
+                + [..] l’esigenza di formare un ideale dell’Io, 
+                    \b su cui la coscienza morale è incaricata di vigilare, 
+                    \b è scaturita nell’individuo per opera delle critiche 
+                    \b che i suoi genitori gli hanno rivolto a voce, alle quali, nel corso del tempo, 
+                    \b si sono associati gli educatori, i maestri 
+                    \b e l’incalcolabile e indefinita schiera di tutte le altre persone del suo ambiente 
+                    \b (il suo prossimo e la pubblica opinione).
+                article freud.introduzione-al-narcisismo
+                e-page 4427-4428
+

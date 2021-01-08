@@ -1,0 +1,25 @@
+$group
+
+    namespace freud
+
+        concept percezione-non-idoneità-ad-amare
+            title Percezione non idoneità ad amare
+
+            quote
+                + La percezione dell’impotenza, della propria inidoneità all’amore 
+                    \b a causa di disturbi psichici o fisici, agisce in modo assai avvilente sul sentimento di sé. 
+                    \b Secondo il mio modo di vedere, in ciò va ravvisata una delle fonti 
+                    \b dei sentimenti di inferiorità che i soggetti colpiti da nevrosi di traslazione 
+                    \b dichiarano spesso così di buon grado. 
+                    \b Questi sentimenti sorgono tuttavia principalmente dall’impoverimento dell’Io 
+                    \b dovuto agli spropositati investimenti libidici che gli sono stati sottratti; 
+                    \b cioè dal danno che l’Io subisce ad opera delle tendenze sessuali 
+                    \b non più tenute sotto controllo.
+                article freud.introduzione-al-narcisismo
+                e-page 4430-4431
+                comment
+                    + Se ben comprendo la percezione della propria inidoneità all’amore 
+                        \b provocherebbe per Freud un
+                        \b inopportuno rilassamento delle forze rimoventi (per un 
+                        \b indebolimento dell'ideale dell'Io?)
+                        \b ed un eccesso di erotismo (di investimenti libidici oggettuali).

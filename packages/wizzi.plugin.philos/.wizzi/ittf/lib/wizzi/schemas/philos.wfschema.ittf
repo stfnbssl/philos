@@ -39,6 +39,12 @@ wfschema philos
     e fr : item
     e it : item
 
+    e li : item
+    e a : item
+        a href
+        a title
+        a target
+
 	philos/author()
     philos/school()
     philos/concept()

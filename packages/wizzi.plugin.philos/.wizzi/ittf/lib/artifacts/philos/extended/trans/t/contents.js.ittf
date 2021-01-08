@@ -2,65 +2,65 @@ $group
 
     set functors.contents
         function
-            param parent
+            param node
             param parentObj
             param resultObj
-            foreach child in parent.items
+            foreach child in node.items
                 if !fillContents(child, parentObj, resultObj)
                     # functors.contents is called when contents only are expected
                     $$ TODO error
 
     function fillContents
-        param parent
+        param node
         param currentObj
         param resultObj
         if !currentObj.contents
             log currentObj.kind
             log currentObj.id
             return
-        if parent.wzElement == "text"
+        if node.wzElement == "text"
             _ currentObj.contents.push
                 {
-                    @ line parent.wzName
-        elif parent.wzElement == 'quote'
+                    @ line node.wzName
+        elif node.wzElement == 'quote'
             _ currentObj.contents.push
                 {
                     @ quote
                         _ fillQuote
-                            @ parent
+                            @ node
                             @ currentObj
                             @ resultObj
-        elif parent.wzElement == 'comment'
+        elif node.wzElement == 'comment'
             _ currentObj.contents.push
                 {
                     @ comment
                         _ functors.comment
-                            @ parent
+                            @ node
                             @ resultObj
-        elif parent.wzElement == 'example'
+        elif node.wzElement == 'example'
             _ currentObj.contents.push
                 {
                     @ example
                         _ functors.comment
-                            @ parent
+                            @ node
                             @ resultObj
-        elif parent.wzElement == 'concept' && currentObj.kind == 'concept'
+        elif node.wzElement == 'concept' && currentObj.kind == 'concept'
             var savens = resultObj.ns
             set resultObj.ns = currentObj.id
             _ functors.concept        
-                @ parent
+                @ node
                 @ resultObj
             set resultObj.ns = savens
             _ currentObj.contents.push
                 {
-                    @ concept currentObj.id + '.' + parent.wzName
-        elif parent.wzElement == 'relatedconcept'
+                    @ concept currentObj.id + '.' + node.wzName
+        elif node.wzElement == 'relatedconcept'
             var rconceptObj
                 {
                     @ kind 'rconcept'
-                    @ id parent.wzName
+                    @ id node.wzName
                     [ contents
-            foreach child in parent.items
+            foreach child in node.items
                 if !fillContents(child, rconceptObj, resultObj)
                 else
                     $$ TODO error
@@ -70,19 +70,36 @@ $group
                 {
                     @ kind 'rconcept'
                     @ from currentObj.id
-                    @ to parent.wzName
+                    @ to node.wzName
+        elif node.wzElement == 'relatedarticle'
+            var rarticleObj
+                {
+                    @ kind 'rarticle'
+                    @ id node.wzName
+                    [ contents
+            foreach child in node.items
+                if !fillContents(child, rarticleObj, resultObj)
+                else
+                    $$ TODO error
+            _ currentObj.contents.push
+                @ rarticleObj
+            _ resultObj.relations.push
+                {
+                    @ kind 'rarticle'
+                    @ from currentObj.id
+                    @ to node.wzName
         else
             return true
 
     function fillQuote
-        param parent
+        param node
         param currentObj
         param resultObj
         var quoteObj
             {
                 @ author (resultObj.ns_author || 'global')
                 [ lines
-        foreach child in parent.items
+        foreach child in node.items
             if child.wzElement == 'text'
                 _ quoteObj.lines.push
                     @ child.wzName
@@ -109,6 +126,14 @@ $group
                     _ functors.comment
                         @ child
                         @ resultObj
+            elif child.wzElement == 'quote'
+                _ quoteObj.lines.push
+                    {
+                        @ quote
+                            _ fillQuote
+                                @ child
+                                @ currentObj
+                                @ resultObj
             else
                 set quoteObj.unknown = child.wzElement
         return quoteObj

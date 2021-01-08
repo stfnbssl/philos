@@ -180,6 +180,18 @@
           ]
         },
         {
+          "name": "li",
+          "tags": [
+            "li"
+          ]
+        },
+        {
+          "name": "a",
+          "tags": [
+            "a"
+          ]
+        },
+        {
           "name": "author",
           "tags": [
             "author"
@@ -468,6 +480,12 @@
           ]
         },
         {
+          "name": "relatedbook",
+          "tags": [
+            "r-book"
+          ]
+        },
+        {
           "name": "ebook",
           "tags": [
             "e-book"
@@ -495,6 +513,12 @@
           "name": "article",
           "tags": [
             "article"
+          ]
+        },
+        {
+          "name": "relatedarticle",
+          "tags": [
+            "r-article"
           ]
         },
         {
@@ -1434,6 +1458,117 @@
       ],
       "flags": "",
       "attributes": [
+        {
+          "name": "value",
+          "type": "string",
+          "tags": [
+            "value"
+          ],
+          "flags": "",
+          "inheritedFrom": "item",
+          "restricts": [],
+          "comments": []
+        }
+      ],
+      "relations": [
+        {
+          "name": "item",
+          "role": "items",
+          "tags": [
+            "item"
+          ],
+          "cardinality": "one-to-many",
+          "flags": "",
+          "inheritedFrom": "item",
+          "comments": []
+        }
+      ],
+      "derived": [],
+      "restricts": [],
+      "methods": [],
+      "comments": []
+    },
+    {
+      "name": "li",
+      "super": "item",
+      "isRoot": false,
+      "tags": [
+        "li"
+      ],
+      "flags": "",
+      "attributes": [
+        {
+          "name": "value",
+          "type": "string",
+          "tags": [
+            "value"
+          ],
+          "flags": "",
+          "inheritedFrom": "item",
+          "restricts": [],
+          "comments": []
+        }
+      ],
+      "relations": [
+        {
+          "name": "item",
+          "role": "items",
+          "tags": [
+            "item"
+          ],
+          "cardinality": "one-to-many",
+          "flags": "",
+          "inheritedFrom": "item",
+          "comments": []
+        }
+      ],
+      "derived": [],
+      "restricts": [],
+      "methods": [],
+      "comments": []
+    },
+    {
+      "name": "a",
+      "super": "item",
+      "isRoot": false,
+      "tags": [
+        "a"
+      ],
+      "flags": "",
+      "attributes": [
+        {
+          "name": "href",
+          "type": "string",
+          "tags": [
+            "href"
+          ],
+          "flags": "",
+          "inheritedFrom": null,
+          "restricts": [],
+          "comments": []
+        },
+        {
+          "name": "title",
+          "type": "string",
+          "tags": [
+            "title"
+          ],
+          "flags": "",
+          "inheritedFrom": null,
+          "restricts": [],
+          "comments": []
+        },
+        {
+          "name": "target",
+          "type": "string",
+          "tags": [
+            "target"
+          ],
+          "flags": "",
+          "inheritedFrom": null,
+          "restricts": [],
+          "comments": []
+        },
         {
           "name": "value",
           "type": "string",
@@ -3359,6 +3494,45 @@
       "comments": []
     },
     {
+      "name": "relatedbook",
+      "super": "item",
+      "isRoot": false,
+      "tags": [
+        "r-book"
+      ],
+      "flags": "",
+      "attributes": [
+        {
+          "name": "value",
+          "type": "string",
+          "tags": [
+            "value"
+          ],
+          "flags": "",
+          "inheritedFrom": "item",
+          "restricts": [],
+          "comments": []
+        }
+      ],
+      "relations": [
+        {
+          "name": "item",
+          "role": "items",
+          "tags": [
+            "item"
+          ],
+          "cardinality": "one-to-many",
+          "flags": "",
+          "inheritedFrom": "item",
+          "comments": []
+        }
+      ],
+      "derived": [],
+      "restricts": [],
+      "methods": [],
+      "comments": []
+    },
+    {
       "name": "ebook",
       "super": "item",
       "isRoot": false,
@@ -3520,6 +3694,45 @@
       "isRoot": false,
       "tags": [
         "article"
+      ],
+      "flags": "",
+      "attributes": [
+        {
+          "name": "value",
+          "type": "string",
+          "tags": [
+            "value"
+          ],
+          "flags": "",
+          "inheritedFrom": "item",
+          "restricts": [],
+          "comments": []
+        }
+      ],
+      "relations": [
+        {
+          "name": "item",
+          "role": "items",
+          "tags": [
+            "item"
+          ],
+          "cardinality": "one-to-many",
+          "flags": "",
+          "inheritedFrom": "item",
+          "comments": []
+        }
+      ],
+      "derived": [],
+      "restricts": [],
+      "methods": [],
+      "comments": []
+    },
+    {
+      "name": "relatedarticle",
+      "super": "item",
+      "isRoot": false,
+      "tags": [
+        "r-article"
       ],
       "flags": "",
       "attributes": [

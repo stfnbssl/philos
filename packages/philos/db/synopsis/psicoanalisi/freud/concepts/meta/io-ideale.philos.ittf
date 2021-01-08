@@ -1,0 +1,54 @@
+$group
+
+    namespace freud.meta
+
+        concept io-ideale
+            title Io ideale
+                de Idealich
+
+            + L'Io ideale è una formazione intrapsichica 
+                \b formatasi sul modello del narcisismo infantile.
+            
+            + Freud ha coniato il termine di Idealich in Introduzione del narcisismo (1914) 
+                \b ma in lui non si trova una distinzione concettuale 
+                \b tra Idealich (Io ideale) e Ichideal (ideale dell'Io).
+
+            r-concept freud.rimozione
+                quote
+                    + Abbiamo imparato che i moti pulsionali libidici 
+                        \b incorrono nel destino di una rimozione patogena 
+                        \b quando vengono in conflitto con le rappresentazioni 
+                        \b della civiltà e dell’etica proprie del soggetto. 
+                        \b Con ciò non abbiamo mai inteso 
+                        \b che l’individuo abbia una nozione meramente intellettuale di queste rappresentazioni, 
+                        \b ma sempre piuttosto che egli le riconosca come normative 
+                        \b e si sottometta alle sollecitazioni che da esse gli provengono. 
+                    + Abbiamo detto che la rimozione procede dall’Io. 
+                        \b Potremmo essere più precisi e sostenere che procede dalla considerazione che l’Io ha di sé. 
+                        \b Le stesse impressioni, esperienze, impulsi, moti di desiderio nei quali un individuo indulge, 
+                        \b o che quanto meno elabora consapevolmente, sono respinti da un altro con la massima indignazione 
+                        \b o almeno soffocati prima di pervenire alla coscienza. [..]
+                        \b Possiamo dire che un individuo ha costruito in sé un ideale 
+                        \b rispetto al quale misura il proprio Io attuale, 
+                        \b mentre nell’altro non avviene questa formazione di un ideale. 
+                        \b La formazione di un ideale sarebbe da parte dell’Io la condizione della rimozione.
+                    + A questo Io ideale si rivolge ora quell’amore di sé di cui l’Io reale ha goduto nell’infanzia. 
+                        \b Il narcisismo appare ora spostato su questo nuovo Io ideale che si trova in possesso, 
+                        \b come l’Io di quando si era bambini, di tutte le più preziose qualità. 
+                        \b L’uomo si è dimostrato ancora una volta, come sempre nell’ambito della libido, 
+                        \b incapace di rinunciare a un soddisfacimento di cui ha goduto nel passato. 
+                        \b Non vuole esser privato della perfezione narcisistica della sua infanzia 
+                        \b e se – importunato dagli ammonimenti altrui e dal destarsi del suo stesso giudizio critico – 
+                        \b non è riuscito a serbare questa perfezione negli anni dello sviluppo, 
+                        \b si sforza di riconquistarla nella nuova forma di un ideale dell’Io. 
+                        \b Ciò che egli proietta avanti a sé come proprio ideale 
+                        \b è il sostituto del narcisismo perduto dell’infanzia, di quell’epoca, cioè, 
+                        \b in cui egli stesso era il proprio ideale.
+                    article freud.introduzione-al-narcisismo
+                    e-page 4424-4425
+
+            quote
+                + Anche per J. Lacan l'Io ideale è una formazione essenzialmente narcisistica 
+                    \b che trova la sua origine nella fase dello specchio 
+                    \b e appartiene alla dimensione dell'immaginario.
+                article anepeta.metapsicologia
