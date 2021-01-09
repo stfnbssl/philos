@@ -26,4 +26,24 @@ $group
                     return 1
                 return 0
 
+            function compareByDatePub
+                param a
+                param b
+                if a.datepub < b.datepub 
+                    return -1
+                if a.datepub > b.datepub
+                    return 1
+                return 0
+
+            function compareQuotes
+                param a
+                param b
+                var pageA = a.quote.page
+                var pageB = b.quote.page
+                if pageA < pageB
+                    return -1
+                if pageA > pageB
+                    return 1
+                return 0
+
 

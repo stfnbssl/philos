@@ -3,4 +3,4 @@ $group
     namespace freud
 
         concept contenuto-onirico-manifesto
-            title contenuto onirico manifesto
+            title Contenuto onirico manifesto

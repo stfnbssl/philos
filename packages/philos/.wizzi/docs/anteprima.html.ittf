@@ -350,6 +350,7 @@ layouts/muiPage( theme )
                             + selectedView == 'Autori' && isLoading == false
                             < AuthorList
                                 @ jsonData {jsonData}
+                                @ onChangeCurrent {this.handleChangeCurrent}
                     {
                         &&
                             + selectedView == 'Gruppi' && isLoading == false
@@ -365,3 +366,4 @@ layouts/muiPage( theme )
                             + selectedView == 'Testi' && isLoading == false
                             < PublicationList
                                 @ jsonData {jsonData}
+                                @ onChangeCurrent {this.handleChangeCurrent}

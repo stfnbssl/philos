@@ -16,8 +16,8 @@ $group
                 + A ciò si aggiunga che l’angoscia è il diretto contrario del desiderio, 
                     \b che i contrari si trovano particolarmente vicini tra loro nell’associazione e, 
                     \b come abbiamo visto, coincidono nell’inconscio;
-                e-page p. 5062
-                book freud.opere-complete-kindle
+                article freud.introduzione-alla-psicoanalisi
+                e-page 5062
             
             quote
                 + L’angoscia è dunque, in primo luogo, un qualche cosa che si sente.
@@ -31,8 +31,8 @@ $group
                     \b che interessano gli organi respiratori e il cuore.
                     \b Esse testimoniano che innervazioni motorie, e quindi processi di scarica, 
                     \b prendono parte al meccanismo generale dell’angoscia.
+                article freud.inibizione-sintomo-e-angoscia
                 e-page 6419
-                book freud.opere-complete-kindle
 
             quote
                 + L’angoscia si presenta dunque come la reazione alla mancanza dell’oggetto,
@@ -40,15 +40,15 @@ $group
                     \b ha come contenuto la separazione da un oggetto altamente stimato, 
                     \b e che l’angoscia più primitiva (l’“angoscia primaria” della nascita) 
                     \b ebbe luogo con la separazione dalla madre.
+                article freud.inibizione-sintomo-e-angoscia
                 e-page 6425
-                book freud.opere-complete-kindle
 
             quote
                 + L’angoscia è uno stato affettivo che naturalmente soltanto l’Io può percepire. 
                     \b L’Es non può avere angoscia come l’Io: 
                     \b non è un’organizzazione, non può giudicare situazioni di pericolo.
+                article freud.inibizione-sintomo-e-angoscia
                 e-page 6429
-                book freud.opere-complete-kindle
 
             quote
                 + Noi distinguiamo qui di bel nuovo, e con buon fondamento, i due casi: 
@@ -62,16 +62,16 @@ $group
                     \b Oppure, con riferimento alle affezioni vere e proprie che ne provengono: 
                     \b [2] che il secondo caso si verifica nell’etiologia delle nevrosi attuali, 
                     \b [1] mentre il primo rimane caratteristico per l’etiologia delle psiconevrosi.
+                article freud.inibizione-sintomo-e-angoscia
                 e-page 6429-6430
-                book freud.opere-complete-kindle
 
             quote
                 + vien fatto di supporre che la condizione angosciosa della perdita d’amore 
                     \b abbia nell’isteria una parte simile 
                     \b a quella che la minaccia d’evirazione ha nelle fobie, 
                     \b e l’angoscia del Super-io nella nevrosi ossessiva.
+                article freud.inibizione-sintomo-e-angoscia
                 e-page 6431-6432
-                book freud.opere-complete-kindle
 
             concept morale
                 title Angoscia morale
@@ -85,8 +85,8 @@ $group
                         \b Espresso più in generale, ciò che l’Io considera come un pericolo 
                         \b e a cui risponde col segnale d’angoscia è l’ira, è la punizione del Super-io, 
                         \b la perdita dell’amore da parte di questo.
+                    article freud.inibizione-sintomo-e-angoscia
                     e-page 6428
-                    book freud.opere-complete-kindle
 
             concept di-morte
                 title Angoscia di morte
@@ -106,8 +106,8 @@ $group
                     + Ultima metamorfosi di tale angoscia di fronte al Super-io 
                         \b mi è sembrata l’angoscia di fronte alla morte (o di fronte alla vita), 
                         \b l’angoscia di fronte alla proiezione del Super-io nelle forze del destino
+                    article freud.inibizione-sintomo-e-angoscia
                     e-page 6428
-                    book freud.opere-complete-kindle
 
             concept di-evirazione
                 title Angoscia di evirazione
@@ -116,8 +116,8 @@ $group
                         \b l’angoscia di evirazione che compare nella fase fallica, 
                         \b è un’angoscia di distacco ed è legata alla stessa condizione. 
                         \b Il pericolo è qui una separazione dal genitale.
+                    article freud.inibizione-sintomo-e-angoscia
                     e-page 6427
-                    book freud.opere-complete-kindle
 
                 r-concept freud.super-io
                     quote

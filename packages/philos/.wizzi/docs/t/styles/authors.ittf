@@ -108,16 +108,44 @@ $group
         @ font-size 0.75em
 
     . abstract-title
-        @ margin-top 30px
         @ font-weight bold
-        @ font-size 0.75em
     . abstract-box
-        @ width 50%
-        @ padding 40px
-
+        @ margin-top 20px
+        @ padding 20px
+    
     . quote-comment-box
         @ background-color #dedede
         @ margin-top 10px
         @ padding 10px
         @ font-size 0.85em
         @ font-style normal
+
+    . quotes-title
+        @ font-weight bold
+    . quotes-box
+        @ margin-top 20px
+        @ padding 20px
+    . quotes-concept-id
+        @ font-size 0.75em
+
+    . info-box
+        @ margin-top 20px
+        @ padding 20px
+    . info-item-box
+        @ border-bottom 1px solid #ededed
+    . info-item-label
+        @ font-size 0.75em
+    . info-item-text
+        @ font-style italic
+
+
+    media (min-width:1024px)        
+        . info-box
+            @ width 50%
+            @ padding 40px
+        . abstract-box
+            @ width 50%
+            @ padding 40px
+        . quotes-box
+            @ width 50%
+            @ padding 40px

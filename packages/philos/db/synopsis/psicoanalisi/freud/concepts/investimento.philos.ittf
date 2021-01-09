@@ -28,16 +28,16 @@ $group
                 book freud.opere-complete-kindle
 
             concept liberamente-fluttuante
-                title investimento liberamente fluttuante
-                alias investimento liberamente mobile
-                alias investimento libero
-                alias investimento mobile
+                title Investimento liberamente fluttuante
+                alias Investimento liberamente mobile
+                alias Investimento libero
+                alias Investimento mobile
 
             concept quiescente
-                title investimento quiescente
-                alias investimento legato
-                alias investimento tonico
-                alias energia legata
+                title Investimento quiescente
+                alias Investimento legato
+                alias Investimento tonico
+                alias Energia legata
                 quote
                     + Nel corso di questa trasformazione [da energia libera a legata] 
                         \b non si può tener conto dello sviluppo del dispiacere, 

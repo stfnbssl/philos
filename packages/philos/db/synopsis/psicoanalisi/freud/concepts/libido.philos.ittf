@@ -19,6 +19,19 @@ $group
                 comment
                     + Quindi, quando si parla del destino di una pulsione sessuale, un "investimento" lo si chiama "libido".
                 
+            concept ritiro
+                title Ritiro della libido dall'oggetto
+                quote
+                    + Le cose stanno diversamente per il parafrenico [lo psicotico]: 
+                        \b sembra che egli abbia effettivamente ritirato la sua libido 
+                        \b da persone e cose del mondo esterno, 
+                        \b senza averle sostituite con altre nella fantasia; 
+                        \b quando ciò accade, il processo sembra secondario 
+                        \b e inscrivibile in un tentativo di guarigione 
+                        \b inteso a ricondurre la libido al suo oggetto.
+                    article freud.introduzione-al-narcisismo
+                    e-page 4401-4402
+
             concept introversione
                 title Introversione della libido
                 quote
@@ -37,19 +50,6 @@ $group
                         \b per quest’unica situazione libidica.
                     article freud.introduzione-al-narcisismo
                     e-page 4401
-
-            concept ritiro
-                title Ritiro della libido dall'oggetto
-                quote
-                    + Le cose stanno diversamente per il parafrenico [lo psicotico]: 
-                        \b sembra che egli abbia effettivamente ritirato la sua libido 
-                        \b da persone e cose del mondo esterno, 
-                        \b senza averle sostituite con altre nella fantasia; 
-                        \b quando ciò accade, il processo sembra secondario 
-                        \b e inscrivibile in un tentativo di guarigione 
-                        \b inteso a ricondurre la libido al suo oggetto.
-                    article freud.introduzione-al-narcisismo
-                    e-page 4401-4402
 
             concept dell-io
                 title Libido dell'Io
@@ -76,5 +76,5 @@ $group
                     article freud.introduzione-al-narcisismo
                     e-page 4403
                     comment
-                        + Il ritiro completo sull'Io della libido oggettuale svuota il mondo
-                            \b di ogni piacere e il paranoide ne percepisce la fine.
+                        + Il ritiro completo sull'Io della libido oggettuale svuota cose e persone
+                            \b di ogni piacere e il paranoide percepisce il mondo come morente.

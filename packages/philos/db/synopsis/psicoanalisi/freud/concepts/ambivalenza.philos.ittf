@@ -3,6 +3,7 @@ $group
     namespace freud
 
         concept ambivalenza
+            title Ambivalenza
             quote
                 + È un trionfo della formazione sintomatica riuscire a mescolare la proibizione con il soddisfacimento, 
                     \b a far sì che il comando o il divieto originariamente difensivi 

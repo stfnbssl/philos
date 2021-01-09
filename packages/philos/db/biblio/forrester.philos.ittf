@@ -6,6 +6,7 @@ $group
         book il-linguaggio-e-le-origini-della-psicoanalisi
             title Il linguaggio e le origini della psicoanalisi
             edition Il Mulino, Bologna, 1984
+            date-pub 1984
             buy
                 seller Amazon
                 url https://www.amazon.it/linguaggio-origini-della-psicanalisi/dp/8815005129

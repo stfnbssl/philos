@@ -11,8 +11,8 @@ $group
                     \b dopo che ha subito una trasformazione o traduzione in qualcosa di conscio. 
                     \b Il lavoro psicoanalitico ci fa sperimentare ogni giorno 
                     \b che una traduzione del genere è possibile.
-                book freud.l-inconscio
-                    page 49
+                article freud.l-inconscio
+                e-page 4655
 
             quote
                 + La concezione dinamica del processo di rimozione 
@@ -24,8 +24,8 @@ $group
             quote
                 + L’inconscio è l’infantile: è quella parte della personalità che a quell’epoca si è separata, 
                     \b non ha seguito l’evoluzione del tutto ed è stata perciò rimossa.
+                article freud.osservazioni-su-un-caso-di-nevrosi-ossessiva
                 e-page 3250
-                article freud.l-uomo-dei-topi
 
             quote
                 + Nell’inconscio gli investimenti possono essere facilmente trasferiti in modo completo, spostati, condensati;

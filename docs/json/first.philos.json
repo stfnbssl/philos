@@ -340,6 +340,12 @@
                             "items": []
                         },
                         {
+                            "wzElement": "datepub",
+                            "wzTag": "date-pub",
+                            "wzName": "9999/99/99",
+                            "items": []
+                        },
+                        {
                             "wzElement": "url",
                             "wzTag": "url",
                             "wzName": "http://www.nilalienum.it/Sezioni/Freud/Materiali%20bibliografici/LP/Metapsicologia.html",
@@ -555,6 +561,87 @@
                 {
                     "wzElement": "article",
                     "wzTag": "article",
+                    "wzName": "progetto-di-una-psicologia",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Progetto di una psicologia",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "datepub",
+                            "wzTag": "date-pub",
+                            "wzName": "1895",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "book",
+                            "wzTag": "book",
+                            "wzName": "freud.opere-II",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "ebook",
+                            "wzTag": "e-book",
+                            "wzName": "freud.opere-complete-kindle",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "textabstract",
+                            "wzTag": "abstract",
+                            "wzName": "",
+                            "items": []
+                        }
+                    ]
+                },
+                {
+                    "wzElement": "article",
+                    "wzTag": "article",
+                    "wzName": "l-interpretazione-dei-sogni",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "L'interpretazione dei sogni",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "datepub",
+                            "wzTag": "date-pub",
+                            "wzName": "1908/03/01",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "book",
+                            "wzTag": "book",
+                            "wzName": "freud.opere-III",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "ebook",
+                            "wzTag": "e-book",
+                            "wzName": "freud.opere-complete-kindle",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "textabstract",
+                            "wzTag": "abstract",
+                            "wzName": "",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "L'interpretazione dei sogni segna il passaggio del metodo psicoanalitico, per accedere ai contenuti inconsci della psiche, dalla semplice tecnica della libera associazione di idee al nuovo metodo che privilegia direttamente l'attività onirica, che di per sé nullifica o almeno limita considerevolmente l'attività censoria della ragione.",
+                                    "items": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "wzElement": "article",
+                    "wzTag": "article",
                     "wzName": "carattere-ed-erotismo-anale",
                     "items": [
                         {
@@ -703,6 +790,43 @@
                 {
                     "wzElement": "article",
                     "wzTag": "article",
+                    "wzName": "osservazioni-su-un-caso-di-nevrosi-ossessiva",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Osservazioni su un caso di nevrosi ossessiva (Caso clinico dell'uomo dei topi)",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "datepub",
+                            "wzTag": "date-pub",
+                            "wzName": "1909/02/01",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "book",
+                            "wzTag": "book",
+                            "wzName": "freud.opere-V",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "ebook",
+                            "wzTag": "e-book",
+                            "wzName": "freud.opere-complete-kindle",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "textabstract",
+                            "wzTag": "abstract",
+                            "wzName": "",
+                            "items": []
+                        }
+                    ]
+                },
+                {
+                    "wzElement": "article",
+                    "wzTag": "article",
                     "wzName": "precisazioni-sui-due-principi-dell-accadere-psichico",
                     "items": [
                         {
@@ -788,6 +912,62 @@
                                     "wzElement": "epage",
                                     "wzTag": "e-page",
                                     "wzName": "3743",
+                                    "items": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "wzElement": "article",
+                    "wzTag": "article",
+                    "wzName": "modi-tipici-di-ammalarsi-nervosamente",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Modi tipici di ammalarsi nervosamente",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "datepub",
+                            "wzTag": "date-pub",
+                            "wzName": "1912/03/01",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "book",
+                            "wzTag": "book",
+                            "wzName": "freud.opere-VI",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "ebook",
+                            "wzTag": "e-book",
+                            "wzName": "freud.opere-complete-kindle",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "textabstract",
+                            "wzTag": "abstract",
+                            "wzName": "",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Dopo l’abbandono della teoria dei traumi psichici quali cause determinanti delle psiconevrosi, ha preso rilievo nel pensiero di Freud il concetto delle cause predisponenti alla nevrosi. Egli ne tratta nella parte finale dei Tre saggi sulla teoria sessuale (in OSF, vol. 4). Il problema delle cause scatenanti è appena accennato alla fine della conferenza tenuta nel dicembre 1904 sulla Psicoterapia, dove è detto che cause della nevrosi sono la privazione sessuale e la rimozione (ibid.). Nel presente scritto è espresso lo stesso concetto, ma la rimozione è ricondotta a una privazione od ostacolo interno che Freud chiama frustrazione (Versagung) con un vocabolo il cui impiego è derivato da Jung; la frustrazione comprende pertanto gli ostacoli esterni e interni che si frappongono al soddisfacimento e generano la nevrosi. In Dalla storia di una nevrosi infantile (Caso clinico dell’uomo dei lupi), scritto nel 1914 e pubblicato nel 1918 (vedi OSF, vol. 7), Freud afferma di aver omesso qui un’altra specie di frustrazione suscettibile di produrre la nevrosi, la frustrazione narcisistica.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Nello scritto su Alcuni tipi di carattere tratti dal lavoro psicoanalitico del 1916 Freud cerca di risolvere la situazione paradossale della nevrosi prodotta non in seguito a frustrazione, ma dopo un successo lungamente agognato e conseguito.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "epage",
+                                    "wzTag": "e-page",
+                                    "wzName": "3836",
                                     "items": []
                                 }
                             ]
@@ -940,6 +1120,43 @@
                 {
                     "wzElement": "article",
                     "wzTag": "article",
+                    "wzName": "introduzione-alla-psicoanalisi",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Introduzione alla psicoanalisi",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "datepub",
+                            "wzTag": "date-pub",
+                            "wzName": "191//",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "book",
+                            "wzTag": "book",
+                            "wzName": "freud.opere-VIII",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "ebook",
+                            "wzTag": "e-book",
+                            "wzName": "freud.opere-complete-kindle",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "textabstract",
+                            "wzTag": "abstract",
+                            "wzName": "",
+                            "items": []
+                        }
+                    ]
+                },
+                {
+                    "wzElement": "article",
+                    "wzTag": "article",
                     "wzName": "pulsioni-e-loro-destino",
                     "items": [
                         {
@@ -964,7 +1181,7 @@
                         {
                             "wzElement": "book",
                             "wzTag": "book",
-                            "wzName": "opere-VIII",
+                            "wzName": "freud.opere-VIII",
                             "items": []
                         },
                         {
@@ -1021,6 +1238,43 @@
                                     "items": []
                                 }
                             ]
+                        }
+                    ]
+                },
+                {
+                    "wzElement": "article",
+                    "wzTag": "article",
+                    "wzName": "la-rimozione",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "La rimozione",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "datepub",
+                            "wzTag": "date-pub",
+                            "wzName": "191//",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "book",
+                            "wzTag": "book",
+                            "wzName": "freud.opere-VIII",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "ebook",
+                            "wzTag": "e-book",
+                            "wzName": "freud.opere-complete-kindle",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "textabstract",
+                            "wzTag": "abstract",
+                            "wzName": "",
+                            "items": []
                         }
                     ]
                 },
@@ -1205,6 +1459,192 @@
                 {
                     "wzElement": "article",
                     "wzTag": "article",
+                    "wzName": "psicologia-delle-masse-e-analisi-dell-io",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Psicologia delle masse e analisi dell'Io",
+                            "items": [
+                                {
+                                    "wzElement": "de",
+                                    "wzTag": "de",
+                                    "wzName": "Massenpsychologie und Ich-Analyse",
+                                    "items": []
+                                }
+                            ]
+                        },
+                        {
+                            "wzElement": "datepub",
+                            "wzTag": "date-pub",
+                            "wzName": "1921/06/01",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "book",
+                            "wzTag": "book",
+                            "wzName": "freud.opere-IX",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "ebook",
+                            "wzTag": "e-book",
+                            "wzName": "freud.opere-complete-kindle",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "textabstract",
+                            "wzTag": "abstract",
+                            "wzName": "",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "[..] Quest’opera fu concepita circa contemporaneamente ad Al di là del principio di piacere.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "[..] Esiste una certa connessione fra Psicologia delle masse e Al di là del principio di piacere. Ma per quanto riguarda l’opera presente, Freud fu certo spinto a comporla anche dall’impressione di quelle modificazioni provocate dalla guerra nella mentalità degli uomini che già avevano ispirato altri suoi scritti del periodo bellico (Considerazioni attuali sulla guerra e la morte, 1915). Pure gli avvenimenti rivoluzionari e controrivoluzionari, verificatisi nel 1918 e 1919 nei paesi già costituenti gli Imperi centrali, esercitarono una forte impressione su Freud, che vide in essi esempi concreti delle profonde trasformazioni che si operano nella mentalità e psicologia individuale in circostanze eccezionali di questo genere.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Freud iniziò la trattazione della materia rifacendosi a una vecchia opera di G. Le Bon, Psychologie des foules (Parigi 1895) e a un libro recentissimo di W. McDougall, The Group Mind (Cambridge 1920). Egli si collegò però anche a precedenti lavori propri: ai Tre saggi sulla teoria sessuale (1905) e agli scritti che gli fanno corona, a Totem e tabù (1912-13), a Introduzione al narcisismo (1914), e allo scritto metapsicologico Lutto e melanconia (1917) per quanto riguarda la mobilità degli investimenti libidici e i processi di identificazione. Lo studio delle influenze a cui è esposto il singolo individuo inserito in una struttura collettiva gli fornì inoltre l’occasione di riprendere in esame il vecchio problema dell’ipnosi, che tanta importanza aveva avuto all’origine della psicoanalisi e che costituisce sempre un modello per i fenomeni della traslazione analitica.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "In tal modo l’opera, conformemente al titolo, presenta due facce: una è rappresentata dall’illustrazione della psicologia collettiva, che Freud riconduce sostanzialmente ai mutamenti indotti nella mentalità e nel comportamento degli individui dalla coesione sociale; l’altra riguarda la psicologia dell’Io e la struttura della personalità psichica; è questa la parte più connessa allo scritto precedente Al di là del principio di piacere e alla terza grande opera di questo periodo, che apparirà due anni dopo: L’Io e l’Es [..].",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "epage",
+                                    "wzTag": "e-page",
+                                    "wzName": "5712-5714",
+                                    "items": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "wzElement": "article",
+                    "wzTag": "article",
+                    "wzName": "l-io-e-l-es",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "L'Io e l'Es",
+                            "items": [
+                                {
+                                    "wzElement": "de",
+                                    "wzTag": "de",
+                                    "wzName": "Das Ich und das Es",
+                                    "items": []
+                                }
+                            ]
+                        },
+                        {
+                            "wzElement": "datepub",
+                            "wzTag": "date-pub",
+                            "wzName": "1923/04/01",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "book",
+                            "wzTag": "book",
+                            "wzName": "freud.opere-IX",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "ebook",
+                            "wzTag": "e-book",
+                            "wzName": "freud.opere-complete-kindle",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "textabstract",
+                            "wzTag": "abstract",
+                            "wzName": "",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Freud [..], con questo libro, ha cercato di completare le sue precedenti dottrine, così da giungere a una visione sintetica e unitaria del funzionamento dell’apparato psichico.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Riprendendo il problema già affrontato nel Progetto di una psicologia (1895), nel capitolo 7 della Interpretazione dei sogni (1899), e negli scritti di Metapsicologia (1915), di una rappresentazione intuibile della struttura dell’apparato psichico, Freud cerca di accordare la sua prima teoria delle province psichiche con quella che ora diventa la teoria delle istanze.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "A tale scopo egli esamina ancora una volta il concetto di inconscio, e respingendo la identificazione dell’Io con la coscienza, perviene alla dimostrazione che una parte dello stesso Io è inconscia. Analizza pure la modalità con la quale i contenuti inconsci si fanno coscienti, e discute se ciò avvenga per uno spostamento di tali contenuti dall’uno all’altro sistema, o in quale altro modo. Giunge così al concetto che il farsi cosciente si compia per il tramite dei residui mnestici verbali auditivi che si trovano nel preconscio. Per quanto riguarda le impressioni provenienti dall’interno (di cui sono particolarmente rappresentative le impressioni della serie piacere-dispiacere) esclude invece che abbia un significato un loro essere preconsce, cosicché esse o sono inconsce o sono coscienti.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Circa la dottrina della libido, vengono ripresi i concetti dell’Introduzione al narcisismo, i quali vengono però adattati alla nuova concezione derivante da una distinzione tra Io ed Es. Così vengono pure distinti un narcisismo primario, costituito dalla concentrazione della libido nell’Es, che diventa esso, in luogo dell’Io, il “grande serbatoio della libido” (vedi oltre nota 480), concetto, questo, che era stato introdotto nel 1914 in una nuova edizione dei Tre saggi sulla teoria sessuale (190), Terzo saggio, par. 3, e un narcisismo secondario (in cui la libido risulta necessariamente desessualizzata, o sublimata) dovuto al sostituirsi dell’Io all’oggetto, per introiezione di quest’ultimo. La immagine che si trova per la prima volta in Introduzione al narcisismo cit., par. 1, dell’ameba la quale proietta al di fuori i propri pseudopodi, o li ritira all’interno della massa protoplasmatica, non è pertanto più utilizzabile.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Anche per le introiezioni dei vari oggetti, viene distinta una introiezione primaria per identificazione (che è alla base dell’ideale dell’Io o Super-io) e la introiezione per la perdita dell’oggetto (come indicato nel saggio metapsicologico Lutto e melanconia del 1915, pubblicato nel 1917). Le varie successive introiezioni concorrono alla formazione del carattere, e quando entrano fra loro in conflitto danno luogo ai fenomeni di scissione della personalità o di “personalità multipla”.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Nello sviluppare la dottrina delle istanze psichiche, Freud ha particolare cura di stabilire come le stesse istanze non si debbano concepire quali entità separate. L’Io è soltanto una parte differenziata (per l’azione esercitata dalla realtà, attraverso il sistema Percezione-Coscienza) dell’Es, ed è con l’Es sempre in diretto rapporto. A sua volta l’ideale dell’Io (o Super-io) è una differenziazione dell’Io. Il Super-io rimane però anch’esso in stretto contatto con l’Es per la sua derivazione dal complesso edipico, le cui componenti pulsionali hanno sede appunto nell’Es: tanto che il Super-io risulta talora l’avvocato, o il rappresentante dell’Es presso l’Io, e ciò anche se contiene gli imperativi con cui l’Io si difende dall’Es. Freud ci mette in guardia dal sostanzializzare le varie istanze psichiche. I valori di cui il Super-io è rappresentante non derivano soltanto dall’autorità parentale, o dalle altre successive autorità introiettate, ma anche filogeneticamente da tutto un processo di trasmissione ereditaria.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Nell’Es individuale, attraverso la sedimentazione di esperienze multigenerazionali, vengono conservati quegli elementi che poi – per i rapporti esistenti fra Es e Super-io – concorrono a configurare il Super-io in determinati modi. A proposito delle istanze psichiche, Freud osserva come anche in determinati animali si abbia una distinzione fra un Io e un Es.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "La dottrina dualistica dell’attività pulsionale è ripresa da Al di là del principio di piacere (1920). Tuttavia nella presente nuova opera sono contenuti a questo proposito da un lato l’illustrazione del concetto di impasto e disimpasto (Mischung e Entmischung) delle pulsioni erotiche e di morte (anche in relazione allo sviluppo e alla regressione pulsionale), dall’altro un tentativo – attraverso l’analisi della trasformazione di una pulsione nel suo opposto – di superare e temperare il dualismo pulsionale nel concetto di un’unica tendenza conservatrice, volta a ripristinare un equilibrio turbato dall’apparire della vita nell’universo.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Tuttavia Freud ha cura di ribadire (vedi cap. 4) la differenza qualitativa tra le due specie di pulsioni anche di fronte a quelle situazioni in cui una pulsione cede improvvisamente il passo alla pulsione opposta. Egli sembra anzi preoccupato di differenziare la propria dottrina dualistica rispetto a quella monistica di Jung, che poco prima, in Tipi psicologici (1921), p. 437, si era rifatto al concetto eracliteo di Enantiodromia (o corsa nell’opposto) per sostenere la possibilità di una sostanziale tramutazione di una pulsione in quella contraria. [Vedi anche sopra Al di là del principio di piacere, par. 6.]",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Nell’analisi dei rapporti di dipendenza dell’Io, ampio spazio è dedicato in quest’opera al senso di colpa inconscio, al suo manifestarsi sotto forma di resistenze, talora profondissime e irriducibili, all’azione terapeutica della psicoanalisi.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "epage",
+                                    "wzTag": "e-page",
+                                    "wzName": "5946-5949",
+                                    "items": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "wzElement": "article",
+                    "wzTag": "article",
                     "wzName": "la-negazione",
                     "items": [
                         {
@@ -1268,6 +1708,68 @@
                 {
                     "wzElement": "article",
                     "wzTag": "article",
+                    "wzName": "qualche-parola-sull'inconscio",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Qualche parola sull'inconscio",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "datepub",
+                            "wzTag": "date-pub",
+                            "wzName": "1926/09/22",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "book",
+                            "wzTag": "book",
+                            "wzName": "freud.opere-IX",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "ebook",
+                            "wzTag": "e-book",
+                            "wzName": "freud.opere-complete-kindle",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "textabstract",
+                            "wzTag": "abstract",
+                            "wzName": "",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "[..] breve resoconto della comunicazione svolta da Freud il 26 settembre 1922 al settimo Congresso internazionale di psicoanalisi di Berlino.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Fu l’ultimo Congresso al quale Freud partecipò personalmente. Poi la malattia non glielo permise più.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Non è certo che questa breve nota sia stata scritta dallo stesso Freud. È importante solo perché annuncia la pubblicazione de L’Io e l’Es (che avverrà l’anno dopo) e ne anticipa alcuni concetti preliminari sulla pluralità di significati assunti nella dottrina psicoanalitica dal termine “inconscio”.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "epage",
+                                    "wzTag": "e-page",
+                                    "wzName": "5942",
+                                    "items": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "wzElement": "article",
+                    "wzTag": "article",
                     "wzName": "inibizione-sintomo-e-angoscia",
                     "items": [
                         {
@@ -1285,7 +1787,7 @@
                         {
                             "wzElement": "book",
                             "wzTag": "book",
-                            "wzName": "opere-X",
+                            "wzName": "freud.opere-X",
                             "items": []
                         },
                         {
@@ -1379,145 +1881,6 @@
                                     "items": []
                                 }
                             ]
-                        }
-                    ]
-                },
-                {
-                    "wzElement": "article",
-                    "wzTag": "article",
-                    "wzName": "l-interpretazione-dei-sogni",
-                    "items": [
-                        {
-                            "wzElement": "title",
-                            "wzTag": "title",
-                            "wzName": "L'interpretazione dei sogni",
-                            "items": []
-                        },
-                        {
-                            "wzElement": "book",
-                            "wzTag": "book",
-                            "wzName": "freud.opere-III",
-                            "items": []
-                        },
-                        {
-                            "wzElement": "ebook",
-                            "wzTag": "e-book",
-                            "wzName": "freud.opere-complete-kindle",
-                            "items": []
-                        }
-                    ]
-                },
-                {
-                    "wzElement": "article",
-                    "wzTag": "article",
-                    "wzName": "l-io-e-l-es",
-                    "items": [
-                        {
-                            "wzElement": "title",
-                            "wzTag": "title",
-                            "wzName": "L'Io e l'Es",
-                            "items": [
-                                {
-                                    "wzElement": "de",
-                                    "wzTag": "de",
-                                    "wzName": "Das Ich und das Es",
-                                    "items": []
-                                }
-                            ]
-                        },
-                        {
-                            "wzElement": "book",
-                            "wzTag": "book",
-                            "wzName": "freud.opere-IX",
-                            "items": []
-                        },
-                        {
-                            "wzElement": "ebook",
-                            "wzTag": "e-book",
-                            "wzName": "freud.opere-complete-kindle",
-                            "items": []
-                        }
-                    ]
-                },
-                {
-                    "wzElement": "article",
-                    "wzTag": "article",
-                    "wzName": "psicologia-delle-masse-e-analisi-dell-io",
-                    "items": [
-                        {
-                            "wzElement": "title",
-                            "wzTag": "title",
-                            "wzName": "Psicologia delle masse e analisi dell'Io",
-                            "items": [
-                                {
-                                    "wzElement": "de",
-                                    "wzTag": "de",
-                                    "wzName": "Massenpsychologie und Ich-Analyse",
-                                    "items": []
-                                }
-                            ]
-                        },
-                        {
-                            "wzElement": "book",
-                            "wzTag": "book",
-                            "wzName": "freud.opere-IX",
-                            "items": []
-                        },
-                        {
-                            "wzElement": "ebook",
-                            "wzTag": "e-book",
-                            "wzName": "freud.opere-complete-kindle",
-                            "items": []
-                        }
-                    ]
-                },
-                {
-                    "wzElement": "article",
-                    "wzTag": "article",
-                    "wzName": "qualche-parola-sull'inconscio",
-                    "items": [
-                        {
-                            "wzElement": "title",
-                            "wzTag": "title",
-                            "wzName": "Qualche parola sull'inconscio",
-                            "items": []
-                        },
-                        {
-                            "wzElement": "book",
-                            "wzTag": "book",
-                            "wzName": "freud.opere-IX",
-                            "items": []
-                        },
-                        {
-                            "wzElement": "ebook",
-                            "wzTag": "e-book",
-                            "wzName": "freud.opere-complete-kindle",
-                            "items": []
-                        }
-                    ]
-                },
-                {
-                    "wzElement": "article",
-                    "wzTag": "article",
-                    "wzName": "costruzioni-dell-analisi",
-                    "items": [
-                        {
-                            "wzElement": "title",
-                            "wzTag": "title",
-                            "wzName": "Costruzioni dell'analisi",
-                            "items": []
-                        },
-                        {
-                            "wzElement": "book",
-                            "wzTag": "book",
-                            "wzName": "opere-XI",
-                            "items": []
-                        },
-                        {
-                            "wzElement": "ebook",
-                            "wzTag": "e-book",
-                            "wzName": "freud.opere-complete-kindle",
-                            "items": []
                         }
                     ]
                 },
@@ -1621,6 +1984,86 @@
                     ]
                 },
                 {
+                    "wzElement": "article",
+                    "wzTag": "article",
+                    "wzName": "costruzioni-dell-analisi",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Costruzioni dell'analisi",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "datepub",
+                            "wzTag": "date-pub",
+                            "wzName": "1937/12/01",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "book",
+                            "wzTag": "book",
+                            "wzName": "freud.opere-XI",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "ebook",
+                            "wzTag": "e-book",
+                            "wzName": "freud.opere-complete-kindle",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "textabstract",
+                            "wzTag": "abstract",
+                            "wzName": "",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Freud fa riferimento alla obiezione mossagli da un amico, il quale osservava che gli analisti, quando il paziente consente con una loro interpretazione, rimangono senz’altro soddisfatti; ma esprimono soddisfazione anche quando il paziente rifiuta il consenso, spiegando in tal caso che quel rifiuto è indice di una resistenza, e costituisce quindi una indiretta conferma della loro interpretazione. In tal modo non vi è maniera di provare mai nulla.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Freud risponde che il sì e il no dei pazienti non hanno di per sé alcun significato, e che la prova della validità o meno di ciò che egli non vuol più chiamare interpretazione – “brutta parola”, come aveva osservato in Il problema dell’analisi condotta da non medici (1926) – ma costruzione, si ottiene per vie tutt’affatto diverse.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "La costruzione psicoanalitica si distingue dall’interpretazione perché mentre quest’ultima si limita a rendere palese il significato di un singolo elemento del materiale clinico, mediante la “costruzione” l’analista elabora una serie complessa di congetture riguardanti un brano della vita passata del paziente. Si tratta naturalmente di congetture polivalenti e talora contraddittorie, in attesa di verifiche o di smentite.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "L’opera dell’analista è paragonata in questo scritto a quella dell’archeologo, il quale si avvale nel suo lavoro di ricostruzione e ricomposizione del passato di scarsi resti delle civiltà sepolte (nel caso dell’analista i resti consistono in associazioni, sogni, atti mancati, sintomi, comportamenti del paziente verso lo stesso analista influenzati dalla traslazione, e tutto ciò che in un modo o nell’altro si riesce a sapere dell’infanzia del soggetto).",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Il controllo della validità del lavoro dell’analista si ottiene prendendo in esame il modo con cui il paziente reagisce in generale alle costruzioni che gli vengono prospettate; ma ciò che conta non sono le sue reazioni dirette (il no o il sì), bensì le sue reazioni indirette, come ad esempio il nuovo materiale che porta in analisi in seguito a una certa costruzione o il modo in cui modifica il proprio comportamento (il suo agire) nei confronti dello stesso analista.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "D’altra parte, ciò che l’analista vuole “costruire” non è la “verità materiale” degli avvenimenti passati che riguardano il paziente, ma piuttosto la “verità storica” di essi: come il paziente li ha soggettivamente vissuti nel passato, perché li ha rimossi e dimenticati.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "epage",
+                                    "wzTag": "e-page",
+                                    "wzName": "7427-7429",
+                                    "items": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
                     "wzElement": "book",
                     "wzTag": "book",
                     "wzName": "l-interpretazione-dei-sogni",
@@ -1635,6 +2078,12 @@
                             "wzElement": "edition",
                             "wzTag": "edition",
                             "wzName": "1900, Bollati Boringhieri",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "datepub",
+                            "wzTag": "date-pub",
+                            "wzName": "1899",
                             "items": []
                         },
                         {
@@ -1657,6 +2106,12 @@
                             "items": []
                         },
                         {
+                            "wzElement": "datepub",
+                            "wzTag": "date-pub",
+                            "wzName": "1886-1895",
+                            "items": []
+                        },
+                        {
                             "wzElement": "edition",
                             "wzTag": "edition",
                             "wzName": "1976, Bollati Boringhieri",
@@ -1673,6 +2128,12 @@
                             "wzElement": "title",
                             "wzTag": "title",
                             "wzName": "Le opere. Volume II. Il progetto di una psicologia e altri scritti.",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "datepub",
+                            "wzTag": "date-pub",
+                            "wzName": "1892-1899",
                             "items": []
                         },
                         {
@@ -1695,6 +2156,12 @@
                             "items": []
                         },
                         {
+                            "wzElement": "datepub",
+                            "wzTag": "date-pub",
+                            "wzName": "1899",
+                            "items": []
+                        },
+                        {
                             "wzElement": "edition",
                             "wzTag": "edition",
                             "wzName": "1976, Bollati Boringhieri",
@@ -1711,6 +2178,12 @@
                             "wzElement": "title",
                             "wzTag": "title",
                             "wzName": "Le opere. Volume IV. Tre saggi sulla teoria sessuale e altri scritti.",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "datepub",
+                            "wzTag": "date-pub",
+                            "wzName": "1900-1905",
                             "items": []
                         },
                         {
@@ -1733,6 +2206,12 @@
                             "items": []
                         },
                         {
+                            "wzElement": "datepub",
+                            "wzTag": "date-pub",
+                            "wzName": "1905-1908",
+                            "items": []
+                        },
+                        {
                             "wzElement": "edition",
                             "wzTag": "edition",
                             "wzName": "1976, Bollati Boringhieri",
@@ -1749,6 +2228,12 @@
                             "wzElement": "title",
                             "wzTag": "title",
                             "wzName": "Le opere. Volume VI. Casi clinici e altri scritti.",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "datepub",
+                            "wzTag": "date-pub",
+                            "wzName": "1909-1912",
                             "items": []
                         },
                         {
@@ -1771,6 +2256,12 @@
                             "items": []
                         },
                         {
+                            "wzElement": "datepub",
+                            "wzTag": "date-pub",
+                            "wzName": "1912-1914",
+                            "items": []
+                        },
+                        {
                             "wzElement": "edition",
                             "wzTag": "edition",
                             "wzName": "1976, Bollati Boringhieri",
@@ -1787,6 +2278,12 @@
                             "wzElement": "title",
                             "wzTag": "title",
                             "wzName": "Le opere. Volume VIII. Introduzione alla psicanalisi e altri scritti.",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "datepub",
+                            "wzTag": "date-pub",
+                            "wzName": "1915-1917",
                             "items": []
                         },
                         {
@@ -1809,6 +2306,12 @@
                             "items": []
                         },
                         {
+                            "wzElement": "datepub",
+                            "wzTag": "date-pub",
+                            "wzName": "1917-1923",
+                            "items": []
+                        },
+                        {
                             "wzElement": "edition",
                             "wzTag": "edition",
                             "wzName": "1976, Bollati Boringhieri",
@@ -1828,6 +2331,12 @@
                             "items": []
                         },
                         {
+                            "wzElement": "datepub",
+                            "wzTag": "date-pub",
+                            "wzName": "1924-1929",
+                            "items": []
+                        },
+                        {
                             "wzElement": "edition",
                             "wzTag": "edition",
                             "wzName": "1976, Bollati Boringhieri",
@@ -1844,6 +2353,12 @@
                             "wzElement": "title",
                             "wzTag": "title",
                             "wzName": "Le opere. Volume XI. L'uomo Mosé e la religione monoteistica e altri scritti",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "datepub",
+                            "wzTag": "date-pub",
+                            "wzName": "1930-1938",
                             "items": []
                         },
                         {
@@ -1872,9 +2387,15 @@
                             "items": []
                         },
                         {
+                            "wzElement": "datepub",
+                            "wzTag": "date-pub",
+                            "wzName": "1989",
+                            "items": []
+                        },
+                        {
                             "wzElement": "edition",
                             "wzTag": "edition",
-                            "wzName": "Bollati Boringhieri. Kindle Edition.",
+                            "wzName": "2013, Bollati Boringhieri. Kindle Edition.",
                             "items": []
                         }
                     ]
@@ -1907,6 +2428,12 @@
                             "wzElement": "edition",
                             "wzTag": "edition",
                             "wzName": "Il Mulino, Bologna, 1984",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "datepub",
+                            "wzTag": "date-pub",
+                            "wzName": "1984",
                             "items": []
                         },
                         {
@@ -1950,6 +2477,12 @@
                             "items": []
                         },
                         {
+                            "wzElement": "datepub",
+                            "wzTag": "date-pub",
+                            "wzName": "9999/99/99",
+                            "items": []
+                        },
+                        {
                             "wzElement": "ebook",
                             "wzTag": "e-book",
                             "wzName": "opere-complete-kindle",
@@ -1979,6 +2512,12 @@
                             "wzElement": "title",
                             "wzTag": "title",
                             "wzName": "1 Gennaio 1896: una lettera di Freud a Fliess",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "datepub",
+                            "wzTag": "date-pub",
+                            "wzName": "9999/99/99",
                             "items": []
                         },
                         {
@@ -2492,17 +3031,16 @@
                                     "items": []
                                 },
                                 {
-                                    "wzElement": "book",
-                                    "wzTag": "book",
+                                    "wzElement": "article",
+                                    "wzTag": "article",
                                     "wzName": "freud.l-inconscio",
-                                    "items": [
-                                        {
-                                            "wzElement": "page",
-                                            "wzTag": "page",
-                                            "wzName": "49",
-                                            "items": []
-                                        }
-                                    ]
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "epage",
+                                    "wzTag": "e-page",
+                                    "wzName": "4655",
+                                    "items": []
                                 }
                             ]
                         },
@@ -2543,15 +3081,15 @@
                                     "items": []
                                 },
                                 {
-                                    "wzElement": "epage",
-                                    "wzTag": "e-page",
-                                    "wzName": "3250",
+                                    "wzElement": "article",
+                                    "wzTag": "article",
+                                    "wzName": "freud.osservazioni-su-un-caso-di-nevrosi-ossessiva",
                                     "items": []
                                 },
                                 {
-                                    "wzElement": "article",
-                                    "wzTag": "article",
-                                    "wzName": "freud.l-uomo-dei-topi",
+                                    "wzElement": "epage",
+                                    "wzTag": "e-page",
+                                    "wzName": "3250",
                                     "items": []
                                 }
                             ]
@@ -3616,15 +4154,15 @@
                                     "items": []
                                 },
                                 {
-                                    "wzElement": "epage",
-                                    "wzTag": "e-page",
-                                    "wzName": "5657",
+                                    "wzElement": "article",
+                                    "wzTag": "article",
+                                    "wzName": "freud.al-di-la-del-principio-di-piacere",
                                     "items": []
                                 },
                                 {
-                                    "wzElement": "book",
-                                    "wzTag": "book",
-                                    "wzName": "freud.opere-complete-kindle",
+                                    "wzElement": "epage",
+                                    "wzTag": "e-page",
+                                    "wzName": "5657",
                                     "items": []
                                 }
                             ]
@@ -4532,15 +5070,15 @@
                                             "items": []
                                         },
                                         {
-                                            "wzElement": "epage",
-                                            "wzTag": "e-page",
-                                            "wzName": "3839-3840",
+                                            "wzElement": "article",
+                                            "wzTag": "article",
+                                            "wzName": "freud.modi-tipici-di-ammalarsi-nervosamente",
                                             "items": []
                                         },
                                         {
-                                            "wzElement": "book",
-                                            "wzTag": "book",
-                                            "wzName": "freud.opere-complete-kindle",
+                                            "wzElement": "epage",
+                                            "wzTag": "e-page",
+                                            "wzName": "3839-3840",
                                             "items": []
                                         }
                                     ]
@@ -4822,15 +5360,15 @@
                                     "items": []
                                 },
                                 {
-                                    "wzElement": "eloc",
-                                    "wzTag": "e-loc",
-                                    "wzName": "12506-12516",
+                                    "wzElement": "article",
+                                    "wzTag": "article",
+                                    "wzName": "freud.progetto-di-una-psicologia",
                                     "items": []
                                 },
                                 {
-                                    "wzElement": "book",
-                                    "wzTag": "book",
-                                    "wzName": "freud.opere-complete-kindle",
+                                    "wzElement": "eloc",
+                                    "wzTag": "e-loc",
+                                    "wzName": "12506-12516",
                                     "items": []
                                 }
                             ]
@@ -5035,9 +5573,9 @@
                                     "items": []
                                 },
                                 {
-                                    "wzElement": "book",
-                                    "wzTag": "book",
-                                    "wzName": "freud.opere-complete-kindle",
+                                    "wzElement": "article",
+                                    "wzTag": "article",
+                                    "wzName": "freud.progetto-di-una-psicologia",
                                     "items": []
                                 },
                                 {
@@ -5079,15 +5617,15 @@
                                     "items": []
                                 },
                                 {
-                                    "wzElement": "epage",
-                                    "wzTag": "e-page",
-                                    "wzName": "887",
+                                    "wzElement": "article",
+                                    "wzTag": "article",
+                                    "wzName": "freud.progetto-di-una-psicologia",
                                     "items": []
                                 },
                                 {
-                                    "wzElement": "book",
-                                    "wzTag": "book",
-                                    "wzName": "freud.opere-complete-kindle",
+                                    "wzElement": "epage",
+                                    "wzTag": "e-page",
+                                    "wzName": "887",
                                     "items": []
                                 }
                             ]
@@ -6178,15 +6716,15 @@
                             "items": []
                         },
                         {
-                            "wzElement": "eloc",
-                            "wzTag": "e-loc",
-                            "wzName": "105368-105370",
+                            "wzElement": "article",
+                            "wzTag": "article",
+                            "wzName": "freud.progetto-di-una-psicologia",
                             "items": []
                         },
                         {
-                            "wzElement": "book",
-                            "wzTag": "book",
-                            "wzName": "freud.opere-complete-kindle",
+                            "wzElement": "eloc",
+                            "wzTag": "e-loc",
+                            "wzName": "105368-105370",
                             "items": []
                         }
                     ]
@@ -6395,15 +6933,15 @@
                                     "items": []
                                 },
                                 {
-                                    "wzElement": "epage",
-                                    "wzTag": "e-page",
-                                    "wzName": "886-887",
+                                    "wzElement": "article",
+                                    "wzTag": "article",
+                                    "wzName": "freud.progetto-di-una-psicologia",
                                     "items": []
                                 },
                                 {
-                                    "wzElement": "book",
-                                    "wzTag": "book",
-                                    "wzName": "freud.opere-complete-kindle",
+                                    "wzElement": "epage",
+                                    "wzTag": "e-page",
+                                    "wzName": "886-887",
                                     "items": []
                                 }
                             ]
@@ -6814,7 +7352,7 @@
                         {
                             "wzElement": "title",
                             "wzTag": "title",
-                            "wzName": "contenuto onirico manifesto",
+                            "wzName": "Contenuto onirico manifesto",
                             "items": []
                         }
                     ]
@@ -7011,6 +7549,12 @@
                     "wzTag": "concept",
                     "wzName": "ambivalenza",
                     "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Ambivalenza",
+                            "items": []
+                        },
                         {
                             "wzElement": "quote",
                             "wzTag": "quote",
@@ -7236,15 +7780,15 @@
                                                     "items": []
                                                 },
                                                 {
-                                                    "wzElement": "eloc",
-                                                    "wzTag": "e-loc",
-                                                    "wzName": "65273",
+                                                    "wzElement": "article",
+                                                    "wzTag": "article",
+                                                    "wzName": "freud.la-rimozione",
                                                     "items": []
                                                 },
                                                 {
-                                                    "wzElement": "book",
-                                                    "wzTag": "book",
-                                                    "wzName": "freud.opere-complete-kindle",
+                                                    "wzElement": "epage",
+                                                    "wzTag": "e-page",
+                                                    "wzName": "4651",
                                                     "items": []
                                                 }
                                             ]
@@ -7480,15 +8024,15 @@
                                     "items": []
                                 },
                                 {
-                                    "wzElement": "epage",
-                                    "wzTag": "e-page",
-                                    "wzName": "p. 5062",
+                                    "wzElement": "article",
+                                    "wzTag": "article",
+                                    "wzName": "freud.introduzione-alla-psicoanalisi",
                                     "items": []
                                 },
                                 {
-                                    "wzElement": "book",
-                                    "wzTag": "book",
-                                    "wzName": "freud.opere-complete-kindle",
+                                    "wzElement": "epage",
+                                    "wzTag": "e-page",
+                                    "wzName": "5062",
                                     "items": []
                                 }
                             ]
@@ -7505,15 +8049,15 @@
                                     "items": []
                                 },
                                 {
-                                    "wzElement": "epage",
-                                    "wzTag": "e-page",
-                                    "wzName": "6419",
+                                    "wzElement": "article",
+                                    "wzTag": "article",
+                                    "wzName": "freud.inibizione-sintomo-e-angoscia",
                                     "items": []
                                 },
                                 {
-                                    "wzElement": "book",
-                                    "wzTag": "book",
-                                    "wzName": "freud.opere-complete-kindle",
+                                    "wzElement": "epage",
+                                    "wzTag": "e-page",
+                                    "wzName": "6419",
                                     "items": []
                                 }
                             ]
@@ -7530,15 +8074,15 @@
                                     "items": []
                                 },
                                 {
-                                    "wzElement": "epage",
-                                    "wzTag": "e-page",
-                                    "wzName": "6425",
+                                    "wzElement": "article",
+                                    "wzTag": "article",
+                                    "wzName": "freud.inibizione-sintomo-e-angoscia",
                                     "items": []
                                 },
                                 {
-                                    "wzElement": "book",
-                                    "wzTag": "book",
-                                    "wzName": "freud.opere-complete-kindle",
+                                    "wzElement": "epage",
+                                    "wzTag": "e-page",
+                                    "wzName": "6425",
                                     "items": []
                                 }
                             ]
@@ -7555,15 +8099,15 @@
                                     "items": []
                                 },
                                 {
-                                    "wzElement": "epage",
-                                    "wzTag": "e-page",
-                                    "wzName": "6429",
+                                    "wzElement": "article",
+                                    "wzTag": "article",
+                                    "wzName": "freud.inibizione-sintomo-e-angoscia",
                                     "items": []
                                 },
                                 {
-                                    "wzElement": "book",
-                                    "wzTag": "book",
-                                    "wzName": "freud.opere-complete-kindle",
+                                    "wzElement": "epage",
+                                    "wzTag": "e-page",
+                                    "wzName": "6429",
                                     "items": []
                                 }
                             ]
@@ -7580,15 +8124,15 @@
                                     "items": []
                                 },
                                 {
-                                    "wzElement": "epage",
-                                    "wzTag": "e-page",
-                                    "wzName": "6429-6430",
+                                    "wzElement": "article",
+                                    "wzTag": "article",
+                                    "wzName": "freud.inibizione-sintomo-e-angoscia",
                                     "items": []
                                 },
                                 {
-                                    "wzElement": "book",
-                                    "wzTag": "book",
-                                    "wzName": "freud.opere-complete-kindle",
+                                    "wzElement": "epage",
+                                    "wzTag": "e-page",
+                                    "wzName": "6429-6430",
                                     "items": []
                                 }
                             ]
@@ -7605,15 +8149,15 @@
                                     "items": []
                                 },
                                 {
-                                    "wzElement": "epage",
-                                    "wzTag": "e-page",
-                                    "wzName": "6431-6432",
+                                    "wzElement": "article",
+                                    "wzTag": "article",
+                                    "wzName": "freud.inibizione-sintomo-e-angoscia",
                                     "items": []
                                 },
                                 {
-                                    "wzElement": "book",
-                                    "wzTag": "book",
-                                    "wzName": "freud.opere-complete-kindle",
+                                    "wzElement": "epage",
+                                    "wzTag": "e-page",
+                                    "wzName": "6431-6432",
                                     "items": []
                                 }
                             ]
@@ -7647,15 +8191,15 @@
                                             "items": []
                                         },
                                         {
-                                            "wzElement": "epage",
-                                            "wzTag": "e-page",
-                                            "wzName": "6428",
+                                            "wzElement": "article",
+                                            "wzTag": "article",
+                                            "wzName": "freud.inibizione-sintomo-e-angoscia",
                                             "items": []
                                         },
                                         {
-                                            "wzElement": "book",
-                                            "wzTag": "book",
-                                            "wzName": "freud.opere-complete-kindle",
+                                            "wzElement": "epage",
+                                            "wzTag": "e-page",
+                                            "wzName": "6428",
                                             "items": []
                                         }
                                     ]
@@ -7716,15 +8260,15 @@
                                             "items": []
                                         },
                                         {
-                                            "wzElement": "epage",
-                                            "wzTag": "e-page",
-                                            "wzName": "6428",
+                                            "wzElement": "article",
+                                            "wzTag": "article",
+                                            "wzName": "freud.inibizione-sintomo-e-angoscia",
                                             "items": []
                                         },
                                         {
-                                            "wzElement": "book",
-                                            "wzTag": "book",
-                                            "wzName": "freud.opere-complete-kindle",
+                                            "wzElement": "epage",
+                                            "wzTag": "e-page",
+                                            "wzName": "6428",
                                             "items": []
                                         }
                                     ]
@@ -7754,15 +8298,15 @@
                                             "items": []
                                         },
                                         {
-                                            "wzElement": "epage",
-                                            "wzTag": "e-page",
-                                            "wzName": "6427",
+                                            "wzElement": "article",
+                                            "wzTag": "article",
+                                            "wzName": "freud.inibizione-sintomo-e-angoscia",
                                             "items": []
                                         },
                                         {
-                                            "wzElement": "book",
-                                            "wzTag": "book",
-                                            "wzName": "freud.opere-complete-kindle",
+                                            "wzElement": "epage",
+                                            "wzTag": "e-page",
+                                            "wzName": "6427",
                                             "items": []
                                         }
                                     ]
@@ -7892,15 +8436,15 @@
                                     "items": []
                                 },
                                 {
-                                    "wzElement": "eloc",
-                                    "wzTag": "e-loc",
-                                    "wzName": "65164-65172",
+                                    "wzElement": "article",
+                                    "wzTag": "article",
+                                    "wzName": "freud.la-rimozione",
                                     "items": []
                                 },
                                 {
-                                    "wzElement": "book",
-                                    "wzTag": "book",
-                                    "wzName": "freud.opere-complete-kindle",
+                                    "wzElement": "epage",
+                                    "wzTag": "e-page",
+                                    "wzName": "4644",
                                     "items": []
                                 }
                             ]
@@ -7945,7 +8489,7 @@
                                 {
                                     "wzElement": "article",
                                     "wzTag": "article",
-                                    "wzName": "freud.precisazione-sui-due-principi-dell-accadere-psichico",
+                                    "wzName": "freud.precisazioni-sui-due-principi-dell-accadere-psichico",
                                     "items": []
                                 }
                             ]
@@ -8778,7 +9322,7 @@
                                 {
                                     "wzElement": "article",
                                     "wzTag": "article",
-                                    "wzName": "freud.precisazione-sui-due-principi-dell-accadere-psichico",
+                                    "wzName": "freud.precisazioni-sui-due-principi-dell-accadere-psichico",
                                     "items": []
                                 }
                             ]
@@ -9132,7 +9676,7 @@
                                 {
                                     "wzElement": "article",
                                     "wzTag": "article",
-                                    "wzName": "freud.precisazione-sui-due-principi-dell-accadere-psichico",
+                                    "wzName": "freud.precisazioni-sui-due-principi-dell-accadere-psichico",
                                     "items": []
                                 }
                             ]
@@ -9508,25 +10052,25 @@
                                 {
                                     "wzElement": "title",
                                     "wzTag": "title",
-                                    "wzName": "investimento liberamente fluttuante",
+                                    "wzName": "Investimento liberamente fluttuante",
                                     "items": []
                                 },
                                 {
                                     "wzElement": "alias",
                                     "wzTag": "alias",
-                                    "wzName": "investimento liberamente mobile",
+                                    "wzName": "Investimento liberamente mobile",
                                     "items": []
                                 },
                                 {
                                     "wzElement": "alias",
                                     "wzTag": "alias",
-                                    "wzName": "investimento libero",
+                                    "wzName": "Investimento libero",
                                     "items": []
                                 },
                                 {
                                     "wzElement": "alias",
                                     "wzTag": "alias",
-                                    "wzName": "investimento mobile",
+                                    "wzName": "Investimento mobile",
                                     "items": []
                                 }
                             ]
@@ -9539,25 +10083,25 @@
                                 {
                                     "wzElement": "title",
                                     "wzTag": "title",
-                                    "wzName": "investimento quiescente",
+                                    "wzName": "Investimento quiescente",
                                     "items": []
                                 },
                                 {
                                     "wzElement": "alias",
                                     "wzTag": "alias",
-                                    "wzName": "investimento legato",
+                                    "wzName": "Investimento legato",
                                     "items": []
                                 },
                                 {
                                     "wzElement": "alias",
                                     "wzTag": "alias",
-                                    "wzName": "investimento tonico",
+                                    "wzName": "Investimento tonico",
                                     "items": []
                                 },
                                 {
                                     "wzElement": "alias",
                                     "wzTag": "alias",
-                                    "wzName": "energia legata",
+                                    "wzName": "Energia legata",
                                     "items": []
                                 },
                                 {
@@ -9811,44 +10355,6 @@
                         {
                             "wzElement": "concept",
                             "wzTag": "concept",
-                            "wzName": "introversione",
-                            "items": [
-                                {
-                                    "wzElement": "title",
-                                    "wzTag": "title",
-                                    "wzName": "Introversione della libido",
-                                    "items": []
-                                },
-                                {
-                                    "wzElement": "quote",
-                                    "wzTag": "quote",
-                                    "wzName": "",
-                                    "items": [
-                                        {
-                                            "wzElement": "text",
-                                            "wzTag": "+",
-                                            "wzName": "Anche l’isterico o il nevrotico ossessivo – in ragione del livello raggiunto dalla sua malattia – ha abbandonato il rapporto con la realtà. L’analisi mostra tuttavia che egli non ha assolutamente interrotto il suo rapporto erotico con le persone e con le cose. Continua anzi a serbare ben saldo nella fantasia questo rapporto: ciò significa da una parte che egli ha sostituito o combinato insieme gli oggetti reali con oggetti immaginari tratti dai suoi ricordi, e dall’altra che ha rinunciato a intraprendere le attività motorie atte a raggiungere i suoi obiettivi in relazione a questi oggetti. L’espressione “introversione della libido” che Jung usa indiscriminatamente dovrebbe essere fatta valere per quest’unica situazione libidica.",
-                                            "items": []
-                                        },
-                                        {
-                                            "wzElement": "article",
-                                            "wzTag": "article",
-                                            "wzName": "freud.introduzione-al-narcisismo",
-                                            "items": []
-                                        },
-                                        {
-                                            "wzElement": "epage",
-                                            "wzTag": "e-page",
-                                            "wzName": "4401",
-                                            "items": []
-                                        }
-                                    ]
-                                }
-                            ]
-                        },
-                        {
-                            "wzElement": "concept",
-                            "wzTag": "concept",
                             "wzName": "ritiro",
                             "items": [
                                 {
@@ -9878,6 +10384,44 @@
                                             "wzElement": "epage",
                                             "wzTag": "e-page",
                                             "wzName": "4401-4402",
+                                            "items": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "wzElement": "concept",
+                            "wzTag": "concept",
+                            "wzName": "introversione",
+                            "items": [
+                                {
+                                    "wzElement": "title",
+                                    "wzTag": "title",
+                                    "wzName": "Introversione della libido",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "quote",
+                                    "wzTag": "quote",
+                                    "wzName": "",
+                                    "items": [
+                                        {
+                                            "wzElement": "text",
+                                            "wzTag": "+",
+                                            "wzName": "Anche l’isterico o il nevrotico ossessivo – in ragione del livello raggiunto dalla sua malattia – ha abbandonato il rapporto con la realtà. L’analisi mostra tuttavia che egli non ha assolutamente interrotto il suo rapporto erotico con le persone e con le cose. Continua anzi a serbare ben saldo nella fantasia questo rapporto: ciò significa da una parte che egli ha sostituito o combinato insieme gli oggetti reali con oggetti immaginari tratti dai suoi ricordi, e dall’altra che ha rinunciato a intraprendere le attività motorie atte a raggiungere i suoi obiettivi in relazione a questi oggetti. L’espressione “introversione della libido” che Jung usa indiscriminatamente dovrebbe essere fatta valere per quest’unica situazione libidica.",
+                                            "items": []
+                                        },
+                                        {
+                                            "wzElement": "article",
+                                            "wzTag": "article",
+                                            "wzName": "freud.introduzione-al-narcisismo",
+                                            "items": []
+                                        },
+                                        {
+                                            "wzElement": "epage",
+                                            "wzTag": "e-page",
+                                            "wzName": "4401",
                                             "items": []
                                         }
                                     ]
@@ -9970,7 +10514,7 @@
                                                 {
                                                     "wzElement": "text",
                                                     "wzTag": "+",
-                                                    "wzName": "Il ritiro completo sull'Io della libido oggettuale svuota il mondo di ogni piacere e il paranoide ne percepisce la fine.",
+                                                    "wzName": "Il ritiro completo sull'Io della libido oggettuale svuota cose e persone di ogni piacere e il paranoide percepisce il mondo come morente.",
                                                     "items": []
                                                 }
                                             ]

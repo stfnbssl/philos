@@ -128,13 +128,11 @@
             font-size: 0.75em;
         }
         .abstract-title {
-            margin-top: 30px;
             font-weight: bold;
-            font-size: 0.75em;
         }
         .abstract-box {
-            width: 50%;
-            padding: 40px;
+            margin-top: 20px;
+            padding: 20px;
         }
         .quote-comment-box {
             background-color: #dedede;
@@ -142,6 +140,43 @@
             padding: 10px;
             font-size: 0.85em;
             font-style: normal;
+        }
+        .quotes-title {
+            font-weight: bold;
+        }
+        .quotes-box {
+            margin-top: 20px;
+            padding: 20px;
+        }
+        .quotes-concept-id {
+            font-size: 0.75em;
+        }
+        .info-box {
+            margin-top: 20px;
+            padding: 20px;
+        }
+        .info-item-box {
+            border-bottom: 1px solid #ededed;
+        }
+        .info-item-label {
+            font-size: 0.75em;
+        }
+        .info-item-text {
+            font-style: italic;
+        }
+        @media (min-width:1024px) {
+            .info-box {
+                width: 50%;
+                padding: 40px;
+            }
+            .abstract-box {
+                width: 50%;
+                padding: 40px;
+            }
+            .quotes-box {
+                width: 50%;
+                padding: 40px;
+            }
         }
         blockquote {
             border-left: 3px solid #00CC8F;
@@ -222,8 +257,49 @@
             }
             return 0;
         }
+        function compareByDatePub(a, b) {
+            if (a.datepub < b.datepub) {
+                return -1;
+            }
+            if (a.datepub > b.datepub) {
+                return 1;
+            }
+            return 0;
+        }
+        function compareQuotes(a, b) {
+            var pageA = a.quote.page;
+            var pageB = b.quote.page;
+            if (pageA < pageB) {
+                return -1;
+            }
+            if (pageA > pageB) {
+                return 1;
+            }
+            return 0;
+        }
     </script>
     <script type="text/babel">
+        function dbGetArticleQuotes(id, dbParam) {
+            var quotes = [];
+            var i, i_items=dbParam.concepts, i_len=dbParam.concepts.length, c;
+            for (i=0; i<i_len; i++) {
+                c = dbParam.concepts[i];
+                if (c.contents) {
+                    var j, j_items=c.contents, j_len=c.contents.length, item;
+                    for (j=0; j<j_len; j++) {
+                        item = c.contents[j];
+                        if (item.quote && item.quote.article == id) {
+                            console.log('dbGetArticleQuotes', c.id);
+                            quotes.push({
+                                concept: c, 
+                                quote: item.quote
+                            });
+                        }
+                    }
+                }
+            }
+            return quotes;
+        }
         function dbGetById(coll, id) {
             return coll.find((item) => {
                     return item.id == id;
@@ -847,6 +923,7 @@
                 scrollTop: 0, 
                 scrollingElement: null, 
                 justRenderedList: false, 
+                justRenderedItem: false, 
                 forms: [
                     
                 ], 
@@ -864,6 +941,9 @@
                 window.addEventListener('scroll', this.handlePaperScroll);
                 this.props.onChangeCurrent(this.state.current, this.handleConceptClose);
             }
+            componentWillUnmount() {
+                window.removeEventListener('scroll', this.handlePaperScroll);
+            }
             componentDidUpdate(prevProps, prevState) {
                 if (this.state.current.justRenderedList) {
                     if (this.state.current.scrollingElement) {
@@ -879,9 +959,20 @@
                         });
                     }
                 }
-            }
-            componentWillUnmount() {
-                window.removeEventListener('scroll', this.handlePaperScroll);
+                if (this.state.current.justRenderedItem) {
+                    if (this.state.current.scrollingElement) {
+                        this.state.current.scrollingElement.scrollTo(0, 0);
+                        this.setState((prevState) => {
+                            return {
+                                    ...prevState, 
+                                    current: {
+                                        ...prevState.current, 
+                                        justRenderedItem: false
+                                    }
+                                };
+                        });
+                    }
+                }
             }
             handlePaperScroll = (ev) => {
                 if (this.state.current.status == 'list') {
@@ -910,7 +1001,8 @@
                         status: 'concept', 
                         selectedItem: conceptItem, 
                         depth: prevState.forms.length, 
-                        title: (conceptItem.title && conceptItem.title.text) || conceptItem.id
+                        title: (conceptItem.title && conceptItem.title.text) || conceptItem.id, 
+                        justRenderedItem: true
                     };
                     this.props.onChangeCurrent(current, this.handleConceptClose);
                     console.log('onChangeCurrent called');
@@ -1342,35 +1434,147 @@
         class PublicationList extends React.Component {
             state = {
                 status: 'list', 
-                selectedItem: null
+                selectedItem: null, 
+                forms: [
+                    
+                ], 
+                current: {
+                    status: 'list', 
+                    selectedItem: null, 
+                    scrollTop: 0, 
+                    scrollingElement: null, 
+                    justRenderedList: false, 
+                    justRenderedItem: false, 
+                    depth: 0, 
+                    title: 'Testi'
+                }
             };
+            componentDidMount() {
+                window.addEventListener('scroll', this.handlePaperScroll);
+                this.props.onChangeCurrent(this.state.current, this.handleConceptClose);
+            }
+            componentWillUnmount() {
+                window.removeEventListener('scroll', this.handlePaperScroll);
+            }
+            componentDidUpdate(prevProps, prevState) {
+                if (this.state.current.justRenderedList) {
+                    if (this.state.current.scrollingElement) {
+                        this.state.current.scrollingElement.scrollTo(0, this.state.current.scrollTop);
+                        this.setState((prevState) => {
+                            return {
+                                    ...prevState, 
+                                    current: {
+                                        ...prevState.current, 
+                                        justRenderedList: false
+                                    }
+                                };
+                        });
+                    }
+                }
+                if (this.state.current.justRenderedItem) {
+                    if (this.state.current.scrollingElement) {
+                        this.state.current.scrollingElement.scrollTo(0, 0);
+                        this.setState((prevState) => {
+                            return {
+                                    ...prevState, 
+                                    current: {
+                                        ...prevState.current, 
+                                        justRenderedItem: false
+                                    }
+                                };
+                        });
+                    }
+                }
+            }
+            handlePaperScroll = (ev) => {
+                if (this.state.current.status == 'list') {
+                    if (ev.target.scrollingElement) {
+                        this.setState((prevState) => {
+                            return {
+                                    ...prevState, 
+                                    current: {
+                                        ...prevState.current, 
+                                        scrollTop: event.target.scrollingElement.scrollTop, 
+                                        scrollingElement: event.target.scrollingElement
+                                    }
+                                };
+                        });
+                    }
+                }
+            }
+            handleOpen = (status, item) => {
+                this.setState((prevState) => {
+                    prevState.forms.push(prevState.current);
+                    var current = {
+                        ...prevState.current, 
+                        status: status, 
+                        selectedItem: item, 
+                        depth: prevState.forms.length, 
+                        title: (item.title && item.title.text) || item.id, 
+                        justRenderedItem: true
+                    };
+                    this.props.onChangeCurrent(current, this.handleArticleClose);
+                    return {
+                            ...prevState, 
+                            current: current
+                        };
+                });
+            }
+            handleClose = () => {
+                this.setState((prevState) => {
+                    var current = prevState.forms.pop();
+                    if (current.status == 'list') {
+                        current.justRenderedList = true;
+                        current.depth = prevState.forms.length;
+                        current.title = 'Testi';
+                        current.selectedItem = null;
+                    }
+                    this.props.onChangeCurrent(current, this.handleConceptClose);
+                    return {
+                            ...prevState, 
+                            current: current
+                        };
+                });
+            }
             handleArticleOpen = (ev, articleItem) => {
-                console.log('handleArticleOpen.id', articleItem.id);
-                console.log('handleArticleOpen.ev', ev);
-                this.setState({
-                    status: 'article', 
-                    selectedItem: articleItem
+                this.setState((prevState) => {
+                    prevState.forms.push(prevState.current);
+                    var current = {
+                        ...prevState.current, 
+                        status: 'article', 
+                        selectedItem: articleItem, 
+                        depth: prevState.forms.length, 
+                        title: (articleItem.title && articleItem.title.text) || articleItem.id, 
+                        justRenderedItem: true
+                    };
+                    this.props.onChangeCurrent(current, this.handleArticleClose);
+                    return {
+                            ...prevState, 
+                            current: current
+                        };
                 });
             }
             handleArticleClose = () => {
-                this.setState({
-                    status: 'list', 
-                    selectedItem: null
+                this.setState((prevState) => {
+                    var current = prevState.forms.pop();
+                    if (current.status == 'list') {
+                        current.justRenderedList = true;
+                        current.depth = prevState.forms.length;
+                        current.title = 'Testi';
+                        current.selectedItem = null;
+                    }
+                    this.props.onChangeCurrent(current, this.handleConceptClose);
+                    return {
+                            ...prevState, 
+                            current: current
+                        };
                 });
             }
             handleBookOpen = (ev, bookItem) => {
-                console.log('handleBookOpen.id', bookItem.id);
-                console.log('handleBookOpen.ev', ev);
-                this.setState({
-                    status: 'book', 
-                    selectedItem: bookItem
-                });
+                this.handleOpen('book', bookItem);
             }
             handleBookClose = () => {
-                this.setState({
-                    status: 'list', 
-                    selectedItem: null
-                });
+                this.handleClose('list', null);
             }
             render() {
                 const {
@@ -1379,8 +1583,8 @@
                 const {
                     status, 
                     selectedItem
-                } = this.state;
-                console.log('status', status);
+                } = this.state.current;
+                var titleText = selectedItem ? dbExtractTitleText(selectedItem.title) || name : '';
                 return  (
                         <div>
                         {
@@ -1392,7 +1596,7 @@
                                         </h2>
                                     
                                     {
-                                        jsonData.articles.sort(compareById).map((item) => {
+                                        jsonData.articles.sort(compareByDatePub).map((item) => {
                                             return  (
                                                     <div key={item.id}>
                                                         <ArticleListItem item={item} onClick={this.handleArticleOpen}>
@@ -1407,7 +1611,7 @@
                                         </h2>
                                     
                                     {
-                                        jsonData.books.sort(compareById).map((item) => {
+                                        jsonData.books.sort(compareByDatePub).map((item) => {
                                             return  (
                                                     <div key={item.id}>
                                                         <BookListItem item={item} onClick={this.handleBookOpen}>
@@ -1425,10 +1629,6 @@
                         }{
                             status == 'book' &&  (
                                 <div>
-                                    <DetailBar title={selectedItem.title} id={selectedItem.id} showFullBar={true} onClick={() =>
-                                        this.handleBookClose()}>
-                                    </DetailBar>
-                                
                                     <Book item={selectedItem} jsonData={jsonData}>
                                     </Book>
                                 
@@ -1438,10 +1638,6 @@
                         }{
                             status == 'article' &&  (
                                 <div>
-                                    <DetailBar title={selectedItem.title} id={selectedItem.id} showFullBar={true} onClick={() =>
-                                        this.handleArticleClose()}>
-                                    </DetailBar>
-                                
                                     <Article item={selectedItem} jsonData={jsonData}>
                                     </Article>
                                 
@@ -1457,11 +1653,12 @@
             var {item, onClick} = props;
             var {id, name, title} = item;
             var titleText = dbExtractTitleText(title) || name;
+            var datePub = item.datepub == '9999/99/99' ? '' : '(' + item.datepub + ')';
             return  (
                     <div onClick={(event) =>
                         onClick(event, item)}>
                         <div className="li-title">
-                        {titleText}
+                        {titleText} {datePub}
                         </div>
                     
                         <div className="li-id">
@@ -1478,39 +1675,58 @@
         function Article(props) {
             var {item, jsonData} = props;
             var bookObj = dbGetBook(item.book, jsonData);
+            var titleText = dbExtractTitleText(item.title) || 'no title';
+            var bookTitleText = bookObj ? dbExtractTitleText(bookObj.title) || name : '';
+            var quotes = dbGetArticleQuotes(item.id, jsonData);
             return  (
                     <div>
-                        <PublicationAuthors item={item} jsonData={jsonData}>
-                        </PublicationAuthors>
-                    
                         <div>
-                        {item.edition}
+                            <Paper className="info-box">
+                                <InfoItem label='id' text={item.id}>
+                                </InfoItem>
+                            
+                                <InfoItem label='titolo' text={titleText}>
+                                </InfoItem>
+                            
+                                <PublicationAuthors item={item} jsonData={jsonData}>
+                                </PublicationAuthors>
+                            
+                                <InfoItem label='data pubblicazione' text={item.datepub}>
+                                </InfoItem>
+                            
+                            {
+                                item.edition &&  (
+                                    <InfoItem label='edizione' text={item.edition}>
+                                    </InfoItem>
+                                )
+                                
+                            }{
+                                bookObj &&  (
+                                    <InfoItem label='nel libro' text={bookTitleText}>
+                                    </InfoItem>
+                                )
+                                
+                            }{
+                                item.url &&  (
+                                    <InfoItem label='link' text={''}>
+                                        <span className="web-link">
+                                            <a href={item.url} target="_blank" rel="noopener noreferrer">
+                                            {item.url}
+                                            </a>
+                                        
+                                        </span>
+                                    
+                                    </InfoItem>
+                                )
+                                
+                            }</Paper>
+                        
                         </div>
                     
-                    {
-                        bookObj &&  (
-                            <div>
-                                <span>
-                                in {bookObj.title}
-                                </span>
-                            
-                            </div>
-                        )
-                        
-                    }<ContentText item={item} jsonData={jsonData}>
+                        <ContentText item={item} jsonData={jsonData}>
                         </ContentText>
                     
                     {
-                        item.url &&  (
-                            <div className="web-link">
-                                <a href={item.url} target="_blank" rel="noopener noreferrer">
-                                {item.url}
-                                </a>
-                            
-                            </div>
-                        )
-                        
-                    }{
                         item.abstract &&  (
                             <Paper className="abstract-box">
                                 <div className="abstract-title">
@@ -1526,6 +1742,34 @@
                             </Paper>
                         )
                         
+                    }{
+                        quotes.length > 0 &&  (
+                            <Paper className="quotes-box">
+                                <div className="quotes-title">
+                                citazioni
+                                </div>
+                            
+                                <div>
+                                {
+                                    quotes.sort(compareQuotes).map((quote, i) => {
+                                        return  (
+                                                <div key={i}>
+                                                    <div className="quotes-concept-id">
+                                                    concetto {quote.concept.id}
+                                                    </div>
+                                                
+                                                    <Quote item={quote.quote} jsonData={jsonData}>
+                                                    </Quote>
+                                                
+                                                </div>
+                                            )
+                                        ;
+                                    })
+                                }</div>
+                            
+                            </Paper>
+                        )
+                        
                     }</div>
                 )
             ;
@@ -1535,11 +1779,12 @@
             var {id, name, title} = item;
             title = (title || name);
             var titleText = dbExtractTitleText(title) || name;
+            var datePub = item.datepub == '9999/99/99' ? '' : '(' + item.datepub + ')';
             return  (
                     <div onClick={(event) =>
                         onClick(event, item)}>
                         <div className="li-title">
-                        {titleText}
+                        {titleText} {datePub}
                         </div>
                     
                         <div className="li-id">
@@ -1555,13 +1800,44 @@
         }
         function Book(props) {
             var {item, jsonData} = props;
+            var titleText = dbExtractTitleText(item.title) || name;
             return  (
                     <div>
-                        <PublicationAuthors item={item} jsonData={jsonData}>
-                        </PublicationAuthors>
-                    
                         <div>
-                        {item.edition}
+                            <Paper className="info-box">
+                                <InfoItem label='id' text={item.id}>
+                                </InfoItem>
+                            
+                                <InfoItem label='titolo' text={titleText}>
+                                </InfoItem>
+                            
+                                <PublicationAuthors item={item} jsonData={jsonData}>
+                                </PublicationAuthors>
+                            
+                                <InfoItem label='data pubblicazione' text={item.datepub}>
+                                </InfoItem>
+                            
+                            {
+                                item.edition &&  (
+                                    <InfoItem label='edizione' text={item.edition}>
+                                    </InfoItem>
+                                )
+                                
+                            }{
+                                item.url &&  (
+                                    <InfoItem label='link' text={''}>
+                                        <span className="web-link">
+                                            <a href={item.url} target="_blank" rel="noopener noreferrer">
+                                            {item.url}
+                                            </a>
+                                        
+                                        </span>
+                                    
+                                    </InfoItem>
+                                )
+                                
+                            }</Paper>
+                        
                         </div>
                     
                         <ContentText item={item} jsonData={jsonData}>
@@ -1573,23 +1849,40 @@
         }
         function PublicationAuthors(props) {
             var {item, jsonData} = props;
+            var text = '';
+            item.authors.map((token, i) => {
+                var authObj = dbGetAuthor(token, jsonData);
+                text += (i > 0 ? ', ' : '');
+                if (authObj) {
+                    text += (i > 0 ? ', ' : '') + authObj.fullname;
+                }
+                else {
+                    text += token;
+                }
+            });
             return  (
-                    <div>
-                    {
-                        item.authors.map((token, i) => {
-                            var authObj = dbGetAuthor(token, jsonData);
-                            var text = (i > 0 ? ', ' : '') + token;
-                            if (authObj) {
-                                text = (i > 0 ? ', ' : '') + authObj.fullname;
-                            }
-                            return  (
-                                    <span key={i}>
-                                    {text}
-                                    </span>
-                                )
-                            ;
-                        })
-                    }</div>
+                    <InfoItem label='autore' text={text}>
+                    </InfoItem>
+                )
+            ;
+        }
+        function InfoItem(props) {
+            var {label, text} = props;
+            return  (
+                    <div className='info-item-box'>
+                        <span className='info-item-label'>
+                        {label}
+                        </span>
+                    
+                        <span>
+                        &nbsp; : &nbsp;
+                        </span>
+                    
+                        <span className='info-item-text'>
+                        {text}
+                        </span>
+                    
+                    </div>
                 )
             ;
         }
@@ -1921,7 +2214,7 @@
                                 
                             }{
                                 selectedView == 'Autori' && isLoading == false &&  (
-                                    <AuthorList jsonData={jsonData}>
+                                    <AuthorList jsonData={jsonData} onChangeCurrent={this.handleChangeCurrent}>
                                     </AuthorList>
                                 )
                                 
@@ -1939,7 +2232,7 @@
                                 
                             }{
                                 selectedView == 'Testi' && isLoading == false &&  (
-                                    <PublicationList jsonData={jsonData}>
+                                    <PublicationList jsonData={jsonData} onChangeCurrent={this.handleChangeCurrent}>
                                     </PublicationList>
                                 )
                                 

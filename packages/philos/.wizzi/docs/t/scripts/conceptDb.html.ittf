@@ -3,6 +3,24 @@ $group
     script
         type text/babel
         module
+            function dbGetArticleQuotes
+                param id
+                param dbParam
+
+                var quotes = []
+
+                foreach c in dbParam.concepts
+                    if c.contents
+                        foreach item in c.contents
+                            if item.quote && item.quote.article == id
+                                log 'dbGetArticleQuotes', c.id 
+                                _ quotes.push
+                                    {
+                                        @ concept c
+                                        @ quote item.quote
+                
+                return quotes
+
             function dbGetById
                 param coll
                 param id
