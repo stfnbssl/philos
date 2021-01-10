@@ -382,7 +382,7 @@ layouts/muiPage( theme )
                                 @ [classes.contentShift] open
                     {
                         &&
-                            + !(isMobile() && open == false)
+                            + !(isMobile() && open)
                             div
                                 div 
                                     @ className {classes.drawerHeader}
