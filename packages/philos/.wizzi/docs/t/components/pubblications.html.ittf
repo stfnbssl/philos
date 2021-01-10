@@ -16,7 +16,7 @@ $group
                 @ depth 0
                 @ title 'Testi'
 
-        $include list-functions
+        list-functions(Pubblications, Testi)
 
         => handleOpen
             param status
@@ -34,12 +34,13 @@ $group
                             @ depth prevState.forms.length
                             @ title (item.title && item.title.text) || item.id
                             @ justRenderedItem true
-                    _ this.props.onChangeCurrent(current, this.handleArticleClose)
+                    _ this.props.onChangeCurrent(current, this.handlePubblicationsClose, this.handleChangeSearch)
                     return
                         {
                             @ ...prevState
                             @ current current
 
+        $*
         => handleClose
             _ this.setState
                 =>
@@ -50,36 +51,30 @@ $group
                         set current.depth = prevState.forms.length
                         set current.title = 'Testi'
                         set current.selectedItem = null
-                    _ this.props.onChangeCurrent(current, this.handleConceptClose)
+                    _ this.props.onChangeCurrent(current, this.handleConceptClose, this.handleChangeSearch)
                     return
                         {
                             @ ...prevState
                             @ current current
+        *$
 
         => handleArticleOpen
             param ev
             param articleItem
+            _ this.handleOpen
+                @ 'article'
+                @ articleItem
 
-            _ this.setState
-                =>
-                    param prevState
-                    _ prevState.forms.push
-                        @ prevState.current
-                    var current
-                        {
-                            @ ...prevState.current
-                            @ status 'article'
-                            @ selectedItem articleItem
-                            @ depth prevState.forms.length
-                            @ title (articleItem.title && articleItem.title.text) || articleItem.id
-                            @ justRenderedItem true
-                    _ this.props.onChangeCurrent(current, this.handleArticleClose)
-                    return
-                        {
-                            @ ...prevState
-                            @ current current
+        => handleBookOpen
+            param ev
+            param bookItem
+            _ this.handleOpen
+                @ 'book'
+                @ bookItem
 
-        => handleArticleClose
+
+        $*
+        => handlePubblicationsClose
             _ this.setState
                 =>
                     param prevState
@@ -89,23 +84,13 @@ $group
                         set current.depth = prevState.forms.length
                         set current.title = 'Testi'
                         set current.selectedItem = null
-                    _ this.props.onChangeCurrent(current, this.handleConceptClose)
+                    _ this.props.onChangeCurrent(current, this.handleConceptClose, this.handleChangeSearch)
                     return
                         {
                             @ ...prevState
                             @ current current
+        *$
 
-        => handleBookOpen
-            param ev
-            param bookItem
-            _ this.handleOpen
-                @ 'book'
-                @ bookItem
-
-        => handleBookClose
-            _ this.handleClose
-                @ 'list'
-                @ null
 
         render
             prop jsonData
@@ -113,6 +98,7 @@ $group
                 { 
                     @ status
                     @ selectedItem
+                    @ searchText
                 = this.state.current
 
             var titleText = selectedItem ? dbExtractTitleText(selectedItem.title) || name : ''
@@ -130,23 +116,26 @@ $group
                                         _ jsonData.articles.sort(compareByDatePub).map
                                             =>
                                                 param item
-                                                return
-                                                    div
-                                                        @ key {item.id}
-                                                        < ArticleListItem
-                                                            @ item {item}
-                                                            @ onClick {this.handleArticleOpen}
+                                                if (!searchText || searchText.length == 0) || item.id.indexOf(searchText) > -1
+                                                    return
+                                                        div
+                                                            @ key {item.id}
+                                                            < ArticleListItem
+                                                                @ item {item}
+                                                                @ onClick {this.handleArticleOpen}
                                     < h2 Libri
                                     {
                                         _ jsonData.books.sort(compareByDatePub).map
+                                        
                                             =>
                                                 param item
-                                                return
-                                                    div
-                                                        @ key {item.id}
-                                                        < BookListItem
-                                                            @ item {item}
-                                                            @ onClick {this.handleBookOpen}
+                                                if (!searchText || searchText.length == 0) || item.id.indexOf(searchText) > -1
+                                                    return
+                                                        div
+                                                            @ key {item.id}
+                                                            < BookListItem
+                                                                @ item {item}
+                                                                @ onClick {this.handleBookOpen}
                     {
                         &&
                             + status == 'book'
@@ -227,15 +216,9 @@ $group
                         {
                             &&
                                 + item.url
-                                < InfoItem 
+                                < InfoUrl 
                                     @ label 'link'
-                                    @ text {''}
-                                    span
-                                        @ className "web-link"
-                                        a {item.url}
-                                            href {item.url}
-                                            target _blank
-                                            rel noopener noreferrer 
+                                    @ url {item.url}
 
                 < ContentText
                     @ item {item}
@@ -324,15 +307,9 @@ $group
                         {
                             &&
                                 + item.url
-                                < InfoItem 
+                                < InfoUrl 
                                     @ label 'link'
-                                    @ text {''}
-                                    span
-                                        @ className "web-link"
-                                        a {item.url}
-                                            href {item.url}
-                                            target _blank
-                                            rel noopener noreferrer 
+                                    @ url {item.url}
 
                 < ContentText
                     @ item {item}
@@ -373,3 +350,18 @@ $group
                 span {text}
                     @ className 'info-item-text'
 
+    function InfoUrl
+        param props
+        var {label, url} = props
+        return 
+            div
+                @ className 'info-item-box'
+                span {label}
+                    @ className 'info-item-label'
+                span &nbsp; : &nbsp;
+                span
+                    @ className 'info-item-url'
+                    a {url}
+                        href {url}
+                        target _blank
+                        rel noopener noreferrer 

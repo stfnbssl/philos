@@ -350,6 +350,63 @@
                             "wzTag": "url",
                             "wzName": "http://www.nilalienum.it/Sezioni/Freud/Materiali%20bibliografici/LP/Metapsicologia.html",
                             "items": []
+                        },
+                        {
+                            "wzElement": "textabstract",
+                            "wzTag": "abstract",
+                            "wzName": "",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "[Metapsicologia è] termine coniato da Freud per designare la psicologia da lui fondata, considerata nella sua dimensione più teorica. La metapsicologia elabora un complesso di modelli concettuali più o meno distanti dall'esperienza come la finzione di un apparato psichico diviso in istanze, la teoria delle pulsioni, il processo della rimozione, ecc.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "La metapsicologia prende in considerazione tre punti di vista: dinamico, topico ed economico.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Il termine «metapsicologia» si incontra saltuariamente nelle lettere di Freud indirizzate a Fliess. Esso è utilizzato da Freud per definire l'originalità del suo tentativo di edificare una psicologia",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "quote",
+                                    "wzTag": "quote",
+                                    "wzName": "",
+                                    "items": [
+                                        {
+                                            "wzElement": "text",
+                                            "wzTag": "+",
+                                            "wzName": "[..] che conduce dietro la coscienza",
+                                            "items": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "rispetto alle psicologie classiche della coscienza. Al lettore non sfuggirà l'analogia tra i termini di metapsicologia e di metafisica, analogia che probabilmente è intenzionale da parte di Freud, giacché egli stesso ci ha detto quanto fosse intensa la sua vocazione filosofica:",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "quote",
+                                    "wzTag": "quote",
+                                    "wzName": "",
+                                    "items": [
+                                        {
+                                            "wzElement": "text",
+                                            "wzTag": "+",
+                                            "wzName": "Spero che mi darai udienza anche per talune questioni metapsicologiche [...]. Quando ero giovane non ero animato da altro desiderio che non fosse quello della conoscenza filosofica, e ora, nel mio passaggio dalla medicina alla psicologia, quel desiderio si sta avverando.",
+                                            "items": []
+                                        }
+                                    ]
+                                }
+                            ]
                         }
                     ]
                 }

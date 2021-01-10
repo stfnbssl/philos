@@ -1,0 +1,5 @@
+$group
+
+    author ferrante
+        fullname Maria Antonia Ferrante
+        avatar ./assets/img/authors/No_image_available.svg

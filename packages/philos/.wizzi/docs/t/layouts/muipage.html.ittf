@@ -47,6 +47,7 @@ html
                   @ createGenerateClassName
                   @ createMuiTheme
                   @ createStyles
+                  @ fade
                   @ makeStyles
                   @ jssPreset
                   @ MuiThemeProvider

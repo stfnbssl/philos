@@ -74,6 +74,7 @@
             createGenerateClassName, 
             createMuiTheme, 
             createStyles, 
+            fade, 
             makeStyles, 
             jssPreset, 
             MuiThemeProvider, 
@@ -461,20 +462,125 @@
         class AuthorList extends React.Component {
             state = {
                 status: 'list', 
-                selectedItem: null
+                selectedItem: null, 
+                scrollTop: 0, 
+                scrollingElement: null, 
+                justRenderedList: false, 
+                justRenderedItem: false, 
+                forms: [
+                    
+                ], 
+                current: {
+                    status: 'list', 
+                    selectedItem: null, 
+                    scrollTop: 0, 
+                    scrollingElement: null, 
+                    justRenderedList: false, 
+                    depth: 0, 
+                    title: 'Autori'
+                }
             };
-            handleAuthorOpen = (ev, authorItem) => {
-                console.log('handleAuthorOpen.id', authorItem.id);
-                console.log('handleAuthorOpen.ev', ev);
-                this.setState({
-                    status: 'author', 
-                    selectedItem: authorItem
-                });
+            componentDidMount() {
+                window.addEventListener('scroll', this.handlePaperScroll);
+                this.props.onChangeCurrent(this.state.current, this.handleAuthorClose, this.handleChangeSearch);
+            }
+            componentWillUnmount() {
+                window.removeEventListener('scroll', this.handlePaperScroll);
+            }
+            componentDidUpdate(prevProps, prevState) {
+                if (this.state.current.justRenderedList) {
+                    if (this.state.current.scrollingElement) {
+                        this.state.current.scrollingElement.scrollTo(0, this.state.current.scrollTop);
+                        this.setState((prevState) => {
+                            return {
+                                    ...prevState, 
+                                    current: {
+                                        ...prevState.current, 
+                                        justRenderedList: false
+                                    }
+                                };
+                        });
+                    }
+                }
+                if (this.state.current.justRenderedItem) {
+                    if (this.state.current.scrollingElement) {
+                        this.state.current.scrollingElement.scrollTo(0, 0);
+                        this.setState((prevState) => {
+                            return {
+                                    ...prevState, 
+                                    current: {
+                                        ...prevState.current, 
+                                        justRenderedItem: false
+                                    }
+                                };
+                        });
+                    }
+                }
+            }
+            handlePaperScroll = (ev) => {
+                if (this.state.current.status == 'list') {
+                    if (ev.target.scrollingElement) {
+                        this.setState((prevState) => {
+                            return {
+                                    ...prevState, 
+                                    current: {
+                                        ...prevState.current, 
+                                        scrollTop: event.target.scrollingElement.scrollTop, 
+                                        scrollingElement: event.target.scrollingElement
+                                    }
+                                };
+                        });
+                    }
+                }
             }
             handleAuthorClose = () => {
-                this.setState({
-                    status: 'list', 
-                    selectedItem: null
+                this.setState((prevState) => {
+                    var current = prevState.forms.pop();
+                    if (current.status == 'list') {
+                        current.justRenderedList = true;
+                        current.depth = prevState.forms.length;
+                        current.title = 'Autori';
+                        current.selectedItem = null;
+                    }
+                    this.props.onChangeCurrent(current, this.handleAuthorClose, this.handleChangeSearch);
+                    return {
+                            ...prevState, 
+                            current: current
+                        };
+                });
+            }
+            handleChangeSearch = (ev) => {
+                var search = ev.target.value;
+                this.setState((prevState) => {
+                    return {
+                            ...prevState, 
+                            current: {
+                                ...prevState.current, 
+                                searchText: search
+                            }
+                        };
+                });
+            }
+            handleAuthorOpen = (ev, selectedItem) => {
+                // log 'handleAuthorOpen.id', selectedItem.id
+                // log 'handleAuthorOpen.ev', ev
+                this.setState((prevState) => {
+                    console.log('handleAuthorOpen');
+                    prevState.forms.push(prevState.current);
+                    var current = {
+                        ...prevState.current, 
+                        status: 'author', 
+                        selectedItem: selectedItem, 
+                        depth: prevState.forms.length, 
+                        title: (selectedItem.title && selectedItem.title.text) || selectedItem.id, 
+                        justRenderedItem: true
+                    };
+                    this.props.onChangeCurrent(current, this.handleAuthorClose, this.handleChangeSearch);
+                    console.log('onChangeCurrent called');
+                    return {
+                            ...prevState, 
+                            current: current
+                        };
                 });
             }
             render() {
@@ -484,25 +590,24 @@
                 } = this.props;
                 const {
                     status, 
-                    selectedItem
-                } = this.state;
+                    selectedItem, 
+                    searchText
+                } = this.state.current;
                 return  (
                         <div>
                             <Paper style={{maxHeight: '90%', maxWidth:800, padding:10, overflow: 'auto'}}>
                             {
                                 status == 'list' &&  (
                                     <div>
-                                        <h2>
-                                        Autori
-                                        </h2>
-                                    
                                     {
                                         jsonData.authors.sort(compareById).map((item) => {
-                                            return  (
-                                                    <AuthorListItem key={item.id} item={item} classes={classes} onClick={this.handleAuthorOpen}>
-                                                    </AuthorListItem>
-                                                )
-                                            ;
+                                            if ((!searchText || searchText.length == 0) || item.id.indexOf(searchText) > -1) {
+                                                return  (
+                                                        <AuthorListItem key={item.id} item={item} classes={classes} onClick={this.handleAuthorOpen}>
+                                                        </AuthorListItem>
+                                                    )
+                                                ;
+                                            }
                                         })
                                     }</div>
                                 )
@@ -510,10 +615,6 @@
                             }{
                                 status == 'author' &&  (
                                     <div>
-                                        <DetailBar title={selectedItem.fullname} id={selectedItem.id} showFullBar={true} onClick={() =>
-                                            this.handleAuthorClose()}>
-                                        </DetailBar>
-                                    
                                         <Author item={selectedItem} jsonData={jsonData}>
                                         </Author>
                                     
@@ -663,9 +764,29 @@
                     title: 'Testi'
                 }
             };
+            state = {
+                status: 'list', 
+                selectedItem: null, 
+                scrollTop: 0, 
+                scrollingElement: null, 
+                justRenderedList: false, 
+                justRenderedItem: false, 
+                forms: [
+                    
+                ], 
+                current: {
+                    status: 'list', 
+                    selectedItem: null, 
+                    scrollTop: 0, 
+                    scrollingElement: null, 
+                    justRenderedList: false, 
+                    depth: 0, 
+                    title: 'Testi'
+                }
+            };
             componentDidMount() {
                 window.addEventListener('scroll', this.handlePaperScroll);
-                this.props.onChangeCurrent(this.state.current, this.handleConceptClose);
+                this.props.onChangeCurrent(this.state.current, this.handlePubblicationsClose, this.handleChangeSearch);
             }
             componentWillUnmount() {
                 window.removeEventListener('scroll', this.handlePaperScroll);
@@ -716,6 +837,34 @@
                     }
                 }
             }
+            handlePubblicationsClose = () => {
+                this.setState((prevState) => {
+                    var current = prevState.forms.pop();
+                    if (current.status == 'list') {
+                        current.justRenderedList = true;
+                        current.depth = prevState.forms.length;
+                        current.title = 'Testi';
+                        current.selectedItem = null;
+                    }
+                    this.props.onChangeCurrent(current, this.handlePubblicationsClose, this.handleChangeSearch);
+                    return {
+                            ...prevState, 
+                            current: current
+                        };
+                });
+            }
+            handleChangeSearch = (ev) => {
+                var search = ev.target.value;
+                this.setState((prevState) => {
+                    return {
+                            ...prevState, 
+                            current: {
+                                ...prevState.current, 
+                                searchText: search
+                            }
+                        };
+                });
+            }
             handleOpen = (status, item) => {
                 this.setState((prevState) => {
                     prevState.forms.push(prevState.current);
@@ -727,23 +876,7 @@
                         title: (item.title && item.title.text) || item.id, 
                         justRenderedItem: true
                     };
-                    this.props.onChangeCurrent(current, this.handleArticleClose);
-                    return {
-                            ...prevState, 
-                            current: current
-                        };
-                });
-            }
-            handleClose = () => {
-                this.setState((prevState) => {
-                    var current = prevState.forms.pop();
-                    if (current.status == 'list') {
-                        current.justRenderedList = true;
-                        current.depth = prevState.forms.length;
-                        current.title = 'Testi';
-                        current.selectedItem = null;
-                    }
-                    this.props.onChangeCurrent(current, this.handleConceptClose);
+                    this.props.onChangeCurrent(current, this.handlePubblicationsClose, this.handleChangeSearch);
                     return {
                             ...prevState, 
                             current: current
@@ -751,44 +884,10 @@
                 });
             }
             handleArticleOpen = (ev, articleItem) => {
-                this.setState((prevState) => {
-                    prevState.forms.push(prevState.current);
-                    var current = {
-                        ...prevState.current, 
-                        status: 'article', 
-                        selectedItem: articleItem, 
-                        depth: prevState.forms.length, 
-                        title: (articleItem.title && articleItem.title.text) || articleItem.id, 
-                        justRenderedItem: true
-                    };
-                    this.props.onChangeCurrent(current, this.handleArticleClose);
-                    return {
-                            ...prevState, 
-                            current: current
-                        };
-                });
-            }
-            handleArticleClose = () => {
-                this.setState((prevState) => {
-                    var current = prevState.forms.pop();
-                    if (current.status == 'list') {
-                        current.justRenderedList = true;
-                        current.depth = prevState.forms.length;
-                        current.title = 'Testi';
-                        current.selectedItem = null;
-                    }
-                    this.props.onChangeCurrent(current, this.handleConceptClose);
-                    return {
-                            ...prevState, 
-                            current: current
-                        };
-                });
+                this.handleOpen('article', articleItem);
             }
             handleBookOpen = (ev, bookItem) => {
                 this.handleOpen('book', bookItem);
-            }
-            handleBookClose = () => {
-                this.handleClose('list', null);
             }
             render() {
                 const {
@@ -796,7 +895,8 @@
                 } = this.props;
                 const {
                     status, 
-                    selectedItem
+                    selectedItem, 
+                    searchText
                 } = this.state.current;
                 var titleText = selectedItem ? dbExtractTitleText(selectedItem.title) || name : '';
                 return  (
@@ -811,14 +911,16 @@
                                     
                                     {
                                         jsonData.articles.sort(compareByDatePub).map((item) => {
-                                            return  (
-                                                    <div key={item.id}>
-                                                        <ArticleListItem item={item} onClick={this.handleArticleOpen}>
-                                                        </ArticleListItem>
-                                                    
-                                                    </div>
-                                                )
-                                            ;
+                                            if ((!searchText || searchText.length == 0) || item.id.indexOf(searchText) > -1) {
+                                                return  (
+                                                        <div key={item.id}>
+                                                            <ArticleListItem item={item} onClick={this.handleArticleOpen}>
+                                                            </ArticleListItem>
+                                                        
+                                                        </div>
+                                                    )
+                                                ;
+                                            }
                                         })
                                     }<h2>
                                         Libri
@@ -826,14 +928,16 @@
                                     
                                     {
                                         jsonData.books.sort(compareByDatePub).map((item) => {
-                                            return  (
-                                                    <div key={item.id}>
-                                                        <BookListItem item={item} onClick={this.handleBookOpen}>
-                                                        </BookListItem>
-                                                    
-                                                    </div>
-                                                )
-                                            ;
+                                            if ((!searchText || searchText.length == 0) || item.id.indexOf(searchText) > -1) {
+                                                return  (
+                                                        <div key={item.id}>
+                                                            <BookListItem item={item} onClick={this.handleBookOpen}>
+                                                            </BookListItem>
+                                                        
+                                                        </div>
+                                                    )
+                                                ;
+                                            }
                                         })
                                     }</Paper>
                                 
@@ -922,15 +1026,8 @@
                                 
                             }{
                                 item.url &&  (
-                                    <InfoItem label='link' text={''}>
-                                        <span className="web-link">
-                                            <a href={item.url} target="_blank" rel="noopener noreferrer">
-                                            {item.url}
-                                            </a>
-                                        
-                                        </span>
-                                    
-                                    </InfoItem>
+                                    <InfoUrl label='link' url={item.url}>
+                                    </InfoUrl>
                                 )
                                 
                             }</Paper>
@@ -1039,15 +1136,8 @@
                                 
                             }{
                                 item.url &&  (
-                                    <InfoItem label='link' text={''}>
-                                        <span className="web-link">
-                                            <a href={item.url} target="_blank" rel="noopener noreferrer">
-                                            {item.url}
-                                            </a>
-                                        
-                                        </span>
-                                    
-                                    </InfoItem>
+                                    <InfoUrl label='link' url={item.url}>
+                                    </InfoUrl>
                                 )
                                 
                             }</Paper>
@@ -1094,6 +1184,29 @@
                     
                         <span className='info-item-text'>
                         {text}
+                        </span>
+                    
+                    </div>
+                )
+            ;
+        }
+        function InfoUrl(props) {
+            var {label, url} = props;
+            return  (
+                    <div className='info-item-box'>
+                        <span className='info-item-label'>
+                        {label}
+                        </span>
+                    
+                        <span>
+                        &nbsp; : &nbsp;
+                        </span>
+                    
+                        <span className='info-item-url'>
+                            <a href={url} target="_blank" rel="noopener noreferrer">
+                            {url}
+                            </a>
+                        
                         </span>
                     
                     </div>

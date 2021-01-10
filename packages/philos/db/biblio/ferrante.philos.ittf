@@ -1,0 +1,13 @@
+$group
+
+    namespace ferrante
+        author Ferrante
+
+        article seminario-su-epistolario-freudiano
+            title Seminario su Epistolario freudiano
+            url http://www.psychomedia.it/neuro-snp/09-10/ferrante.htm
+            abstract
+                + Testo di relazione del seminario "Epistolario freudiano" della serie
+                    \b Seminari di Neuropsichiatria, Psicoterapia e Gruppo Analisi sul sito http://www.psychomedia.it.
+                + Dr.ssa M. A. Ferrante, Coordinatore Dr. S. Zipparri,
+                    \b testo di relazione fornito dal relatore, elaborazione testi dialogo a cura Dr.ssa Antonella Giordani.

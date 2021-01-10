@@ -1,8 +1,26 @@
 $group
+    $params entity,entityListTitle
+
+    state
+        @ status 'list'
+        @ selectedItem null
+        @ scrollTop 0
+        @ scrollingElement null
+        @ justRenderedList false
+        @ justRenderedItem false
+        [ forms
+        { current
+            @ status 'list'
+            @ selectedItem null
+            @ scrollTop 0
+            @ scrollingElement null
+            @ justRenderedList false
+            @ depth 0
+            @ title '${entityListTitle}'
 
     did-mount
         _ window.addEventListener('scroll', this.handlePaperScroll)
-        _ this.props.onChangeCurrent(this.state.current, this.handleConceptClose)
+        _ this.props.onChangeCurrent(this.state.current, this.handle${entity}Close, this.handleChangeSearch)
 
     will-unmount
         _ window.removeEventListener('scroll', this.handlePaperScroll)
@@ -49,5 +67,32 @@ $group
                                     @ scrollTop event.target.scrollingElement.scrollTop
                                     @ scrollingElement event.target.scrollingElement
 
-
-
+    
+    => handle${entity}Close
+        _ this.setState
+            =>
+                param prevState
+                var current = prevState.forms.pop()
+                if current.status == 'list'
+                    set current.justRenderedList = true
+                    set current.depth = prevState.forms.length
+                    set current.title = '${entityListTitle}'
+                    set current.selectedItem = null
+                _ this.props.onChangeCurrent(current, this.handle${entity}Close, this.handleChangeSearch)
+                return
+                    {
+                        @ ...prevState
+                        @ current current
+    
+    => handleChangeSearch
+        param ev
+        var search = ev.target.value
+        _ this.setState
+            =>
+                param prevState
+                return
+                    {
+                        @ ...prevState
+                        { current
+                            @ ...prevState.current
+                            @ searchText search

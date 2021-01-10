@@ -2,34 +2,45 @@ $group
 
     react AuthorList
         
-        state
-            @ status 'list'
-            @ selectedItem null
+        list-functions(Author, Autori)
 
         => handleAuthorOpen
             param ev
-            param authorItem
-            log 'handleAuthorOpen.id', authorItem.id
-            log 'handleAuthorOpen.ev', ev
+            param selectedItem
+            # log 'handleAuthorOpen.id', selectedItem.id
+            # log 'handleAuthorOpen.ev', ev
             _ this.setState
-                { 
-                    @ status 'author'
-                    @ selectedItem authorItem
+                =>
+                    param prevState
+                    log 'handleAuthorOpen'
+                    _ prevState.forms.push
+                        @ prevState.current
+                    var current
+                        {
+                            @ ...prevState.current
+                            @ status 'author'
+                            @ selectedItem selectedItem
+                            @ depth prevState.forms.length
+                            @ title (selectedItem.title && selectedItem.title.text) || selectedItem.id
+                            @ justRenderedItem true
+                    _ this.props.onChangeCurrent(current, this.handleAuthorClose, this.handleChangeSearch)
+                    log 'onChangeCurrent called'
+                    return
+                        {
+                            @ ...prevState
+                            @ current current
 
-        => handleAuthorClose
-            _ this.setState
-                { 
-                    @ status 'list'
-                    @ selectedItem null
 
         render
             prop classes
             prop jsonData
+
             const 
                 { 
                     @ status
                     @ selectedItem
-                = this.state
+                    @ searchText
+                = this.state.current
 
             return
                 div
@@ -39,29 +50,22 @@ $group
                             &&
                                 + status == 'list'
                                 div
-                                    < h2 Autori
                                     {
                                         _ jsonData.authors.sort(compareById).map
                                             =>
                                                 param item
-                                                return
-                                                    < AuthorListItem
-                                                        @ key {item.id}
-                                                        @ item {item}
-                                                        @ classes {classes}
-                                                        @ onClick {this.handleAuthorOpen}
+                                                if (!searchText || searchText.length == 0) || item.id.indexOf(searchText) > -1
+                                                    return
+                                                        < AuthorListItem
+                                                            @ key {item.id}
+                                                            @ item {item}
+                                                            @ classes {classes}
+                                                            @ onClick {this.handleAuthorOpen}
 
                         {
                             &&
                                 + status == 'author'
                                 div
-                                    < DetailBar
-                                        @ title {selectedItem.fullname}
-                                        @ id {selectedItem.id}
-                                        @ showFullBar {true}
-                                        @ onClick
-                                            =>
-                                                _ this.handleAuthorClose()
                                     < Author
                                         @ item {selectedItem}
                                         @ jsonData {jsonData}

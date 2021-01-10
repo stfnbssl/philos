@@ -2,81 +2,12 @@ $group
 
     react ConceptList
         
-        state
-            @ status 'list'
-            @ selectedItem null
-            @ scrollTop 0
-            @ scrollingElement null
-            @ justRenderedList false
-            @ justRenderedItem false
-            [ forms
-            { current
-                @ status 'list'
-                @ selectedItem null
-                @ scrollTop 0
-                @ scrollingElement null
-                @ justRenderedList false
-                @ depth 0
-                @ title 'Concetti'
-
-        $include list-functions
-
-        $*
-        did-mount
-            _ window.addEventListener('scroll', this.handlePaperScroll)  
-            _ this.props.onChangeCurrent(this.state.current, this.handleConceptClose);
-
-        did-update
-            if this.state.current.justRenderedList
-                if this.state.current.scrollingElement
-                    _ this.state.current.scrollingElement.scrollTo(0, this.state.current.scrollTop)
-                    _ this.setState
-                        =>
-                            param prevState
-                            return
-                                {
-                                    @ ...prevState
-                                    { current
-                                        @ ...prevState.current
-                                        @ justRenderedList false
-            
-            if this.state.current.justRenderedItem
-                if this.state.current.scrollingElement
-                    _ this.state.current.scrollingElement.scrollTo(0, 0)
-                    _ this.setState
-                        =>
-                            param prevState
-                            return
-                                {
-                                    @ ...prevState
-                                    { current
-                                        @ ...prevState.current
-                                        @ justRenderedItem false
-
-        will-unmount
-            _ window.removeEventListener('scroll', this.handlePaperScroll)  
-
-        => handlePaperScroll
-            param ev
-            if this.state.current.status == 'list'
-                if ev.target.scrollingElement
-                    _ this.setState
-                        =>
-                            param prevState
-                            return
-                                {
-                                    @ ...prevState
-                                    { current
-                                        @ ...prevState.current
-                                        @ scrollTop event.target.scrollingElement.scrollTop
-                                        @ scrollingElement event.target.scrollingElement
-
-        *$
+        list-functions(Concept, Concetti)
         
         => handleConceptOpen
             param ev
-            param conceptItem
-            # log 'handleConceptOpen.id', conceptItem.id
+            param selectedItem
+            # log 'handleConceptOpen.id', selectedItem.id
             # log 'handleConceptOpen.ev', ev
             _ this.setState
                 =>
@@ -88,32 +19,17 @@ $group
                         {
                             @ ...prevState.current
                             @ status 'concept'
-                            @ selectedItem conceptItem
+                            @ selectedItem selectedItem
                             @ depth prevState.forms.length
-                            @ title (conceptItem.title && conceptItem.title.text) || conceptItem.id
+                            @ title (selectedItem.title && selectedItem.title.text) || selectedItem.id
                             @ justRenderedItem true
-                    _ this.props.onChangeCurrent(current, this.handleConceptClose)
+                    _ this.props.onChangeCurrent(current, this.handleConceptClose, this.handleChangeSearch)
                     log 'onChangeCurrent called'
                     return
                         {
                             @ ...prevState
                             @ current current
 
-        => handleConceptClose
-            _ this.setState
-                =>
-                    param prevState
-                    var current = prevState.forms.pop()
-                    if current.status == 'list'
-                        set current.justRenderedList = true
-                        set current.depth = prevState.forms.length
-                        set current.title = 'Concetti'
-                    _ this.props.onChangeCurrent(current, this.handleConceptClose)
-                    return
-                        {
-                            @ ...prevState
-                            @ current current
-            
         render
             prop jsonData
             prop onChangeCurrent
@@ -121,9 +37,10 @@ $group
                 { 
                     @ status
                     @ selectedItem
+                    @ searchText
                 = this.state.current
 
-            log 'ConceptList: status,selectedItem', status, selectedItem
+            log 'ConceptList: status,selectedItem,searchText', status, selectedItem, searchText
 
             return
                 div
@@ -138,11 +55,12 @@ $group
                                         _ jsonData.concepts.sort(compareById).map
                                             =>
                                                 param item
-                                                return
-                                                    < ConceptListItem
-                                                        @ key {item.id}
-                                                        @ item {item}
-                                                        @ onClick {this.handleConceptOpen}
+                                                if (!searchText || searchText.length == 0) || item.id.indexOf(searchText) > -1
+                                                    return
+                                                        < ConceptListItem
+                                                            @ key {item.id}
+                                                            @ item {item}
+                                                            @ onClick {this.handleConceptOpen}
 
                         {
                             &&

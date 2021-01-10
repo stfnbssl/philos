@@ -355,6 +355,7 @@
             createGenerateClassName, 
             createMuiTheme, 
             createStyles, 
+            fade, 
             makeStyles, 
             jssPreset, 
             MuiThemeProvider, 
@@ -469,6 +470,9 @@
             Zoom
         } = MaterialUI;
         const drawerWidth = 240;
+        function isMobile() {
+            return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+        }
         const theme = createMuiTheme({
             palette: {
                 primary: {
@@ -939,7 +943,7 @@
             };
             componentDidMount() {
                 window.addEventListener('scroll', this.handlePaperScroll);
-                this.props.onChangeCurrent(this.state.current, this.handleConceptClose);
+                this.props.onChangeCurrent(this.state.current, this.handleConceptClose, this.handleChangeSearch);
             }
             componentWillUnmount() {
                 window.removeEventListener('scroll', this.handlePaperScroll);
@@ -990,28 +994,6 @@
                     }
                 }
             }
-            handleConceptOpen = (ev, conceptItem) => {
-                // log 'handleConceptOpen.id', conceptItem.id
-                // log 'handleConceptOpen.ev', ev
-                this.setState((prevState) => {
-                    console.log('handleConceptOpen');
-                    prevState.forms.push(prevState.current);
-                    var current = {
-                        ...prevState.current, 
-                        status: 'concept', 
-                        selectedItem: conceptItem, 
-                        depth: prevState.forms.length, 
-                        title: (conceptItem.title && conceptItem.title.text) || conceptItem.id, 
-                        justRenderedItem: true
-                    };
-                    this.props.onChangeCurrent(current, this.handleConceptClose);
-                    console.log('onChangeCurrent called');
-                    return {
-                            ...prevState, 
-                            current: current
-                        };
-                });
-            }
             handleConceptClose = () => {
                 this.setState((prevState) => {
                     var current = prevState.forms.pop();
@@ -1019,8 +1001,43 @@
                         current.justRenderedList = true;
                         current.depth = prevState.forms.length;
                         current.title = 'Concetti';
+                        current.selectedItem = null;
                     }
-                    this.props.onChangeCurrent(current, this.handleConceptClose);
+                    this.props.onChangeCurrent(current, this.handleConceptClose, this.handleChangeSearch);
+                    return {
+                            ...prevState, 
+                            current: current
+                        };
+                });
+            }
+            handleChangeSearch = (ev) => {
+                var search = ev.target.value;
+                this.setState((prevState) => {
+                    return {
+                            ...prevState, 
+                            current: {
+                                ...prevState.current, 
+                                searchText: search
+                            }
+                        };
+                });
+            }
+            handleConceptOpen = (ev, selectedItem) => {
+                // log 'handleConceptOpen.id', selectedItem.id
+                // log 'handleConceptOpen.ev', ev
+                this.setState((prevState) => {
+                    console.log('handleConceptOpen');
+                    prevState.forms.push(prevState.current);
+                    var current = {
+                        ...prevState.current, 
+                        status: 'concept', 
+                        selectedItem: selectedItem, 
+                        depth: prevState.forms.length, 
+                        title: (selectedItem.title && selectedItem.title.text) || selectedItem.id, 
+                        justRenderedItem: true
+                    };
+                    this.props.onChangeCurrent(current, this.handleConceptClose, this.handleChangeSearch);
+                    console.log('onChangeCurrent called');
                     return {
                             ...prevState, 
                             current: current
@@ -1034,9 +1051,10 @@
                 } = this.props;
                 const {
                     status, 
-                    selectedItem
+                    selectedItem, 
+                    searchText
                 } = this.state.current;
-                console.log('ConceptList: status,selectedItem', status, selectedItem);
+                console.log('ConceptList: status,selectedItem,searchText', status, selectedItem, searchText);
                 return  (
                         <div>
                             <Paper className="paper">
@@ -1045,11 +1063,13 @@
                                     <div>
                                     {
                                         jsonData.concepts.sort(compareById).map((item) => {
-                                            return  (
-                                                    <ConceptListItem key={item.id} item={item} onClick={this.handleConceptOpen}>
-                                                    </ConceptListItem>
-                                                )
-                                            ;
+                                            if ((!searchText || searchText.length == 0) || item.id.indexOf(searchText) > -1) {
+                                                return  (
+                                                        <ConceptListItem key={item.id} item={item} onClick={this.handleConceptOpen}>
+                                                        </ConceptListItem>
+                                                    )
+                                                ;
+                                            }
                                         })
                                     }</div>
                                 )
@@ -1145,20 +1165,125 @@
         class AuthorList extends React.Component {
             state = {
                 status: 'list', 
-                selectedItem: null
+                selectedItem: null, 
+                scrollTop: 0, 
+                scrollingElement: null, 
+                justRenderedList: false, 
+                justRenderedItem: false, 
+                forms: [
+                    
+                ], 
+                current: {
+                    status: 'list', 
+                    selectedItem: null, 
+                    scrollTop: 0, 
+                    scrollingElement: null, 
+                    justRenderedList: false, 
+                    depth: 0, 
+                    title: 'Autori'
+                }
             };
-            handleAuthorOpen = (ev, authorItem) => {
-                console.log('handleAuthorOpen.id', authorItem.id);
-                console.log('handleAuthorOpen.ev', ev);
-                this.setState({
-                    status: 'author', 
-                    selectedItem: authorItem
-                });
+            componentDidMount() {
+                window.addEventListener('scroll', this.handlePaperScroll);
+                this.props.onChangeCurrent(this.state.current, this.handleAuthorClose, this.handleChangeSearch);
+            }
+            componentWillUnmount() {
+                window.removeEventListener('scroll', this.handlePaperScroll);
+            }
+            componentDidUpdate(prevProps, prevState) {
+                if (this.state.current.justRenderedList) {
+                    if (this.state.current.scrollingElement) {
+                        this.state.current.scrollingElement.scrollTo(0, this.state.current.scrollTop);
+                        this.setState((prevState) => {
+                            return {
+                                    ...prevState, 
+                                    current: {
+                                        ...prevState.current, 
+                                        justRenderedList: false
+                                    }
+                                };
+                        });
+                    }
+                }
+                if (this.state.current.justRenderedItem) {
+                    if (this.state.current.scrollingElement) {
+                        this.state.current.scrollingElement.scrollTo(0, 0);
+                        this.setState((prevState) => {
+                            return {
+                                    ...prevState, 
+                                    current: {
+                                        ...prevState.current, 
+                                        justRenderedItem: false
+                                    }
+                                };
+                        });
+                    }
+                }
+            }
+            handlePaperScroll = (ev) => {
+                if (this.state.current.status == 'list') {
+                    if (ev.target.scrollingElement) {
+                        this.setState((prevState) => {
+                            return {
+                                    ...prevState, 
+                                    current: {
+                                        ...prevState.current, 
+                                        scrollTop: event.target.scrollingElement.scrollTop, 
+                                        scrollingElement: event.target.scrollingElement
+                                    }
+                                };
+                        });
+                    }
+                }
             }
             handleAuthorClose = () => {
-                this.setState({
-                    status: 'list', 
-                    selectedItem: null
+                this.setState((prevState) => {
+                    var current = prevState.forms.pop();
+                    if (current.status == 'list') {
+                        current.justRenderedList = true;
+                        current.depth = prevState.forms.length;
+                        current.title = 'Autori';
+                        current.selectedItem = null;
+                    }
+                    this.props.onChangeCurrent(current, this.handleAuthorClose, this.handleChangeSearch);
+                    return {
+                            ...prevState, 
+                            current: current
+                        };
+                });
+            }
+            handleChangeSearch = (ev) => {
+                var search = ev.target.value;
+                this.setState((prevState) => {
+                    return {
+                            ...prevState, 
+                            current: {
+                                ...prevState.current, 
+                                searchText: search
+                            }
+                        };
+                });
+            }
+            handleAuthorOpen = (ev, selectedItem) => {
+                // log 'handleAuthorOpen.id', selectedItem.id
+                // log 'handleAuthorOpen.ev', ev
+                this.setState((prevState) => {
+                    console.log('handleAuthorOpen');
+                    prevState.forms.push(prevState.current);
+                    var current = {
+                        ...prevState.current, 
+                        status: 'author', 
+                        selectedItem: selectedItem, 
+                        depth: prevState.forms.length, 
+                        title: (selectedItem.title && selectedItem.title.text) || selectedItem.id, 
+                        justRenderedItem: true
+                    };
+                    this.props.onChangeCurrent(current, this.handleAuthorClose, this.handleChangeSearch);
+                    console.log('onChangeCurrent called');
+                    return {
+                            ...prevState, 
+                            current: current
+                        };
                 });
             }
             render() {
@@ -1168,25 +1293,24 @@
                 } = this.props;
                 const {
                     status, 
-                    selectedItem
-                } = this.state;
+                    selectedItem, 
+                    searchText
+                } = this.state.current;
                 return  (
                         <div>
                             <Paper style={{maxHeight: '90%', maxWidth:800, padding:10, overflow: 'auto'}}>
                             {
                                 status == 'list' &&  (
                                     <div>
-                                        <h2>
-                                        Autori
-                                        </h2>
-                                    
                                     {
                                         jsonData.authors.sort(compareById).map((item) => {
-                                            return  (
-                                                    <AuthorListItem key={item.id} item={item} classes={classes} onClick={this.handleAuthorOpen}>
-                                                    </AuthorListItem>
-                                                )
-                                            ;
+                                            if ((!searchText || searchText.length == 0) || item.id.indexOf(searchText) > -1) {
+                                                return  (
+                                                        <AuthorListItem key={item.id} item={item} classes={classes} onClick={this.handleAuthorOpen}>
+                                                        </AuthorListItem>
+                                                    )
+                                                ;
+                                            }
                                         })
                                     }</div>
                                 )
@@ -1194,10 +1318,6 @@
                             }{
                                 status == 'author' &&  (
                                     <div>
-                                        <DetailBar title={selectedItem.fullname} id={selectedItem.id} showFullBar={true} onClick={() =>
-                                            this.handleAuthorClose()}>
-                                        </DetailBar>
-                                    
                                         <Author item={selectedItem} jsonData={jsonData}>
                                         </Author>
                                     
@@ -1449,9 +1569,29 @@
                     title: 'Testi'
                 }
             };
+            state = {
+                status: 'list', 
+                selectedItem: null, 
+                scrollTop: 0, 
+                scrollingElement: null, 
+                justRenderedList: false, 
+                justRenderedItem: false, 
+                forms: [
+                    
+                ], 
+                current: {
+                    status: 'list', 
+                    selectedItem: null, 
+                    scrollTop: 0, 
+                    scrollingElement: null, 
+                    justRenderedList: false, 
+                    depth: 0, 
+                    title: 'Testi'
+                }
+            };
             componentDidMount() {
                 window.addEventListener('scroll', this.handlePaperScroll);
-                this.props.onChangeCurrent(this.state.current, this.handleConceptClose);
+                this.props.onChangeCurrent(this.state.current, this.handlePubblicationsClose, this.handleChangeSearch);
             }
             componentWillUnmount() {
                 window.removeEventListener('scroll', this.handlePaperScroll);
@@ -1502,6 +1642,34 @@
                     }
                 }
             }
+            handlePubblicationsClose = () => {
+                this.setState((prevState) => {
+                    var current = prevState.forms.pop();
+                    if (current.status == 'list') {
+                        current.justRenderedList = true;
+                        current.depth = prevState.forms.length;
+                        current.title = 'Testi';
+                        current.selectedItem = null;
+                    }
+                    this.props.onChangeCurrent(current, this.handlePubblicationsClose, this.handleChangeSearch);
+                    return {
+                            ...prevState, 
+                            current: current
+                        };
+                });
+            }
+            handleChangeSearch = (ev) => {
+                var search = ev.target.value;
+                this.setState((prevState) => {
+                    return {
+                            ...prevState, 
+                            current: {
+                                ...prevState.current, 
+                                searchText: search
+                            }
+                        };
+                });
+            }
             handleOpen = (status, item) => {
                 this.setState((prevState) => {
                     prevState.forms.push(prevState.current);
@@ -1513,23 +1681,7 @@
                         title: (item.title && item.title.text) || item.id, 
                         justRenderedItem: true
                     };
-                    this.props.onChangeCurrent(current, this.handleArticleClose);
-                    return {
-                            ...prevState, 
-                            current: current
-                        };
-                });
-            }
-            handleClose = () => {
-                this.setState((prevState) => {
-                    var current = prevState.forms.pop();
-                    if (current.status == 'list') {
-                        current.justRenderedList = true;
-                        current.depth = prevState.forms.length;
-                        current.title = 'Testi';
-                        current.selectedItem = null;
-                    }
-                    this.props.onChangeCurrent(current, this.handleConceptClose);
+                    this.props.onChangeCurrent(current, this.handlePubblicationsClose, this.handleChangeSearch);
                     return {
                             ...prevState, 
                             current: current
@@ -1537,44 +1689,10 @@
                 });
             }
             handleArticleOpen = (ev, articleItem) => {
-                this.setState((prevState) => {
-                    prevState.forms.push(prevState.current);
-                    var current = {
-                        ...prevState.current, 
-                        status: 'article', 
-                        selectedItem: articleItem, 
-                        depth: prevState.forms.length, 
-                        title: (articleItem.title && articleItem.title.text) || articleItem.id, 
-                        justRenderedItem: true
-                    };
-                    this.props.onChangeCurrent(current, this.handleArticleClose);
-                    return {
-                            ...prevState, 
-                            current: current
-                        };
-                });
-            }
-            handleArticleClose = () => {
-                this.setState((prevState) => {
-                    var current = prevState.forms.pop();
-                    if (current.status == 'list') {
-                        current.justRenderedList = true;
-                        current.depth = prevState.forms.length;
-                        current.title = 'Testi';
-                        current.selectedItem = null;
-                    }
-                    this.props.onChangeCurrent(current, this.handleConceptClose);
-                    return {
-                            ...prevState, 
-                            current: current
-                        };
-                });
+                this.handleOpen('article', articleItem);
             }
             handleBookOpen = (ev, bookItem) => {
                 this.handleOpen('book', bookItem);
-            }
-            handleBookClose = () => {
-                this.handleClose('list', null);
             }
             render() {
                 const {
@@ -1582,7 +1700,8 @@
                 } = this.props;
                 const {
                     status, 
-                    selectedItem
+                    selectedItem, 
+                    searchText
                 } = this.state.current;
                 var titleText = selectedItem ? dbExtractTitleText(selectedItem.title) || name : '';
                 return  (
@@ -1597,14 +1716,16 @@
                                     
                                     {
                                         jsonData.articles.sort(compareByDatePub).map((item) => {
-                                            return  (
-                                                    <div key={item.id}>
-                                                        <ArticleListItem item={item} onClick={this.handleArticleOpen}>
-                                                        </ArticleListItem>
-                                                    
-                                                    </div>
-                                                )
-                                            ;
+                                            if ((!searchText || searchText.length == 0) || item.id.indexOf(searchText) > -1) {
+                                                return  (
+                                                        <div key={item.id}>
+                                                            <ArticleListItem item={item} onClick={this.handleArticleOpen}>
+                                                            </ArticleListItem>
+                                                        
+                                                        </div>
+                                                    )
+                                                ;
+                                            }
                                         })
                                     }<h2>
                                         Libri
@@ -1612,14 +1733,16 @@
                                     
                                     {
                                         jsonData.books.sort(compareByDatePub).map((item) => {
-                                            return  (
-                                                    <div key={item.id}>
-                                                        <BookListItem item={item} onClick={this.handleBookOpen}>
-                                                        </BookListItem>
-                                                    
-                                                    </div>
-                                                )
-                                            ;
+                                            if ((!searchText || searchText.length == 0) || item.id.indexOf(searchText) > -1) {
+                                                return  (
+                                                        <div key={item.id}>
+                                                            <BookListItem item={item} onClick={this.handleBookOpen}>
+                                                            </BookListItem>
+                                                        
+                                                        </div>
+                                                    )
+                                                ;
+                                            }
                                         })
                                     }</Paper>
                                 
@@ -1708,15 +1831,8 @@
                                 
                             }{
                                 item.url &&  (
-                                    <InfoItem label='link' text={''}>
-                                        <span className="web-link">
-                                            <a href={item.url} target="_blank" rel="noopener noreferrer">
-                                            {item.url}
-                                            </a>
-                                        
-                                        </span>
-                                    
-                                    </InfoItem>
+                                    <InfoUrl label='link' url={item.url}>
+                                    </InfoUrl>
                                 )
                                 
                             }</Paper>
@@ -1825,15 +1941,8 @@
                                 
                             }{
                                 item.url &&  (
-                                    <InfoItem label='link' text={''}>
-                                        <span className="web-link">
-                                            <a href={item.url} target="_blank" rel="noopener noreferrer">
-                                            {item.url}
-                                            </a>
-                                        
-                                        </span>
-                                    
-                                    </InfoItem>
+                                    <InfoUrl label='link' url={item.url}>
+                                    </InfoUrl>
                                 )
                                 
                             }</Paper>
@@ -1880,6 +1989,29 @@
                     
                         <span className='info-item-text'>
                         {text}
+                        </span>
+                    
+                    </div>
+                )
+            ;
+        }
+        function InfoUrl(props) {
+            var {label, url} = props;
+            return  (
+                    <div className='info-item-box'>
+                        <span className='info-item-label'>
+                        {label}
+                        </span>
+                    
+                        <span>
+                        &nbsp; : &nbsp;
+                        </span>
+                    
+                        <span className='info-item-url'>
+                            <a href={url} target="_blank" rel="noopener noreferrer">
+                            {url}
+                            </a>
+                        
                         </span>
                     
                     </div>
@@ -1957,6 +2089,45 @@
                 philos: {
                     fontSize: '2em', 
                     fontWeight: '700'
+                }, 
+                search: {
+                    position: 'relative', 
+                    borderRadius: theme.shape.borderRadius, 
+                    backgroundColor: fade(theme.palette.common.white, 0.15), 
+                    '&:hover': {
+                        backgroundColor: fade(theme.palette.common.white, 0.25)
+                    }, 
+                    marginLeft: 0, 
+                    width: '100%', 
+                    [theme.breakpoints.up('sm')]: {
+                        marginLeft: theme.spacing(1), 
+                        width: 'auto'
+                    }
+                }, 
+                searchIcon: {
+                    padding: theme.spacing(0, 2), 
+                    height: '100%', 
+                    position: 'absolute', 
+                    pointerEvents: 'none', 
+                    display: 'flex', 
+                    alignItems: 'center', 
+                    justifyContent: 'center'
+                }, 
+                inputRoot: {
+                    color: 'inherit'
+                }, 
+                inputInput: {
+                    padding: theme.spacing(1, 1, 1, 0), 
+                    paddingLeft: `calc(1em + ${theme.spacing(4)}px)`, 
+                    transition: theme.transitions.create('width'), 
+                    width: '100%', 
+                    [theme.breakpoints.up('sm')]: {
+                        
+                    }, 
+                    width: '12ch', 
+                    '&:focus': {
+                        width: '20ch'
+                    }
                 }
             });
         
@@ -1972,33 +2143,49 @@
                 onArrowBack: null
             };
             handleDrawerOpen = () => {
-                this.setState({
-                    open: true
+                this.setState((prevState) => {
+                    return {
+                            ...prevState, 
+                            open: true
+                        };
                 });
             }
             handleDrawerClose = () => {
-                this.setState({
-                    open: false
+                this.setState((prevState) => {
+                    return {
+                            ...prevState, 
+                            open: false
+                        };
                 });
             }
             handleSelectView = (event, name) => {
-                this.setState({
-                    selectedView: name
+                this.setState((prevState) => {
+                    return {
+                            ...prevState, 
+                            selectedView: name, 
+                            open: false
+                        };
                 });
             }
-            handleChangeCurrent = (current, onArrowBack) => {
+            handleChangeCurrent = (current, onArrowBack, onChangeSearch) => {
                 this.setState((prevState) => {
                     return {
                             ...prevState, 
                             showArrowBack: current.depth > 0, 
                             selectedTitle: current.title, 
-                            onArrowBack: onArrowBack
+                            onArrowBack: onArrowBack, 
+                            onChangeSearch: onChangeSearch
                         };
                 });
             }
             handleArrowBack = () => {
                 if (this.state.onArrowBack) {
                     this.state.onArrowBack();
+                }
+            }
+            handleChangeSearch = (ev) => {
+                if (this.state.onChangeSearch) {
+                    this.state.onChangeSearch(ev);
                 }
             }
             componentDidMount() {
@@ -2027,7 +2214,8 @@
             render() {
                 const {
                     classes,
-                    theme
+                    theme,
+                    
                 } = this.props;
                 const {
                     isLoading, 
@@ -2066,6 +2254,18 @@
                                 }<Typography variant="h6" color="inherit" noWrap edge="end" className={classes.title}>
                                     {selectedTitle}</Typography>
                                 
+                                    <div className={classes.search}>
+                                        <div className={classes.searchIcon}>
+                                            <Icon>
+                                            search</Icon>
+                                        
+                                        </div>
+                                    
+                                        <InputBase placeholder="Search…" classes={{root: classes.inputRoot, input: classes.inputInput,}} inputProps={{ 'aria-label': 'search' }} onChange={this.handleChangeSearch}>
+                                        </InputBase>
+                                    
+                                    </div>
+                                
                                     <Typography variant="h6" color="inherit" noWrap edge="end" className={classes.db}>
                                     {dbTitle} DB</Typography>
                                 
@@ -2102,10 +2302,16 @@
                                 <List>
                                 {
                                     [
-                                        'Panoramica', 
-                                        'Schema'
+                                        'Materie', 
+                                        'Correnti', 
+                                        'Teorie', 
+                                        'Concetti', 
+                                        'Autori', 
+                                        'Gruppi', 
+                                        'Luoghi', 
+                                        'Testi'
                                     ].map((text, index) =>  (
-                                            <ListItem button key={text} disabled={[].indexOf(text) < 0} onClick={(event) =>
+                                            <ListItem button key={text} disabled={selectedView == text || ['Concetti', 'Autori', 'Testi'].indexOf(text) < 0} onClick={(event) =>
                                                 this.handleSelectView(event, text)}>
                                                 <ListItemIcon>
                                                 {
@@ -2134,16 +2340,10 @@
                                 <List>
                                 {
                                     [
-                                        'Campi', 
-                                        'Scuole', 
-                                        'Teorie', 
-                                        'Concetti', 
-                                        'Autori', 
-                                        'Gruppi', 
-                                        'Luoghi', 
-                                        'Testi'
+                                        'Panoramica', 
+                                        'Schema'
                                     ].map((text, index) =>  (
-                                            <ListItem button key={text} disabled={['Concetti', 'Autori', 'Testi'].indexOf(text) < 0} onClick={(event) =>
+                                            <ListItem button key={text} disabled={[].indexOf(text) < 0} onClick={(event) =>
                                                 this.handleSelectView(event, text)}>
                                                 <ListItemIcon>
                                                 {
@@ -2171,69 +2371,75 @@
                             <main className={classNames(classes.content, {
                                 [classes.contentShift]: open
                             })}>
-                                <div className={classes.drawerHeader}>
-                                </div>
-                            
                             {
-                                selectedView == 'Panoramica' &&  (
-                                    <p>
-                                    Panoramica
-                                    </p>
-                                )
-                                
-                            }{
-                                selectedView == 'Schema' &&  (
-                                    <p>
-                                    Schema
-                                    </p>
-                                )
-                                
-                            }{
-                                selectedView == 'Campi' && isLoading == false &&  (
-                                    <FieldList jsonData={jsonData}>
-                                    </FieldList>
-                                )
-                                
-                            }{
-                                selectedView == 'Scuole' && isLoading == false &&  (
-                                    <SchoolList jsonData={jsonData}>
-                                    </SchoolList>
-                                )
-                                
-                            }{
-                                selectedView == 'Teorie' && isLoading == false &&  (
-                                    <TheoryList jsonData={jsonData}>
-                                    </TheoryList>
-                                )
-                                
-                            }{
-                                selectedView == 'Concetti' && isLoading == false &&  (
-                                    <ConceptList jsonData={jsonData} onChangeCurrent={this.handleChangeCurrent}>
-                                    </ConceptList>
-                                )
-                                
-                            }{
-                                selectedView == 'Autori' && isLoading == false &&  (
-                                    <AuthorList jsonData={jsonData} onChangeCurrent={this.handleChangeCurrent}>
-                                    </AuthorList>
-                                )
-                                
-                            }{
-                                selectedView == 'Gruppi' && isLoading == false &&  (
-                                    <GroupList jsonData={jsonData}>
-                                    </GroupList>
-                                )
-                                
-                            }{
-                                selectedView == 'Luoghi' && isLoading == false &&  (
-                                    <PlaceList jsonData={jsonData}>
-                                    </PlaceList>
-                                )
-                                
-                            }{
-                                selectedView == 'Testi' && isLoading == false &&  (
-                                    <PublicationList jsonData={jsonData} onChangeCurrent={this.handleChangeCurrent}>
-                                    </PublicationList>
+                                !(isMobile() && open == false) &&  (
+                                    <div>
+                                        <div className={classes.drawerHeader}>
+                                        </div>
+                                    
+                                    {
+                                        selectedView == 'Panoramica' &&  (
+                                            <p>
+                                            Panoramica
+                                            </p>
+                                        )
+                                        
+                                    }{
+                                        selectedView == 'Schema' &&  (
+                                            <p>
+                                            Schema
+                                            </p>
+                                        )
+                                        
+                                    }{
+                                        selectedView == 'Materie' && isLoading == false &&  (
+                                            <FieldList jsonData={jsonData}>
+                                            </FieldList>
+                                        )
+                                        
+                                    }{
+                                        selectedView == 'Correnti' && isLoading == false &&  (
+                                            <SchoolList jsonData={jsonData}>
+                                            </SchoolList>
+                                        )
+                                        
+                                    }{
+                                        selectedView == 'Teorie' && isLoading == false &&  (
+                                            <TheoryList jsonData={jsonData}>
+                                            </TheoryList>
+                                        )
+                                        
+                                    }{
+                                        selectedView == 'Concetti' && isLoading == false &&  (
+                                            <ConceptList jsonData={jsonData} onChangeCurrent={this.handleChangeCurrent}>
+                                            </ConceptList>
+                                        )
+                                        
+                                    }{
+                                        selectedView == 'Autori' && isLoading == false &&  (
+                                            <AuthorList jsonData={jsonData} onChangeCurrent={this.handleChangeCurrent}>
+                                            </AuthorList>
+                                        )
+                                        
+                                    }{
+                                        selectedView == 'Gruppi' && isLoading == false &&  (
+                                            <GroupList jsonData={jsonData}>
+                                            </GroupList>
+                                        )
+                                        
+                                    }{
+                                        selectedView == 'Luoghi' && isLoading == false &&  (
+                                            <PlaceList jsonData={jsonData}>
+                                            </PlaceList>
+                                        )
+                                        
+                                    }{
+                                        selectedView == 'Testi' && isLoading == false &&  (
+                                            <PublicationList jsonData={jsonData} onChangeCurrent={this.handleChangeCurrent}>
+                                            </PublicationList>
+                                        )
+                                        
+                                    }</div>
                                 )
                                 
                             }</main>
