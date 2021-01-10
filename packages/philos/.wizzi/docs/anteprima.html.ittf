@@ -267,17 +267,20 @@ layouts/muiPage( theme )
                             @ edge "end"
                             @ className {classes.title}
                             + {selectedTitle}
-                        div
-                            @ className {classes.search}
-                            div 
-                                @ className {classes.searchIcon}
-                                < Icon
-                                    + search
-                            < InputBase
-                                @ placeholder "Search…"
-                                @ classes {{root: classes.inputRoot, input: classes.inputInput,}}
-                                @ inputProps {{ 'aria-label': 'search' }}
-                                @ onChange {this.handleChangeSearch}
+                        {
+                            &&
+                                + !(isMobile() && ['Concetti', 'Autori', 'Testi'].indexOf(selectedTitle) < 0)
+                                div
+                                    @ className {classes.search}
+                                    div 
+                                        @ className {classes.searchIcon}
+                                        < Icon
+                                            + search
+                                    < InputBase
+                                        @ placeholder "Search…"
+                                        @ classes {{root: classes.inputRoot, input: classes.inputInput,}}
+                                        @ inputProps {{ 'aria-label': 'search' }}
+                                        @ onChange {this.handleChangeSearch}
                         < Typography 
                             @ variant "h6"
                             @ color "inherit"

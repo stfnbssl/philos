@@ -2254,19 +2254,22 @@
                                 }<Typography variant="h6" color="inherit" noWrap edge="end" className={classes.title}>
                                     {selectedTitle}</Typography>
                                 
-                                    <div className={classes.search}>
-                                        <div className={classes.searchIcon}>
-                                            <Icon>
-                                            search</Icon>
+                                {
+                                    !(isMobile() && ['Concetti', 'Autori', 'Testi'].indexOf(selectedTitle) < 0) &&  (
+                                        <div className={classes.search}>
+                                            <div className={classes.searchIcon}>
+                                                <Icon>
+                                                search</Icon>
+                                            
+                                            </div>
+                                        
+                                            <InputBase placeholder="Search…" classes={{root: classes.inputRoot, input: classes.inputInput,}} inputProps={{ 'aria-label': 'search' }} onChange={this.handleChangeSearch}>
+                                            </InputBase>
                                         
                                         </div>
+                                    )
                                     
-                                        <InputBase placeholder="Search…" classes={{root: classes.inputRoot, input: classes.inputInput,}} inputProps={{ 'aria-label': 'search' }} onChange={this.handleChangeSearch}>
-                                        </InputBase>
-                                    
-                                    </div>
-                                
-                                    <Typography variant="h6" color="inherit" noWrap edge="end" className={classes.db}>
+                                }<Typography variant="h6" color="inherit" noWrap edge="end" className={classes.db}>
                                     {dbTitle} DB</Typography>
                                 
                                 </Toolbar>
