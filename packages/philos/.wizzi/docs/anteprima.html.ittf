@@ -269,7 +269,7 @@ layouts/muiPage( theme )
                             + {selectedTitle}
                         {
                             &&
-                                + !(isMobile() && ['Concetti', 'Autori', 'Testi'].indexOf(selectedTitle) < 0)
+                                + !(isMobile() && ['Concetti', 'Autori', 'Testi', 'Teorie'].indexOf(selectedTitle) < 0)
                                 div
                                     @ className {classes.search}
                                     div 
@@ -330,7 +330,7 @@ layouts/muiPage( theme )
                                         < ListItem 
                                             @ button
                                             @ key {text}
-                                            @ disabled {selectedView == text || ['Concetti', 'Autori', 'Testi'].indexOf(text) < 0}
+                                            @ disabled {selectedView == text || ['Concetti', 'Autori', 'Testi', 'Teorie'].indexOf(text) < 0}
                                             @ onClick
                                                 =>
                                                     param event
@@ -402,16 +402,19 @@ layouts/muiPage( theme )
                                         + selectedView == 'Materie' && isLoading == false
                                         < FieldList
                                             @ jsonData {jsonData}
+                                            @ onChangeCurrent {this.handleChangeCurrent}
                                 {
                                     &&
                                         + selectedView == 'Correnti' && isLoading == false
                                         < SchoolList
                                             @ jsonData {jsonData}
+                                            @ onChangeCurrent {this.handleChangeCurrent}
                                 {
                                     &&
                                         + selectedView == 'Teorie' && isLoading == false
                                         < TheoryList
                                             @ jsonData {jsonData}
+                                            @ onChangeCurrent {this.handleChangeCurrent}
                                 {
                                     &&
                                         + selectedView == 'Concetti' && isLoading == false
@@ -429,11 +432,13 @@ layouts/muiPage( theme )
                                         + selectedView == 'Gruppi' && isLoading == false
                                         < GroupList
                                             @ jsonData {jsonData}
+                                            @ onChangeCurrent {this.handleChangeCurrent}
                                 {
                                     &&
                                         + selectedView == 'Luoghi' && isLoading == false
                                         < PlaceList
                                             @ jsonData {jsonData}
+                                            @ onChangeCurrent {this.handleChangeCurrent}
                                 {
                                     &&
                                         + selectedView == 'Testi' && isLoading == false

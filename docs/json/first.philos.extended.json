@@ -99,6 +99,26 @@
                 "place": "Unknown"
             },
             "avatar": "./assets/img/authors/No_image_available.svg"
+        },
+        {
+            "id": "RobertsonSmith",
+            "foundations": [],
+            "opinions": [],
+            "contents": [
+                {
+                    "line": "William Robertson Smith è stato un antropologo e storico delle religioni scozzese contemporaneo di E.B. Tylor, padre dell'etnografia. Robertson Smith sosteneva che il totemismo fosse la forma di religione originaria e si mise alla ricerca della forma originaria della religione ebraica."
+                }
+            ],
+            "fullname": "William Robertson Smith",
+            "born": {
+                "date": "8/11/1846",
+                "place": "Keig, Regno Unito"
+            },
+            "died": {
+                "date": "31/3/1894",
+                "place": "Cambridge, Regno Unito"
+            },
+            "avatar": "./assets/img/authors/RobertsonSmith.jpg"
         }
     ],
     "authorsGroups": [],
@@ -267,10 +287,30 @@
                     "quote": {
                         "author": "global",
                         "lines": [
+                            "[La psicoanalisi] è invece indotta a considerare la coscienza come una fra le possibili qualità dello psichico, che può trovarsi congiunta ad altre qualità, come può invece rimanere assente."
+                        ],
+                        "article": "freud.l-io-e-l-es",
+                        "epage": "5954"
+                    }
+                },
+                {
+                    "quote": {
+                        "author": "global",
+                        "lines": [
                             "Abbiamo detto che la coscienza costituisce la superficie dell’apparato psichico; l’abbiamo cioè attribuita, in quanto funzione, a un sistema spazialmente collocato al primo posto, se si procede dal mondo esterno. Spazialmente non solo in senso funzionale, del resto, ma questa volta anche nel senso della dissezione anatomica."
                         ],
-                        "epage": "5960",
-                        "book": "freud.opere-complete-kindle"
+                        "article": "freud.l-io-e-l-es",
+                        "epage": "5960"
+                    }
+                },
+                {
+                    "quote": {
+                        "author": "global",
+                        "lines": [
+                            "[..] ho già formulato l'ipotesi che la vera differenza fra una rappresentazione (o pensiero) inc e una rappresentazione prec consista nel fatto che la prima si produce in relazione a qualche materiale che rimane ignoto, mentre nella seconda (la prec) interviene in aggiunta un collegamento con rappresentazioni verbali. [..] Allora la domanda: Com’è che qualche cosa diventa cosciente? andrebbe formulata più adeguatamente nel modo seguente: Com’è che qualche cosa diventa preconscio? E la risposta dovrebbe essere: attraverso il collegamento con le rispettive rappresentazioni verbali."
+                        ],
+                        "article": "freud.l-io-e-l-es",
+                        "epage": "5961"
                     }
                 },
                 {
@@ -279,8 +319,18 @@
                         "lines": [
                             "[..] soltanto quanto è già stato una volta percezione c può diventare cosciente; e, se si escludono i sentimenti, ciò che dall’interno vuol diventare cosciente, deve cercare di trasformarsi in percezioni provenienti dall’esterno. Questo è possibile mediante le tracce mnestiche."
                         ],
-                        "epage": "5961-5962",
-                        "book": "freud.opere-complete-kindle"
+                        "article": "freud.l-io-e-l-es",
+                        "epage": "5961-5962"
+                    }
+                },
+                {
+                    "quote": {
+                        "author": "global",
+                        "lines": [
+                            "Volendo ritornare alla nostra scala di valori, dobbiamo dunque dichiarare che non soltanto le cose più profonde, ma anche quelle che per l’Io sono le più elevate, possono essere inconsce. E in questo modo è come se ci venisse data la dimostrazione di quanto abbiamo prima asserito a proposito dell’Io cosciente: che esso è prima di ogni altra cosa un Io-corpo."
+                        ],
+                        "article": "freud.l-io-e-l-es",
+                        "epage": "5969"
                     }
                 }
             ],
@@ -717,6 +767,55 @@
             "id": "freud.io",
             "contents": [
                 {
+                    "quote": {
+                        "author": "global",
+                        "lines": [
+                            "Ci siamo fatti l’idea che esista nella persona un nucleo organizzato e coerente di processi psichici che chiamiamo l’Io di quella persona. A tale Io è legata la coscienza; esso domina le vie d’accesso alla motilità, ossia alla scarica degli eccitamenti nel mondo esterno; l’Io è quell’istanza psichica che esercita un controllo su tutti i processi parziali da lui stesso messi in moto; esso è l’istanza psichica che di notte va a dormire e pur tuttavia esercita la censura onirica."
+                        ],
+                        "article": "freud.l-io-e-l-es",
+                        "epage": "5958"
+                    }
+                },
+                {
+                    "kind": "rconcept",
+                    "id": "freud.resistenza",
+                    "contents": [
+                        {
+                            "quote": {
+                                "author": "global",
+                                "lines": [
+                                    "Ora, durante l’analisi si può osservare che l’ammalato [..] incontra delle difficoltà: le associazioni vengono meno quando dovrebbero avvicinarsi al rimosso. [.. incontra una resistenza che l'Io manifesta]; egli però non ne sa nulla, [..] ci troviamo di fronte a una situazione che non avevamo previsto. Abbiamo trovato nell’Io stesso qualche cosa, anch’esso inconscio, che si comporta precisamente alla maniera del rimosso, e cioè qualche cosa che esercita potenti effetti senza divenire in quanto tale cosciente, e che necessita, per esser reso cosciente, di un particolare lavoro."
+                                ],
+                                "article": "freud.l-io-e-l-es",
+                                "epage": "5958"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "quote": {
+                        "author": "global",
+                        "lines": [
+                            "Cioè l’Io è in definitiva derivato da sensazioni corporee, soprattutto dalle sensazioni provenienti dalla superficie del corpo. Esso può dunque venir considerato come una proiezione psichica della superficie del corpo, e inoltre, come abbiamo visto, il rappresentante degli elementi superficiali dell’apparato psichico."
+                        ],
+                        "article": "freud.l-io-e-l-es",
+                        "epage": "8388"
+                    }
+                },
+                {
+                    "quote": {
+                        "author": "global",
+                        "lines": [
+                            {
+                                "img": "./assets/img/db/freud/l-io-e-l-es_io.jpg"
+                            },
+                            "È facile rendersi conto che l’Io è quella parte dell’Es che ha subito una modificazione per la diretta azione del mondo esterno grazie all’intervento del [sistema] P-C: in certo qual modo è una propaggine della differenziazione superficiale. L’Io si sforza altresì di far valere l’influenza del mondo esterno sull’Es e sulle sue intenzioni tentando di sostituire il principio di realtà al principio di piacere, che nell’Es esercita un dominio incontrastato. La percezione ha per l’Io la funzione che nell’Es spetta alla pulsione. L’Io rappresenta ciò che può dirsi ragione e ponderatezza, in opposizione all’Es che è il ricettacolo delle passioni. Tutto ciò corrisponde alle ben note distinzioni popolari; ma va tuttavia inteso soltanto come situazione media o in senso ideale."
+                        ],
+                        "article": "freud.l-io-e-l-es",
+                        "epage": "5967"
+                    }
+                },
+                {
                     "kind": "rconcept",
                     "id": "freud.seconda-topica",
                     "contents": [
@@ -821,6 +920,11 @@
             "author": "global",
             "name": "sistema-inc",
             "id": "freud.meta.sistema-inc",
+            "aliases": [
+                {
+                    "text": "Inc"
+                }
+            ],
             "contents": [
                 {
                     "kind": "rconcept",
@@ -837,6 +941,15 @@
                             }
                         }
                     ]
+                },
+                {
+                    "kind": "rarticle",
+                    "id": "freud.l-io-e-l-es",
+                    "contents": [
+                        {
+                            "line": "Freud individua 3 tipi di inconscio:"
+                        }
+                    ]
                 }
             ],
             "title": {
@@ -849,6 +962,11 @@
             "author": "global",
             "name": "sistema-prec",
             "id": "freud.meta.sistema-prec",
+            "aliases": [
+                {
+                    "text": "Prec"
+                }
+            ],
             "contents": [
                 {
                     "quote": {
@@ -856,18 +974,38 @@
                         "lines": [
                             "Vi sono dunque due tipi di inconscio, che negli psicologi non troviamo ancora distinti. [..] l’altro viene da noi chiamato Prec, perché i suoi eccitamenti, sia pur sottostando, è vero, a certe regole – forse soltanto superando una nuova censura, ma senza tener conto del sistema Inc – possono giungere alla coscienza."
                         ],
-                        "epage": "1840",
-                        "article": "freud.l-interpretazione-dei-sogni"
+                        "article": "freud.l-interpretazione-dei-sogni",
+                        "epage": "1840"
                     }
                 },
                 {
                     "quote": {
                         "author": "global",
                         "lines": [
-                            "il sistema Prec sta come uno schermo tra il sistema Inc e la coscienza;"
+                            "Il sistema Prec sta come uno schermo tra il sistema Inc e la coscienza;"
                         ],
-                        "epage": "1840",
-                        "article": "freud.l-interpretazione-dei-sogni"
+                        "article": "freud.l-interpretazione-dei-sogni",
+                        "epage": "1840"
+                    }
+                },
+                {
+                    "quote": {
+                        "author": "global",
+                        "lines": [
+                            "Costatiamo però che abbiamo due specie di inconscio: il latente e tuttavia capace di divenire cosciente, e il rimosso che in quanto tale e di per sé non è capace di giungere alla coscienza. [..] Diciamo preconscio ciò che è latente, e cioè inconscio, solo dal punto di vista descrittivo e non in senso dinamico; riserviamo invece a ciò che è rimosso e dinamicamente inconscio, la denominazione di inconscio."
+                        ],
+                        "article": "freud.l-io-e-l-es",
+                        "epage": "5956"
+                    }
+                },
+                {
+                    "quote": {
+                        "author": "global",
+                        "lines": [
+                            "Riteniamo che il Prec sia molto più vicino al C di quanto lo sia l’Inc; e poiché abbiamo detto psichico l’Inc, a maggior ragione e senza esitare diremo altrettanto a proposito del Prec latente."
+                        ],
+                        "article": "freud.l-io-e-l-es",
+                        "epage": "5956"
                     }
                 }
             ],
@@ -883,7 +1021,7 @@
             "id": "freud.meta.sistema-p-c",
             "aliases": [
                 {
-                    "text": "Sistema Percezione-Coscienza"
+                    "text": "P-C"
                 }
             ],
             "contents": [
@@ -899,7 +1037,7 @@
                 }
             ],
             "title": {
-                "text": "Sistema P-C"
+                "text": "Sistema Percezione-Coscienza"
             }
         },
         {
@@ -957,6 +1095,9 @@
             "aliases": [
                 {
                     "text": "Prima teoria dell'apparato psichico"
+                },
+                {
+                    "text": "Dottrina/teoria delle provincie psichiche"
                 }
             ],
             "title": {
@@ -1228,7 +1369,7 @@
                     "text": "Seconda teoria dell'apparato psichico"
                 },
                 {
-                    "text": "Dottrina delle istanze psichiche"
+                    "text": "Dottrina/teoria delle istanze psichiche"
                 }
             ],
             "contents": [
@@ -1471,6 +1612,27 @@
         },
         {
             "kind": "concept",
+            "ns": "freud.nevrosi",
+            "author": "global",
+            "name": "sviluppo",
+            "id": "freud.nevrosi.sviluppo",
+            "contents": [
+                {
+                    "quote": {
+                        "author": "global",
+                        "lines": [
+                            "Trauma del bambino piccolo - difesa - latenza - scoppio della malattia nevrotica - ritorno parziale del rimosso: ecco la formula che abbiamo enunciato per lo sviluppo di una nevrosi."
+                        ],
+                        "epage": "7281"
+                    }
+                }
+            ],
+            "title": {
+                "text": "Sviluppo di una nevrosi"
+            }
+        },
+        {
+            "kind": "concept",
             "ns": "freud",
             "author": "global",
             "name": "nevrosi",
@@ -1490,6 +1652,9 @@
                 },
                 {
                     "concept": "freud.nevrosi.scatenamento"
+                },
+                {
+                    "concept": "freud.nevrosi.sviluppo"
                 }
             ],
             "title": {
@@ -2886,6 +3051,138 @@
         },
         {
             "kind": "concept",
+            "ns": "freud.religione",
+            "author": "global",
+            "name": "eredità-arcaica",
+            "id": "freud.religione.eredità-arcaica",
+            "contents": [
+                {
+                    "quote": {
+                        "author": "global",
+                        "lines": [
+                            "Sorgono allora le domande: in che cosa consiste questa eredità [arcaica], che cosa contiene, quali ne sono le prove? La prima e più sicura risposta è questa: essa consiste in determinate predisposizioni, proprie a tutti gli esseri viventi. Vale a dire nella capacità e inclinazione a battere determinate direzioni di sviluppo e a reagire in un modo particolare a certi eccitamenti, impressioni e stimoli. Poiché l’esperienza mostra che nei singoli esseri del genere umano ci sono a questo riguardo delle differenze, l’eredità arcaica le include, esse configurano cioè quello che noi riconosciamo come il fattore costituzionale dell’individuo. Ora, poiché gli uomini nei loro primi anni sperimentano tutti pressappoco le stesse cose, vi reagiscono anche in maniera simile; potrebbe perciò sorgere il dubbio se non si debbano ascrivere queste reazioni, unitamente alle loro differenze individuali, all’eredità arcaica. Questo dubbio va respinto; la nostra conoscenza dell’eredità arcaica non è arricchita dal fatto di questa somiglianza."
+                        ],
+                        "article": "freud.l-uomo-mose-e-la-religione-monoteistica",
+                        "epage": "7301"
+                    }
+                }
+            ],
+            "title": {
+                "text": "Eredità arcaica"
+            }
+        },
+        {
+            "kind": "concept",
+            "ns": "freud.religione",
+            "author": "global",
+            "name": "l-uomo-mosè",
+            "id": "freud.religione.l-uomo-mosè",
+            "contents": [
+                {
+                    "quote": {
+                        "author": "global",
+                        "lines": [
+                            "Forti delle nostre discussioni precedenti, possiamo ora affermare che fu l’uomo Mosè a scolpire nel popolo ebraico questa impronta indelebile. Egli accrebbe la presunzione degli Ebrei assicurandoli che erano il popolo eletto da Dio, diede loro la consacrazione e li obbligò a distinguersi dagli altri. Non che gli altri popoli mancassero di presunzione. Allora come oggi ogni nazione si considerava migliore di ogni altra. Ma con Mosè la presunzione degli Ebrei mise radice nella religione e divenne una parte della loro fede religiosa. In virtù della loro relazione particolarmente intima con il loro Dio parteciparono della sua grandezza. E considerato che dietro il Dio che aveva prescelto gli Ebrei e li aveva liberati dagli Egizi c’era la persona di Mosè, il quale aveva fatto proprio questo, apparentemente per ordine divino, non è avventato dire che l’uomo Mosè creò, lui, gli Ebrei. A lui questo popolo deve la sua tenacità, ma anche molta dell’ostilità che ha incontrato e tuttora incontra."
+                        ],
+                        "article": "freud.l-uomo-mose-e-la-religione-monoteistica",
+                        "epage": "7309-7310"
+                    }
+                }
+            ],
+            "title": {
+                "text": "L'uomo mosè"
+            }
+        },
+        {
+            "kind": "concept",
+            "ns": "freud.religione",
+            "author": "global",
+            "name": "origine-religione",
+            "id": "freud.religione.origine-religione",
+            "contents": [
+                {
+                    "quote": {
+                        "author": "global",
+                        "lines": [
+                            "La convinzione che esso [il mio metodo di analisi dei fenomeni religiosi] è corretto, l’ho acquisita già un quarto di secolo fa, quando scrissi il libro su Totem e tabù, nel 1912, e da allora si è soltanto rafforzata. Non ho più dubitato fin da allora, che è possibile intendere i fenomeni religiosi solamente usando il modello dei sintomi nevrotici individuali a noi familiari, come ritorni di significativi eventi da lungo dimenticati della storia primordiale della famiglia umana; non ho più avuto dubbi che essi debbono il loro carattere coattivo a questa origine, e che dunque agiscono sugli uomini in forza del loro contenuto di verità storica."
+                        ],
+                        "article": "freud.l-uomo-mose-e-la-religione-monoteistica",
+                        "epage": "7255"
+                    }
+                }
+            ],
+            "title": {
+                "text": "Origine della religione"
+            }
+        },
+        {
+            "kind": "concept",
+            "ns": "freud.religione",
+            "author": "global",
+            "name": "sacro",
+            "id": "freud.religione.sacro",
+            "contents": [
+                {
+                    "quote": {
+                        "author": "global",
+                        "lines": [
+                            "Siamo fiduciosi che l’esame di tutti gli altri casi di divieto sacro condurrebbe allo stesso risultato del caso dell’orrore dell’incesto, e cioè che in origine il sacro non è altro che la prosecuzione della volontà del padre primigenio. Con ciò si farebbe anche un po’ di luce sull’ambivalenza, finora incomprensibile, delle parole che esprimono il concetto di sacro. È la stessa ambivalenza che domina in genere il rapporto con il padre. “Sacer” significa non solo “sacro”, “consacrato”, ma anche qualcosa che possiamo tradurre soltanto con “infame”, “esecrabile” (“auri sacra fames”). Tuttavia la volontà del padre non era soltanto qualcosa di intoccabile, qualcosa da tenere altamente in onore, ma anche qualcosa di fronte a cui si tremava, perché esigeva una dolorosa rinuncia pulsionale. Quando sentiamo che Mosè “consacrò” il suo popolo introducendo l’usanza di circoncidersi, comprendiamo adesso il senso profondo di questa affermazione. La circoncisione è il sostitutivo simbolico dell’evirazione, che un tempo il padre primigenio nella pienezza del suo potere assoluto aveva inflitto ai figli; chi accettava questo simbolo, mostrava con ciò di essere pronto a sottomettersi al volere del padre anche se questi gli imponeva il sacrificio più doloroso."
+                        ],
+                        "article": "freud.l-uomo-mose-e-la-religione-monoteistica",
+                        "epage": "7326-7327"
+                    }
+                }
+            ],
+            "title": {
+                "text": "Il sacro"
+            }
+        },
+        {
+            "kind": "concept",
+            "ns": "freud.religione",
+            "author": "global",
+            "name": "sviluppi",
+            "id": "freud.religione.sviluppi",
+            "contents": [
+                {
+                    "quote": {
+                        "author": "global",
+                        "lines": [
+                            "Il passo consecutivo al totemismo è l’umanazione dell’essere venerato. Al posto degli animali subentrano dèi umani, della cui derivazione dal totem non si fa mistero. Il dio è ancora raffigurato o in forma animale o almeno con faccia d’animale, oppure il totem diviene il compagno preferito del dio, da cui è inseparabile, oppure ancora la leggenda fa sì che il dio uccida proprio questo animale, che a ben vedere era solo lo stadio preliminare di lui stesso. A un certo punto difficilmente determinabile di questa evoluzione fanno la loro comparsa grandi divinità materne, probabilmente anche prima degli dèi maschili, con i quali coesistettero poi a lungo. Si era frattanto compiuto un grande rivolgimento sociale. Il matriarcato era stato sostituito dal ristabilirsi di un ordine patriarcale. I nuovi padri non raggiunsero in verità mai il potere assoluto del padre primordiale; erano in molti e vivevano associati in raggruppamenti più grandi di quanto fosse stata l’orda; dovevano mantenere buoni rapporti reciproci ed erano limitati da norme sociali. È verosimile che le divinità materne avessero origine al tempo della restrizione del matriarcato, per compensare le madri messe in disparte. Le divinità maschili apparvero dapprima come figli accanto alle grandi madri, e solo dopo assunsero nettamente i tratti di figure paterne. Questi dèi maschili del politeismo rispecchiano i rapporti dell’epoca patriarcale. Sono numerosi, si limitano a vicenda, occasionalmente sono subordinati a un dio supremo che li sovrasta. Il passo successivo, però, conduce al tema che ci sta occupando, ossia al ritorno di un solo dio-padre, unico e illimitato signore."
+                        ],
+                        "article": "freud.l-uomo-mose-e-la-religione-monoteistica",
+                        "epage": "7284-7285"
+                    }
+                }
+            ],
+            "title": {
+                "text": "Sviluppi della religione"
+            }
+        },
+        {
+            "kind": "concept",
+            "ns": "freud.religione",
+            "author": "global",
+            "name": "totemismo",
+            "id": "freud.religione.totemismo",
+            "contents": [
+                {
+                    "quote": {
+                        "author": "global",
+                        "lines": [
+                            "Ritengo che abbiamo pieno diritto di riconoscere nel totemismo, con la sua venerazione di un sostituto paterno, con l’ambivalenza mostrata nel pasto totemico, con l’istituzione di celebrazioni commemorative, di divieti la cui trasgressione era punita con la morte, è lecito riconoscere nel totemismo, dicevo, la prima forma di apparizione della religione nella storia umana e confermare il suo nesso fin dal principio con gli ordinamenti sociali e gli obblighi morali."
+                        ],
+                        "article": "freud.l-uomo-mose-e-la-religione-monoteistica",
+                        "epage": "7284"
+                    }
+                }
+            ],
+            "title": {
+                "text": "Totemismo"
+            }
+        },
+        {
+            "kind": "concept",
             "ns": "freud",
             "author": "global",
             "name": "ambivalenza",
@@ -3152,6 +3449,28 @@
                         "text": "Affekt"
                     }
                 ]
+            }
+        },
+        {
+            "kind": "concept",
+            "ns": "freud",
+            "author": "global",
+            "name": "agressività",
+            "id": "freud.agressività",
+            "contents": [
+                {
+                    "quote": {
+                        "author": "global",
+                        "lines": [
+                            "Che cosa avviene nell’individuo a rendere innocuo il suo desiderio di aggressione? Qualcosa di assai curioso, che non avremmo indovinato e che pure è assai semplice. L’aggressività viene introiettata, interiorizzata, propriamente viene rimandata là donde è venuta, ossia è volta contro il proprio Io. Qui viene assunta da una parte dell’Io, che si contrappone come Super-io al rimanente, e ora come “coscienza” è pronto a dimostrare contro l’Io la stessa inesorabile aggressività che l’Io avrebbe volentieri soddisfatto contro altri individui estranei."
+                        ],
+                        "article": "freud.il-disagio-della-civiltà",
+                        "epage": "6790-6791"
+                    }
+                }
+            ],
+            "title": {
+                "text": "Agressività"
             }
         },
         {
@@ -3570,8 +3889,8 @@
                         "lines": [
                             "Abbiamo detto che la coscienza costituisce la superficie dell’apparato psichico; l’abbiamo cioè attribuita, in quanto funzione, a un sistema spazialmente collocato al primo posto, se si procede dal mondo esterno. Spazialmente non solo in senso funzionale, del resto, ma questa volta anche nel senso della dissezione anatomica."
                         ],
-                        "epage": "5960",
-                        "book": "freud.opere-complete-kindle"
+                        "article": "freud.l-io-e-l-es",
+                        "epage": "5960"
                     }
                 },
                 {
@@ -3580,8 +3899,18 @@
                         "lines": [
                             "[..] soltanto quanto è già stato una volta percezione c può diventare cosciente; e, se si escludono i sentimenti, ciò che dall’interno vuol diventare cosciente, deve cercare di trasformarsi in percezioni provenienti dall’esterno. Questo è possibile mediante le tracce mnestiche."
                         ],
-                        "epage": "5961-5962",
-                        "book": "freud.opere-complete-kindle"
+                        "article": "freud.l-io-e-l-es",
+                        "epage": "5961-5962"
+                    }
+                },
+                {
+                    "quote": {
+                        "author": "global",
+                        "lines": [
+                            "Se qualcuno volesse sostenere la tesi paradossale che l’uomo normale non soltanto è molto più immorale di quanto egli creda, ma anche molto più morale di quanto egli sappia, la psicoanalisi, sulle cui scoperte poggia la prima parte dell’affermazione, non avrebbe nulla da obiettare neppure sulla seconda."
+                        ],
+                        "article": "freud.l-io-e-l-es",
+                        "epage": "5997"
                     }
                 }
             ],
@@ -3646,7 +3975,7 @@
                                 ],
                                 "article": "freud.costruzioni-dell-analisi",
                                 "epage": "7443-7444",
-                                "unknown": "seeconcept"
+                                "unknown": "seeconcept/freud.lavoro-analitico"
                             }
                         },
                         {
@@ -4033,6 +4362,27 @@
             "kind": "concept",
             "ns": "freud",
             "author": "global",
+            "name": "eroe",
+            "id": "freud.eroe",
+            "contents": [
+                {
+                    "quote": {
+                        "author": "global",
+                        "lines": [
+                            "Eroe è colui che coraggiosamente si leva contro il padre e alla fine lo supera vittoriosamente. Il nostro mito insegue questa lotta nella preistoria individuale, perché fa nascere il bambino contro la volontà del padre e lo fa salvo nonostante le cattive intenzioni di questi."
+                        ],
+                        "epage": "7206"
+                    }
+                }
+            ],
+            "title": {
+                "text": "Eroe"
+            }
+        },
+        {
+            "kind": "concept",
+            "ns": "freud",
+            "author": "global",
             "name": "eros",
             "id": "freud.eros",
             "contents": [
@@ -4185,6 +4535,31 @@
         },
         {
             "kind": "concept",
+            "ns": "freud.fobia",
+            "author": "global",
+            "name": "degli-animali",
+            "id": "freud.fobia.degli-animali",
+            "title": {
+                "text": "Fobia degli animali"
+            }
+        },
+        {
+            "kind": "concept",
+            "ns": "freud",
+            "author": "global",
+            "name": "fobia",
+            "id": "freud.fobia",
+            "contents": [
+                {
+                    "concept": "freud.fobia.degli-animali"
+                }
+            ],
+            "title": {
+                "text": "Fobia"
+            }
+        },
+        {
+            "kind": "concept",
             "ns": "freud",
             "author": "global",
             "name": "formazione-di-compromesso",
@@ -4304,6 +4679,44 @@
             ],
             "title": {
                 "text": "Innervazione"
+            }
+        },
+        {
+            "kind": "concept",
+            "ns": "freud.introiezione",
+            "author": "global",
+            "name": "primaria",
+            "id": "freud.introiezione.primaria"
+        },
+        {
+            "kind": "concept",
+            "ns": "freud.introiezione",
+            "author": "global",
+            "name": "da-perdita-di-oggetto",
+            "id": "freud.introiezione.da-perdita-di-oggetto"
+        },
+        {
+            "kind": "concept",
+            "ns": "freud",
+            "author": "global",
+            "name": "introiezione",
+            "id": "freud.introiezione",
+            "contents": [
+                {
+                    "quote": {
+                        "author": "global",
+                        "lines": []
+                    }
+                },
+                {
+                    "concept": "freud.introiezione.primaria"
+                },
+                {
+                    "concept": "freud.introiezione.da-perdita-di-oggetto"
+                }
+            ],
+            "title": {
+                "text": "Introiezione"
             }
         },
         {
@@ -4688,6 +5101,28 @@
             ],
             "title": {
                 "text": "Nascita difficile"
+            }
+        },
+        {
+            "kind": "concept",
+            "ns": "freud",
+            "author": "global",
+            "name": "paura-evirazione",
+            "id": "freud.paura-evirazione",
+            "contents": [
+                {
+                    "quote": {
+                        "author": "global",
+                        "lines": [
+                            "È vero che nel piccolo Árpád, del quale Ferenczi ci riferisce, gli interessi totemistici non si ridestano in diretta connessione con il complesso edipico, bensì in base al presupposto narcisistico del complesso stesso, ossia in base alla paura dell’evirazione."
+                        ],
+                        "article": "freud.totem-e-tabu",
+                        "epage": "4051"
+                    }
+                }
+            ],
+            "title": {
+                "text": "Paura dell'evirazione"
             }
         },
         {
@@ -5256,9 +5691,10 @@
                     "quote": {
                         "author": "global",
                         "lines": [
+                            "La differenza sta nel fatto che la rappresentazione inc, per essere portata alla C, richiede che vengano prodotti gli elementi di collegamento [verbale], mentre ciò non vale per le sensazioni, le quali si trasmettono direttamente. In altre parole: la distinzione fra C e Prec per le sensazioni è priva di senso; il Prec qui manca, le sensazioni o sono coscienti o sono inconsce. Anche quando sono collegate a rappresentazioni verbali, non diventano coscienti a mezzo di queste ultime, ma in modo diretto.",
                             "La funzione delle rappresentazioni verbali diventa ora perfettamente chiara. Per mezzo loro i processi interni di pensiero si trasformano in percezioni. È come se dovesse essere dimostrata la tesi che ogni sapere proviene dalla percezione esterna. Quando si verifica un sovrainvestimento dell’attività di pensiero, i pensieri vengono effettivamente percepiti come provenienti dall’esterno, e perciò considerati veri."
                         ],
-                        "epage": "5965",
+                        "epage": "5964-5965",
                         "book": "freud.opere-complete-kindle"
                     }
                 }
@@ -5280,6 +5716,27 @@
             ],
             "title": {
                 "text": "Rappresentazione"
+            }
+        },
+        {
+            "kind": "concept",
+            "ns": "freud",
+            "author": "global",
+            "name": "realtà-psichica-e-di-fatto",
+            "id": "freud.realtà-psichica-e-di-fatto",
+            "contents": [
+                {
+                    "quote": {
+                        "author": "global",
+                        "lines": [
+                            "Alla base del senso di colpa dei nevrotici ci sono soltanto realtà psichiche, non realtà di fatto. La nevrosi è caratterizzata dal fatto di porre la realtà psichica al di sopra della realtà effettiva, di reagire a pensieri con la stessa serietà con cui gli uomini normali reagiscono soltanto di fronte a realtà."
+                        ],
+                        "epage": "4084"
+                    }
+                }
+            ],
+            "title": {
+                "text": "Realtà psichica e di fatto"
             }
         },
         {
@@ -5727,6 +6184,50 @@
             "kind": "concept",
             "ns": "freud",
             "author": "global",
+            "name": "rinuncia-pulsionale",
+            "id": "freud.rinuncia-pulsionale",
+            "contents": [
+                {
+                    "quote": {
+                        "author": "global",
+                        "lines": [
+                            "L’interpretazione del giuoco [del fort-da] divenne dunque ovvia. Era in rapporto con il grande risultato di civiltà raggiunto dal bambino, e cioè con la rinuncia pulsionale (rinuncia al soddisfacimento pulsionale) che consisteva nel permettere senza proteste che la madre se ne andasse. Il bambino si risarciva, per così dire, di questa rinuncia, inscenando l’atto stesso dello scomparire e del riapparire avvalendosi degli oggetti che riusciva a raggiungere."
+                        ],
+                        "article": "freud.al-di-la-del-principio-del-piacere",
+                        "epage": "5645"
+                    }
+                }
+            ],
+            "title": {
+                "text": "Rinuncia pulsionale"
+            }
+        },
+        {
+            "kind": "concept",
+            "ns": "freud",
+            "author": "global",
+            "name": "ritorno-del-rimosso",
+            "id": "freud.ritorno-del-rimosso",
+            "contents": [
+                {
+                    "quote": {
+                        "author": "global",
+                        "lines": [
+                            "Era la copia fedele del padre così come se ne era formato un’immagine nel ricordo, dunque una reviviscenza dell’identificazione paterna in cui a suo tempo si era collocato il ragazzino per motivi sessuali. Qui in particolare riconosciamo il ritorno del rimosso, ritorno da noi descritto, insieme con gli effetti immediati del trauma e il fenomeno della latenza, come uno degli aspetti essenziali di una nevrosi."
+                        ],
+                        "article": "freud.l-uomo-mose-e-la-religione-monoteistica",
+                        "epage": "7280"
+                    }
+                }
+            ],
+            "title": {
+                "text": "Ritorno del rimosso"
+            }
+        },
+        {
+            "kind": "concept",
+            "ns": "freud",
+            "author": "global",
             "name": "scena-primaria",
             "id": "freud.scena-primaria",
             "title": {
@@ -5775,6 +6276,36 @@
                         "text": "Empfindungen"
                     }
                 ]
+            }
+        },
+        {
+            "kind": "concept",
+            "ns": "freud",
+            "author": "global",
+            "name": "senso-di-colpa",
+            "id": "freud.senso-di-colpa",
+            "aliases": [
+                {
+                    "text": "Sentimento di colpa"
+                },
+                {
+                    "text": "Coscienza della propria colpa"
+                }
+            ],
+            "contents": [
+                {
+                    "quote": {
+                        "author": "global",
+                        "lines": [
+                            "Chiamiamo coscienza della propria colpa la tensione tra il rigido Super-io e l’Io ad esso soggetto; essa si manifesta come bisogno di punizione. La civiltà domina dunque il pericoloso desiderio di aggressione dell’individuo infiacchendolo, disarmandolo e facendolo sorvegliare da una istanza nel suo interno, come da una guarnigione nella città conquistata."
+                        ],
+                        "article": "freud.il-disagio-della-civiltà",
+                        "epage": "6791"
+                    }
+                }
+            ],
+            "title": {
+                "text": "Senso di colpa"
             }
         },
         {
@@ -5857,6 +6388,16 @@
             "contents": [
                 {
                     "line": "la condizione di ciò che è determinato da una pluralità di fattori, come alcuni fenomeni dell’inconscio, in particolare i sogni (ma anche i lapsus, gli atti mancati ecc.) nei quali, a causa della condensazione, un’immagine manifesta si compone di più contenuti latenti che l’interpretazione corretta deve cercare di ricostruire."
+                },
+                {
+                    "quote": {
+                        "author": "global",
+                        "lines": [
+                            "Il nostro tanto imperioso bisogno causale si accontenta di ritenere che ogni evento abbia una causa dimostrabile. Non è vero però che fuori di noi la realtà sia questa; anzi ogni evento appare sovradeterminato, risulta come effetto di più cause convergenti."
+                        ],
+                        "article": "freud.l-uomo-mose-e-la-religione-monoteistica",
+                        "epage": "7310-7311"
+                    }
                 }
             ],
             "title": {
@@ -6016,8 +6557,18 @@
                         "lines": [
                             "Chiamiamo “traumatici” quegli eccitamenti che provengono dall’esterno e sono abbastanza forti da spezzare lo scudo protettivo. Penso che il concetto di trauma implichi quest’idea di una breccia inferta nella barriera protettiva che di norma respinge efficacemente gli stimoli dannosi. Un evento come il trauma esterno provocherà certamente un enorme disturbo nell’economia energetica dell’organismo, e mobiliterà tutti i possibili mezzi di difesa. Nello stesso tempo, il principio di piacere in un primo momento è messo fuori combattimento. Non è più possibile evitare che l’apparato psichico sia sommerso da grandi masse di stimoli; sorge invece un altro compito, quello di padroneggiare lo stimolo, di “legare” psichicamente le masse di stimoli che hanno fatto irruzione nell’apparato psichico, in modo da potersene poi sbarazzare."
                         ],
-                        "epage": "5664",
-                        "book": "freud.opere-complete-kindle"
+                        "article": "freud.al-di-la-del-principio-del-piacere",
+                        "epage": "5664"
+                    }
+                },
+                {
+                    "quote": {
+                        "author": "global",
+                        "lines": [
+                            "Chiamiamo traumi quelle impressioni dapprima vissute e successivamente dimenticate, alle quali attribuiamo una grande importanza per l’etiologia delle nevrosi. Può restare indecisa la questione se l’etiologia delle nevrosi in generale debba considerarsi come traumatica. L’ovvia obiezione a questa tesi è che non in tutti i casi si riesce a scovare un trauma palese agli inizi della storia dell’individuo nevrotico. Spesso dobbiamo rassegnarci a dire che [presso i nevrotici] non si tratta di nient’altro che di una reazione inabituale, abnorme, a esperienze e richieste che colpiscono tutti gli individui e che da altri sono rielaborate e risolte in un altro modo, da definirsi normale."
+                        ],
+                        "article": "freud.l-uomo-mose-e-la-religione-monoteistica",
+                        "epage": "7272"
                     }
                 }
             ],
@@ -6046,7 +6597,106 @@
             }
         }
     ],
-    "theories": [],
+    "theories": [
+        {
+            "kind": "theory",
+            "ns": "darwin",
+            "author": "global",
+            "name": "orda-primitiva",
+            "id": "darwin.orda-primitiva",
+            "contents": [
+                {
+                    "quote": {
+                        "author": "global",
+                        "lines": [
+                            "Da Darwin presi l’ipotesi che in origine gli uomini vivessero in piccole orde, ciascuna sotto la tirannia di un maschio più anziano, che si appropriava di tutte le femmine e castigava o scacciava i giovani, inclusi i propri figli."
+                        ],
+                        "article": "freud.l-uomo-mose-e-la-religione-monoteistica",
+                        "epage": "7336"
+                    }
+                },
+                {
+                    "quote": {
+                        "author": "global",
+                        "lines": [
+                            "Essa dice che in tempi primitivi l’uomo primigenio viveva in piccole orde, ciascuna dominata da un maschio robusto. Non possiamo indicare l’epoca e ci sfugge il collegamento con ere geologiche a noi note; è probabile che quell’essere umano non fosse molto avanzato nello sviluppo della parola. Una parte essenziale della costruzione è l’ipotesi che le vicende che sto per descrivere riguardassero tutti i primi uomini, e quindi tutti i nostri avi."
+                        ],
+                        "article": "freud.l-uomo-mose-e-la-religione-monoteistica",
+                        "epage": "7281-7282"
+                    }
+                }
+            ],
+            "title": {
+                "text": "Teoria dell'orda primitiva di Darwin"
+            }
+        },
+        {
+            "kind": "theory",
+            "ns": "ferenczi",
+            "author": "global",
+            "name": "rapporto-epoca-latenza-era-glaciale",
+            "id": "ferenczi.rapporto-epoca-latenza-era-glaciale",
+            "contents": [
+                {
+                    "quote": {
+                        "author": "global",
+                        "lines": [
+                            "L'ipotesi di un rapporto tra epoca di latenza ed era glaciale era stata formulata per la prima volta da S. Ferenczi, Entwicklungsstufen des Wirklichkeitssinnes, Int. Z. (ärztl.) Psychoanal., vol. 1, p. 124 (1913); Freud l’accettò con una certa cautela in L’Io e l’Es cit., par. 3 e poi, con maggiore convinzione, in Inibizione, sintomo e angoscia (1925), in OSF, vol. 10, cap. 10."
+                        ],
+                        "article": "freud.l-uomo-mose-e-la-religione-monoteistica",
+                        "epage": "8566"
+                    }
+                }
+            ],
+            "title": {
+                "text": "Teoria del rapporto tra epoca di latenza ed era glaciale di Ferenczi"
+            }
+        },
+        {
+            "kind": "theory",
+            "ns": "atkinson",
+            "author": "global",
+            "name": "ribellione-al-padre-dell-orda",
+            "id": "atkinson.ribellione-al-padre-dell-orda",
+            "contents": [
+                {
+                    "quote": {
+                        "author": "global",
+                        "lines": [
+                            "Da Atkinson, [.. presi], l’ipotesi che quel sistema patriarcale [l'orda primitiva] avesse fine con la ribellione dei figli, che si unirono contro il padre, lo sopraffecero e lo divorarono in comune."
+                        ],
+                        "article": "freud.l-uomo-mose-e-la-religione-monoteistica",
+                        "epage": "7336"
+                    }
+                }
+            ],
+            "title": {
+                "text": "Teoria della ribellione al padre dell'orda di Atkinson"
+            }
+        },
+        {
+            "kind": "theory",
+            "ns": "robertson-smith",
+            "author": "global",
+            "name": "totemismo",
+            "id": "robertson-smith.totemismo",
+            "contents": [
+                {
+                    "quote": {
+                        "author": "global",
+                        "lines": [
+                            "Poi, allacciandomi alla teoria totemica di Robertson Smith, supposi che dopo di allora l’orda paterna cedesse il posto al clan totemistico dei fratelli. Per poter vivere in pace tra loro, i fratelli vittoriosi rinunciarono a quelle donne a causa delle quali avevano ucciso il padre, e istituirono l’esogamia. Il potere paterno fu infranto e le famiglie si organizzarono secondo il matriarcato. L’atteggiamento emotivo ambivalente dei figli verso il padre persistette per l’intero sviluppo successivo. Al posto del padre fu insediato un animale come totem; considerato come antenato e spirito protettore, non poteva essere danneggiato o ucciso, ma una volta all’anno tutta la comunità dei maschi si ritrovava per un pasto rituale, nel quale il totem animale, altrimenti venerato, veniva fatto a pezzi e divorato in comune. Nessuno poteva esimersi dal partecipare a questo pasto: era la ripetizione solenne dell’uccisione del padre, con la quale avevano avuto inizio ordine sociale, leggi morali e religione. La concordanza del pasto totemico di Robertson Smith con la Cena cristiana aveva richiamato l’attenzione di parecchi autori prima di me."
+                        ],
+                        "article": "freud.l-uomo-mose-e-la-religione-monoteistica",
+                        "epage": "7336-7337"
+                    }
+                }
+            ],
+            "title": {
+                "text": "Teoria totemica di Robertson-Smith"
+            }
+        }
+    ],
     "books": [
         {
             "id": "freud.l-interpretazione-dei-sogni",
@@ -6196,6 +6846,13 @@
             ],
             "edition": "Il Mulino, Bologna, 1984",
             "datepub": "1984"
+        },
+        {
+            "id": "robertson-smith.lectures-on-the-religion-of-the-semites",
+            "title": null,
+            "authors": [
+                "RobertsonSmith"
+            ]
         }
     ],
     "articles": [
@@ -7014,6 +7671,22 @@
             }
         },
         {
+            "id": "freud.l-uomo-mose-e-la-religione-monoteistica",
+            "title": {
+                "text": "L'uomo Mosè e la religione monoteistica"
+            },
+            "authors": [
+                "Freud"
+            ],
+            "reviews": [],
+            "contents": [],
+            "datepub": "1937-1938",
+            "book": "freud.opere-XI",
+            "abstract": {
+                "contents": []
+            }
+        },
+        {
             "id": "musatti.musatti.introduzione-opere-freud-vol-XI",
             "title": {
                 "text": "Introduzione al volume XI delle opere di Freud"
@@ -7088,12 +7761,22 @@
         {
             "kind": "rconcept",
             "from": "freud.io",
+            "to": "freud.resistenza"
+        },
+        {
+            "kind": "rconcept",
+            "from": "freud.io",
             "to": "freud.seconda-topica"
         },
         {
             "kind": "rconcept",
             "from": "freud.meta.sistema-inc",
             "to": "freud.modo-di-rappresentazione-dinamico"
+        },
+        {
+            "kind": "rarticle",
+            "from": "freud.meta.sistema-inc",
+            "to": "freud.l-io-e-l-es"
         },
         {
             "kind": "rconcept",
@@ -7386,5 +8069,8 @@
             "to": "freud.punto-di-vista-dinamico"
         }
     ],
-    "ns_author": "global"
+    "ns_author": "global",
+    "title": {
+        "text": "Lectures on the Religion of the Semites"
+    }
 }

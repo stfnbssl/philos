@@ -212,6 +212,14 @@
                 )
             ;
         }
+        function ImageParagraph(props) {
+            var {src} = props;
+            return  (
+                    <img src={src}>
+                    </img>
+                )
+            ;
+        }
         function Quote(props) {
             var {item, jsonData} = props;
             var page = null;
@@ -233,6 +241,13 @@
                                 return  (
                                         <Quote key={i} item={token.quote} jsonData={jsonData}>
                                         </Quote>
+                                    )
+                                ;
+                            }
+                            else if (token.img) {
+                                return  (
+                                        <ImageParagraph src={token.img}>
+                                        </ImageParagraph>
                                     )
                                 ;
                             }
@@ -429,6 +444,13 @@
                                         )
                                     ;
                                 }
+                                else if (token.image) {
+                                    return  (
+                                            <ImageParagraph src={token.image}>
+                                            </ImageParagraph>
+                                        )
+                                    ;
+                                }
                                 else if (token.quote) {
                                     return  (
                                             <Quote key={i} item={token.quote} jsonData={jsonData}>
@@ -601,7 +623,7 @@
                                     <div>
                                     {
                                         jsonData.authors.sort(compareById).map((item) => {
-                                            if ((!searchText || searchText.length == 0) || item.id.indexOf(searchText) > -1) {
+                                            if (dbFilterIdAndTitle(item, searchText)) {
                                                 return  (
                                                         <AuthorListItem key={item.id} item={item} classes={classes} onClick={this.handleAuthorOpen}>
                                                         </AuthorListItem>
@@ -911,7 +933,7 @@
                                     
                                     {
                                         jsonData.articles.sort(compareByDatePub).map((item) => {
-                                            if ((!searchText || searchText.length == 0) || item.id.indexOf(searchText) > -1) {
+                                            if (dbFilterIdAndTitle(item, searchText)) {
                                                 return  (
                                                         <div key={item.id}>
                                                             <ArticleListItem item={item} onClick={this.handleArticleOpen}>
@@ -928,7 +950,7 @@
                                     
                                     {
                                         jsonData.books.sort(compareByDatePub).map((item) => {
-                                            if ((!searchText || searchText.length == 0) || item.id.indexOf(searchText) > -1) {
+                                            if (dbFilterIdAndTitle(item, searchText)) {
                                                 return  (
                                                         <div key={item.id}>
                                                             <BookListItem item={item} onClick={this.handleBookOpen}>

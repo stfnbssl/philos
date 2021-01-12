@@ -1,0 +1,27 @@
+$group
+
+    namespace freud.religione
+
+        concept l-uomo-mosè
+            title L'uomo mosè
+
+            quote
+                + Forti delle nostre discussioni precedenti, possiamo ora affermare che fu l’uomo Mosè 
+                    \b a scolpire nel popolo ebraico questa impronta indelebile. 
+                    \b Egli accrebbe la presunzione degli Ebrei assicurandoli che erano il popolo eletto da Dio, 
+                    \b diede loro la consacrazione e li obbligò a distinguersi dagli altri. 
+                    \b Non che gli altri popoli mancassero di presunzione. 
+                    \b Allora come oggi ogni nazione si considerava migliore di ogni altra. 
+                    \b Ma con Mosè la presunzione degli Ebrei mise radice nella religione 
+                    \b e divenne una parte della loro fede religiosa. 
+                    \b In virtù della loro relazione particolarmente intima con il loro Dio 
+                    \b parteciparono della sua grandezza. 
+                    \b E considerato che dietro il Dio che aveva prescelto gli Ebrei 
+                    \b e li aveva liberati dagli Egizi c’era la persona di Mosè, 
+                    \b il quale aveva fatto proprio questo, apparentemente per ordine divino, 
+                    \b non è avventato dire che l’uomo Mosè creò, lui, gli Ebrei. 
+                    \b A lui questo popolo deve la sua tenacità, 
+                    \b ma anche molta dell’ostilità che ha incontrato e tuttora incontra.
+                article freud.l-uomo-mose-e-la-religione-monoteistica
+                e-page 7309-7310
+

@@ -4,13 +4,66 @@ $group
 
         concept io
             title Io
-            
+
+            quote
+                + Ci siamo fatti l’idea che esista nella persona un nucleo organizzato e coerente 
+                    \b di processi psichici che chiamiamo l’Io di quella persona.
+                    \b A tale Io è legata la coscienza; esso domina le vie d’accesso alla motilità, 
+                    \b ossia alla scarica degli eccitamenti nel mondo esterno; 
+                    \b l’Io è quell’istanza psichica che esercita un controllo 
+                    \b su tutti i processi parziali da lui stesso messi in moto; 
+                    \b esso è l’istanza psichica che di notte va a dormire 
+                    \b e pur tuttavia esercita la censura onirica.
+                article freud.l-io-e-l-es
+                e-page 5958
+
+            r-concept freud.resistenza
+                quote
+                    + Ora, durante l’analisi si può osservare che l’ammalato [..] incontra delle difficoltà: 
+                        \b le associazioni vengono meno quando dovrebbero avvicinarsi al rimosso. 
+                        \b [.. incontra una resistenza che l'Io manifesta]; egli però non ne sa nulla, 
+                        \b [..] ci troviamo di fronte a una situazione che non avevamo previsto. 
+                        \b Abbiamo trovato nell’Io stesso qualche cosa, anch’esso inconscio, 
+                        \b che si comporta precisamente alla maniera del rimosso, 
+                        \b e cioè qualche cosa che esercita potenti effetti senza divenire in quanto tale cosciente, 
+                        \b e che necessita, per esser reso cosciente, di un particolare lavoro.
+                    article freud.l-io-e-l-es
+                    e-page 5958
+        
+            quote
+                + Cioè l’Io è in definitiva derivato da sensazioni corporee, 
+                    \b soprattutto dalle sensazioni provenienti dalla superficie del corpo. 
+                    \b Esso può dunque venir considerato come una proiezione psichica della superficie del corpo, 
+                    \b e inoltre, come abbiamo visto, il rappresentante degli elementi superficiali 
+                    \b dell’apparato psichico.
+                article freud.l-io-e-l-es
+                $$ TODO questa è una nota all'articolo
+                e-page 8388
+
+            quote
+                img ./assets/img/db/freud/l-io-e-l-es_io.jpg
+                + È facile rendersi conto che l’Io è quella parte dell’Es 
+                    \b che ha subito una modificazione per la diretta azione del mondo esterno 
+                    \b grazie all’intervento del [sistema] P-C: 
+                    \b in certo qual modo è una propaggine della differenziazione superficiale. 
+                    \b L’Io si sforza altresì di far valere l’influenza del mondo esterno sull’Es 
+                    \b e sulle sue intenzioni tentando di sostituire il principio di realtà al principio di piacere, 
+                    \b che nell’Es esercita un dominio incontrastato. 
+                    \b La percezione ha per l’Io la funzione che nell’Es spetta alla pulsione. 
+                    \b L’Io rappresenta ciò che può dirsi ragione e ponderatezza, 
+                    \b in opposizione all’Es che è il ricettacolo delle passioni. 
+                    \b Tutto ciò corrisponde alle ben note distinzioni popolari; 
+                    \b ma va tuttavia inteso soltanto come situazione media o in senso ideale.
+                article freud.l-io-e-l-es
+                e-page 5967
+
             r-concept freud.seconda-topica
                 quote
                     + Tuttavia anche l’Io soggiace all’azione delle pulsioni come l’Es, 
                         \b di cui è soltanto una parte che ha subito una particolare modificazione.
                     article freud.l-io-e-l-es
                     e-page 5983
+
 
             concept parte-inconscia
                 title Parte inconscia dell'Io

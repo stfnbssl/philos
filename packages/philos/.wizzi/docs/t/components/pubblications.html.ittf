@@ -116,7 +116,7 @@ $group
                                         _ jsonData.articles.sort(compareByDatePub).map
                                             =>
                                                 param item
-                                                if (!searchText || searchText.length == 0) || item.id.indexOf(searchText) > -1
+                                                if dbFilterIdAndTitle(item, searchText)
                                                     return
                                                         div
                                                             @ key {item.id}
@@ -129,7 +129,7 @@ $group
                                         
                                             =>
                                                 param item
-                                                if (!searchText || searchText.length == 0) || item.id.indexOf(searchText) > -1
+                                                if dbFilterIdAndTitle(item, searchText)
                                                     return
                                                         div
                                                             @ key {item.id}

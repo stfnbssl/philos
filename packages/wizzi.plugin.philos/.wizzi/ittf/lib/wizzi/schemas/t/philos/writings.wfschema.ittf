@@ -1,7 +1,4 @@
 $group
-    e text : item
-        tag +
-    e li : item
     e page : item
     e ereader : item
         tag e-reader

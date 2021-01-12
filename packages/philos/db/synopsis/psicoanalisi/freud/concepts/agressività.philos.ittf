@@ -1,0 +1,17 @@
+$group
+
+    namespace freud
+
+        concept agressività
+            title Agressività
+            
+            quote
+                + Che cosa avviene nell’individuo a rendere innocuo il suo desiderio di aggressione? 
+                    \b Qualcosa di assai curioso, che non avremmo indovinato e che pure è assai semplice. 
+                    \b L’aggressività viene introiettata, interiorizzata, 
+                    \b propriamente viene rimandata là donde è venuta, ossia è volta contro il proprio Io. 
+                    \b Qui viene assunta da una parte dell’Io, che si contrappone come Super-io al rimanente, 
+                    \b e ora come “coscienza” è pronto a dimostrare contro l’Io la stessa inesorabile aggressività 
+                    \b che l’Io avrebbe volentieri soddisfatto contro altri individui estranei.
+                article freud.il-disagio-della-civiltà
+                e-page 6790-6791

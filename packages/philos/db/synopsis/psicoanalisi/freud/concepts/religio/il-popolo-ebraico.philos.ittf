@@ -1,0 +1,34 @@
+$group
+
+    namespace freud.religione
+
+        concept il-popolo-ebraico
+            title Il popolo ebraico
+
+            quote
+                + Com’è noto, di tutti i popoli che nell’antichità hanno abitato intorno al bacino mediterraneo, 
+                    \b il popolo ebraico è all’incirca l’unico che esista ancor oggi di nome e anche in sostanza. 
+                    \b Esso ha affrontato sventure e vessazioni con una capacità di resistenza esemplare, 
+                    \b ha sviluppato particolari lati del suo carattere e s’è guadagnato inoltre 
+                    \b la cordiale avversione di tutti gli altri popoli.
+                article freud.l-uomo-mose-e-la-religione-monoteistica
+                e-page 7308
+
+            quote
+                + Il seme del monoteismo non germogliò in Egitto. 
+                    \b E lo stesso avrebbe potuto accadere in Israele, 
+                    \b allorché il popolo si fu scrollato di dosso questa gravosa religione con le sue pretese. 
+                    \b Ma dal popolo ebraico si levarono sempre uomini che vivificarono la tradizione che languiva, 
+                    \b che rinnovarono gli ammonimenti e le richieste di Mosè 
+                    \b e non si arrestarono prima che la fede perduta fosse ristabilita. 
+                    \b Secoli di sforzi e infine due grandi riforme, 
+                    \b l’una prima e l’altra dopo l’esilio babilonese, 
+                    \b compirono la trasformazione del dio popolare Yahweh 
+                    \b nel Dio che Mosè aveva imposto agli Ebrei di adorare. 
+                    \b Prova di una particolare attitudine psichica, nella massa che divenne il popolo ebraico, 
+                    \b è il fatto che essa poté suscitare tanti uomini pronti a prendere su di sé 
+                    \b il carico della religione di Mosè, 
+                    \b attratti dalla ricompensa di essere gli eletti 
+                    \b e forse anche da altri premi di simile rango.
+                article freud.l-uomo-mose-e-la-religione-monoteistica
+                e-page 7315

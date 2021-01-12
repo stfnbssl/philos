@@ -1,0 +1,33 @@
+$group
+
+    namespace freud.religione
+
+        concept sviluppi
+            title Sviluppi della religione
+
+            quote
+                + Il passo consecutivo al totemismo è l’umanazione dell’essere venerato. 
+                    \b Al posto degli animali subentrano dèi umani, della cui derivazione dal totem non si fa mistero. 
+                    \b Il dio è ancora raffigurato o in forma animale o almeno con faccia d’animale, 
+                    \b oppure il totem diviene il compagno preferito del dio, da cui è inseparabile, 
+                    \b oppure ancora la leggenda fa sì che il dio uccida proprio questo animale, 
+                    \b che a ben vedere era solo lo stadio preliminare di lui stesso. 
+                    \b A un certo punto difficilmente determinabile di questa evoluzione 
+                    \b fanno la loro comparsa grandi divinità materne, probabilmente anche prima degli dèi maschili, 
+                    \b con i quali coesistettero poi a lungo. 
+                    \b Si era frattanto compiuto un grande rivolgimento sociale. 
+                    \b Il matriarcato era stato sostituito dal ristabilirsi di un ordine patriarcale. 
+                    \b I nuovi padri non raggiunsero in verità mai il potere assoluto del padre primordiale; 
+                    \b erano in molti e vivevano associati in raggruppamenti più grandi di quanto fosse stata l’orda; 
+                    \b dovevano mantenere buoni rapporti reciproci ed erano limitati da norme sociali. 
+                    \b È verosimile che le divinità materne avessero origine al tempo della restrizione del matriarcato, 
+                    \b per compensare le madri messe in disparte. 
+                    \b Le divinità maschili apparvero dapprima come figli accanto alle grandi madri, 
+                    \b e solo dopo assunsero nettamente i tratti di figure paterne. 
+                    \b Questi dèi maschili del politeismo rispecchiano i rapporti dell’epoca patriarcale. 
+                    \b Sono numerosi, si limitano a vicenda, 
+                    \b occasionalmente sono subordinati a un dio supremo che li sovrasta. 
+                    \b Il passo successivo, però, conduce al tema che ci sta occupando, 
+                    \b ossia al ritorno di un solo dio-padre, unico e illimitato signore.
+                article freud.l-uomo-mose-e-la-religione-monoteistica
+                e-page 7284-7285

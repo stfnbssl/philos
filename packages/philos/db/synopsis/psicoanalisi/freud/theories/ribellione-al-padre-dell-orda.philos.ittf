@@ -1,0 +1,13 @@
+$group
+
+    namespace atkinson
+
+        theory ribellione-al-padre-dell-orda
+            title Teoria della ribellione al padre dell'orda di Atkinson
+
+            quote
+                + Da Atkinson, [.. presi], l’ipotesi che quel sistema patriarcale [l'orda primitiva] 
+                    \b avesse fine con la ribellione dei figli, 
+                    \b che si unirono contro il padre, lo sopraffecero e lo divorarono in comune.
+                article freud.l-uomo-mose-e-la-religione-monoteistica
+                e-page 7336

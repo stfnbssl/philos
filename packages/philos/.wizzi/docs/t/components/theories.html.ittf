@@ -1,34 +1,105 @@
 $group
 
-    function TheoryList
+    react TheoryList
+        
+        list-functions(Theory, Teorie)
+        
+        => handleTheoryOpen
+            param ev
+            param selectedItem
+            # log 'handleTheoryOpen.id', selectedItem.id
+            # log 'handleTheoryOpen.ev', ev
+            _ this.setState
+                =>
+                    param prevState
+                    log 'handleTheoryOpen'
+                    _ prevState.forms.push
+                        @ prevState.current
+                    var current
+                        {
+                            @ ...prevState.current
+                            @ status 'theory'
+                            @ selectedItem selectedItem
+                            @ depth prevState.forms.length
+                            @ title (selectedItem.title && selectedItem.title.text) || selectedItem.id
+                            @ justRenderedItem true
+                    _ this.props.onChangeCurrent(current, this.handleTheoryClose, this.handleChangeSearch)
+                    log 'onChangeCurrent called'
+                    return
+                        {
+                            @ ...prevState
+                            @ current current
+
+        render
+            prop jsonData
+            prop onChangeCurrent
+            const 
+                { 
+                    @ status
+                    @ selectedItem
+                    @ searchText
+                = this.state.current
+
+            log 'TheoryList: status,selectedItem,searchText', status, selectedItem, searchText
+
+            return
+                div
+                    < Paper
+                        @ className paper
+                        {
+                            &&
+                                + status == 'list'
+                                div
+                                    {
+                                        _ jsonData.theories.sort(compareById).map
+                                            =>
+                                                param item
+                                                if dbFilterIdAndTitle(item, searchText)
+                                                    return
+                                                        < TheoryListItem
+                                                            @ key {item.id}
+                                                            @ item {item}
+                                                            @ onClick {this.handleTheoryOpen}
+                        {
+                            &&
+                                + status == 'theory'
+                                div
+                                    < Theory
+                                        @ item {selectedItem}
+                                        @ jsonData {jsonData}
+
+    function TheoryListItem
         param props
-        var {jsonData} = props
+        var {item, onClick} = props
+        var {id, name, title} = item
+        set title = title && title.text ? title.text : name
         return
             div
-                < h2 Teorie
-                < Paper
-                    @ style {{maxHeight: 370, overflow: 'auto'}}
-                    < Table 
-                        {
-                            _ jsonData.theories.sort(compareById).map
-                                function
-                                    param item
-                                    return
-                                        < TableRow 
-                                            @ button
-                                            @ key {item.id}
-                                            < TableCell
-                                                h3 {item.id}
-                                                < ContentText
-                                                    @ item {item}
+                @ onClick
+                    =>
+                        param event
+                        _ onClick(event, item)
+                
+                div {title}
+                    @ className "li-c-title"
+                div id: {id}
+                    @ className "li-c-id"
+                div
+                    @ className "li-clear"
 
-    
     function Theory
         param props
-        var {item} = props
+        var {item, handleOpen, jsonData} = props
+        var {id, name, title} = item
+        set title = (title || name)
         return
             < div 
-                < h3 {item.id}
+                {
+                    &&
+                        + item.aliases && item.aliases.length > 0
+                        < Aliases
+                            @ item {item}
                 < ContentText
                     @ item {item}
-        
+                    @ jsonData {jsonData}
+                    @ handleOpen {handleOpen}

@@ -1,0 +1,12 @@
+$group
+
+    namespace freud
+
+        concept introiezione
+            title Introiezione
+
+            quote
+
+            concept primaria
+
+            concept da-perdita-di-oggetto

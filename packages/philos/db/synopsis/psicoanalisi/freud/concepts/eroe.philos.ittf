@@ -1,0 +1,13 @@
+$group
+
+    namespace freud
+
+        concept eroe
+            title Eroe
+
+            quote
+                + Eroe è colui che coraggiosamente si leva contro il padre e alla fine lo supera vittoriosamente. 
+                    \b Il nostro mito insegue questa lotta nella preistoria individuale, 
+                    \b perché fa nascere il bambino contro la volontà del padre 
+                    \b e lo fa salvo nonostante le cattive intenzioni di questi.
+                e-page 7206

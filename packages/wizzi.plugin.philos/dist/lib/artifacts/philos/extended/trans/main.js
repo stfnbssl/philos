@@ -91,6 +91,22 @@ function doitem(parent, resultObj) {
     }
 }
 var functors = {};
+functors.namespace = function(parent, resultObj) {
+    resultObj.ns = parent.wzName;
+    console.log('functors.namespace');
+    var i, i_items=parent.items, i_len=parent.items.length, child;
+    for (i=0; i<i_len; i++) {
+        child = parent.items[i];
+        if (child.wzElement == "author") {
+            resultObj.ns_author = child.wzName;
+        }
+        else {
+            doitem(child, resultObj);
+        }
+    }
+    resultObj.ns = 'global';
+    resultObj.ns_author = 'global';
+};
 functors.author = function(parent, resultObj) {
     var authorObj = {
         id: parent.wzName, 
@@ -184,22 +200,6 @@ functors.comment = function(parent, resultObj) {
         }
     }
     return commentObj;
-};
-functors.namespace = function(parent, resultObj) {
-    resultObj.ns = parent.wzName;
-    console.log('functors.namespace');
-    var i, i_items=parent.items, i_len=parent.items.length, child;
-    for (i=0; i<i_len; i++) {
-        child = parent.items[i];
-        if (child.wzElement == "author") {
-            resultObj.ns_author = child.wzName;
-        }
-        else {
-            doitem(child, resultObj);
-        }
-    }
-    resultObj.ns = 'global';
-    resultObj.ns_author = 'global';
 };
 functors.concept = function(parent, resultObj) {
     console.log('functors.concept');
@@ -413,6 +413,11 @@ function fillContents(node, currentObj, resultObj) {
             line: node.wzName
         });
     }
+    else if (node.wzElement == 'img') {
+        currentObj.contents.push({
+            img: node.wzName
+        });
+    }
     else if (node.wzElement == 'quote') {
         currentObj.contents.push({
             quote: fillQuote(node, currentObj, resultObj)
@@ -500,6 +505,11 @@ function fillQuote(node, currentObj, resultObj) {
         if (child.wzElement == 'text') {
             quoteObj.lines.push(child.wzName);
         }
+        else if (child.wzElement == 'img') {
+            quoteObj.lines.push({
+                img: child.wzName
+            });
+        }
         else if (child.wzElement == 'author') {
             quoteObj.author = child.wzName;
             var j, j_items=child.items, j_len=child.items.length, item;
@@ -537,7 +547,7 @@ function fillQuote(node, currentObj, resultObj) {
             });
         }
         else {
-            quoteObj.unknown = child.wzElement;
+            quoteObj.unknown = child.wzElement + '/' + child.wzName;
         }
     }
     return quoteObj;
@@ -588,6 +598,16 @@ functors.approach = function(parent, resultObj) {
     var approachObj = createConcept(parent.wzName, resultObj, "approach");
     var newitems = fillConcept(parent, resultObj, approachObj);
     resultObj.approaches.push(approachObj);
+    var i, i_items=newitems, i_len=newitems.length, child;
+    for (i=0; i<i_len; i++) {
+        child = newitems[i];
+        doitem(child, resultObj);
+    }
+};
+functors.theory = function(parent, resultObj) {
+    var theoryObj = createConcept(parent.wzName, resultObj, "theory");
+    var newitems = fillConcept(parent, resultObj, theoryObj);
+    resultObj.theories.push(theoryObj);
     var i, i_items=newitems, i_len=newitems.length, child;
     for (i=0; i<i_len; i++) {
         child = newitems[i];

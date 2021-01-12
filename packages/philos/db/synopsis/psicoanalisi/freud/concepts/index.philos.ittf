@@ -5,9 +5,11 @@ $group
     $include nevrosi/index
     $include progetto/index
     $include sogno/index
+    $include religio/index
     $include ambivalenza
     $include abreazione
     $include affetto
+    $include agressività
     $include amnesia-infantile
     $include angoscia
     $include appoggio
@@ -29,16 +31,19 @@ $group
     $include educazione
     $include effetto-retroattivo
     $include energia
+    $include eroe
     $include eros
     $include erotismo
     $include essere-superiore
     $include fantasticare
     $include festa
+    $include fobia
     $include formazione-di-compromesso
     $include formazione-reattiva
     $include identificazione
     $include inibizione
     $include innervazione
+    $include introiezione
     $include investimento
     $include isteria
     $include istinto
@@ -48,6 +53,7 @@ $group
     $include motilità
     $include narcisismo
     $include nascita-difficile
+    $include paura-evirazione
     $include percezione-interna
     $include percezione-non-idoneità-ad-amare
     $include percezione
@@ -63,14 +69,18 @@ $group
     $include pulsione
     $$ $include rappresentante
     $include rappresentazione-verbale
+    $include realtà-psichica-e-di-fatto
     $include reazione-terapeutica-negativa
     $include regola-fondamentale
     $include repressione
     $include residuo-mnestico
     $include resistenza
     $include rimozione
+    $include rinuncia-pulsionale
+    $include ritorno-del-rimosso
     $include scena-primaria
     $include sensazione
+    $include senso-di-colpa
     $include sentimento-di-sé
     $include sintomo
     $include sopraffazione-dell-io

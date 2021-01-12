@@ -1,0 +1,24 @@
+$group
+
+    namespace freud.religione
+
+        concept eredità-arcaica
+            title Eredità arcaica
+
+            quote
+                + Sorgono allora le domande: in che cosa consiste questa eredità [arcaica], che cosa contiene, 
+                    \b quali ne sono le prove? La prima e più sicura risposta è questa: 
+                    \b essa consiste in determinate predisposizioni, proprie a tutti gli esseri viventi. 
+                    \b Vale a dire nella capacità e inclinazione a battere determinate direzioni di sviluppo e 
+                    \b a reagire in un modo particolare a certi eccitamenti, impressioni e stimoli. 
+                    \b Poiché l’esperienza mostra che nei singoli esseri del genere umano 
+                    \b ci sono a questo riguardo delle differenze, l’eredità arcaica le include, 
+                    \b esse configurano cioè quello che noi riconosciamo come il fattore costituzionale dell’individuo. 
+                    \b Ora, poiché gli uomini nei loro primi anni sperimentano tutti pressappoco le stesse cose, 
+                    \b vi reagiscono anche in maniera simile; 
+                    \b potrebbe perciò sorgere il dubbio se non si debbano ascrivere queste reazioni, 
+                    \b unitamente alle loro differenze individuali, all’eredità arcaica. 
+                    \b Questo dubbio va respinto; la nostra conoscenza dell’eredità arcaica 
+                    \b non è arricchita dal fatto di questa somiglianza.
+                article freud.l-uomo-mose-e-la-religione-monoteistica
+                e-page 7301

@@ -5,9 +5,12 @@ $group
     $include ../../authors/freud
     $include ../../authors/musatti
     $include ../../authors/scalzone
+    $include ../../authors/robertson-smith
     $include ../../biblio/anepeta
     $include ../../biblio/freud
     $include ../../biblio/forrester
     $include ../../biblio/musatti
     $include ../../biblio/scalzone
+    $include ../../biblio/robertson-smith
     $include concepts/index
+    $include theories/index

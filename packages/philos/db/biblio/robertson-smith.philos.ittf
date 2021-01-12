@@ -1,0 +1,8 @@
+$group
+
+    namespace robertson-smith
+        author RobertsonSmith
+
+        book lectures-on-the-religion-of-the-semites
+        title Lectures on the Religion of the Semites
+        edition Londra, 2a ed. 1894

@@ -1,0 +1,14 @@
+$group
+
+    namespace freud
+
+        concept paura-evirazione
+            title Paura dell'evirazione
+
+            quote
+                + È vero che nel piccolo Árpád, del quale Ferenczi ci riferisce, 
+                    \b gli interessi totemistici non si ridestano in diretta connessione con il complesso edipico, 
+                    \b bensì in base al presupposto narcisistico del complesso stesso, 
+                    \b ossia in base alla paura dell’evirazione.
+                article freud.totem-e-tabu
+                e-page 4051

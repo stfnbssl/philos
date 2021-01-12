@@ -22,6 +22,10 @@ $group
             _ currentObj.contents.push
                 {
                     @ line node.wzName
+        elif node.wzElement == 'img'
+            _ currentObj.contents.push
+                {
+                    @ img node.wzName
         elif node.wzElement == 'quote'
             _ currentObj.contents.push
                 {
@@ -103,6 +107,10 @@ $group
             if child.wzElement == 'text'
                 _ quoteObj.lines.push
                     @ child.wzName
+            elif child.wzElement == 'img'
+                _ quoteObj.lines.push
+                    {
+                        @ img child.wzName
             elif child.wzElement == 'author'
                 set quoteObj.author = child.wzName
                 foreach item in child.items
@@ -135,7 +143,7 @@ $group
                                 @ currentObj
                                 @ resultObj
             else
-                set quoteObj.unknown = child.wzElement
+                set quoteObj.unknown = child.wzElement + '/' + child.wzName
         return quoteObj
 
     set functors.period

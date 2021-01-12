@@ -1,0 +1,17 @@
+$group
+
+    namespace freud
+
+        concept senso-di-colpa
+            title Senso di colpa
+            alias Sentimento di colpa
+            alias Coscienza della propria colpa
+
+            quote
+                + Chiamiamo coscienza della propria colpa la tensione tra il rigido Super-io e l’Io ad esso soggetto; 
+                    \b essa si manifesta come bisogno di punizione. 
+                    \b La civiltà domina dunque il pericoloso desiderio di aggressione dell’individuo infiacchendolo, 
+                    \b disarmandolo e facendolo sorvegliare da una istanza nel suo interno, 
+                    \b come da una guarnigione nella città conquistata.
+                article freud.il-disagio-della-civiltà
+                e-page 6791

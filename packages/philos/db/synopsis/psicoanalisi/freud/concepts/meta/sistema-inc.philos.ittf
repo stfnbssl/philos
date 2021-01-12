@@ -4,6 +4,7 @@ $group
 
         concept sistema-inc
             title Sistema Inc
+            alias Inc
 
             r-concept freud.modo-di-rappresentazione-dinamico
                 quote
@@ -21,4 +22,14 @@ $group
                         \b non è la struttura psichica che ci appare elemento mobile, bensì la sua innervazione.
                     e-page 1835-1836
                     article freud.l-interpretazione-dei-sogni
+
+            r-article freud.l-io-e-l-es
+                + Freud individua 3 tipi di inconscio:
+                    li il latente, capasce di farsi cosciente all'occorrenza senza particolari problemi,
+                        \b che chiama preconscio, o Prec;
+                    li il rimosso, che è il frutto della azione dinamica
+                        \b della resistenza dell'Io;
+                    li la resistenza dell'Io stessa, di cui l'individuo non ha consapevolezza,
+                        \b e che è quindi una forma di inconscio non rimossa.
+
 

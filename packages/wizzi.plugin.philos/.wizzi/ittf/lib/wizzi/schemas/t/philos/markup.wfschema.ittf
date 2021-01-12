@@ -1,0 +1,10 @@
+$group
+
+    e text : item
+        tag +
+    e li : item
+    e a : item
+        a href
+        a title
+        a target
+    e img : item

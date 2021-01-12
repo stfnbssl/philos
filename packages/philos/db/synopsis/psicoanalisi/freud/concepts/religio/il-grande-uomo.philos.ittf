@@ -1,0 +1,25 @@
+$group
+
+    namespace freud.religione
+
+        concept il-grande-uomo
+            title Il grande uomo
+
+            quote
+                + Il perché il grande uomo acquisti importanza, non c’è oscuro neanche per un istante. 
+                    \b Sappiamo che nella massa degli uomini vi è grande bisogno di un’autorità da ammirare, 
+                    \b a cui inchinarsi, da cui essere dominati, fors’anche maltrattati. 
+                    \b Dalla psicologia dell’individuo abbiamo appreso donde proviene questo bisogno della massa. 
+                    \b È la nostalgia del padre insita in ognuno dall’infanzia, 
+                    \b dello stesso padre che l’eroe della leggenda si vanta di aver vinto. 
+                    \b E ora cominciamo a vederci chiaro: 
+                    \b tutte le qualità di cui dotiamo il grande uomo sono caratteristiche paterne, 
+                    \b e in questa concordanza consiste l’essenza del grande uomo da noi vanamente cercata. 
+                    \b La risolutezza dei pensieri, la forza di volontà, l’impeto dell’azione 
+                    \b appartengono all’immagine paterna, ma più di tutto l’autonomia e l’indipendenza del grande uomo, 
+                    \b la sua divina noncuranza che può crescere fino alla mancanza di qualsiasi riguardo. 
+                    \b Lo si deve ammirare, è consentita la fiducia in lui, ma non si può fare a meno anche di temerlo. 
+                    \b Avremmo dovuto lasciarci guidare letteralmente dalla parola: 
+                    \b chi altri se non il padre può essere stato l’“uomo grande” nell’infanzia!
+                article freud.l-uomo-mose-e-la-religione-monoteistica
+                e-page 7313

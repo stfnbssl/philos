@@ -1,0 +1,19 @@
+$group
+
+    namespace freud.religione
+
+        concept totemismo
+            title Totemismo
+
+            quote
+                + Ritengo che abbiamo pieno diritto di riconoscere nel totemismo, 
+                    \b con la sua venerazione di un sostituto paterno, 
+                    \b con l’ambivalenza mostrata nel pasto totemico, 
+                    \b con l’istituzione di celebrazioni commemorative, 
+                    \b di divieti la cui trasgressione era punita con la morte, 
+                    \b è lecito riconoscere nel totemismo, dicevo, 
+                    \b la prima forma di apparizione della religione nella storia umana 
+                    \b e confermare il suo nesso fin dal principio 
+                    \b con gli ordinamenti sociali e gli obblighi morali.
+                article freud.l-uomo-mose-e-la-religione-monoteistica
+                e-page 7284

@@ -180,6 +180,12 @@
           ]
         },
         {
+          "name": "text",
+          "tags": [
+            "+"
+          ]
+        },
+        {
           "name": "li",
           "tags": [
             "li"
@@ -189,6 +195,12 @@
           "name": "a",
           "tags": [
             "a"
+          ]
+        },
+        {
+          "name": "img",
+          "tags": [
+            "img"
           ]
         },
         {
@@ -399,18 +411,6 @@
           "name": "example",
           "tags": [
             "example"
-          ]
-        },
-        {
-          "name": "text",
-          "tags": [
-            "+"
-          ]
-        },
-        {
-          "name": "li",
-          "tags": [
-            "li"
           ]
         },
         {
@@ -1489,6 +1489,45 @@
       "comments": []
     },
     {
+      "name": "text",
+      "super": "item",
+      "isRoot": false,
+      "tags": [
+        "+"
+      ],
+      "flags": "",
+      "attributes": [
+        {
+          "name": "value",
+          "type": "string",
+          "tags": [
+            "value"
+          ],
+          "flags": "",
+          "inheritedFrom": "item",
+          "restricts": [],
+          "comments": []
+        }
+      ],
+      "relations": [
+        {
+          "name": "item",
+          "role": "items",
+          "tags": [
+            "item"
+          ],
+          "cardinality": "one-to-many",
+          "flags": "",
+          "inheritedFrom": "item",
+          "comments": []
+        }
+      ],
+      "derived": [],
+      "restricts": [],
+      "methods": [],
+      "comments": []
+    },
+    {
       "name": "li",
       "super": "item",
       "isRoot": false,
@@ -1569,6 +1608,45 @@
           "restricts": [],
           "comments": []
         },
+        {
+          "name": "value",
+          "type": "string",
+          "tags": [
+            "value"
+          ],
+          "flags": "",
+          "inheritedFrom": "item",
+          "restricts": [],
+          "comments": []
+        }
+      ],
+      "relations": [
+        {
+          "name": "item",
+          "role": "items",
+          "tags": [
+            "item"
+          ],
+          "cardinality": "one-to-many",
+          "flags": "",
+          "inheritedFrom": "item",
+          "comments": []
+        }
+      ],
+      "derived": [],
+      "restricts": [],
+      "methods": [],
+      "comments": []
+    },
+    {
+      "name": "img",
+      "super": "item",
+      "isRoot": false,
+      "tags": [
+        "img"
+      ],
+      "flags": "",
+      "attributes": [
         {
           "name": "value",
           "type": "string",
@@ -2931,84 +3009,6 @@
       "isRoot": false,
       "tags": [
         "example"
-      ],
-      "flags": "",
-      "attributes": [
-        {
-          "name": "value",
-          "type": "string",
-          "tags": [
-            "value"
-          ],
-          "flags": "",
-          "inheritedFrom": "item",
-          "restricts": [],
-          "comments": []
-        }
-      ],
-      "relations": [
-        {
-          "name": "item",
-          "role": "items",
-          "tags": [
-            "item"
-          ],
-          "cardinality": "one-to-many",
-          "flags": "",
-          "inheritedFrom": "item",
-          "comments": []
-        }
-      ],
-      "derived": [],
-      "restricts": [],
-      "methods": [],
-      "comments": []
-    },
-    {
-      "name": "text",
-      "super": "item",
-      "isRoot": false,
-      "tags": [
-        "+"
-      ],
-      "flags": "",
-      "attributes": [
-        {
-          "name": "value",
-          "type": "string",
-          "tags": [
-            "value"
-          ],
-          "flags": "",
-          "inheritedFrom": "item",
-          "restricts": [],
-          "comments": []
-        }
-      ],
-      "relations": [
-        {
-          "name": "item",
-          "role": "items",
-          "tags": [
-            "item"
-          ],
-          "cardinality": "one-to-many",
-          "flags": "",
-          "inheritedFrom": "item",
-          "comments": []
-        }
-      ],
-      "derived": [],
-      "restricts": [],
-      "methods": [],
-      "comments": []
-    },
-    {
-      "name": "li",
-      "super": "item",
-      "isRoot": false,
-      "tags": [
-        "li"
       ],
       "flags": "",
       "attributes": [

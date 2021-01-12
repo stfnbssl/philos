@@ -1,0 +1,23 @@
+$group
+
+    namespace darwin
+
+        theory orda-primitiva
+            title Teoria dell'orda primitiva di Darwin
+
+            quote
+                + Da Darwin presi l’ipotesi che in origine gli uomini vivessero in piccole orde, 
+                    \b ciascuna sotto la tirannia di un maschio più anziano, 
+                    \b che si appropriava di tutte le femmine e castigava o scacciava i giovani, inclusi i propri figli.
+                article freud.l-uomo-mose-e-la-religione-monoteistica
+                e-page 7336
+
+            quote
+                + Essa dice che in tempi primitivi l’uomo primigenio viveva in piccole orde, 
+                    \b ciascuna dominata da un maschio robusto. Non possiamo indicare l’epoca e 
+                    \b ci sfugge il collegamento con ere geologiche a noi note; 
+                    \b è probabile che quell’essere umano non fosse molto avanzato nello sviluppo della parola. 
+                    \b Una parte essenziale della costruzione è l’ipotesi che le vicende che 
+                    \b sto per descrivere riguardassero tutti i primi uomini, e quindi tutti i nostri avi.
+                article freud.l-uomo-mose-e-la-religione-monoteistica
+                e-page 7281-7282

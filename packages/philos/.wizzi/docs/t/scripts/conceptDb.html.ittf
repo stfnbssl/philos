@@ -90,3 +90,13 @@ $group
                     return defaultValue
                 return title.text || defaultValue
 
+            function dbFilterIdAndTitle
+                param item
+                param searchText
+                if !searchText || searchText.length == 0
+                    return true
+                if item.id.indexOf(searchText) > -1
+                    return true
+                var titleText = dbExtractTitleText(item)
+                if titleText && titleText.indexOf(searchText) > -1
+                    return true

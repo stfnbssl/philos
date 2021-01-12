@@ -5,7 +5,7 @@ $group
         concept seconda-topica
             title Seconda topica
             alias Seconda teoria dell'apparato psichico
-            alias Dottrina delle istanze psichiche
+            alias Dottrina/teoria delle istanze psichiche
 
             r-concept freud.meta.istanza
                 + Le tre istanze psichiche della seconda topica sono l'Es, l'Io, e il Super-Io.

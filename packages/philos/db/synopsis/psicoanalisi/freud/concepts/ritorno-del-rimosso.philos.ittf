@@ -1,0 +1,16 @@
+$group
+
+    namespace freud
+
+        concept ritorno-del-rimosso
+            title Ritorno del rimosso
+
+            quote
+                + Era la copia fedele del padre così come se ne era formato un’immagine nel ricordo, 
+                    \b dunque una reviviscenza dell’identificazione paterna 
+                    \b in cui a suo tempo si era collocato il ragazzino per motivi sessuali. 
+                    \b Qui in particolare riconosciamo il ritorno del rimosso, ritorno da noi descritto, 
+                    \b insieme con gli effetti immediati del trauma e il fenomeno della latenza, 
+                    \b come uno degli aspetti essenziali di una nevrosi.
+                article freud.l-uomo-mose-e-la-religione-monoteistica
+                e-page 7280

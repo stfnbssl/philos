@@ -1,0 +1,13 @@
+$group
+
+    namespace freud
+
+        concept realtà-psichica-e-di-fatto
+            title Realtà psichica e di fatto
+
+            quote
+                + Alla base del senso di colpa dei nevrotici ci sono soltanto realtà psichiche, non realtà di fatto. 
+                    \b La nevrosi è caratterizzata dal fatto di porre la realtà psichica 
+                    \b al di sopra della realtà effettiva, di reagire a pensieri 
+                    \b con la stessa serietà con cui gli uomini normali reagiscono soltanto di fronte a realtà.
+                e-page 4084 

@@ -1,0 +1,15 @@
+$group
+    
+    author RobertsonSmith
+        fullname William Robertson Smith
+        born
+            date 8/11/1846
+            place Keig, Regno Unito
+        died
+            date 31/3/1894
+            place Cambridge, Regno Unito
+        avatar ./assets/img/authors/RobertsonSmith.jpg
+        + William Robertson Smith è stato un antropologo e storico delle religioni scozzese 
+            \b contemporaneo di E.B. Tylor, padre dell'etnografia. 
+            \b Robertson Smith sosteneva che il totemismo fosse la forma di religione originaria 
+            \b e si mise alla ricerca della forma originaria della religione ebraica.

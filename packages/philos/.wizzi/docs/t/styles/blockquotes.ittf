@@ -7,7 +7,7 @@ $group
         @ color #1a1a1a
         $$ @ font-family Georgia, Times, "Times New Roman", serif
         $$ @ font-size 1.25em
-        @ font-style italic
+        $$ @ font-style italic
         $$ @ line-height 1.8em
         $$ @ margin 1.1em -4em
         @ padding 1em 2em

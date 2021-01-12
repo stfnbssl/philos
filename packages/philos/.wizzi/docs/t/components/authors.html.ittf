@@ -54,7 +54,7 @@ $group
                                         _ jsonData.authors.sort(compareById).map
                                             =>
                                                 param item
-                                                if (!searchText || searchText.length == 0) || item.id.indexOf(searchText) > -1
+                                                if dbFilterIdAndTitle(item, searchText)
                                                     return
                                                         < AuthorListItem
                                                             @ key {item.id}

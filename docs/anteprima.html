@@ -50,7 +50,7 @@
         .li-title {
             padding: 10px;
             float: left;
-            font-weight: bold;
+            font-size: 1.1em;
             cursor: pointer;
         }
         .li-id {
@@ -64,7 +64,7 @@
         .li-c-title {
             padding: 4px;
             float: left;
-            font-weight: bold;
+            font-size: 1.1em;
             cursor: pointer;
         }
         .li-c-id {
@@ -181,7 +181,6 @@
         blockquote {
             border-left: 3px solid #00CC8F;
             color: #1a1a1a;
-            font-style: italic;
             padding: 1em 2em;
             position: relative;
             -webkit-transition: .2s border ease-in-out;
@@ -344,6 +343,18 @@
                 return defaultValue;
             }
             return title.text || defaultValue;
+        }
+        function dbFilterIdAndTitle(item, searchText) {
+            if (!searchText || searchText.length == 0) {
+                return true;
+            }
+            if (item.id.indexOf(searchText) > -1) {
+                return true;
+            }
+            var titleText = dbExtractTitleText(item);
+            if (titleText && titleText.indexOf(searchText) > -1) {
+                return true;
+            }
         }
     </script>
     <script type="text/babel">
@@ -520,6 +531,14 @@
                 )
             ;
         }
+        function ImageParagraph(props) {
+            var {src} = props;
+            return  (
+                    <img src={src}>
+                    </img>
+                )
+            ;
+        }
         function Quote(props) {
             var {item, jsonData} = props;
             var page = null;
@@ -541,6 +560,13 @@
                                 return  (
                                         <Quote key={i} item={token.quote} jsonData={jsonData}>
                                         </Quote>
+                                    )
+                                ;
+                            }
+                            else if (token.img) {
+                                return  (
+                                        <ImageParagraph src={token.img}>
+                                        </ImageParagraph>
                                     )
                                 ;
                             }
@@ -737,6 +763,13 @@
                                         )
                                     ;
                                 }
+                                else if (token.image) {
+                                    return  (
+                                            <ImageParagraph src={token.image}>
+                                            </ImageParagraph>
+                                        )
+                                    ;
+                                }
                                 else if (token.quote) {
                                     return  (
                                             <Quote key={i} item={token.quote} jsonData={jsonData}>
@@ -869,51 +902,211 @@
                 )
             ;
         }
-        function TheoryList(props) {
-            var {jsonData} = props;
-            return  (
-                    <div>
-                        <h2>
-                        Teorie
-                        </h2>
+        class TheoryList extends React.Component {
+            state = {
+                status: 'list', 
+                selectedItem: null, 
+                scrollTop: 0, 
+                scrollingElement: null, 
+                justRenderedList: false, 
+                justRenderedItem: false, 
+                forms: [
                     
-                        <Paper style={{maxHeight: 370, overflow: 'auto'}}>
-                            <Table>
+                ], 
+                current: {
+                    status: 'list', 
+                    selectedItem: null, 
+                    scrollTop: 0, 
+                    scrollingElement: null, 
+                    justRenderedList: false, 
+                    depth: 0, 
+                    title: 'Teorie'
+                }
+            };
+            componentDidMount() {
+                window.addEventListener('scroll', this.handlePaperScroll);
+                this.props.onChangeCurrent(this.state.current, this.handleTheoryClose, this.handleChangeSearch);
+            }
+            componentWillUnmount() {
+                window.removeEventListener('scroll', this.handlePaperScroll);
+            }
+            componentDidUpdate(prevProps, prevState) {
+                if (this.state.current.justRenderedList) {
+                    if (this.state.current.scrollingElement) {
+                        this.state.current.scrollingElement.scrollTo(0, this.state.current.scrollTop);
+                        this.setState((prevState) => {
+                            return {
+                                    ...prevState, 
+                                    current: {
+                                        ...prevState.current, 
+                                        justRenderedList: false
+                                    }
+                                };
+                        });
+                    }
+                }
+                if (this.state.current.justRenderedItem) {
+                    if (this.state.current.scrollingElement) {
+                        this.state.current.scrollingElement.scrollTo(0, 0);
+                        this.setState((prevState) => {
+                            return {
+                                    ...prevState, 
+                                    current: {
+                                        ...prevState.current, 
+                                        justRenderedItem: false
+                                    }
+                                };
+                        });
+                    }
+                }
+            }
+            handlePaperScroll = (ev) => {
+                if (this.state.current.status == 'list') {
+                    if (ev.target.scrollingElement) {
+                        this.setState((prevState) => {
+                            return {
+                                    ...prevState, 
+                                    current: {
+                                        ...prevState.current, 
+                                        scrollTop: event.target.scrollingElement.scrollTop, 
+                                        scrollingElement: event.target.scrollingElement
+                                    }
+                                };
+                        });
+                    }
+                }
+            }
+            handleTheoryClose = () => {
+                this.setState((prevState) => {
+                    var current = prevState.forms.pop();
+                    if (current.status == 'list') {
+                        current.justRenderedList = true;
+                        current.depth = prevState.forms.length;
+                        current.title = 'Teorie';
+                        current.selectedItem = null;
+                    }
+                    this.props.onChangeCurrent(current, this.handleTheoryClose, this.handleChangeSearch);
+                    return {
+                            ...prevState, 
+                            current: current
+                        };
+                });
+            }
+            handleChangeSearch = (ev) => {
+                var search = ev.target.value;
+                this.setState((prevState) => {
+                    return {
+                            ...prevState, 
+                            current: {
+                                ...prevState.current, 
+                                searchText: search
+                            }
+                        };
+                });
+            }
+            handleTheoryOpen = (ev, selectedItem) => {
+                // log 'handleTheoryOpen.id', selectedItem.id
+                // log 'handleTheoryOpen.ev', ev
+                this.setState((prevState) => {
+                    console.log('handleTheoryOpen');
+                    prevState.forms.push(prevState.current);
+                    var current = {
+                        ...prevState.current, 
+                        status: 'theory', 
+                        selectedItem: selectedItem, 
+                        depth: prevState.forms.length, 
+                        title: (selectedItem.title && selectedItem.title.text) || selectedItem.id, 
+                        justRenderedItem: true
+                    };
+                    this.props.onChangeCurrent(current, this.handleTheoryClose, this.handleChangeSearch);
+                    console.log('onChangeCurrent called');
+                    return {
+                            ...prevState, 
+                            current: current
+                        };
+                });
+            }
+            render() {
+                const {
+                    jsonData,
+                    onChangeCurrent
+                } = this.props;
+                const {
+                    status, 
+                    selectedItem, 
+                    searchText
+                } = this.state.current;
+                console.log('TheoryList: status,selectedItem,searchText', status, selectedItem, searchText);
+                return  (
+                        <div>
+                            <Paper className="paper">
                             {
-                                jsonData.theories.sort(compareById).map(function(item) {
-                                    return  (
-                                            <TableRow button key={item.id}>
-                                                <TableCell>
-                                                    <h3>
-                                                    {item.id}
-                                                    </h3>
-                                                
-                                                    <ContentText item={item}>
-                                                    </ContentText>
-                                                
-                                                </TableCell>
-                                            
-                                            </TableRow>
-                                        )
-                                    ;
-                                })
-                            }</Table>
+                                status == 'list' &&  (
+                                    <div>
+                                    {
+                                        jsonData.theories.sort(compareById).map((item) => {
+                                            if (dbFilterIdAndTitle(item, searchText)) {
+                                                return  (
+                                                        <TheoryListItem key={item.id} item={item} onClick={this.handleTheoryOpen}>
+                                                        </TheoryListItem>
+                                                    )
+                                                ;
+                                            }
+                                        })
+                                    }</div>
+                                )
+                                
+                            }{
+                                status == 'theory' &&  (
+                                    <div>
+                                        <Theory item={selectedItem} jsonData={jsonData}>
+                                        </Theory>
+                                    
+                                    </div>
+                                )
+                                
+                            }</Paper>
                         
-                        </Paper>
+                        </div>
+                    )
+                ;
+            }
+        }
+        function TheoryListItem(props) {
+            var {item, onClick} = props;
+            var {id, name, title} = item;
+            title = title && title.text ? title.text : name;
+            return  (
+                    <div onClick={(event) =>
+                        onClick(event, item)}>
+                        <div className="li-c-title">
+                        {title}
+                        </div>
+                    
+                        <div className="li-c-id">
+                        id: {id}
+                        </div>
+                    
+                        <div className="li-clear">
+                        </div>
                     
                     </div>
                 )
             ;
         }
         function Theory(props) {
-            var {item} = props;
+            var {item, handleOpen, jsonData} = props;
+            var {id, name, title} = item;
+            title = (title || name);
             return  (
                     <div>
-                        <h3>
-                        {item.id}
-                        </h3>
-                    
-                        <ContentText item={item}>
+                    {
+                        item.aliases && item.aliases.length > 0 &&  (
+                            <Aliases item={item}>
+                            </Aliases>
+                        )
+                        
+                    }<ContentText item={item} jsonData={jsonData} handleOpen={handleOpen}>
                         </ContentText>
                     
                     </div>
@@ -1063,7 +1256,7 @@
                                     <div>
                                     {
                                         jsonData.concepts.sort(compareById).map((item) => {
-                                            if ((!searchText || searchText.length == 0) || item.id.indexOf(searchText) > -1) {
+                                            if (dbFilterIdAndTitle(item, searchText)) {
                                                 return  (
                                                         <ConceptListItem key={item.id} item={item} onClick={this.handleConceptOpen}>
                                                         </ConceptListItem>
@@ -1304,7 +1497,7 @@
                                     <div>
                                     {
                                         jsonData.authors.sort(compareById).map((item) => {
-                                            if ((!searchText || searchText.length == 0) || item.id.indexOf(searchText) > -1) {
+                                            if (dbFilterIdAndTitle(item, searchText)) {
                                                 return  (
                                                         <AuthorListItem key={item.id} item={item} classes={classes} onClick={this.handleAuthorOpen}>
                                                         </AuthorListItem>
@@ -1716,7 +1909,7 @@
                                     
                                     {
                                         jsonData.articles.sort(compareByDatePub).map((item) => {
-                                            if ((!searchText || searchText.length == 0) || item.id.indexOf(searchText) > -1) {
+                                            if (dbFilterIdAndTitle(item, searchText)) {
                                                 return  (
                                                         <div key={item.id}>
                                                             <ArticleListItem item={item} onClick={this.handleArticleOpen}>
@@ -1733,7 +1926,7 @@
                                     
                                     {
                                         jsonData.books.sort(compareByDatePub).map((item) => {
-                                            if ((!searchText || searchText.length == 0) || item.id.indexOf(searchText) > -1) {
+                                            if (dbFilterIdAndTitle(item, searchText)) {
                                                 return  (
                                                         <div key={item.id}>
                                                             <BookListItem item={item} onClick={this.handleBookOpen}>
@@ -2255,7 +2448,7 @@
                                     {selectedTitle}</Typography>
                                 
                                 {
-                                    !(isMobile() && ['Concetti', 'Autori', 'Testi'].indexOf(selectedTitle) < 0) &&  (
+                                    !(isMobile() && ['Concetti', 'Autori', 'Testi', 'Teorie'].indexOf(selectedTitle) < 0) &&  (
                                         <div className={classes.search}>
                                             <div className={classes.searchIcon}>
                                                 <Icon>
@@ -2314,7 +2507,7 @@
                                         'Luoghi', 
                                         'Testi'
                                     ].map((text, index) =>  (
-                                            <ListItem button key={text} disabled={selectedView == text || ['Concetti', 'Autori', 'Testi'].indexOf(text) < 0} onClick={(event) =>
+                                            <ListItem button key={text} disabled={selectedView == text || ['Concetti', 'Autori', 'Testi', 'Teorie'].indexOf(text) < 0} onClick={(event) =>
                                                 this.handleSelectView(event, text)}>
                                                 <ListItemIcon>
                                                 {
@@ -2396,19 +2589,19 @@
                                         
                                     }{
                                         selectedView == 'Materie' && isLoading == false &&  (
-                                            <FieldList jsonData={jsonData}>
+                                            <FieldList jsonData={jsonData} onChangeCurrent={this.handleChangeCurrent}>
                                             </FieldList>
                                         )
                                         
                                     }{
                                         selectedView == 'Correnti' && isLoading == false &&  (
-                                            <SchoolList jsonData={jsonData}>
+                                            <SchoolList jsonData={jsonData} onChangeCurrent={this.handleChangeCurrent}>
                                             </SchoolList>
                                         )
                                         
                                     }{
                                         selectedView == 'Teorie' && isLoading == false &&  (
-                                            <TheoryList jsonData={jsonData}>
+                                            <TheoryList jsonData={jsonData} onChangeCurrent={this.handleChangeCurrent}>
                                             </TheoryList>
                                         )
                                         
@@ -2426,13 +2619,13 @@
                                         
                                     }{
                                         selectedView == 'Gruppi' && isLoading == false &&  (
-                                            <GroupList jsonData={jsonData}>
+                                            <GroupList jsonData={jsonData} onChangeCurrent={this.handleChangeCurrent}>
                                             </GroupList>
                                         )
                                         
                                     }{
                                         selectedView == 'Luoghi' && isLoading == false &&  (
-                                            <PlaceList jsonData={jsonData}>
+                                            <PlaceList jsonData={jsonData} onChangeCurrent={this.handleChangeCurrent}>
                                             </PlaceList>
                                         )
                                         

@@ -1,0 +1,19 @@
+$group
+
+    namespace freud.religione
+
+        concept origine-religione
+            title Origine della religione
+
+            quote
+                + La convinzione che esso [il mio metodo di analisi dei fenomeni religiosi] è corretto, 
+                    \b l’ho acquisita già un quarto di secolo fa, quando scrissi il libro su Totem e tabù, nel 1912, 
+                    \b e da allora si è soltanto rafforzata. 
+                    \b Non ho più dubitato fin da allora, che è possibile intendere i fenomeni religiosi 
+                    \b solamente usando il modello dei sintomi nevrotici individuali a noi familiari, 
+                    \b come ritorni di significativi eventi da lungo dimenticati 
+                    \b della storia primordiale della famiglia umana; 
+                    \b non ho più avuto dubbi che essi debbono il loro carattere coattivo a questa origine, 
+                    \b e che dunque agiscono sugli uomini in forza del loro contenuto di verità storica.
+                article freud.l-uomo-mose-e-la-religione-monoteistica
+                e-page 7255

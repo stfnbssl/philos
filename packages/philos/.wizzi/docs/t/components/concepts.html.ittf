@@ -50,12 +50,11 @@ $group
                             &&
                                 + status == 'list'
                                 div
-                                    $$ < h2 Concetti
                                     {
                                         _ jsonData.concepts.sort(compareById).map
                                             =>
                                                 param item
-                                                if (!searchText || searchText.length == 0) || item.id.indexOf(searchText) > -1
+                                                if dbFilterIdAndTitle(item, searchText)
                                                     return
                                                         < ConceptListItem
                                                             @ key {item.id}

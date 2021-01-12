@@ -1,0 +1,26 @@
+$group
+
+    namespace robertson-smith
+
+        theory totemismo
+            title Teoria totemica di Robertson-Smith
+
+            quote
+                + Poi, allacciandomi alla teoria totemica di Robertson Smith, 
+                    \b supposi che dopo di allora l’orda paterna cedesse il posto al clan totemistico dei fratelli. 
+                    \b Per poter vivere in pace tra loro, i fratelli vittoriosi rinunciarono 
+                    \b a quelle donne a causa delle quali avevano ucciso il padre, e istituirono l’esogamia. 
+                    \b Il potere paterno fu infranto e le famiglie si organizzarono secondo il matriarcato. 
+                    \b L’atteggiamento emotivo ambivalente dei figli verso il padre persistette 
+                    \b per l’intero sviluppo successivo. 
+                    \b Al posto del padre fu insediato un animale come totem; 
+                    \b considerato come antenato e spirito protettore, non poteva essere danneggiato o ucciso, 
+                    \b ma una volta all’anno tutta la comunità dei maschi si ritrovava per un pasto rituale, 
+                    \b nel quale il totem animale, altrimenti venerato, veniva fatto a pezzi e divorato in comune. 
+                    \b Nessuno poteva esimersi dal partecipare a questo pasto: 
+                    \b era la ripetizione solenne dell’uccisione del padre, 
+                    \b con la quale avevano avuto inizio ordine sociale, leggi morali e religione. 
+                    \b La concordanza del pasto totemico di Robertson Smith con la Cena cristiana 
+                    \b aveva richiamato l’attenzione di parecchi autori prima di me.
+                article freud.l-uomo-mose-e-la-religione-monoteistica
+                e-page 7336-7337

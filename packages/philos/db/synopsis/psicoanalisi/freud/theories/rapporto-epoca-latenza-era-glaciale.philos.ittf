@@ -1,0 +1,15 @@
+$group
+
+    namespace ferenczi
+
+        theory rapporto-epoca-latenza-era-glaciale
+            title Teoria del rapporto tra epoca di latenza ed era glaciale di Ferenczi
+
+            quote 
+                + L'ipotesi di un rapporto tra epoca di latenza ed era glaciale
+                    \b era stata formulata per la prima volta da S. Ferenczi, 
+                    \b Entwicklungsstufen des Wirklichkeitssinnes, Int. Z. (ärztl.) Psychoanal., vol. 1, p. 124 (1913); 
+                    \b Freud l’accettò con una certa cautela in L’Io e l’Es cit., par. 3 e poi, 
+                    \b con maggiore convinzione, in Inibizione, sintomo e angoscia (1925), in OSF, vol. 10, cap. 10.
+                article freud.l-uomo-mose-e-la-religione-monoteistica
+                e-page 8566

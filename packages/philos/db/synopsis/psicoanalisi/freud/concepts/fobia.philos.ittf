@@ -1,0 +1,9 @@
+$group
+
+    namespace freud
+
+        concept fobia
+            title Fobia
+
+            concept degli-animali
+                title Fobia degli animali

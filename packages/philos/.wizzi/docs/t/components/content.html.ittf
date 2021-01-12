@@ -1,5 +1,12 @@
 $group
 
+    function ImageParagraph
+        param props
+        var {src} = props
+        return 
+            < img
+                @ src {src}
+
     function Quote
         param props
         var {item, jsonData} = props
@@ -24,6 +31,10 @@ $group
                                         @ key {i}
                                         @ item {token.quote}
                                         @ jsonData {jsonData}
+                            elif token.img
+                                return
+                                    < ImageParagraph
+                                        @ src {token.img}
                             else
                                 return 
                                     < p {token}
@@ -172,6 +183,10 @@ $group
                                     return 
                                         < p {token.line}
                                             @ key {i}
+                                elif token.image
+                                    return
+                                        < ImageParagraph
+                                            @ src {token.image}
                                 elif token.quote
                                     return 
                                         < Quote

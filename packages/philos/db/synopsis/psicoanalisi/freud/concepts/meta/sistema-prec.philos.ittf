@@ -4,6 +4,7 @@ $group
 
         concept sistema-prec
             title Sistema Prec
+            alias Prec
 
             quote
                 + Vi sono dunque due tipi di inconscio, 
@@ -13,11 +14,28 @@ $group
                     \b – forse soltanto superando una nuova censura, 
                     \b ma senza tener conto del sistema Inc – 
                     \b possono giungere alla coscienza.
-                e-page 1840
                 article freud.l-interpretazione-dei-sogni
+                e-page 1840
 
             quote
-                + il sistema Prec sta come uno schermo tra il sistema Inc e la coscienza;
-                e-page 1840
+                + Il sistema Prec sta come uno schermo tra il sistema Inc e la coscienza;
                 article freud.l-interpretazione-dei-sogni
+                e-page 1840
 
+            quote
+                + Costatiamo però che abbiamo due specie di inconscio:
+                    \b il latente e tuttavia capace di divenire cosciente,
+                    \b e il rimosso che in quanto tale e di per sé non è capace di giungere alla coscienza.
+                    \b [..] Diciamo preconscio ciò che è latente, 
+                    \b e cioè inconscio, solo dal punto di vista descrittivo e non in senso dinamico; 
+                    \b riserviamo invece a ciò che è rimosso e dinamicamente inconscio, 
+                    \b la denominazione di inconscio.
+                article freud.l-io-e-l-es
+                e-page 5956
+
+            quote
+                + Riteniamo che il Prec sia molto più vicino al C di quanto lo sia l’Inc; 
+                    \b e poiché abbiamo detto psichico l’Inc, 
+                    \b a maggior ragione e senza esitare diremo altrettanto a proposito del Prec latente.
+                article freud.l-io-e-l-es
+                e-page 5956

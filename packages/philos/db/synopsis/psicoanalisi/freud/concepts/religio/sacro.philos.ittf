@@ -1,0 +1,27 @@
+$group
+
+    namespace freud.religione
+
+        concept sacro
+            title Il sacro
+
+            quote
+                + Siamo fiduciosi che l’esame di tutti gli altri casi di divieto sacro 
+                    \b condurrebbe allo stesso risultato del caso dell’orrore dell’incesto, 
+                    \b e cioè che in origine il sacro non è altro che la prosecuzione della volontà del padre primigenio. 
+                    \b Con ciò si farebbe anche un po’ di luce sull’ambivalenza, finora incomprensibile, 
+                    \b delle parole che esprimono il concetto di sacro. 
+                    \b È la stessa ambivalenza che domina in genere il rapporto con il padre. 
+                    \b “Sacer” significa non solo “sacro”, “consacrato”, ma anche qualcosa che 
+                    \b possiamo tradurre soltanto con “infame”, “esecrabile” (“auri sacra fames”). 
+                    \b Tuttavia la volontà del padre non era soltanto qualcosa di intoccabile, 
+                    \b qualcosa da tenere altamente in onore, ma anche qualcosa di fronte a cui si tremava, 
+                    \b perché esigeva una dolorosa rinuncia pulsionale. 
+                    \b Quando sentiamo che Mosè “consacrò” il suo popolo introducendo l’usanza di circoncidersi, 
+                    \b comprendiamo adesso il senso profondo di questa affermazione. 
+                    \b La circoncisione è il sostitutivo simbolico dell’evirazione, 
+                    \b che un tempo il padre primigenio nella pienezza del suo potere assoluto aveva inflitto ai figli; 
+                    \b chi accettava questo simbolo, mostrava con ciò di essere pronto a sottomettersi al volere del padre 
+                    \b anche se questi gli imponeva il sacrificio più doloroso.
+                article freud.l-uomo-mose-e-la-religione-monoteistica
+                e-page 7326-7327

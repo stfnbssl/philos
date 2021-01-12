@@ -1,0 +1,18 @@
+$group
+
+    namespace freud
+
+        concept rinuncia-pulsionale
+            title Rinuncia pulsionale
+
+            quote
+                + L’interpretazione del giuoco [del fort-da] divenne dunque ovvia. 
+                    \b Era in rapporto con il grande risultato di civiltà raggiunto dal bambino,
+                    \b e cioè con la rinuncia pulsionale (rinuncia al soddisfacimento pulsionale) 
+                    \b che consisteva nel permettere senza proteste che la madre se ne andasse. 
+                    \b Il bambino si risarciva, per così dire, di questa rinuncia, 
+                    \b inscenando l’atto stesso dello scomparire e del riapparire 
+                    \b avvalendosi degli oggetti che riusciva a raggiungere.
+                article freud.al-di-la-del-principio-del-piacere
+                e-page 5645
+
