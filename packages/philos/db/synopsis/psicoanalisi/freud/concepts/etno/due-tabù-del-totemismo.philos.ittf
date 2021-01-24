@@ -1,0 +1,30 @@
+$group
+
+    namespace freud.etno
+
+        concept due-tabù-del-totemismo
+            title I due tabù del totemismo
+
+            quote
+                + Essi [i fratelli] odiavano il padre, possente ostacolo al loro bisogno di potenza 
+                    \b e alle loro pretese sessuali, ma lo amavano e lo ammiravano anche. 
+                    \b Dopo averlo soppresso, aver soddisfatto il loro odio e aver imposto 
+                    \b il loro desiderio di identificazione con lui, 
+                    \b dovette farsi sentire l’affezione nei suoi confronti fin allora rimasta sopraffatta. 
+                    \b Questo si verificò nella forma del rimorso, sorse un senso di colpa 
+                    \b che coincide qui con il rimorso sentito collettivamente. 
+                    \b Morto, il padre divenne più forte di quanto fosse stato da vivo: 
+                    \b tutto si svolse nel modo che possiamo misurare ancor’oggi sul destino degli uomini. 
+                    \b Ciò che prima egli aveva impedito con la sua esistenza, 
+                    \b i figli se lo proibirono ora spontaneamente 
+                    \b nella situazione psichica dell’“obbedienza retrospettiva”, 
+                    \b che conosciamo così bene attraverso la psicoanalisi. 
+                    \b Revocarono il loro atto dichiarando proibita l’uccisione del sostituto paterno, il totem, 
+                    \b e rinunciarono ai suoi frutti, interdicendosi le donne che erano diventate disponibili. 
+                    \b In questo modo, prendendo le mosse dalla coscienza di colpa del figlio, 
+                    \b crearono i due tabù fondamentali del totemismo, 
+                    \b che proprio perciò dovevano coincidere con i due desideri rimossi del complesso edipico. 
+                    \b Chi vi contravveniva si rendeva colpevole dei due soli delitti 
+                    \b che preoccupavano la società primitiva.
+                article freud.totem-e-tabù
+                e-page 4066

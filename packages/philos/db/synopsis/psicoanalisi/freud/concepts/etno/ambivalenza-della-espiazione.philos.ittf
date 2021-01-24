@@ -1,0 +1,19 @@
+$group
+
+    namespace freud.etno
+
+        concept ambivalenza-della-espiazione
+            title Ambivalenza della espiazione
+
+            quote
+                + Ma a questo punto [dopo la morte sacrificale dell'unico Figlio] 
+                    \b anche la fatalità psicologica dell’ambivalenza reclama i suoi diritti. 
+                    \b Con la medesima azione che offre al padre la massima espiazione possibile 
+                    \b anche il figlio raggiunge lo scopo dei suoi desideri contro il padre. 
+                    \b Diventa egli stesso Dio accanto, anzi propriamente al posto del padre. 
+                    \b La religione del Figlio si sostituisce a quella del Padre. 
+                    \b In segno di questa sostituzione viene richiamato in vita l’antico banchetto totemico 
+                    \b in forma di Comunione, nella quale la schiera dei fratelli consuma la carne e il sangue del Figlio, 
+                    \b non più del Padre, e con questo atto si santifica e identifica con Lui.
+                article freud.totem-e-tabù
+                e-page 4078

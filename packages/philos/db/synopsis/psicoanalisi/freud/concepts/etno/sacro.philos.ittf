@@ -1,6 +1,6 @@
 $group
 
-    namespace freud.religione
+    namespace freud.etno
 
         concept sacro
             title Il sacro

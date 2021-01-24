@@ -1,9 +1,20 @@
 $group
 
-    namespace freud.religione
+    namespace freud.etno
 
         concept origine-religione
             title Origine della religione
+
+            quote
+                + [..] gli inizi della religione, della moralità, della società e dell’arte s’incontrano nel complesso edipico, 
+                    \b in piena concordanza con ciò che la psicoanalisi ha stabilito, 
+                    \b cioè che questo complesso costituisce il nucleo di tutte le nevrosi, 
+                    \b nella misura in cui fino a oggi si sono aperte alla nostra comprensione. 
+                    \b Ed è una grossa sorpresa per me che anche i problemi della vita della psiche dei popoli 
+                    \b ci abbiano permesso di trovare una soluzione a partire da un unico punto concreto: 
+                    \b il rapporto con il padre [con le figure parentali].
+                article freud.totem-e-tabù
+                e-page 4080-4081
 
             quote
                 + La convinzione che esso [il mio metodo di analisi dei fenomeni religiosi] è corretto, 

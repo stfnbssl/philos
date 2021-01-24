@@ -1,0 +1,49 @@
+$group
+
+    namespace freud.etno
+
+        concept continuità-psichica-collettiva
+            title Continuità psichica collettiva
+            alias Psiche collettiva
+            alias Eredità emotiva
+
+            quote
+                + [..] non può essere sfuggito a nessuno che noi procediamo dovunque 
+                    \b dall’ipotesi di una psiche collettiva nella quale i processi mentali si compiono 
+                    \b come nella vita mentale dell’individuo. 
+                + [..] facciamo sopravvivere per molti millenni il senso di colpa causato da un’azione, 
+                    \b e lo facciamo restare operante per generazioni e generazioni 
+                    \b che di questa azione non potevano saper niente. 
+                    \b Facciamo proseguire un processo emotivo, 
+                    \b quale poteva sorgere in generazioni di figli maltrattati dal padre, 
+                    \b in nuove generazioni che proprio l’accantonamento del padre 
+                    \b aveva sottratte a simile trattamento.
+                + [..] Tuttavia una riflessione ulteriore mostra che non siamo i soli a dover portare 
+                    \b la responsabilità di tanto ardire. Senza l’ipotesi di una psiche collettiva, 
+                    \b di una continuità nella vita emotiva degli uomini, 
+                    \b che permetta di trascurare le interruzioni degli atti mentali provocate dalla morte degli individui, 
+                    \b tutta la psicologia dei popoli non potrebbe sussistere. 
+                    \b Se i processi psichici di una generazione non si prolungassero nella generazione successiva, 
+                    \b ogni suo atteggiamento verso l’esistenza dovrebbe essere acquisito ex novo, 
+                    \b e non vi sarebbe in questo campo nessun progresso e praticamente nessuna evoluzione.
+                article freud.totem-e-tabù
+                e-page 4081-4082
+
+            quote
+                + Il problema apparirebbe ancora più difficile se potessimo ammettere 
+                    \b che vi sono moti psichici tali da poter essere repressi senza lasciare traccia, 
+                    \b al punto che non ne resti il minimo residuo. 
+                + Ma moti del genere non esistono. 
+                + Anche la repressione più violenta è costretta a lasciare spazio a moti sostitutivi deformati 
+                    \b e alle reazioni che ne conseguono. 
+                    \b Ma allora dobbiamo ammettere che nessuna generazione è in grado di nascondere alla successiva 
+                    \b processi psichici piuttosto importanti. 
+                    \b La psicoanalisi ci ha infatti insegnato che ogni uomo possiede nella sua attività mentale inconscia 
+                    \b un apparato che gli consente di interpretare le reazioni di altri uomini, 
+                    \b ossia di render vane le deformazioni che l’altro ha imposto all’espressione delle sue emozioni. 
+                + Su questa strada, costituita dalla comprensione inconscia di tutti i costumi, 
+                    \b delle cerimonie e dei canoni lasciati alle spalle dal rapporto originario con il progenitore, 
+                    \b può essere riuscito a generazioni successive di assumere quell’eredità emotiva.
+                article freud.totem-e-tabù
+                e-page 4083
+

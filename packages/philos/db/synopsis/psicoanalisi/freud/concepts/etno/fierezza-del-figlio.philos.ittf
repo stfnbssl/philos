@@ -1,0 +1,33 @@
+$group
+
+    namespace freud.etno
+
+        concept fierezza-del-figlio
+            title Fierezza del figlio
+
+            quote
+                + A questo punto accettiamo come un dato di fatto che anche nell’evoluzione successiva delle religioni 
+                    \b i due elementi impellenti, il senso di colpa e la fierezza del figlio, non dileguarono mai.
+                    \b Con chiarezza sempre maggiore emerge l’aspirazione del figlio a prendere il posto del dio-padre. 
+                    \b Con l’introduzione dell’agricoltura cresce l’importanza del figlio 
+                    \b nell’ambito della famiglia patriarcale. 
+                    \b Egli concede nuove forme di espressione alla sua libido incestuosa, 
+                    \b che trova un soddisfacimento simbolico nel lavorare la Madre Terra.
+                article freud.totem-e-tabù
+                e-page 4076
+
+            quote
+                + La religione del totem non abbraccia soltanto 
+                    \b le espressioni di rimorso e i tentativi di riconciliazione, 
+                    \b ma serve anche a ricordare il trionfo sul padre. 
+                    \b La soddisfazione così raggiunta è la causa della festa in memoriam espressa dal pasto totemico, 
+                    \b festa durante la quale cadono le restrizioni imposte dall’obbedienza retrospettiva 
+                    \b e diventa un dovere tornare a ripetere il crimine del parricidio nel sacrificio dell’animale totemico, 
+                    \b ogni volta che l’acquisizione consolidata di quel crimine, 
+                    \b l’appropriazione delle qualità del padre, minaccia di scomparire, 
+                    \b a causa degli influssi variabili dell’esistenza. 
+                    \b Non ci stupiremo di scoprire che nelle costruzioni religiose più tarde torna sempre ad affiorare, 
+                    \b celata spesso nei travestimenti e nei mascheramenti più singolari, 
+                    \b anche la componente della fierezza filiale.
+                article freud.totem-e-tabù
+                e-page 4068-4069

@@ -145,6 +145,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\difese\\il-rendere-non-avvenuto.philos.ittf",
             "title": {
                 "text": "Il rendere non avvenuto"
             }
@@ -196,8 +197,644 @@
                     ]
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\difese\\l-isolare.philos.ittf",
             "title": {
                 "text": "L'isolare"
+            }
+        },
+        {
+            "kind": "concept",
+            "ns": "freud.etno",
+            "author": "global",
+            "name": "ambivalenza-della-espiazione",
+            "id": "freud.etno.ambivalenza-della-espiazione",
+            "contents": [
+                {
+                    "quote": {
+                        "author": "global",
+                        "lines": [
+                            "Ma a questo punto [dopo la morte sacrificale dell'unico Figlio] anche la fatalità psicologica dell’ambivalenza reclama i suoi diritti. Con la medesima azione che offre al padre la massima espiazione possibile anche il figlio raggiunge lo scopo dei suoi desideri contro il padre. Diventa egli stesso Dio accanto, anzi propriamente al posto del padre. La religione del Figlio si sostituisce a quella del Padre. In segno di questa sostituzione viene richiamato in vita l’antico banchetto totemico in forma di Comunione, nella quale la schiera dei fratelli consuma la carne e il sangue del Figlio, non più del Padre, e con questo atto si santifica e identifica con Lui."
+                        ],
+                        "article": "freud.totem-e-tabù",
+                        "epage": "4078"
+                    }
+                }
+            ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\etno\\ambivalenza-della-espiazione.philos.ittf",
+            "title": {
+                "text": "Ambivalenza della espiazione"
+            }
+        },
+        {
+            "kind": "concept",
+            "ns": "freud.etno",
+            "author": "global",
+            "name": "animale-totemico",
+            "id": "freud.etno.animale-totemico",
+            "contents": [
+                {
+                    "quote": {
+                        "author": "global",
+                        "lines": [
+                            "Ho recentemente pubblicato una \"Analisi della fobia di un bambino di cinque anni\", [..] L’elemento nuovo che veniamo a conoscere [..] è il fatto, estremamente importante per il totemismo, che in tali circostanze il bambino sposta parte dei suoi sentimenti dal padre su un animale. [..] il bambino si trova in un atteggiamento emotivo ambiguo – ambivalente – nei confronti del padre e in questo conflitto di ambivalenza si procura un sollievo spostando i suoi sentimenti ostili e angosciosi su un sostituto del padre.",
+                            "[..] È lecito manifestare l’impressione che in queste fobie degli animali riscontrate nei bambini ritornino certi tratti del totemismo, in forma negativa.",
+                            "[..] Per ora accontentiamoci di rilevare a titolo di importanti concordanze con il totemismo due elementi: la completa identificazione con l’animale totemico e l’atteggiamento emotivo ambivalente verso l’animale stesso."
+                        ],
+                        "article": "freud.totem-e-tabù",
+                        "epage": "4050-4053"
+                    }
+                },
+                {
+                    "quote": {
+                        "author": "global",
+                        "lines": [
+                            "Se l’animale totemico è il padre, i due comandamenti fondamentali del totemismo, le due prescrizioni tabù che ne costituiscono il nucleo – non uccidere il totem e non aver rapporti sessuali con una donna appartenente allo stesso totem – coincidono quanto a contenuto con i due delitti di Edipo, che uccise il padre e prese in moglie la madre, e con i due desideri primordiali del bambino, la cui insufficiente rimozione o il cui ridestarsi formano forse il nucleo di tutte le psiconevrosi."
+                        ],
+                        "epage": "4054"
+                    }
+                }
+            ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\etno\\animale-totemico.philos.ittf",
+            "title": {
+                "text": "Animale totemico"
+            }
+        },
+        {
+            "kind": "concept",
+            "ns": "freud.etno",
+            "author": "global",
+            "name": "clan-fraterno",
+            "id": "freud.etno.clan-fraterno",
+            "contents": [
+                {
+                    "quote": {
+                        "author": "global",
+                        "lines": [
+                            "D’ora in poi i sentimenti sociali di fraternità, sui quali poggia il grande sovvertimento, conservano per lunghissimo tempo il più profondo influsso sull’evoluzione della società. Si esprimono nella santificazione del sangue comune, nell’accentuazione della solidarietà di tutta la vita all’interno del medesimo clan. In questo modo, garantendosi reciprocamente la vita, i fratelli affermano che nessuno di loro può venir trattato da un altro fratello come il padre è stato trattato dai fratelli tutti insieme. [..] Al divieto, fondato sulla religione, di uccidere il totem, si aggiunge ora il divieto, a fondamento sociale, del fratricidio. Passerà molto tempo ancora prima che il comandamento cessi di essere limitato ai membri della stessa stirpe e assuma la semplice formulazione: Non ammazzare.",
+                            "[..] al posto dell’“ orda paterna” è subentrato il “clan fraterno”, che si è garantito mediante il legame di sangue.",
+                            "La società poggia ora sulla correità nel delitto perpetrato insieme, la religione sulla coscienza della colpa e sul rimorso, la moralità in parte sulle necessità di questa società, in parte sulle pene imposte dal senso di colpa."
+                        ],
+                        "epage": "4069-4070"
+                    }
+                }
+            ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\etno\\clan-fraterno.philos.ittf",
+            "title": {
+                "text": "Clan fraterno"
+            }
+        },
+        {
+            "kind": "concept",
+            "ns": "freud.etno",
+            "author": "global",
+            "name": "comunione-cristiana",
+            "id": "freud.etno.comunione-cristiana",
+            "contents": [
+                {
+                    "quote": {
+                        "author": "global",
+                        "lines": [
+                            "Il nostro sguardo persegue attraverso il trascorrere dei tempi l’identità del banchetto totemico col sacrificio animale, col sacrificio degli dei umani incarnati e con l’eucarestia cristiana e riconosce in tutte queste solennità la conseguenza del crimine che ha tanto oppresso gli uomini e del quale tuttavia essi dovettero andare così superbi. Ma la Comunione cristiana è in fondo una nuova eliminazione del padre, una ripetizione dell’azione da espiare. Notiamo quanto è fondata l’affermazione di Frazer"
+                        ],
+                        "article": "freud.totem-e-tabù",
+                        "epage": "4078-4079"
+                    }
+                }
+            ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\etno\\comunione-cristiana.philos.ittf",
+            "title": {
+                "text": "Comunione cristiana"
+            }
+        },
+        {
+            "kind": "concept",
+            "ns": "freud.etno",
+            "author": "global",
+            "name": "continuità-psichica-collettiva",
+            "id": "freud.etno.continuità-psichica-collettiva",
+            "aliases": [
+                {
+                    "text": "Psiche collettiva"
+                },
+                {
+                    "text": "Eredità emotiva"
+                }
+            ],
+            "contents": [
+                {
+                    "quote": {
+                        "author": "global",
+                        "lines": [
+                            "[..] non può essere sfuggito a nessuno che noi procediamo dovunque dall’ipotesi di una psiche collettiva nella quale i processi mentali si compiono come nella vita mentale dell’individuo.",
+                            "[..] facciamo sopravvivere per molti millenni il senso di colpa causato da un’azione, e lo facciamo restare operante per generazioni e generazioni che di questa azione non potevano saper niente. Facciamo proseguire un processo emotivo, quale poteva sorgere in generazioni di figli maltrattati dal padre, in nuove generazioni che proprio l’accantonamento del padre aveva sottratte a simile trattamento.",
+                            "[..] Tuttavia una riflessione ulteriore mostra che non siamo i soli a dover portare la responsabilità di tanto ardire. Senza l’ipotesi di una psiche collettiva, di una continuità nella vita emotiva degli uomini, che permetta di trascurare le interruzioni degli atti mentali provocate dalla morte degli individui, tutta la psicologia dei popoli non potrebbe sussistere. Se i processi psichici di una generazione non si prolungassero nella generazione successiva, ogni suo atteggiamento verso l’esistenza dovrebbe essere acquisito ex novo, e non vi sarebbe in questo campo nessun progresso e praticamente nessuna evoluzione."
+                        ],
+                        "article": "freud.totem-e-tabù",
+                        "epage": "4081-4082"
+                    }
+                },
+                {
+                    "quote": {
+                        "author": "global",
+                        "lines": [
+                            "Il problema apparirebbe ancora più difficile se potessimo ammettere che vi sono moti psichici tali da poter essere repressi senza lasciare traccia, al punto che non ne resti il minimo residuo.",
+                            "Ma moti del genere non esistono.",
+                            "Anche la repressione più violenta è costretta a lasciare spazio a moti sostitutivi deformati e alle reazioni che ne conseguono. Ma allora dobbiamo ammettere che nessuna generazione è in grado di nascondere alla successiva processi psichici piuttosto importanti. La psicoanalisi ci ha infatti insegnato che ogni uomo possiede nella sua attività mentale inconscia un apparato che gli consente di interpretare le reazioni di altri uomini, ossia di render vane le deformazioni che l’altro ha imposto all’espressione delle sue emozioni.",
+                            "Su questa strada, costituita dalla comprensione inconscia di tutti i costumi, delle cerimonie e dei canoni lasciati alle spalle dal rapporto originario con il progenitore, può essere riuscito a generazioni successive di assumere quell’eredità emotiva."
+                        ],
+                        "article": "freud.totem-e-tabù",
+                        "epage": "4083"
+                    }
+                }
+            ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\etno\\continuità-psichica.philos.ittf",
+            "title": {
+                "text": "Continuità psichica collettiva"
+            }
+        },
+        {
+            "kind": "concept",
+            "ns": "freud.etno",
+            "author": "global",
+            "name": "crimine-pensato-o-agito",
+            "id": "freud.etno.crimine-pensato-o-agito",
+            "contents": [
+                {
+                    "line": "In conclusione di Totem e tabù Freud si chiede se il crimine dell'uccisione del padre dell'orda, da parte dei figli ribelli rivoltatisi contro di lui, potesse essere un crimine solamente pensato e non agito realmente, e se la sola fantasia dell'uccisione potesse essere sufficiente a provocare, per il rimorso, la reazione morale che ha dato vita al totemismo."
+                },
+                {
+                    "quote": {
+                        "author": "global",
+                        "lines": [
+                            "La nevrosi è caratterizzata dal fatto di porre la realtà psichica al di sopra della realtà effettiva, di reagire a pensieri con la stessa serietà con cui gli uomini normali reagiscono soltanto di fronte a realtà. Non può essersi verificato qualcosa di analogo presso i primitivi? Noi siamo giustificati nell’attribuire loro un’eccezionale sopravvalutazione dei loro atti psichici come fenomeno parziale della loro organizzazione narcisistica. Di conseguenza potrebbero essere bastati i semplici impulsi di ostilità verso il padre, l’esistenza della fantasia di desiderio di ucciderlo e divorarlo per provocare la reazione morale che ha dato vita al totemismo e al tabù.",
+                            "[Però] Non è esatto dire che i nevrotici che soffrono d’ossessioni, i quali si trovano oggi sotto il peso di una loro supermorale, si difendano solo da una realtà psichica tentatrice e si puniscano a causa di impulsi unicamente sentiti. C’è in questo quadro anche una parte di realtà storica: durante l’infanzia questi uomini hanno subito puramente e semplicemente cattivi impulsi, e li hanno tradotti in azioni nella misura consentita dall’impotenza propria del bambino. Ognuno di questi superbuoni ha avuto la sua epoca cattiva nell’infanzia, una fase perversa che è stata precorritrice e precondizionatrice della successiva fase supermorale.",
+                            "[Se consideriamo che] Certo non esistono né tra i primitivi né tra i nevrotici le rigide distinzioni fra pensare e agire che riscontriamo in noi. Ma il nevrotico è inibito soprattutto nell’agire, in lui il pensiero sostituisce completamente l’azione. Il primitivo invece è privo di inibizioni, il pensiero si trasforma senz’altro in azione, per lui l’azione è per così dire un sostituto del pensiero.",
+                            "[Allora] Ecco perché credo, pur senza pretendere ad asserzioni finali, che nel nostro caso si possa presumere: “In principio era l’Azione.” [Quindi il padre dell'orda veniva realmente ucciso]"
+                        ],
+                        "article": "freud.totem-e-tabù",
+                        "epage": "4084-4086"
+                    }
+                }
+            ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\etno\\crimine-pensato-o-agito.philos.ittf",
+            "title": {
+                "text": "Crimine pensato o agito?"
+            }
+        },
+        {
+            "kind": "concept",
+            "ns": "freud.etno",
+            "author": "global",
+            "name": "due-tabù-del-totemismo",
+            "id": "freud.etno.due-tabù-del-totemismo",
+            "contents": [
+                {
+                    "quote": {
+                        "author": "global",
+                        "lines": [
+                            "Essi [i fratelli] odiavano il padre, possente ostacolo al loro bisogno di potenza e alle loro pretese sessuali, ma lo amavano e lo ammiravano anche. Dopo averlo soppresso, aver soddisfatto il loro odio e aver imposto il loro desiderio di identificazione con lui, dovette farsi sentire l’affezione nei suoi confronti fin allora rimasta sopraffatta. Questo si verificò nella forma del rimorso, sorse un senso di colpa che coincide qui con il rimorso sentito collettivamente. Morto, il padre divenne più forte di quanto fosse stato da vivo: tutto si svolse nel modo che possiamo misurare ancor’oggi sul destino degli uomini. Ciò che prima egli aveva impedito con la sua esistenza, i figli se lo proibirono ora spontaneamente nella situazione psichica dell’“obbedienza retrospettiva”, che conosciamo così bene attraverso la psicoanalisi. Revocarono il loro atto dichiarando proibita l’uccisione del sostituto paterno, il totem, e rinunciarono ai suoi frutti, interdicendosi le donne che erano diventate disponibili. In questo modo, prendendo le mosse dalla coscienza di colpa del figlio, crearono i due tabù fondamentali del totemismo, che proprio perciò dovevano coincidere con i due desideri rimossi del complesso edipico. Chi vi contravveniva si rendeva colpevole dei due soli delitti che preoccupavano la società primitiva."
+                        ],
+                        "article": "freud.totem-e-tabù",
+                        "epage": "4066"
+                    }
+                }
+            ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\etno\\due-tabù-del-totemismo.philos.ittf",
+            "title": {
+                "text": "I due tabù del totemismo"
+            }
+        },
+        {
+            "kind": "concept",
+            "ns": "freud.etno",
+            "author": "global",
+            "name": "eredità-arcaica",
+            "id": "freud.etno.eredità-arcaica",
+            "contents": [
+                {
+                    "quote": {
+                        "author": "global",
+                        "lines": [
+                            "Sorgono allora le domande: in che cosa consiste questa eredità [arcaica], che cosa contiene, quali ne sono le prove? La prima e più sicura risposta è questa: essa consiste in determinate predisposizioni, proprie a tutti gli esseri viventi. Vale a dire nella capacità e inclinazione a battere determinate direzioni di sviluppo e a reagire in un modo particolare a certi eccitamenti, impressioni e stimoli. Poiché l’esperienza mostra che nei singoli esseri del genere umano ci sono a questo riguardo delle differenze, l’eredità arcaica le include, esse configurano cioè quello che noi riconosciamo come il fattore costituzionale dell’individuo. Ora, poiché gli uomini nei loro primi anni sperimentano tutti pressappoco le stesse cose, vi reagiscono anche in maniera simile; potrebbe perciò sorgere il dubbio se non si debbano ascrivere queste reazioni, unitamente alle loro differenze individuali, all’eredità arcaica. Questo dubbio va respinto; la nostra conoscenza dell’eredità arcaica non è arricchita dal fatto di questa somiglianza."
+                        ],
+                        "article": "freud.l-uomo-mose-e-la-religione-monoteistica",
+                        "epage": "7301"
+                    }
+                }
+            ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\etno\\eredità-arcaica.philos.ittf",
+            "title": {
+                "text": "Eredità arcaica"
+            }
+        },
+        {
+            "kind": "concept",
+            "ns": "freud.etno",
+            "author": "global",
+            "name": "esogamia",
+            "id": "freud.etno.esogamia",
+            "contents": [
+                {
+                    "quote": {
+                        "author": "global",
+                        "lines": []
+                    }
+                }
+            ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\etno\\esogamia.philos.ittf",
+            "title": {
+                "text": "Esogamia"
+            }
+        },
+        {
+            "kind": "concept",
+            "ns": "freud.etno",
+            "author": "global",
+            "name": "fierezza-del-figlio",
+            "id": "freud.etno.fierezza-del-figlio",
+            "contents": [
+                {
+                    "quote": {
+                        "author": "global",
+                        "lines": [
+                            "A questo punto accettiamo come un dato di fatto che anche nell’evoluzione successiva delle religioni i due elementi impellenti, il senso di colpa e la fierezza del figlio, non dileguarono mai. Con chiarezza sempre maggiore emerge l’aspirazione del figlio a prendere il posto del dio-padre. Con l’introduzione dell’agricoltura cresce l’importanza del figlio nell’ambito della famiglia patriarcale. Egli concede nuove forme di espressione alla sua libido incestuosa, che trova un soddisfacimento simbolico nel lavorare la Madre Terra."
+                        ],
+                        "article": "freud.totem-e-tabù",
+                        "epage": "4076"
+                    }
+                },
+                {
+                    "quote": {
+                        "author": "global",
+                        "lines": [
+                            "La religione del totem non abbraccia soltanto le espressioni di rimorso e i tentativi di riconciliazione, ma serve anche a ricordare il trionfo sul padre. La soddisfazione così raggiunta è la causa della festa in memoriam espressa dal pasto totemico, festa durante la quale cadono le restrizioni imposte dall’obbedienza retrospettiva e diventa un dovere tornare a ripetere il crimine del parricidio nel sacrificio dell’animale totemico, ogni volta che l’acquisizione consolidata di quel crimine, l’appropriazione delle qualità del padre, minaccia di scomparire, a causa degli influssi variabili dell’esistenza. Non ci stupiremo di scoprire che nelle costruzioni religiose più tarde torna sempre ad affiorare, celata spesso nei travestimenti e nei mascheramenti più singolari, anche la componente della fierezza filiale."
+                        ],
+                        "article": "freud.totem-e-tabù",
+                        "epage": "4068-4069"
+                    }
+                }
+            ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\etno\\fierezza-del-figlio.philos.ittf",
+            "title": {
+                "text": "Fierezza del figlio"
+            }
+        },
+        {
+            "kind": "concept",
+            "ns": "freud.etno",
+            "author": "global",
+            "name": "grande-uomo",
+            "id": "freud.etno.grande-uomo",
+            "contents": [
+                {
+                    "quote": {
+                        "author": "global",
+                        "lines": [
+                            "Il perché il grande uomo acquisti importanza, non c’è oscuro neanche per un istante. Sappiamo che nella massa degli uomini vi è grande bisogno di un’autorità da ammirare, a cui inchinarsi, da cui essere dominati, fors’anche maltrattati. Dalla psicologia dell’individuo abbiamo appreso donde proviene questo bisogno della massa. È la nostalgia del padre insita in ognuno dall’infanzia, dello stesso padre che l’eroe della leggenda si vanta di aver vinto. E ora cominciamo a vederci chiaro: tutte le qualità di cui dotiamo il grande uomo sono caratteristiche paterne, e in questa concordanza consiste l’essenza del grande uomo da noi vanamente cercata. La risolutezza dei pensieri, la forza di volontà, l’impeto dell’azione appartengono all’immagine paterna, ma più di tutto l’autonomia e l’indipendenza del grande uomo, la sua divina noncuranza che può crescere fino alla mancanza di qualsiasi riguardo. Lo si deve ammirare, è consentita la fiducia in lui, ma non si può fare a meno anche di temerlo. Avremmo dovuto lasciarci guidare letteralmente dalla parola: chi altri se non il padre può essere stato l’“uomo grande” nell’infanzia!"
+                        ],
+                        "article": "freud.l-uomo-mose-e-la-religione-monoteistica",
+                        "epage": "7313"
+                    }
+                }
+            ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\etno\\grande-uomo.philos.ittf",
+            "title": {
+                "text": "Grande uomo"
+            }
+        },
+        {
+            "kind": "concept",
+            "ns": "freud.etno",
+            "author": "global",
+            "name": "l-uomo-mosè",
+            "id": "freud.etno.l-uomo-mosè",
+            "contents": [
+                {
+                    "quote": {
+                        "author": "global",
+                        "lines": [
+                            "Forti delle nostre discussioni precedenti, possiamo ora affermare che fu l’uomo Mosè a scolpire nel popolo ebraico questa impronta indelebile. Egli accrebbe la presunzione degli Ebrei assicurandoli che erano il popolo eletto da Dio, diede loro la consacrazione e li obbligò a distinguersi dagli altri. Non che gli altri popoli mancassero di presunzione. Allora come oggi ogni nazione si considerava migliore di ogni altra. Ma con Mosè la presunzione degli Ebrei mise radice nella religione e divenne una parte della loro fede religiosa. In virtù della loro relazione particolarmente intima con il loro Dio parteciparono della sua grandezza. E considerato che dietro il Dio che aveva prescelto gli Ebrei e li aveva liberati dagli Egizi c’era la persona di Mosè, il quale aveva fatto proprio questo, apparentemente per ordine divino, non è avventato dire che l’uomo Mosè creò, lui, gli Ebrei. A lui questo popolo deve la sua tenacità, ma anche molta dell’ostilità che ha incontrato e tuttora incontra."
+                        ],
+                        "article": "freud.l-uomo-mose-e-la-religione-monoteistica",
+                        "epage": "7309-7310"
+                    }
+                }
+            ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\etno\\l-uomo-mosè.philos.ittf",
+            "title": {
+                "text": "L'uomo mosè"
+            }
+        },
+        {
+            "kind": "concept",
+            "ns": "freud.etno",
+            "author": "global",
+            "name": "origine-religione",
+            "id": "freud.etno.origine-religione",
+            "contents": [
+                {
+                    "quote": {
+                        "author": "global",
+                        "lines": [
+                            "[..] gli inizi della religione, della moralità, della società e dell’arte s’incontrano nel complesso edipico, in piena concordanza con ciò che la psicoanalisi ha stabilito, cioè che questo complesso costituisce il nucleo di tutte le nevrosi, nella misura in cui fino a oggi si sono aperte alla nostra comprensione. Ed è una grossa sorpresa per me che anche i problemi della vita della psiche dei popoli ci abbiano permesso di trovare una soluzione a partire da un unico punto concreto: il rapporto con il padre [con le figure parentali]."
+                        ],
+                        "article": "freud.totem-e-tabù",
+                        "epage": "4080-4081"
+                    }
+                },
+                {
+                    "quote": {
+                        "author": "global",
+                        "lines": [
+                            "La convinzione che esso [il mio metodo di analisi dei fenomeni religiosi] è corretto, l’ho acquisita già un quarto di secolo fa, quando scrissi il libro su Totem e tabù, nel 1912, e da allora si è soltanto rafforzata. Non ho più dubitato fin da allora, che è possibile intendere i fenomeni religiosi solamente usando il modello dei sintomi nevrotici individuali a noi familiari, come ritorni di significativi eventi da lungo dimenticati della storia primordiale della famiglia umana; non ho più avuto dubbi che essi debbono il loro carattere coattivo a questa origine, e che dunque agiscono sugli uomini in forza del loro contenuto di verità storica."
+                        ],
+                        "article": "freud.l-uomo-mose-e-la-religione-monoteistica",
+                        "epage": "7255"
+                    }
+                }
+            ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\etno\\origine-religione.philos.ittf",
+            "title": {
+                "text": "Origine della religione"
+            }
+        },
+        {
+            "kind": "concept",
+            "ns": "freud.etno",
+            "author": "global",
+            "name": "padre-dell-orda",
+            "id": "freud.etno.padre-dell-orda",
+            "contents": [
+                {
+                    "quote": {
+                        "author": "global",
+                        "lines": []
+                    }
+                }
+            ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\etno\\padre-dell-orda.philos.ittf",
+            "title": {
+                "text": "Padre dell'orda"
+            }
+        },
+        {
+            "kind": "concept",
+            "ns": "freud.etno",
+            "author": "global",
+            "name": "pasto-totemico",
+            "id": "freud.etno.pasto-totemico",
+            "contents": [
+                {
+                    "quote": {
+                        "author": "global",
+                        "lines": [
+                            "Concludiamo affermando di condividere l’ipotesi di Robertson Smith che l’uccisione sacramentale e la consumazione comune dell’animale totemico, proibita negli altri casi, era un elemento estremamente importante della religione totemica."
+                        ],
+                        "epage": "4063"
+                    }
+                },
+                {
+                    "quote": {
+                        "author": "global",
+                        "lines": [
+                            "Che essi abbiano anche divorato il padre ucciso, è cosa ovvia trattandosi di selvaggi cannibali. Il progenitore violento era stato senza dubbio il modello invidiato e temuto da ciascun membro della schiera dei fratelli. A questo punto, divorandolo, essi realizzarono l’identificazione con il padre, ognuno si appropriò di una parte della sua forza. Il pasto totemico, forse la prima festa dell’umanità, sarebbe la ripetizione e la commemorazione di questa memoranda azione criminosa, che segnò l’inizio di tante cose: le organizzazioni sociali, le restrizioni morali e la religione."
+                        ],
+                        "article": "freud.totem-e-tabù",
+                        "epage": "4065"
+                    }
+                }
+            ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\etno\\pasto-totemico.philos.ittf",
+            "title": {
+                "text": "Pasto totemico"
+            }
+        },
+        {
+            "kind": "concept",
+            "ns": "freud.etno",
+            "author": "global",
+            "name": "peccato-originale",
+            "id": "freud.etno.peccato-originale",
+            "contents": [
+                {
+                    "quote": {
+                        "author": "global",
+                        "lines": [
+                            "Nel mito cristiano il peccato originale dell’uomo è indubbiamente un’offesa contro Dio Padre. Ora, se Cristo libera gli uomini dal peso del peccato originale sacrificando la sua stessa vita, ci costringe a concludere che questa colpa fu un assassinio. Secondo la legge del taglione, profondamente radicata nella sensibilità dell’uomo, un assassinio può essere espiato soltanto col sacrificio di un’altra vita; il sacrificio di sé ci fa risalire a un’omicidio. E se questo sacrificio della propria vita conduce alla riconciliazione col Dio Padre, il crimine da espiare non può essere altro che l’uccisione del padre."
+                        ],
+                        "article": "freud.totem-e-tabù",
+                        "epage": "4078"
+                    }
+                }
+            ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\etno\\peccato-originale.philos.ittf",
+            "title": {
+                "text": "Peccato originale"
+            }
+        },
+        {
+            "kind": "concept",
+            "ns": "freud.etno",
+            "author": "global",
+            "name": "popolo-ebraico",
+            "id": "freud.etno.popolo-ebraico",
+            "contents": [
+                {
+                    "quote": {
+                        "author": "global",
+                        "lines": [
+                            "Com’è noto, di tutti i popoli che nell’antichità hanno abitato intorno al bacino mediterraneo, il popolo ebraico è all’incirca l’unico che esista ancor oggi di nome e anche in sostanza. Esso ha affrontato sventure e vessazioni con una capacità di resistenza esemplare, ha sviluppato particolari lati del suo carattere e s’è guadagnato inoltre la cordiale avversione di tutti gli altri popoli."
+                        ],
+                        "article": "freud.l-uomo-mose-e-la-religione-monoteistica",
+                        "epage": "7308"
+                    }
+                },
+                {
+                    "quote": {
+                        "author": "global",
+                        "lines": [
+                            "Il seme del monoteismo non germogliò in Egitto. E lo stesso avrebbe potuto accadere in Israele, allorché il popolo si fu scrollato di dosso questa gravosa religione con le sue pretese. Ma dal popolo ebraico si levarono sempre uomini che vivificarono la tradizione che languiva, che rinnovarono gli ammonimenti e le richieste di Mosè e non si arrestarono prima che la fede perduta fosse ristabilita. Secoli di sforzi e infine due grandi riforme, l’una prima e l’altra dopo l’esilio babilonese, compirono la trasformazione del dio popolare Yahweh nel Dio che Mosè aveva imposto agli Ebrei di adorare. Prova di una particolare attitudine psichica, nella massa che divenne il popolo ebraico, è il fatto che essa poté suscitare tanti uomini pronti a prendere su di sé il carico della religione di Mosè, attratti dalla ricompensa di essere gli eletti e forse anche da altri premi di simile rango."
+                        ],
+                        "article": "freud.l-uomo-mose-e-la-religione-monoteistica",
+                        "epage": "7315"
+                    }
+                }
+            ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\etno\\popolo-ebraico.philos.ittf",
+            "title": {
+                "text": "Popolo ebraico"
+            }
+        },
+        {
+            "kind": "concept",
+            "ns": "freud.etno",
+            "author": "global",
+            "name": "rapporto-padre-figlio",
+            "id": "freud.etno.rapporto-padre-figlio",
+            "contents": [
+                {
+                    "quote": {
+                        "author": "global",
+                        "lines": []
+                    }
+                }
+            ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\etno\\rapporto-padre-figlio.philos.ittf",
+            "title": {
+                "text": "Rapporto padre figlio"
+            }
+        },
+        {
+            "kind": "concept",
+            "ns": "freud.etno",
+            "author": "global",
+            "name": "sacrificio-totemico",
+            "id": "freud.etno.sacrificio-totemico",
+            "contents": [
+                {
+                    "quote": {
+                        "author": "global",
+                        "lines": [
+                            "Robertson Smith ci ha appreso che l’antico pasto totemico ritorna nella forma originaria del sacrificio. Il significato dell’azione è il medesimo: la santificazione mediante partecipazione al pasto comune. Anche il senso di colpa è rimasto presente in questa pratica, e può essere attenuato soltanto dalla solidarietà di tutti i partecipanti. L’elemento nuovo che si è aggiunto è il dio del clan alla cui presenza – supposta – si svolge il sacrificio, dio che partecipa al pasto come membro del clan e con il quale ci si identifica gustando la vittima."
+                        ],
+                        "article": "freud.totem-e-tabù",
+                        "epage": "4070"
+                    }
+                },
+                {
+                    "quote": {
+                        "author": "global",
+                        "lines": [
+                            "Così pure il cerimoniale dei sacrifici umani nei luoghi più diversi della terra abitata lascia sussistere pochi dubbi sul fatto che le vittime erano uccise in veste di rappresentanti della divinità.",
+                            "Quest’uso sacrificale è rintracciabile anche in epoche ormai tarde nella sostituzione dell’uomo vivo con un’imitazione inanimata (un fantoccio).",
+                            "[..] Esso rivela con chiarezza difficilmente superabile che l’oggetto dell’atto sacrificale era sempre il medesimo, lo stesso cioè che viene oggi venerato come Dio: il padre. A questo punto il problema del rapporto tra sacrificio animale e sacrificio umano trova facile soluzione. L’originario sacrificio animale era già un surrogato di sacrificio umano, dell’uccisione solenne del padre, e quando il sostituto del padre tornò a ottenere la sua immagine umana anche il sacrificio animale poté ritrasformarsi in sacrificio umano."
+                        ],
+                        "epage": "4075"
+                    }
+                }
+            ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\etno\\sacrificio-totemico.philos.ittf",
+            "title": {
+                "text": "Sacrificio totemico"
+            }
+        },
+        {
+            "kind": "concept",
+            "ns": "freud.etno",
+            "author": "global",
+            "name": "sacro",
+            "id": "freud.etno.sacro",
+            "contents": [
+                {
+                    "quote": {
+                        "author": "global",
+                        "lines": [
+                            "Siamo fiduciosi che l’esame di tutti gli altri casi di divieto sacro condurrebbe allo stesso risultato del caso dell’orrore dell’incesto, e cioè che in origine il sacro non è altro che la prosecuzione della volontà del padre primigenio. Con ciò si farebbe anche un po’ di luce sull’ambivalenza, finora incomprensibile, delle parole che esprimono il concetto di sacro. È la stessa ambivalenza che domina in genere il rapporto con il padre. “Sacer” significa non solo “sacro”, “consacrato”, ma anche qualcosa che possiamo tradurre soltanto con “infame”, “esecrabile” (“auri sacra fames”). Tuttavia la volontà del padre non era soltanto qualcosa di intoccabile, qualcosa da tenere altamente in onore, ma anche qualcosa di fronte a cui si tremava, perché esigeva una dolorosa rinuncia pulsionale. Quando sentiamo che Mosè “consacrò” il suo popolo introducendo l’usanza di circoncidersi, comprendiamo adesso il senso profondo di questa affermazione. La circoncisione è il sostitutivo simbolico dell’evirazione, che un tempo il padre primigenio nella pienezza del suo potere assoluto aveva inflitto ai figli; chi accettava questo simbolo, mostrava con ciò di essere pronto a sottomettersi al volere del padre anche se questi gli imponeva il sacrificio più doloroso."
+                        ],
+                        "article": "freud.l-uomo-mose-e-la-religione-monoteistica",
+                        "epage": "7326-7327"
+                    }
+                }
+            ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\etno\\sacro.philos.ittf",
+            "title": {
+                "text": "Il sacro"
+            }
+        },
+        {
+            "kind": "concept",
+            "ns": "freud.etno",
+            "author": "global",
+            "name": "senso-creativo-della-colpa",
+            "id": "freud.etno.senso-creativo-della-colpa",
+            "contents": [
+                {
+                    "quote": {
+                        "author": "global",
+                        "lines": [
+                            "Noi abbiamo spiegato le prime prescrizioni e restrizioni morali della società primitiva come reazione a un’azione che diede ai suoi promotori il concetto di crimine. Essi provarono rimorso per questa azione e decisero che non dovesse più ripetersi, e che l’averla compiuta non doveva apportare alcun guadagno. Questo senso creativo della colpa non si è spento in noi. Lo troviamo operante in maniera asociale nei nevrotici per produrre nuove prescrizioni morali, limitazioni continuative, come espiazione per i misfatti compiuti e precauzione contro i misfatti ancora da compiere. Ma se indaghiamo in questi nevrotici per scoprire i fatti che hanno provocato tali reazioni, andiamo incontro a una delusione. Non troviamo azioni, ma soltanto impulsi, emozioni, che mirano al male, ma ne sono stati trattenuti prima di compierlo. Alla base del senso di colpa dei nevrotici ci sono soltanto realtà psichiche, non realtà di fatto."
+                        ],
+                        "article": "freud.totem-e-tabù",
+                        "epage": "4083-4084"
+                    }
+                }
+            ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\etno\\senso-creativo-della-colpa.philos.ittf",
+            "title": {
+                "text": "Senso creativo della colpa"
+            }
+        },
+        {
+            "kind": "concept",
+            "ns": "freud.etno",
+            "author": "global",
+            "name": "sviluppi-religione",
+            "id": "freud.etno.sviluppi-religione",
+            "contents": [
+                {
+                    "quote": {
+                        "author": "global",
+                        "lines": [
+                            "Il passo consecutivo al totemismo è l’umanazione dell’essere venerato. Al posto degli animali subentrano dèi umani, della cui derivazione dal totem non si fa mistero. Il dio è ancora raffigurato o in forma animale o almeno con faccia d’animale, oppure il totem diviene il compagno preferito del dio, da cui è inseparabile, oppure ancora la leggenda fa sì che il dio uccida proprio questo animale, che a ben vedere era solo lo stadio preliminare di lui stesso. A un certo punto difficilmente determinabile di questa evoluzione fanno la loro comparsa grandi divinità materne, probabilmente anche prima degli dèi maschili, con i quali coesistettero poi a lungo. Si era frattanto compiuto un grande rivolgimento sociale. Il matriarcato era stato sostituito dal ristabilirsi di un ordine patriarcale. I nuovi padri non raggiunsero in verità mai il potere assoluto del padre primordiale; erano in molti e vivevano associati in raggruppamenti più grandi di quanto fosse stata l’orda; dovevano mantenere buoni rapporti reciproci ed erano limitati da norme sociali. È verosimile che le divinità materne avessero origine al tempo della restrizione del matriarcato, per compensare le madri messe in disparte. Le divinità maschili apparvero dapprima come figli accanto alle grandi madri, e solo dopo assunsero nettamente i tratti di figure paterne. Questi dèi maschili del politeismo rispecchiano i rapporti dell’epoca patriarcale. Sono numerosi, si limitano a vicenda, occasionalmente sono subordinati a un dio supremo che li sovrasta. Il passo successivo, però, conduce al tema che ci sta occupando, ossia al ritorno di un solo dio-padre, unico e illimitato signore."
+                        ],
+                        "article": "freud.l-uomo-mose-e-la-religione-monoteistica",
+                        "epage": "7284-7285"
+                    }
+                }
+            ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\etno\\sviluppi-religione.philos.ittf",
+            "title": {
+                "text": "Sviluppi della religione"
+            }
+        },
+        {
+            "kind": "concept",
+            "ns": "freud.etno",
+            "author": "global",
+            "name": "totemismo",
+            "id": "freud.etno.totemismo",
+            "contents": [
+                {
+                    "quote": {
+                        "author": "global",
+                        "lines": [
+                            "Ritengo che abbiamo pieno diritto di riconoscere nel totemismo, con la sua venerazione di un sostituto paterno, con l’ambivalenza mostrata nel pasto totemico, con l’istituzione di celebrazioni commemorative, di divieti la cui trasgressione era punita con la morte, è lecito riconoscere nel totemismo, dicevo, la prima forma di apparizione della religione nella storia umana e confermare il suo nesso fin dal principio con gli ordinamenti sociali e gli obblighi morali."
+                        ],
+                        "article": "freud.l-uomo-mose-e-la-religione-monoteistica",
+                        "epage": "7284"
+                    }
+                }
+            ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\etno\\totemismo.philos.ittf",
+            "title": {
+                "text": "Totemismo"
+            }
+        },
+        {
+            "kind": "concept",
+            "ns": "freud.etno",
+            "author": "global",
+            "name": "tragedia-greca",
+            "id": "freud.etno.tragedia-greca",
+            "contents": [
+                {
+                    "quote": {
+                        "author": "global",
+                        "lines": [
+                            "Un evento come l’uccisione del progenitore ad opera della schiera di fratelli doveva lasciare tracce incancellabili nella storia dell’umanità e finire con l’esprimersi per dei tramiti sostitutivi [.. innumerevoli sono le tracce nella mitologia ..] Nella storia dell’arte greca c’è una situazione che presenta evidenti analogie, e differenze non minori, con la scena del pasto totemico indicata da Robertson Smith. È la situazione della tragedia greca più antica. Una massa di persone, tutte con lo stesso nome e lo stesso abito, circonda un unico individuo dalle cui parole e azioni dipendono tutti: sono il Coro e l’attore, in origine unico, che rappresenta l’Eroe.",
+                            "[..] L’Eroe della tragedia doveva soffrire: questo è ancor oggi il contenuto essenziale di una tragedia. Egli s’era addossato la cosiddetta “colpa tragica”, che non è sempre facile motivare; spesso non è una colpa nel senso della vita borghese. Di regola la colpa consisteva nella ribellione a un’autorità divina o umana, e il Coro accompagnava l’Eroe con sentimenti di simpatia, cercava di trattenerlo, di ammonirlo, di moderarlo e, quando egli aveva ricevuto la punizione che si considerava meritata per la sua azione temeraria, lo compiangeva.",
+                            "[..] Ma perché l’Eroe della tragedia deve soffrire, e che cosa significa la sua “tragica” colpa? Tagliamo corto alla discussione con una risposta rapida. Egli deve soffrire perché è il progenitore, l’Eroe di quella grande tragedia primordiale che trova qui una ripetizione tendenziosa, e la colpa tragica è quella ch’egli deve addossarsi per sgravare il Coro della sua colpa.",
+                            "Il delitto che si riversa su di lui, l’arroganza e la ribellione a una grande autorità, è precisamente quello che opprime in realtà i membri del Coro, la schiera dei fratelli. Così l’Eroe tragico è trasformato, contro voglia, in salvatore e liberatore del Coro.",
+                            "[Il medioevo riprenderà il tema del salvatore del Coro nella tragedia greca mettendo in scena la Passione di Cristo]"
+                        ],
+                        "article": "freud.totem-e-tabù",
+                        "epage": "4079-4080"
+                    }
+                }
+            ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\etno\\tragedia-greca.philos.ittf",
+            "title": {
+                "text": "Tragedia greca"
             }
         },
         {
@@ -237,6 +874,7 @@
                     ]
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\meta\\apparato.philos.ittf",
             "title": {
                 "text": "Topica psicologica"
             }
@@ -257,6 +895,7 @@
                     "line": "Freud descrisse i modi di essere con l'espressione \"agenzie costruttrici di pensiero\" e anche in termini di energia"
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\meta\\apparato.philos.ittf",
             "title": {
                 "text": "Modo di rappresentazione dinamico"
             }
@@ -272,6 +911,7 @@
                     "line": "Lo scopo di Freud è di fornire una spiegazione del funzionamento dell'apparato psichico in termini economici (investimenti/disinvestimenti)."
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\meta\\apparato.philos.ittf",
             "title": {
                 "text": "Economia psichica"
             }
@@ -334,6 +974,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\meta\\coscienza.philos.ittf",
             "title": {
                 "text": "Coscienza",
                 "langs": [
@@ -355,6 +996,7 @@
                     "line": "Istanza della seconda topica, con Io e Super-Io."
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\meta\\es.philos.ittf",
             "title": {
                 "text": "Es"
             }
@@ -380,6 +1022,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\meta\\ideale-dell-io.philos.ittf",
             "title": {
                 "text": "Ideale dell'io",
                 "langs": [
@@ -410,6 +1053,7 @@
                     ]
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\meta\\inconscio.philos.ittf",
             "title": {
                 "text": "Inconscio non rimosso"
             }
@@ -431,6 +1075,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\meta\\inconscio.philos.ittf",
             "title": {
                 "text": "Assenza di mutua contraddizione tra la presentazione dei differenti impulsi"
             }
@@ -441,6 +1086,7 @@
             "author": "global",
             "name": "condensazione",
             "id": "freud.meta.inconscio.condensazione",
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\meta\\inconscio.philos.ittf",
             "title": {
                 "text": "Condensazione"
             }
@@ -462,6 +1108,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\meta\\inconscio.philos.ittf",
             "title": {
                 "text": "Spostamento"
             }
@@ -472,6 +1119,7 @@
             "author": "global",
             "name": "assenza-del-tempo",
             "id": "freud.meta.inconscio.assenza-del-tempo",
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\meta\\inconscio.philos.ittf",
             "title": {
                 "text": "Assenza del tempo"
             }
@@ -487,6 +1135,7 @@
                     "line": "In psichiatria, specialmente in relazione alla schizofrenia, questa caratteristica è talvolta chiamata \"interpretazione letterale della metafora\""
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\meta\\inconscio.philos.ittf",
             "title": {
                 "text": "Sostituzione della realtà esterna con quella psichica"
             }
@@ -567,6 +1216,7 @@
                     "concept": "freud.meta.inconscio.sostituzione-della-realtà-esterna-con-quella-psichica"
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\meta\\inconscio.philos.ittf",
             "title": {
                 "text": "Inconscio"
             }
@@ -694,6 +1344,7 @@
                     ]
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\meta\\io-piacere-io-realtà.philos.ittf",
             "title": {
                 "text": "Opposizione Io-piacere e Io-Realtà"
             }
@@ -739,6 +1390,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\meta\\io-ideale.philos.ittf",
             "title": {
                 "text": "Io ideale",
                 "langs": [
@@ -755,6 +1407,7 @@
             "author": "global",
             "name": "parte-inconscia",
             "id": "freud.io.parte-inconscia",
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\meta\\io.philos.ittf",
             "title": {
                 "text": "Parte inconscia dell'Io"
             }
@@ -835,6 +1488,7 @@
                     "concept": "freud.io.parte-inconscia"
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\meta\\io.philos.ittf",
             "title": {
                 "text": "Io"
             }
@@ -860,6 +1514,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\meta\\istanza.philos.ittf",
             "title": {
                 "text": "Istanza",
                 "langs": [
@@ -888,6 +1543,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\meta\\metapsicologia.philos.ittf",
             "title": {
                 "text": "Metapsicologia"
             }
@@ -910,6 +1566,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\meta\\preconscio.philos.ittf",
             "title": {
                 "text": "Preconscio (prima topica)"
             }
@@ -952,6 +1609,7 @@
                     ]
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\meta\\sistema-inc.philos.ittf",
             "title": {
                 "text": "Sistema Inc"
             }
@@ -1009,6 +1667,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\meta\\sistema-prec.philos.ittf",
             "title": {
                 "text": "Sistema Prec"
             }
@@ -1036,6 +1695,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\meta\\sistema-p-c.philos.ittf",
             "title": {
                 "text": "Sistema Percezione-Coscienza"
             }
@@ -1058,6 +1718,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\meta\\sistema.philos.ittf",
             "title": {
                 "text": "Sistema psichico"
             }
@@ -1082,6 +1743,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\meta\\super-io.philos.ittf",
             "title": {
                 "text": "Super-Io"
             }
@@ -1100,6 +1762,7 @@
                     "text": "Dottrina/teoria delle provincie psichiche"
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\meta\\topica-prima.philos.ittf",
             "title": {
                 "text": "Prima topica"
             }
@@ -1138,6 +1801,7 @@
                     ]
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\meta\\topica-seconda.philos.ittf",
             "title": {
                 "text": "Preconscio"
             }
@@ -1178,6 +1842,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\meta\\topica-seconda.philos.ittf",
             "title": {
                 "text": "Parte inconscia dell'Io"
             }
@@ -1213,6 +1878,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\meta\\topica-seconda.philos.ittf",
             "title": {
                 "text": "Inconscio non rimosso"
             }
@@ -1240,6 +1906,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\meta\\topica-seconda.philos.ittf",
             "title": {
                 "text": "Coscienza"
             }
@@ -1270,6 +1937,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\meta\\topica-seconda.philos.ittf",
             "title": {
                 "text": "L'Es"
             }
@@ -1332,6 +2000,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\meta\\topica-seconda.philos.ittf",
             "title": {
                 "text": "L'Io"
             }
@@ -1354,6 +2023,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\meta\\topica-seconda.philos.ittf",
             "title": {
                 "text": "Il Super-Io"
             }
@@ -1404,6 +2074,7 @@
                     "concept": "freud.meta.seconda-topica.super-io"
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\meta\\topica-seconda.philos.ittf",
             "title": {
                 "text": "Seconda topica"
             }
@@ -1419,6 +2090,7 @@
                     "line": "La libido è traslata su oggetti reali o immaginari. Nel trattamento psicoanalitico si prestano al transfert hanno origine dall'infanzia e fanno parte dalle PSICONEVROSI, dove i sintomi sono espressione simbolica e sovradeterminatan di un conflitto."
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\nevrosi\\nevrosi.philos.ittf",
             "title": {
                 "text": "Nevrosi di traslazione"
             }
@@ -1434,6 +2106,7 @@
                     "line": "Le nevrosi di traslazione pure sono l'isteria e la nevrosi ossessiva."
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\nevrosi\\nevrosi.philos.ittf",
             "title": {
                 "text": "Nevrosi di traslazione pura"
             }
@@ -1449,6 +2122,7 @@
                     "line": "La libido sprigionata dal materiale patogeno, a causa della rimozione viene convertita, cioè viene sottratta alla sfera psichica per riapparire in un’innervazione somatica, scegliendo un certo organo in funzione di un simbolismo inconscio. Il punto di fissazione della libido è nella fase edipica (fallica ma anche orale)."
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\nevrosi\\nevrosi.philos.ittf",
             "title": {
                 "text": "Isteria di conversione"
             }
@@ -1469,6 +2143,7 @@
                     "line": "La libido sprigionata dal materiale patogeno, a causa della rimozione viene liberata sotto forma di angoscia. Il punto di fissazione della libido è nella fase edipica (fallica ma anche orale)."
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\nevrosi\\nevrosi.philos.ittf",
             "title": {
                 "text": "Isteria d'angoscia"
             }
@@ -1484,6 +2159,7 @@
                     "line": "Si manifesta con sintomi coatti. La causa è sempre la difesa dalle pretese libidiche dell’Edipo ma c’è una regressione alle fissazioni verificatesi nella fase anale. C’è ambivalenza; c’è tensione tra l’Io e un Super-Io crudele (relazione sadomasochistica) che porta a formazioni reattive."
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\nevrosi\\nevrosi.philos.ittf",
             "title": {
                 "text": "Nevrosi ossessiva"
             }
@@ -1511,6 +2187,7 @@
                     "concept": "freud.nevrosi.psico.nevrosi-ossessiva"
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\nevrosi\\nevrosi.philos.ittf",
             "title": {
                 "text": "Psiconevrosi"
             }
@@ -1526,6 +2203,7 @@
                     "line": "Il fattore precipitante della nevrastenia è un alleviamento inadeguato dell'eccitazione sessuale ad esempio la masturbazione."
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\nevrosi\\nevrosi.philos.ittf",
             "title": {
                 "text": "Nevrastenia"
             }
@@ -1544,6 +2222,7 @@
                     "line": "Sulla nevrosi di angoscia si struttura l'isteria."
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\nevrosi\\nevrosi.philos.ittf",
             "title": {
                 "text": "Nevrosi d'angoscia"
             }
@@ -1554,6 +2233,7 @@
             "author": "global",
             "name": "ipocondria",
             "id": "freud.nevrosi.attuale.ipocondria",
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\nevrosi\\nevrosi.philos.ittf",
             "title": {
                 "text": "Ipocondria"
             }
@@ -1584,6 +2264,7 @@
                     "concept": "freud.nevrosi.attuale.ipocondria"
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\nevrosi\\nevrosi.philos.ittf",
             "title": {
                 "text": "Nevrosi attuale"
             }
@@ -1606,6 +2287,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\nevrosi\\nevrosi.philos.ittf",
             "title": {
                 "text": "Scatenamento della nevrosi"
             }
@@ -1627,6 +2309,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\nevrosi\\nevrosi.philos.ittf",
             "title": {
                 "text": "Sviluppo di una nevrosi"
             }
@@ -1657,6 +2340,7 @@
                     "concept": "freud.nevrosi.sviluppo"
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\nevrosi\\nevrosi.philos.ittf",
             "title": {
                 "text": "Nevrosi"
             }
@@ -1736,6 +2420,7 @@
                     "contents": []
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\nevrosi\\nevrosi-ossessiva.philos.ittf",
             "title": {
                 "text": "Nevrosi ossessiva"
             }
@@ -1746,6 +2431,7 @@
             "author": "global",
             "name": "nevrosi-traumatica",
             "id": "freud.nevrosi-traumatica",
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\nevrosi\\nevrosi-traumatica.philos.ittf",
             "title": {
                 "text": "Nevrosi traumatica"
             }
@@ -1772,6 +2458,7 @@
                     "line": "Combinazione tra determinate sensazioni della serie piacere-dispiacere e le corrispondenti innervazioni di scarica e la loro percezione."
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\progetto\\affetto.philos.ittf",
             "title": {
                 "text": "Affetto"
             }
@@ -1797,6 +2484,7 @@
                     "line": "[..] le A.V. pongono i processi di pensiero sullo stesso livello dei processi percettivi, conferendo loro una realtà, e rendendo possibile il loro ricordo."
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\progetto\\associazione-verbale.philos.ittf",
             "title": {
                 "text": "Associazione verbale"
             }
@@ -1812,6 +2500,7 @@
                     "line": "L'attenzione consiste nello stabilire una situazione psichica di attesa anche per certe percezioni che non coincidono in parte con gli investimenti di desiderio."
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\progetto\\attenzione.philos.ittf",
             "title": {
                 "text": "Attenzione"
             }
@@ -1832,6 +2521,7 @@
                     "line": "Tutto il pensiero si è sviluppato dallo stato di attesa."
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\progetto\\attesa.philos.ittf",
             "title": {
                 "text": "Attesa"
             }
@@ -1847,6 +2537,7 @@
                     "line": "La sospensione dello stimolo [endogeno, poi detta pulsione] può essere operata solo mediante un intervento che temporaneamente interrompa l’emissione di Qἠ all’interno del corpo; e questo intervento richiede un’alterazione nel mondo esterno (rifornimento di cibo, prossimità dell’oggetto sessuale), la quale, come azione specifica, può seguire solo determinate vie. L’organismo umano è, dapprima, incapace di produrre tale azione specifica. Essa viene attuata mediante un aiuto esterno, quando un individuo maturo viene indotto a fare attenzione alle condizioni del bambino mediante una scarica [del bambino] lungo la via della modificazione interna."
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\progetto\\azione-specifica.philos.ittf",
             "title": {
                 "text": "Azione specifica"
             }
@@ -1857,6 +2548,7 @@
             "author": "global",
             "name": "barriera",
             "id": "freud.progetto.barriera",
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\progetto\\barriera.philos.ittf",
             "title": {
                 "text": "Barriera"
             }
@@ -1875,6 +2567,7 @@
                     "line": "Quando non c'era [nei primi mesi di vita], il discarico motorio si verificava simultaneamente con il desiderio, l'atteso piacere veniva regolarmente a mancare, e la continua emissione di stimoli endogeni finiva per generare dispiacere."
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\progetto\\barriera.philos.ittf",
             "title": {
                 "text": "Barriera contro immagini motorie"
             }
@@ -1890,6 +2583,7 @@
                     "line": "La brama comporta uno stato di tensione nell'Io, e di conseguenza è investita la rappresentazione dell'oggetto amato (rappresentazione di desiderio)."
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\progetto\\brama.philos.ittf",
             "title": {
                 "text": "Brama"
             }
@@ -1912,6 +2606,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\progetto\\coazione.philos.ittf",
             "title": {
                 "text": "Coazione isterica"
             }
@@ -1935,6 +2630,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\progetto\\coazione.philos.ittf",
             "title": {
                 "text": "Coazione nevrotica semplice"
             }
@@ -1945,6 +2641,7 @@
             "author": "global",
             "name": "desiderio",
             "id": "freud.progetto.desiderio",
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\progetto\\desiderio.philos.ittf",
             "title": {
                 "text": "Desiderio"
             }
@@ -1969,6 +2666,7 @@
                     "line": "Il sistema nervoso ha una netta tendenza alla fuga dal dolore, che conferma la sua tendenza primaria contro un aumento di Qἠ, e quindi la tendenza a scaricare Qἠ."
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\progetto\\dolore.philos.ittf",
             "title": {
                 "text": "Dolore"
             }
@@ -1984,6 +2682,7 @@
                     "line": "Sia l’investimento di desiderio, sia la liberazione di dispiacere, quando c’è un nuovo investimento del ricordo relativo, possono essere biologicamente dannosi. Questo accade per l’investimento di desiderio ogni volta che supera un certo limite e quindi incoraggia alla scarica; e accade per la liberazione di dispiacere almeno ogni volta che l’investimento dell’immagine mnestica ostile sorge da ψ stesso (per associazione) e non dal mondo esterno. Quindi, anche qui ciò che occorre è un segno che permetta di distinguere una percezione da un ricordo (o rappresentazione)."
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\progetto\\esame-di-realtà.philos.ittf",
             "title": {
                 "text": "Esame di realtà"
             }
@@ -2005,6 +2704,7 @@
                     "line": "L'entità della facilitazione dipende sia dalla grandezza di Qἠ sia dal numero delle ripetizioni del processo."
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\progetto\\facilitazione.philos.ittf",
             "title": {
                 "text": "Facilitazione"
             }
@@ -2029,6 +2729,7 @@
                     ]
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\progetto\\facilitazione.philos.ittf",
             "title": {
                 "text": "Facilitazione di pensiero"
             }
@@ -2047,6 +2748,7 @@
                     "line": "La bipartizione dei neuroni in motori e sensori è un ordinamento che ha per scopo di annullare la ricezione di Qἠ mediante una trasmissione."
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\progetto\\funzione-primaria.philos.ittf",
             "title": {
                 "text": "Funzione primaria"
             }
@@ -2065,6 +2767,7 @@
                     "line": "L'organismo impara a mantenere una scorta di Qἠ per le esigenze di una azione specifica, continua comunque a cercare di mantenere il più basso possibile il livello di Qἠ."
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\progetto\\funzione-secondaria.philos.ittf",
             "title": {
                 "text": "Funzione secondaria"
             }
@@ -2075,6 +2778,7 @@
             "author": "global",
             "name": "immagine-motoria",
             "id": "freud.progetto.immagine-motoria",
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\progetto\\immagine.philos.ittf",
             "title": {
                 "text": "Immagine motoria"
             }
@@ -2085,6 +2789,7 @@
             "author": "global",
             "name": "immagine-mnestica",
             "id": "freud.progetto.immagine-mnestica",
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\progetto\\immagine.philos.ittf",
             "title": {
                 "text": "Immagine mnestica"
             }
@@ -2105,6 +2810,7 @@
                     "line": "È una certa Qἠ con cui un neurone viene eccitato."
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\progetto\\investimento.philos.ittf",
             "title": {
                 "text": "Investimento",
                 "langs": [
@@ -2129,6 +2835,7 @@
                     "line": "L'Io è formato da un gruppo di neuroni con carica costante."
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\progetto\\io.philos.ittf",
             "title": {
                 "text": "Io"
             }
@@ -2144,6 +2851,7 @@
                     "line": "La molla del meccanismo psichico consiste nel fatto che il sistema ψ è esposto senza difese alle Q che salgono dai canali endogeni di eccitamento, direttamente dal corpi ai neuroni."
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\progetto\\meccanismo-psichico.philos.ittf",
             "title": {
                 "text": "Molla"
             }
@@ -2159,6 +2867,7 @@
                     "concept": "freud.progetto.meccanismo-psichico.molla"
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\progetto\\meccanismo-psichico.philos.ittf",
             "title": {
                 "text": "Meccanismo psichico"
             }
@@ -2183,6 +2892,7 @@
                     ]
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\progetto\\memoria.philos.ittf",
             "title": {
                 "text": "Memoria"
             }
@@ -2198,6 +2908,7 @@
                     "line": "La modificazione interna è l'unico mezzo di scarica del neonato, fino al ritrovamento dell’azione specifica. È espressione di emozioni, grida, innervazioni vascolari. Richiamando l'aiuto esterno di un adulto soccorritore tale via di scarica acquista la funzione secondaria estremamente importante dell’intendersi, e l’impotenza iniziale degli esseri umani è la fonte originaria di tutte le motivazioni morali."
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\progetto\\modificazione-interna.philos.ittf",
             "title": {
                 "text": "Modificazione interna"
             }
@@ -2225,6 +2936,7 @@
                     ]
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\progetto\\neurone.philos.ittf",
             "title": {
                 "text": "Neurone"
             }
@@ -2245,6 +2957,7 @@
                     "line": "Come esistono neuroni motori, che quando vengono riempiti fino a un certo livello, conducono le Qἠ nei muscoli e ivi le scaricano, così devono esservi neuroni secretori, i quali, quando vengono eccitati, generano all'interno del corpo qualcosa che agisce come uno stimolo alle vie endogene di conduzione che portano a ψ, e quindi influenzano la produzione di Qἠ endogene, e con ciò non scaricano Qἠ ma le introducono per via indiretta."
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\progetto\\neuroni-secretori.philos.ittf",
             "title": {
                 "text": "Neuroni secretori"
             }
@@ -2286,6 +2999,7 @@
                     "line": "I neuroni-φ ricevono cariche dal mondo esterno."
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\progetto\\neuroni-φ.philos.ittf",
             "title": {
                 "text": "Neuroni φ"
             }
@@ -2301,6 +3015,7 @@
                     "line": "Neurone ψ che sono investiti da neuroni φ."
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\progetto\\neuroni-ψ.philos.ittf",
             "title": {
                 "text": "Neuroni ψ del pallio"
             }
@@ -2316,6 +3031,7 @@
                     "line": "Neuroni ψ che sono investiti dalle vie endogene di conduzione."
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\progetto\\neuroni-ψ.philos.ittf",
             "title": {
                 "text": "Neuroni ψ nucleari"
             }
@@ -2372,6 +3088,7 @@
                     "concept": "freud.progetto.neuroni-ψ.nucleari"
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\progetto\\neuroni-ψ.philos.ittf",
             "title": {
                 "text": "Neuroni ψ"
             }
@@ -2410,6 +3127,7 @@
                     "line": "La carica Qἠ che da ψ eccita ω è presumibilmente molto bassa, quasi a zero; ma non zero poiché anche i neuroni ω tendono alla scarica."
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\progetto\\neuroni-ω.philos.ittf",
             "title": {
                 "text": "Neuroni ω"
             }
@@ -2434,6 +3152,7 @@
                     ]
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\progetto\\parola.philos.ittf",
             "title": {
                 "text": "Parola"
             }
@@ -2454,6 +3173,7 @@
                     "line": "[..] delle facilitazioni prodotte dal pensiero resta solo il risultato e non un ricordo."
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\progetto\\pensiero.philos.ittf",
             "title": {
                 "text": "Pensiero"
             }
@@ -2464,6 +3184,7 @@
             "author": "global",
             "name": "pensiero-cosciente-osservante",
             "id": "freud.progetto.pensiero-cosciente-osservante",
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\progetto\\pensiero.philos.ittf",
             "title": {
                 "text": "Pensiero cosciente osservante"
             }
@@ -2487,6 +3208,7 @@
                     "line": "Opera in anticipo rispetto al pensiero riproduttivo, fornendo a quest'ultimo facilitazioni già pronte per l'ulteriore itinerario associativo."
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\progetto\\pensiero.philos.ittf",
             "title": {
                 "text": "Pensiero conoscitivo"
             }
@@ -2505,6 +3227,7 @@
                     "line": "Tutti i pensieri hanno origine dal pensiero pratico."
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\progetto\\pensiero.philos.ittf",
             "title": {
                 "text": "Pensiero pratico"
             }
@@ -2528,6 +3251,7 @@
                     "line": "È in parte incluso nel pensiero pratico ma non si esaurisce in esso."
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\progetto\\pensiero.philos.ittf",
             "title": {
                 "text": "Pensiero riproduttivo"
             }
@@ -2543,6 +3267,7 @@
                     "line": "A rigore, né i “processi” del mondo esterno, né gli “stimoli” che, passando attraverso gli apparati nervosi terminali, raggiungono φ, né le cariche in φ o ψ hanno una qualità, ma solo una caratteristica qualitativa (il periodo) che diventa qualità quando raggiunge ω."
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\progetto\\periodo.philos.ittf",
             "title": {
                 "text": "Periodo"
             }
@@ -2563,6 +3288,7 @@
                     "line": "Prima formulazione del principio di costanza (1920)."
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\progetto\\principio-inerzia.philos.ittf",
             "title": {
                 "text": "Principio d'inerzia"
             }
@@ -2583,6 +3309,7 @@
                     "line": "L’investimento di desiderio portato fino all’allucinazione e lo sviluppo pieno del dispiacere, che reca con sé l’esaurirsi completo della difesa, si possono definire come processo psichico primario."
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\progetto\\processo-primario.philos.ittf",
             "title": {
                 "text": "Processo primario"
             }
@@ -2606,6 +3333,7 @@
                     "line": "La lotta tra le facilitazioni fisse e gli investimenti mutevoli è caratteristica del processo secondario del pensiero riproduttivo, in contrasto con la successione primaria delle associazioni."
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\progetto\\processo-secondario.philos.ittf",
             "title": {
                 "text": "Processo secondario"
             }
@@ -2633,6 +3361,7 @@
                     ]
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\progetto\\qualità.philos.ittf",
             "title": {
                 "text": "Qualità"
             }
@@ -2643,6 +3372,7 @@
             "author": "global",
             "name": "quantità-di-stimolo",
             "id": "freud.progetto.quantità-di-stimolo",
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\progetto\\quantità-di-stimolo.philos.ittf",
             "title": {
                 "text": "Quantità di stimolo"
             }
@@ -2665,6 +3395,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\progetto\\rappresentazione-sovraintensa.philos.ittf",
             "title": {
                 "text": "Rappresentazione sovraintensa",
                 "langs": [
@@ -2686,6 +3417,7 @@
                     "line": "Per regola biologica si intende una norma a salvaguardia della sopravvivenza, che deve essere rispettata per non compromettere la vita."
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\progetto\\regola-biologica.philos.ittf",
             "title": {
                 "text": "Regola biologica"
             }
@@ -2701,6 +3433,7 @@
                     "text": "Prima regola biologica"
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\progetto\\regola-biologica.philos.ittf",
             "title": {
                 "text": "Regola biologica della difesa primaria"
             }
@@ -2726,6 +3459,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\progetto\\regola-biologica.philos.ittf",
             "title": {
                 "text": "Regola biologica dell'attenzione"
             }
@@ -2741,6 +3475,7 @@
                     "line": "Un ricordo quando investito può sviluppare piacere o dispiacere."
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\progetto\\ricordo.philos.ittf",
             "title": {
                 "text": "Ricordo"
             }
@@ -2759,6 +3494,7 @@
                     "line": "I segni di qualità assicurano e fissano il decorso [associativo] ma non sono assolutamente indispensabili ad esso."
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\progetto\\segno-di-qualità.philos.ittf",
             "title": {
                 "text": "Segno di qualità"
             }
@@ -2774,6 +3510,7 @@
                     "line": "Con tutta probabilità sono i neuroni ω che forniscono questo segno: il segno di realtà. In ogni percezione esterna avviene un eccitamento qualitativo in ω, ma questo, in un primo tempo, è senza importanza per ψ. Dobbiamo quindi aggiungere che l’eccitamento ω conduce a una scarica ω e che un’informazione di quest’ultima (come di ogni altra scarica) raggiunge ψ. L’informazione della scarica proveniente da ω costituisce quindi per ψ il segno di qualità o di realtà."
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\progetto\\segno-di-realtà.philos.ittf",
             "title": {
                 "text": "Segno di realtà"
             }
@@ -2784,6 +3521,7 @@
             "author": "global",
             "name": "segno-di-scarica",
             "id": "freud.progetto.segno-di-scarica",
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\progetto\\segno-di-scarica.philos.ittf",
             "title": {
                 "text": "Segno di scarica"
             }
@@ -2794,6 +3532,7 @@
             "author": "global",
             "name": "segno-di-scarica-verbale",
             "id": "freud.progetto.segno-di-scarica-verbale",
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\progetto\\segno-di-scarica.philos.ittf",
             "title": {
                 "text": "Segno di scarica verbale"
             }
@@ -2809,6 +3548,7 @@
                     "line": "Il sistema nervoso tende a strutturarsi per trattenere quantità sempre maggiori di Qἠ."
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\progetto\\sistema-nervoso.philos.ittf",
             "title": {
                 "text": "Struttura del sistema nervoso"
             }
@@ -2824,6 +3564,7 @@
                     "line": "La funzione del sistema nervoso è di scaricare Qἠ."
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\progetto\\sistema-nervoso.philos.ittf",
             "title": {
                 "text": "Funzione del sistema nervoso"
             }
@@ -2842,6 +3583,7 @@
                     "concept": "freud.progetto.sistema-nervoso.funzione"
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\progetto\\sistema-nervoso.philos.ittf",
             "title": {
                 "text": "Sistema nervoso"
             }
@@ -2863,6 +3605,7 @@
                     ]
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\progetto\\stimoli-endogeni.philos.ittf",
             "title": {
                 "text": "Stimoli endogeni"
             }
@@ -2881,6 +3624,7 @@
                     "line": "I neuroni ψ hanno terminazioni di tipo libero; uno schermo di Q sembra inutile qui, dove lo stimolo è già in partenza ridotto a livelli intercellulari."
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\progetto\\terminazione-nervosa.philos.ittf",
             "title": {
                 "text": "Terminazione nervosa"
             }
@@ -2891,6 +3635,7 @@
             "author": "global",
             "name": "traccia",
             "id": "freud.progetto.traccia",
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\progetto\\traccia.philos.ittf",
             "title": {
                 "text": "Traccia"
             }
@@ -2901,6 +3646,7 @@
             "author": "global",
             "name": "traccia-di-realtà",
             "id": "freud.progetto.traccia-di-realtà",
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\progetto\\traccia.philos.ittf",
             "title": {
                 "text": "Traccia di realtà"
             }
@@ -2911,6 +3657,7 @@
             "author": "global",
             "name": "traccia-di-processo",
             "id": "freud.progetto.traccia-di-processo",
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\progetto\\traccia.philos.ittf",
             "title": {
                 "text": "Traccia di pensiero"
             }
@@ -2926,6 +3673,7 @@
                     "line": "La volontà è il derivato delle pulsioni."
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\progetto\\volontà.philos.ittf",
             "title": {
                 "text": "Volontà"
             }
@@ -2936,6 +3684,7 @@
             "author": "global",
             "name": "contenuto-onirico-manifesto",
             "id": "freud.contenuto-onirico-manifesto",
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\sogno\\contenuto-onirico-manifesto.philos.ittf",
             "title": {
                 "text": "Contenuto onirico manifesto"
             }
@@ -2946,6 +3695,7 @@
             "author": "global",
             "name": "pensiero-onirico-latente",
             "id": "freud.pensiero-onirico-latente",
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\sogno\\pensiero-onirico-latente.philos.ittf",
             "title": {
                 "text": "pensiero onirico latente"
             }
@@ -2956,6 +3706,7 @@
             "author": "global",
             "name": "residuo-diurno",
             "id": "freud.residuo-diurno",
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\sogno\\residuo-diurno.philos.ittf",
             "title": {
                 "text": "residuo diurno"
             }
@@ -2971,6 +3722,7 @@
                     "line": "È l'aperto appagamento di un desiderio ammesso."
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\sogno\\sogno.philos.ittf",
             "title": {
                 "text": "Sogno infantile"
             }
@@ -2986,6 +3738,7 @@
                     "line": "È l'appagamento camuffato di un desiderio rimosso."
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\sogno\\sogno.philos.ittf",
             "title": {
                 "text": "Sogno deformato"
             }
@@ -3011,6 +3764,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\sogno\\sogno.philos.ittf",
             "title": {
                 "text": "Sogno d'angoscia"
             }
@@ -3045,140 +3799,9 @@
                     "concept": "freud.sogno.d-angoscia"
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\sogno\\sogno.philos.ittf",
             "title": {
                 "text": "Sogno"
-            }
-        },
-        {
-            "kind": "concept",
-            "ns": "freud.religione",
-            "author": "global",
-            "name": "eredità-arcaica",
-            "id": "freud.religione.eredità-arcaica",
-            "contents": [
-                {
-                    "quote": {
-                        "author": "global",
-                        "lines": [
-                            "Sorgono allora le domande: in che cosa consiste questa eredità [arcaica], che cosa contiene, quali ne sono le prove? La prima e più sicura risposta è questa: essa consiste in determinate predisposizioni, proprie a tutti gli esseri viventi. Vale a dire nella capacità e inclinazione a battere determinate direzioni di sviluppo e a reagire in un modo particolare a certi eccitamenti, impressioni e stimoli. Poiché l’esperienza mostra che nei singoli esseri del genere umano ci sono a questo riguardo delle differenze, l’eredità arcaica le include, esse configurano cioè quello che noi riconosciamo come il fattore costituzionale dell’individuo. Ora, poiché gli uomini nei loro primi anni sperimentano tutti pressappoco le stesse cose, vi reagiscono anche in maniera simile; potrebbe perciò sorgere il dubbio se non si debbano ascrivere queste reazioni, unitamente alle loro differenze individuali, all’eredità arcaica. Questo dubbio va respinto; la nostra conoscenza dell’eredità arcaica non è arricchita dal fatto di questa somiglianza."
-                        ],
-                        "article": "freud.l-uomo-mose-e-la-religione-monoteistica",
-                        "epage": "7301"
-                    }
-                }
-            ],
-            "title": {
-                "text": "Eredità arcaica"
-            }
-        },
-        {
-            "kind": "concept",
-            "ns": "freud.religione",
-            "author": "global",
-            "name": "l-uomo-mosè",
-            "id": "freud.religione.l-uomo-mosè",
-            "contents": [
-                {
-                    "quote": {
-                        "author": "global",
-                        "lines": [
-                            "Forti delle nostre discussioni precedenti, possiamo ora affermare che fu l’uomo Mosè a scolpire nel popolo ebraico questa impronta indelebile. Egli accrebbe la presunzione degli Ebrei assicurandoli che erano il popolo eletto da Dio, diede loro la consacrazione e li obbligò a distinguersi dagli altri. Non che gli altri popoli mancassero di presunzione. Allora come oggi ogni nazione si considerava migliore di ogni altra. Ma con Mosè la presunzione degli Ebrei mise radice nella religione e divenne una parte della loro fede religiosa. In virtù della loro relazione particolarmente intima con il loro Dio parteciparono della sua grandezza. E considerato che dietro il Dio che aveva prescelto gli Ebrei e li aveva liberati dagli Egizi c’era la persona di Mosè, il quale aveva fatto proprio questo, apparentemente per ordine divino, non è avventato dire che l’uomo Mosè creò, lui, gli Ebrei. A lui questo popolo deve la sua tenacità, ma anche molta dell’ostilità che ha incontrato e tuttora incontra."
-                        ],
-                        "article": "freud.l-uomo-mose-e-la-religione-monoteistica",
-                        "epage": "7309-7310"
-                    }
-                }
-            ],
-            "title": {
-                "text": "L'uomo mosè"
-            }
-        },
-        {
-            "kind": "concept",
-            "ns": "freud.religione",
-            "author": "global",
-            "name": "origine-religione",
-            "id": "freud.religione.origine-religione",
-            "contents": [
-                {
-                    "quote": {
-                        "author": "global",
-                        "lines": [
-                            "La convinzione che esso [il mio metodo di analisi dei fenomeni religiosi] è corretto, l’ho acquisita già un quarto di secolo fa, quando scrissi il libro su Totem e tabù, nel 1912, e da allora si è soltanto rafforzata. Non ho più dubitato fin da allora, che è possibile intendere i fenomeni religiosi solamente usando il modello dei sintomi nevrotici individuali a noi familiari, come ritorni di significativi eventi da lungo dimenticati della storia primordiale della famiglia umana; non ho più avuto dubbi che essi debbono il loro carattere coattivo a questa origine, e che dunque agiscono sugli uomini in forza del loro contenuto di verità storica."
-                        ],
-                        "article": "freud.l-uomo-mose-e-la-religione-monoteistica",
-                        "epage": "7255"
-                    }
-                }
-            ],
-            "title": {
-                "text": "Origine della religione"
-            }
-        },
-        {
-            "kind": "concept",
-            "ns": "freud.religione",
-            "author": "global",
-            "name": "sacro",
-            "id": "freud.religione.sacro",
-            "contents": [
-                {
-                    "quote": {
-                        "author": "global",
-                        "lines": [
-                            "Siamo fiduciosi che l’esame di tutti gli altri casi di divieto sacro condurrebbe allo stesso risultato del caso dell’orrore dell’incesto, e cioè che in origine il sacro non è altro che la prosecuzione della volontà del padre primigenio. Con ciò si farebbe anche un po’ di luce sull’ambivalenza, finora incomprensibile, delle parole che esprimono il concetto di sacro. È la stessa ambivalenza che domina in genere il rapporto con il padre. “Sacer” significa non solo “sacro”, “consacrato”, ma anche qualcosa che possiamo tradurre soltanto con “infame”, “esecrabile” (“auri sacra fames”). Tuttavia la volontà del padre non era soltanto qualcosa di intoccabile, qualcosa da tenere altamente in onore, ma anche qualcosa di fronte a cui si tremava, perché esigeva una dolorosa rinuncia pulsionale. Quando sentiamo che Mosè “consacrò” il suo popolo introducendo l’usanza di circoncidersi, comprendiamo adesso il senso profondo di questa affermazione. La circoncisione è il sostitutivo simbolico dell’evirazione, che un tempo il padre primigenio nella pienezza del suo potere assoluto aveva inflitto ai figli; chi accettava questo simbolo, mostrava con ciò di essere pronto a sottomettersi al volere del padre anche se questi gli imponeva il sacrificio più doloroso."
-                        ],
-                        "article": "freud.l-uomo-mose-e-la-religione-monoteistica",
-                        "epage": "7326-7327"
-                    }
-                }
-            ],
-            "title": {
-                "text": "Il sacro"
-            }
-        },
-        {
-            "kind": "concept",
-            "ns": "freud.religione",
-            "author": "global",
-            "name": "sviluppi",
-            "id": "freud.religione.sviluppi",
-            "contents": [
-                {
-                    "quote": {
-                        "author": "global",
-                        "lines": [
-                            "Il passo consecutivo al totemismo è l’umanazione dell’essere venerato. Al posto degli animali subentrano dèi umani, della cui derivazione dal totem non si fa mistero. Il dio è ancora raffigurato o in forma animale o almeno con faccia d’animale, oppure il totem diviene il compagno preferito del dio, da cui è inseparabile, oppure ancora la leggenda fa sì che il dio uccida proprio questo animale, che a ben vedere era solo lo stadio preliminare di lui stesso. A un certo punto difficilmente determinabile di questa evoluzione fanno la loro comparsa grandi divinità materne, probabilmente anche prima degli dèi maschili, con i quali coesistettero poi a lungo. Si era frattanto compiuto un grande rivolgimento sociale. Il matriarcato era stato sostituito dal ristabilirsi di un ordine patriarcale. I nuovi padri non raggiunsero in verità mai il potere assoluto del padre primordiale; erano in molti e vivevano associati in raggruppamenti più grandi di quanto fosse stata l’orda; dovevano mantenere buoni rapporti reciproci ed erano limitati da norme sociali. È verosimile che le divinità materne avessero origine al tempo della restrizione del matriarcato, per compensare le madri messe in disparte. Le divinità maschili apparvero dapprima come figli accanto alle grandi madri, e solo dopo assunsero nettamente i tratti di figure paterne. Questi dèi maschili del politeismo rispecchiano i rapporti dell’epoca patriarcale. Sono numerosi, si limitano a vicenda, occasionalmente sono subordinati a un dio supremo che li sovrasta. Il passo successivo, però, conduce al tema che ci sta occupando, ossia al ritorno di un solo dio-padre, unico e illimitato signore."
-                        ],
-                        "article": "freud.l-uomo-mose-e-la-religione-monoteistica",
-                        "epage": "7284-7285"
-                    }
-                }
-            ],
-            "title": {
-                "text": "Sviluppi della religione"
-            }
-        },
-        {
-            "kind": "concept",
-            "ns": "freud.religione",
-            "author": "global",
-            "name": "totemismo",
-            "id": "freud.religione.totemismo",
-            "contents": [
-                {
-                    "quote": {
-                        "author": "global",
-                        "lines": [
-                            "Ritengo che abbiamo pieno diritto di riconoscere nel totemismo, con la sua venerazione di un sostituto paterno, con l’ambivalenza mostrata nel pasto totemico, con l’istituzione di celebrazioni commemorative, di divieti la cui trasgressione era punita con la morte, è lecito riconoscere nel totemismo, dicevo, la prima forma di apparizione della religione nella storia umana e confermare il suo nesso fin dal principio con gli ordinamenti sociali e gli obblighi morali."
-                        ],
-                        "article": "freud.l-uomo-mose-e-la-religione-monoteistica",
-                        "epage": "7284"
-                    }
-                }
-            ],
-            "title": {
-                "text": "Totemismo"
             }
         },
         {
@@ -3192,6 +3815,16 @@
                     "quote": {
                         "author": "global",
                         "lines": [
+                            "Abbiamo avuto spesso l’opportunità di indicare, alla radice di importanti formazioni culturali, l’ambivalenza emotiva in senso proprio, ossia l’incontro di amore e odio verso lo stesso oggetto. Sull’origine di questa ambivalenza non sappiamo nulla. Si può avanzare l’ipotesi che sia un fenomeno fondamentale della nostra vita emotiva. Ma mi sembra assolutamente degna di considerazione anche l’altra possibilità, ossia che l’ambivalenza, originariamente estranea alla vita emotiva, sia stata acquisita dall’umanità partendo dal complesso paterno [parentale], nel quale, come mostra l’indagine psicoanalitica sull’individuo, ancor oggi l’impronta dell’ambivalenza è più forte."
+                        ],
+                        "article": "freud.totem-e-tabù",
+                        "epage": "4081"
+                    }
+                },
+                {
+                    "quote": {
+                        "author": "global",
+                        "lines": [
                             "È un trionfo della formazione sintomatica riuscire a mescolare la proibizione con il soddisfacimento, a far sì che il comando o il divieto originariamente difensivi assumano anche il significato di un soddisfacimento, processo in cui vengono sovente utilizzate vie di collegamento quanto mai artificiose. [..] Nei casi estremi si arriva al risultato che la maggior parte dei sintomi del paziente hanno acquisito, in più del loro significato originario, anche quello del suo diretto opposto: prova, questa, della forza dell’ambivalenza, la quale, non sappiamo perché, svolge nella nevrosi ossessiva una parte così importante. Nei casi più grezzi il sintomo è bifasico, ossia, a un’azione che esegue un determinato ordine, ne segue immediatamente un’altra che sospende o annulla la prima, quando non arrivi addirittura a compiere l’opposto."
                         ],
                         "article": "freud.inibizione-sintomo-e-angoscia",
@@ -3199,6 +3832,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\ambivalenza.philos.ittf",
             "title": {
                 "text": "Ambivalenza"
             }
@@ -3231,6 +3865,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\abreazione.philos.ittf",
             "title": {
                 "text": "Abreazione"
             }
@@ -3294,6 +3929,7 @@
                     ]
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\affetto.philos.ittf",
             "title": {
                 "text": "Importo d'affetto",
                 "langs": [
@@ -3318,6 +3954,7 @@
                     "line": "Solo se la rievocazione del ricordo provoca la reviviscenza dell'affetto che gli era legato all'origine, la reminiscenza acquista la sua efficacia terapeutica."
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\affetto.philos.ittf",
             "title": {
                 "text": "Affetto bloccato"
             }
@@ -3339,6 +3976,7 @@
                     "line": "nei sintomi corporei parlano le rappresentazioni rimosse deformate dalla \"condensazione\" e dallo \"spostamento\""
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\affetto.philos.ittf",
             "title": {
                 "text": "Conversione (destino dell'affetto)"
             }
@@ -3357,6 +3995,7 @@
                     "line": "lo spostamento dell'affetto produce \"nevrosi ossessiva\""
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\affetto.philos.ittf",
             "title": {
                 "text": "Spostamento (destino dell'affetto)"
             }
@@ -3372,6 +4011,7 @@
                     "line": "la trasformazione dell'affetto produce \"nevrosi d'angoscia\", \"melanconia\""
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\affetto.philos.ittf",
             "title": {
                 "text": "Trasformazione (destino dell'affetto)"
             }
@@ -3387,6 +4027,7 @@
                     "line": "non è una rimozione, non si può parlare di affetto inconscio"
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\affetto.philos.ittf",
             "title": {
                 "text": "Repressione (destino dell'affetto)"
             }
@@ -3417,6 +4058,7 @@
                     "concept": "freud.affetto.destino.repressione"
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\affetto.philos.ittf",
             "title": {
                 "text": "Destino dell'affetto"
             }
@@ -3441,6 +4083,7 @@
                     "concept": "freud.affetto.destino"
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\affetto.philos.ittf",
             "title": {
                 "text": "Affetto",
                 "langs": [
@@ -3469,6 +4112,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\agressività.philos.ittf",
             "title": {
                 "text": "Agressività"
             }
@@ -3484,6 +4128,7 @@
                     "line": "Al pari dell'amnesia isterica, l'amnesia infantile può essere in linea di principio eliminata: essa non è una soppressione o una assenza di fissazione di ricordi, bensì l'effetto di una rimozione. Freud vede nell'amnesia infantile la condizione delle rimozioni successive, in particolare dell'amnesia isterica."
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\amnesia-infantile.philos.ittf",
             "title": {
                 "text": "Amnesia infantile"
             }
@@ -3511,6 +4156,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\angoscia.philos.ittf",
             "title": {
                 "text": "Angoscia morale"
             }
@@ -3548,6 +4194,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\angoscia.philos.ittf",
             "title": {
                 "text": "Angoscia di morte"
             }
@@ -3585,6 +4232,7 @@
                     ]
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\angoscia.philos.ittf",
             "title": {
                 "text": "Angoscia di evirazione"
             }
@@ -3600,6 +4248,7 @@
                     "text": "Angoscia per l'oggetto"
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\angoscia.philos.ittf",
             "title": {
                 "text": "Angoscia reale"
             }
@@ -3615,6 +4264,7 @@
                     "text": "Angoscia per la libido"
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\angoscia.philos.ittf",
             "title": {
                 "text": "Angoscia nevrotica"
             }
@@ -3712,6 +4362,7 @@
                     "concept": "freud.angoscia.nevrotica"
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\angoscia.philos.ittf",
             "title": {
                 "text": "Angoscia"
             }
@@ -3722,6 +4373,7 @@
             "author": "global",
             "name": "appoggio",
             "id": "freud.appoggio",
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\appoggio.philos.ittf",
             "title": {
                 "text": "Appoggio (ricerca di)",
                 "langs": [
@@ -3750,6 +4402,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\associazione-libera.philos.ittf",
             "title": {
                 "text": "Associazione libera"
             }
@@ -3788,6 +4441,7 @@
                     ]
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\attenzione.philos.ittf",
             "title": {
                 "text": "Attenzione"
             }
@@ -3810,6 +4464,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\atto-psichico.philos.ittf",
             "title": {
                 "text": "Atto psichico"
             }
@@ -3825,6 +4480,7 @@
                     "line": "Per Freud l’autoerotismo è uno stadio antecedente al narcisismo; il narcisismo - ovvero l’investimento libidico dell’Io, di quell’ Io che è al contempo la fonte di tutta la libido che può essere trasfusa - può essere assottigliato fino all’estremo, a causa di un sovrainvestimento eccessivo dell’oggetto, senza però intaccare l’autoerotismo, ovvero la quota libidica che rimane strenuamente abbarbicata a questo punctum (il fallo) di origine della libido."
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\autoerotismo.philos.ittf",
             "title": {
                 "text": "Autoerotismo"
             }
@@ -3840,6 +4496,7 @@
                     "line": "Azione richiesta nella realtà per scaricare l'eccitazione di uno stimolo endogeno (pulsione) quale fame, sete, sessualità."
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\azione-specifica.philos.ittf",
             "title": {
                 "text": "Azione specifica"
             }
@@ -3866,6 +4523,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\coazione-a-ripetere.philos.ittf",
             "title": {
                 "text": "Coazione a ripetere",
                 "langs": [
@@ -3914,6 +4572,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\coscienza-morale.philos.ittf",
             "title": {
                 "text": "Coscienza morale",
                 "langs": [
@@ -3942,6 +4601,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\costruzione-analitica.philos.ittf",
             "title": {
                 "text": "Costruzione analitica"
             }
@@ -3991,6 +4651,7 @@
                     ]
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\delirio.philos.ittf",
             "title": {
                 "text": "Delirio"
             }
@@ -4047,6 +4708,7 @@
                     ]
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\desiderio.philos.ittf",
             "title": {
                 "text": "Desiderio"
             }
@@ -4069,6 +4731,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\diavolo.philos.ittf",
             "title": {
                 "text": "Diavolo"
             }
@@ -4079,6 +4742,7 @@
             "author": "global",
             "name": "dell-io",
             "id": "freud.difesa.dell-io",
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\difesa.philos.ittf",
             "title": {
                 "text": "Difesa dell'Io"
             }
@@ -4089,6 +4753,7 @@
             "author": "global",
             "name": "meccanismo-di",
             "id": "freud.difesa.meccanismo-di",
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\difesa.philos.ittf",
             "title": {
                 "text": "Meccanismo di difesa"
             }
@@ -4099,6 +4764,7 @@
             "author": "global",
             "name": "Lotta-di",
             "id": "freud.difesa.Lotta-di",
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\difesa.philos.ittf",
             "title": {
                 "text": "Lotta di difesa"
             }
@@ -4120,6 +4786,7 @@
                     ]
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\difesa.philos.ittf",
             "title": {
                 "text": "Difesa secondaria"
             }
@@ -4130,6 +4797,7 @@
             "author": "global",
             "name": "inconscia-dell-io",
             "id": "freud.difesa.inconscia-dell-io",
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\difesa.philos.ittf",
             "title": {
                 "text": "Difesa inconscia dell'io"
             }
@@ -4166,6 +4834,7 @@
                     "concept": "freud.difesa.inconscia-dell-io"
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\difesa.philos.ittf",
             "title": {
                 "text": "Difesa"
             }
@@ -4176,6 +4845,7 @@
             "author": "global",
             "name": "dispiacere",
             "id": "freud.dispiacere",
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\dispiacere.philos.ittf",
             "title": {
                 "text": "Dispiacere (non appagamento)",
                 "langs": [
@@ -4192,6 +4862,7 @@
             "author": "global",
             "name": "dolore",
             "id": "freud.dolore",
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\dolore.philos.ittf",
             "title": {
                 "text": "Dolore",
                 "langs": [
@@ -4208,6 +4879,7 @@
             "author": "global",
             "name": "esterna",
             "id": "freud.eccitazione.esterna",
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\eccitazione.philos.ittf",
             "title": {
                 "text": "Eccitazione esterna"
             }
@@ -4232,6 +4904,7 @@
                     "concept": "freud.eccitazione.esterna"
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\eccitazione.philos.ittf",
             "title": {
                 "text": "Eccitazione",
                 "langs": [
@@ -4260,6 +4933,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\educazione.philos.ittf",
             "title": {
                 "text": "Educazione"
             }
@@ -4305,6 +4979,7 @@
                     ]
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\effetto-retroattivo.philos.ittf",
             "title": {
                 "text": "Effetto retroattivo",
                 "langs": [
@@ -4321,6 +4996,7 @@
             "author": "global",
             "name": "legata",
             "id": "freud.energia.legata",
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\energia.philos.ittf",
             "title": {
                 "text": "Energia legata"
             }
@@ -4336,6 +5012,7 @@
                     "text": "Energia libera"
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\energia.philos.ittf",
             "title": {
                 "text": "Energia mobile"
             }
@@ -4354,6 +5031,7 @@
                     "concept": "freud.energia.mobile"
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\energia.philos.ittf",
             "title": {
                 "text": "Energia mentale"
             }
@@ -4375,6 +5053,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\eroe.philos.ittf",
             "title": {
                 "text": "Eroe"
             }
@@ -4397,6 +5076,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\eros.philos.ittf",
             "title": {
                 "text": "Eros"
             }
@@ -4421,7 +5101,8 @@
                         "epage": "4432"
                     }
                 }
-            ]
+            ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\erotismo.philos.ittf"
         },
         {
             "kind": "concept",
@@ -4443,7 +5124,8 @@
                         "epage": "4432"
                     }
                 }
-            ]
+            ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\erotismo.philos.ittf"
         },
         {
             "kind": "concept",
@@ -4464,6 +5146,7 @@
                     "concept": "freud.erotismo.non-egosintonico"
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\erotismo.philos.ittf",
             "title": {
                 "text": "Erotismo"
             }
@@ -4479,6 +5162,7 @@
                     "line": "Protofigura parentale dalla cui introiezione Freud fa derivare l’ideale dell’Io."
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\essere-superiore.philos.ittf",
             "title": {
                 "text": "Essere superiore",
                 "langs": [
@@ -4507,6 +5191,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\fantasticare.philos.ittf",
             "title": {
                 "text": "Fantasticare"
             }
@@ -4529,6 +5214,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\festa.philos.ittf",
             "title": {
                 "text": "Festa"
             }
@@ -4539,6 +5225,7 @@
             "author": "global",
             "name": "degli-animali",
             "id": "freud.fobia.degli-animali",
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\fobia.philos.ittf",
             "title": {
                 "text": "Fobia degli animali"
             }
@@ -4554,6 +5241,7 @@
                     "concept": "freud.fobia.degli-animali"
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\fobia.philos.ittf",
             "title": {
                 "text": "Fobia"
             }
@@ -4596,6 +5284,7 @@
                     "contents": []
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\formazione-di-compromesso.philos.ittf",
             "title": {
                 "text": "Formazione di compromesso"
             }
@@ -4611,6 +5300,7 @@
                     "line": "Nel caso della rimozione i contenuti psichici possono avere apparenza del tutto opposta al rimosso."
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\formazione-reattiva.philos.ittf",
             "title": {
                 "text": "Formazione reattiva"
             }
@@ -4633,6 +5323,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\identificazione.philos.ittf",
             "title": {
                 "text": "Identificazione"
             }
@@ -4655,6 +5346,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\inibizione.philos.ittf",
             "title": {
                 "text": "Inibizione"
             }
@@ -4677,6 +5369,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\innervazione.philos.ittf",
             "title": {
                 "text": "Innervazione"
             }
@@ -4686,14 +5379,16 @@
             "ns": "freud.introiezione",
             "author": "global",
             "name": "primaria",
-            "id": "freud.introiezione.primaria"
+            "id": "freud.introiezione.primaria",
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\introiezione.philos.ittf"
         },
         {
             "kind": "concept",
             "ns": "freud.introiezione",
             "author": "global",
             "name": "da-perdita-di-oggetto",
-            "id": "freud.introiezione.da-perdita-di-oggetto"
+            "id": "freud.introiezione.da-perdita-di-oggetto",
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\introiezione.philos.ittf"
         },
         {
             "kind": "concept",
@@ -4715,6 +5410,7 @@
                     "concept": "freud.introiezione.da-perdita-di-oggetto"
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\introiezione.philos.ittf",
             "title": {
                 "text": "Introiezione"
             }
@@ -4736,6 +5432,7 @@
                     "text": "Investimento mobile"
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\investimento.philos.ittf",
             "title": {
                 "text": "Investimento liberamente fluttuante"
             }
@@ -4769,6 +5466,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\investimento.philos.ittf",
             "title": {
                 "text": "Investimento quiescente"
             }
@@ -4818,6 +5516,7 @@
                     "concept": "freud.investimento.quiescente"
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\investimento.philos.ittf",
             "title": {
                 "text": "Investimento"
             }
@@ -4835,6 +5534,7 @@
                     "contents": []
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\isteria.philos.ittf",
             "title": {
                 "text": "Isteria"
             }
@@ -4850,6 +5550,7 @@
                     "line": "Un comportamento animale fissato dall'eredità, caratteristico della specie, preformato nel suo svolgimento e adattato al suo oggetto."
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\istinto.philos.ittf",
             "title": {
                 "text": "Istinto",
                 "langs": [
@@ -4878,6 +5579,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\lavoro-analitico.philos.ittf",
             "title": {
                 "text": "Lavoro analitico"
             }
@@ -4893,6 +5595,7 @@
                     "line": "Utilizza il modo di essere del sistema inconscio ma è svolto dall'Io."
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\lavoro-onirico.philos.ittf",
             "title": {
                 "text": "Lavoro onirico"
             }
@@ -4915,6 +5618,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\libido.philos.ittf",
             "title": {
                 "text": "Ritiro della libido dall'oggetto"
             }
@@ -4937,6 +5641,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\libido.philos.ittf",
             "title": {
                 "text": "Introversione della libido"
             }
@@ -4964,6 +5669,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\libido.philos.ittf",
             "title": {
                 "text": "Libido dell'Io"
             }
@@ -4994,6 +5700,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\libido.philos.ittf",
             "title": {
                 "text": "Libido oggettuale"
             }
@@ -5047,6 +5754,7 @@
                     "concept": "freud.libido.oggettuale"
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\libido.philos.ittf",
             "title": {
                 "text": "Libido"
             }
@@ -5067,6 +5775,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\motilità.philos.ittf",
             "title": {
                 "text": "Motilità"
             }
@@ -5077,6 +5786,7 @@
             "author": "global",
             "name": "narcisismo",
             "id": "freud.narcisismo",
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\narcisismo.philos.ittf",
             "title": {
                 "text": "Narcisismo"
             }
@@ -5099,6 +5809,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\nascita-difficile.philos.ittf",
             "title": {
                 "text": "Nascita difficile"
             }
@@ -5121,6 +5832,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\paura-evirazione.philos.ittf",
             "title": {
                 "text": "Paura dell'evirazione"
             }
@@ -5141,6 +5853,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\percezione-interna.philos.ittf",
             "title": {
                 "text": "Percezione interna"
             }
@@ -5171,6 +5884,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\percezione-non-idoneità-ad-amare.philos.ittf",
             "title": {
                 "text": "Percezione non idoneità ad amare"
             }
@@ -5181,6 +5895,7 @@
             "author": "global",
             "name": "percezione",
             "id": "freud.percezione",
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\percezione.philos.ittf",
             "title": {
                 "text": "Percezione"
             }
@@ -5208,6 +5923,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\periodo-latenza.philos.ittf",
             "title": {
                 "text": "Periodo di latenza"
             }
@@ -5229,6 +5945,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\perturbante.philos.ittf",
             "title": {
                 "text": "Perturbante"
             }
@@ -5239,6 +5956,7 @@
             "author": "global",
             "name": "piacere",
             "id": "freud.piacere",
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\piacere.philos.ittf",
             "title": {
                 "text": "Piacere",
                 "langs": [
@@ -5260,6 +5978,7 @@
                     "text": "Principio di nirvana"
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\principio-di-costanza.philos.ittf",
             "title": {
                 "text": "Principio di costanza"
             }
@@ -5270,6 +5989,7 @@
             "author": "global",
             "name": "principio-di-piacere",
             "id": "freud.principio-di-piacere",
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\principio-di-piacere.philos.ittf",
             "title": {
                 "text": "Principio di piacere"
             }
@@ -5280,6 +6000,7 @@
             "author": "global",
             "name": "principio-di-realtà",
             "id": "freud.principio-di-realtà",
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\principio-di-realtà.philos.ittf",
             "title": {
                 "text": "Principio di realtà"
             }
@@ -5302,6 +6023,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\proiezione.philos.ittf",
             "title": {
                 "text": "Proiezione"
             }
@@ -5324,6 +6046,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\psicoanalisi.philos.ittf",
             "title": {
                 "text": "Psicoanalisi"
             }
@@ -5341,6 +6064,7 @@
                     "contents": []
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\psicosi.philos.ittf",
             "title": {
                 "text": "Psicosi"
             }
@@ -5365,6 +6089,7 @@
                     ]
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\pulsione.philos.ittf",
             "title": {
                 "text": "Fonte della pulsione"
             }
@@ -5380,6 +6105,7 @@
                     "line": "L'ultimo elemento che Freud introduce a proposito della nozione di pulsione è quello di spinta concepita come un fattore quantitativo economico, una «esigenza di lavoro imposta all'apparato psichico»."
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\pulsione.philos.ittf",
             "title": {
                 "text": "Spinta della pulsione"
             }
@@ -5395,6 +6121,7 @@
                     "line": "le mete siano molteplici, parcellari {see-concept freud.pulsione-parziale}, e strettamente dipendenti da fonti somatiche;"
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\pulsione.philos.ittf",
             "title": {
                 "text": "Meta della pulsione"
             }
@@ -5410,6 +6137,7 @@
                     "line": "l'oggetto è variabile, contingente, e viene scelto nella sua forma definitiva solo in funzione delle vicissitudini della storia del soggetto."
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\pulsione.philos.ittf",
             "title": {
                 "text": "Oggetto della pulsione"
             }
@@ -5425,6 +6153,7 @@
                     "text": "Pulsione di autoconservazione"
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\pulsione.philos.ittf",
             "title": {
                 "text": "Pulsione dell'io"
             }
@@ -5452,6 +6181,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\pulsione.philos.ittf",
             "title": {
                 "text": "Pulsione sessuale"
             }
@@ -5462,6 +6192,7 @@
             "author": "global",
             "name": "di-vita",
             "id": "freud.pulsione.di-vita",
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\pulsione.philos.ittf",
             "title": {
                 "text": "Pulsione di vita"
             },
@@ -5485,6 +6216,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\pulsione.philos.ittf",
             "title": {
                 "text": "Pulsione di morte"
             }
@@ -5512,6 +6244,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\pulsione.philos.ittf",
             "title": {
                 "text": "Le due pulsioni (vita e morte)"
             }
@@ -5669,6 +6402,7 @@
                     "concept": "freud.pulsione.di-vita-e-morte"
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\pulsione.philos.ittf",
             "title": {
                 "text": "Pulsione",
                 "langs": [
@@ -5699,6 +6433,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\rappresentazione-verbale.philos.ittf",
             "title": {
                 "text": "Rappresentazione verbale"
             }
@@ -5714,6 +6449,7 @@
                     "concept": "freud.rappresentazione.verbale"
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\rappresentazione-verbale.philos.ittf",
             "title": {
                 "text": "Rappresentazione"
             }
@@ -5735,6 +6471,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\realtà-psichica-e-di-fatto.philos.ittf",
             "title": {
                 "text": "Realtà psichica e di fatto"
             }
@@ -5757,6 +6494,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\reazione-terapeutica-negativa.philos.ittf",
             "title": {
                 "text": "Reazione terapeutica negativa"
             }
@@ -5783,6 +6521,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\regola-fondamentale.philos.ittf",
             "title": {
                 "text": "Regola fondamentale"
             }
@@ -5828,6 +6567,7 @@
                     ]
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\repressione.philos.ittf",
             "title": {
                 "text": "Repressione"
             }
@@ -5838,6 +6578,7 @@
             "author": "global",
             "name": "acustico",
             "id": "freud.residuo-mnestico.acustico",
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\residuo-mnestico.philos.ittf",
             "title": {
                 "text": "Residuo mnestico acustico"
             }
@@ -5848,6 +6589,7 @@
             "author": "global",
             "name": "ottico",
             "id": "freud.residuo-mnestico.ottico",
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\residuo-mnestico.philos.ittf",
             "title": {
                 "text": "Residuo mnestico ottico"
             }
@@ -5858,6 +6600,7 @@
             "author": "global",
             "name": "tattile",
             "id": "freud.residuo-mnestico.tattile",
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\residuo-mnestico.philos.ittf",
             "title": {
                 "text": "Residuo mnestico tattile"
             }
@@ -5879,6 +6622,7 @@
                     "concept": "freud.residuo-mnestico.tattile"
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\residuo-mnestico.philos.ittf",
             "title": {
                 "text": "Residuo mnestico"
             }
@@ -5904,6 +6648,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\resistenza.philos.ittf",
             "title": {
                 "text": "Resistenza"
             }
@@ -5919,6 +6664,7 @@
                     "line": "Da Freud inizialmente identificato con un evento traumatico poi con il «fantasma»."
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\resistenza.philos.ittf",
             "title": {
                 "text": "Nucleo patogeno"
             }
@@ -5943,6 +6689,7 @@
                     ]
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\rimozione.philos.ittf",
             "title": {
                 "text": "Rimozione - Fasi - Fase 1"
             }
@@ -5958,6 +6705,7 @@
                     "line": "La rimozione propriamente detta (eigentliche Verdrängung) o rimozione posteriore (Nachdrängen) è un processo duplice, che unisce a questa attrazione una repulsione (Abstossung) da parte di una istanza superiore."
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\rimozione.philos.ittf",
             "title": {
                 "text": "Rimozione - Fasi - Fase 2"
             }
@@ -5973,6 +6721,7 @@
                     "line": "è costituita dal ritorno del rimosso sotto forma di sintomi, sogni, atti mancati, ecc.."
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\rimozione.philos.ittf",
             "title": {
                 "text": "Rimozione - Fasi - Fase 3"
             }
@@ -6003,6 +6752,7 @@
                     "concept": "freud.rimozione.fasi.fase-3"
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\rimozione.philos.ittf",
             "title": {
                 "text": "Rimozione - Fasi"
             }
@@ -6176,6 +6926,7 @@
                     ]
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\rimozione.philos.ittf",
             "title": {
                 "text": "Rimozione"
             }
@@ -6198,6 +6949,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\rinuncia-pulsionale.philos.ittf",
             "title": {
                 "text": "Rinuncia pulsionale"
             }
@@ -6220,6 +6972,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\ritorno-del-rimosso.philos.ittf",
             "title": {
                 "text": "Ritorno del rimosso"
             }
@@ -6230,6 +6983,7 @@
             "author": "global",
             "name": "scena-primaria",
             "id": "freud.scena-primaria",
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\scena-primaria.philos.ittf",
             "title": {
                 "text": "Scena primaria"
             }
@@ -6240,6 +6994,7 @@
             "author": "global",
             "name": "sensazione",
             "id": "freud.sensazione",
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\sensazione.philos.ittf",
             "title": {
                 "text": "Sensazione",
                 "langs": [
@@ -6268,6 +7023,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\sensazione.philos.ittf",
             "title": {
                 "text": "Sensazione interna",
                 "langs": [
@@ -6304,6 +7060,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\senso-di-colpa.philos.ittf",
             "title": {
                 "text": "Senso di colpa"
             }
@@ -6326,6 +7083,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\sentimento-di-sé.philos.ittf",
             "title": {
                 "text": "Sentimento di sé"
             }
@@ -6348,6 +7106,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\sintomo.philos.ittf",
             "title": {
                 "text": "Sintomo"
             }
@@ -6369,6 +7128,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\sopraffazione-dell-io.philos.ittf",
             "title": {
                 "text": "Sopraffazione dell'Io",
                 "langs": [
@@ -6400,6 +7160,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\sovradeterminazione.philos.ittf",
             "title": {
                 "text": "Sovradeterminazione"
             }
@@ -6410,6 +7171,7 @@
             "author": "global",
             "name": "spinta-ascensionale-rimosso",
             "id": "freud.spinta-ascensionale-rimosso",
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\spinta-ascensionale-rimosso.philos.ittf",
             "title": {
                 "text": "Spinta ascensionale del rimosso",
                 "langs": [
@@ -6438,6 +7200,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\super-io.philos.ittf",
             "title": {
                 "text": "Super Io"
             }
@@ -6460,6 +7223,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\telepatia.philos.ittf",
             "title": {
                 "text": "Telepatia"
             }
@@ -6490,6 +7254,7 @@
                     "line": "per Freud gli eventi dei primi anni non vengono ricordati non per un difetto di fissazione, ma a causa della rimozione. In linea di principio, tutti i ricordi vengono trascritti, ma la loro rievocazione dipende dal modo in cui sono investiti, disinvestiti, controinvestiti. Questa concezione si basa sulla distinzione, messa in luce dall'esperienza clinica, tra la rappresentazione e l'importo d'affetto."
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\traccia-mnestica.philos.ittf",
             "title": {
                 "text": "Traccia mnestica"
             }
@@ -6540,6 +7305,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\traslazione.philos.ittf",
             "title": {
                 "text": "Traslazione"
             }
@@ -6572,6 +7338,7 @@
                     }
                 }
             ],
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\trauma.philos.ittf",
             "title": {
                 "text": "Trauma"
             }
@@ -6582,6 +7349,7 @@
             "author": "global",
             "name": "verità-materiale",
             "id": "freud.verità-materiale",
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\verità-materiale.philos.ittf",
             "title": {
                 "text": "Verità materiale"
             }
@@ -6592,6 +7360,7 @@
             "author": "global",
             "name": "verità-storica",
             "id": "freud.verità-storica",
+            "sourcePath": "C:\\My\\wizzi\\stfnbssl\\philos\\packages\\philos\\db\\synopsis\\psicoanalisi\\freud\\concepts\\verità-storica.philos.ittf",
             "title": {
                 "text": "Verità storica"
             }
@@ -7190,6 +7959,36 @@
             }
         },
         {
+            "id": "freud.totem-e-tabù",
+            "title": {
+                "text": "Totem e tabù"
+            },
+            "authors": [
+                "Freud"
+            ],
+            "reviews": [],
+            "contents": [],
+            "datepub": "1912/01/01",
+            "book": "freud.opere-VII",
+            "abstract": {
+                "contents": [
+                    {
+                        "line": "Freud ha scritto la presente opera con grande entusiasmo, persuaso che essa dovesse costituire qualche cosa di fondamentale, come lo era stata L’interpretazione dei sogni (1899). Ebbe sì, all’atto di licenziare per la stampa il quarto saggio, che è quello più importante e originale, qualche perplessità, [..] ma superò presto questi dubbi e in seguito considerò sempre il libro come una delle sue opere migliori."
+                    },
+                    {
+                        "line": "Freud aveva anche previsto che l’accoglienza del pubblico sarebbe stata [..] del tutto negativa. Così fu effettivamente. All’infuori degli ambienti psicoanalitici, si stentò a comprendere il significato dell’opera. Anche Freud nota la difficoltà di questo genere di studi, giacché il materiale su cui sono condotti è sempre di seconda mano, e cioè costituito da relazioni di esploratori e missionari (nota 175). Nel caso specifico Freud non si avvale neppure di relazioni dirette, ma solo di un materiale già manipolato e interpretato dagli etnologi e antropologi le cui opere sono state da lui consultate. [..]"
+                    },
+                    {
+                        "line": "Che il carattere della ricerca sia psicoanalitico, e non storico culturale, è confermato da Freud stesso all’inizio del quarto capitolo. Era per lui soprattutto importante aver ritrovato, nella vita dei selvaggi a organizzazione totemistica, i due comandamenti del totemismo, gli stessi che caratterizzano il complesso edipico studiato nei nevrotici. E la connessione intima fra totemismo ed esogamia, che gli etnologi e lo stesso Frazer nei suoi ultimi lavori contestano, è invece senz’altro accettata da Freud non tanto perché altri studiosi come Durkheim l’hanno sostenuta, ma soprattutto perché essa corrisponde ai dati dell’esperienza psicoanalitica nel trattamento dei nevrotici."
+                    },
+                    {
+                        "line": "Anche da un punto di vista metodologico, Freud dichiara apertamente (cap. 4, par. 7) di procedere come sempre. Egli tratta cioè la storia dei popoli quasi si trattasse di una psiche collettiva, nella quale i processi potessero svolgersi come nella psiche individuale, né si preoccupa dei mezzi con cui una fase può influire sulla successiva. Procede sicuro in base alla propria esperienza di questo metodo applicato alla psicologia dei nevrotici, dove ogni ipotesi attende di esser confermata dal nuovo materiale che il paziente produce in analisi: ciò che ovviamente non può verificarsi nel campo della psicologia dei popoli. [..]"
+                    }
+                ],
+                "epage": "3894-3897"
+            }
+        },
+        {
             "id": "freud.introduzione-al-narcisismo",
             "title": {
                 "text": "Introduzione al narcisismo",
@@ -7296,7 +8095,7 @@
             ],
             "reviews": [],
             "contents": [],
-            "datepub": "191//",
+            "datepub": "1915/03/01",
             "book": "freud.opere-VIII",
             "abstract": {
                 "contents": []

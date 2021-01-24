@@ -1,0 +1,18 @@
+$group
+
+    namespace freud.etno
+
+        concept peccato-originale
+            title Peccato originale
+
+            quote
+                + Nel mito cristiano il peccato originale dell’uomo è indubbiamente un’offesa contro Dio Padre. 
+                    \b Ora, se Cristo libera gli uomini dal peso del peccato originale sacrificando la sua stessa vita, 
+                    \b ci costringe a concludere che questa colpa fu un assassinio. 
+                    \b Secondo la legge del taglione, profondamente radicata nella sensibilità dell’uomo, 
+                    \b un assassinio può essere espiato soltanto col sacrificio di un’altra vita; 
+                    \b il sacrificio di sé ci fa risalire a un’omicidio. 
+                    \b E se questo sacrificio della propria vita conduce alla riconciliazione col Dio Padre, 
+                    \b il crimine da espiare non può essere altro che l’uccisione del padre.
+                article freud.totem-e-tabù
+                e-page 4078

@@ -1,0 +1,8 @@
+$group
+
+    namespace freud.etno
+
+        concept padre-dell-orda
+            title Padre dell'orda
+
+            quote

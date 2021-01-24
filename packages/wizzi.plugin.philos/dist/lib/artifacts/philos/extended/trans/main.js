@@ -205,6 +205,8 @@ functors.concept = function(parent, resultObj) {
     console.log('functors.concept');
     var conceptObj = createConcept(parent.wzName, resultObj, "concept");
     conceptObj.ns = resultObj.ns;
+    // TODO (when wizzi-core is ok) set conceptObj.sourcePath = parent.wzSourceFilepath()
+    conceptObj.sourcePath = parent.wzRoot().loadHistory.ittfDocumentDatas[parent.wzSourceLineInfo.sourceKey].ittfDocumentUri;
     var newitems = fillConcept(parent, resultObj, conceptObj);
     resultObj.concepts.push(conceptObj);
     var i, i_items=newitems, i_len=newitems.length, child;

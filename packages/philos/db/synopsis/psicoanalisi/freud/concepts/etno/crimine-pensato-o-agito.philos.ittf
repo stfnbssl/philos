@@ -1,0 +1,44 @@
+$group
+
+    namespace freud.etno
+
+        concept crimine-pensato-o-agito
+            title Crimine pensato o agito?
+
+            + In conclusione di Totem e tabù Freud si chiede se il crimine 
+                \b dell'uccisione del padre dell'orda, da parte dei figli ribelli 
+                \b rivoltatisi contro di lui, potesse essere un crimine solamente pensato e 
+                \b non agito realmente, e se la sola fantasia dell'uccisione 
+                \b potesse essere sufficiente a provocare, per il rimorso,
+                \b la reazione morale che ha dato vita al totemismo.
+
+            quote
+                + La nevrosi è caratterizzata dal fatto di porre la realtà psichica al di sopra della realtà effettiva, 
+                    \b di reagire a pensieri con la stessa serietà con cui gli uomini normali 
+                    \b reagiscono soltanto di fronte a realtà. 
+                    \b Non può essersi verificato qualcosa di analogo presso i primitivi? 
+                    \b Noi siamo giustificati nell’attribuire loro un’eccezionale sopravvalutazione 
+                    \b dei loro atti psichici come fenomeno parziale della loro organizzazione narcisistica. 
+                    \b Di conseguenza potrebbero essere bastati i semplici impulsi di ostilità verso il padre, 
+                    \b l’esistenza della fantasia di desiderio di ucciderlo e divorarlo 
+                    \b per provocare la reazione morale che ha dato vita al totemismo e al tabù.
+                + [Però] Non è esatto dire che i nevrotici che soffrono d’ossessioni, 
+                    \b i quali si trovano oggi sotto il peso di una loro supermorale, 
+                    \b si difendano solo da una realtà psichica tentatrice e si puniscano 
+                    \b a causa di impulsi unicamente sentiti. 
+                    \b C’è in questo quadro anche una parte di realtà storica: 
+                    \b durante l’infanzia questi uomini hanno subito puramente e semplicemente cattivi impulsi, 
+                    \b e li hanno tradotti in azioni nella misura consentita dall’impotenza propria del bambino. 
+                    \b Ognuno di questi superbuoni ha avuto la sua epoca cattiva nell’infanzia, 
+                    \b una fase perversa che è stata precorritrice e precondizionatrice della successiva fase supermorale.
+                + [Se consideriamo che] Certo non esistono né tra i primitivi né tra i nevrotici 
+                    \b le rigide distinzioni fra pensare e agire che riscontriamo in noi. 
+                    \b Ma il nevrotico è inibito soprattutto nell’agire, 
+                    \b in lui il pensiero sostituisce completamente l’azione. 
+                    \b Il primitivo invece è privo di inibizioni, il pensiero si trasforma senz’altro in azione, 
+                    \b per lui l’azione è per così dire un sostituto del pensiero. 
+                + [Allora] Ecco perché credo, pur senza pretendere ad asserzioni finali, 
+                    \b che nel nostro caso si possa presumere: “In principio era l’Azione.” [Quindi il padre dell'orda veniva realmente ucciso]
+                article freud.totem-e-tabù
+                e-page 4084-4086
+

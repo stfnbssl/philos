@@ -1,0 +1,33 @@
+$group
+
+    namespace freud.etno
+
+        concept animale-totemico
+            title Animale totemico
+
+            quote
+                + Ho recentemente pubblicato una "Analisi della fobia di un bambino di cinque anni",
+                    \b [..] L’elemento nuovo che veniamo a conoscere [..] è il fatto, 
+                    \b estremamente importante per il totemismo, 
+                    \b che in tali circostanze il bambino sposta parte dei suoi sentimenti dal padre su un animale.
+                    \b [..] il bambino si trova in un atteggiamento emotivo ambiguo – ambivalente – 
+                    \b nei confronti del padre e in questo conflitto di ambivalenza si procura un sollievo 
+                    \b spostando i suoi sentimenti ostili e angosciosi su un sostituto del padre.
+                + [..] È lecito manifestare l’impressione che in queste fobie degli animali riscontrate nei bambini 
+                    \b ritornino certi tratti del totemismo, in forma negativa.
+                + [..] Per ora accontentiamoci di rilevare a titolo di importanti concordanze con il totemismo 
+                    \b due elementi: la completa identificazione con l’animale totemico 
+                    \b e l’atteggiamento emotivo ambivalente verso l’animale stesso.
+                article freud.totem-e-tabù
+                e-page 4050-4053
+
+            quote
+                + Se l’animale totemico è il padre, i due comandamenti fondamentali del totemismo, 
+                    \b le due prescrizioni tabù che ne costituiscono il nucleo – 
+                    \b non uccidere il totem e non aver rapporti sessuali con una donna appartenente allo stesso totem – 
+                    \b coincidono quanto a contenuto con i due delitti di Edipo, 
+                    \b che uccise il padre e prese in moglie la madre, 
+                    \b e con i due desideri primordiali del bambino, 
+                    \b la cui insufficiente rimozione o il cui ridestarsi formano forse 
+                    \b il nucleo di tutte le psiconevrosi.
+                e-page 4054

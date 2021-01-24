@@ -1,9 +1,9 @@
 $group
 
-    namespace freud.religione
+    namespace freud.etno
 
-        concept il-popolo-ebraico
-            title Il popolo ebraico
+        concept popolo-ebraico
+            title Popolo ebraico
 
             quote
                 + Com’è noto, di tutti i popoli che nell’antichità hanno abitato intorno al bacino mediterraneo, 

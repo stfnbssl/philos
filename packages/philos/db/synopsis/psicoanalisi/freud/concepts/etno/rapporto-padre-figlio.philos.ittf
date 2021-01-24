@@ -1,0 +1,8 @@
+$group
+
+    namespace freud.etno
+
+        concept rapporto-padre-figlio
+            title Rapporto padre figlio
+
+            quote

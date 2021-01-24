@@ -1,11 +1,11 @@
 $group
 
     $include difese/index
+    $include etno/index
     $include meta/index
     $include nevrosi/index
     $include progetto/index
     $include sogno/index
-    $include religio/index
     $include ambivalenza
     $include abreazione
     $include affetto

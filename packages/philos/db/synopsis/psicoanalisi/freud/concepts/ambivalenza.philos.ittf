@@ -4,12 +4,27 @@ $group
 
         concept ambivalenza
             title Ambivalenza
+            
+            quote
+                + Abbiamo avuto spesso l’opportunità di indicare, alla radice di importanti formazioni culturali, 
+                    \b l’ambivalenza emotiva in senso proprio, ossia l’incontro di amore e odio verso lo stesso oggetto. 
+                    \b Sull’origine di questa ambivalenza non sappiamo nulla. 
+                    \b Si può avanzare l’ipotesi che sia un fenomeno fondamentale della nostra vita emotiva. 
+                    \b Ma mi sembra assolutamente degna di considerazione anche l’altra possibilità, 
+                    \b ossia che l’ambivalenza, originariamente estranea alla vita emotiva, 
+                    \b sia stata acquisita dall’umanità partendo dal complesso paterno [parentale], 
+                    \b nel quale, come mostra l’indagine psicoanalitica sull’individuo, 
+                    \b ancor oggi l’impronta dell’ambivalenza è più forte. 
+                article freud.totem-e-tabù
+                e-page 4081
+            
             quote
                 + È un trionfo della formazione sintomatica riuscire a mescolare la proibizione con il soddisfacimento, 
                     \b a far sì che il comando o il divieto originariamente difensivi 
                     \b assumano anche il significato di un soddisfacimento, 
                     \b processo in cui vengono sovente utilizzate vie di collegamento quanto mai artificiose. 
-                    \b [..] Nei casi estremi si arriva al risultato che la maggior parte dei sintomi del paziente hanno acquisito, 
+                    \b [..] Nei casi estremi si arriva al risultato che 
+                    \b la maggior parte dei sintomi del paziente hanno acquisito, 
                     \b in più del loro significato originario, anche quello del suo diretto opposto: 
                     \b prova, questa, della forza dell’ambivalenza, la quale, non sappiamo perché, 
                     \b svolge nella nevrosi ossessiva una parte così importante. 

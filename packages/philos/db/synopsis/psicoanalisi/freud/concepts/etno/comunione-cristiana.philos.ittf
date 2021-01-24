@@ -1,0 +1,22 @@
+$group
+
+    namespace freud.etno
+
+        concept comunione-cristiana
+            title Comunione cristiana
+
+            quote
+                + Il nostro sguardo persegue attraverso il trascorrere dei tempi 
+                    \b l’identità del banchetto totemico col sacrificio animale, 
+                    \b col sacrificio degli dei umani incarnati e con l’eucarestia cristiana 
+                    \b e riconosce in tutte queste solennità la conseguenza del crimine che ha tanto oppresso gli uomini 
+                    \b e del quale tuttavia essi dovettero andare così superbi. 
+                    \b Ma la Comunione cristiana è in fondo una nuova eliminazione del padre, 
+                    \b una ripetizione dell’azione da espiare. 
+                    \b Notiamo quanto è fondata l’affermazione di Frazer
+                    quote
+                        + La Comunione cristiana ha assorbito in sé un sacramento che è senza dubbio 
+                            \b assai più antico del cristianesimo.
+                        book frazier.il-ramo-d-oro
+                article freud.totem-e-tabù
+                e-page 4078-4079

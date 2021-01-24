@@ -1,0 +1,26 @@
+$group
+
+    namespace freud.etno
+
+        concept clan-fraterno
+            title Clan fraterno
+
+            quote
+                + D’ora in poi i sentimenti sociali di fraternità, sui quali poggia il grande sovvertimento, 
+                    \b conservano per lunghissimo tempo il più profondo influsso sull’evoluzione della società. 
+                    \b Si esprimono nella santificazione del sangue comune, 
+                    \b nell’accentuazione della solidarietà di tutta la vita all’interno del medesimo clan. 
+                    \b In questo modo, garantendosi reciprocamente la vita, 
+                    \b i fratelli affermano che nessuno di loro può venir trattato da un altro fratello 
+                    \b come il padre è stato trattato dai fratelli tutti insieme. 
+                    \b [..] Al divieto, fondato sulla religione, di uccidere il totem, si aggiunge ora il divieto, 
+                    \b a fondamento sociale, del fratricidio. Passerà molto tempo ancora prima che 
+                    \b il comandamento cessi di essere limitato ai membri della stessa stirpe 
+                    \b e assuma la semplice formulazione: Non ammazzare.
+                + [..] al posto dell’“ orda paterna” è subentrato il “clan fraterno”, 
+                    \b che si è garantito mediante il legame di sangue. 
+                + La società poggia ora sulla correità nel delitto perpetrato insieme, 
+                    \b la religione sulla coscienza della colpa e sul rimorso, 
+                    \b la moralità in parte sulle necessità di questa società, 
+                    \b in parte sulle pene imposte dal senso di colpa.
+                e-page 4069-4070

@@ -1159,6 +1159,74 @@
                 {
                     "wzElement": "article",
                     "wzTag": "article",
+                    "wzName": "totem-e-tabù",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Totem e tabù",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "datepub",
+                            "wzTag": "date-pub",
+                            "wzName": "1912/01/01",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "book",
+                            "wzTag": "book",
+                            "wzName": "freud.opere-VII",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "ebook",
+                            "wzTag": "e-book",
+                            "wzName": "freud.opere-complete-kindle",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "textabstract",
+                            "wzTag": "abstract",
+                            "wzName": "",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Freud ha scritto la presente opera con grande entusiasmo, persuaso che essa dovesse costituire qualche cosa di fondamentale, come lo era stata L’interpretazione dei sogni (1899). Ebbe sì, all’atto di licenziare per la stampa il quarto saggio, che è quello più importante e originale, qualche perplessità, [..] ma superò presto questi dubbi e in seguito considerò sempre il libro come una delle sue opere migliori.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Freud aveva anche previsto che l’accoglienza del pubblico sarebbe stata [..] del tutto negativa. Così fu effettivamente. All’infuori degli ambienti psicoanalitici, si stentò a comprendere il significato dell’opera. Anche Freud nota la difficoltà di questo genere di studi, giacché il materiale su cui sono condotti è sempre di seconda mano, e cioè costituito da relazioni di esploratori e missionari (nota 175). Nel caso specifico Freud non si avvale neppure di relazioni dirette, ma solo di un materiale già manipolato e interpretato dagli etnologi e antropologi le cui opere sono state da lui consultate. [..]",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Che il carattere della ricerca sia psicoanalitico, e non storico culturale, è confermato da Freud stesso all’inizio del quarto capitolo. Era per lui soprattutto importante aver ritrovato, nella vita dei selvaggi a organizzazione totemistica, i due comandamenti del totemismo, gli stessi che caratterizzano il complesso edipico studiato nei nevrotici. E la connessione intima fra totemismo ed esogamia, che gli etnologi e lo stesso Frazer nei suoi ultimi lavori contestano, è invece senz’altro accettata da Freud non tanto perché altri studiosi come Durkheim l’hanno sostenuta, ma soprattutto perché essa corrisponde ai dati dell’esperienza psicoanalitica nel trattamento dei nevrotici.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Anche da un punto di vista metodologico, Freud dichiara apertamente (cap. 4, par. 7) di procedere come sempre. Egli tratta cioè la storia dei popoli quasi si trattasse di una psiche collettiva, nella quale i processi potessero svolgersi come nella psiche individuale, né si preoccupa dei mezzi con cui una fase può influire sulla successiva. Procede sicuro in base alla propria esperienza di questo metodo applicato alla psicologia dei nevrotici, dove ogni ipotesi attende di esser confermata dal nuovo materiale che il paziente produce in analisi: ciò che ovviamente non può verificarsi nel campo della psicologia dei popoli. [..]",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "epage",
+                                    "wzTag": "e-page",
+                                    "wzName": "3894-3897",
+                                    "items": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "wzElement": "article",
+                    "wzTag": "article",
                     "wzName": "introduzione-al-narcisismo",
                     "items": [
                         {
@@ -1375,7 +1443,7 @@
                         {
                             "wzElement": "datepub",
                             "wzTag": "date-pub",
-                            "wzName": "191//",
+                            "wzName": "1915/03/01",
                             "items": []
                         },
                         {
@@ -2864,6 +2932,1326 @@
                                             "items": []
                                         }
                                     ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud.etno",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "ambivalenza-della-espiazione",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Ambivalenza della espiazione",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "quote",
+                            "wzTag": "quote",
+                            "wzName": "",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Ma a questo punto [dopo la morte sacrificale dell'unico Figlio] anche la fatalità psicologica dell’ambivalenza reclama i suoi diritti. Con la medesima azione che offre al padre la massima espiazione possibile anche il figlio raggiunge lo scopo dei suoi desideri contro il padre. Diventa egli stesso Dio accanto, anzi propriamente al posto del padre. La religione del Figlio si sostituisce a quella del Padre. In segno di questa sostituzione viene richiamato in vita l’antico banchetto totemico in forma di Comunione, nella quale la schiera dei fratelli consuma la carne e il sangue del Figlio, non più del Padre, e con questo atto si santifica e identifica con Lui.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "article",
+                                    "wzTag": "article",
+                                    "wzName": "freud.totem-e-tabù",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "epage",
+                                    "wzTag": "e-page",
+                                    "wzName": "4078",
+                                    "items": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud.etno",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "animale-totemico",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Animale totemico",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "quote",
+                            "wzTag": "quote",
+                            "wzName": "",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Ho recentemente pubblicato una \"Analisi della fobia di un bambino di cinque anni\", [..] L’elemento nuovo che veniamo a conoscere [..] è il fatto, estremamente importante per il totemismo, che in tali circostanze il bambino sposta parte dei suoi sentimenti dal padre su un animale. [..] il bambino si trova in un atteggiamento emotivo ambiguo – ambivalente – nei confronti del padre e in questo conflitto di ambivalenza si procura un sollievo spostando i suoi sentimenti ostili e angosciosi su un sostituto del padre.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "[..] È lecito manifestare l’impressione che in queste fobie degli animali riscontrate nei bambini ritornino certi tratti del totemismo, in forma negativa.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "[..] Per ora accontentiamoci di rilevare a titolo di importanti concordanze con il totemismo due elementi: la completa identificazione con l’animale totemico e l’atteggiamento emotivo ambivalente verso l’animale stesso.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "article",
+                                    "wzTag": "article",
+                                    "wzName": "freud.totem-e-tabù",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "epage",
+                                    "wzTag": "e-page",
+                                    "wzName": "4050-4053",
+                                    "items": []
+                                }
+                            ]
+                        },
+                        {
+                            "wzElement": "quote",
+                            "wzTag": "quote",
+                            "wzName": "",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Se l’animale totemico è il padre, i due comandamenti fondamentali del totemismo, le due prescrizioni tabù che ne costituiscono il nucleo – non uccidere il totem e non aver rapporti sessuali con una donna appartenente allo stesso totem – coincidono quanto a contenuto con i due delitti di Edipo, che uccise il padre e prese in moglie la madre, e con i due desideri primordiali del bambino, la cui insufficiente rimozione o il cui ridestarsi formano forse il nucleo di tutte le psiconevrosi.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "epage",
+                                    "wzTag": "e-page",
+                                    "wzName": "4054",
+                                    "items": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud.etno",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "clan-fraterno",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Clan fraterno",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "quote",
+                            "wzTag": "quote",
+                            "wzName": "",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "D’ora in poi i sentimenti sociali di fraternità, sui quali poggia il grande sovvertimento, conservano per lunghissimo tempo il più profondo influsso sull’evoluzione della società. Si esprimono nella santificazione del sangue comune, nell’accentuazione della solidarietà di tutta la vita all’interno del medesimo clan. In questo modo, garantendosi reciprocamente la vita, i fratelli affermano che nessuno di loro può venir trattato da un altro fratello come il padre è stato trattato dai fratelli tutti insieme. [..] Al divieto, fondato sulla religione, di uccidere il totem, si aggiunge ora il divieto, a fondamento sociale, del fratricidio. Passerà molto tempo ancora prima che il comandamento cessi di essere limitato ai membri della stessa stirpe e assuma la semplice formulazione: Non ammazzare.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "[..] al posto dell’“ orda paterna” è subentrato il “clan fraterno”, che si è garantito mediante il legame di sangue.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "La società poggia ora sulla correità nel delitto perpetrato insieme, la religione sulla coscienza della colpa e sul rimorso, la moralità in parte sulle necessità di questa società, in parte sulle pene imposte dal senso di colpa.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "epage",
+                                    "wzTag": "e-page",
+                                    "wzName": "4069-4070",
+                                    "items": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud.etno",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "comunione-cristiana",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Comunione cristiana",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "quote",
+                            "wzTag": "quote",
+                            "wzName": "",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Il nostro sguardo persegue attraverso il trascorrere dei tempi l’identità del banchetto totemico col sacrificio animale, col sacrificio degli dei umani incarnati e con l’eucarestia cristiana e riconosce in tutte queste solennità la conseguenza del crimine che ha tanto oppresso gli uomini e del quale tuttavia essi dovettero andare così superbi. Ma la Comunione cristiana è in fondo una nuova eliminazione del padre, una ripetizione dell’azione da espiare. Notiamo quanto è fondata l’affermazione di Frazer",
+                                    "items": [
+                                        {
+                                            "wzElement": "quote",
+                                            "wzTag": "quote",
+                                            "wzName": "",
+                                            "items": [
+                                                {
+                                                    "wzElement": "text",
+                                                    "wzTag": "+",
+                                                    "wzName": "La Comunione cristiana ha assorbito in sé un sacramento che è senza dubbio assai più antico del cristianesimo.",
+                                                    "items": []
+                                                },
+                                                {
+                                                    "wzElement": "book",
+                                                    "wzTag": "book",
+                                                    "wzName": "frazier.il-ramo-d-oro",
+                                                    "items": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "wzElement": "article",
+                                    "wzTag": "article",
+                                    "wzName": "freud.totem-e-tabù",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "epage",
+                                    "wzTag": "e-page",
+                                    "wzName": "4078-4079",
+                                    "items": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud.etno",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "continuità-psichica-collettiva",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Continuità psichica collettiva",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "alias",
+                            "wzTag": "alias",
+                            "wzName": "Psiche collettiva",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "alias",
+                            "wzTag": "alias",
+                            "wzName": "Eredità emotiva",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "quote",
+                            "wzTag": "quote",
+                            "wzName": "",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "[..] non può essere sfuggito a nessuno che noi procediamo dovunque dall’ipotesi di una psiche collettiva nella quale i processi mentali si compiono come nella vita mentale dell’individuo.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "[..] facciamo sopravvivere per molti millenni il senso di colpa causato da un’azione, e lo facciamo restare operante per generazioni e generazioni che di questa azione non potevano saper niente. Facciamo proseguire un processo emotivo, quale poteva sorgere in generazioni di figli maltrattati dal padre, in nuove generazioni che proprio l’accantonamento del padre aveva sottratte a simile trattamento.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "[..] Tuttavia una riflessione ulteriore mostra che non siamo i soli a dover portare la responsabilità di tanto ardire. Senza l’ipotesi di una psiche collettiva, di una continuità nella vita emotiva degli uomini, che permetta di trascurare le interruzioni degli atti mentali provocate dalla morte degli individui, tutta la psicologia dei popoli non potrebbe sussistere. Se i processi psichici di una generazione non si prolungassero nella generazione successiva, ogni suo atteggiamento verso l’esistenza dovrebbe essere acquisito ex novo, e non vi sarebbe in questo campo nessun progresso e praticamente nessuna evoluzione.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "article",
+                                    "wzTag": "article",
+                                    "wzName": "freud.totem-e-tabù",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "epage",
+                                    "wzTag": "e-page",
+                                    "wzName": "4081-4082",
+                                    "items": []
+                                }
+                            ]
+                        },
+                        {
+                            "wzElement": "quote",
+                            "wzTag": "quote",
+                            "wzName": "",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Il problema apparirebbe ancora più difficile se potessimo ammettere che vi sono moti psichici tali da poter essere repressi senza lasciare traccia, al punto che non ne resti il minimo residuo.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Ma moti del genere non esistono.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Anche la repressione più violenta è costretta a lasciare spazio a moti sostitutivi deformati e alle reazioni che ne conseguono. Ma allora dobbiamo ammettere che nessuna generazione è in grado di nascondere alla successiva processi psichici piuttosto importanti. La psicoanalisi ci ha infatti insegnato che ogni uomo possiede nella sua attività mentale inconscia un apparato che gli consente di interpretare le reazioni di altri uomini, ossia di render vane le deformazioni che l’altro ha imposto all’espressione delle sue emozioni.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Su questa strada, costituita dalla comprensione inconscia di tutti i costumi, delle cerimonie e dei canoni lasciati alle spalle dal rapporto originario con il progenitore, può essere riuscito a generazioni successive di assumere quell’eredità emotiva.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "article",
+                                    "wzTag": "article",
+                                    "wzName": "freud.totem-e-tabù",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "epage",
+                                    "wzTag": "e-page",
+                                    "wzName": "4083",
+                                    "items": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud.etno",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "crimine-pensato-o-agito",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Crimine pensato o agito?",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "text",
+                            "wzTag": "+",
+                            "wzName": "In conclusione di Totem e tabù Freud si chiede se il crimine dell'uccisione del padre dell'orda, da parte dei figli ribelli rivoltatisi contro di lui, potesse essere un crimine solamente pensato e non agito realmente, e se la sola fantasia dell'uccisione potesse essere sufficiente a provocare, per il rimorso, la reazione morale che ha dato vita al totemismo.",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "quote",
+                            "wzTag": "quote",
+                            "wzName": "",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "La nevrosi è caratterizzata dal fatto di porre la realtà psichica al di sopra della realtà effettiva, di reagire a pensieri con la stessa serietà con cui gli uomini normali reagiscono soltanto di fronte a realtà. Non può essersi verificato qualcosa di analogo presso i primitivi? Noi siamo giustificati nell’attribuire loro un’eccezionale sopravvalutazione dei loro atti psichici come fenomeno parziale della loro organizzazione narcisistica. Di conseguenza potrebbero essere bastati i semplici impulsi di ostilità verso il padre, l’esistenza della fantasia di desiderio di ucciderlo e divorarlo per provocare la reazione morale che ha dato vita al totemismo e al tabù.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "[Però] Non è esatto dire che i nevrotici che soffrono d’ossessioni, i quali si trovano oggi sotto il peso di una loro supermorale, si difendano solo da una realtà psichica tentatrice e si puniscano a causa di impulsi unicamente sentiti. C’è in questo quadro anche una parte di realtà storica: durante l’infanzia questi uomini hanno subito puramente e semplicemente cattivi impulsi, e li hanno tradotti in azioni nella misura consentita dall’impotenza propria del bambino. Ognuno di questi superbuoni ha avuto la sua epoca cattiva nell’infanzia, una fase perversa che è stata precorritrice e precondizionatrice della successiva fase supermorale.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "[Se consideriamo che] Certo non esistono né tra i primitivi né tra i nevrotici le rigide distinzioni fra pensare e agire che riscontriamo in noi. Ma il nevrotico è inibito soprattutto nell’agire, in lui il pensiero sostituisce completamente l’azione. Il primitivo invece è privo di inibizioni, il pensiero si trasforma senz’altro in azione, per lui l’azione è per così dire un sostituto del pensiero.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "[Allora] Ecco perché credo, pur senza pretendere ad asserzioni finali, che nel nostro caso si possa presumere: “In principio era l’Azione.” [Quindi il padre dell'orda veniva realmente ucciso]",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "article",
+                                    "wzTag": "article",
+                                    "wzName": "freud.totem-e-tabù",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "epage",
+                                    "wzTag": "e-page",
+                                    "wzName": "4084-4086",
+                                    "items": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud.etno",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "due-tabù-del-totemismo",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "I due tabù del totemismo",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "quote",
+                            "wzTag": "quote",
+                            "wzName": "",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Essi [i fratelli] odiavano il padre, possente ostacolo al loro bisogno di potenza e alle loro pretese sessuali, ma lo amavano e lo ammiravano anche. Dopo averlo soppresso, aver soddisfatto il loro odio e aver imposto il loro desiderio di identificazione con lui, dovette farsi sentire l’affezione nei suoi confronti fin allora rimasta sopraffatta. Questo si verificò nella forma del rimorso, sorse un senso di colpa che coincide qui con il rimorso sentito collettivamente. Morto, il padre divenne più forte di quanto fosse stato da vivo: tutto si svolse nel modo che possiamo misurare ancor’oggi sul destino degli uomini. Ciò che prima egli aveva impedito con la sua esistenza, i figli se lo proibirono ora spontaneamente nella situazione psichica dell’“obbedienza retrospettiva”, che conosciamo così bene attraverso la psicoanalisi. Revocarono il loro atto dichiarando proibita l’uccisione del sostituto paterno, il totem, e rinunciarono ai suoi frutti, interdicendosi le donne che erano diventate disponibili. In questo modo, prendendo le mosse dalla coscienza di colpa del figlio, crearono i due tabù fondamentali del totemismo, che proprio perciò dovevano coincidere con i due desideri rimossi del complesso edipico. Chi vi contravveniva si rendeva colpevole dei due soli delitti che preoccupavano la società primitiva.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "article",
+                                    "wzTag": "article",
+                                    "wzName": "freud.totem-e-tabù",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "epage",
+                                    "wzTag": "e-page",
+                                    "wzName": "4066",
+                                    "items": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud.etno",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "eredità-arcaica",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Eredità arcaica",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "quote",
+                            "wzTag": "quote",
+                            "wzName": "",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Sorgono allora le domande: in che cosa consiste questa eredità [arcaica], che cosa contiene, quali ne sono le prove? La prima e più sicura risposta è questa: essa consiste in determinate predisposizioni, proprie a tutti gli esseri viventi. Vale a dire nella capacità e inclinazione a battere determinate direzioni di sviluppo e a reagire in un modo particolare a certi eccitamenti, impressioni e stimoli. Poiché l’esperienza mostra che nei singoli esseri del genere umano ci sono a questo riguardo delle differenze, l’eredità arcaica le include, esse configurano cioè quello che noi riconosciamo come il fattore costituzionale dell’individuo. Ora, poiché gli uomini nei loro primi anni sperimentano tutti pressappoco le stesse cose, vi reagiscono anche in maniera simile; potrebbe perciò sorgere il dubbio se non si debbano ascrivere queste reazioni, unitamente alle loro differenze individuali, all’eredità arcaica. Questo dubbio va respinto; la nostra conoscenza dell’eredità arcaica non è arricchita dal fatto di questa somiglianza.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "article",
+                                    "wzTag": "article",
+                                    "wzName": "freud.l-uomo-mose-e-la-religione-monoteistica",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "epage",
+                                    "wzTag": "e-page",
+                                    "wzName": "7301",
+                                    "items": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud.etno",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "esogamia",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Esogamia",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "quote",
+                            "wzTag": "quote",
+                            "wzName": "",
+                            "items": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud.etno",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "fierezza-del-figlio",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Fierezza del figlio",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "quote",
+                            "wzTag": "quote",
+                            "wzName": "",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "A questo punto accettiamo come un dato di fatto che anche nell’evoluzione successiva delle religioni i due elementi impellenti, il senso di colpa e la fierezza del figlio, non dileguarono mai. Con chiarezza sempre maggiore emerge l’aspirazione del figlio a prendere il posto del dio-padre. Con l’introduzione dell’agricoltura cresce l’importanza del figlio nell’ambito della famiglia patriarcale. Egli concede nuove forme di espressione alla sua libido incestuosa, che trova un soddisfacimento simbolico nel lavorare la Madre Terra.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "article",
+                                    "wzTag": "article",
+                                    "wzName": "freud.totem-e-tabù",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "epage",
+                                    "wzTag": "e-page",
+                                    "wzName": "4076",
+                                    "items": []
+                                }
+                            ]
+                        },
+                        {
+                            "wzElement": "quote",
+                            "wzTag": "quote",
+                            "wzName": "",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "La religione del totem non abbraccia soltanto le espressioni di rimorso e i tentativi di riconciliazione, ma serve anche a ricordare il trionfo sul padre. La soddisfazione così raggiunta è la causa della festa in memoriam espressa dal pasto totemico, festa durante la quale cadono le restrizioni imposte dall’obbedienza retrospettiva e diventa un dovere tornare a ripetere il crimine del parricidio nel sacrificio dell’animale totemico, ogni volta che l’acquisizione consolidata di quel crimine, l’appropriazione delle qualità del padre, minaccia di scomparire, a causa degli influssi variabili dell’esistenza. Non ci stupiremo di scoprire che nelle costruzioni religiose più tarde torna sempre ad affiorare, celata spesso nei travestimenti e nei mascheramenti più singolari, anche la componente della fierezza filiale.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "article",
+                                    "wzTag": "article",
+                                    "wzName": "freud.totem-e-tabù",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "epage",
+                                    "wzTag": "e-page",
+                                    "wzName": "4068-4069",
+                                    "items": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud.etno",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "grande-uomo",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Grande uomo",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "quote",
+                            "wzTag": "quote",
+                            "wzName": "",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Il perché il grande uomo acquisti importanza, non c’è oscuro neanche per un istante. Sappiamo che nella massa degli uomini vi è grande bisogno di un’autorità da ammirare, a cui inchinarsi, da cui essere dominati, fors’anche maltrattati. Dalla psicologia dell’individuo abbiamo appreso donde proviene questo bisogno della massa. È la nostalgia del padre insita in ognuno dall’infanzia, dello stesso padre che l’eroe della leggenda si vanta di aver vinto. E ora cominciamo a vederci chiaro: tutte le qualità di cui dotiamo il grande uomo sono caratteristiche paterne, e in questa concordanza consiste l’essenza del grande uomo da noi vanamente cercata. La risolutezza dei pensieri, la forza di volontà, l’impeto dell’azione appartengono all’immagine paterna, ma più di tutto l’autonomia e l’indipendenza del grande uomo, la sua divina noncuranza che può crescere fino alla mancanza di qualsiasi riguardo. Lo si deve ammirare, è consentita la fiducia in lui, ma non si può fare a meno anche di temerlo. Avremmo dovuto lasciarci guidare letteralmente dalla parola: chi altri se non il padre può essere stato l’“uomo grande” nell’infanzia!",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "article",
+                                    "wzTag": "article",
+                                    "wzName": "freud.l-uomo-mose-e-la-religione-monoteistica",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "epage",
+                                    "wzTag": "e-page",
+                                    "wzName": "7313",
+                                    "items": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud.etno",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "l-uomo-mosè",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "L'uomo mosè",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "quote",
+                            "wzTag": "quote",
+                            "wzName": "",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Forti delle nostre discussioni precedenti, possiamo ora affermare che fu l’uomo Mosè a scolpire nel popolo ebraico questa impronta indelebile. Egli accrebbe la presunzione degli Ebrei assicurandoli che erano il popolo eletto da Dio, diede loro la consacrazione e li obbligò a distinguersi dagli altri. Non che gli altri popoli mancassero di presunzione. Allora come oggi ogni nazione si considerava migliore di ogni altra. Ma con Mosè la presunzione degli Ebrei mise radice nella religione e divenne una parte della loro fede religiosa. In virtù della loro relazione particolarmente intima con il loro Dio parteciparono della sua grandezza. E considerato che dietro il Dio che aveva prescelto gli Ebrei e li aveva liberati dagli Egizi c’era la persona di Mosè, il quale aveva fatto proprio questo, apparentemente per ordine divino, non è avventato dire che l’uomo Mosè creò, lui, gli Ebrei. A lui questo popolo deve la sua tenacità, ma anche molta dell’ostilità che ha incontrato e tuttora incontra.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "article",
+                                    "wzTag": "article",
+                                    "wzName": "freud.l-uomo-mose-e-la-religione-monoteistica",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "epage",
+                                    "wzTag": "e-page",
+                                    "wzName": "7309-7310",
+                                    "items": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud.etno",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "origine-religione",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Origine della religione",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "quote",
+                            "wzTag": "quote",
+                            "wzName": "",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "[..] gli inizi della religione, della moralità, della società e dell’arte s’incontrano nel complesso edipico, in piena concordanza con ciò che la psicoanalisi ha stabilito, cioè che questo complesso costituisce il nucleo di tutte le nevrosi, nella misura in cui fino a oggi si sono aperte alla nostra comprensione. Ed è una grossa sorpresa per me che anche i problemi della vita della psiche dei popoli ci abbiano permesso di trovare una soluzione a partire da un unico punto concreto: il rapporto con il padre [con le figure parentali].",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "article",
+                                    "wzTag": "article",
+                                    "wzName": "freud.totem-e-tabù",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "epage",
+                                    "wzTag": "e-page",
+                                    "wzName": "4080-4081",
+                                    "items": []
+                                }
+                            ]
+                        },
+                        {
+                            "wzElement": "quote",
+                            "wzTag": "quote",
+                            "wzName": "",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "La convinzione che esso [il mio metodo di analisi dei fenomeni religiosi] è corretto, l’ho acquisita già un quarto di secolo fa, quando scrissi il libro su Totem e tabù, nel 1912, e da allora si è soltanto rafforzata. Non ho più dubitato fin da allora, che è possibile intendere i fenomeni religiosi solamente usando il modello dei sintomi nevrotici individuali a noi familiari, come ritorni di significativi eventi da lungo dimenticati della storia primordiale della famiglia umana; non ho più avuto dubbi che essi debbono il loro carattere coattivo a questa origine, e che dunque agiscono sugli uomini in forza del loro contenuto di verità storica.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "article",
+                                    "wzTag": "article",
+                                    "wzName": "freud.l-uomo-mose-e-la-religione-monoteistica",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "epage",
+                                    "wzTag": "e-page",
+                                    "wzName": "7255",
+                                    "items": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud.etno",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "padre-dell-orda",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Padre dell'orda",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "quote",
+                            "wzTag": "quote",
+                            "wzName": "",
+                            "items": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud.etno",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "pasto-totemico",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Pasto totemico",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "quote",
+                            "wzTag": "quote",
+                            "wzName": "",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Concludiamo affermando di condividere l’ipotesi di Robertson Smith che l’uccisione sacramentale e la consumazione comune dell’animale totemico, proibita negli altri casi, era un elemento estremamente importante della religione totemica.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "epage",
+                                    "wzTag": "e-page",
+                                    "wzName": "4063",
+                                    "items": []
+                                }
+                            ]
+                        },
+                        {
+                            "wzElement": "quote",
+                            "wzTag": "quote",
+                            "wzName": "",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Che essi abbiano anche divorato il padre ucciso, è cosa ovvia trattandosi di selvaggi cannibali. Il progenitore violento era stato senza dubbio il modello invidiato e temuto da ciascun membro della schiera dei fratelli. A questo punto, divorandolo, essi realizzarono l’identificazione con il padre, ognuno si appropriò di una parte della sua forza. Il pasto totemico, forse la prima festa dell’umanità, sarebbe la ripetizione e la commemorazione di questa memoranda azione criminosa, che segnò l’inizio di tante cose: le organizzazioni sociali, le restrizioni morali e la religione.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "article",
+                                    "wzTag": "article",
+                                    "wzName": "freud.totem-e-tabù",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "epage",
+                                    "wzTag": "e-page",
+                                    "wzName": "4065",
+                                    "items": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud.etno",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "peccato-originale",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Peccato originale",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "quote",
+                            "wzTag": "quote",
+                            "wzName": "",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Nel mito cristiano il peccato originale dell’uomo è indubbiamente un’offesa contro Dio Padre. Ora, se Cristo libera gli uomini dal peso del peccato originale sacrificando la sua stessa vita, ci costringe a concludere che questa colpa fu un assassinio. Secondo la legge del taglione, profondamente radicata nella sensibilità dell’uomo, un assassinio può essere espiato soltanto col sacrificio di un’altra vita; il sacrificio di sé ci fa risalire a un’omicidio. E se questo sacrificio della propria vita conduce alla riconciliazione col Dio Padre, il crimine da espiare non può essere altro che l’uccisione del padre.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "article",
+                                    "wzTag": "article",
+                                    "wzName": "freud.totem-e-tabù",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "epage",
+                                    "wzTag": "e-page",
+                                    "wzName": "4078",
+                                    "items": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud.etno",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "popolo-ebraico",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Popolo ebraico",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "quote",
+                            "wzTag": "quote",
+                            "wzName": "",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Com’è noto, di tutti i popoli che nell’antichità hanno abitato intorno al bacino mediterraneo, il popolo ebraico è all’incirca l’unico che esista ancor oggi di nome e anche in sostanza. Esso ha affrontato sventure e vessazioni con una capacità di resistenza esemplare, ha sviluppato particolari lati del suo carattere e s’è guadagnato inoltre la cordiale avversione di tutti gli altri popoli.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "article",
+                                    "wzTag": "article",
+                                    "wzName": "freud.l-uomo-mose-e-la-religione-monoteistica",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "epage",
+                                    "wzTag": "e-page",
+                                    "wzName": "7308",
+                                    "items": []
+                                }
+                            ]
+                        },
+                        {
+                            "wzElement": "quote",
+                            "wzTag": "quote",
+                            "wzName": "",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Il seme del monoteismo non germogliò in Egitto. E lo stesso avrebbe potuto accadere in Israele, allorché il popolo si fu scrollato di dosso questa gravosa religione con le sue pretese. Ma dal popolo ebraico si levarono sempre uomini che vivificarono la tradizione che languiva, che rinnovarono gli ammonimenti e le richieste di Mosè e non si arrestarono prima che la fede perduta fosse ristabilita. Secoli di sforzi e infine due grandi riforme, l’una prima e l’altra dopo l’esilio babilonese, compirono la trasformazione del dio popolare Yahweh nel Dio che Mosè aveva imposto agli Ebrei di adorare. Prova di una particolare attitudine psichica, nella massa che divenne il popolo ebraico, è il fatto che essa poté suscitare tanti uomini pronti a prendere su di sé il carico della religione di Mosè, attratti dalla ricompensa di essere gli eletti e forse anche da altri premi di simile rango.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "article",
+                                    "wzTag": "article",
+                                    "wzName": "freud.l-uomo-mose-e-la-religione-monoteistica",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "epage",
+                                    "wzTag": "e-page",
+                                    "wzName": "7315",
+                                    "items": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud.etno",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "rapporto-padre-figlio",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Rapporto padre figlio",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "quote",
+                            "wzTag": "quote",
+                            "wzName": "",
+                            "items": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud.etno",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "sacrificio-totemico",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Sacrificio totemico",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "quote",
+                            "wzTag": "quote",
+                            "wzName": "",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Robertson Smith ci ha appreso che l’antico pasto totemico ritorna nella forma originaria del sacrificio. Il significato dell’azione è il medesimo: la santificazione mediante partecipazione al pasto comune. Anche il senso di colpa è rimasto presente in questa pratica, e può essere attenuato soltanto dalla solidarietà di tutti i partecipanti. L’elemento nuovo che si è aggiunto è il dio del clan alla cui presenza – supposta – si svolge il sacrificio, dio che partecipa al pasto come membro del clan e con il quale ci si identifica gustando la vittima.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "article",
+                                    "wzTag": "article",
+                                    "wzName": "freud.totem-e-tabù",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "epage",
+                                    "wzTag": "e-page",
+                                    "wzName": "4070",
+                                    "items": []
+                                }
+                            ]
+                        },
+                        {
+                            "wzElement": "quote",
+                            "wzTag": "quote",
+                            "wzName": "",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Così pure il cerimoniale dei sacrifici umani nei luoghi più diversi della terra abitata lascia sussistere pochi dubbi sul fatto che le vittime erano uccise in veste di rappresentanti della divinità.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Quest’uso sacrificale è rintracciabile anche in epoche ormai tarde nella sostituzione dell’uomo vivo con un’imitazione inanimata (un fantoccio).",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "[..] Esso rivela con chiarezza difficilmente superabile che l’oggetto dell’atto sacrificale era sempre il medesimo, lo stesso cioè che viene oggi venerato come Dio: il padre. A questo punto il problema del rapporto tra sacrificio animale e sacrificio umano trova facile soluzione. L’originario sacrificio animale era già un surrogato di sacrificio umano, dell’uccisione solenne del padre, e quando il sostituto del padre tornò a ottenere la sua immagine umana anche il sacrificio animale poté ritrasformarsi in sacrificio umano.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "epage",
+                                    "wzTag": "e-page",
+                                    "wzName": "4075",
+                                    "items": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud.etno",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "sacro",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Il sacro",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "quote",
+                            "wzTag": "quote",
+                            "wzName": "",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Siamo fiduciosi che l’esame di tutti gli altri casi di divieto sacro condurrebbe allo stesso risultato del caso dell’orrore dell’incesto, e cioè che in origine il sacro non è altro che la prosecuzione della volontà del padre primigenio. Con ciò si farebbe anche un po’ di luce sull’ambivalenza, finora incomprensibile, delle parole che esprimono il concetto di sacro. È la stessa ambivalenza che domina in genere il rapporto con il padre. “Sacer” significa non solo “sacro”, “consacrato”, ma anche qualcosa che possiamo tradurre soltanto con “infame”, “esecrabile” (“auri sacra fames”). Tuttavia la volontà del padre non era soltanto qualcosa di intoccabile, qualcosa da tenere altamente in onore, ma anche qualcosa di fronte a cui si tremava, perché esigeva una dolorosa rinuncia pulsionale. Quando sentiamo che Mosè “consacrò” il suo popolo introducendo l’usanza di circoncidersi, comprendiamo adesso il senso profondo di questa affermazione. La circoncisione è il sostitutivo simbolico dell’evirazione, che un tempo il padre primigenio nella pienezza del suo potere assoluto aveva inflitto ai figli; chi accettava questo simbolo, mostrava con ciò di essere pronto a sottomettersi al volere del padre anche se questi gli imponeva il sacrificio più doloroso.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "article",
+                                    "wzTag": "article",
+                                    "wzName": "freud.l-uomo-mose-e-la-religione-monoteistica",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "epage",
+                                    "wzTag": "e-page",
+                                    "wzName": "7326-7327",
+                                    "items": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud.etno",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "senso-creativo-della-colpa",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Senso creativo della colpa",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "quote",
+                            "wzTag": "quote",
+                            "wzName": "",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Noi abbiamo spiegato le prime prescrizioni e restrizioni morali della società primitiva come reazione a un’azione che diede ai suoi promotori il concetto di crimine. Essi provarono rimorso per questa azione e decisero che non dovesse più ripetersi, e che l’averla compiuta non doveva apportare alcun guadagno. Questo senso creativo della colpa non si è spento in noi. Lo troviamo operante in maniera asociale nei nevrotici per produrre nuove prescrizioni morali, limitazioni continuative, come espiazione per i misfatti compiuti e precauzione contro i misfatti ancora da compiere. Ma se indaghiamo in questi nevrotici per scoprire i fatti che hanno provocato tali reazioni, andiamo incontro a una delusione. Non troviamo azioni, ma soltanto impulsi, emozioni, che mirano al male, ma ne sono stati trattenuti prima di compierlo. Alla base del senso di colpa dei nevrotici ci sono soltanto realtà psichiche, non realtà di fatto.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "article",
+                                    "wzTag": "article",
+                                    "wzName": "freud.totem-e-tabù",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "epage",
+                                    "wzTag": "e-page",
+                                    "wzName": "4083-4084",
+                                    "items": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud.etno",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "sviluppi-religione",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Sviluppi della religione",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "quote",
+                            "wzTag": "quote",
+                            "wzName": "",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Il passo consecutivo al totemismo è l’umanazione dell’essere venerato. Al posto degli animali subentrano dèi umani, della cui derivazione dal totem non si fa mistero. Il dio è ancora raffigurato o in forma animale o almeno con faccia d’animale, oppure il totem diviene il compagno preferito del dio, da cui è inseparabile, oppure ancora la leggenda fa sì che il dio uccida proprio questo animale, che a ben vedere era solo lo stadio preliminare di lui stesso. A un certo punto difficilmente determinabile di questa evoluzione fanno la loro comparsa grandi divinità materne, probabilmente anche prima degli dèi maschili, con i quali coesistettero poi a lungo. Si era frattanto compiuto un grande rivolgimento sociale. Il matriarcato era stato sostituito dal ristabilirsi di un ordine patriarcale. I nuovi padri non raggiunsero in verità mai il potere assoluto del padre primordiale; erano in molti e vivevano associati in raggruppamenti più grandi di quanto fosse stata l’orda; dovevano mantenere buoni rapporti reciproci ed erano limitati da norme sociali. È verosimile che le divinità materne avessero origine al tempo della restrizione del matriarcato, per compensare le madri messe in disparte. Le divinità maschili apparvero dapprima come figli accanto alle grandi madri, e solo dopo assunsero nettamente i tratti di figure paterne. Questi dèi maschili del politeismo rispecchiano i rapporti dell’epoca patriarcale. Sono numerosi, si limitano a vicenda, occasionalmente sono subordinati a un dio supremo che li sovrasta. Il passo successivo, però, conduce al tema che ci sta occupando, ossia al ritorno di un solo dio-padre, unico e illimitato signore.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "article",
+                                    "wzTag": "article",
+                                    "wzName": "freud.l-uomo-mose-e-la-religione-monoteistica",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "epage",
+                                    "wzTag": "e-page",
+                                    "wzName": "7284-7285",
+                                    "items": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud.etno",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "totemismo",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Totemismo",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "quote",
+                            "wzTag": "quote",
+                            "wzName": "",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Ritengo che abbiamo pieno diritto di riconoscere nel totemismo, con la sua venerazione di un sostituto paterno, con l’ambivalenza mostrata nel pasto totemico, con l’istituzione di celebrazioni commemorative, di divieti la cui trasgressione era punita con la morte, è lecito riconoscere nel totemismo, dicevo, la prima forma di apparizione della religione nella storia umana e confermare il suo nesso fin dal principio con gli ordinamenti sociali e gli obblighi morali.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "article",
+                                    "wzTag": "article",
+                                    "wzName": "freud.l-uomo-mose-e-la-religione-monoteistica",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "epage",
+                                    "wzTag": "e-page",
+                                    "wzName": "7284",
+                                    "items": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wzElement": "namespace",
+            "wzTag": "namespace",
+            "wzName": "freud.etno",
+            "items": [
+                {
+                    "wzElement": "concept",
+                    "wzTag": "concept",
+                    "wzName": "tragedia-greca",
+                    "items": [
+                        {
+                            "wzElement": "title",
+                            "wzTag": "title",
+                            "wzName": "Tragedia greca",
+                            "items": []
+                        },
+                        {
+                            "wzElement": "quote",
+                            "wzTag": "quote",
+                            "wzName": "",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Un evento come l’uccisione del progenitore ad opera della schiera di fratelli doveva lasciare tracce incancellabili nella storia dell’umanità e finire con l’esprimersi per dei tramiti sostitutivi [.. innumerevoli sono le tracce nella mitologia ..] Nella storia dell’arte greca c’è una situazione che presenta evidenti analogie, e differenze non minori, con la scena del pasto totemico indicata da Robertson Smith. È la situazione della tragedia greca più antica. Una massa di persone, tutte con lo stesso nome e lo stesso abito, circonda un unico individuo dalle cui parole e azioni dipendono tutti: sono il Coro e l’attore, in origine unico, che rappresenta l’Eroe.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "[..] L’Eroe della tragedia doveva soffrire: questo è ancor oggi il contenuto essenziale di una tragedia. Egli s’era addossato la cosiddetta “colpa tragica”, che non è sempre facile motivare; spesso non è una colpa nel senso della vita borghese. Di regola la colpa consisteva nella ribellione a un’autorità divina o umana, e il Coro accompagnava l’Eroe con sentimenti di simpatia, cercava di trattenerlo, di ammonirlo, di moderarlo e, quando egli aveva ricevuto la punizione che si considerava meritata per la sua azione temeraria, lo compiangeva.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "[..] Ma perché l’Eroe della tragedia deve soffrire, e che cosa significa la sua “tragica” colpa? Tagliamo corto alla discussione con una risposta rapida. Egli deve soffrire perché è il progenitore, l’Eroe di quella grande tragedia primordiale che trova qui una ripetizione tendenziosa, e la colpa tragica è quella ch’egli deve addossarsi per sgravare il Coro della sua colpa.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Il delitto che si riversa su di lui, l’arroganza e la ribellione a una grande autorità, è precisamente quello che opprime in realtà i membri del Coro, la schiera dei fratelli. Così l’Eroe tragico è trasformato, contro voglia, in salvatore e liberatore del Coro.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "[Il medioevo riprenderà il tema del salvatore del Coro nella tragedia greca mettendo in scena la Passione di Cristo]",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "article",
+                                    "wzTag": "article",
+                                    "wzName": "freud.totem-e-tabù",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "epage",
+                                    "wzTag": "e-page",
+                                    "wzName": "4079-4080",
+                                    "items": []
                                 }
                             ]
                         }
@@ -8050,276 +9438,6 @@
         {
             "wzElement": "namespace",
             "wzTag": "namespace",
-            "wzName": "freud.religione",
-            "items": [
-                {
-                    "wzElement": "concept",
-                    "wzTag": "concept",
-                    "wzName": "eredità-arcaica",
-                    "items": [
-                        {
-                            "wzElement": "title",
-                            "wzTag": "title",
-                            "wzName": "Eredità arcaica",
-                            "items": []
-                        },
-                        {
-                            "wzElement": "quote",
-                            "wzTag": "quote",
-                            "wzName": "",
-                            "items": [
-                                {
-                                    "wzElement": "text",
-                                    "wzTag": "+",
-                                    "wzName": "Sorgono allora le domande: in che cosa consiste questa eredità [arcaica], che cosa contiene, quali ne sono le prove? La prima e più sicura risposta è questa: essa consiste in determinate predisposizioni, proprie a tutti gli esseri viventi. Vale a dire nella capacità e inclinazione a battere determinate direzioni di sviluppo e a reagire in un modo particolare a certi eccitamenti, impressioni e stimoli. Poiché l’esperienza mostra che nei singoli esseri del genere umano ci sono a questo riguardo delle differenze, l’eredità arcaica le include, esse configurano cioè quello che noi riconosciamo come il fattore costituzionale dell’individuo. Ora, poiché gli uomini nei loro primi anni sperimentano tutti pressappoco le stesse cose, vi reagiscono anche in maniera simile; potrebbe perciò sorgere il dubbio se non si debbano ascrivere queste reazioni, unitamente alle loro differenze individuali, all’eredità arcaica. Questo dubbio va respinto; la nostra conoscenza dell’eredità arcaica non è arricchita dal fatto di questa somiglianza.",
-                                    "items": []
-                                },
-                                {
-                                    "wzElement": "article",
-                                    "wzTag": "article",
-                                    "wzName": "freud.l-uomo-mose-e-la-religione-monoteistica",
-                                    "items": []
-                                },
-                                {
-                                    "wzElement": "epage",
-                                    "wzTag": "e-page",
-                                    "wzName": "7301",
-                                    "items": []
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "wzElement": "namespace",
-            "wzTag": "namespace",
-            "wzName": "freud.religione",
-            "items": [
-                {
-                    "wzElement": "concept",
-                    "wzTag": "concept",
-                    "wzName": "l-uomo-mosè",
-                    "items": [
-                        {
-                            "wzElement": "title",
-                            "wzTag": "title",
-                            "wzName": "L'uomo mosè",
-                            "items": []
-                        },
-                        {
-                            "wzElement": "quote",
-                            "wzTag": "quote",
-                            "wzName": "",
-                            "items": [
-                                {
-                                    "wzElement": "text",
-                                    "wzTag": "+",
-                                    "wzName": "Forti delle nostre discussioni precedenti, possiamo ora affermare che fu l’uomo Mosè a scolpire nel popolo ebraico questa impronta indelebile. Egli accrebbe la presunzione degli Ebrei assicurandoli che erano il popolo eletto da Dio, diede loro la consacrazione e li obbligò a distinguersi dagli altri. Non che gli altri popoli mancassero di presunzione. Allora come oggi ogni nazione si considerava migliore di ogni altra. Ma con Mosè la presunzione degli Ebrei mise radice nella religione e divenne una parte della loro fede religiosa. In virtù della loro relazione particolarmente intima con il loro Dio parteciparono della sua grandezza. E considerato che dietro il Dio che aveva prescelto gli Ebrei e li aveva liberati dagli Egizi c’era la persona di Mosè, il quale aveva fatto proprio questo, apparentemente per ordine divino, non è avventato dire che l’uomo Mosè creò, lui, gli Ebrei. A lui questo popolo deve la sua tenacità, ma anche molta dell’ostilità che ha incontrato e tuttora incontra.",
-                                    "items": []
-                                },
-                                {
-                                    "wzElement": "article",
-                                    "wzTag": "article",
-                                    "wzName": "freud.l-uomo-mose-e-la-religione-monoteistica",
-                                    "items": []
-                                },
-                                {
-                                    "wzElement": "epage",
-                                    "wzTag": "e-page",
-                                    "wzName": "7309-7310",
-                                    "items": []
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "wzElement": "namespace",
-            "wzTag": "namespace",
-            "wzName": "freud.religione",
-            "items": [
-                {
-                    "wzElement": "concept",
-                    "wzTag": "concept",
-                    "wzName": "origine-religione",
-                    "items": [
-                        {
-                            "wzElement": "title",
-                            "wzTag": "title",
-                            "wzName": "Origine della religione",
-                            "items": []
-                        },
-                        {
-                            "wzElement": "quote",
-                            "wzTag": "quote",
-                            "wzName": "",
-                            "items": [
-                                {
-                                    "wzElement": "text",
-                                    "wzTag": "+",
-                                    "wzName": "La convinzione che esso [il mio metodo di analisi dei fenomeni religiosi] è corretto, l’ho acquisita già un quarto di secolo fa, quando scrissi il libro su Totem e tabù, nel 1912, e da allora si è soltanto rafforzata. Non ho più dubitato fin da allora, che è possibile intendere i fenomeni religiosi solamente usando il modello dei sintomi nevrotici individuali a noi familiari, come ritorni di significativi eventi da lungo dimenticati della storia primordiale della famiglia umana; non ho più avuto dubbi che essi debbono il loro carattere coattivo a questa origine, e che dunque agiscono sugli uomini in forza del loro contenuto di verità storica.",
-                                    "items": []
-                                },
-                                {
-                                    "wzElement": "article",
-                                    "wzTag": "article",
-                                    "wzName": "freud.l-uomo-mose-e-la-religione-monoteistica",
-                                    "items": []
-                                },
-                                {
-                                    "wzElement": "epage",
-                                    "wzTag": "e-page",
-                                    "wzName": "7255",
-                                    "items": []
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "wzElement": "namespace",
-            "wzTag": "namespace",
-            "wzName": "freud.religione",
-            "items": [
-                {
-                    "wzElement": "concept",
-                    "wzTag": "concept",
-                    "wzName": "sacro",
-                    "items": [
-                        {
-                            "wzElement": "title",
-                            "wzTag": "title",
-                            "wzName": "Il sacro",
-                            "items": []
-                        },
-                        {
-                            "wzElement": "quote",
-                            "wzTag": "quote",
-                            "wzName": "",
-                            "items": [
-                                {
-                                    "wzElement": "text",
-                                    "wzTag": "+",
-                                    "wzName": "Siamo fiduciosi che l’esame di tutti gli altri casi di divieto sacro condurrebbe allo stesso risultato del caso dell’orrore dell’incesto, e cioè che in origine il sacro non è altro che la prosecuzione della volontà del padre primigenio. Con ciò si farebbe anche un po’ di luce sull’ambivalenza, finora incomprensibile, delle parole che esprimono il concetto di sacro. È la stessa ambivalenza che domina in genere il rapporto con il padre. “Sacer” significa non solo “sacro”, “consacrato”, ma anche qualcosa che possiamo tradurre soltanto con “infame”, “esecrabile” (“auri sacra fames”). Tuttavia la volontà del padre non era soltanto qualcosa di intoccabile, qualcosa da tenere altamente in onore, ma anche qualcosa di fronte a cui si tremava, perché esigeva una dolorosa rinuncia pulsionale. Quando sentiamo che Mosè “consacrò” il suo popolo introducendo l’usanza di circoncidersi, comprendiamo adesso il senso profondo di questa affermazione. La circoncisione è il sostitutivo simbolico dell’evirazione, che un tempo il padre primigenio nella pienezza del suo potere assoluto aveva inflitto ai figli; chi accettava questo simbolo, mostrava con ciò di essere pronto a sottomettersi al volere del padre anche se questi gli imponeva il sacrificio più doloroso.",
-                                    "items": []
-                                },
-                                {
-                                    "wzElement": "article",
-                                    "wzTag": "article",
-                                    "wzName": "freud.l-uomo-mose-e-la-religione-monoteistica",
-                                    "items": []
-                                },
-                                {
-                                    "wzElement": "epage",
-                                    "wzTag": "e-page",
-                                    "wzName": "7326-7327",
-                                    "items": []
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "wzElement": "namespace",
-            "wzTag": "namespace",
-            "wzName": "freud.religione",
-            "items": [
-                {
-                    "wzElement": "concept",
-                    "wzTag": "concept",
-                    "wzName": "sviluppi",
-                    "items": [
-                        {
-                            "wzElement": "title",
-                            "wzTag": "title",
-                            "wzName": "Sviluppi della religione",
-                            "items": []
-                        },
-                        {
-                            "wzElement": "quote",
-                            "wzTag": "quote",
-                            "wzName": "",
-                            "items": [
-                                {
-                                    "wzElement": "text",
-                                    "wzTag": "+",
-                                    "wzName": "Il passo consecutivo al totemismo è l’umanazione dell’essere venerato. Al posto degli animali subentrano dèi umani, della cui derivazione dal totem non si fa mistero. Il dio è ancora raffigurato o in forma animale o almeno con faccia d’animale, oppure il totem diviene il compagno preferito del dio, da cui è inseparabile, oppure ancora la leggenda fa sì che il dio uccida proprio questo animale, che a ben vedere era solo lo stadio preliminare di lui stesso. A un certo punto difficilmente determinabile di questa evoluzione fanno la loro comparsa grandi divinità materne, probabilmente anche prima degli dèi maschili, con i quali coesistettero poi a lungo. Si era frattanto compiuto un grande rivolgimento sociale. Il matriarcato era stato sostituito dal ristabilirsi di un ordine patriarcale. I nuovi padri non raggiunsero in verità mai il potere assoluto del padre primordiale; erano in molti e vivevano associati in raggruppamenti più grandi di quanto fosse stata l’orda; dovevano mantenere buoni rapporti reciproci ed erano limitati da norme sociali. È verosimile che le divinità materne avessero origine al tempo della restrizione del matriarcato, per compensare le madri messe in disparte. Le divinità maschili apparvero dapprima come figli accanto alle grandi madri, e solo dopo assunsero nettamente i tratti di figure paterne. Questi dèi maschili del politeismo rispecchiano i rapporti dell’epoca patriarcale. Sono numerosi, si limitano a vicenda, occasionalmente sono subordinati a un dio supremo che li sovrasta. Il passo successivo, però, conduce al tema che ci sta occupando, ossia al ritorno di un solo dio-padre, unico e illimitato signore.",
-                                    "items": []
-                                },
-                                {
-                                    "wzElement": "article",
-                                    "wzTag": "article",
-                                    "wzName": "freud.l-uomo-mose-e-la-religione-monoteistica",
-                                    "items": []
-                                },
-                                {
-                                    "wzElement": "epage",
-                                    "wzTag": "e-page",
-                                    "wzName": "7284-7285",
-                                    "items": []
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "wzElement": "namespace",
-            "wzTag": "namespace",
-            "wzName": "freud.religione",
-            "items": [
-                {
-                    "wzElement": "concept",
-                    "wzTag": "concept",
-                    "wzName": "totemismo",
-                    "items": [
-                        {
-                            "wzElement": "title",
-                            "wzTag": "title",
-                            "wzName": "Totemismo",
-                            "items": []
-                        },
-                        {
-                            "wzElement": "quote",
-                            "wzTag": "quote",
-                            "wzName": "",
-                            "items": [
-                                {
-                                    "wzElement": "text",
-                                    "wzTag": "+",
-                                    "wzName": "Ritengo che abbiamo pieno diritto di riconoscere nel totemismo, con la sua venerazione di un sostituto paterno, con l’ambivalenza mostrata nel pasto totemico, con l’istituzione di celebrazioni commemorative, di divieti la cui trasgressione era punita con la morte, è lecito riconoscere nel totemismo, dicevo, la prima forma di apparizione della religione nella storia umana e confermare il suo nesso fin dal principio con gli ordinamenti sociali e gli obblighi morali.",
-                                    "items": []
-                                },
-                                {
-                                    "wzElement": "article",
-                                    "wzTag": "article",
-                                    "wzName": "freud.l-uomo-mose-e-la-religione-monoteistica",
-                                    "items": []
-                                },
-                                {
-                                    "wzElement": "epage",
-                                    "wzTag": "e-page",
-                                    "wzName": "7284",
-                                    "items": []
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "wzElement": "namespace",
-            "wzTag": "namespace",
             "wzName": "freud",
             "items": [
                 {
@@ -8332,6 +9450,31 @@
                             "wzTag": "title",
                             "wzName": "Ambivalenza",
                             "items": []
+                        },
+                        {
+                            "wzElement": "quote",
+                            "wzTag": "quote",
+                            "wzName": "",
+                            "items": [
+                                {
+                                    "wzElement": "text",
+                                    "wzTag": "+",
+                                    "wzName": "Abbiamo avuto spesso l’opportunità di indicare, alla radice di importanti formazioni culturali, l’ambivalenza emotiva in senso proprio, ossia l’incontro di amore e odio verso lo stesso oggetto. Sull’origine di questa ambivalenza non sappiamo nulla. Si può avanzare l’ipotesi che sia un fenomeno fondamentale della nostra vita emotiva. Ma mi sembra assolutamente degna di considerazione anche l’altra possibilità, ossia che l’ambivalenza, originariamente estranea alla vita emotiva, sia stata acquisita dall’umanità partendo dal complesso paterno [parentale], nel quale, come mostra l’indagine psicoanalitica sull’individuo, ancor oggi l’impronta dell’ambivalenza è più forte.",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "article",
+                                    "wzTag": "article",
+                                    "wzName": "freud.totem-e-tabù",
+                                    "items": []
+                                },
+                                {
+                                    "wzElement": "epage",
+                                    "wzTag": "e-page",
+                                    "wzName": "4081",
+                                    "items": []
+                                }
+                            ]
                         },
                         {
                             "wzElement": "quote",

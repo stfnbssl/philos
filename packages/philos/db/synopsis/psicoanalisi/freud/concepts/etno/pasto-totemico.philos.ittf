@@ -1,0 +1,23 @@
+$group
+
+    namespace freud.etno
+
+        concept pasto-totemico
+            title Pasto totemico
+
+            quote
+                + Concludiamo affermando di condividere l’ipotesi di Robertson Smith 
+                    \b che l’uccisione sacramentale e la consumazione comune dell’animale totemico, 
+                    \b proibita negli altri casi, era un elemento estremamente importante della religione totemica.
+                e-page 4063
+            quote
+                + Che essi abbiano anche divorato il padre ucciso, è cosa ovvia trattandosi di selvaggi cannibali. 
+                    \b Il progenitore violento era stato senza dubbio il modello invidiato 
+                    \b e temuto da ciascun membro della schiera dei fratelli. 
+                    \b A questo punto, divorandolo, essi realizzarono l’identificazione con il padre, 
+                    \b ognuno si appropriò di una parte della sua forza. 
+                    \b Il pasto totemico, forse la prima festa dell’umanità, 
+                    \b sarebbe la ripetizione e la commemorazione di questa memoranda azione criminosa, 
+                    \b che segnò l’inizio di tante cose: le organizzazioni sociali, le restrizioni morali e la religione.
+                article freud.totem-e-tabù
+                e-page 4065

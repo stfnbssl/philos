@@ -1,0 +1,35 @@
+$group
+
+    namespace freud.etno
+
+        concept tragedia-greca
+            title Tragedia greca
+
+            quote
+                + Un evento come l’uccisione del progenitore ad opera della schiera di fratelli 
+                    \b doveva lasciare tracce incancellabili nella storia dell’umanità 
+                    \b e finire con l’esprimersi per dei tramiti sostitutivi [.. innumerevoli sono le tracce nella mitologia ..]
+                    \b Nella storia dell’arte greca c’è una situazione che presenta evidenti analogie, 
+                    \b e differenze non minori, con la scena del pasto totemico indicata da Robertson Smith. 
+                    \b È la situazione della tragedia greca più antica. 
+                    \b Una massa di persone, tutte con lo stesso nome e lo stesso abito, 
+                    \b circonda un unico individuo dalle cui parole e azioni dipendono tutti: 
+                    \b sono il Coro e l’attore, in origine unico, che rappresenta l’Eroe.
+                + [..] L’Eroe della tragedia doveva soffrire: questo è ancor oggi il contenuto essenziale di una tragedia.
+                    \b Egli s’era addossato la cosiddetta “colpa tragica”, che non è sempre facile motivare; 
+                    \b spesso non è una colpa nel senso della vita borghese. 
+                    \b Di regola la colpa consisteva nella ribellione a un’autorità divina o umana, 
+                    \b e il Coro accompagnava l’Eroe con sentimenti di simpatia, cercava di trattenerlo, di ammonirlo, di moderarlo e, 
+                    \b quando egli aveva ricevuto la punizione  
+                    \b che si considerava meritata per la sua azione temeraria, lo compiangeva.
+                + [..] Ma perché l’Eroe della tragedia deve soffrire, e che cosa significa la sua “tragica” colpa? 
+                    \b Tagliamo corto alla discussione con una risposta rapida. 
+                    \b Egli deve soffrire perché è il progenitore, l’Eroe di quella grande tragedia primordiale 
+                    \b che trova qui una ripetizione tendenziosa, 
+                    \b e la colpa tragica è quella ch’egli deve addossarsi per sgravare il Coro della sua colpa.
+                + Il delitto che si riversa su di lui, l’arroganza e la ribellione a una grande autorità, 
+                    \b è precisamente quello che opprime in realtà i membri del Coro, la schiera dei fratelli. 
+                    \b Così l’Eroe tragico è trasformato, contro voglia, in salvatore e liberatore del Coro.
+                + [Il medioevo riprenderà il tema del salvatore del Coro nella tragedia greca mettendo in scena la Passione di Cristo]
+                article freud.totem-e-tabù
+                e-page 4079-4080

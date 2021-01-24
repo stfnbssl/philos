@@ -1,6 +1,6 @@
 $group
 
-    namespace freud.religione
+    namespace freud.etno
 
         concept l-uomo-mosè
             title L'uomo mosè
@@ -24,4 +24,3 @@ $group
                     \b ma anche molta dell’ostilità che ha incontrato e tuttora incontra.
                 article freud.l-uomo-mose-e-la-religione-monoteistica
                 e-page 7309-7310
-

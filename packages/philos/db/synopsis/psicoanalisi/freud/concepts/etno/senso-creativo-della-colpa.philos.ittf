@@ -1,0 +1,23 @@
+$group
+
+    namespace freud.etno
+
+        concept senso-creativo-della-colpa
+            title Senso creativo della colpa
+
+            quote
+                + Noi abbiamo spiegato le prime prescrizioni e restrizioni morali della società primitiva 
+                    \b come reazione a un’azione che diede ai suoi promotori il concetto di crimine. 
+                    \b Essi provarono rimorso per questa azione e decisero che non dovesse più ripetersi, 
+                    \b e che l’averla compiuta non doveva apportare alcun guadagno. 
+                    \b Questo senso creativo della colpa non si è spento in noi. 
+                    \b Lo troviamo operante in maniera asociale nei nevrotici 
+                    \b per produrre nuove prescrizioni morali, limitazioni continuative, 
+                    \b come espiazione per i misfatti compiuti e precauzione contro i misfatti ancora da compiere.
+                    \b Ma se indaghiamo in questi nevrotici per scoprire i fatti che hanno provocato tali reazioni, 
+                    \b andiamo incontro a una delusione. 
+                    \b Non troviamo azioni, ma soltanto impulsi, emozioni, che mirano al male, 
+                    \b ma ne sono stati trattenuti prima di compierlo. 
+                    \b Alla base del senso di colpa dei nevrotici ci sono soltanto realtà psichiche, non realtà di fatto.
+                article freud.totem-e-tabù
+                e-page 4083-4084

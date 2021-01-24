@@ -1,8 +1,8 @@
 $group
 
-    namespace freud.religione
+    namespace freud.etno
 
-        concept sviluppi
+        concept sviluppi-religione
             title Sviluppi della religione
 
             quote

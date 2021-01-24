@@ -1,9 +1,9 @@
 $group
 
-    namespace freud.religione
+    namespace freud.etno
 
-        concept il-grande-uomo
-            title Il grande uomo
+        concept grande-uomo
+            title Grande uomo
 
             quote
                 + Il perché il grande uomo acquisti importanza, non c’è oscuro neanche per un istante. 

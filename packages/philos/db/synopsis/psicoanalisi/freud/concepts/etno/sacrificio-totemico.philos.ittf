@@ -1,0 +1,31 @@
+$group
+
+    namespace freud.etno
+
+        concept sacrificio-totemico
+            title Sacrificio totemico
+
+            quote
+                + Robertson Smith ci ha appreso che l’antico pasto totemico ritorna nella forma originaria del sacrificio. 
+                    \b Il significato dell’azione è il medesimo: la santificazione mediante partecipazione al pasto comune. 
+                    \b Anche il senso di colpa è rimasto presente in questa pratica, 
+                    \b e può essere attenuato soltanto dalla solidarietà di tutti i partecipanti. 
+                    \b L’elemento nuovo che si è aggiunto è il dio del clan alla cui presenza – supposta – 
+                    \b si svolge il sacrificio, dio che partecipa al pasto come membro del clan 
+                    \b e con il quale ci si identifica gustando la vittima.
+                article freud.totem-e-tabù
+                e-page 4070
+
+            quote
+                + Così pure il cerimoniale dei sacrifici umani nei luoghi più diversi della terra abitata 
+                    \b lascia sussistere pochi dubbi sul fatto che le vittime erano uccise 
+                    \b in veste di rappresentanti della divinità.
+                + Quest’uso sacrificale è rintracciabile anche in epoche ormai tarde 
+                    \b nella sostituzione dell’uomo vivo con un’imitazione inanimata (un fantoccio).
+                + [..] Esso rivela con chiarezza difficilmente superabile che l’oggetto dell’atto sacrificale 
+                    \b era sempre il medesimo, lo stesso cioè che viene oggi venerato come Dio: il padre. 
+                    \b A questo punto il problema del rapporto tra sacrificio animale e sacrificio umano 
+                    \b trova facile soluzione. L’originario sacrificio animale era già un surrogato di sacrificio umano, 
+                    \b dell’uccisione solenne del padre, e quando il sostituto del padre tornò a ottenere 
+                    \b la sua immagine umana anche il sacrificio animale poté ritrasformarsi in sacrificio umano.
+                e-page 4075

@@ -8,6 +8,8 @@ $group
             log 'functors.concept'
             var conceptObj = createConcept(parent.wzName, resultObj, "concept")
             set conceptObj.ns = resultObj.ns
+            # TODO (when wizzi-core is ok) set conceptObj.sourcePath = parent.wzSourceFilepath()
+            set conceptObj.sourcePath = parent.wzRoot().loadHistory.ittfDocumentDatas[parent.wzSourceLineInfo.sourceKey].ittfDocumentUri
             var newitems = fillConcept(parent, resultObj, conceptObj)
             _ resultObj.concepts.push
                 @ conceptObj
