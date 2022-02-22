@@ -4,6 +4,7 @@ $group
 
         concept nevrosi-ossessiva
             title Nevrosi ossessiva
+            alias psicastenia
 
             r-concept freud.sintomo
                 quote

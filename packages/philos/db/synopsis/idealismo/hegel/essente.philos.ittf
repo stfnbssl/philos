@@ -1,0 +1,8 @@
+$group
+
+    namespace hegel
+
+        concept essente
+            title essente
+                + realta essente, esterna allo spirito, non ancora mediata, non ancora posta,
+                    \b ancora data dalla natura

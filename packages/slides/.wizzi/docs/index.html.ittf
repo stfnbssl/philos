@@ -1,0 +1,64 @@
+html
+    $
+        var page = {
+            id: 'home',
+            section: 'demo',
+            title: 'ConceptDb',
+            description: 'Database di elementi filosofici',
+            author: site.Params.author,
+        };
+        var color = site.Styles.palette.dark_1
+        var assetsURL = site.assetsURL;
+    head
+        @style 
+            css
+                < body
+                    background ${color.foreSofter}
+                . wrapper
+                    padding 30px 150px
+                    background-color ${color.foreSofter}
+                    color ${color.backStrong}
+                . slide
+                    margin 20px
+                    border 1px solid gray
+                    padding 10px
+                    width 900px
+                . slide-title
+                    height 40px
+                    color ${color.foreSofter}
+                    background-color ${color.backStrong}
+                . slide-panel
+                    font-family verdana
+                    font-size 18px
+    body
+        . wrapper
+            h1 Slides
+            $foreach item in npl.items
+                . slide
+                    . slide-title
+                        h3 ${item.title}
+                    . slide-panel
+                        p fonte ${item.source}
+                            style font-size: 9px;
+                        $foreach line in item.lines
+                            p ${line}
+                        $foreach slide in item.slides
+                            img
+                                src ${slide}
+                                width 700px
+                        $if item.images
+                            $foreach image in item.images
+                                img
+                                    src ${image}
+                                    width 300px
+                                p ${image}
+            $foreach image in npl.images
+                div
+                    style margin: 40px 20px;
+                    h3 ${image.title}
+                    img
+                        src ${image.url}
+                        $if image.icon
+                            width 50px
+                        $else
+                            width 300px

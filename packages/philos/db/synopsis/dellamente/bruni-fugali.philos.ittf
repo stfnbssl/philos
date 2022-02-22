@@ -1,0 +1,805 @@
+4 RETI, SAPERI, LINGUAGGI | ANNO 4 | N. 2 | 2012 | ISSN 2279-7777
+Scienza cognitiva incarnata e modelli
+evoluzionistici1
+Domenica Bruni - dbruni@unime.it
+Dipartimento di Scienze Cognitive, della Formazione e dell’Educazione, Università di Messina
+Edoardo Fugali - efugali@unime.it
+Dipartimento di Scienze Cognitive, della Formazione e dell’Educazione, Università di Messina
+1. Il primo e il terzo paragrafo di questa Introduzione sono stati scritti da Domenica Bruni e il secondo da Edoardo Fugali. Il paragrafo conclusivo è opera
+di entrambi gli autori.
+
+1.
+
+    book
+        title Scienza cognitiva incarnata e modelli evoluzionistici
+        
+        Senza dubbio si tratta di una sfida ambiziosa. 
+        La scelta dei due temi non è casuale ma è motivata dalla convinzione che 
+        tanto l’evoluzionismo quanto la cognizione incarnata rappresentino 
+        una radicale rivoluzione la cui portata va a scalfire la concezione che l’uomo ha di stesso e 
+        il posto che da sempre le creature umane occupano all’interno del mondo naturale.
+
+        La rivoluzione, seguendo lo schema di questo volume, percorre due strade. 
+            Una mette in relazione mente, corpo e l’ambiente biologico, sociale e culturale in cui l’organismo è situato. 
+                Numerosi processi cognitivi, infatti, 
+                sembrerebbero estendersi al di là dei rigidi confini del sistema nervoso centrale e dello stesso corpo 
+                dal momento che sarebbero localizzabili all’interno dell’ambiente fisico e ricco di trame sociali 
+                in cui l’organismo agisce. 
+            L’altra strada a cui facciamo riferimento è quella tracciata dal naturalista inglese Charles Darwin che elaborò, 
+                in un’affascinante prosa britannica, 
+                la sua teoria dell’evoluzione per selezione naturale estendendo le sue leggi anche alle creature umane 
+                ed elaborando così una genealogia naturale delle nostre capacità intellettuali e morali (Franceschelli, 2009).
+                Darwin invita l’uomo a scendere dal suo trono negando che 
+                    la diversità tra uomo e mammiferi superiori riguardo le loro facoltà mentali sia qualitativa.
+                Anche la moralità, le inclinazioni e le attitudini ad essa connesse, lontane dall’essere prerogative umane, 
+                    sono declinate come un volto maturo delle inclinazioni sociali che ci accomunano agli altri animali 
+                    e come risultato di un progressivo miglioramento delle facoltà mentali 
+                    che condividiamo con le altre creature. 
+                Charles Darwin ci consente di ragionare, proprio nel modo in cui siamo abituati a fare oggi, sulla natura umana. 
+                In alcuni saggi che compongono questo volume emerge come 
+                    la concezione evoluzionista della natura umana elaborata da Darwin 
+                    viene fatta propria anche da molte discipline, come le neuroscienze, la psicologia, l’etologia,
+                    impegnate ad aggiungere qualcosa di nuovo al programma darwiniano con l’intento di portalo a compimento. 
+                Esiste, dunque, un mondo prima di Darwin e uno dopo l’elaborazione delle sue teorie, 
+                    un mondo in un certo senso affrancato dall’idea che cultura, civiltà e progresso 
+                    fossero il risultato di forze misteriose e indescrivibili dall’indagine scientifica.
+
+2.
+
+    Nel corso degli ultimi vent’anni 
+        ha progressivamente preso corpo quella che a detta di molti interpreti verrebbe a configurarsi come 
+        una vera e propria rottura paradigmatica nell’ambito delle scienze cognitive. 
+    In termini più precisi, la storia di questo complesso e composito campo disciplinare sarebbe 
+        stata scandita da tre cesure rivoluzionarie, ossia 
+            la scienza cognitiva di prima generazione,
+                basata sull’intelligenza artificiale forte e sull’equiparazione
+                – non solo metaforica – della mente umana al computer,
+                che data agli anni Cinquanta del secolo scorso; 
+            negli anni Ottanta questo indirizzo di ricerca è poi stato affiancato,
+                in direzione di un’integrazione reciproca o, più spesso, in quella di un antagonismo irriducibile, 
+                dall’affermarsi del connessionismo, che abbatte il dogma dell’equivalenza mente/computer 
+                a favore di modelli maggiormente aderenti alla realtà biologica del cervello; 
+            infine, le ultime decadi del secolo sono percorse da una terza ondata rivoluzionaria, 
+                i cui rappresentanti si riconoscono nelle parole d’ordine della nuova scienza cognitiva incarnata, 
+                riassunte nel fortunato slogan delle 4E – embodied, embedded, enacted, extended: 
+                secondo la tesi fondamentale in cui questo approccio si sostanzia, 
+                la mente non è un sistema isolato e conchiuso in se stesso, 
+                ma va indagata nelle relazioni essenziali che essa intrattiene col corpo e l’ambiente biologico, sociale e culturale in cui l’organismo è situato.
+    Ricostruire nel dettaglio le vicende di questa storia è un compito che sicuramente esorbita dai limiti di questa introduzione, 
+        il che tuttavia non ci impedisce di offrire dei ragguagli al riguardo, per quanto sommari possano essere. 
+    Se seguiamo la periodizzazione proposta da Varela (1992),
+        possiamo distinguere quattro stadi di sviluppo della scienza cognitiva: 
+        1) un prologo, individuato in quella che Varela chiama “l’età dei padri fondatori” (1943-1953),
+            che assiste alla nascita della cibernetica; 
+        2) l’ascesa e la fioritura della scienza cognitiva classica propriamente detta;
+        3) il connessionismo  
+        4) l’approccio incorporato/enattivo.
+
+    1)
+        L’impresa culturale della cibernetica è animata dal proposito di fondare 
+            una scienza naturale del pensiero e della conoscenza 
+            capace di spiegare questi fenomeni facendo esclusivo riferimento a processi meccanici e modelli matematici. 
+        McCulloch e Pitts (1943) ad esempio partono dalla duplice assunzione secondo cui 
+        a) la logica fornisce i modelli esplicativi del pensiero e 
+        b) il cervello, a livello dei suoi elementi costitutivi, i neuroni, e delle connessioni che questi intrattengono, 
+            incorpora una struttura logica, tale da renderne possibile l’equiparazione a una macchina deduttiva. 
+        È sulla base di queste idee che Von Neumann elabora il suo modello di macchina calcolatrice, 
+            basato sull’architettura seriale che prende il suo nome. 
+        I risultati generali della cibernetica possono dunque essere elencati in sintesi come segue:
+            1. l’adozione della logica matematica per la comprensione dell’attività del sistema nervoso e del pensiero umano;
+            2. la fondazione di una metadisciplina, come la teoria dei sistemi,
+                cui spetta il compito di formulare principi universali che valgano per tutti i sistemi complessi;
+            3. la teoria dell’informazione come teoria statistica della trasmissione dei segnali e dei canali di comunicazione;
+            4. la possibilità di creare robot e sistemi capaci di autoorganizzazione.
+    2)
+        La tesi fondamentale che caratterizza la rivoluzione cognitivista 
+            (che si diffonde a partire dal 1956, l’anno delle celebri conferenze di Cambridge e Dartmouth) 
+            è che l’intelligenza emula nei suoi tratti fondamentali il funzionamento di un computer, 
+            al punto che la cognizione può essere definita in termini di computazioni eseguite su rappresentazioni simboliche, 
+            dotate di valore rappresentativo (Newell & Simon, 1972; Fodor & Pylyshyn, 1988). 
+        I due concetti fondamentali che stanno alla base di questa ipotesi sono quello 
+            di rappresentazione e di intenzionalità: 
+            i simboli posseggono entrambe queste proprietà, ossia
+            rappresentano sotto determinate modalità gli oggetti del mondo e vertono su di essi. 
+        Gli stati intenzionali e le rappresentazioni sono realizzati fisicamente sotto forma di un codice simbolico 
+            implementato dal cervello o da una macchina, 
+            il che non vale soltanto a mostrare in che modo gli stati intenzionali e le rappresentazioni sono fisicamente possibili, 
+            ma richiede che venga spiegato anche come essi possano determinare causalmente il comportamento intelligente. 
+        È qui che entra in gioco la nozione di simbolo, inteso come un’entità di natura fisica 
+            dotata al contempo di valore semantico: 
+            viene dunque istituito un parallelismo forte tra 
+                il piano fisico, ossia le operazioni sintattiche effettuate da una macchina, e
+                il piano semantico delle rappresentazioni e dell’intenzionalità, 
+            al fine di mostrare come l’intelligenza e l’intenzionalità siano essenzialmente riconducibili 
+                a un meccanismo che obbedisce a leggi fisiche. 
+        Va detto che per quanto sia necessaria la realizzazione fisica del livello simbolico, 
+            questo resta irriducibile al medium materiale, vale a dire che 
+            è indifferente quale specifica modalità di realizzazione venga prescelta per implementare i processi computazionali. 
+        In questa prospettiva, la mente funziona come un elaboratore di rappresentazioni interne al sistema, 
+            in cui è possibile individuare un’istanza pianificatrice centrale che 
+            processa le informazioni secondo la sequenza lineare input/manipolazione di simboli/output,
+            laddove gli aspetti sensori-motori della cognizione si limitano alle 
+            informazioni veicolate dalle percezioni in entrata e alle risposte comportamentali in uscita. 
+        Il cognitivismo classico riesce dunque ad elaborare una concezione della mente 
+            compatibile con i requisiti di scientificità del meccanicismo fisicalistico, 
+            ma al prezzo di estromettere dall’ordine di considerazione prescelto 
+            due caratteristiche che la psicologia del senso comune attribuisce agli stati mentali, ossia 
+                il loro essere consci e 
+                la loro appartenenza a un soggetto unitario. 
+        In primo luogo, i processi mentali indagati dagli scienziati della cognizione sono inconsci e subpersonali, 
+            nel senso radicale di una costitutiva incapacità da parte del soggetto 
+            che ne è il portatore 
+            di accedere ad essi sul piano della consapevolezza: 
+            ciò di cui siamo coscienti è al massimo una proiezione epifenomenica di manipolazioni computazionali 
+            che hanno luogo a un livello profondo rispetto a quello apparente, 
+            ed è questa propriamente la sola dimensione in cui è lecito attribuire agli stati mentali efficacia causale. 
+        L’architettura della mente è poi modulare (Fodor, 1983), 
+            giacché essa consiste di una molteplicità di sottoinsiemi specializzati che 
+            espletano le loro funzioni indipendentemente gli uni dagli altri, 
+            ferma restando la natura amodale del codice simbolico impiegato nelle computazioni, 
+            laddove tali funzioni sono descrivibili in termini di processi meccanici conformi a leggi e
+            procedono nell’ordine della genesi dal semplice al complesso, 
+            in conformità all’approccio composizionale che del modularismo è un logico corollario.
+        Già negli anni della cibernetica erano stati sviluppati approcci alternativi al programma computazionale, 
+            mossi da una generale insoddisfazione nei confronti dell’assunto teorico secondo cui 
+            nel cervello è possibile individuare algoritmi computazionali e unità centrali di elaborazione. 
+        Il cervello in realtà non immagazzina informazioni avvalendosi di codici rigidi ed esatti; 
+            la sua attività si basa piuttosto su una fitta e complessa rete di connessioni tra neuroni che 
+            mutano in continuazione al variare delle nostre esperienze e 
+            mostrano poteri di auto-organizzazione che non trovano riscontro nei modelli logici di indole cognitivista.
+        Con l’affermarsi del modello cognitivista, queste ipotesi retrocedono sullo sfondo, 
+            per venire poi riesumate soltanto sul finire degli anni settanta, 
+            in concomitanza alla contemporanea rinascita dell’idea di 
+                auto-organizzazione in fisica e 
+                della matematica non-lineare. 
+        A questo rinnovato interesse hanno contribuito due motivi di insoddisfazione per i modelli cognitivistici, 
+            ai quali veniva imputato 
+            1) di concepire i processi di elaborazione dei simboli in termini di operazioni seriali e 
+            2) di aver insistito sulla natura localizzata e modulare di questi processi: 
+                il malfunzionamento di una parte del sistema compromette in maniera significativa il funzionamento globale del sistema stesso, 
+                il che di fatto non avviene in sistemi biologici quali il cervello, che lavorano secondo una modalità distribuita e parallela.
+            Le capacità adattive del cervello e il grado d’immunità che esso presenta quando si verificano danneggiamenti 
+            non vengono dunque spiegati in maniera soddisfacente sulla base del paradigma computazionale classico. 
+            Di quest’approccio il connessionismo mantiene l’acquisizione fondamentale secondo cui 
+            i processi mentali sono da definire in termini di computazioni, 
+            ma se ne differenzia per il fatto di rifiutare l’equivalenza tra la computazione e la manipolazione di simboli logici. 
+            In una rete neurale i processi computazionali occorrono in modo distribuito e parallelo, 
+            per cui l’attività rappresentativa emerge come una proprietà globale del sistema 
+            non riconducibile a manipolazioni puntuali e localizzate eseguite sui simboli discreti del linguaggio del pensiero, 
+            dal momento che ad essere determinante è la configurazione complessiva della rete, 
+            il che richiede l’impiego di strumenti matematici maggiormente sottili e sofisticati, 
+            quali le equazioni differenziali non-lineari. 
+            Il funzionamento concreto del cervello viene emulato attraverso i modelli basati sulle reti neurali: 
+            ai simboli e alle regole vengono sostituite le connessioni dinamiche tra i neuroni, 
+            concepiti come elementi semplici, 
+            ognuno dei quali opera in un ambiente strettamente delimitato, 
+            mentre il sistema nel suo complesso emerge spontaneamente dall’azione reciproca di tutti gli elementi componenti,
+            senza che sia necessario postulare un’unità di elaborazione centrale. 
+            È dunque il carattere di auto-organizzazione dinamica esibito dalle reti neurali 
+            quanto spiega il passaggio dal livello locale al livello globale, 
+            dato che gli elementi significativi di un sistema dinamico come il cervello 
+            non sono i simboli, ma i modelli complessi che descrivono in termini di vettori di attivazione le configurazioni 
+            che emergono dalla rete delle connessioni neurali. 
+            Viene così a cadere uno dei dogmi centrali della scienza cognitiva classica, 
+            ossia il postulato dell’esistenza di un livello simbolico separato, 
+            che funga da mediatore tra il piano semantico e quello fisico-meccanico. 
+            Il problema di quest’approccio è che non riesce a spiegare in che modo delle unità simboliche discrete 
+            possano ottenere il loro significato. 
+            Secondo i fautori dell’approccio connessionistico, il significato non va localizzato in singole unità simboliche, 
+            ma è la funzione di uno stato complessivo del sistema, che emerge dalle interazioni tra le sue unità, 
+            di gran lunga più “fini” di quanto non siano i simboli. 
+            Ciò ha indotto molti teorici a postulare l’esistenza di un livello sub-simbolico che, 
+            se non coincide con quello biologico, sembra tuttavia ad esso molto più vicino di quanto non sia il livello simbolico.
+            Secondo gli esponenti della scienza cognitiva incarnata, 
+            il cui atto di nascita ufficiale può essere ricondotto al volume collettivo di Varela, Thompson e Rosch (1991), 
+            tanto il cognitivismo classico, quanto il connessionismo sono affetti dall’ipoteca dell’eredità cartesiana, 
+            data l’enfasi da essi posta sul ruolo esclusivo della mente/cervello nella genesi dei processi cognitivi, 
+            a prescindere dall’apporto dei processi sensori-motori corporei e dei fattori ambientali 
+            che pure concorrono a forgiare e a definire la cognizione. 
+            Intesa in senso più ampio, la cognizione presuppone invece l’esercizio di capacità percettive e motorie 
+            che dipendono direttamente da caratteristiche del corpo fisico 
+            e il suo essere situata ed estesa in uno specifico contesto ambientale (Wilson & Foglia, 2011). 
+            In questa prospettiva, gli stati cognitivi non sono più equiparabili a rappresentazioni interne di un sistema isolato, 
+            passivamente esposto agli impatti che gli stimoli sensoriali di input provenienti dal mondo esterno esercitano su di esso, 
+            ma sono prodotte da un agente già sempre in relazione col suo mondo ambiente. 
+            È su questa caratteristica che insiste in particolare l’approccio enattivista, 
+            che possiamo sintetizzare nei cinque punti seguenti (Thompson, 2007:13):
+                1. gli esseri viventi sono agenti autonomi capaci di produrre e di mantenere in vita se stessi, 
+                    delineando al tempo stesso i propri domini cognitivi;
+                2. il sistema nervoso nel suo complesso – e non soltanto il cervello – è un sistema autonomo e dinamico 
+                    che genera le proprie configurazioni d’attività grazie a una rete circolare di connessioni neurali rientranti;
+                3. la cognizione consiste nell’esercizio di abilità pratiche nel corso di azioni situate e incorporate;
+                4. il mondo non è un dominio esterno da cui l’organismo agente è segregato, 
+                    ma una struttura relazionale che emerge dagli accoppiamenti adattivi che l’organismo pone in essere con l’ambiente;
+                5. l’esperienza cosciente non è un abbellimento epifenomenico che si limita a tingere gli stati computazionali 
+                    o neurofisiologici di una coloritura qualitativa, 
+                    ma svolge un ruolo centrale per la comprensione del funzionamento della mente.
+            Rispetto alla scienza cognitiva di prima e seconda generazione l’approccio enattivo promette dunque 
+                un pieno recupero della dimensione dell’esperienza soggettiva, 
+                così come è stata codificata nella psicologia del senso comune.
+            I processi di conoscenza che caratterizzano la nostra prassi ordinaria 
+                non consistono nella risoluzione di problemi predefiniti, 
+                ma nella produzione attiva di strategie dipendenti dal contesto in cui gli agenti cognitivi sono collocati,
+                dato che la mente non è un dispositivo di immagazzinamento e di elaborazione di dati, 
+                ma un organo di controllo del corpo biologico nelle sue interazioni con l’ambiente (Clark, 1997). 
+            Questo mutamento di prospettiva comporta una critica radicale del concetto di rappresentazione 
+                invalso nella scienza cognitiva tradizionale: 
+                il termine stesso postula l’esistenza di un mondo già dato, 
+                che in seconda istanza le nostre attività cognitive si incaricherebbero di riprodurre in modo speculare. 
+            A questo concetto i teorici dell’enattivismo contrappongono il modello della comprensione, 
+                da intendere come un processo circolare nel quale individuo e ambiente sono i termini di una relazione
+                inscindibile che li precede entrambi e in cui agire e conoscere sono reciprocamente implicati 
+                nella produzione di un mondo che siamo noi stessi a rifigurare di continuo.
+            È evidente riguardo a questo punto l’intento di riallacciarsi alla tradizione ermeneutica e fenomenologica e 
+                ai suoi esponenti di punta, quali soprattutto Heidegger e Merleau-Ponty, 
+                perseguito già con un notevole anticipo rispetto all’affermarsi del 
+                paradigma embodied/enacted da H. Dreyfus intorno ai primi anni Settanta del secolo scorso.
+            Dreyfus imputa in sostanza alla scienza cognitiva tradizionale la pretesa di 
+                ricondurre l’intelligenza a leggi espresse in algoritmi formali che 
+                governano processi interni di computazione in modo indipendente dal contesto. 
+            A rendere problematica l’assimilazione del comportamento umano a questo modello 
+                è il fatto che la nostra capacità di risolvere problemi e 
+                di entrare in relazione con gli oggetti del mondo e le altre persone 
+                presuppone una conoscenza di sfondo tacita che non è codificata in formato proposizionale, 
+                ma discende da abilità pratiche spesso implicite e altamente sensibili al contesto dell’azione (Dreyfus, 1972; 1992). 
+            Dreyfus si riallaccia qui a due nozioni chiave della filosofia heideggeriana, 
+                che costituiscono un precedente teorico importante per l’enattivismo, 
+                ossia l’essere-nel-mondo e la distinzione tra utilizzabilità e semplice-presenza. 
+            L’essere-nel-mondo, afferma Heidegger (1927), 
+                è una struttura costitutiva dell’esistenza, 
+                in cui si esprime l’apertura originaria e intenzionale dell’Esserci – ossia dell’individuo umano – 
+                verso un mondo che lo trascende e con cui nondimeno intrattiene una relazione di intrinseca appartenenza, 
+                nonché il suo carattere di progettualità. 
+            Nel suo commercio quotidiano col mondo, 
+                in cui non è semplicemente inserito come un oggetto inerte in un contenitore, 
+                ma che contribuisce esso stesso a forgiare nella sua fisionomia caratteristica, 
+                l’Esserci si rapporta alle cose anzitutto in quanto utilizzabili. 
+            Solo in situazioni limite, quali l’improvvisa perdita di funzionalità 
+                che uno strumento può subire a causa di una rottura o di un guasto, 
+                o nel caso dell’adozione deliberata dell’atteggiamento teoretico, 
+                le cose si appalesano all’Esserci nel modo della semplice-presenza, 
+                ossia a partire da un’attitudine obiettivante 
+                che spoglia l’oggetto di ogni determinazione che non sia quella fisica della localizzazione spazio-temporale. 
+            Strettamente apparentata all’accezione heideggeriana di utilizzabilità è 
+                la nozione di affordance (dal tedesco Aufforderung) 
+                che lo psicologo J. J. Gibson (1979) riprende dalla psicologia della Gestalt 
+                a designare le caratteristiche degli oggetti che 
+                ci spingono irresistibilmente a prenderli tra le mani e a farne uso. 
+            I nostri sistemi percettivi sono sintonizzati direttamente con le affordances mondane 
+                senza che sia necessaria l’intermediazione di rappresentazioni interne: 
+                il sistema visivo non deve risolvere il problema di ricostruire nella sua pienezza 
+                    un mondo tridimensionale di oggetti a partire dalle informazioni che 
+                    rifluiscono nell’immagine bidimensionale della retina, 
+                    ma si relaziona direttamente alle invarianti dell’arredo ambientale ottico 
+                    grazie a movimenti d’esplorazione che chiamano in causa l’attività corporea. 
+                Di tenore analogo sono le considerazioni di Merleau-Ponty (1945), 
+                    che vede nella percezione l’istanza primaria che garantisce la nostra inerenza al mondo:
+                    la percezione sfocia direttamente sulle cose e 
+                    non è funzionale all’elaborazione di rappresentazioni da processare all’interno della testa, 
+                    ma funge da dispositivo di controllo dell’azione e di orientamento motorio. 
+                Coerentemente a questo assunto, 
+                    Merleau-Ponty può così proporre una visione della cognizione come processo integrato 
+                    costituito dalla sinergia tra organismo, corpo e mondo 
+                    sulla base di un ampliamento della nozione tradizionale di intenzionalità: 
+                    nell’“arco intenzionale” rifluiscono infatti a pari titolo non solo il momento percettivo, 
+                    ma anche quello motorio e pratico. 
+                Centrale nell’impostazione di Merleau-Ponty è il concetto di corpo vivo, o corpo proprio, 
+                    le cui capacità motorie danno luogo all’intenzionalità originaria dell’“io posso”, 
+                    per il quale primaria è non la capacità di produrre rappresentazioni 
+                    fungenti da intermediari mentali tra noi e il mondo, 
+                    ma l’autotrascendersi dell’esistenza verso cose già immediatamente dotate di un significato. 
+                Già prima di Merleau-Ponty tuttavia era stato il tardo Husserl (1952) 
+                    ad aver attratto l’attenzione sulla centralità del corpo proprio nella genesi della percezione oggettuale, 
+                    nella costituzione del nostro senso di autoconsapevolezza e 
+                    nelle relazioni intersoggettive che intratteniamo con le altre persone.
+                Il corpo si configura in Husserl come un sistema integrato 
+                    di percezioni sensoriali, propriocettive, cinestesiche e affettive 
+                    che determinano il riferimento a sé dei vissuti d’esperienza e 
+                    al contempo la sintesi multimodale delle differenti sorgenti di informazione sensoriale, 
+                    in modo tale da consentire la formazione di percetti unitari diretti intenzionalmente verso oggetti compiuti. 
+                Oltre a ciò, il corpo proprio è l’operatore che veicola e mobilita le risorse sensori-motorie 
+                    necessarie per l’empatia e per l’attribuzione ad altri soggetti di vissuti intenzionali analoghi ai nostri.
+                Proviamo ora a gettare un rapido sguardo sulle aree di ricerca in cui 
+                il paradigma embodied si è dimostrato più fertile, 
+                che possiamo classificare sommariamente nell’elenco seguente (cfr. Gibbs, 2005; Wilson & Foglia, 2011):
+                a) il tema dell’identità personale e della consapevolezza di sé:
+                    il modo in cui facciamo esperienza della persona che noi stessi siamo 
+                    e le relative ascrizioni di significato sono modulate dal nostro senso di autoconsapevolezza corporea 
+                    e dal particolare corpo che ci capita di essere. In particolare,
+                    sono le regolarità esibite dall’esperienza cinestesico-tattile
+                    a costituire non solo il nostro sé nucleare a livello sensorimotorio, 
+                    ma anche le rappresentazioni di ordine superiore che lo riguardano;
+                b) percezione e azione: la percezione non è un processo inferenziale interno alla mente/cervello 
+                    scomponibile in stadi di elaborazione computazionale su informazioni estratte da invarianti ambientali statiche, 
+                    ma è intrinsecamente connessa alle attività esplorative esercitate dal corpo in movimento, 
+                    che concorrono a determinarla 
+                    nel corso di accoppiamenti strutturali e ricorsivi tra organismo e ambiente (cfr. Noë, 2004; 2009; O’Regan & Noë , 2001);
+                c) concettualizzazione: 
+                    contrariamente alla concezione tradizionale, 
+                    secondo cui i concetti consistono di simboli amodali indipendenti dal contesto, 
+                    le nostre capacità concettuali sono modellate e strutturate da pattern ricorrenti di attività corporea, 
+                    in particolare atti di simulazione percettivo-incorporata (Barsalou, 2008; 2009). 
+                    Nella genesi dei concetti un ruolo fondamentale è svolto dalle metafore: 
+                        persino i concetti più astratti sono in buona parte forgiati sulla base di 
+                        una mappatura metaforica che ha nel corpo il proprio dominio d’origine e 
+                        può essere proiettata in differenti domini bersaglio (Lakoff & Johnson, 1980; 1999);
+                d) immaginazione, memoria e ragionamento: 
+                    anche questi processi cognitivi di ordine superiore dipendono da azioni incorporate 
+                    che possono occorrere in tempo reale, 
+                    nel caso delle nostre interazioni immediate con l’ambiente durante l’esecuzione di compiti cognitivi complessi, 
+                    o off-line, qualora il compito non venga effettivamente eseguito, 
+                    ma solo immaginato o ricordato. 
+                    L’imitazione incorporata delle azioni altrui svolge inoltre 
+                    un ruolo non secondario nella cognizione sociale e presuppone l’esistenza di un meccanismo di risonanza 
+                    – i neuroni-specchio – che ci consente di riconoscere in modo immediato prima di ogni inferenza 
+                    gli altri in quanto persone simili a noi (Gallese & Goldman, 1998; Rizzolati & Sinigaglia, 2006);
+                e) linguaggio e comunicazione:
+                    il significato non è un’entità astratta codificata a livello profondo in un “linguaggio del pensiero”, 
+                    in cui vengono tradotte le informazioni fisiche provenienti dal mondo esterno, 
+                    né il linguaggio può essere spiegato soltanto sulla base 
+                        della corrispondenza arbitraria di simboli disincarnati alle entità del mondo esterno
+                    e delle regole composizionali che presiedono alla loro combinazione nella produzione di enunciati.
+                    Tanto all’apprendimento del linguaggio quanto al suo esercizio 
+                        prendono parte esperienze percettive e concettuali relative al contesto in cui gli enunciati sono prodotti 
+                        che rilevano da pattern di attività incorporata 
+                In conclusione, come anche questa breve rassegna sembra in grado di suggerire, 
+                    il paradigma embodied sembra promettere non solo sul piano delle enunciazioni teoriche
+                    ma anche su quello della ricerca sperimentale 
+                    una visione maggiormente aderente alla complessità e alla concretezza 
+                    delle interazioni tra gli agenti cognitivi e il loro ambiente, 
+                    e una spiegazione più plausibile del modo in cui vengono a generarsi 
+                    l’autoconsapevolezza e il senso del proprio sé personale. 
+                Quest’approccio si contraddistingue inoltre per il suo valore euristico, 
+                    nel momento in cui è capace di dare conto entro un’ottica integrata e 
+                    in modo empiricamente plausibile 
+                    di un ampio spettro di fenomeni, e per la sua capacità di chiamare in causa, 
+                    come del resto è avvenuto per la scienza cognitiva di prima e seconda generazione, 
+                    uno spettro estremamente ampio di discipline, 
+                    in cui confluiscono l’analisi descrittiva fenomenologica, 
+                    la filosofia della mente, 
+                    la biologia evoluzionistica, 
+                    le neuroscienze, 
+                    la psicologia dello sviluppo e 
+                    la robotica di ultima generazione, 
+                        incentrata sull’ambizioso programma di ricerca sull’Artificial Life. 
+                Un limite difficilmente aggirabile, 
+                    di cui l’embodied cognition è affetta soprattutto nelle sue versioni più radicali, 
+                    consiste tuttavia nell’aver voluto sottoporre a una condanna senza appello 
+                    affrettata e per molti versi non giustificata 
+                    la nozione di rappresentazione, 
+                    precludendosi così la possibilità di spiegare compiutamente 
+                    aspetti della cognizione quali il problem solving, 
+                    il decision making, 
+                    il ragionamento e 
+                    il calcolo deduttivo-inferenziale
+                    e l’immaginazione controfattuale (Wilson & Foglia, 2011; Shapiro, 2011). 
+                È un fatto che per indagare esaustivamente l’origine di questi fenomeni 
+                    l’azione incorporata e i pattern ricorrenti di attivazione sensori-motoria 
+                    costituiscono una base empirica troppo esile e 
+                    che i modelli rappresentazionali e simbolici tradizionali 
+                    possono cooperare con quelli embodied in un’ottica integrata, 
+                    come suggerito dal “rappresentazionalismo minimale” propugnato da Clark (1997: 174-175), 
+                    secondo cui le rappresentazioni sono strutture semplici, 
+                    localizzate nello spazio e nel tempo, 
+                    codificate secondo molteplici formati e orientate all’azione.
+                Non è necessario postulare un linguaggio del pensiero o del cervello che 
+                    codifichi le informazioni secondo il medesimo formato e in tutte le specificazioni possibili, 
+                    dato che gli eventi interni possono includere sia i processi neurali 
+                    che possono essere spiegati con l’ausilio della teoria dei sistemi dinamici, 
+                    ma anche strutture rappresentazionali interne nel senso classico.
+
+3.
+    Studiare la cultura è stata da sempre una caratteristica propria degli antropologi e 
+    più in generale delle scienze sociali. 
+    Tuttavia, se si esamina come le scienze sociali affrontano la cultura 
+    si nota l’assenza di una definizione che metta d’accordo gli studiosi. 
+    Su una cosa in effetti concordano, ossia nel considerare il loro oggetto di studio 
+    svincolato dalla biologia degli individui e autonomo rispetto alle loro caratteristiche psicologiche. 
+    L’idea reiterata dalle scienze sociali è che le creature umane siano animali culturali, 
+    ossia che tutto ciò che caratterizza il nostro comportamento sia determinato dalle pratiche sociali che veicolano
+    la trasmissione di valori e credenze (il linguaggio verbale rappresenta il meccanismo principale di trasmissione),
+    escludendo qualsiasi considerazione di natura biologica e psicologica. 
+    I fatti culturali sono, secondo questa visione, autonomi. 
+    Siamo di fronte, dunque, a una prospettiva che non si cura di ciò che costituisce i singoli individui, 
+    ma si sbilanciata verso le pratiche collettive che caratterizzano i gruppi sociali. 
+    Scrive Émile Durkheim: «Vi sono […] modi di agire, di pensare e di sentire 
+        che presentano la notevole proprietà di esistere al di fuori delle coscienze individuali»
+        (trad. it., 1963: 25). 
+    I doveri dettati dai costumi e dal diritto,
+        le credenze e le pratiche della vita religiosa, 
+        il sistema dei segni che ciascuno di noi utilizza per esprimersi, 
+        il sistema,monetario sono cose che esistono prima dell’individuo
+        proprio «perché esistono al di fuori di lui». 
+    Si delinea così da un lato un mondo culturale completamente privo di vincoli con gli esseri umani in carne e ossa, 
+        dall’altro un modo di procedere dell’indagine scientifica 
+        caratterizzata profondamente dalla separazione tra fatti sociali e biologici. 
+    John Tooby e Leda Cosmides (1992) si riferiscono a una simile prospettiva 
+        che giunge a una concezione dualistica della natura umana usando l’espressione 
+        “Metodo standard delle scienze sociali” (MSSS). 
+    È immediatamente chiaro quale genere di problema emerga da una concezione dualista. 
+    Il problema è il seguente: 
+        come interagiscono i due fenomeni? 
+        Chi adotta la prospettiva del MSSS sostiene che 
+            è l’agire nella società che consente agli individui di introiettare la complessità dell’organizzazione culturale
+            che si agita fuori di lui 
+            dal momento che i fatti sociali dispongono di un notevole potere coercitivo. 
+    Scrive ancora Durkheim:
+        Indubbiamente, quando mi conformo ad essi di mia spontanea volontà, questa coercizione non si fa sentire, 
+        o si fa sentire poco, perché è inutile. 
+        Ma essa rimane tuttavia un carattere intrinseco di tali fatti. […] 
+        Essi consistono in modi di agire, di pensare e di sentire esterni all’individuo, 
+        e dotati di un potere di coercizione in virtù del quale si impongono ad esso. 
+        Di conseguenza essi non possono venire confusi né con i fenomeni organici, 
+        in quanto consistono di rappresentazioni e di azioni,
+        né con i fenomeni psichici, 
+        i quali esistono soltanto nella e mediante la coscienza individuale. 
+        Essi costituiscono quindi una nuova specie, 
+        e a essi soltanto deve essere data e riservata la qualifica di sociali (trad. it., 1963: 27).
+    È chiaro come in un siffatto modello che porta con sé un esplicito riferimento al primato dei fattori educativi e ambientali 
+    occorra analizzare, seppur brevemente, il modello di apprendimento a cui si fa riferimento, ossia l’associazionismo. 
+    Per il modello associazionista 
+        la mente è una tabula rasa su cui la cultura imprime i contenuti. 
+        La natura umana, proprio perchè priva di determinazioni cognitive interne, 
+        si classificherebbe come incompleta, plastica e duttile. 
+    L’esperienza assume un ruolo centrale e si sostiene che 
+        tutto ciò che caratterizza le creature umane sia da ascrivere ai processi di apprendimento. 
+    La cultura diventa qualcosa che si apprende. 
+    Questo sancisce una sorta di primato dei fattori esterni all’individuo e 
+        una concezione della mente priva di qualsiasi tipo di determinazione interna. 
+    Un simile modello, tuttavia, non sembra plausibile da un punto di vista cognitivo. 
+    Resta, infatti, inevasa la domanda su che genere di architettura cognitiva debba possedere un individuo 
+        perché il modello proposto dai sostenitori del MSSS funzioni. 
+    Proviamo a fornire un esempio prototipico utile a spiegare questa affermazione. 
+    Coloro che sostengono il MSSS considerano il linguaggio uno strumento grazie al quale 
+        è possibile la trasmissione dei fatti sociali. 
+    Sia nella filogenesi che nell’ontogenesi si assiste ad un forte legame tra linguaggio e cultura. 
+    Nella filogenesi, infatti, la presenza della cultura sembra coincidere con la nascita del linguaggio (Deacon, 1997; Tattersal, 1998) 
+    e se il nostro sguardo si sposta sull’ontogenesi notiamo che 
+    nello sviluppo individuale acquisire un linguaggio significa 
+    fare proprie e comprendere le pratiche sociali e dunque la cultura in cui si è immersi. 
+    Per questo motivo l’analisi dell’acquisizione del linguaggio 
+        sembra essere un ottimo banco di prova per la plausibilità cognitiva del modello culturalista 
+        dal momento che ne costituisce uno degli esempi maggiormente perspicui. 
+    Il lessico è senz’altro un aspetto del linguaggio che è sicuramente appreso. 
+    La conoscenza del significato delle parole, infatti, 
+    rappresenta «il caso di apprendimento più chiaro che si possa immaginare. 
+        Nessuno nasce con la conoscenza del significato della parola inglese rabbit» (Bloom, 2000:15).
+    Tuttavia l’associazionismo empiristico non è affatto una strada promettente. 
+    La maggioranza dei risultati che provengono dalla psicologia dello sviluppo, infatti, 
+        mal si accordano con questo genere di modelli di acquisizione lessicale 
+        sostenuti dall’idea di una mente povera e priva di alcun tipo di determinazione. 
+    Sembra alquanto lontano dalla realtà dei fatti che un bambino impari il significato della parola “coniglio” 
+    perché fa caso al fatto che la parola è pronunciata in presenza di conigli. 
+    Le parole normalmente non sono usate in presenza dei loro referenti. 
+    Secondo lo psicologo Paul Bloom l’apprendimento del lessico è affidato 
+    oltre a varie capacità come comprendere la struttura sintattica delle frasi, acquisire concetti, avere memoria e altre capacità simili, 
+    soprattutto al possesso di una teoria della mente, 
+    ossia alla capacità di mettersi nei panni degli altri e di inferirne le intenzioni 
+    (nel caso dell’acquisizione del lessico, Bloom si riferisce a intenzioni referenziali). 
+    La conseguenza di tutto ciò è che le creature umane 
+    sia per apprendere il linguaggio e la cultura sia per la loro trasmissione 
+    necessitano di una architettura cognitiva complessa e innata. 
+    Lo studio comparato delle culture, inoltre, fa emergere la presenza di 
+    un set ricco di emozioni, comportamenti, visioni del mondo, 
+    di ciò che possiamo definire “universali” umani. 
+    Con lo sviluppo delle tecniche di neuroimaging è stato possibile migliorare 
+    la conoscenza di sezioni del cervello coinvolte in compiti specifici, 
+    come l’elaborazione sensoriale, l’attenzione, la memoria e i processi decisionali. 
+    I progressi delle neuroscienze stanno mostrando sempre di più come 
+    l’intricata e elaborata architettura cognitiva sia influenzata da fattori genetici. 
+    Scrive Richard Dawkins nell’incipit de Il gene egoista:
+        La vita intelligente su di un pianeta diventa tale quando, 
+        per la prima volta, elabora una ragione della propria esistenza. 
+        Se delle creature superiori provenienti dallo spazio mai visiteranno la Terra, 
+        la prima cosa che domanderanno, per stabilire il nostro livello di civilizzazione, sarà: 
+        “Hanno già scoperto l’evoluzione?”. 
+    Organismi viventi sono esistiti sulla terra senza mai sapere perché, 
+    per più di tre miliardi di anni prima che uno di essi cominciasse a intravedere la verità. 
+    Il suo nome era Charles Darwin (trad. it., 1992, p.19).
+    Dello stesso parere sembra essere Michael Shermer, 
+        biologo sperimentale e professore di economia alla Claremont Graduate University 
+        che nel suo Why Darwin Matters: The Case Against Intelligent Design (2006) 
+        attribuisce un ruolo centrale all’evoluzionismo per il progresso della conoscenza scientifica. 
+    Dalle parole di Shemer: 
+        «Darwin è importante perché l’evoluzione è importante. 
+        L’evoluzione è importante perché la scienza è importante. 
+        La scienza è importante perché rappresenta la storia fondante del nostro tempo,
+        una saga epica che ci racconta chi siamo, 
+        da dove veniamo e dove stiamo andando». 
+    Viviamo in un universo pieno di meraviglie e di stravaganze, 
+        i cui misteri la scienza sta contribuendo a svelare. 
+    Una di queste meraviglie è l’evoluzione, un concetto tanto affascinante quanto controverso e dibattuto. 
+    La causa delle numerose controversie crediamo risieda in un motivo ben preciso: 
+        nessun fatto, nessuna indagine scientifica ci coinvolge in prima persona 
+        come la teoria dell’evoluzione per selezione naturale. 
+    «Ciò di cui si è una piccola parte non può essere né un mezzo per sé, né un fine al di là di sé» 
+    scrive Telmo Pievani ne La vita inaspettata (2011: 232). 
+    E «ciò di cui si è una piccola parte» siamo noi, creature umane, 
+    profondamente convinti che l’intelletto sia l’unico scopo di questo mondo e ossessionati dal nostro posto nell’universo. 
+    L’evoluzione avvicina, in un’unica catena dell’essere, tutte le creature quelle ancora viventi e
+    quelle scomparse già da molto tempo e 
+    ci insegna non solo che siamo tutti imparentati, 
+    ma che siamo anche il prodotto di forze impersonali e cieche.
+    Questo aspetto, da alcuni celebrato e da altri scetticamente respinto, 
+        rappresenta il cuore dell’evoluzione che Charles Darwin nel capitolo conclusivo dell’Origine delle specie (1859) descrive con queste parole:
+        Vi è qualcosa di meraviglioso in questa concezione della vita, 
+        con le sue molte capacità, 
+        che inizialmente fu data a poche forme o a una sola e che, 
+        mentre il pianeta seguita a girare secondo la legge immutabile della gravità, 
+        si è evoluta e si evolve, 
+        partendo da inizi così semplici, 
+        fino a creare infinite forme estremamente bellissime e meravigliose (Darwin, 1859, trad. it. pp. 553-4).
+    Ogni cosa ha avuto una storia e quando saremo in grado di osservare ciò che ci circonda in questo modo
+        diventerà più interessante lo studio della storia naturale.
+    Quando parliamo di ‘evoluzione’ non facciamo riferimento solo alla bellezza e alla semplicità di un’idea e di un’intuizione 
+    ma ci riferiamo ad un fatto concreto che, nel corso del tempo, i biologi hanno contribuito a spiegare e a dimostrare. 
+    Psicologia e biologia, pur non condividendo una medesima prospettiva, 
+    hanno in comune l’attenzione al legame tra corpi e comportamenti (Baldwin, Piaget, Koffka) e 
+    al modo in cui questi elementi interagiscono e si relazionano tra loro. 
+    La psicologia, secondo Piaget (1977) ha origine proprio quando l’organismo manifesta un comportamento 
+    rispetto a certe situazioni esterne e risolve dei problemi. 
+    Gli psicologi, dunque, mettono al vertice della loro indagine un particolare aspetto del comportamento vale a dire il “mentale”. 
+    Il diffondersi dell’evoluzionismo ha favorito la nascita di un nuovo tipo di psicologia definita evoluzionistica. 
+    È lo stesso Darwin a indicare la strada futura derivante dall’applicare la sua teoria 
+    e i suoi principi all’indagine della natura umana universale e 
+    lo fa nel capitolo conclusivo dell’Origine delle specie:
+    Per l’avvenire vedo campi aperti a più importanti ricerche,
+    la psicologia sarà sicuramente basata su nuove fondamenta, 
+    quelle della necessaria acquisizione di ciascuna facoltà e capacità mentale per gradi. 
+    Molta luce si farà sulla origine dell’uomo e sulla sua storia (Darwin, 1859, trad. it. p. 552).
+    Secondo Darwin la psicologia avrà una nuova fondazione 
+    che si baserà sui principi propri della selezione naturale responsabili dell’evoluzione delle capacità umane. 
+    Se le nostre capacità cognitive si sono evolute al pari dell’andatura bipede e della postura che ci caratterizzano, 
+    esse sono soggette, dunque, alla selezione naturale. 
+    In un certo senso questo potrebbe essere considerato un modo piuttosto minimalista di declinare la nuova psicologia ma, 
+    se vogliamo, è proprio questo senso che crediamo non susciti disaccordo fra gli studiosi 
+    o fra coloro che fanno propria la teoria della selezione naturale e 
+    la straordinaria rivoluzione intellettuale che essa porta con sé. 
+    La psicologia evoluzionistica è caratterizzata da particolari interrogativi 
+    incentrati sull’origine della mente umana (Buller, 2005) e
+    viene ritenuta una sorta di paradigma unificante che sarebbe in grado di spiegare 
+    come nel corso della storia si siano evolute le diverse funzioni della cognizione umana.
+    Essa è un particolare tipo di approccio alle scienze psicologiche in cui i principi guida 
+    e i risultati derivanti dalla biologia evoluzionistica, 
+    dalle scienze cognitive, 
+    dall’antropologia e 
+    dalle neuroscienze 
+    vengono integrati con la psicologia con un fine ben preciso, 
+    ossia dare vita a una mappatura della natura umana. 
+    Con il termine “natura umana”, gli psicologi evoluzionisti si riferiscono 
+    all’individuazione di tutto ciò che caratterizza l’architettura computazionale e neurale della mente e del cervello 
+    tipica delle creature umane. 
+    Secondo tale visione, 
+    le componenti funzionali dell’architettura cognitiva sono state progettate dalla selezione naturale 
+    per risolvere i problemi adattativi che i nostri progenitori si sono trovati di fronte
+    e per regolare il comportamento in modo tale da affrontare tali problemi con successo. 
+    La conoscenza del contesto evolutivo dei fenomeni psicologici contribuirà, 
+    secondo la PE, alla comprensione dei fenomeni stessi. 
+    L’antropologo americano John Tooby e sua moglie, la psicologa evoluzionista Leda Cosmides, 
+    due dei principali rappresentanti di questo campo di studi, 
+    hanno definito la psicologia evoluzionistica come 
+    «l’applicazione della logica adattazionista allo studio dell’architettura della mente umana» (1997, p. 14). 
+    L’approccio evoluzionistico, infatti, 
+    è l’unico all’interno delle scienze sociali che spiega perché le persone fanno ciò che fanno. 
+    Proprio per questo la psicologia evoluzionistica sembra smascherare le ipocrisie tipiche della specie umana 
+    indagando cosa sta dietro alle nozioni delle quali ci serviamo 
+    per descrivere i valori morali e sociali ai quali ci appelliamo, 
+    rivelando il lato più oscuro della nostra natura.
+
+    book
+        author Barsalou, L. W.
+        year 2008 
+        title Grounded Cognition. Annual Review of Psychology, 59, 617-645.
+    book
+        author Barsalou, L. W., (2009). 
+        title Simulation, Situated Conceptualization, and Prediction. Philosophical Transactions of the Royal Society of London: Biological Sciences, 364, 1281–1289.
+    book
+        author Bloom, P (2000). 
+        title How Children Learn the Meanings of Words. 
+        edition Cambridge: MIT Press.
+    book
+        author Buller, D.J. (2005). 
+        title Evolutionary Psychology: The imperior’s New Paradigm. Trend in Cognitive Sciences, 9, 277-283.
+    book
+        author Clark, A. (1997). 
+        title Being There. Putting Brain, Body, and World Together Again
+        edition Cambridge (MA): MIT Press
+    book
+        author Darwin, C. (1859). 
+        title On the Origin of Species by Means of Natural Selection, or the Preservation of Favoured Races in the Struggle for Life. 
+        edition London: Murray 
+        trad 
+            year 1967
+            title L’origine delle specie
+            edition Bollati Boringhieri: Torino
+    book
+        author Dawkins, R. 
+        year 1976 
+        title The Selfish Gene
+        edition Oxford: Oxford University Press
+        trad
+            year 1992
+            title Il gene egoista
+            edition Milano: Mondadori
+    book
+        author Deacon, T. 
+        year 1997 
+        title The Symbolic Species. The Co-Evolution of Language and Brain. 
+        edition New York: Norton
+        trad
+            year 2001
+            title La specie simbolica. Coevoluzione di cervello e capacità linguistiche. 
+            edition Roma: Fioriti
+    book
+        author Dreyfus, H. 
+        year 1972 
+        title What Computer Can’t Do. 
+        edition New York: Harper & Row
+    book
+        author Dreyfus, H.
+        year 1992 
+        title What Computers Still Can’t Do: A Critique of Artificial Reason. 
+        edition Cambridge, Mass: MIT Press
+    book
+        author Durkheim, E.
+        year 1895 
+        title Les règles de la méthode sociolocique
+        edition Paris: F.Alcan
+        trad
+            year 1963
+            title Le regole del metodo sociologico. 
+            edition Milano: Edizioni di Comunità
+    book
+        author Fodor, J. A. 
+        year 1983 
+        title Modularity of Mind: An Essay on Faculty Psychology. 
+        edition Cambridge, Mass.: MIT Press
+        trad
+            year 1999
+            title La mente modulare. Saggio di psicologia delle facoltà. 
+            edition Bologna: il Mulino
+    book
+        author Fodor, J. A. 
+        author Pylyshyn, Z. W. 
+        year 1988 
+        title Connectionism and Cognitive Architecture: A Critical Analysis. Cognition, 28, 3-71.
+    book
+        author Franceschelli, O. 
+        year 2009 
+        title Darwin e l’anima. L’evoluzione dell’uomo e i suoi nemici. 
+        edition Roma: Donzelli
+    book
+        author Gallese, V.
+        author Goldman, A. 
+        year 1998 
+        title Mirror Neurons and the Simulation Theory of Mind-Reading. Trends in Cognitive Sciences, 12, 493-501.
+    book
+        author Gibbs, R. (2005). 
+        title Embodiment and Cognitive Science. 
+        edition Cambridge (MA): Cambridge University Press
+    book
+        author Gibson, J. J. 
+        year 1979 
+        title The Ecological Approach to Visual Perception. 
+        edition Boston: Houghton Mifflin
+        trad
+            year 1999
+            title Un approccio ecologico alla percezione visiva
+            edition Bologna: il Mulino
+    book
+        author Heidegger, M.
+        year 1927
+        title Seit und Zeit 
+        edition Tübingen: Niemeyer
+        trad
+            year 1976
+            title Essere e tempo
+            edition Milano: Longanesi
+    book
+        author Husserl, E. 
+        year 1952 
+        title Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie. Zweites Buch: Phänomenologische Untersuchungen zur Konstitution. 
+        In Biemel, W. (ed.). Husserliana, vol. 4. Dordrecht-Boston-London: Kluwer, 
+        trad
+            year 2002
+            title Idee per una fenomenologia pura e per una filosofia fenomenologica. Libro secondo: ricerche fenomenologiche sopra la costituzione. 
+            edition Torino: Einaudi 
+    book
+        author Lakoff, G.
+        author Johnson, M. 
+        year 1980 
+        title Metaphors We Live By. 
+        edition Chicago: University of Chicago Press
+        trad
+            year 1989
+            title Metafore e vita quotidiana. 
+            edition Milano: Bompiani.
+    book
+        author Lakoff, G.
+        author Johnson, M. 
+        year 1999 
+        title Philosophy in the Flesh: The Embodied Mind and its Challenge to Western Thought.
+        edition New York: Basic Books
+    book
+        author McCulloch, W.
+        author Pitts, W. 
+        edition 1943 
+        title A Logical Calculus of the Ideas Immanent in Nervous Activity. Bulletin of Mathematical Biophysics, 7, 115-133.
+    book
+        author Merleau-Ponty, M. 
+        year 1945 
+        title Phénoménologie de la perception. 
+        edition Paris: Gallimard
+        trad
+            year 2003
+            title Fenomenologia della percezione. 
+            edition Milano: Bompiani.
+    book
+        author Newell, A.
+        author Simon, H. A. 
+        edition 1972 
+        title Human Problem Solving, Englewood Cliffs, 
+        edition NJ: Prentice-Hall.
+    book
+        author Noë, A. 
+        year 2004 
+        title Action in Perception. Cambridge, Mass.: MIT Press.
+    book
+        author Noë, A. 
+        year 2009 
+        title Out of Our Heads: Why You Are Not Your Brain, and Other Lessons from the Biology of Consciousness: New York: Simon & Schuster, trad. it. Noë, A. (2010). Perché non siamo il nostro cervello. Una teoria radicale della coscienza. Milano: Cortina.
+    book
+        author O’Regan, J. K.
+        author Noë, A. 
+        year 2001 
+        title A Sensorimotor Account of Vision and Visual Consciousness. Behavioral and Brain Sciences, 25, 4, 883-975.
+    book
+        author Pievani, T. 
+        year 2011 
+        title La vita inaspettata. Il fascino di un’evoluzione che non ci aveva previsto. Milano: Raffaello Cortina. 
+    book
+        author Rizzolatti, G.
+        author Sinigaglia, C. 
+        year 2006 
+        title So quel che fai. Il cervello che agisce e i neuroni specchio, Milano: Raffaello Cortina.
+    book
+        author Shapiro, L. 
+        year 2011 
+        title Embodied Cognition. New York: Routledge.
+    book
+        author Shermer, M. 
+        year 2006 
+        title Why Darwin Matters: The Case Against Intelligent Design. New York: Owl Books.
+    book
+        author Tattersal, I. 
+        year 1998 
+        title Becoming Human. New York: Harcourt Brace, trad. it. Tattersal, I. (2004). Il cammino dell’uomo. Garzanti: Milano.
+    book
+        author Thompson, E. 
+        year 2007 
+        title Mind in Life. Biology, Phenomenology and the Sciences of the Mind, Cambridge, Mass.-London: Harvard University Press.
+    book
+        author Tooby, J.
+        author Cosmides, L. 
+        year 1997 
+        title Evolutionary Psychology: A Primer. Disponibile on line: http://www.psych.ucsb.edu/research/cep/primer.html
+    book
+        author Tooby, J.
+        author Cosmides, L. 
+        year 1992 
+        title Cognitive Adaptations for Social Exchange. In Barkow, J., Cosmides, L., Tooby, J. (eds.). (1992),  The Adapted Mind. New York: Oxford University.
+    book
+        author Varela, F. J. 
+        year 1992 
+        title Kognitionswissenschaft – Kognitionstechnik. Eine Skizze aktueller Perspektiven. Frankfurt a. M.: Suhrkamp.
+    book
+        author Varela, F. J.
+        author Thompson
+        author Rosch, E. 
+        year 1991 
+        title The Embodied Mind. Cognitive Science and Human Experience. Cambridge, Mass.: MIT Press, trad. it. Varela, F. J., Thompson, & Rosch, E. (1992). La via di mezzo della conoscenza. Le scienze cognitive alla prova dell’esperienza. Milano: Feltrinelli.
+    book
+        author Wilson, R. A.
+        author Foglia, L 
+        year 2011
+        title Embodied Cognition. In Zalta,  E.N. (eds.), The Stanford Encyclopedia of Philosophy, (Fall 2011 Edition), <http://plato.stanford.edu/archives/fall2011/entries/embodied-cognition/>.

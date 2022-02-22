@@ -1,0 +1,63 @@
+$group
+    {
+        title "Il programma Nati per Leggere"
+        source "presentazioni PP/Mirandola 2015 NpL e pediatri"
+        [ slides
+        [ lines
+            "Nati per leggere è un programma che promuove la lettura ad alta voce da parte dei genitori ai bambini da 0 a 5 anni"
+            "E' un programma nazionale con più di 800 progetti locali che coinvolgono più di 2000 comuni"
+            "E’ stato avviato nel 1999 dall’Associazione Culturale Pediatri (ACP), dall’Associazione Italiana Biblioteche (AIB) e dal Centro per la Salute del Bambino (CSB)"
+            "Si realizza attraverso l’impegno di pediatri, bibliotecari, lettori volontari, educatori e altri operatori per l’infanzia"
+    {
+        title "La “lettura precoce” come pratica per la salute"
+        source "Presentazioni PP/2018/Modena 11 Maggio Pediatri"
+        [ slides
+        [ lines
+            "La promozione della lettura in famiglia è l’attività più efficace che il pediatra può svolgere per promuovere lo sviluppo del bambino."
+            "American Academy of Pediatrics, raccomandata da OMS, UNICEF" 
+    {
+        title "Perché è importante la lettura ad alta voce?"
+        source "Presentazioni PP/2009-2015/Benefici NpL Febbraio 2013"
+        [ slides
+        [ lines
+            "L’ utilizzo delle competenze cognitive associate alla lettura, quali memoria, creatività, comprensione e linguaggio, assicura lo sviluppo e la persistenza di specifiche connessioni neuronali"
+            "Questi costrutti e le relative funzioni permangono imprinted con effetti duraturi nel corso della vita"
+    {
+        title "Perché intervenire precocemente?"
+        source "Presentazioni PP/2009-2015/Benefici NpL Febbraio 2013"
+        [ slides
+        [ lines
+            "Le prime epoche della vita, dallo sviluppo 
+                \b embrio-fetale ai primi anni di vita, sono cruciali
+                \b per lo sviluppo delle competenze e della capacità
+                \b di acquisirne delle nuove, a causa del
+                \b modellamento precoce delle basi neurobiologiche
+                \b di funzioni quali il linguaggio e la relazione."
+    {
+        title "Emergent literacy"
+        source "2012/Reggio 23 Maggio 2012 Consultori"
+        [ slides
+        [ lines
+            "Literacy: Competenze alfabetiche funzionali"
+            "Definizione Unesco:la capacità di identificare,capire,interpretare,creare,
+                \b comunicare,elaborare ed usare materiale stampato e scritto nei differenti contesti ambientali."
+            "Emergent Literacy: abilità che un bambino deve sviluppare prima di imparare a leggere e scrivere"
+
+    {
+        title "Competenze sviluppate durante la Emergent literacy"
+        source "Presentazioni PP/2009-2015/NPL-NPM Formatori RE 1Aprile2014"
+        [ slides
+        [ lines
+            "Vocabolario: conoscenza dei nomi delle cose."
+            "Motivazione al testo scritto: provare interesse e piacere nei libri."
+            "Conoscenza delle convenzioni e della funzione del testo scritto: si legge da sinistra a destra, serve per descrivere, raccontare, ecc.."
+            "Competenze narrative: sapere descrivere cose e fatti, raccontare storie, ..."
+            "Conoscenza dell’alfabeto: conoscere il nome delle lettere e il suono associato."
+            "Competenze fonologiche: sapere individuare le sillabe delle parole udite e sapere “giocarci” nel parlare."
+    {
+        title "Lettura e sviluppo bambino"
+        source "NpL_1_Roma 24 Febbraio 2022"
+        [ lines
+        [ slides
+            "${imgurl}/slide lettura e sviluppo bambino.jpg"
+

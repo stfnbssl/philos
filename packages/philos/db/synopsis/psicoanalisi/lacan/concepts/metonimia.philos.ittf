@@ -1,0 +1,13 @@
+$group
+
+    namespace lacan
+
+        concept metonimia
+
+            quote
+                + A differenza della metafora la metonimia non ha bisogno di un Altro che la autentichi
+                    \b ... Essa funziona al contrario su un livellamento che permette di passare dal mangiare al parlare, dal parlare allo scopare e così via. 
+                    \b La metonimia funziona cioè su un livellamento e una cancellazione del senso. 
+                    \b A questo riguardo l'Altro può non capirci niente, può anche dormire durante la metonimia.
+                book miller.capisaldi-dell-insegnamento-di-lacan
+                page 143

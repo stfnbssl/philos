@@ -1,0 +1,25 @@
+$group
+    {
+        title "Gli investimenti nel capitale umano sono  tanto più efficaci quanto più precoci"
+        source "NpL_1_Roma 24 Febbraio 2022"
+        [ slides
+            "${imgurl}/slide, investimenti nel capitale umano.jpg"
+        [ lines
+    {
+        title "L’importanza dell’ambiente familiare rispetto al  patrimonio genetico: un ambiente stimolante può “pesare” più delle capacità innate"
+        source "NpL_1_Roma 24 Febbraio 2022"
+        [ slides
+            "${imgurl}/slide, importanza ambiente familiare.jpg"
+        [ lines
+    {
+        title "Basso livello di istruzione = condizione  occupazionale instabile ed entrate basse"
+        source "NpL_1_Roma 24 Febbraio 2022"
+        [ slides
+            "${imgurl}/slide, basso livello istruzione.jpg"
+        [ lines
+    {
+        title "Disuguaglianze sociali e literacy: piccole differenze iniziali, grandi differenze dopo pochi anni, stabili differenze dopo molti anni"
+        source "NpL 2012/Benefici NpL neuroscienze 2012"
+        [ slides
+            "${imgurl}/slide, disuguaglianze sociali e literacy.jpg"
+        [ lines

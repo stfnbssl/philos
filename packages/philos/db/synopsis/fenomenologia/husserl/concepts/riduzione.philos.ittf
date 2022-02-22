@@ -1,0 +1,6 @@
+$group
+
+    namespace husserl
+
+        concept riduzione
+            title riduzione fenomenologica

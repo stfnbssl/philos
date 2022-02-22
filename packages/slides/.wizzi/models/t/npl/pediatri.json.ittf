@@ -1,0 +1,43 @@
+$group
+    {
+        title "Cosa possono fare i Pediatri 1"
+        source "Presentazioni PP/2018/Modena 11 Maggio Pediatri"
+        [ slides
+        [ lines
+            "Avere libri sulla scrivania:"
+            "L'uccellino fa"
+            "Guarda che faccia"
+            "La rabbia"
+            "10 dita nelle mani 10 dita nei piedini"
+            "Oh, che uovo"
+    {
+        title "Cosa possono fare i Pediatri 2"
+        source "Presentazioni PP/2018/Modena 11 Maggio Pediatri"
+        [ slides
+        [ lines
+            "Comunicare con il bambino"
+            "Catturare lo sguardo (intercettazione di comportamenti autistici)‏"
+            "Valutare i momenti di attenzione comuni bambino-genitore (attenzione alla depressione materna e paterna)‏"
+            "Osservare l'imitazione di gesti e comportamenti genitoriali  (Neuroni a specchio, condivisione,comportamento iperattivo)"
+            "Individuare i bambini che non hanno dimestichezza con i libri ( non li tengono in mano, si distraggono subito, non lo aprono...)"
+    {
+        title "Cosa possono fare i Pediatri 3"
+        source "Presentazioni PP/2018/Modena 11 Maggio Pediatri"
+        [ slides
+        [ lines
+            "Comunicare con il genitore"
+            "Utilizzare momenti di difficoltà del bambino come il pianto o la rabbia per mostrare: Guarda che faccia con le espressioni emotive del bambino."
+            "Indicare con le dita le immagini e invitare il genitore a fare lo stesso"
+            "Chiedere al genitore se ama leggere oppure non è abituato a farlo"
+            "Chiedere: qual'è la cosa che fanno volentieri in casa con il loro bambino nei momenti di relax: tele,video..e dalla risposta incoraggiare alle pratica quotidiana della lettura"
+            "Coinvolgere i papà dicendo che leggere divertendosi aumenta l'intelligenza, la memoria e sarà utile per il successo scolastico"
+            "Ricordare che vi sono libri adatti ad ogni età e fornire informazioni"
+    {
+        title "Cosa possono fare i Pediatri 4"
+        source "Presentazioni PP/2018/Modena 11 Maggio Pediatri"
+        [ slides
+        [ lines
+            "Fornire Informazioni su NpL"
+            "Iniziare ad informare il più precocemente possibile (corsi preparto, punti nascita,‏ bilanci di salute)"
+            "Sostenere la lettura con informazioni sul comportamento del bambino e cosa aspettarsi nelle varie età: i genitori sono grati quando vengono rassicurati sulle performance del loro bambino"
+

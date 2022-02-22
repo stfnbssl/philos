@@ -28,10 +28,21 @@ $group
         url http://miquelbassols.blogspot.it/2014/02/fantasma-e-reale-nella-clinica-lacaniana.html
         edition 2014
 
+    book cavallari.le-matrici-discorsive-della-soggettività
+        author Cavallari Carlo
+        title Le matrici discorsive della soggettività. Linguaggio, potere, etica in Michel Foucault e Jacques Lacan.
+        url http://paduaresearch.cab.unipd.it/6627/1/Claudio_Cavallari_tesi.pdf
+        edition
+    
     book chemama-vandermesch.dizionario-di-psicoanalisi
         title Dizionario di Psicoanalisi
         author Chemama & Vandermesch
         edition Roma: Gremese Edizioni, 2004
+
+    article diciaccia.il-godimento-in-lacan
+        author DiCiaccia
+        title Il godimento in Lacan
+        url http://www.lapsicoanalisi.it/il-godimento-in-lacan/
 
     article deluca-picione.il-fantasma-in-psicoanalisi-un-dispositivo
         author Raffaele De Luca Picione
@@ -141,6 +152,11 @@ $group
         title Un Edipo di meno. Freud, Lacan, e la castrazione del padre
         url http://website.lacan-con-freud.it/ar/dossier8_padre_ideale/mm_un_edipo_di_meno_EAR.pdf
     
+    book miller.capisaldi-dell-insegnamento-di-lacan
+        author Miller
+        title Capisaldi dell'insegnamento di Lacan
+        edition Casa Editrice Astrolabio, 2021
+
     article miller.presentazione-del-seminario-VI
         author Miller
         title Presentazione del Seminario VI. Conferenza pubblicata in due parti nella rivista telematica Latigazo.

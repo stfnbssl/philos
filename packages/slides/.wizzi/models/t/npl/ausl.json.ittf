@@ -1,0 +1,12 @@
+$group
+    {
+        title "Azienda USL spetta il compito"
+        source "presentazione PP/2009-2015/Buone pratiche 25 Ottobre 2014"
+        [ slides
+        [ lines
+            "Collaborare ai lavori e alle iniziative del coordinamento provinciale (NPL);"
+            "proporre materiale informativo e proposte di lettura per i genitori, in occasione dei corsi di preparazione al parto presso punti nascita, servizi vaccinali,sale d'attesa degli ambulatori dei PLS;"
+            "promuovere NpL e NpM (Nati per la Musica)nei piani formativi dei Pediatri di libera scelta insieme alle altre azioni proposte dalla campagna Genitori più"
+            "favorire la distribuzione di segnalibri con proposte di lettura ai Bilanci di salute dei PLS"
+            "promuovere la presenza di lettori volontari presso le sale d'attesa dei PlS ,delle sedi vaccinali,delle Pediatrie Ospedaliere e Neonatologie"
+            "sostenere Progetti di ricerca,nell'ambito delle Cure Primarie, per valutare i benefici della lettura precoce in famiglia"

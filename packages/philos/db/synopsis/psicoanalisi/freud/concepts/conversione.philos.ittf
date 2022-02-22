@@ -1,0 +1,16 @@
+$group
+
+    namespace freud
+
+        concept conversione
+            title Conversione
+            
+            quote
+                + Nell’isteria, infatti, la rappresentazione incompatibile è resa inoffensiva dal fatto 
+                    \b che la sua somma di eccitamento viene trasformata in qualcosa di somatico, 
+                    \b processo per il quale desidererei proporre il nome di conversione. 
+                    \b La conversione può essere totale o parziale e si realizza a carico 
+                    \b di quella innervazione motoria o sensoria che risulta più o meno strettamente connessa 
+                    \b con l’esperienza traumatica.
+                e-page 739
+                book freud.opere-complete-kindle

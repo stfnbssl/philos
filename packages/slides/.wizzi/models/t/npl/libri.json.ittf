@@ -1,0 +1,118 @@
+$group
+    {
+        title "Donare un libro"
+        source "power poin bologna/NPL Bologna - benefici - Ottobre 2016 (1)"
+        [ slides
+        [ lines
+            "Studi di Reach Out and Read condotti in USA hanno dimostrato che, nelle famiglie svantaggiate, il dono del libro da parte del pediatra è molto efficace per stimolare l’abitudine alla lettura."
+            "Quando possibile doniamo un libro."
+            "Invitiamo  le famiglie a frequentare le biblioteche distribuendo materiale informativo."
+        [ images
+            "${imgurl}/libri, dono.jpg"
+    {
+        title "La condivisione di un libro con l’adulto"
+        source "NpL 2012/Reggio 23 Maggio 2012 Consultori"
+        [ slides
+        [ lines
+            "Riconoscimento delle lettere"
+            "Conoscenza stampato"
+            "Convenzioni della scrittura"
+            "Sensibilità fonologica"
+            "Sviluppo memoria"
+            "Conoscenza alfabeto"
+        [ images
+            "${imgurl}/mamma due bambini.jpg"
+    {
+        title "Libri, dalla nascita"
+        source "presentazioni PP/Mirandola 2015 NpL e pediatri"
+        [ slides
+        [ lines
+            "Filastrocche, rime, canzoncine che accompagnano giochi verbali, musicali, motori, manipolativi"
+            "La stimolazione tattile e il contatto sono fondamentali"
+            "Il ritmo ricorda il respiro e il battito del cuore"
+        [ images
+            "${imgurl}/libro dalla nascita.png"
+        
+    {
+        title "Libri, dai 6 mesi"
+        source "presentazioni PP/Mirandola 2015 NpL e pediatri"
+        [ slides
+        [ lines
+            "Cartonati con una/due foto o immagini"
+        [ images
+            "${imgurl}/libro dai 6 mesi.png"
+    {
+        title "Libri, dai 12 mesi"
+        source "presentazioni PP/Mirandola 2015 NpL e pediatri"
+        [ slides
+        [ lines
+            "Filastrocche e rime"
+            "Cartonati con poche immagini"
+        [ images
+            "${imgurl}/libro dai 12 mesi 1.png"
+            "${imgurl}/libro dai 12 mesi 2.jpg"
+
+    {
+        title "Libri, dai 2 anni"
+        source "presentazioni PP/Mirandola 2015 NpL e pediatri"
+        [ slides
+        [ lines
+            "Pagine di carta, alette mobili"
+            "Protostorie"
+            "Prime emozioni"
+        [ images
+            "${imgurl}/libro dai 2 anni 1.jpg"
+            "${imgurl}/libro dai 2 anni 2.png"
+    {
+        title "Libri, dai 3 anni"
+        source "presentazioni PP/Mirandola 2015 NpL e pediatri"
+        [ slides
+        [ lines
+            "Libri con musica"
+            "Rime divertenti"
+            "Libri per conoscere"
+        [ images
+            "${imgurl}/libro dai 3 anni.png"
+    {
+        title "Libri, dai 5 anni"
+        source "presentazioni PP/Mirandola 2015 NpL e pediatri"
+        [ slides
+        [ lines
+            "Testi più ricchi"
+            "Parole strampalate, libri ironici"
+        [ images
+            "${imgurl}/libro dai 5 anni.png"
+    {
+        title "L'Osservatorio Editoriale"
+        source "https://www.natiperleggere.it/libri-consigliati-npl.html"
+        [ slides
+        [ lines
+            "In italia ogni anno escono circa 1350 libri per bambini da 0 a 7 anni (fonte LiBeR)."
+            "Per queste ragioni Nati per leggere ha costituito un Osservatorio Editoriale permanente che seleziona i migliori libri per bambini."
+            "I criteri di selezione tengono conto della qualità narrativa, delle illustrazioni, della qualità tipografica, dell'impaginazione e degli aspetti pedagogici."
+            "L'osservatorio è costituito da quaranta esperti tra bibliotecari, pediatri, psicologi, studiosi di letteratura per l'infanzia, educatori e librai, che costantemente leggono le novità editoriali che escono ogni anno, le commentano, le discutono, per poi selezionare quelle che in virtù delle loro caratteristiche sono le opere più adatte a essere lette assieme in famiglia."
+        [ images
+            "${imgurl}/libri, osservatorio editoriale.jpg"
+    {
+        title "La Guida libri stampata"
+        source "https://www.natiperleggere.it/libri-consigliati-npl.html"
+        [ slides
+        [ lines
+            "Nati per Leggere. Una guida per genitori e futuri lettori"
+            "L'Osservatorio Editoriale NpL aggiorna periodicamente la bibliografia di libri per bambine e bambini da 0 a 6 anni allo scopo di fornire puntuali indicazioni a genitori, educatori, bibliotecari e pediatri sui libri più belli e adatti ai piccoli lettori in base all'età e alle loro competenze cognitive e percettive."
+        [ images
+            "${imgurl}/libri, guida stampata.png"
+    {
+        title "La Guida libri online"
+        source "https://www.natiperleggere.it/libri-consigliati-npl.html"
+        [ slides
+        [ lines
+            "Contiene i libri consigliati da Nati per Leggere dal 2008 in poi, ed è costantemente aggiornata."
+            "Contiene non solo titoli in italiano ma anche libri in altre lingue (Albanese, Arabo, Cinese, Francese, Inglese, Rumeno, Spagnolo, ...)"
+            "Puoi ricercare i libri per titolo, lingua e fascia d'età, puoi leggere i commenti degli esperti e di altri lettori e puoi lasciarne a tua volta."
+            "Le schede che approfondiscono ogni libro contengono le informazioni bibliografiche, l'abstract, la recensione e le categorie con le quali il libro è stato classificato dall'Osservatorio."
+        [ images
+            "${imgurl}/libri, guida online.png"
+
+
+

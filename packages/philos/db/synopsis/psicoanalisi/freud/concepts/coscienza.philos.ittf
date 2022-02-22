@@ -1,0 +1,18 @@
+$group
+
+    namespace freud
+
+        concept coscienza
+            title Coscienza
+                de Gewissen
+            
+            quote
+                + Abbiamo detto che la coscienza costituisce la superficie dell’apparato psichico; 
+                    \b l’abbiamo cioè attribuita, in quanto funzione, 
+                    \b a un sistema spazialmente collocato al primo posto, 
+                    \b se si procede dal mondo esterno. 
+                    \b Spazialmente non solo in senso funzionale, del resto, 
+                    \b ma questa volta anche nel senso della dissezione anatomica.
+                article freud.l-io-e-l-es
+                e-page 5960
+

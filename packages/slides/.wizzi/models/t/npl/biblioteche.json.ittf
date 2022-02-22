@@ -1,0 +1,13 @@
+$group
+    {
+        title "Cosa fanno le Biblioteche?"
+        source "NpL 2012/Reggio 23 Maggio 2012 Consultori"
+        [ slides
+        [ lines
+            "Offrono una tessera personale e gratuita fin dal 1° giorno di vita. I genitori  sono invitati a iscrivere i loro figli al prestito dei libri."
+            "Il Sindaco di Reggio accoglie i nuovi nati con una lettera nella quale vi è l'invito ad iscrivere i bambini in biblioteca e ad aderire a NPL"
+            "Uno spazio dedicato ai più piccoli appositamente arredato, che i genitori possono frequentare insieme ai loro bambini"
+            "Elenchi ragionati, bibliografie e i consigli del bibliotecario"
+            "Segnalibri colorati con proposte di lettura"
+            "Letture animate e laboratori per bambini e genitori"
+            "Corsi di lettura ad alta voce per adulti"

@@ -1,0 +1,28 @@
+{
+    $
+        var baseURL = ".";
+        // var baseURL = "http://127.0.0.1:5500/slides";
+        // var baseURL = "https://stfnbssl.github.io/slides";
+
+    baseURL "${baseURL}"
+    assetsURL "${baseURL}/assets"
+    jsonURL "${baseURL}/json"
+    languageCode "it-it"
+
+    { Params
+        name "SlidesResources"
+        description "Risorse varie per progetto Slides"
+        author "Stefano Bassoli"
+        email "stfn.bssl@gmail.com"
+        phone "---"
+        address "---"
+        year 2020
+        logoText "by Stefano"
+
+    { Features
+        features()
+    
+    { Styles
+        styles()
+    
+    { Data

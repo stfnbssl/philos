@@ -1,0 +1,13 @@
+$group
+    { palette
+        { blockquote
+            background "#fff"
+            color "#00CC8F"
+        { dark_1
+            backStrong "#463A30"
+            backMedium "#827769"
+            foreSofter "#FFFFFF"
+            foreSoft "#DED9D8"
+            foreMedium "#95857A"
+            foreMediumSoft "#9C7F5B"
+            foreMediumStrong "#7D5F42"

@@ -1,0 +1,108 @@
+[ images
+    {
+        title "Madonna con bambino"
+        url "${imgurl}/madonna con bambino.jpg"
+    {
+        title "Bimba legge a cane"
+        url "${imgurl}/bimba legge a cane.png"
+    {
+        title "Mamma bambino attaccamento"
+        url "${imgurl}/mamma bambino attaccamento.png"
+    {
+        title "Mamma con 2 bambini"
+        url "${imgurl}/mamma due bambini.jpg"
+    {
+        title "Lettori volontari, Anna"
+        url "${imgurl}/lettori volontari anna.jpg"
+    {
+        title "Lettori volontari, papà"
+        url "${imgurl}/lettori volontari papà.jpg"
+    {
+        title "Reggio narra, pediatri"
+        url "${imgurl}/reggio narra pediatri.jpg"
+    {
+        title "Reggio narra, Eugenio"
+        url "${imgurl}/reggio narra eugenio.jpg"
+    {
+        title "Scaffale NpL"
+        url "${imgurl}/scaffale npl.jpg"
+    {
+        title "Scaffale NpL, papà"
+        url "${imgurl}/scaffale npl papà.jpg"
+    {
+        title "Scaffale NpL, Maura"
+        url "${imgurl}/scaffale npl maura.jpg"            
+    {
+        title "Luoghi, Biblioteche"
+        url "${imgurl}/luoghi biblioteche.jpg"
+    {
+        title "Luoghi, Asili nido"
+        url "${imgurl}/luoghi nidi.jpg"
+    {
+        title "Luoghi, Ambulatori vaccinali"
+        url "${imgurl}/luoghi ambulatori vaccinali.png"
+    {
+        title "Luoghi, Tin"
+        url "${imgurl}/luoghi tin.png"
+    {
+        title "Icona, Family literacy connection"
+        url "${imgurl}/icona family literacy connection.jpg"
+        icon true
+    {
+        title "Icona, Teach the parent Reach the child"
+        url "${imgurl}/icona teach the parent.jpg"
+        icon true
+    {
+        title "Libro, dalla nascita"
+        url "${imgurl}/libro dalla nascita.png"
+    {
+        title "Libro, dai 6 mesi"
+        url "${imgurl}/libro dai 6 mesi.png"
+    {
+        title "Libro, dai 12 mesi 1"
+        url "${imgurl}/libro dai 12 mesi 1.png"
+    {
+        title "Libro, dai 12 mesi 2"
+        url "${imgurl}/libro dai 12 mesi 2.jpg"
+    {
+        title "Libro, dai 2 anni 1"
+        url "${imgurl}/libro dai 2 anni 1.jpg"
+    {
+        title "Libro, dai 2 anni 2"
+        url "${imgurl}/libro dai 2 anni 2.png"
+    {
+        title "Libro, dai 3 anni"
+        url "${imgurl}/libro dai 3 anni.png"
+    {
+        title "Libro, dai 5 anni"
+        url "${imgurl}/libro dai 5 anni.png"
+    {
+        title "Icona, Read with me"
+        url "${imgurl}/icona read with me.jpg"
+        icon true
+    {
+        title "Icona, Family literacy"
+        url "${imgurl}/icona family literacy.jpg"
+        icon true
+    {
+        title "Icona, Farfalla NpL"
+        url "${imgurl}/icona farfalla npl.jpg"
+        icon true
+    {
+        title "Logo, NpL"
+        url "${imgurl}/logo npl.png"
+        icon true
+    {
+        title "Logo, ACP"
+        url "${imgurl}/logo acp.png"
+        icon true
+    {
+        title "Logo, AIB"
+        url "${imgurl}/logo aib.jpg"
+        icon true
+    {
+        title "Grafico, ritorno investimento capitale umano"
+        url "${imgurl}/ritorno investimento capitale umano.jpg"
+    {
+        title "Humor, mafalda educato nessuno prima di noi"
+        url "${imgurl}/humor mafalda educato nessuno prima di noi.png"       

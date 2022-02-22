@@ -1,0 +1,11 @@
+$group
+
+    namespace lacan
+
+        concept metafora
+
+            quote
+                + Per che cosa si caratterizza la metafora? Per quella che Lacan chiama creazione di senso, 
+                    \b il che equivale come minimo a dire che quel senso non c'era prima. 
+                book miller.capisaldi-dell-insegnamento-di-lacan
+                page 143

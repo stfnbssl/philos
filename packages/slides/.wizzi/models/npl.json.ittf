@@ -1,0 +1,17 @@
+{
+    $
+        var imgurl = "./assets/img/slides/npl";
+
+    [ items
+        $include npl/programma
+        $include npl/evidenze
+        $include npl/socioeconomico
+        $include npl/genitori
+        $include npl/pediatri
+        $include npl/biblioteche
+        $include npl/ausl
+        $include npl/ospedale
+        $include npl/lettura
+        $include npl/guide
+        $include npl/libri
+    $include npl/images

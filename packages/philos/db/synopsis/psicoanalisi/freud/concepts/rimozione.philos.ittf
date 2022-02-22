@@ -120,3 +120,15 @@ $group
                     \b possa suscitare un dispiacere tale 
                     \b da provocare l'operazione della rimozione?
                 see-concept freud.difesa
+
+        concept rimozione-originaria
+            parent freud.rimozione
+            title Rimozione originaria
+
+            quote
+                + È del tutto plausibile che a determinare le rimozioni originarie siano fattori quantitativi 
+                    \b come l’eccessiva intensità degli eccitamenti 
+                    \b e la rottura dello scudo che protegge dagli stimoli.
+                e-page 6373-6374
+                article freud.inibizione-sintomoe-e-angoscia
+                

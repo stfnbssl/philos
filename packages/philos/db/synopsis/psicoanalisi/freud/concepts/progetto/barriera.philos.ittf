@@ -2,8 +2,14 @@ $group
 
     namespace freud.progetto
 
-        concept barriera
-            title Barriera
+        concept barriera-di-contatto
+            title Barriera di contatto
+            + La funzione secondaria, che richiede un’accumulazione di Qἠ, è resa possibile supponendo che 
+                \b vi siano resistenze che si oppongano alla scarica; 
+                \b la struttura del neurone lascia credere che queste resistenze debbano essere tutte ricercate 
+                \b nei punti di contatto [tra i neuroni] i quali, in tal caso, funzionano da barriere.
+            + Il termine “sinapsi”, in questo significato, fu introdotto solo nel 1897 
+                \b da Michael Foster e Charles Sherrington.
 
         concept barriera-contro-immagini-motorie
             title Barriera contro immagini motorie
