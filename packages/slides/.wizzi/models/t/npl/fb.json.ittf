@@ -1,0 +1,7 @@
+$group
+    {
+        title "Pagina facebook"
+        source "NpL_1_Roma 24 Febbraio 2022"
+        [ slides
+            "${imgurl}/slides, pagina facebook.jpg"
+        [ lines

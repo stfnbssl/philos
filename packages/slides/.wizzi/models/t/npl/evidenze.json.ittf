@@ -29,6 +29,17 @@ $group
             "tende ad avere performance scolastiche più basse anche  in materie come matematica e scienze"
             "Fonte: Opuscolo Cepell CSB"
     {
+        title "Leggere fa bene alla salute"
+        source "NpL_1_Roma 24 Febbraio 2022"
+        [ slides
+        [ lines
+            "La literacy (la capacità a identificare, capire, interpretare, creare, comunicare, elaborare e usare materiale scritto”. (UNESCO 2004) è fortemente associata alla salute."
+            "Buoni livelli di literacy sono legati ad un migliore utilizzo dei servizi  sanitari e quindi a migliori condizioni di salute"
+            "Sandres LM Literacy and child health. A systematic Review. Arch Pediatr Adolesc Med 2009; 163:131-140"
+        [ images
+            "${imgurl}/fa bene salute, caos.jpg"
+            "${imgurl}/fa bene salute, totem.jpg"
+    {
         title "Sviluppo cognitivo"
         source "NpL 2012/Benefici NpL neuroscienze 2012"
         [ slides
@@ -101,7 +112,7 @@ $group
             "Sono abilità legate al modo in cui una persona riesce a comunicare pensieri,  bisogni, esperienze ed opinioni"
     {
         title "Gli stadi dello sviluppo della lettura"
-        source "Presentazioni PP/2018/Modena 11 Maggio Pediatri"
+        source "presentazioni PP/2018/Modena 11 Maggio Pediatri"
         [ lines
         [ slides
             "${imgurl}/slide stadi sviluppo lettura.jpg"

@@ -1,19 +1,19 @@
 $group
     {
         title "Lettura dialogica"
-        source "Presentazioni PP/2018/Modena 11 Maggio Pediatri"
+        source "presentazioni PP/2018/Modena 11 Maggio Pediatri"
         [ lines
         [ slides
             "${imgurl}/slide, lettura dialogica 1.jpg"
     {
         title "Lettura dialogica, PEER"
-        source "Presentazioni PP/2018/Modena 11 Maggio Pediatri"
+        source "presentazioni PP/2018/Modena 11 Maggio Pediatri"
         [ lines
         [ slides
             "${imgurl}/slide, lettura dialogica, peer.jpg"
     {
         title "Lettura dialogica, CROWD"
-        source "Presentazioni PP/2018/Modena 11 Maggio Pediatri"
+        source "presentazioni PP/2018/Modena 11 Maggio Pediatri"
         [ lines
         [ slides
             "${imgurl}/slide, lettura dialogica, crowd.jpg"

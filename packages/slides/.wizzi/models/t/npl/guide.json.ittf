@@ -1,37 +1,37 @@
 $group
     {
         title "Baby newsletter"
-        source "Presentazioni PP/Monticelli 2020/Monticelli 2020"
+        source "presentazioni PP/Monticelli 2020/Monticelli 2020"
         [ lines
         [ slides
             "${imgurl}/slide, baby newsletter.jpg"
     {
         title "Guide anticipatorie"
-        source "Presentazioni PP/Monticelli 2020/Monticelli 2020"
+        source "presentazioni PP/Monticelli 2020/Monticelli 2020"
         [ lines
         [ slides
             "${imgurl}/slide, guide anticipatorie.jpg"
     {
         title "Evidenze 1"
-        source "Presentazioni PP/Monticelli 2020/Monticelli 2020"
+        source "presentazioni PP/Monticelli 2020/Monticelli 2020"
         [ lines
         [ slides
             "${imgurl}/slide, evidenze 1.jpg"
     {
         title "Evidenze 2"
-        source "Presentazioni PP/Monticelli 2020/Monticelli 2020"
+        source "presentazioni PP/Monticelli 2020/Monticelli 2020"
         [ lines
         [ slides
             "${imgurl}/slide, evidenze 2.jpg"
     {
         title "Evidenze 3"
-        source "Presentazioni PP/Monticelli 2020/Monticelli 2020"
+        source "presentazioni PP/Monticelli 2020/Monticelli 2020"
         [ lines
         [ slides
             "${imgurl}/slide, evidenze 3.jpg"
     {
         title "Evidenze 4"
-        source "Presentazioni PP/Monticelli 2020/Monticelli 2020"
+        source "presentazioni PP/Monticelli 2020/Monticelli 2020"
         [ lines
         [ slides
             "${imgurl}/slide, evidenze 4.jpg"

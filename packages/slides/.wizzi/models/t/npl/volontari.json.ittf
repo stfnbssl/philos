@@ -1,0 +1,43 @@
+$group
+    {
+        title "Il volontario NpL"
+        source "https://www.natiperleggere.it/volontario-npl.html"
+        [ slides
+        [ lines
+            "Il volontario NpL è una persona che decide liberamente di dedicare del tempo alla promozione della lettura in famiglia"
+            "Ama i libri e conosce il territorio in cui opera e contribuisce ad apportarvi valore, 
+                \b grazie alla collaborazione in rete con gli altri operatori e 
+                \b soprattutto mettendo a disposizione delle famiglie tempo e voce."
+            "Spesso si tratta di figure professionali, come insegnanti della scuola dell’infanzia ed educatori di nido,
+                \b ma non mancano educatori, operatori culturali, volontari per altri progetti culturali, impiegati, studentesse, genitori, nonni."
+    {
+        title "Il volontario NpL, attività"
+        source "https://www.natiperleggere.it/volontario-npl.html"
+        [ slides
+        [ lines
+            "Offre informazioni sul Programma"
+            "Sensibilizza gli adulti sull’importanza di leggere insieme ai bambini fin da piccoli"
+            "Accoglie bambini e genitori nei luoghi in cui si svolgono iniziative NpL"
+            "Predispone l’ambiente per facilitare le letture e l’interazione"
+            "Crea un'atmosfera favorevole alla lettura di relazione nei luoghi presso cui opera"
+            "Dona la propria voce e il proprio tempo per leggere, da solo o insieme agli altri volontari, con bambini e famiglie nei presidi NpL"
+            "Seleziona i libri da leggere, tenendo conto del luogo in cui si svolge l’attività, dell’età dei bambini e della platea di riferimento"
+            "Mostra ai genitori in che modo leggere efficacemente in famiglia"
+            "Lavora in gruppo con i colleghi e i referenti del presidio locale in un’ottica di rete"
+            "Facilita i contatti tra i diversi operatori che costituiscono la rete NpL"
+            "Sostiene gli operatori NpL nella promozione della lettura in famiglia"
+            "Si impegna nell’aggiornamento costante delle proprie conoscenze e competenze"
+            "Il volontario NpL può riconoscersi in tutte le fnzioni o sentirsi predisposto per svolgere una o solo alcune di queste"
+    {
+        title "Il volontario NpL, formazione"
+        source "https://www.natiperleggere.it/volontario-npl.html"
+        [ slides
+        [ lines
+            "I volontari NpL devono seguire un percorso formativo che mira a fornire sia una conoscenza approfondita del Programma e del loro ruolo all’interno della rete locale, sia gli strumenti per selezionare libri di qualità e destinarli a fasce d’età specifiche."
+            "Al termine del corso viene rilasciato un attestato di partecipazione e dopo aver svolto un periodo di attività affiancati da volontari con esperienza, si diventa volontari NpL."
+    {
+        title "Il volontario NpL, dove legge"
+        source "https://www.natiperleggere.it/volontario-npl.html"
+        [ slides
+        [ lines
+            "I Volontari NpL propongono attività di lettura in diversi luoghi: biblioteche, punti lettura NpL, sale d’attesa degli ambulatori pediatrici, reparti di pediatria ospedalieri, punti vaccinali, consultori, nidi e scuole dell’infanzia, all’aperto e in qualsiasi posto in cui si possa creare un angolo adatto ad accogliere i bambini insieme ai loro genitori. Le iniziative NpL sono gratuite, aperte a tutti e prevedono sempre la presenza dei genitori o di adulti accompagnatori del bambino per rinforzare e radicare il messaggio che la lettura è una pratica da condividere in ambito famigliare."

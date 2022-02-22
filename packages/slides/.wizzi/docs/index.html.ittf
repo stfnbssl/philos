@@ -32,9 +32,22 @@ html
                     font-size 18px
     body
         . wrapper
-            h1 Slides
+            h1 Repertorio slides Nati per Leggere
+            h6 Elenco slides
+                id elenco_slides
+            $foreach item in npl.items
+                div
+                    a ${item.title}
+                        href #${item.title}
+            h6 Elenco immagini
+                id elenco_images
+            $foreach image in npl.images
+                div
+                    a ${image.title}
+                        href #${image.url}
             $foreach item in npl.items
                 . slide
+                    id ${item.title}
                     . slide-title
                         h3 ${item.title}
                     . slide-panel
@@ -52,10 +65,18 @@ html
                                     src ${image}
                                     width 300px
                                 p ${image}
+                    span
+                        a torna ad elenco
+                            href #elenco_slides
+
             $foreach image in npl.images
                 div
+                    id ${image.url}
                     style margin: 40px 20px;
                     h3 ${image.title}
+                        span
+                            a torna ad elenco
+                                href #elenco_images
                     img
                         src ${image.url}
                         $if image.icon

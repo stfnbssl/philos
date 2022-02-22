@@ -13,7 +13,7 @@
         },
         {
             "title": "La “lettura precoce” come pratica per la salute",
-            "source": "Presentazioni PP/2018/Modena 11 Maggio Pediatri",
+            "source": "presentazioni PP/2018/Modena 11 Maggio Pediatri",
             "slides": [],
             "lines": [
                 "La promozione della lettura in famiglia è l’attività più efficace che il pediatra può svolgere per promuovere lo sviluppo del bambino.",
@@ -22,7 +22,7 @@
         },
         {
             "title": "Perché è importante la lettura ad alta voce?",
-            "source": "Presentazioni PP/2009-2015/Benefici NpL Febbraio 2013",
+            "source": "presentazioni PP/2009-2015/Benefici NpL Febbraio 2013",
             "slides": [],
             "lines": [
                 "L’ utilizzo delle competenze cognitive associate alla lettura, quali memoria, creatività, comprensione e linguaggio, assicura lo sviluppo e la persistenza di specifiche connessioni neuronali",
@@ -31,7 +31,7 @@
         },
         {
             "title": "Perché intervenire precocemente?",
-            "source": "Presentazioni PP/2009-2015/Benefici NpL Febbraio 2013",
+            "source": "presentazioni PP/2009-2015/Benefici NpL Febbraio 2013",
             "slides": [],
             "lines": [
                 "Le prime epoche della vita, dallo sviluppo embrio-fetale ai primi anni di vita, sono cruciali per lo sviluppo delle competenze e della capacità di acquisirne delle nuove, a causa del modellamento precoce delle basi neurobiologiche di funzioni quali il linguaggio e la relazione."
@@ -49,7 +49,7 @@
         },
         {
             "title": "Competenze sviluppate durante la Emergent literacy",
-            "source": "Presentazioni PP/2009-2015/NPL-NPM Formatori RE 1Aprile2014",
+            "source": "presentazioni PP/2009-2015/NPL-NPM Formatori RE 1Aprile2014",
             "slides": [],
             "lines": [
                 "Vocabolario: conoscenza dei nomi delle cose.",
@@ -100,6 +100,20 @@
                 "a 5 anni ha il 50% in meno della probabilità di possedere un vocabolario adeguato",
                 "tende ad avere performance scolastiche più basse anche  in materie come matematica e scienze",
                 "Fonte: Opuscolo Cepell CSB"
+            ]
+        },
+        {
+            "title": "Leggere fa bene alla salute",
+            "source": "NpL_1_Roma 24 Febbraio 2022",
+            "slides": [],
+            "lines": [
+                "La literacy (la capacità a identificare, capire, interpretare, creare, comunicare, elaborare e usare materiale scritto”. (UNESCO 2004) è fortemente associata alla salute.",
+                "Buoni livelli di literacy sono legati ad un migliore utilizzo dei servizi  sanitari e quindi a migliori condizioni di salute",
+                "Sandres LM Literacy and child health. A systematic Review. Arch Pediatr Adolesc Med 2009; 163:131-140"
+            ],
+            "images": [
+                "./assets/img/slides/npl/fa bene salute, caos.jpg",
+                "./assets/img/slides/npl/fa bene salute, totem.jpg"
             ]
         },
         {
@@ -191,7 +205,7 @@
         },
         {
             "title": "Gli stadi dello sviluppo della lettura",
-            "source": "Presentazioni PP/2018/Modena 11 Maggio Pediatri",
+            "source": "presentazioni PP/2018/Modena 11 Maggio Pediatri",
             "lines": [],
             "slides": [
                 "./assets/img/slides/npl/slide stadi sviluppo lettura.jpg"
@@ -429,7 +443,7 @@
         },
         {
             "title": "Cosa possono fare i Pediatri 1",
-            "source": "Presentazioni PP/2018/Modena 11 Maggio Pediatri",
+            "source": "presentazioni PP/2018/Modena 11 Maggio Pediatri",
             "slides": [],
             "lines": [
                 "Avere libri sulla scrivania:",
@@ -442,7 +456,7 @@
         },
         {
             "title": "Cosa possono fare i Pediatri 2",
-            "source": "Presentazioni PP/2018/Modena 11 Maggio Pediatri",
+            "source": "presentazioni PP/2018/Modena 11 Maggio Pediatri",
             "slides": [],
             "lines": [
                 "Comunicare con il bambino",
@@ -454,7 +468,7 @@
         },
         {
             "title": "Cosa possono fare i Pediatri 3",
-            "source": "Presentazioni PP/2018/Modena 11 Maggio Pediatri",
+            "source": "presentazioni PP/2018/Modena 11 Maggio Pediatri",
             "slides": [],
             "lines": [
                 "Comunicare con il genitore",
@@ -468,7 +482,7 @@
         },
         {
             "title": "Cosa possono fare i Pediatri 4",
-            "source": "Presentazioni PP/2018/Modena 11 Maggio Pediatri",
+            "source": "presentazioni PP/2018/Modena 11 Maggio Pediatri",
             "slides": [],
             "lines": [
                 "Fornire Informazioni su NpL",
@@ -517,8 +531,55 @@
             ]
         },
         {
+            "title": "Il volontario NpL",
+            "source": "https://www.natiperleggere.it/volontario-npl.html",
+            "slides": [],
+            "lines": [
+                "Il volontario NpL è una persona che decide liberamente di dedicare del tempo alla promozione della lettura in famiglia",
+                "Ama i libri e conosce il territorio in cui opera e contribuisce ad apportarvi valore, grazie alla collaborazione in rete con gli altri operatori e soprattutto mettendo a disposizione delle famiglie tempo e voce.",
+                "Spesso si tratta di figure professionali, come insegnanti della scuola dell’infanzia ed educatori di nido, ma non mancano educatori, operatori culturali, volontari per altri progetti culturali, impiegati, studentesse, genitori, nonni."
+            ]
+        },
+        {
+            "title": "Il volontario NpL, attività",
+            "source": "https://www.natiperleggere.it/volontario-npl.html",
+            "slides": [],
+            "lines": [
+                "Offre informazioni sul Programma",
+                "Sensibilizza gli adulti sull’importanza di leggere insieme ai bambini fin da piccoli",
+                "Accoglie bambini e genitori nei luoghi in cui si svolgono iniziative NpL",
+                "Predispone l’ambiente per facilitare le letture e l’interazione",
+                "Crea un'atmosfera favorevole alla lettura di relazione nei luoghi presso cui opera",
+                "Dona la propria voce e il proprio tempo per leggere, da solo o insieme agli altri volontari, con bambini e famiglie nei presidi NpL",
+                "Seleziona i libri da leggere, tenendo conto del luogo in cui si svolge l’attività, dell’età dei bambini e della platea di riferimento",
+                "Mostra ai genitori in che modo leggere efficacemente in famiglia",
+                "Lavora in gruppo con i colleghi e i referenti del presidio locale in un’ottica di rete",
+                "Facilita i contatti tra i diversi operatori che costituiscono la rete NpL",
+                "Sostiene gli operatori NpL nella promozione della lettura in famiglia",
+                "Si impegna nell’aggiornamento costante delle proprie conoscenze e competenze",
+                "Il volontario NpL può riconoscersi in tutte le fnzioni o sentirsi predisposto per svolgere una o solo alcune di queste"
+            ]
+        },
+        {
+            "title": "Il volontario NpL, formazione",
+            "source": "https://www.natiperleggere.it/volontario-npl.html",
+            "slides": [],
+            "lines": [
+                "I volontari NpL devono seguire un percorso formativo che mira a fornire sia una conoscenza approfondita del Programma e del loro ruolo all’interno della rete locale, sia gli strumenti per selezionare libri di qualità e destinarli a fasce d’età specifiche.",
+                "Al termine del corso viene rilasciato un attestato di partecipazione e dopo aver svolto un periodo di attività affiancati da volontari con esperienza, si diventa volontari NpL."
+            ]
+        },
+        {
+            "title": "Il volontario NpL, dove legge",
+            "source": "https://www.natiperleggere.it/volontario-npl.html",
+            "slides": [],
+            "lines": [
+                "I Volontari NpL propongono attività di lettura in diversi luoghi: biblioteche, punti lettura NpL, sale d’attesa degli ambulatori pediatrici, reparti di pediatria ospedalieri, punti vaccinali, consultori, nidi e scuole dell’infanzia, all’aperto e in qualsiasi posto in cui si possa creare un angolo adatto ad accogliere i bambini insieme ai loro genitori. Le iniziative NpL sono gratuite, aperte a tutti e prevedono sempre la presenza dei genitori o di adulti accompagnatori del bambino per rinforzare e radicare il messaggio che la lettura è una pratica da condividere in ambito famigliare."
+            ]
+        },
+        {
             "title": "Lettura dialogica",
-            "source": "Presentazioni PP/2018/Modena 11 Maggio Pediatri",
+            "source": "presentazioni PP/2018/Modena 11 Maggio Pediatri",
             "lines": [],
             "slides": [
                 "./assets/img/slides/npl/slide, lettura dialogica 1.jpg"
@@ -526,7 +587,7 @@
         },
         {
             "title": "Lettura dialogica, PEER",
-            "source": "Presentazioni PP/2018/Modena 11 Maggio Pediatri",
+            "source": "presentazioni PP/2018/Modena 11 Maggio Pediatri",
             "lines": [],
             "slides": [
                 "./assets/img/slides/npl/slide, lettura dialogica, peer.jpg"
@@ -534,7 +595,7 @@
         },
         {
             "title": "Lettura dialogica, CROWD",
-            "source": "Presentazioni PP/2018/Modena 11 Maggio Pediatri",
+            "source": "presentazioni PP/2018/Modena 11 Maggio Pediatri",
             "lines": [],
             "slides": [
                 "./assets/img/slides/npl/slide, lettura dialogica, crowd.jpg"
@@ -542,7 +603,7 @@
         },
         {
             "title": "Baby newsletter",
-            "source": "Presentazioni PP/Monticelli 2020/Monticelli 2020",
+            "source": "presentazioni PP/Monticelli 2020/Monticelli 2020",
             "lines": [],
             "slides": [
                 "./assets/img/slides/npl/slide, baby newsletter.jpg"
@@ -550,7 +611,7 @@
         },
         {
             "title": "Guide anticipatorie",
-            "source": "Presentazioni PP/Monticelli 2020/Monticelli 2020",
+            "source": "presentazioni PP/Monticelli 2020/Monticelli 2020",
             "lines": [],
             "slides": [
                 "./assets/img/slides/npl/slide, guide anticipatorie.jpg"
@@ -558,7 +619,7 @@
         },
         {
             "title": "Evidenze 1",
-            "source": "Presentazioni PP/Monticelli 2020/Monticelli 2020",
+            "source": "presentazioni PP/Monticelli 2020/Monticelli 2020",
             "lines": [],
             "slides": [
                 "./assets/img/slides/npl/slide, evidenze 1.jpg"
@@ -566,7 +627,7 @@
         },
         {
             "title": "Evidenze 2",
-            "source": "Presentazioni PP/Monticelli 2020/Monticelli 2020",
+            "source": "presentazioni PP/Monticelli 2020/Monticelli 2020",
             "lines": [],
             "slides": [
                 "./assets/img/slides/npl/slide, evidenze 2.jpg"
@@ -574,7 +635,7 @@
         },
         {
             "title": "Evidenze 3",
-            "source": "Presentazioni PP/Monticelli 2020/Monticelli 2020",
+            "source": "presentazioni PP/Monticelli 2020/Monticelli 2020",
             "lines": [],
             "slides": [
                 "./assets/img/slides/npl/slide, evidenze 3.jpg"
@@ -582,7 +643,7 @@
         },
         {
             "title": "Evidenze 4",
-            "source": "Presentazioni PP/Monticelli 2020/Monticelli 2020",
+            "source": "presentazioni PP/Monticelli 2020/Monticelli 2020",
             "lines": [],
             "slides": [
                 "./assets/img/slides/npl/slide, evidenze 4.jpg"
@@ -732,6 +793,30 @@
             "images": [
                 "./assets/img/slides/npl/libri, guida online.png"
             ]
+        },
+        {
+            "title": "Pagina facebook",
+            "source": "NpL_1_Roma 24 Febbraio 2022",
+            "slides": [
+                "./assets/img/slides/npl/slides, pagina facebook.jpg"
+            ],
+            "lines": []
+        },
+        {
+            "title": "NpL in Emilia Romagna 1999-2019",
+            "source": "NpL_1_Roma 24 Febbraio 2022",
+            "slides": [
+                "./assets/img/slides/npl/slides, npl emilia romagna.jpg"
+            ],
+            "lines": []
+        },
+        {
+            "title": "Progetto Nati per leggere Reggio Emilia",
+            "source": "NpL_1_Roma 24 Febbraio 2022",
+            "slides": [
+                "./assets/img/slides/npl/slides, dati npl reggio emilia.jpg"
+            ],
+            "lines": []
         }
     ],
     "images": [
@@ -750,6 +835,22 @@
         {
             "title": "Mamma con 2 bambini",
             "url": "./assets/img/slides/npl/mamma due bambini.jpg"
+        },
+        {
+            "title": "Bambino, sviluppo cognitivo",
+            "url": "./assets/img/slides/npl/bambino sviluppo cognitivo.jpg"
+        },
+        {
+            "title": "Bambino, sviluppo relazionale",
+            "url": "./assets/img/slides/npl/bambino sviluppo relazionale.jpg"
+        },
+        {
+            "title": "Bambino, sviluppo linguistico",
+            "url": "./assets/img/slides/npl/bambino sviluppo linguistico.jpg"
+        },
+        {
+            "title": "Bambino, sviluppo emotivo",
+            "url": "./assets/img/slides/npl/bambino sviluppo emotivo.jpg"
         },
         {
             "title": "Lettori volontari, Anna",
@@ -865,6 +966,11 @@
         {
             "title": "Logo, AIB",
             "url": "./assets/img/slides/npl/logo aib.jpg",
+            "icon": true
+        },
+        {
+            "title": "Logo, CSB",
+            "url": "./assets/img/slides/npl/logo csb.jpg",
             "icon": true
         },
         {

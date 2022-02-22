@@ -12,6 +12,18 @@
         title "Mamma con 2 bambini"
         url "${imgurl}/mamma due bambini.jpg"
     {
+        title "Bambino, sviluppo cognitivo"
+        url "${imgurl}/bambino sviluppo cognitivo.jpg"
+    {
+        title "Bambino, sviluppo relazionale"
+        url "${imgurl}/bambino sviluppo relazionale.jpg"
+    {
+        title "Bambino, sviluppo linguistico"
+        url "${imgurl}/bambino sviluppo linguistico.jpg"
+    {
+        title "Bambino, sviluppo emotivo"
+        url "${imgurl}/bambino sviluppo emotivo.jpg"
+    {
         title "Lettori volontari, Anna"
         url "${imgurl}/lettori volontari anna.jpg"
     {
@@ -99,6 +111,10 @@
     {
         title "Logo, AIB"
         url "${imgurl}/logo aib.jpg"
+        icon true
+    {
+        title "Logo, CSB"
+        url "${imgurl}/logo csb.jpg"
         icon true
     {
         title "Grafico, ritorno investimento capitale umano"

@@ -1,0 +1,13 @@
+$group
+    {
+        title "NpL in Emilia Romagna 1999-2019"
+        source "NpL_1_Roma 24 Febbraio 2022"
+        [ slides
+            "${imgurl}/slides, npl emilia romagna.jpg"
+        [ lines
+    {
+        title "Progetto Nati per leggere Reggio Emilia"
+        source "NpL_1_Roma 24 Febbraio 2022"
+        [ slides
+            "${imgurl}/slides, dati npl reggio emilia.jpg"
+        [ lines        

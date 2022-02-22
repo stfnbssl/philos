@@ -11,7 +11,10 @@
         $include npl/biblioteche
         $include npl/ausl
         $include npl/ospedale
+        $include npl/volontari
         $include npl/lettura
         $include npl/guide
         $include npl/libri
+        $include npl/fb
+        $include npl/emilia
     $include npl/images

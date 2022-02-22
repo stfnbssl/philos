@@ -10,21 +10,21 @@ $group
             "Si realizza attraverso l’impegno di pediatri, bibliotecari, lettori volontari, educatori e altri operatori per l’infanzia"
     {
         title "La “lettura precoce” come pratica per la salute"
-        source "Presentazioni PP/2018/Modena 11 Maggio Pediatri"
+        source "presentazioni PP/2018/Modena 11 Maggio Pediatri"
         [ slides
         [ lines
             "La promozione della lettura in famiglia è l’attività più efficace che il pediatra può svolgere per promuovere lo sviluppo del bambino."
             "American Academy of Pediatrics, raccomandata da OMS, UNICEF" 
     {
         title "Perché è importante la lettura ad alta voce?"
-        source "Presentazioni PP/2009-2015/Benefici NpL Febbraio 2013"
+        source "presentazioni PP/2009-2015/Benefici NpL Febbraio 2013"
         [ slides
         [ lines
             "L’ utilizzo delle competenze cognitive associate alla lettura, quali memoria, creatività, comprensione e linguaggio, assicura lo sviluppo e la persistenza di specifiche connessioni neuronali"
             "Questi costrutti e le relative funzioni permangono imprinted con effetti duraturi nel corso della vita"
     {
         title "Perché intervenire precocemente?"
-        source "Presentazioni PP/2009-2015/Benefici NpL Febbraio 2013"
+        source "presentazioni PP/2009-2015/Benefici NpL Febbraio 2013"
         [ slides
         [ lines
             "Le prime epoche della vita, dallo sviluppo 
@@ -45,7 +45,7 @@ $group
 
     {
         title "Competenze sviluppate durante la Emergent literacy"
-        source "Presentazioni PP/2009-2015/NPL-NPM Formatori RE 1Aprile2014"
+        source "presentazioni PP/2009-2015/NPL-NPM Formatori RE 1Aprile2014"
         [ slides
         [ lines
             "Vocabolario: conoscenza dei nomi delle cose."

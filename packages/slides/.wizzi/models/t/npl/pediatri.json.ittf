@@ -1,7 +1,7 @@
 $group
     {
         title "Cosa possono fare i Pediatri 1"
-        source "Presentazioni PP/2018/Modena 11 Maggio Pediatri"
+        source "presentazioni PP/2018/Modena 11 Maggio Pediatri"
         [ slides
         [ lines
             "Avere libri sulla scrivania:"
@@ -12,7 +12,7 @@ $group
             "Oh, che uovo"
     {
         title "Cosa possono fare i Pediatri 2"
-        source "Presentazioni PP/2018/Modena 11 Maggio Pediatri"
+        source "presentazioni PP/2018/Modena 11 Maggio Pediatri"
         [ slides
         [ lines
             "Comunicare con il bambino"
@@ -22,7 +22,7 @@ $group
             "Individuare i bambini che non hanno dimestichezza con i libri ( non li tengono in mano, si distraggono subito, non lo aprono...)"
     {
         title "Cosa possono fare i Pediatri 3"
-        source "Presentazioni PP/2018/Modena 11 Maggio Pediatri"
+        source "presentazioni PP/2018/Modena 11 Maggio Pediatri"
         [ slides
         [ lines
             "Comunicare con il genitore"
@@ -34,7 +34,7 @@ $group
             "Ricordare che vi sono libri adatti ad ogni età e fornire informazioni"
     {
         title "Cosa possono fare i Pediatri 4"
-        source "Presentazioni PP/2018/Modena 11 Maggio Pediatri"
+        source "presentazioni PP/2018/Modena 11 Maggio Pediatri"
         [ slides
         [ lines
             "Fornire Informazioni su NpL"
