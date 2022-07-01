@@ -1,0 +1,20 @@
+$group
+
+    namespace minkowski
+
+        concept percezione
+            title Percezione
+
+            quote
+                + La percezione verrebbe a collocarsi sul fronte opposto di questa prospettiva sul mondo, 
+                    \b che l’attenzione viene come a ritagliare nel dinamismo della vita.
+                    \b In questa derivazione filiale [filiation] che procede dall’alto verso il basso, 
+                    \b la percezione occuperebbe, come ultimo livello, 
+                    \b un posto analogo a quello che abbiamo creduto di dover assegnare alla rappresentazione in rapporto allo slancio vitale, 
+                    \b o ancora al ricordo in rapporto al rimorso e al rimpianto.
+
+            r-concept rappresentazione
+            r-concept slancio-vitale
+            r-concept ricordo
+            r-concept rimorso
+            r-concept rimpianto

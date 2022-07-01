@@ -1,0 +1,27 @@
+$group
+
+    namespace minkowski
+
+        concept successione-razionalizzata
+            title Successione razionalizzata
+
+            quote
+                + Punto A in T, punto B in T + t: 
+                    \b questo è lo schema generale in base al quale la fisica si approccia allo studio del movimento dei corpi.
+                book il-problema-del-tempo-vissuto
+                    page 65
+
+            quote
+                + Gli stati di coscienza si succederebbero come lo fanno i momenti del tempo, 
+                    \b e noi saremmo trascinati, fatalmente, ciecamente, da questa successione che nulla sarebbe in grado di fermare. 
+                    \b Anche prima di essere stati in grado di renderci conto di ciò che accade in un preciso momento, 
+                    \b noi ci troviamo già nel momento successivo. 
+                    \b È come se un carro ci travolgesse nella sua corsa, 
+                    \b senza che noi potessimo né fermarlo né scendere per mettere i piedi per terra.
+                    \b La vita della coscienza si fa puntiforme. 
+                    \b Relegata nei momenti che si succedono, essa non può, almeno originariamente, avere alcuna visione del tempo. 
+                    \b L’immagine stessa del tempo da cui siamo partiti non saprebbe nascere con immediatezza nella coscienza.
+                book il-problema-del-tempo-vissuto
+                    page 65
+
+            r-concept caleidoscopio

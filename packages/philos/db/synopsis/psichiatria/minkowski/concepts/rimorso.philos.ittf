@@ -1,0 +1,8 @@
+$group
+
+    namespace minkowski
+
+        concept rimorso
+            title Rimorso
+
+            r-concept cattiva-azione

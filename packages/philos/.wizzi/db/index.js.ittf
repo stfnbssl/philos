@@ -13,7 +13,8 @@ v07/plugin/examples/withMonoRepoWizziFactory()
 
     _ executeGenerateModules
         [
-            @ 'first'
+            $$ @ 'first'
+            @ 'minkowski'
         f_cb_no_throw(result)
             if err
                 log 'philos.examples.executeGenerateModules.err', err

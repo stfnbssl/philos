@@ -1,0 +1,22 @@
+$group
+
+    namespace bleuler
+
+        concept schizoidia
+            title Schizoidia
+            + Con la schizoidia, Bleuler delineava quella facoltà di distaccarsi, 
+                \b ovvero di prendere le distanze, 
+                \b dal proprio stesso mondo-ambiente.
+            + A livello psicopatologico questo principio bleuleriano 
+                \b delinea perfettamente i tratti caratteristici della schizofrenia.
+
+            quote
+                + [..] Del tutto diverso è l’atteggiamento degli schizofrenici. 
+                    \b L’ambiente non sembra toccarli. 
+                    \b Il loro torpore e il loro mutismo, 
+                    \b così come le loro manifestazioni di eccitamento motorio o gli sbalzi e gli arresti della loro ideazione, 
+                    \b ci appaiono impenetrabili.
+            $*
+                nella prospettiva di Minkowski, 
+                vi pertiene la struttura dello stesso slancio personale
+            *$

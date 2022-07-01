@@ -1,0 +1,13 @@
+$group
+    e namespace : item
+    e concept : item
+    e relatedconcept : item
+        tag r-concept
+    e seeconcept : item
+        tag see-concept
+    e lemma : item
+    e idea : item
+    e againstconcept : item
+        tag against-concept
+    e example : item
+    e parent : item

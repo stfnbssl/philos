@@ -1,0 +1,18 @@
+$group
+
+    namespace minkowski
+
+        concept funzione-di-immobilizzazione
+            title Funzione di immobilizzazione
+
+            quote
+                + Ci preme sottolineare che noi possiamo attardarci su qualche cosa nella vita, perfino fermarci, 
+                    \b senza per questo perdere il contatto con il tempo vissuto né trovarci in disarmonia con esso, 
+                    \b il che equivarrebbe – a livello pragmatico – all’impressione di perdere in questo modo necessariamente del tempo 
+                    \b a discapito di affari più urgenti. 
+                    \b Al contrario, questa facoltà che saremmo portati a chiamare “funzione di immobilizzazione” [“fonction d’immobilisation”] 
+                    \b ci sembra assolutamente naturale, perfino indispensabile, 
+                    \b giacché è profondamente ancorata nella nostra natura, 
+                    \b nei suoi rapporti con il tempo vissuto e con la vita.
+                book il-problema-del-tempo-vissuto
+                    page 112

@@ -1,0 +1,33 @@
+$group
+
+    namespace minkowski
+
+        concept durata-vissuta
+            title Durata vissuta
+            quote
+                + Il presente non fugge né avanza, ma dura. 
+                    \b Solo il presente può farlo. Suo carattere essenziale è la durata vissuta [durée vécue].
+                    \b La durata vissuta non fugge affatto, proprio perché essa dura. 
+                    \b A differenza di quanto sostiene un’interpretazione geometrica del presente, 
+                    \b questo costituisce per la vita – in opposizione alla fuga del tempo – un fattore di stabilità, 
+                    \b e così si avvicina all’avvenire. 
+                    \b Ma ne differisce. Non possiede affatto una direzione, un senso, una progressione, come invece ha questo. 
+                    \b La grande nave che avanza in linea retta sulle onde impetuose del divenire-oceano, 
+                    \b senza deviare dal proprio tragitto, non fa posto a un relitto inerme in balia della corrente, 
+                    \b ma a una barca dolcemente cullata dalle onde leggere di un mare calmo che 
+                    \b permette ai propri passeggeri di dimenticare lo scopo del viaggio
+                    \b per godere in pace dello spettacolo che hanno di fronte.
+                book il-problema-del-tempo-vissuto
+                    page 94
+
+            bax
+                + La durata vissuta è il primo obiettivo della legge di conservazione,
+                    \b che governa l'organico e rende possibile la vita.
+                    \b Essa è fattore di stabilità perché ogni organizzazione può conservarsi
+                    \b solo difendendo il proprio tipo e 
+                    \b facendolo evolvere per adattarlo al divenire-ambiente.
+                    \b E' il prodotto di un insieme di processi organizzativi e quindi può scaturire solo dal presente.
+                + I processi organizzativi sono processi storici, 
+                    \b che più sono complessi e più nel tempo accumulano energia, che poi disperdono.
+                    \b Le riserve immagazzinate nelle fasi di accumulazione
+                    \b permettono - per un certo tempo - di contemplare lo spettacolo dimenticando lo scopo del viaggio.

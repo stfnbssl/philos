@@ -1,0 +1,36 @@
+$group
+
+    namespace minkowski
+
+        concept caleidoscopio
+            title Caleidoscopio
+
+            quote
+                + La stessa cosa [lo schema del movimento della fisica] vale, a maggior ragione, per la vita mentale. 
+                    \b La nostra immagine la trasforma in una sorta di caleidoscopio. 
+                    \b Gli stati di coscienza si succederebbero come lo fanno i momenti del tempo, e 
+                    \b noi saremmo trascinati, fatalmente, ciecamente, da questa successione che nulla sarebbe in grado di fermare.                    
+                book il-problema-del-tempo-vissuto
+                    page 65
+
+            quote
+                + [..] questa immagine [del caleidoscopio] pecca per eccesso di un dinamismo fittizio e 
+                    \b si allontana dai dati che il tempo vissuto ci fornisce sulla sua stessa natura. 
+                    \b In realtà, noi camminiamo nel tempo, in esso organizziamo la nostra vita, tutta la nostra vita, e 
+                    \b in esso volteggiamo con facilità e sicurezza, arriviamo ad affermarci in esso, 
+                    \b a lasciarvi un’impronta della nostra azione personale.
+                book il-problema-del-tempo-vissuto
+                    page 75
+
+            bax
+                + Infatti la coscienza non è in rapporto diretto con il movimento dei corpi a livello fisico.
+                    \b Gli stati di coscienza sono il prodotto del lavoro di un apparato complesso - il sistema cognitivo -
+                    \b che media la realtà fisica ed i processi organici e cognitivi che con lei interagiscono.
+                    \n Noi camminiamo nel tempo e in esso organizziamo la nostra vita perché, con l'evoluzione,
+                    \b abbiamo imparato ad organizzare i processi fisiologici che ci consentono di farlo,
+                    \b svincolandoci dalla dipendenza al dinamismo fittizio di una coscienza caleidoscopica,
+                    \b come può essere quella di una falena eccitata dal movimento di un lume.
+            
+            r-concept schema-movimento-della-fisica
+            r-concept dinamismo-fittizio
+ 

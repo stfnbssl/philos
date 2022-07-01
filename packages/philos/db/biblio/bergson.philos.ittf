@@ -1,0 +1,25 @@
+$group
+
+    namespace bergson
+        author Bergson
+
+        book essai-sur-les-données-immédiates-de-la-conscience
+            title Essai sur les données immédiates de la conscience
+            edition F. Alcan, Paris
+                date 1889
+            edition Presses Universitaires de France, Paris
+                date 1927
+            translation
+                title Saggio sui dati immediati della coscienza
+                edition Cortina, Milano
+                    date 2002
+
+        article introduction-à-la-métaphysique
+            title Introduction à la métaphysique
+            edition in «Revue de Métaphysique et de Morale», XI, 1, 
+                date 1903 
+            translation it
+                title Introduzione alla metafisica
+                curator V. Mathieu
+                edition Laterza, Roma-Bari
+                    date 1970

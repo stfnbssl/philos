@@ -1,0 +1,26 @@
+$group
+
+    namespace minkowski
+
+        concept attenzione
+            title Attenzione
+
+            quote
+                +  [..] vista – per così dire – nel suo significato alternativo, 
+                    \b ovvero come fenomeno caratteristico della facoltà di fermarsi in generale di fronte a qualcosa nella vita.
+
+            quote
+                + L’attenzione mantiene tutto nell’adesso. 
+                    \b Come l’adesso, non ha durata vissuta; 
+                    \b come l’adesso, è come un punto rispetto a questa durata. 
+                    \b In fondo, l’attenzione è la sola azione che possiamo realizzare nell’adesso, 
+                    \b o più esattamente legare ad esso. 
+                    \b È lo slancio ridotto al momentaneo, 
+                    \b uno slancio che cerca pertanto un completamento, comunque sempre passeggero, 
+                    \b nella direzione impressa dalla nuova situazione. 
+                    \b Il nostro sguardo si rivolge verso il mondo e vi trova il proprio compimento nella percezione 
+                    \b che si libera da questo mondo nel momento in cui vi fissiamo la nostra attenzione.
+                book il-problema-del-tempo-vissuto
+                    page 115
+
+            $$ parent funzione-di-immobilizzazione

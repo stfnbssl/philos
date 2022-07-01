@@ -1,0 +1,8 @@
+$group
+
+    namespace molaro
+        author Molaro
+
+        article molaro.il-divenire-e-le-esigenze-dell-essere
+            title Il divenire e le «Esigenze dell'Essere»: Minkowski fra etica e psicopatologia
+            in minkowski.il-problema-del-tempo-vissuto

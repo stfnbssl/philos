@@ -1,0 +1,32 @@
+$group
+
+    namespace minkowski
+
+        concept presente-risorsa-della-vita
+            title Presente risorsa della vita
+                alias Il destino dell'estroversione di ciò che si è realizzato in noi
+
+            quote
+                + Nel suo compimento il presente diviene una risorsa della vita. 
+                    \b In esso troviamo realizzata questa intima fusione con il cosmo a cui, 
+                    \b dopo averla collocata davanti a noi come obiettivo essenziale da raggiungere, 
+                    \b cercheremo in seguito di avvicinarci in ogni modo e a costo di mille sforzi. 
+                    \b Ciò che è dato del tutto nel presente diviene una finalità lontana e ideale nell’avvenire. 
+                    \b E in ciò si ritrova forse il dramma profondo dell’essere umano; 
+                    \b la sua sorte è quella di tendere attivamente verso la realizzazione di ciò che, 
+                    \b in alcune circostanze all’interno delle quali vanno a confondersi attività e passività, 
+                    \b vede nella sua completa datità con una pienezza ineguagliabile.
+                book il-problema-del-tempo-vissuto
+                    page 97
+
+            quote
+                + Louis LAVELLE (La Présence totale, Fernand Aubier, éditeur, 1934) 
+                    \b ha messo in rilievo, in modo sorprendente, questo particolare movimento 
+                    \b per il quale tendiamo a mettere di fronte a noi ciò che troviamo realizzato pienamente e interamente in noi. 
+                    \b In seguito a questo movimento, 
+                    \b l’individuo si colloca nel tempo concreto a motivo dello sforzo di cui ora si fa carico.
+                    \b Tale sforzo richiederà ora del tempo per trovare il proprio compimento.
+                book il-problema-del-tempo-vissuto
+                    page 97
+                biblio
+                    book lavelle.la-présence-totale

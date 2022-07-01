@@ -1,0 +1,11 @@
+$group
+    
+    author lavelle
+        fullname Louis Lavelle
+        born
+            date Unknown
+            place Unknown
+        died
+            date Unknown
+            place Unknown
+        avatar ./assets/img/authors/Lavelle.jpg

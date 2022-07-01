@@ -1,0 +1,9 @@
+$group
+
+    namespace hegel
+
+        concept dialettica
+            title dialettica
+            quote
+                + la dialettica altro non è che lo spirito di contraddizione sistematico e portato alle estreme conseguenze
+                author Hegel

@@ -1,0 +1,52 @@
+$group
+    e page : item
+    e ereader : item
+        tag e-reader
+    e eloc : item
+        tag e-loc
+    e epage : item
+        tag e-page
+    e title : item
+        a original
+    e subTitle : item
+        tag sub-title
+    e editor : item
+    e in : item
+    e translation : item
+    e translator : item
+    e prefator : item
+    e curator : item
+    e translator : item
+    e written : item
+    e datepub : item
+        tag date-pub
+    e coeditor : item
+        tag co-editor
+    e edition : item
+        a year
+    e book : item
+    e relatedbook : item
+        tag r-book
+    e ebook : item
+        tag e-book
+    e backcover : item
+        tag back-cover
+    e textabstract : item
+        tag abstract
+    e index : item
+    e article : item
+    e relatedarticle : item
+        tag r-article
+    e letter : item
+    e phrase : item
+    e review : item
+    e reviewedwork : item
+        tag reviewed-work
+    e quote : item
+    e biblio : item
+    e glossary : item
+    e comment : item
+    e etimo : item
+    e buy : item
+        a seller
+        a url

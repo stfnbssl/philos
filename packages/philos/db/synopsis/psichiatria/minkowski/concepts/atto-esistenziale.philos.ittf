@@ -1,0 +1,6 @@
+$group
+
+    namespace minkowski
+
+        concept atto-esistenziale
+            title Atto esistenziale

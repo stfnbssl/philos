@@ -1,0 +1,42 @@
+$group
+
+    namespace bleuler
+
+        concept sintonia
+            title Sintonia
+            + Con la sintonia Bleuler indicava la capacità di “vibrare all’unisono” con l’ambiente, 
+                \b vale a dire una sorta di concordanza di sentimenti 
+                \b non rivolta a un fine 
+                \b ma in stretta connessione con l’ambiente esterno
+            + A livello psicopatologico questo principio bleuleriano 
+                \b delinea perfettamente i tratti caratteristici della psicosi maniaco-depressiva 
+
+            quote
+                + Anche se il ritmo del maniaco è troppo rapido in confronto al nostro, 
+                    \b seguiamo facilmente le associazioni superficiali che, per assonanza o similitudine, 
+                    \b lo fanno scivolare con tanta facilità da un soggetto all’altro. 
+                    \b Vediamo così come ogni parola e ogni gesto del suo interlocutore vengono, per così dire, 
+                    \b assorbiti in quell’oceano in movimento che è la sua ideazione, 
+                    \b vediamo come essi attirano per un istante la sua attenzione, 
+                    \b fanno emergere con la velocità di un lampo associazioni nuove 
+                    \b che svaniscono con la stessa rapidità con cui sono comparse 
+                    \b per dar luogo a una nuova idea. 
+                    \b Ogni oggetto dell’ambiente può, per un momento, influenzare il corso del suo pensiero. 
+                    \b Egli resta, così, in contatto permanente con ciò che lo circonda. 
+                    \b La sua gaiezza, la sua espansività, i suoi giochi di parole, 
+                    \b l’imprevedibilità delle sue associazioni non ci sono del tutto estranei; 
+                    \b a volte ci fanno anche ridere di gusto.
+                    \b Nonostante i suoi disturbi mentali, abbiamo con lui un buon contatto affettivo. 
+                    \b Così pure il depresso melanconico non si disinteressa mai interamente dell’ambiente e, 
+                    \b nonostante la monotonia e la povertà del suo pensiero, 
+                    \b nonostante la persistenza del suo stato di tristezza, 
+                    \b troviamo facilmente una porta d’accesso al suo psichismo. 
+                    \b La sua sofferenza morale, il suo scoraggiamento, la sua tristezza 
+                    \b mantengono un aspetto umano, simile al nostro, 
+                    \b e noi continuiamo a prodigargli ogni giorno gli stessi incoraggiamenti, le stesse buone parole
+                    \b intuendo che, in fondo, egli non ci chiede nient’altro e ci mostra gratitudine per questo.
+                book minkowski.la-schizophrenie-psychopathologie-des-schizoïdes-et-des-schizophrènes
+                    page 10
+                
+            $$ vedi schizoidia
+                

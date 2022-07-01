@@ -1,0 +1,29 @@
+$group
+
+    namespace minkowski
+
+        concept carattere-disparato-presente
+            title Carattere disparato del presente
+
+            quote
+                + Infatti, il carattere disparato [disparate] del presente, del passato e dell’avvenire emerge in svariate circostanze.
+                    \b Messi di fronte al passato che la storia ci ricostruisce, per completa che sia la sua narrazione, 
+                    \b non possiamo talvolta impedirci 
+                    \b – di fronte alla constatazione che questo passato è stabilito in maniera definitiva – 
+                    \b di risentirne intimamente la povertà. 
+                    \b Un pensiero sorge: 
+                    \b «È solo questo il passato, non c’è dunque stato nient’altro nella vita passata?». 
+                    \b Arriviamo così a provare talvolta un certo dispiacere, 
+                    \b allorquando ci confrontiamo con un resoconto storico, nel riferirlo al presente vissuto; 
+                    \b non arriviamo neanche a farlo, e sebbene questo resoconto contenga un elemento di certezza che 
+                    \b non potrebbe essere messo in dubbio 
+                    \b non siamo affatto in grado di collocarlo in relazione a questo presente e 
+                    \b vediamo istintivamente sorgere in noi la domanda, a prima vista assai sorprendente: 
+                    \b «Questo passato è veramente esistito?». 
+                    \b In realtà, questa questione non fa che esprimere che il mero allineamento dei fatti 
+                    \b resta sempre al di sotto della pienezza del presente così come della grandiosità dell’avvenire, 
+                    \b e che l’esistenza svincolata dal presente vissuto è incommensurabile con ciò che il passato ci dice di essa. 
+                book il-problema-del-tempo-vissuto
+                    page 99
+
+            $$ double-with la-delusione-fondamentale

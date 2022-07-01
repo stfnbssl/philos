@@ -1,0 +1,31 @@
+$group
+
+    namespace minkowski
+
+        concept rappresentazione
+            title Rappresentazione
+
+            r-concept slancio-vitale
+                quote
+                    + Eppure in realtà lo slancio vitale e creatore non fa leva su alcuna rappresentazione. 
+                        \b Procede oltre su ogni fronte. 
+                        \b La sua caratteristica è quella di non “sapere” in anticipo, nella sua naturale impetuosità, 
+                        \b dove si sta dirigendo, 
+                        \b giacché ritrova in se stesso la certezza assoluta di condurci là dove è necessario andare. 
+                        \b E il suo carattere irrazionale non è che 
+                        \b un’espressione della sua natura essenzialmente temporale e della sua portata vitale.
+                    book il-problema-del-tempo-vissuto
+                        page 85
+
+            quote
+                + C’è perfino da chiedersi 
+                    \b se la rappresentazione non sia rappresentazione per il fatto che esista uno slancio vitale che la porti con sé 
+                    \b e che le permetta di stabilirsi come punto di partenza di un desiderio, di una volizione isolata. 
+                    \b La vita quotidiana ci mette di fronte a desideri e volizioni di questo tipo; 
+                    \b in essi la rappresentazione sembra trovare la propria ragion d’essere. 
+                    \b Ma non bisogna dimenticare che questi desideri e queste volizioni non si susseguono a caso,
+                    \b ma che in tutta evidenza sono strettamente connesse a un seguito, a una trama, a una storia, 
+                    \b che li precede – per così dire – e non consegue da essi; 
+                    \b inoltre, essi si legano a quella linea personale che nella vita non possiamo non tracciare. 
+                book il-problema-del-tempo-vissuto
+                    page 85

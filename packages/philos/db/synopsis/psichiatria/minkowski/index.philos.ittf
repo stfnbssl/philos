@@ -1,0 +1,12 @@
+$group
+
+    $include ../../authors/minkowski
+    $include ../../biblio/minkowski
+    $include ../authors/molaro
+    $include ../biblio/molaro
+    $include ../authors/bleuler
+    $include ../biblio/bleuler
+    $include ../authors/lavelle
+    $include ../biblio/lavelle
+    $include concepts/index
+    $include theories/index

@@ -1,0 +1,44 @@
+$group
+
+    namespace minkowski
+
+        concept passato
+            title Passato
+
+            r-concept non-essere-più
+                quote
+                    + Gli eventi mutano d’aspetto facendosi strada nel passato. 
+                        \b Prima di “appartenere interamente al passato” rimangono, 
+                        \b pur essendo un fatto del passato, 
+                        \b come a cavallo tra il presente e il passato. 
+                        \b Io posso raccontare i miei ricordi di guerra, 
+                        \b come posso sentire intimamente questa guerra fino alle profondità del mio essere 
+                        \b o ritrovarla in tutto quello che noi pensiamo o facciamo attualmente. 
+                        \b Una delusione, prima di essere del tutto liquidata, 
+                        \b può continuare a pungere per lungo tempo nel presente. 
+                        \b È seguendo il filo di queste trasformazioni, 
+                        \b che un evento può subire lungo il passato, 
+                        \b che vediamo penetrare in certi momenti nella coscienza, con pungente acutezza, 
+                        \b il sentimento che questo passato non solamente è stato, ma non è più.
+                    book il-problema-del-tempo-vissuto
+                        page 69
+
+                    bax
+                        + Per trattare adeguatamente questo concetto, considero fondamentale sottolineare una distinzione tra 
+                            \b eventi e fenomeni generatori di eventi, che non deve rimanere nell'ambiguità.
+                            \b Un evento è un fenomeno che ha per definizione un inizio e una fine ben delimitati,
+                            \b è assimilabile all'evento temporale spazializato,
+                            \b ed entrando in connessione con esso è implicito per la coscienza
+                            \b il vivere, o presagire, immediatamente, il suo prossimo non essere più.
+                            \b Diverso è il discorso per i fenomeni che sono produttori di eventi,
+                            \b in particolare gli esseri viventi, gli organismi sociali e le epoche. 
+                            \b Questi sono difficilmente spazializzabili, proprio perché sono continua fonte di eventi
+                            \b e, anche quando sono morti, nel caso di viventi, o dissolti, nel caso
+                            \b di organismi sociali, o sorpassati, nel caso delle epoche,
+                            \b essi continuano ad essere percepiti, per un certo tempo, nel presente vissuto della coscienza,
+                            \b come produttori di eventi. 
+                            \b Un lento pervenire alLa pungente acutezza del sentimento 
+                            \b che un passato è stato e non è più,
+                            \b di cui parla Minkowski, a questi fenomeni si deve riferire e non ai semplici eventi.
+                            \b Una guerra, come nel suo esempio, può essere sì detta un evento, nel linguaggio comune,
+                            \b ma a ben vedere deve essere considerata un fenomeno generatore di eventi.

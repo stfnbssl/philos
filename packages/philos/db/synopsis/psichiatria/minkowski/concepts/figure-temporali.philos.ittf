@@ -1,0 +1,8 @@
+$group
+
+    namespace minkowski
+
+        concept figure-temporali
+            title Figure temporali
+            + Del passato (ricordo e oblio) e 
+                \b dell'avvenire (attività, attesa, desiderio, speranza, preghiera e ricerca dell’azione etica).

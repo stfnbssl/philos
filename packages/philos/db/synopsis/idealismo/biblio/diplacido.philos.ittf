@@ -1,0 +1,9 @@
+$group
+
+    namespace idealismo
+        author DiPlacido
+
+        article la-dialettica-negativa-di-adorno
+            title LA DIALETTICA NEGATIVA DI ADORNO. Hegel tra emancipazione e tradizione
+            date-pub 9999/99/99
+            url https://www.rivistapolemos.it/wp-content/uploads/2016/04/Di-Placido_la-dialettica-di-adorno.pdf

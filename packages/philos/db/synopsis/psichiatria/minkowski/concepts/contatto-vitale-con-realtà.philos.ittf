@@ -1,0 +1,8 @@
+$group
+
+    namespace minkowski
+
+        concept contatto-vitale-con-realtà
+            title Contatto vitale con la realtà
+            $$ vedi slancio vitale
+                

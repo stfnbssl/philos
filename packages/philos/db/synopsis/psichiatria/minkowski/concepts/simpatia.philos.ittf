@@ -1,0 +1,25 @@
+$group
+
+    namespace minkowski
+
+        concept simpatia
+            title Simpatia
+
+            quote
+                + Fare proprie le gioie e soprattutto le sofferenze dei nostri simili 
+                    \b per confondersi con loro in un medesimo movimento; 
+                    \b appropriarsi con un maximum di intimità spirituale 
+                    \b – in forza della mediazione di una di queste parti – 
+                    \b del cosmo nella sua interezza;
+                    \b fare un tutt’uno con esso, 
+                    \b andando ad attingere, con un sentimento di pace profonda, alle sue stesse sorgenti vitali; 
+                    \b accentuare la comunione con esso fino a disperdersi nella sua presenza e 
+                    \b a renderlo completamente parte di sé:
+                    \b tali sono i fenomeni vitali che, assumendo la forma del presente vissuto, 
+                    \b vengono a realizzarsi solo e soltanto in esso. 
+                    \b Essi sono resi possibili da questa penetrazione e da questa durata vissuta 
+                    \b di cui abbiamo parlato più sopra, 
+                    \b e si distinguono prima di tutto 
+                    \b per il fatto che trovano il loro scopo e la loro ragion d’essere in se stessi.
+                book il-problema-del-tempo-vissuto
+                    page 96

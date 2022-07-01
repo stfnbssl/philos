@@ -1,0 +1,21 @@
+$group
+
+    namespace minkowski
+
+        concept gustare-qualche-cosa
+            title Gustare qualche cosa
+            + E' fenomeno rappresentativo, con l'attenzione, della funzione di immobilizzazione.
+
+            quote
+                + Questa attitudine realizza una relazione particolare con l’oggetto sul quale va a stabilirsi e 
+                    \b fa parte degli aspetti essenziali della vita. 
+                    \b Sentire un profumo gradevole e gustare il fresco olezzo dell’erba appena tagliata, 
+                    \b riposarsi su una sdraio e godersi, nel corso di una passeggiata nel periodo di vacanza, un meritato relax, 
+                    \b sono attitudini, modi di essere del tutto differenti.
+                    \b Quando gustiamo qualche cosa, stabiliamo un contatto più intimo con l’oggetto percepito, e 
+                    \b questa intimità ha un carattere temporale dal momento che in essa noi attraversiamo insieme, 
+                    \b come di comune accordo e in armonia, una parte del divenire. Ci attardiamo su ciò che gustiamo.
+                book il-problema-del-tempo-vissuto
+                    page 113
+
+            $$ parent funzione-di-immobilizzazione

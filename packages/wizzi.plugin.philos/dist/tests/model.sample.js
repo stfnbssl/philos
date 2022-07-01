@@ -1,14 +1,10 @@
 /*
-    artifact generator: C:\My\wizzi\stfnbssl\philos\node_modules\wizzi-js\lib\artifacts\js\module\gen\main.js
-    primary source IttfDocument: C:\My\wizzi\stfnbssl\philos\packages\wizzi.plugin.philos\.wizzi\ittf\tests\model.sample.js.ittf
+    artifact generator: C:\My\wizzi\stfnbssl\wizzi\packages\wizzi-js\dist\lib\artifacts\js\module\gen\main.js
+    package: wizzi-js@0.7.9
+    primary source IttfDocument: C:\My\wizzi\stfnbssl\philos\packages\wizzi.plugin.philos\.wizzi\tests\model.sample.js.ittf
 */
 'use strict';
-/**
-     Use this to test packages in the monoropo before publishing to npm.
-     Override '$virtual requireWizzi' to use the wizzi package version under development.
-     Append wizzi factory plugins to '$hook plugins', using the 'pluginsBaseFolder' property
-     to load plugins under development.
-*/
+//
 var path = require('path');
 var fs = require('fs');
 var stringify = require('json-stringify-safe');
@@ -20,8 +16,9 @@ var verify = wizziUtils.verify;
 var file = wizziUtils.file;
 var wizzi = null;
 function createWizziFactory(globalContext, callback) {
+    
+    // The wizzi package will be the npm version from wizzi/node_modules
     if (wizzi == null) {
-        // The wizzi package will be the npm version from wizzi/node_modules
         wizzi = require('wizzi');
     }
     console.log('"wizzi" package version', wizzi.version);
@@ -31,17 +28,17 @@ function createWizziFactory(globalContext, callback) {
                 './index.js'
             ], 
             pluginsBaseFolder: path.resolve(__dirname, '..')
-        }, 
+         }, 
         globalContext: globalContext || {}
-    }, callback);
+     }, callback)
 }
 function loadMTree(ittfDocumentUri, context, callback) {
     createWizziFactory({}, function(err, wf) {
         if (err) {
             return callback(err);
         }
-        wf.loadMTree(ittfDocumentUri, context, callback);
-    });
+        wf.loadMTree(ittfDocumentUri, context, callback)
+    })
 }
 function loadWizziModel(ittfDocumentUri, context, callback) {
     var fi = fileInfoByPath(ittfDocumentUri);
@@ -52,8 +49,8 @@ function loadWizziModel(ittfDocumentUri, context, callback) {
         wf.loadModel(fi.schema, ittfDocumentUri, {
             mTreeBuildUpContext: context, 
             globalContext: {}
-        }, callback);
-    });
+         }, callback)
+    })
 }
 function loadModelAndGenerateArtifact(ittfDocumentUri, context, artifactName, callback) {
     var fi = fileInfoByPath(ittfDocumentUri);
@@ -64,8 +61,8 @@ function loadModelAndGenerateArtifact(ittfDocumentUri, context, artifactName, ca
         wf.loadModelAndGenerateArtifact(ittfDocumentUri, {
             modelRequestContext: context, 
             artifactRequestContext: {}
-        }, artifactName, callback);
-    });
+         }, artifactName, callback)
+    })
 }
 function executeWizziJob(ittfDocumentUri, context, callback) {
     createWizziFactory({}, function(err, wf) {
@@ -79,32 +76,34 @@ function executeWizziJob(ittfDocumentUri, context, callback) {
                 indentSpaces: 4, 
                 basedir: __dirname, 
                 verbose: 2
-            }), 
+             }), 
             modelContext: context || {}, 
             jobContext: {}
-        }, callback);
-    });
+         }, callback)
+    })
 }
 function executeGenerateModelTypes(wfschemaIttfDocumentUri, outputPackagePath, wfschemaName, mTreeBuildUpContext, callback) {
     createWizziFactory({}, function(err, wf) {
         if (err) {
             return callback(err);
         }
-        wf.generateModelTypes(wfschemaIttfDocumentUri, outputPackagePath, wfschemaName, mTreeBuildUpContext, callback);
-    });
+        wf.generateModelTypes(wfschemaIttfDocumentUri, outputPackagePath, wfschemaName, mTreeBuildUpContext, callback)
+    })
 }
 function generateArtifactsByNames(names, schema, artifact, callback) {
     async.mapSeries(names, (name, callback) => {
+    
         var ittfDocumentUri = path.join(__dirname, 'ittf', name + '.' + schema + '.ittf');
         var outputPath = path.join(__dirname, 'dist', name + '.' + schema);
         loadModelAndGenerateArtifact(ittfDocumentUri, {}, artifact, function(err, artifactText) {
             if (err) {
                 return callback(err);
             }
-            file.write(outputPath, artifactText);
+            file.write(outputPath, artifactText)
             return callback(null, artifactText);
-        });
-    }, callback);
+        })
+    }
+    , callback)
 }
 function getTestModelInfo(schemaName, modelName) {
     
@@ -115,14 +114,16 @@ function getTestModelInfo(schemaName, modelName) {
             expectedPath: expectedPath, 
             expectedContent: expectedContent, 
             writeResult: function(content) {
-                file.write(path.join(__dirname, 'ittf', modelName + '.' + schemaName + '.result'), content);
+                file.write(path.join(__dirname, 'ittf', modelName + '.' + schemaName + '.result'), content)
             }
-        };
+         };
 }
 function getFiles(srcpath, schema) {
     return fs.readdirSync(srcpath).filter((file) => {
+        
             return fs.lstatSync(path.join(srcpath, file)).isFile() && verify.endsWith(file, (schema === 'ittf' ? '.ittf' : '.' + schema + '.ittf'));
-        })
+        }
+        )
     ;
 }
 function fileInfoByPath(filePath, baseFolder) {
@@ -150,7 +151,7 @@ function fileInfoByPath(filePath, baseFolder) {
                 fullPath: filePath, 
                 destBasename: name + '.' + mime, 
                 destRelPath: relFolder.length > 0 ? relFolder + '/' + name + '.' + mime : name + '.' + mime
-            };
+             };
     }
     else {
         return {
@@ -163,7 +164,7 @@ function fileInfoByPath(filePath, baseFolder) {
                 fullPath: filePath, 
                 destBasename: basename, 
                 destRelPath: relFolder.length > 0 ? relFolder + '/' + basename : basename
-            };
+             };
     }
 }
 function normalize(filepath) {
@@ -181,7 +182,7 @@ var DEFAULT_MIME = {
     xml: 'xml', 
     vtt: 'vtt', 
     vue: 'vue'
-};
+ };
 it("should load a basic sample ittf document", function(done) {
     var info = getTestModelInfo('sample', 'basic');
     loadModelAndGenerateArtifact(info.ittfPath, {}, 'sample/document', function(err, artifactText) {
@@ -193,5 +194,5 @@ it("should load a basic sample ittf document", function(done) {
         expect(artifactText).to.be.a('string');
         expect(verify.replaceAll(artifactText, '\r\n', '\n')).to.be(verify.replaceAll(info.expectedContent, '\r\n', '\n'))
         done();
-    });
+    })
 });

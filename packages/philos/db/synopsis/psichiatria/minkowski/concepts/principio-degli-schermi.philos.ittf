@@ -1,0 +1,16 @@
+$group
+
+    namespace minkowski
+
+        concept principio-degli-schermi
+            title Principio degli schermi
+            quote
+                + Passato e avvenire, o più esattamente la fuga del tempo verso il passato e il cammino verso l’avvenire, 
+                    \b sono prima di tutto due modi di vivere il tempo che, ciascuno per sé, 
+                    \b posandosi come uno schermo sul divenire nella sua totalità, lo impregnano delle loro caratteristiche. 
+                    \b Sono come degli scenari che è possibile calare sulla scena in un colpo solo, 
+                    \b che di questa scena determinano l’aspetto nella sua totalità, 
+                    \b che formano il quadro all’interno del quale si svolgerà ora l’azione, vale a dire la vita. 
+                    \b Da questo punto di vista per il tempo vissuto saremmo portati a parlare di un principio degli schermi [principe des écrans].
+                book il-problema-del-tempo-vissuto
+                    page 89

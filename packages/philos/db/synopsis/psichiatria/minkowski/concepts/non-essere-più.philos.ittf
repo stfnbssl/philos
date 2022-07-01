@@ -1,0 +1,22 @@
+$group
+
+    namespace minkowski
+
+        concept non-essere-più
+            title Non essere più
+
+            + "Non essere più" è un modo di vivere il tempo.
+
+            quote
+                + “Non essere più” pone una sorta di schermo sul tempo.
+                    \b Tutto è ora destinato a non essere più. 
+                    \b Tutto è condannato all’usura del tempo, all’oblio e alla morte. 
+                    \b “Non essere più” si estende anche al tempo nella sua interezza; 
+                    \b la morte dell’avvenire si ricongiunge con l’oblio del passato. 
+                    \b Ciò che è – che si tratti di passato, di presente o di avvenire – un giorno non sarà più. 
+                    \b Ecco una delle modalità originarie di vivere il tempo.
+                    \b [..] “Non essere più” costituisce così la prima affermazione sul tempo assunto come totalità.
+                book il-problema-del-tempo-vissuto
+                    page 70
+
+                

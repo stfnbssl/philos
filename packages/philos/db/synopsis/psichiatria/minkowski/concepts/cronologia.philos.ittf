@@ -1,0 +1,12 @@
+$group
+
+    namespace minkowski
+
+        concept cronologia
+            title Cronologia
+                alias Discorso sulla temporalità
+            
+            +  Cronologia (nella sua più propria e letterale valenza semantica in quanto “discorso sulla temporalità”) 
+                \b delle diverse possibilità di vita vissuta 
+                \b nel contesto dell’umana esperienza 
+                \b tanto normale quanto, in misura maggiore, patologica

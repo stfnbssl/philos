@@ -1,0 +1,11 @@
+$group
+
+    namespace minkowski
+
+        concept desiderio
+            title Desiderio
+
+            quote
+                book il-problema-del-tempo-vissuto
+                    page 
+

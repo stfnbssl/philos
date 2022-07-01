@@ -1,17 +1,17 @@
 wfjob wizzi-plugin-philos
 	
 	$
-		var ittf_models_folder  = path.join(__dirname, 'ittf', 'models');
-        var ittf_root_folder    = path.join(__dirname, 'ittf', 'root');
-		var ittf_lib            = path.join(__dirname, 'ittf', 'lib');
-		var ittf_examples       = path.join(__dirname, 'ittf', 'examples');
-		var ittf_tests          = path.join(__dirname, 'ittf', 'tests');
+		var ittf_models_folder  = path.join(__dirname, 'models');
+        var ittf_root_folder    = path.join(__dirname, 'root');
+		var ittf_lib            = path.join(__dirname, 'lib');
+		var ittf_examples       = path.join(__dirname, 'examples');
+		var ittf_tests          = path.join(__dirname, 'tests');
 		var dest_folder         = path.join(__dirname, '..', 'dist');
 
-	model pkg
-        export-name pkg
+	model wzCtx
+        export-name wzCtx
 		schema json
-		src ${ittf_models_folder}/pkg.json.ittf
+		src ${ittf_models_folder}/wzCtx.json.ittf
 
 	line ittf-root
 		cwd-folder ${ittf_root_folder}

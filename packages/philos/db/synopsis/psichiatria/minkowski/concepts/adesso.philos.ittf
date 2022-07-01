@@ -1,0 +1,26 @@
+$group
+
+    namespace minkowski
+
+        concept adesso
+            title Adesso
+
+            quote
+                + È ora per una sorta di restringimento del presente che approderemo all’“adesso”, 
+                    \b allo stesso modo in cui abbiamo visto la ricerca dell’azione etica e della preghiera contrarsi, 
+                    \b attraverso il desiderio e la speranza, 
+                    \b fino all’attività e all’attesa, 
+                    \b collocate più sul piano della vita quotidiana e perfino biologica che 
+                    \b su quello della vita in quanto fenomeno [vie phénomenale] o della vita in quanto tale. 
+                book il-problema-del-tempo-vissuto
+                    page 105
+
+            quote
+                + L’adesso viene così a collocarsi sullo stesso piano dell’attività e dell’attesa, 
+                    \b le quali – come sappiamo – non raggiungono che l’avvenire immediato e 
+                    \b si riferiscono più all’Io nelle sue relazioni più concrete con l’ambiente immediato 
+                    \b che all’Io nella sua generale comunione con il cosmo nella sua universalità. 
+                    \b È quest’ultimo aspetto dell’Io che tuttavia ci interessa in primo luogo. 
+                    \b Abbiamo così fatto passare il presente prima dell’adesso.
+                book il-problema-del-tempo-vissuto
+                    page 105

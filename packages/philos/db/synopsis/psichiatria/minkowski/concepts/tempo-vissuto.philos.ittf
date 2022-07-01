@@ -1,0 +1,34 @@
+$group
+
+    namespace minkowski
+
+        concept tempo-vissuto
+            title Tempo vissuto
+                alias Durata reale
+                alias Tempo vivente
+                alias Temporalità vissuta
+            
+            + Il tempo immanente alla coscienza, come negazione di ogni quantità 
+                \b ovvero come pura progressione qualitativa degli stati psichici di ciascun individuo 
+                \b all’interno della quale si compenetrano tutti gli stati passati.
+            against-concept tempo-obiettivo
+
+            + Non può essere affatto colto dal pensiero discorsivo e razionale, 
+                \b per il quale ogni successione si fa opposizione tra ciò che è e ciò che non è ancora, 
+                \b ma solo da una coscienza fenomenologica che senza mediazioni sappia riconoscere in esso 
+                \b il carattere essenziale del divenire, 
+                \b vale a dire un fattore di somiglianza, durata, stabilità e consistenza 
+                \b capace di superare ogni possibile tentativo di spazializzazione.
+
+            quote
+                + Così la penetrazione del presente, la facoltà di gustare qualche cosa e l’attenzione 
+                    \b sembrano costituire tre livelli sovrapponibili a quelli che abbiamo peraltro cercato di specificare 
+                    \b nella forma del presente vissuto, dell’oggi e dell’adesso. 
+                    \b Così ritroviamo ancora una volta il medesimo principio – a quanto pare – 
+                    \b in virtù del quale il tempo vissuto svezza dal proprio seno, 
+                    \b per una sorta di restringimento e di successiva gradazione, 
+                    \b delle forme più precise e più palpabili, più accessibili alla nostra ragione e al nostro pragmatismo, 
+                    \b ma anche più lontane dalla vera natura del tempo e della vita.
+                book il-problema-del-tempo-vissuto
+                    page 115                    
+ 

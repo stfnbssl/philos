@@ -200,7 +200,7 @@ layouts/muiPage( theme )
                     @ error null
         else
             _ loadJSON
-                @ "${site.jsonURL}/first.philos.extended.json"
+                @ "${site.jsonURL}/minkowski.philos.extended.json"
                 =>
                     param response 
                     var jsonresponse = JSON.parse(response)

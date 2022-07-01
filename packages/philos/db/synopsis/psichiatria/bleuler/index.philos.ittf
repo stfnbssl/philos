@@ -1,0 +1,5 @@
+$group
+
+    $include ../../authors/minkowski
+    $include concepts/index
+    $include theories/index

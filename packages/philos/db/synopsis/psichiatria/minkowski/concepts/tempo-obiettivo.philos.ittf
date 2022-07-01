@@ -1,0 +1,26 @@
+$group
+
+    namespace minkowski
+
+        concept tempo-obiettivo
+            title Tempo obiettivo
+                alias Tempo spazializzato
+                alias Tempo razionale
+            against-concept tempo-vissuto
+            
+            + Il tempo misurabile e oggettivo proprio delle scienze naturali
+                \b o dell’orologio e del calendario,
+                \b è rappresentabile nella forma di una linea retta e 
+                \b appare calcolabile e scomponibile in punti giustapposti.
+            
+            quote
+                + [è rappresentabile perfino] trasformato in una sorta di caleidoscopio 
+                    \b che fa balenare davanti agli occhi, in ogni momento, senza tregua, costantemente, 
+                    \b nuove immagini che si ricollegano 
+                    \b sia agli avvenimenti del mondo esterno 
+                    \b sia a quelli della nostra vita intima
+                book le-temps-vécu
+                    page 15
+            
+            + Il tempo della fisica moderna, che nella teoria della relatività
+                \b assume come proprio punto di partenza il carattere specificamente spaziale del tempo.

@@ -1,0 +1,68 @@
+$group
+
+    namespace minkowski
+        author Minkowski
+
+        book le-temps-vécu
+            title Le temps vécu: études phénoménologiques et phychopathologiques
+            edition Collection de l'évolution psychiatrique, Paris
+                date 1933 
+            edition Delachaux et Niestlé, Neuchâtel
+                date 1968 
+            translation it
+                title Il tempo vissuto: fenomenologia e psicopatologia
+                edition Einaudi, Torino
+                    date 1968
+                translator Giuliana Terzian
+                prefator Enzo Paci
+                curator Federico Leoni
+            translation it
+                title Il tempo vissuto: fenomenologia e psicopatologia
+                translator Giuliana Terzian
+                prefator Vittorino Andreoli
+                edition Corriere della Sera, Milano
+                    date 2011
+
+        book traité-de-psychopatologie
+            title Traité de psychopatologie
+            edition PUF, Paris
+                date 1966
+            translation it
+                title Trattato di psicopatologia
+                translator Laura Schwarz
+                curator Mario Francioni
+                edition Feltrinelli, Milano
+                    date 1973
+
+        book il-problema-del-tempo-vissuto
+            title Il problema del tempo vissuto
+            sub-title Con una "Lettera" di Ludwig Binswanger
+            edition Mimesis, Milano
+                date 2017
+            curator Aurelio Molaro           
+
+        article studio-psicologico-e-analisi-fenomenologica-di-un-caso-di-melancolia-schizofrenica
+            title Étude psychologique et analyse phénoménologique d’un cas de mélancolie schizophrénique
+            edition Journal de Psychologie Normale et Pathologique, XX
+                date 1923
+            translation it
+                title Studio psicologico e analisi fenomenologica di un caso di melancolia schizofrenica
+                in antropologia-e-psicopatologia
+                    
+        book antropologia-e-psicopatologia
+            title Antropologia e psicopatologia
+            author E. MINKOWSKI, V.E. VON GEBSATTEL, E.W. STRAUS
+            curator D. Cargnello
+            edition Bompiani, Milano
+                date 1967
+
+        book la-schizophrenie-psychopathologie-des-schizoïdes-et-des-schizophrènes
+            title La schizophrenie: psychopathologie des schizoïdes et des schizophrènes
+            edition Desclée de Brouwer, Paris-Bruges
+                date 1927
+            translation it
+                title La schizofrenia. Psicopatologia degli schizoidi e degli schizofrenici
+                curator S. Mistura 
+                edition Einaudi, Torino
+                    date 1998, p. 10].                    
+                                

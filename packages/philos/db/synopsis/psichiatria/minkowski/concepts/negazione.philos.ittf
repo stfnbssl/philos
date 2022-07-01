@@ -1,0 +1,45 @@
+$group
+
+    namespace minkowski
+
+        concept negazione
+            title Negazione
+
+            quote
+                + La negazione è un elemento costitutivo del pensiero tanto quanto l’affermazione. 
+                    \b Il pensiero non dà inizio al proprio percorso che 
+                    \b a partire dal momento in cui impara a destreggiarsi con essa. 
+                    \b L’affermazione non si fa conoscenza che nella misura in cui scarta o nega altre possibilità. 
+                    \b Il principio del terzo escluso esprime questa relazione fondamentale.
+                book il-problema-del-tempo-vissuto
+                    page 71
+            
+            quote
+                + Posto che tutto ciò che costituisce i dati cognitivi [données cognitives] 
+                    \b – che si tratti di estrospezione o di introspezione – 
+                    \b ha il carattere della positività, 
+                    \b da dove proviene la nostra facoltà di negare? 
+                    \b Sembra proprio che l’origine primaria della negazione sia di ordine temporale. 
+                    \b Ne abbiamo indicato la porta d’accesso nella vita. È “non essere più”. 
+                    \b “Non più” implica senz’altro un’intima relazione con il tempo.
+                book il-problema-del-tempo-vissuto
+                    page 72
+            
+            quote
+                + Il tempo porta, secondo una modalità che gli è propria, 
+                    \b i germi della sua assimilazione allo spazio.
+                    \b È lui che offre, tra l’altro, la prima esperienza della negazione,
+                    \b sotto forma di “non essere più”. 
+                    \b Astratta da questa origine vivente, 
+                    \b la negazione fa il suo ingresso nella sfera del pensiero come elemento costitutivo, 
+                    \b e applicata nuovamente sotto questo nuovo aspetto al suo punto di partenza, 
+                    \b vale a dire il tempo, 
+                    \b non può che rivelarci il suo carattere irrazionale 
+                    \b sotto forma di problemi del tutto artificiosi e di pseudo-soluzioni.
+                book il-problema-del-tempo-vissuto
+                    page 73
+
+            r-concept non-essere-più
+
+                
+

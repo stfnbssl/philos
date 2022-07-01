@@ -150,6 +150,12 @@
           ]
         },
         {
+          "name": "wiki",
+          "tags": [
+            "wiki"
+          ]
+        },
+        {
           "name": "de",
           "tags": [
             "de"
@@ -414,6 +420,12 @@
           ]
         },
         {
+          "name": "parent",
+          "tags": [
+            "parent"
+          ]
+        },
+        {
           "name": "page",
           "tags": [
             "page"
@@ -444,9 +456,51 @@
           ]
         },
         {
+          "name": "subTitle",
+          "tags": [
+            "sub-title"
+          ]
+        },
+        {
           "name": "editor",
           "tags": [
             "editor"
+          ]
+        },
+        {
+          "name": "xin",
+          "tags": [
+            "in"
+          ]
+        },
+        {
+          "name": "translation",
+          "tags": [
+            "translation"
+          ]
+        },
+        {
+          "name": "translator",
+          "tags": [
+            "translator"
+          ]
+        },
+        {
+          "name": "prefator",
+          "tags": [
+            "prefator"
+          ]
+        },
+        {
+          "name": "curator",
+          "tags": [
+            "curator"
+          ]
+        },
+        {
+          "name": "translator",
+          "tags": [
+            "translator"
           ]
         },
         {
@@ -549,6 +603,12 @@
           "name": "quote",
           "tags": [
             "quote"
+          ]
+        },
+        {
+          "name": "biblio",
+          "tags": [
+            "biblio"
           ]
         },
         {
@@ -1260,6 +1320,45 @@
       "isRoot": false,
       "tags": [
         "bax"
+      ],
+      "flags": "",
+      "attributes": [
+        {
+          "name": "value",
+          "type": "string",
+          "tags": [
+            "value"
+          ],
+          "flags": "",
+          "inheritedFrom": "item",
+          "restricts": [],
+          "comments": []
+        }
+      ],
+      "relations": [
+        {
+          "name": "item",
+          "role": "items",
+          "tags": [
+            "item"
+          ],
+          "cardinality": "one-to-many",
+          "flags": "",
+          "inheritedFrom": "item",
+          "comments": []
+        }
+      ],
+      "derived": [],
+      "restricts": [],
+      "methods": [],
+      "comments": []
+    },
+    {
+      "name": "wiki",
+      "super": "item",
+      "isRoot": false,
+      "tags": [
+        "wiki"
       ],
       "flags": "",
       "attributes": [
@@ -3043,6 +3142,45 @@
       "comments": []
     },
     {
+      "name": "parent",
+      "super": "item",
+      "isRoot": false,
+      "tags": [
+        "parent"
+      ],
+      "flags": "",
+      "attributes": [
+        {
+          "name": "value",
+          "type": "string",
+          "tags": [
+            "value"
+          ],
+          "flags": "",
+          "inheritedFrom": "item",
+          "restricts": [],
+          "comments": []
+        }
+      ],
+      "relations": [
+        {
+          "name": "item",
+          "role": "items",
+          "tags": [
+            "item"
+          ],
+          "cardinality": "one-to-many",
+          "flags": "",
+          "inheritedFrom": "item",
+          "comments": []
+        }
+      ],
+      "derived": [],
+      "restricts": [],
+      "methods": [],
+      "comments": []
+    },
+    {
       "name": "page",
       "super": "item",
       "isRoot": false,
@@ -3249,11 +3387,284 @@
       "comments": []
     },
     {
+      "name": "subTitle",
+      "super": "item",
+      "isRoot": false,
+      "tags": [
+        "sub-title"
+      ],
+      "flags": "",
+      "attributes": [
+        {
+          "name": "value",
+          "type": "string",
+          "tags": [
+            "value"
+          ],
+          "flags": "",
+          "inheritedFrom": "item",
+          "restricts": [],
+          "comments": []
+        }
+      ],
+      "relations": [
+        {
+          "name": "item",
+          "role": "items",
+          "tags": [
+            "item"
+          ],
+          "cardinality": "one-to-many",
+          "flags": "",
+          "inheritedFrom": "item",
+          "comments": []
+        }
+      ],
+      "derived": [],
+      "restricts": [],
+      "methods": [],
+      "comments": []
+    },
+    {
       "name": "editor",
       "super": "item",
       "isRoot": false,
       "tags": [
         "editor"
+      ],
+      "flags": "",
+      "attributes": [
+        {
+          "name": "value",
+          "type": "string",
+          "tags": [
+            "value"
+          ],
+          "flags": "",
+          "inheritedFrom": "item",
+          "restricts": [],
+          "comments": []
+        }
+      ],
+      "relations": [
+        {
+          "name": "item",
+          "role": "items",
+          "tags": [
+            "item"
+          ],
+          "cardinality": "one-to-many",
+          "flags": "",
+          "inheritedFrom": "item",
+          "comments": []
+        }
+      ],
+      "derived": [],
+      "restricts": [],
+      "methods": [],
+      "comments": []
+    },
+    {
+      "name": "xin",
+      "super": "item",
+      "isRoot": false,
+      "tags": [
+        "in"
+      ],
+      "flags": "",
+      "attributes": [
+        {
+          "name": "value",
+          "type": "string",
+          "tags": [
+            "value"
+          ],
+          "flags": "",
+          "inheritedFrom": "item",
+          "restricts": [],
+          "comments": []
+        }
+      ],
+      "relations": [
+        {
+          "name": "item",
+          "role": "items",
+          "tags": [
+            "item"
+          ],
+          "cardinality": "one-to-many",
+          "flags": "",
+          "inheritedFrom": "item",
+          "comments": []
+        }
+      ],
+      "derived": [],
+      "restricts": [],
+      "methods": [],
+      "comments": []
+    },
+    {
+      "name": "translation",
+      "super": "item",
+      "isRoot": false,
+      "tags": [
+        "translation"
+      ],
+      "flags": "",
+      "attributes": [
+        {
+          "name": "value",
+          "type": "string",
+          "tags": [
+            "value"
+          ],
+          "flags": "",
+          "inheritedFrom": "item",
+          "restricts": [],
+          "comments": []
+        }
+      ],
+      "relations": [
+        {
+          "name": "item",
+          "role": "items",
+          "tags": [
+            "item"
+          ],
+          "cardinality": "one-to-many",
+          "flags": "",
+          "inheritedFrom": "item",
+          "comments": []
+        }
+      ],
+      "derived": [],
+      "restricts": [],
+      "methods": [],
+      "comments": []
+    },
+    {
+      "name": "translator",
+      "super": "item",
+      "isRoot": false,
+      "tags": [
+        "translator"
+      ],
+      "flags": "",
+      "attributes": [
+        {
+          "name": "value",
+          "type": "string",
+          "tags": [
+            "value"
+          ],
+          "flags": "",
+          "inheritedFrom": "item",
+          "restricts": [],
+          "comments": []
+        }
+      ],
+      "relations": [
+        {
+          "name": "item",
+          "role": "items",
+          "tags": [
+            "item"
+          ],
+          "cardinality": "one-to-many",
+          "flags": "",
+          "inheritedFrom": "item",
+          "comments": []
+        }
+      ],
+      "derived": [],
+      "restricts": [],
+      "methods": [],
+      "comments": []
+    },
+    {
+      "name": "prefator",
+      "super": "item",
+      "isRoot": false,
+      "tags": [
+        "prefator"
+      ],
+      "flags": "",
+      "attributes": [
+        {
+          "name": "value",
+          "type": "string",
+          "tags": [
+            "value"
+          ],
+          "flags": "",
+          "inheritedFrom": "item",
+          "restricts": [],
+          "comments": []
+        }
+      ],
+      "relations": [
+        {
+          "name": "item",
+          "role": "items",
+          "tags": [
+            "item"
+          ],
+          "cardinality": "one-to-many",
+          "flags": "",
+          "inheritedFrom": "item",
+          "comments": []
+        }
+      ],
+      "derived": [],
+      "restricts": [],
+      "methods": [],
+      "comments": []
+    },
+    {
+      "name": "curator",
+      "super": "item",
+      "isRoot": false,
+      "tags": [
+        "curator"
+      ],
+      "flags": "",
+      "attributes": [
+        {
+          "name": "value",
+          "type": "string",
+          "tags": [
+            "value"
+          ],
+          "flags": "",
+          "inheritedFrom": "item",
+          "restricts": [],
+          "comments": []
+        }
+      ],
+      "relations": [
+        {
+          "name": "item",
+          "role": "items",
+          "tags": [
+            "item"
+          ],
+          "cardinality": "one-to-many",
+          "flags": "",
+          "inheritedFrom": "item",
+          "comments": []
+        }
+      ],
+      "derived": [],
+      "restricts": [],
+      "methods": [],
+      "comments": []
+    },
+    {
+      "name": "translator",
+      "super": "item",
+      "isRoot": false,
+      "tags": [
+        "translator"
       ],
       "flags": "",
       "attributes": [
@@ -3928,6 +4339,45 @@
       "isRoot": false,
       "tags": [
         "quote"
+      ],
+      "flags": "",
+      "attributes": [
+        {
+          "name": "value",
+          "type": "string",
+          "tags": [
+            "value"
+          ],
+          "flags": "",
+          "inheritedFrom": "item",
+          "restricts": [],
+          "comments": []
+        }
+      ],
+      "relations": [
+        {
+          "name": "item",
+          "role": "items",
+          "tags": [
+            "item"
+          ],
+          "cardinality": "one-to-many",
+          "flags": "",
+          "inheritedFrom": "item",
+          "comments": []
+        }
+      ],
+      "derived": [],
+      "restricts": [],
+      "methods": [],
+      "comments": []
+    },
+    {
+      "name": "biblio",
+      "super": "item",
+      "isRoot": false,
+      "tags": [
+        "biblio"
       ],
       "flags": "",
       "attributes": [

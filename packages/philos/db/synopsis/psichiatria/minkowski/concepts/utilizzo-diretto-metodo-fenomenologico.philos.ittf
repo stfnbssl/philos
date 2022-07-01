@@ -1,0 +1,24 @@
+$group
+
+    namespace minkowski
+
+        concept utilizzo-diretto-metodo-fenomenologico
+            title Utilizzo diretto del metodo fenomenologico
+
+            quote
+                + [per Minkowski, il metodo fenomenologico] arricchisce notevolmente le nostre conoscenze, 
+                    \b nella misura in cui esse si rivolgono soprattutto al vissuto e non al pensato
+                book traité-de-psychopatologie
+                    page 481
+
+            $$ versus utilizzo-indiretto-metodo-fenomenologico
+            + In primo luogo, infatti, egli riconosce un’applicazione in forma diretta 
+                \b – o, si potrebbe anche dire più in generale seguendo Borgna, soggettiva – della fenomenologia, 
+                \b in un senso sostanzialmente affine a quello della psicopatologia descrittiva di Jaspers, 
+                \b dalla forte contaminazione diltheyana ma anche weberiana, 
+                \b come mera descrizione e discriminazione di tutti i fenomeni psicologici e psicopatologici, 
+                \b libera da preconcetti e pregiudizi teorici e finalizzata 
+            quote
+                + a rendere più chiari e precisi i concetti psichiatrici che vi si riferiscono
+                article studio-psicologico-e-analisi-fenomenologica-di-un-caso-di-melancolia-schizofrenica
+                    page 15

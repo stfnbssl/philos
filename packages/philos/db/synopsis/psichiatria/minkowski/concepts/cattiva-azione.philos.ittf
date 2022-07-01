@@ -1,0 +1,30 @@
+$group
+
+    namespace minkowski
+
+        concept cattiva-azione
+            title Cattiva azione
+
+            quote
+                + Ma il passato, dal punto di vista dell’avvenire, non si limita affatto al sorpassato. 
+                    \b Il positivo e il negativo, il bene e il male, 
+                    \b qui si separano e si collocano asimmetricamente rispetto al tempo vissuto. 
+                    \b In opposizione al blocco formato dalle opere positive, 
+                    \b la cattiva azione vi si iscrive in maniera isolata. 
+                    \b Deve farlo per lasciare giustamente la strada libera al cammino incessante verso il meglio dell’avvenire. 
+                    \b Il male si iscrive necessariamente nel passato e ciò in modo da poter essere di nuovo cancellato, 
+                    \b ma non come si cancella un disegno su una tavola, 
+                    \b ma come glielo detta la grandezza dell’avvenire-ideale. 
+                    \b Il primo ricordo, da questo punto di vista, 
+                    \b non riguarderà affatto un avvenimento qualunque che la memoria avrà registrato meccanicamente,
+                    \b ma sarà il rimorso [remords] che conduce al pentimento.
+                    \b Questo primo ricordo sarà necessariamente cosciente, e 
+                    \b la coscienza ritroverà in lui tutta la sua primaria portata.
+                book il-problema-del-tempo-vissuto
+                    page 88
+
+            bax
+                + Sarebbe interessante esaminare come le analisi di Melanie Klein,
+                    \b relative alla posizione depressiva del bambino, nella sua opera
+                    \b "Invidia e gratitudine", si relazionano a questo concetto di Minkowski.
+                    \b Il primo ricordo visto da Minkowski sarebbe un ricordo di riparazione?

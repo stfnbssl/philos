@@ -1,0 +1,17 @@
+$group
+
+    namespace minkowski
+
+        concept triade-vero-bello-buono
+            title Triade Vero-Bello-Buono
+
+            quote
+                + All’orizzonte, in lontananza, vediamo ora concretizzarsi la possibilità 
+                    \b di avvicinare il passato, il presente e l’avvenire a un’altra “triade” essenziale, 
+                    \b vale a dire il Vero, il Bello e il Buono, e di affermare che 
+                    \b il presente ha innanzi tutto un valore estetico, 
+                    \b il passato un valore logico e 
+                    \b l’avvenire un valore etico. 
+                    \b Ma non insistiamo su questo aspetto.
+                book il-problema-del-tempo-vissuto
+                    page 97

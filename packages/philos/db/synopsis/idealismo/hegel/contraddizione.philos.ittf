@@ -1,0 +1,23 @@
+$group
+
+    namespace hegel
+
+        concept contraddizione
+            title contraddizione
+            quote
+                + Nella filosofia hegeliana la contraddizione rappresenta un elemento di rottura con la tradizione: 
+                    \b essa non sfocia nel puro nulla, ma porta a qualcosa di determinato. 
+                    \b La contraddizione entra in gioco nell’opposizione tra due termini, 
+                    \b il movimento di esclusione inclusione degli opposti rappresenta ciò che Hegel chiama la «negazione determinata»: 
+                    \b essa trova luogo nel momento «negativo» del rapporto proprio perché
+                    \b dicendo il negativo si include anche il positivo, ma non viceversa.            
+            quote
+                + Nella filosofia hegeliana è necessario che la contraddizione debba risolversi,
+                    \b altrimenti si tornerebbe a quel puro nulla dello scetticismo; 
+                    \b la coesistenza di conciliazione e differenza può essere assicurata solo se 
+                    \b i termini che si contraddicono siano considerati come «momenti» risolti in unità. 
+                    \b Questo movimento, che Hegel chiama «Aufhebung», garantisce il progresso dialettico, 
+                    \b lo «spontaneo» susseguirsi delle figure. 
+                    \b Tale spontaneità deriva dall’immanenza del movimento dialettico e dalla negazione determinata la quale, 
+                    \b agendo dall’interno, apre il passaggio per il proseguimento del percorso.
+                article diplacido.la-dialettica-negativa-di-adorno

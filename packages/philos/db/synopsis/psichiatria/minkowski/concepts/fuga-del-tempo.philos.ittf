@@ -1,0 +1,13 @@
+$group
+
+    namespace minkowski
+
+        concept fuga-del-tempo
+            title Fuga del tempo
+
+            quote
+                + Parimenti a “non essere più”, cui è simile, la fuga del tempo non è che uno dei modi di vivere il tempo. 
+                    \b Non ce ne mostra che un solo aspetto. 
+                    \b Il tempo non fa altro che fuggire, scomparire, sommergere, distruggere; avanza ancora, progredisce e crea.
+                book il-problema-del-tempo-vissuto
+                    page 81

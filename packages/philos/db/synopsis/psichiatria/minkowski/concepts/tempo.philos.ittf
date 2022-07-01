@@ -1,0 +1,11 @@
+$group
+
+    namespace minkowski
+
+        concept tempo
+            title Tempo
+                alias Divenire
+            
+            + Nel suo carattere originario e primitivo, 
+                \b il tempo viene a configurarsi in quanto divenire
+                \b e come tale costituisce il fondamento del tempo vissuto.

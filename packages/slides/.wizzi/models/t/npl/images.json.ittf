@@ -12,6 +12,21 @@
         title "Mamma con 2 bambini"
         url "${imgurl}/mamma due bambini.jpg"
     {
+        title "Relazione madre bambino"
+        url "${imgurl}/relazione madre bambino.jpg"
+    {
+        title "Famiglia legge"
+        url "${imgurl}/famiglia legge.jpg"
+    {
+        title "Evidenze scientifiche"
+        url "${imgurl}/evidenze scientifiche.jpg"
+    {
+        title "Literacy"
+        url "${imgurl}/literacy.jpg"
+    {
+        title "Emergent literacy milestones"
+        url "${imgurl}/emergent literacy milestones.png"
+    {
         title "Bambino, sviluppo cognitivo"
         url "${imgurl}/bambino sviluppo cognitivo.jpg"
     {

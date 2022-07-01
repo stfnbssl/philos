@@ -1,0 +1,20 @@
+$group
+
+    namespace minkowski
+
+        concept delusione-fondamentale
+            title Delusione fondamentale
+
+            quote
+                + Essa esprime la relazione essenziale secondo cui l’avvenire, 
+                    \b a motivo della sua stessa grandezza, 
+                    \b non può che contrarsi nel momento in cui si realizza ovvero diviene presente.
+                    \b [...] Essa dice solamente che i nostri desideri, 
+                    \b le nostre speranze e il nostro slancio procedono sempre al di là di ciò che la vita ci può dare. 
+                    \b [...] Troviamo una rappresentazione di questa delusione fondamentale nel fatto che 
+                    \b la realizzazione di un desiderio ardente e personale, capace di renderci felici, 
+                    \b ce lo mostra tanto più piccolo di quanto sembrasse nel momento in cui era proiettato nell’avvenire;
+                book il-problema-del-tempo-vissuto
+                    page 100
+
+

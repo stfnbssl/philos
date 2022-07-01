@@ -1,0 +1,12 @@
+$group
+
+    namespace hegel
+
+        concept negazionedeterminata
+            title negazione determinata
+            quote
+                + Il movimento di esclusione inclusione degli opposti rappresenta 
+                    \b ciò che Hegel chiama la «negazione determinata»: 
+                    \b essa trova luogo nel momento «negativo» del rapporto proprio perché
+                    \b dicendo il negativo si include anche il positivo, ma non viceversa.
+                article diplacido.la-dialettica-negativa-di-adorno

@@ -1,0 +1,34 @@
+$group
+
+    namespace minkowski
+
+        concept penetrazione
+            title Penetrazione
+            quote
+                + Per tornare al presente, una sua peculiarità è la penetrazione [pénétration]. 
+                    \b Questa penetrazione non riguarda soltanto la stessa durata vissuta, 
+                    \b ma tutto ciò che può essere compreso dal presente dentro di sé. 
+                    \b Non si tratta solo di una penetrazione di stati d’animo in successione che 
+                    \b in tal modo vanno a confondersi in un tutto indivisibile, 
+                    \b ma ancora della penetrazione dell’Io e del cosmo, nelle sue parti e nella sua totalità. 
+                    \b Ritorna alla mente l’immagine della barca dolcemente cullata dalle onde.
+                book il-problema-del-tempo-vissuto
+                    page 95
+            
+            quote
+                + Nel presente, l’Io si confonde con il divenire-ambiente e, 
+                    \b senza rinunciare per nessun motivo a ciò che ha di più personale, 
+                    \b gusta la fragranza che si sprigiona da questa fusione e ne assorbe il valore eccezionale. 
+                    \b Solo nel presente può realizzarsi questa fusione. 
+                    \b Non si tratta più, a costo dello sforzo di tutta una vita, 
+                    \b di seguire passo a passo il divenire-ambiente 
+                    \b né di affrontare la potenza delle onde che ci spingono verso il “non essere più”, 
+                    \b ma di rendere il divenire-ambiente una parte di noi, 
+                    \b lasciando che sondi le profondità del nostro essere e 
+                    \b donandoci, affidandoci a lui senza riserva alcuna, con tutto il nostro animo, 
+                    \b per assistere così alla realizzazione di una delle forme più profonde del nostro destino.
+                book il-problema-del-tempo-vissuto
+                    page 95
+            r-concept divenire-ambiente
+            r-concept sincronismo-vissuto
+            r-concept preghiera

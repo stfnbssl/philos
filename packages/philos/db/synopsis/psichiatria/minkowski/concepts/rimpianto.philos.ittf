@@ -1,0 +1,19 @@
+$group
+
+    namespace minkowski
+
+        concept rimpianto
+            title Rimpianto
+
+            quote
+                + Al di sotto del rimorso andrà a collocarsi il rimpianto [regret]. 
+                    \b Esso sarà per il desiderio ciò che il rimorso è per la ricerca dell’azione etica. 
+                    \b Non si tratterà evidentemente di uno sterile rimpianto, 
+                    \b ma di un rimpianto vivente che scoccherà una freccia verso l’avvenire e che dirà: 
+                    \b «Se ciò non fosse stato così, la vita sarebbe stata diversa, migliore di quella attuale», e 
+                    \b cercherà di trarne un insegnamento per l’avvenire.
+                book il-problema-del-tempo-vissuto
+                    page 89
+
+            r-concept rimorso
+            r-concept cattiva-azione                    

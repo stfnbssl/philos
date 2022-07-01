@@ -1,0 +1,19 @@
+$group
+
+    namespace minkowski
+
+        concept ricordo
+            title Ricordo
+
+            quote
+                + Non è che al di sotto del rimpianto che prenderà posto il ricordo di un fatto banale che, 
+                    \b più vicino forse alla conoscenza, sarà tanto più lontano dalla vita e 
+                    \b che collocherà questa vita, alla stregua dell’attività e dell’attenzione, 
+                    \b sul piano dei fatti quotidiani e – in misura minore – biologici, 
+                    \b nel loro svolgimento monotono, “quotidiano”, privo di profondità di senso.
+                book il-problema-del-tempo-vissuto
+                    page 89
+
+            r-concept rimpianto
+            r-concept rimorso
+            r-concept cattiva-azione

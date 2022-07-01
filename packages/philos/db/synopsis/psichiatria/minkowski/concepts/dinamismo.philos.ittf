@@ -1,0 +1,19 @@
+$group
+
+    namespace minkowski
+
+        concept dinamismo
+            title Dinamismo
+
+            quote
+                + Lo slancio vitale, nella sua fissazione all’Ideale, 
+                    \b può dare a prima vista l’impressione di essere meno dinamico di quanto lo sia la fuga del tempo. 
+                    \b Ma non si tratta che di un’illusione, non dei nostri sensi, ma del nostro pensiero.
+                    \b Più questo introduce nel tempo mobilità – del tutto artificiosa – e instabilità, 
+                    \b più esso si crede vicino alla sua vera natura. 
+                    \b Esso confonde la creazione della vita con questa falsa mobilità. 
+                    \b Vuole misurare tutto in modo caleidoscopico e 
+                    \b prende per fissità il modo in cui il nostro sguardo rimane fissato all’avvenire ideale. 
+                    \b Cade così vittima di un’illusione: 
+                    \b questo perché sono solo i fenomeni che si rapportano direttamente al tempo vissuto che 
+                    \b ce ne svelano la natura.

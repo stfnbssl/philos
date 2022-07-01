@@ -1,0 +1,16 @@
+$group
+    
+    author Bleuler
+        fullname Eugene Bleuler
+        born
+            date 30/4/1857
+            place Zollikon (Svizzera)
+        died
+            date 15/7/1939
+            place Zollikon (Svizzera) 
+        avatar ./assets/img/authors/Bleuler.jpg
+        wiki https://it.wikipedia.org/wiki/Eugen_Bleuler
+        + Fu uno dei più importanti psichiatri europei di ogni tempo e 
+            \b apportò contributi fondamentali alla moderna psicopatologia, 
+            \b ridefinendo clinicamente la schizofrenia e l'autismo, 
+            \b di cui coniò anche i relativi termini.

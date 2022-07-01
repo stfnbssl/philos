@@ -1,0 +1,48 @@
+$group
+
+    namespace minkowski
+
+        concept sincronismo-vissuto
+            title Sincronismo vissuto
+                alias Contemplazione vissuta
+
+            quote
+                + Questo termine ci fa pensare a due linee parallele. 
+                    \b Si ha infatti una sorta di parallelismo nel contatto vitale con la realtà;
+                    \b quasi come due durate che scorrono armoniosamente accordandosi scambievolmente una accanto all’altra. 
+                    \b Ma l’immagine del parallelismo non può essere applicata integralmente a questo fenomeno, 
+                    \b poiché non si tratta di rapporti di ordine spaziale. 
+                    \b Inoltre possiamo vedere che le nostre due linee, 
+                    \b pur restando parallele, si toccano, addirittura si penetrano in ogni momento del loro percorso. 
+                    \b Fra le due vi è come uno scambio continuo, ma senza che esse si confondano. 
+                    \b Ciò potrà sembrare irrazionale, ma non ci sorprende affatto.
+                book le-temps-vécu
+                    page 62
+
+            quote
+                + È un reale sincronismo vissuto [synchronisme vécu] quello che abbiamo allora davanti a noi, 
+                    \b e in questo sincronismo la vita raggiunge una pienezza che diversamente non potrebbe conoscere.
+                book il-problema-del-tempo-vissuto
+                    page 95
+
+            quote
+                + Se nel “non essere più” mi sento “gettato quaggiù” [“jeté ici-bas”] alla mercé di tutti i venti e 
+                    \b se nella realizzazione dell’opera personale 
+                    \b il sentimento di trionfo da essa implicato mi conduce al di là dei miei stessi limiti e 
+                    \b mi connette a una dimensione superindividuale, 
+                    \b il sincronismo vissuto del presente mi rivela il contenuto profondo della mia vita così come mi è data da vivere, 
+                    \b e me la fa accettare così com’è. 
+                    \b Per “non essere più” la morte mi riempie di paura,
+                    \b lo slancio personale la supera, 
+                    \b il sincronismo vissuto mi riconcilia con essa, 
+                    \b ricollocandomi in una vita così come è delineata di fronte a noi. 
+                    \b Là ancora il presente sembra situarsi “tra” il passato e l’avvenire.
+                book il-problema-del-tempo-vissuto
+                    page 96
+
+            + [la contemplazione vissuta] in funzione della quale è possibile avanzare armoniosamente con l’ambiente in divenire 
+            quote 
+                + facendoci penetrare da lui e sentendoci uno solo con esso
+                book le-temps-vécu
+                    page 62            
+            + motivo per cui questo fenomeno può anche essere designato con il termine di sincronismo vissuto.

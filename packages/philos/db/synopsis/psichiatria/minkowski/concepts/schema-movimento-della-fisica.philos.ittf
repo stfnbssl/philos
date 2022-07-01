@@ -1,0 +1,15 @@
+$group
+
+    namespace minkowski
+
+        concept schema-movimento-della-fisica
+            title Schema del movimento della fisica
+
+            quote
+                + Punto A in T, punto B in T + t: 
+                    \b questo è lo schema generale in base al quale la fisica si approccia allo studio del movimento dei corpi.
+                + Eppure, come ha mostrato Bergson, 
+                    \b questo schema che assimila il tempo allo spazio 
+                    \b diviene inadeguato nel momento in cui si tratta di cogliere nel vivo il movimento stesso dei corpi. 
+                book il-problema-del-tempo-vissuto
+                    page 65

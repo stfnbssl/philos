@@ -1,0 +1,32 @@
+$group
+
+    namespace minkowski
+
+        concept continuità-del-divenire
+            title Continuità del divenire
+            
+            + La continuità del divenire è un secondo volto del tempo
+                \b a cui si lega  un atto comprensivo di ordine fenomenologico.
+                \b Il primo era la possibilità di una 
+                \b reale e oggettiva spazializzazione (tipica del pensiero scientifico).
+
+            + Solo per il pensiero logico-razionale 
+                \b la successione temporale si pone come opposizione tra ciò che è già e ciò che non è ancora, 
+                \b giacché per la coscienza l’unità vissuta della temporalità 
+                \b si esprime invece nei termini della continuità del divenire.                
+            
+            quote
+                + È vero che se tentiamo di fissare con il pensiero degli avvenimenti concreti, 
+                    \b nel loro carattere temporale, 
+                    \b essi si sottraggono e sfuggono. 
+                    \b Ma, per quanto possa sembrare paradossale, il tempo non sembra affatto fuggire. 
+                    \b Invece di sentirci trascinati con una rapidità vertiginosa da uno qualunque dei suoi elementi, 
+                    \b al contrario vediamo il tempo dispiegarsi davanti ai nostri occhi; 
+                    \b vediamo il divenire superare, oltrepassare indefinitamente ogni durata vissuta e 
+                    \b ogni successione che tentiamo di fissare, senza ridurle a nullità, 
+                    \b come farebbe, conformemente alle leggi della ragione, un infinitamente grande 
+                    \b in rapporto a un infinitamente piccolo, 
+                    \b bensì continuandole sempre di nuovo. 
+                    \b È qui che il senso originario del fenomeno di continuità vissuta ci appare e ci diventa chiaro e plausibile.
+                book le-temps-vécu
+                    page 28

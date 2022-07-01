@@ -1,0 +1,33 @@
+$group
+
+    namespace minkowski
+
+        concept presente
+            title Presente
+            
+            quote
+                + Possiamo anche dire che il presente defluisce in se stesso. 
+                    \b È come se fossero delle onde all’interno di un vaso chiuso, 
+                    \b con la differenza che il vaso qui non esiste affatto, 
+                    \b ma sono le onde stesse a formarlo e a delimitarlo.
+                book il-problema-del-tempo-vissuto
+                    page 103
+
+                bax
+                    + Questa sembra la rappresentazione - poetica - di un sistema rizomatico 
+                        \b di agenti interconnessi con un tipo di connessione aperta 
+                        \b - come quello di una rete neurale - 
+                        \b dove sono la natura degli agenti più la forza delle connessioni
+                        \b a determinare la natura e lo stato del sistema,
+                        \b che non ha né centro, né guida, né ordine prestabilito.
+                    + Anche la rete neurale umana è di questo tipo e di fatto
+                        \n nell'essere umano, centralità dell'io, e coerenza di comportamento,
+                        \n sono il frutto dell'accudimento del neonato e dell'educazione del bambino,
+                        \n non si danno in sé per natura.
+
+            r-concept penetrazione
+            r-concept simpatia
+            r-concept contemplazione
+            r-concept onde-cullanti
+            r-concept presente-risorsa-della-vita
+            r-concept bassoli.connessione-aperta

@@ -1,0 +1,24 @@
+$group
+
+    namespace minkowski
+
+        concept opera-positiva
+            title Opera positiva
+
+            $$ versus cattiva-azione
+
+            quote
+                + Il ricordo delle opere compiute avrà senso nella misura in cui 
+                    \b andrà ad alimentare lo slancio personale nel suo incessante procedere in avanti verso il meglio. 
+                    \b Il suo ruolo sarà quello di servire a questo slancio solo come punto di appoggio,
+                    \b come trampolino, come stimolante. 
+                    \b Contemplare le proprie opere per considerarle come qualcosa di compiuto
+                    \b significa distruggere la loro portata vitale. 
+                    \b Non c’è che lo slancio verso il meglio a contare. 
+                    \b E questo slancio non dispone affatto le proprie opere su una linea retta, 
+                    \b non le considera affatto ciascuna per sé, ma le condensa, 
+                    \b le raccoglie in un tutto che si tratta di superare. 
+                    \b Il passato appare qui sotto forma del “sorpassato” [“dépassé”] 
+                    \b o più precisamente del “da sorpassare” [“à dépasser”] e 
+                    \b la memoria – se vale ancora questo termine – qui è prima di tutto una reviviscenza globale [reviviscence globale] 
+                    \b che tende con tutte le sue forze verso l’avvenire, è una memoria prospettiva [mémoire prospective].

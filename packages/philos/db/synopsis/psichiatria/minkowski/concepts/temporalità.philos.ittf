@@ -1,0 +1,14 @@
+$group
+
+    namespace minkowski
+
+        concept temporalità
+            title Temporalità
+                alias Esperienza del tempo
+                    + Peculiare dimensione fenomenica
+            quote 
+                + Così concepita [come Tempo vissuto], la temporalità diviene, 
+                    \b nella sua peculiare dimensione fenomenica dell’esperienza del tempo, 
+                    \b l’oggetto privilegiato di un’indagine fenomenologica in senso intuitivo 
+                    \b capace di cogliere ogni vissuto altrui 
+                    \b così come esso si dà alla coscienza nella pluralità delle sue componenti qualitative. 

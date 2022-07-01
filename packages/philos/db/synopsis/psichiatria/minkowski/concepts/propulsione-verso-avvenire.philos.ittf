@@ -1,0 +1,33 @@
+$group
+
+    namespace minkowski
+
+        concept propulsione-verso-avvenire
+            title Propulsione verso l'avvenire
+
+            + Ciò che manca completamente all’individuo in questione sembra essere, secondo Minkowski, 
+                \b la propulsione verso l’avvenire, 
+                \b un avvenire che viene sempre sbarrato dalla certezza di un avvenimento distruttivo e terrificante 
+                \b capace di dominare completamente ogni atteggiamento del paziente: 
+                \b la continuità del divenire psichico, gravemente alterata,
+                \b compromette di fatto ogni suo atteggiamento nel presente
+                \b e ogni sua possibilità di slancio verso la costruzione del futuro. 
+                
+            quote
+                + [In questo modo] lo slancio personale, che manca al nostro malato, 
+                    \b non può proiettarlo né fra gli uomini né fra le cose; 
+                    \b la portata individuale non esiste per lui
+                
+            + così che la stessa sintesi della personalità umana non può che approdare, di riflesso, alla disgregazione. 
+                \b Su questa base, la nozione del tempo viene riducendosi alla nozione del succedersi di giornate sempre simili, 
+                \b così che il paziente, dovendo sempre “ricominciare da capo”, 
+                \b vive la propria condanna ogni volta come se fosse l’ultima, 
+                \b nel disperato tentativo di tradurre nel linguaggio dei “sani” una modalità esistenziale drammatica e disgregante. 
+                \b In questo senso, 
+                
+            quote
+                + l’atteggiamento nei confronti dell’ambiente è determinato dal fenomeno del dolore; 
+                    \b ed ecco che l’io e l’universo ostile rimangono soli, in reciproca presenza; 
+                    \b tra i due vengono a intercalarsi gli oggetti dell’ambiente, che sono interpretati correlativamente; 
+                    \b l’intelletto traduce gli uomini in persecutori e le cose inanimate in strumenti di tortura            
+

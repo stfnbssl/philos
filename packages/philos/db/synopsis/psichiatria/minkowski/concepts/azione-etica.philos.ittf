@@ -1,0 +1,46 @@
+$group
+
+    namespace minkowski
+
+        concept azione-etica
+            title Azione etica
+
+            quote
+                + Sotto i suoi auspici, l’avvenire, nella sua originaria potenza, 
+                    \b si apre di fronte a noi nella sua grandezza. 
+                    \b È il bersaglio verso cui si dirige il nostro sguardo, 
+                    \b verso il quale procedono le nostre aspirazioni, 
+                    \b verso il quale ci spinge la nostra ricerca profonda, incessante, inesauribile, dell’ideale. 
+                    \b La vita non conosce affatto altra direzione; non è in grado di farlo.
+                book il-problema-del-tempo-vissuto
+                    page 83
+
+            + Come “ultima pietra” – ma prima in un ordine gerarchico di importanza – 
+                \b dell’edificio della temporalità vissuta nella forma dell’avvenire, 
+                \b l’azione etica si presenta invece come un’eccezionale esperienza della libertà 
+                \b capace di superare tanto l’aspetto razionale dell’agire umano 
+                \b quanto la singolare particolarità di ogni opera.
+
+            quote
+                + [Senza l'azione etica, infatti,] non soltanto saremmo esseri amorali, 
+                    \b cioè esseri per i quali il problema etico non si porrebbe neanche, 
+                    \b ma tutta la nostra vita risulterebbe singolarmente modificata nella sua struttura; 
+                    \b immersi nelle tenebre, non vedremmo più l’avvenire aprirsi ampiamente davanti a noi; 
+                    \b il nostro sguardo non saprebbe più scrutare l’orizzonte 
+                    \b per attingervi le forze vive di tutta la nostra esistenza; 
+                    \b a malapena potrebbe scoprire davanti a sé, urtandovi contro, qualche ombra scialba
+                    \b verso cui si dirigerebbero la nostra attività e i nostri desideri,
+                    \b ammettendo che tali desideri e tale attività possano sussistere ancora senza questo slancio verso il bene. 
+                    \b L’avvenire si restringerebbe così stranamente davanti a noi; 
+                    \b esisterebbe ancora appena, spento, scialbo e privo di vita.
+                book le-temps-vécu
+                    page 106-107
+            
+            quote
+                + Come atto creativo che conduce alla più alta comprensione di sé e 
+                    \b dell’universo nel suo procedere in avanti, 
+                    \b l’azione etica rappresenta l’unica forma di azione capace di resistere al divenire: 
+                    \b in questo senso, secondo Minkowski, l’ideale arriva a coincidere con l’avvenire puro 
+                    \b – ovvero con ciò che per definizione dovrà attuarsi – 
+                    \b e si fa coscienza di sé in ciascuno di noi,
+                    \b arrivando altresì a spalancare la temporalità vissuta nella sua più originaria purezza.

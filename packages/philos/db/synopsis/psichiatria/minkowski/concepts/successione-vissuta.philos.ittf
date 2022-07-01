@@ -1,0 +1,59 @@
+$group
+
+    namespace minkowski
+
+        concept successione-vissuta
+            title Successione vissuta
+
+            quote
+                + In realtà, noi viviamo la successione in maniera immediata, 
+                    \b senza che ciò ci sorprenda affatto, senza che si ponga al riguardo alcuna questione. 
+                    \b Il fatto è che l’esistenza di due momenti nel tempo ci è data originariamente dalla loro successione e da null’altro, 
+                    \b o, in altri termini, il succedersi e l’essere due in rapporto al tempo 
+                    \b non sono in fondo che il risultato della medesima e unica esperienza.             
+                book il-problema-del-tempo-vissuto
+                    page 68
+
+            quote
+                + Questa “serie” vivente di successioni non si lascia tuttavia assimilare mai interamente a una serie numerica, 
+                    \b allo stesso modo in cui la successione non può essere del tutto assimilata a una giustapposizione di due oggetti. 
+                    \b Invece di condurci all’immagine del caleidoscopio, 
+                    \b essa al contrario introduce nella vita un elemento di continuità e di stabilità, 
+                    \b grazie ai quali ci sentiamo in sicurezza e perfettamente a nostro agio nei riguardi del tempo, 
+                    \b e che costituiscono la naturale matrice di ogni successione concreta che può prendervi corpo.
+                book il-problema-del-tempo-vissuto
+                    page 68
+
+            quote
+                + La successione è vissuta in un modo immediato. 
+                    \b Comporta l’attributo “essere due” unicamente nel suo stato iniziale. 
+                    \b non è affatto una relazione tra ciò che è e ciò che non è, 
+                    \b ma lo diventa nel momento in cui l’assimiliamo, a torto, a una relazione di ordine spaziale.
+                book il-problema-del-tempo-vissuto
+                    page 72
+
+            bax
+                + La percezione vissuta del succedersi delle cose nel tempo è
+                    \b il frutto del funzionamento di un apparato - il sistema neurale cognitivo -
+                    \b e per quanto sia vissuta come immediata dalla coscienza è pur sempre un fenomeno mediato.
+                    \b Noi non possiamo accedere direttamente al succedersi del mondo fisico (a livello atomico).
+                    \b Solo indirettamente il sistema cognitivo ci fornisce il dato sensibile
+                    \b del succedersi di qualche cosa, che diventa un per noi che è altra cosa dall'in sé.
+                + Il nostro percepire la successione di cose è quindi al riparo dalla drammaticità, diretta,
+                    \b di un "non essere più" dell'elemento precedente,
+                    \b poiché ciò che è sentito, direttamente, è solo il risultato del lavoro dell'apparato che percepisce.
+                    \b L'eventuale tristezza, o dolore, che questo può provocare,
+                    \b sarà il frutto delle associazioni mentali da lui scatenate.
+                    \b Ma siamo su un altro piano, mentre il tempo continua a scorrere a sé, a livello fisico.
+                + Il lavoro di mediazione che il sistema cognitivo svolge rispetto al tempo fisico,
+                    \b rende possibile quell'elemento di continuità e di stabilità, 
+                    \b grazie ai quali ci sentiamo in sicurezza e perfettamente a nostro agio nei riguardi del tempo, 
+                    \b di cui parla Minkowski.
+                + Il considerare la successione direttamente a livello fisico 
+                    \b comporterebbe automaticamente ciò che Minkowski chiama 
+                    \b l’assimilazione della successione temporale a una relazione di ordine spaziale,
+                    \b poiché a quel livello valgono le leggi della fisica e della relatività e
+                    \b dal punto di vista della fisica è il tempo vissuto che introduce un
+                    \b elemento di mediazione arbitrario del tempo fisico. 
+                    \b Noi chiamiamo quell'arbitrio libertà.
+

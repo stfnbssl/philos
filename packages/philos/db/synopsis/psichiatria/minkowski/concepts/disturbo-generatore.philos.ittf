@@ -1,0 +1,23 @@
+$group
+
+    namespace minkowski
+
+        concept disturbo-generatore
+            title Disturbo generatore
+
+            quote
+                + la sindrome mentale non è più per noi una semplice associazione di sintomi, 
+                    \b ma l’espressione di una modificazione profonda e
+                    \b caratteristica dell’intera personalità umana.
+                book le-temps-vécu
+                    page 211
+
+            quote
+                + Se dunque, nella prospettiva minkowskiana, 
+                    \b la struttura della temporalità viene scardinandosi e scompaginandosi 
+                    \b [...] il delirio – lungi dal costituirsi in quanto origine di questa condizione psicotica – 
+                    \b finisce per configurarsi nei termini di un disperato tentativo 
+                    \b di organizzazione logica di un universo mentale in disgregazione.
+                article molaro.il-divenire-e-le-esigenze-dell-essere
+                    page 53
+

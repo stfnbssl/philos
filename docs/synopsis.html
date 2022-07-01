@@ -429,6 +429,20 @@
                 )
             ;
         }
+        function Bax(props) {
+            var {item, jsonData} = props;
+            return  (
+                    <div>
+                        <h4>
+                        Bassoli note</h4>
+                    
+                        <ContentText item={item} jsonData={jsonData}>
+                        </ContentText>
+                    
+                    </div>
+                )
+            ;
+        }
         function ContentText(props) {
             var {item, jsonData, handleOpen} = props;
             if (item.contents && item.contents.length > 0) {
@@ -455,6 +469,13 @@
                                     return  (
                                             <Quote key={i} item={token.quote} jsonData={jsonData}>
                                             </Quote>
+                                        )
+                                    ;
+                                }
+                                else if (token.bax) {
+                                    return  (
+                                            <Bax key={i} item={token.bax} jsonData={jsonData}>
+                                            </Bax>
                                         )
                                     ;
                                 }

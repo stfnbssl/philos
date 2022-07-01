@@ -1,0 +1,9 @@
+$group
+
+    namespace idealismo
+        author Maurizi
+
+        article la-filosofia-e-il-suo-altro
+            title La filosofia e il suo altro. Adorno lettore di Hegel
+            date-pub 9999/99/99
+            url https://mondodomani.org/dialegesthai/articoli/marco-maurizi-01

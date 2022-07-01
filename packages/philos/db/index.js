@@ -192,7 +192,7 @@ var DEFAULT_MIME = {
     vue: 'vue'
 };
 executeGenerateModules([
-    'first'
+    'minkowski'
 ], function(err, result) {
     if (err) {
         console.log('philos.examples.executeGenerateModules.err', err);

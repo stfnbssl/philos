@@ -1,0 +1,10 @@
+$group
+    
+    author Maurizi
+        fullname Marco Maurizi
+        born
+            date Unknown
+            place Unknown
+        died
+            date Unknown
+            place Unknown

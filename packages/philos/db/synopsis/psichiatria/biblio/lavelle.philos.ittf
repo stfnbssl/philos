@@ -1,0 +1,9 @@
+$group
+
+    namespace lavelle
+        author Lavelle
+
+        book la-présence-totale
+            title La présence totale
+            edition Fernand Aubier, Parigi
+                date 1934

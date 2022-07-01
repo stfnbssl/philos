@@ -1,0 +1,17 @@
+$group
+
+    namespace minkowski
+
+        concept condizione-psicopatologica
+            title Condizione psicopatologica
+
+            quote
+                + Nella prospettiva minkowskiana, 
+                    \b la condizione psicopatologica costituisce l’importante indicatore di un processo di deformazione 
+                    \b degli specifici fenomeni che strutturano progressivamente la temporalità vissuta 
+                    \b [...] la destrutturazione della personalità
+                    \b e la conseguente insorgenza del sintomo psicopatologico
+                    \b non possono che essere ricondotte a una sorta di perdita della durata vissuta del tempo 
+                    \b a motivo di un suo sempre più consistente processo di spazializzazione.
+                article molaro.il-divenire-e-le-esigenze-dell-essere
+                    page 46

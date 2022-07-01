@@ -1,0 +1,18 @@
+$group
+    
+    author Minkowski
+        fullname Eugéne Minkowski
+        born
+            date 17/4/1885
+            place San Pietroburgo, Russia
+        died
+            date 17/11/1972
+            place Parigi, Francia
+        avatar ./assets/img/authors/Minkowski.svg
+        wiki https://it.wikipedia.org/wiki/Eug%C3%A8ne_Minkowski
+        + Eugéne Minkowski è stato uno psichiatra francese. 
+            \b Minkowski è considerato uno dei più importanti esponenti francesi 
+            \b della psichiatria fenomenologica del Novecento. 
+        + Egli ha introdotto i concetti di contatto vitale con la realtà e di tempo vissuto; 
+            \b ha inoltre sostenuto che la psicopatologia può essere sempre spiegata 
+            \b se viene tenuto conto della personale esperienza del tempo.

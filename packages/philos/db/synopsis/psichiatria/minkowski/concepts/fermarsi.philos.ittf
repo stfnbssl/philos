@@ -1,0 +1,28 @@
+$group
+
+    namespace minkowski
+
+        concept fermarsi
+            title Fermarsi
+
+            quote
+                + Fermarsi è in tutta evidenza altra cosa rispetto a essere fermati. 
+                    \b Essere fermati nel proprio slancio è sempre un avvenimento doloroso, 
+                    \b determinato da circostanze esterne alla profondità dell’Io; [..]
+                    \b Questo intralcio può essere ancora più marcato nelle condizioni patologiche; 
+                    \b in questo caso, esso si ritroverà sotto forma di inibizione negli stati di depressione melanconica, 
+                    \b con la sofferenza morale che li caratterizza, 
+                    \b e si tradurrà in un sentimento di reale scissione 
+                    \b del proprio dinamismo soggettuale [dynamisme du sujet] (egodinamismo) 
+                    \b rispetto al divenire-ambiente (cosmodinamismo), 
+                    \b scissione che condizionerà l’insieme dei sintomi di questo disturbo mentale.
+                book il-problema-del-tempo-vissuto
+                    page 109
+
+            quote
+                + Ci preme sottolineare che noi possiamo attardarci su qualche cosa nella vita, perfino fermarci, 
+                    \b senza per questo perdere il contatto con il tempo vissuto né trovarci in disarmonia con esso, 
+                    \b il che equivarrebbe – a livello pragmatico – all’impressione 
+                    \b di perdere in questo modo necessariamente del tempo a discapito di affari più urgenti
+                book il-problema-del-tempo-vissuto
+                    page 112

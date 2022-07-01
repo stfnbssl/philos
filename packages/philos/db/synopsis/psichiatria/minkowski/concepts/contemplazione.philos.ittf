@@ -1,0 +1,15 @@
+$group
+
+    namespace minkowski
+
+        concept contemplazione
+            title Contemplazione
+
+            quote
+                + Da una parte questa eccezionale pienezza, 
+                    \b dall’altra anche questa calma, naturale, profonda, ma anche spirituale e impalpabile,
+                    \b di fronte alle preoccupazioni e alle lotte quotidiane da cui siamo assorbiti: 
+                    \b questi fenomeni costituiscono una delle più grandi risorse, 
+                    \b se non addirittura la più grande, di cui noi disponiamo.
+                book il-problema-del-tempo-vissuto
+                    page 96

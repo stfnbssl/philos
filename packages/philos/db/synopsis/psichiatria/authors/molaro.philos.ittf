@@ -1,0 +1,14 @@
+$group
+    
+    author Molaro
+        fullname Aurelio Molaro
+        born
+            date Unknown
+            place Unknown
+        died
+            date Unknown
+            place Unknown
+        avatar ./assets/img/authors/Molaro.jpg
+        + L'autore Aurelio Molaro è dottorando di ricerca in Filosofia presso l'Università degli Studi di Milano e 
+            \b collabora attivamente con la cattedra di Storia della Psicologia del medesimo ateneo. 
+            \b Con Alfredo Civita ha realizzato il volume Binswanger e Freud.

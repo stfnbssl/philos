@@ -4,8 +4,8 @@
     "jsonURL": "./json",
     "languageCode": "it-it",
     "Params": {
-        "name": "SlidesResources",
-        "description": "Risorse varie per progetto Slides",
+        "name": "PhilosResources",
+        "description": "Risorse varie per progetto Philos",
         "author": "Stefano Bassoli",
         "email": "stfn.bssl@gmail.com",
         "phone": "---",

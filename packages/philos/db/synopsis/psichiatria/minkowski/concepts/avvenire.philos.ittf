@@ -1,0 +1,29 @@
+$group
+
+    namespace minkowski
+
+        concept avvenire
+            title Avvenire
+
+            quote
+                + E l’avvenire è così il primo “punto cardinale”, la prima “dimensione” che ci sia data nel tempo. 
+                    \b Solo a contatto con esso va delineandosi il passato che si situa ora dietro di noi, 
+                    \b in modo tale che per guardarlo dobbiamo voltarci indietro. 
+                    \b Grazie a questo contatto, la fuga del tempo diviene uno scorrimento più preciso verso il passato, 
+                    \b ma non è più di un’esperienza fugace e passeggera.
+
+            quote
+                + Questo slancio [vitale], spalancando l’avvenire di fronte a noi, pone una nuova questione: come viviamo l’avvenire? 
+                    \b Se delinea l’orizzonte dell’avvenire in tutta la sua grandezza, 
+                    \b lo slancio [vitale] non esaurisce affatto la struttura di questo nelle sue particolarità. 
+                    \b Al di là dell’infinità dell’avvenire-ideale, 
+                    \b noi possiamo entrare in relazione diretta con un avvenire più ravvicinato e più palpabile, 
+                    \b allo stesso modo che con l’avvenire immediato. 
+                    \b Così i fenomeni che contengono in essi l’avvenire si collocano su tre livelli 
+                    \b che procedono dall’alto verso il basso in una sorta di gradazione. 
+                    \b Questi sono la ricerca dell’azione etica e la preghiera, il desiderio e la speranza, l’attività e l’attesa. 
+                    \b Il primo termine di ciascuna coppia pone l’accento sull’azione del soggetto,
+                    \b che del resto rimane sempre in comunione con il cosmo, soprattutto nelle sue manifestazioni più alte; 
+                    \b di contro, il secondo termine sposta quest’accento verso il divenire-ambiente.
+                book il-problema-del-tempo-vissuto
+                    page 86

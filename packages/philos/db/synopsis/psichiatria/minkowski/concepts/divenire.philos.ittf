@@ -1,0 +1,18 @@
+$group
+
+    namespace minkowski
+
+        concept divenire
+            title Divenire
+
+            + Nel suo carattere universale e impersonale, 
+                \b il divenire – secondo quanto scrive Minkowski – 
+            quote
+                + non conosce né soggetti né oggetti, 
+                    \b non ha parti distinte, né direzione, né inizio, né fine. 
+                    \b Non è reversibile né irreversibile.
+
+            $$ vedi continuità-del-divenire
+
+                
+

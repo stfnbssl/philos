@@ -1,0 +1,10 @@
+$group
+
+    namespace bergson
+
+        concept intuizione
+            quote
+                + la simpatia per cui ci si trasporta all’interno di un oggetto, 
+                    \b in modo da coincidere con ciò che esso ha di unico e, conseguentemente, di inesprimibile
+                article introduction-à-la-métaphysique
+                    page 45

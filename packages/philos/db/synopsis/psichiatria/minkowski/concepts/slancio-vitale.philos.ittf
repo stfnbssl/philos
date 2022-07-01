@@ -1,0 +1,48 @@
+$group
+
+    namespace minkowski
+
+        concept slancio-vitale
+            title Slancio vitale
+                fr élan vital
+                alias Slancio personale
+            
+            + La proiezione sul divenire della nozione o dell’attributo dimensionale della direzione
+            
+            quote
+                + [..] tale slancio orienta tutta la nostra vita verso l’avvenire
+                    \b e si manifesta all’esterno 
+                    \b non attraverso il movimento volontario, 
+                    \b ma con l’opera personale in tutte le sue sfumature; 
+                    \b spesso tende anche verso l’ideale.
+                article studio-psicologico-e-analisi-fenomenologica-di-un-caso-di-melancolia-schizofrenica
+                    page 17
+
+            quote
+                + Lo slancio vitale potrà sembrare irrazionale al nostro pensiero. 
+                    \b Attraverso la sua mediazione 
+                    \b abbiamo la pretesa di metterci in contatto immediato con una parte del tempo che ancora non esiste. 
+                    \b Eppure in questo caso 
+                    \b non si parla affatto né di parte né di opposizione tra ciò che esiste e ciò che non esiste, 
+                    \b ma ritroviamo unicamente questo dato fondamentale: 
+                    \b lo slancio vitale apre davanti a noi l’avvenire nella sua grandezza, 
+                    \b dona così un senso alla vita e pone il fondamento sopra il quale essa riposa nella sua interezza.
+
+            $$ vedi contatto-vitale-con-realtà
+
+            quote
+                + nella vita, tutto ciò che ha una direzione nel tempo ha slancio, 
+                    \b avanza, progredisce verso l’avvenire
+            
+            + e in questo senso lo slancio vitale 
+                \b – che non può essere ridotto a una semplice volizione 
+                \b oppure a una somma di volizioni che gradualmente si declinano nel tempo: 
+
+            + per sua natura esso ha infatti il carattere della generalità e dell’indefinitezza 
+                \b – arriva a porsi come strumento di creazione e di ordinamento dell’avvenire 
+                \b e più in generale come ciò che dà un senso alla vita e 
+                \b costituisce quanto vi è di più essenziale in essa. 
+                
+            quote
+                + [Ecco perché] nel divenire l’io si afferma in quanto personalità vivente
+                    \b [mediante la protensione e la realizzazione di qualche cosa]
